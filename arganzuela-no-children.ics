@@ -2219,20 +2219,6 @@ DESCRIPTION:Tres amigos\, amantes de la caza y que trabajan como obreros e
 LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Repostero y chef (VOSE)
-DTSTART;TZID=Europe/Madrid:20260223T193000
-DTEND;TZID=Europe/Madrid:20260223T211500
-UID:eed891929fd4f54d6a771ce37d6fb429642b1b6f61468a1e67960f05b21a72cd
-CATEGORIES:cinema
-DESCRIPTION:Desde muy pequeño\, Yazid tiene una única y gran pasión: la
-  pastelería. Yazid\, que ha crecido en familias y centros de acogida\, se
-  ha forjado un carácter indomable. Para tener éxito en el elitista mundo
-  de la pastelería\, Yazid va a tener que superar sus traumas y cambiar de
-  actitud...\n\nhttps://cinesembajadores.es/pelicula/repostero-y-chef-vose/
- ?ciudad=madrid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Sesión de cortometrajes Documental + Animación – Goyas 2026
 DTSTART;TZID=Europe/Madrid:20260223T193000
 DTEND;TZID=Europe/Madrid:20260223T210000
@@ -2254,6 +2240,20 @@ DESCRIPTION:Los Cines Embajadores se suman al apoyo del cine español y al
  bajadores.es/pelicula/sesion-de-cortometrajes-documental-animacion-goyas-2
  026/?ciudad=madrid
 LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Repostero y chef (VOSE)
+DTSTART;TZID=Europe/Madrid:20260223T193000
+DTEND;TZID=Europe/Madrid:20260223T211500
+UID:eed891929fd4f54d6a771ce37d6fb429642b1b6f61468a1e67960f05b21a72cd
+CATEGORIES:cinema
+DESCRIPTION:Desde muy pequeño\, Yazid tiene una única y gran pasión: la
+  pastelería. Yazid\, que ha crecido en familias y centros de acogida\, se
+  ha forjado un carácter indomable. Para tener éxito en el elitista mundo
+  de la pastelería\, Yazid va a tener que superar sus traumas y cambiar de
+  actitud...\n\nhttps://cinesembajadores.es/pelicula/repostero-y-chef-vose/
+ ?ciudad=madrid
+LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sesión de cortometrajes Ficción – Goya 2026

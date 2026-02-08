@@ -1,0 +1,160 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>eirene feeds</title>
+  <style>
+    :root {
+      --bg: #f4f1e9;
+      --text: #242424;
+      --muted: #646157;
+      --card: #fbf9f4;
+      --border: #e6e0d4;
+      --accent: #5c6848;
+      --hover: #f8f6f0;
+      --space-1: 0.35rem;
+      --space-2: 0.6rem;
+      --space-3: 0.85rem;
+      --space-4: 1.5rem;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--text);
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Inter", Roboto, sans-serif;
+      line-height: 1.6;
+    }
+
+    .container {
+      max-width: 940px;
+      margin: 0 auto;
+      padding: 2.25rem 1.25rem 2.5rem;
+    }
+
+    .site-header { margin-bottom: var(--space-4); }
+
+    .wordmark {
+      display: block;
+      width: min(220px, 60vw);
+      height: auto;
+    }
+
+    .tagline {
+      margin: var(--space-1) 0 0;
+      color: var(--muted);
+      font-size: 0.98rem;
+    }
+
+    .feed-list {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: var(--space-1);
+    }
+
+    @media (min-width: 820px) {
+      .feed-list { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    }
+
+    .feed-item {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: var(--space-3);
+      transition: background-color 140ms ease, border-color 140ms ease;
+    }
+
+    .feed-item:hover {
+      background: var(--hover);
+      border-color: #e0dacd;
+    }
+
+    .feed-top {
+      display: flex;
+      align-items: baseline;
+      justify-content: space-between;
+      gap: var(--space-2);
+    }
+
+    .feed-title {
+      margin: 0;
+      font-size: 1rem;
+      font-weight: 580;
+      line-height: 1.35;
+    }
+
+    .feed-link {
+      color: var(--accent);
+      text-decoration: underline;
+      text-underline-offset: 0.15rem;
+      text-decoration-thickness: 0.8px;
+      white-space: nowrap;
+      font-size: 0.92rem;
+      font-weight: 500;
+    }
+
+    .feed-link:hover { text-decoration-thickness: 2px; }
+
+    .feed-link:focus-visible {
+      outline: 3px solid rgba(94, 107, 71, 0.35);
+      outline-offset: 2px;
+      border-radius: 2px;
+    }
+
+    .feed-meta,
+    .feed-categories {
+      margin-top: var(--space-2);
+      color: var(--muted);
+      font-size: 0.92rem;
+      font-variant-numeric: tabular-nums;
+    }
+
+    .failed {
+      margin-top: var(--space-4);
+      padding: var(--space-3);
+      border-radius: 10px;
+      border: 1px solid var(--border);
+      background: #f6f3eb;
+    }
+
+    .failed h2 { margin: 0; font-size: 0.97rem; }
+
+    .failed ul {
+      margin: 0.4rem 0 0;
+      padding-left: 1.05rem;
+      color: var(--muted);
+      font-size: 0.9rem;
+    }
+
+    .site-footer {
+      margin-top: var(--space-4);
+      color: var(--muted);
+      font-size: 0.8rem;
+      font-variant-numeric: tabular-nums;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <img class="wordmark" src="logo.png" alt="eirene">
+      <p class="tagline">An agenda of local cultural life</p>
+    </header>
+
+    <main>
+      <section class="feed-list" aria-label="Available feeds">
+        <article class="feed-item"><div class="feed-top"><h2 class="feed-title">arganzuela-all</h2><a class="feed-link" href="arganzuela.ics">Open iCal</a></div><div class="feed-meta">154 events &middot; Feb 8-26</div><div class="feed-categories">Cinema 138, Children 6, Other 6, Music 3, Exhibition 1</div></article>
+<article class="feed-item"><div class="feed-top"><h2 class="feed-title">arganzuela-cinema</h2><a class="feed-link" href="arganzuela-cinema.ics">Open iCal</a></div><div class="feed-meta">138 events &middot; Feb 8-26</div><div class="feed-categories">Cinema 138</div></article>
+<article class="feed-item"><div class="feed-top"><h2 class="feed-title">matadero-only</h2><a class="feed-link" href="matadero.ics">Open iCal</a></div><div class="feed-meta">43 events &middot; Feb 8-22</div><div class="feed-categories">Cinema 27, Children 6, Other 6, Music 3, Exhibition 1</div></article>
+<article class="feed-item"><div class="feed-top"><h2 class="feed-title">arganzuela-no-children</h2><a class="feed-link" href="arganzuela-no-children.ics">Open iCal</a></div><div class="feed-meta">148 events &middot; Feb 8-26</div><div class="feed-categories">Cinema 138, Other 6, Music 3, Exhibition 1</div></article>
+      </section>
+      
+    </main>
+
+    <footer class="site-footer">Updated: 2026-02-08T11:52:45.468399+01:00 (Europe/Madrid)</footer>
+  </div>
+</body>
+</html>
