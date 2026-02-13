@@ -269,6 +269,18 @@ DESCRIPTION:El ciclo expositivo recorre la historia y actualidad de la mis
 LOCATION:Madrid - Lisboa\, 4\, Madrid\, Madrid\, 28008
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Del alif a la zain: arte caligráfico en movimiento
+DTSTART;TZID=Europe/Madrid:20250925T000000
+DTEND;TZID=Europe/Madrid:20260215T000000
+UID:39b5a964c7d7a898a7f8791c4fc4ce1cbdff74f6dd3567aa8903f5a6912ba4db
+CATEGORIES:exhibition
+DESCRIPTION:Exposición dedicada a la caligrafía árabe de vanguardia que
+  reúne la obra de diez artistas de la región (Casa Árabe. 25 sept a 15 
+ feb).\n\nhttps://casaarabe.es/eventos-arabes/show/del-alif-a-la-zain-arte-
+ caligrafico-en-movimiento
+LOCATION:Casa Árabe - de Alcalá\, 62\, Madrid\, 28009
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ángel Cabrera\, el naturalista infinito
 DTSTART;TZID=Europe/Madrid:20250925T000000
 DTEND;TZID=Europe/Madrid:20260412T000000
@@ -575,18 +587,6 @@ LOCATION:Centro de Arte Dos de Mayo (CA2M) / Móstoles - de la Constituci
  ón \, 23\, (Móstoles)\, Móstoles\, 28931
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Legendaria II: Mitos contados e ilustrados
-DTSTART;TZID=Europe/Madrid:20251114T000000
-DTEND;TZID=Europe/Madrid:20260301T000000
-UID:c57e13670cb9d85c5eb340744f41c00ba48f481ce4de829a52ed945fb2822f78
-CATEGORIES:exhibition
-DESCRIPTION:Relatos e ilustraciones que revisitan la mitología española 
- en un recorrido visual único (Casa del Lector. Hasta 1 marzo 2026).\n\nht
- tps://casalector.fundaciongsr.org/exposicion-legendaria-ii-mitos-contados-
- e-ilustrados/
-LOCATION:Casa del Lector (Matadero) - de la Chopera\, 14\, Madrid\, 28045
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Pablo Reinoso. La vida se mueve
 DTSTART;TZID=Europe/Madrid:20251114T000000
 DTEND;TZID=Europe/Madrid:20260315T000000
@@ -613,10 +613,10 @@ LOCATION:Museo Nacional Thyssen-Bornemisza - del Prado\, 8\, Madrid\, 2801
  4
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Diálogos de escultura ibérica. El Museo del Louvre en el MAN
+SUMMARY:Iberian sculpture dialogues. The Louvre Museum at the MAN
 DTSTART;TZID=Europe/Madrid:20251118T000000
 DTEND;TZID=Europe/Madrid:20260510T000000
-UID:7db716925f44d4b7824b31d164202fdebbb87e49424bc8982114555753ec74c0
+UID:9c4c57170228f60c1f292ee09682fbe843eefe2f86a047279cd2c62bb0f73f6f
 CATEGORIES:exhibition
 DESCRIPTION:Obras maestras del Museo del Louvre dialogan por primera vez c
  on la escultura ibérica del MAN (Museo Arqueológico Nacional. Hasta 10 m
@@ -776,19 +776,6 @@ LOCATION:Museo Nacional de Ciencias Naturales - de José Gutierrez Abascal
  \, 2\, Madrid\, 28006
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Let's PLay. Juguemos en la colección
-DTSTART;TZID=Europe/Madrid:20251127T000000
-DTEND;TZID=Europe/Madrid:20260308T000000
-UID:8af689c2443a9cd286b3ea9af61e4fd9bba98871e4f39c16f4434a1e989ff0ae
-CATEGORIES:exhibition
-DESCRIPTION:Varias intervenciones artísticas invitan a reinterpretar la c
- olección permanente del museo y su narrativa\, dentro de la programación
-  de BIENALSUR 2025 (Museo Nacional de Artes Decorativas.\n\nhttps://bienal
- sur.org/es/single_agenda/714
-LOCATION:Museo Nacional de Artes Decorativas - de Montalbán\, 12\, Madrid
- \, 28014
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Moldear el mundo: del barro y las mujeres
 DTSTART;TZID=Europe/Madrid:20251127T000000
 DTEND;TZID=Europe/Madrid:20260220T000000
@@ -812,6 +799,18 @@ DESCRIPTION:Exposición dedicada a la pintura cuzqueña\, un recorrido por
  7 nov a 19 abr 2026).\n\nhttps://www.cultura.gob.es/museodeamerica/exposic
  iones/exposiciones-temporales/2025-pintura-cuzquenha.html
 LOCATION:Museo de América - de los Reyes Católicos\, 6\, Madrid\, 28040
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Imminence. Siro Cugusi
+DTSTART;TZID=Europe/Madrid:20251128T000000
+DTEND;TZID=Europe/Madrid:20260213T000000
+UID:568791fcb7ae57704bd418bc23368a03856b0c575ef45f5dc411f69594c8717d
+CATEGORIES:exhibition
+DESCRIPTION:Selección de pinturas en las que descubrir el mundo alternati
+ vo e imaginativo del artista contemporáneo italiano (Bowman Hal. SOLO CSV
+ . Hasta 13 febrero).\n\nhttps://www.bowmanhal.com/exhibitions/7-siro-cogus
+ i-imminence/
+LOCATION:SOLO CSV - de San Vicente\, 36\, Madrid\, 28008
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:“El Prado en femenino III”. Promotoras artísticas de las cole
@@ -917,7 +916,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:De Monet a Kandinski. Arte revolucionario
 DTSTART;TZID=Europe/Madrid:20251205T000000
-DTEND;TZID=Europe/Madrid:20260215T000000
+DTEND;TZID=Europe/Madrid:20260330T000000
 UID:f7333d0a5233605941b71ed80b356531d5f74eedbc2cf88377e1cb18970f6da4
 CATEGORIES:exhibition
 DESCRIPTION:Experiencia que reúne los movimientos artísticos más inf
@@ -1181,20 +1180,6 @@ DESCRIPTION:Exposición organizada por Renfe que muestra un viaje por 85 a
  ños de memoria visual (Museo del Ferrocarril. Hasta 31 mayo).\n\nhttps://
  www.museodelferrocarril.org/exposiciones/viajar-en-el-tiempo/
 LOCATION:Museo del Ferrocarril - de las Delicias\, 61\, Madrid\, 28045
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Este libro es mío... la heráldica como elemento distintivo en la
-  producción del libro antiguo
-DTSTART;TZID=Europe/Madrid:20260108T000000
-DTEND;TZID=Europe/Madrid:20260220T000000
-UID:47b39e561807a171f999bfe9336eba4aab85a76ff74a89808a96eed73ab57176
-CATEGORIES:exhibition
-DESCRIPTION:Exposición que explora cómo la heráldica se empleaba en la
- s portadas y encuadernaciones de libros antiguos para indicar la propiedad
-  (Biblioteca Histórica UCM Marqués de Valdecilla.\n\nhttps://biblioteca
- .ucm.es/historica/este-libro-es-mio-la-heraldica
-LOCATION:Biblioteca Histórica UCM Marqués de Valdecilla - del Noviciado\
- , 3\, Madrid\, 28015
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fardo. Andrea Canepa
@@ -1688,9 +1673,9 @@ DTSTART;TZID=Europe/Madrid:20260213T000000
 DTEND;TZID=Europe/Madrid:20260331T000000
 UID:26e86bb388fcccfae92a21b664c6a1b96854d710905a04677287d6f7186addc6
 CATEGORIES:exhibition
-DESCRIPTION:Exposición inmersiva en la que adentrarse en la fascinante er
- a de los dinosaurios (Nomad Museo Inmersivo. 13 feb a 31 mar).\n\nhttps://
- www.nomadmuseo.es/
+DESCRIPTION:Exposición inmersiva que permite adentrarse en la fascinante 
+ era de los dinosaurios (Nomad Museo Inmersivo. Desde 13 feb).\n\nhttps://w
+ ww.nomadmuseo.es/
 LOCATION:Nomad Museo Inmersivo - Gran Vía\, 78\, Madrid\, 28013
 END:VEVENT
 BEGIN:VEVENT
@@ -1740,6 +1725,18 @@ DESCRIPTION:Muestra que reúne esculturas de Andrés Guardia creadas a par
  cas llenas de personalidad (Centro Cultural Gali\n\nhttps://www.recycledro
  bot.es/cuentame.html
 LOCATION:Centro Cultural Galileo - de Galileo\, 39\, Madrid\, 28015
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eduardo Chillida. Soñar el espacio
+DTSTART;TZID=Europe/Madrid:20260217T000000
+DTEND;TZID=Europe/Madrid:20260621T000000
+UID:d4d58a1897903bda75126767d24b49d29b470b1abc53ebe4965ab78b4330866c
+CATEGORIES:exhibition
+DESCRIPTION:Oportunidad única para admirar las obras más importantes de 
+ la trayectoria del artista vasco (Conde Duque. 17 feb a 21 jun).\n\nhttps:
+ //www.fundacionibercaja.es/actividades/exposiciones/eduardo-chillida-sonar
+ -en-el-espacio-madrid/
+LOCATION:Conde Duque - del Conde Duque\, 11\, Madrid\, 28015
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hammershøi. El ojo que escucha
@@ -1803,17 +1800,6 @@ DESCRIPTION:El artista José María Sicilia instala obras creadas ex profe
  so en las estancias más emblemáticas del palacio (Palacio de Liria. 19 f
  eb a 31 may).\n\nhttps://www.palaciodeliria.com/
 LOCATION:Palacio de Liria - de la Princesa\, 20\, Madrid\, 28008
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Visitas estudio Coco Dávez
-DTSTART;TZID=Europe/Madrid:20260221T000000
-DTEND;TZID=Europe/Madrid:20260226T000000
-UID:0a8af9e4c5fa7d43fb82b992bdfc2289c97c8da7c1b53245af68f26c55ded170
-CATEGORIES:exhibition
-DESCRIPTION:La artista celebra el décimo aniversario de Faceless abriendo
-  las puertas de su estudio en Carabanchel (Caranbanchel. 10\, 24 y 29 ene\
- , 7\, 21 y 26 feb\, 5 y 7 mar).\n\nhttps://shop.cocodavez.com/
-LOCATION:Madrid - Caranbanchel\, Madrid\, Madrid\, 28047
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Irma Álvarez-Laviada. Dentro y fuera del marco
@@ -1904,18 +1890,6 @@ LOCATION:Sala Canal de Isabel II de la Comunidad de Madrid - de Santa Engr
  acia\, 125\, Madrid\, 28003
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:La lechuza de Minerva
-DTSTART;TZID=Europe/Madrid:20260304T000000
-DTEND;TZID=Europe/Madrid:20260510T000000
-UID:5751bb495e916d3fa72c7683491798d0cc77c5488c0c05ff684d197aabb81dd5
-CATEGORIES:exhibition
-DESCRIPTION:Varios artistas\, colectivos y activistas participan en divers
- as instalaciones que invitan a repensar el papel y la potencia del arte e
- n la ciudad\, en las instituciones y en la vida colectiva (\n\nhttps://www
- .circulobellasartes.com/exposiciones/la-lechuza-de-minerva/
-LOCATION:Círculo de Bellas Artes - de Alcalá\, 42\, Madrid\, 28014
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Petrotuning
 DTSTART;TZID=Europe/Madrid:20260304T000000
 DTEND;TZID=Europe/Madrid:20260315T000000
@@ -1938,5 +1912,16 @@ DESCRIPTION:La feria de materiales de la Tierra expone una amplia varie
  expominerales
 LOCATION:Escuela Superior de Ingenieros de Minas - Rios Rosas\, 21\, Madri
  d\, Madrid\, 28003
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Visitas estudio Coco Dávez
+DTSTART;TZID=Europe/Madrid:20260307T000000
+DTEND;TZID=Europe/Madrid:20260307T000000
+UID:cc95f4e8d215be8802f2bf6b426b6437ef7a39196e6766207cf2f143fa513a85
+CATEGORIES:exhibition
+DESCRIPTION:La artista celebra el décimo aniversario de Faceless abriendo
+  las puertas de su estudio en Carabanchel (Caranbanchel. Hasta 23 mayo).\n
+ \nhttps://shop.cocodavez.com/
+LOCATION:Madrid - Caranbanchel\, Madrid\, Madrid\, 28047
 END:VEVENT
 END:VCALENDAR

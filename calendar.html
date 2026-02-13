@@ -1,0 +1,859 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>eirene calendar</title>
+  <style>
+    :root {
+      --bg: #f5efe3;
+      --paper: #fffaf1;
+      --panel: #fdf8ee;
+      --ink: #1f1f1b;
+      --muted: #6a665d;
+      --line: #e3dac6;
+      --accent: #356859;
+      --accent-soft: #d9ebe5;
+      --chip: #efe8d8;
+      --cat-cinema: #325c9d;
+      --cat-exhibition: #8b5a2b;
+      --cat-theater: #7d3c6d;
+      --cat-music: #1c7a5b;
+      --cat-children: #d17f1f;
+      --cat-talk: #2f6a63;
+      --cat-walk: #4f7f2a;
+      --cat-other: #6c6c6c;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      font-family: "Georgia", "Times New Roman", serif;
+      color: var(--ink);
+      background:
+        radial-gradient(circle at 85% -10%, #d8ead6 0%, transparent 35%),
+        radial-gradient(circle at -10% 110%, #f0d8b6 0%, transparent 30%),
+        var(--bg);
+      min-height: 100vh;
+    }
+
+    .wrap {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 1.2rem 1rem 2rem;
+    }
+
+    .top {
+      display: flex;
+      justify-content: space-between;
+      align-items: end;
+      gap: 1rem;
+      margin-bottom: 1rem;
+    }
+
+    h1 { margin: 0; font-size: 1.7rem; }
+    .sub { margin: 0.3rem 0 0; color: var(--muted); font-size: 0.95rem; }
+
+    .home-link {
+      color: var(--accent);
+      font-size: 0.95rem;
+      text-underline-offset: 0.15rem;
+    }
+
+    .filters {
+      border: 1px solid var(--line);
+      background: var(--paper);
+      border-radius: 12px;
+      padding: 0.9rem;
+      margin-bottom: 1rem;
+      display: grid;
+      gap: 0.8rem;
+    }
+
+    .filters h2 {
+      margin: 0;
+      font-size: 1rem;
+    }
+
+    .filter-row {
+      display: grid;
+      gap: 0.7rem;
+    }
+
+    .date-row {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+      gap: 0.7rem;
+    }
+
+    .input-label {
+      display: grid;
+      gap: 0.25rem;
+      font-size: 0.88rem;
+      color: var(--muted);
+    }
+
+    input[type="date"] {
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      padding: 0.42rem 0.5rem;
+      background: #fff;
+      font: inherit;
+      color: var(--ink);
+    }
+
+    .checks {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.45rem 0.6rem;
+    }
+
+    .check-actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.45rem;
+    }
+
+    .check {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.35rem;
+      border: 1px solid var(--line);
+      background: #fff;
+      border-radius: 999px;
+      padding: 0.2rem 0.6rem;
+      font-size: 0.86rem;
+      white-space: nowrap;
+    }
+
+    .calendar-shell {
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      overflow: hidden;
+      background: var(--paper);
+    }
+
+    .cal-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 0.75rem 0.8rem;
+      border-bottom: 1px solid var(--line);
+      background: var(--panel);
+    }
+
+    .month-title { margin: 0; font-size: 1.1rem; }
+
+    .cal-actions { display: flex; gap: 0.45rem; }
+
+    .btn {
+      border: 1px solid var(--line);
+      background: #fff;
+      color: var(--ink);
+      border-radius: 8px;
+      padding: 0.32rem 0.56rem;
+      font: inherit;
+      cursor: pointer;
+    }
+
+    .btn:hover { background: #f8f1e4; }
+    .btn.active { background: var(--accent-soft); border-color: #bdd9cd; }
+
+    .weekdays,
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(7, minmax(0, 1fr));
+    }
+
+    .weekdays div {
+      padding: 0.4rem;
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--muted);
+      border-bottom: 1px solid var(--line);
+    }
+
+    .cell {
+      min-height: 115px;
+      border-right: 1px solid var(--line);
+      border-bottom: 1px solid var(--line);
+      padding: 0.36rem;
+      background: #fff;
+    }
+
+    .cell:nth-child(7n) { border-right: 0; }
+
+    .cell.out { background: #faf6ee; }
+
+    .cell.past {
+      background: #f3f1ec;
+    }
+
+    .cell.past .day,
+    .cell.past .more {
+      color: #948f84;
+    }
+
+    .cell.past .event {
+      background: #ece9e1;
+      border-color: #d9d4c8;
+      color: #5f5a52;
+    }
+
+    .day {
+      font-size: 0.82rem;
+      color: var(--muted);
+      margin-bottom: 0.25rem;
+    }
+
+    .event {
+      display: block;
+      width: 100%;
+      background: var(--chip);
+      border: 1px solid #e4dbc8;
+      border-left: 3px solid var(--accent);
+      border-radius: 8px;
+      color: var(--ink);
+      text-decoration: none;
+      text-align: left;
+      font-size: 0.75rem;
+      line-height: 1.25;
+      padding: 0.26rem 0.32rem;
+      margin-top: 0.25rem;
+      font: inherit;
+      cursor: pointer;
+    }
+
+    .event:hover { background: var(--accent-soft); }
+
+    .event.cat-cinema,
+    .list-event.cat-cinema { border-left-color: var(--cat-cinema); }
+
+    .event.cat-exhibition,
+    .list-event.cat-exhibition { border-left-color: var(--cat-exhibition); }
+
+    .event.cat-theater,
+    .list-event.cat-theater { border-left-color: var(--cat-theater); }
+
+    .event.cat-music,
+    .list-event.cat-music { border-left-color: var(--cat-music); }
+
+    .event.cat-children,
+    .list-event.cat-children { border-left-color: var(--cat-children); }
+
+    .event.cat-talk,
+    .list-event.cat-talk { border-left-color: var(--cat-talk); }
+
+    .event.cat-walk,
+    .list-event.cat-walk { border-left-color: var(--cat-walk); }
+
+    .event.cat-other,
+    .list-event.cat-other { border-left-color: var(--cat-other); }
+
+    .more { font-size: 0.75rem; color: var(--muted); margin-top: 0.2rem; }
+
+    .hidden { display: none; }
+
+    .list-view {
+      margin-top: 0.9rem;
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      background: var(--paper);
+      overflow: hidden;
+    }
+
+    .list-day {
+      border-top: 1px solid var(--line);
+      padding: 0.6rem 0.8rem;
+    }
+
+    .list-day:first-child { border-top: 0; }
+
+    .list-date {
+      margin: 0 0 0.4rem;
+      color: var(--muted);
+      font-size: 0.85rem;
+    }
+
+    .list-event {
+      display: block;
+      width: 100%;
+      padding: 0.45rem 0.5rem;
+      margin-top: 0.32rem;
+      border: 1px solid var(--line);
+      border-left: 3px solid var(--accent);
+      border-radius: 8px;
+      text-decoration: none;
+      color: var(--ink);
+      background: #fff;
+      text-align: left;
+      font: inherit;
+      cursor: pointer;
+    }
+
+    .list-event:hover { background: var(--accent-soft); }
+
+    .list-meta {
+      display: block;
+      margin-top: 0.18rem;
+      color: var(--muted);
+      font-size: 0.78rem;
+    }
+
+    .footer-note {
+      margin-top: 0.65rem;
+      color: var(--muted);
+      font-size: 0.84rem;
+    }
+
+    .modal {
+      position: fixed;
+      inset: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 1rem;
+      z-index: 1000;
+    }
+
+    .modal.hidden {
+      display: none;
+    }
+
+    .modal-backdrop {
+      position: absolute;
+      inset: 0;
+      background: rgba(19, 21, 18, 0.55);
+    }
+
+    .modal-card {
+      position: relative;
+      width: min(680px, 100%);
+      max-height: 90vh;
+      overflow: auto;
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      background: var(--paper);
+      box-shadow: 0 12px 34px rgba(0, 0, 0, 0.22);
+      padding: 1rem;
+    }
+
+    .modal-title {
+      margin: 0 2rem 0.5rem 0;
+      font-size: 1.2rem;
+      line-height: 1.3;
+    }
+
+    .modal-close {
+      position: absolute;
+      top: 0.65rem;
+      right: 0.65rem;
+      width: 1.9rem;
+      height: 1.9rem;
+      border-radius: 999px;
+      border: 1px solid var(--line);
+      background: #fff;
+      cursor: pointer;
+      font-size: 1rem;
+      line-height: 1;
+    }
+
+    .modal-grid {
+      display: grid;
+      grid-template-columns: minmax(110px, auto) 1fr;
+      gap: 0.35rem 0.8rem;
+      font-size: 0.9rem;
+    }
+
+    .modal-label {
+      color: var(--muted);
+    }
+
+    .modal-desc {
+      margin-top: 0.9rem;
+      font-size: 0.9rem;
+      line-height: 1.45;
+      white-space: pre-wrap;
+    }
+
+    .modal-link {
+      margin-top: 1rem;
+      display: inline-block;
+      color: var(--accent);
+      text-underline-offset: 0.15rem;
+    }
+
+    @media (max-width: 780px) {
+      .cell { min-height: 92px; }
+      .event { font-size: 0.68rem; }
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <header class="top">
+      <div>
+        <h1>Event calendar</h1>
+        <p class="sub">Filter by source, type, and date range.</p>
+      </div>
+      <a class="home-link" href="index.html">Back to feed index</a>
+    </header>
+
+    <section class="filters" aria-label="Calendar filters">
+      <h2>Filters</h2>
+      <div class="filter-row date-row">
+        <label class="input-label" for="date-start">From date
+          <input id="date-start" type="date">
+        </label>
+        <label class="input-label" for="date-end">To date
+          <input id="date-end" type="date">
+        </label>
+      </div>
+      <div class="filter-row">
+        <strong>Sources</strong>
+        <div class="check-actions">
+          <button id="source-all" class="btn" type="button">Select all</button>
+          <button id="source-none" class="btn" type="button">Clear all</button>
+        </div>
+        <div id="source-filters" class="checks"></div>
+      </div>
+      <div class="filter-row">
+        <strong>Event types</strong>
+        <div class="check-actions">
+          <button id="category-all" class="btn" type="button">Select all</button>
+          <button id="category-none" class="btn" type="button">Clear all</button>
+        </div>
+        <div id="category-filters" class="checks"></div>
+      </div>
+    </section>
+
+    <section id="calendar-shell" class="calendar-shell" aria-label="Calendar view">
+      <div class="cal-header">
+        <h2 id="month-title" class="month-title"></h2>
+        <div class="cal-actions">
+          <button id="view-calendar" class="btn active" type="button">Calendar</button>
+          <button id="view-list" class="btn" type="button">List</button>
+          <button id="prev-month" class="btn" type="button">Prev</button>
+          <button id="today-month" class="btn" type="button">Today</button>
+          <button id="next-month" class="btn" type="button">Next</button>
+        </div>
+      </div>
+      <div id="calendar-body">
+        <div class="weekdays">
+          <div>Mon</div><div>Tue</div><div>Wed</div><div>Thu</div><div>Fri</div><div>Sat</div><div>Sun</div>
+        </div>
+        <div id="calendar-grid" class="grid"></div>
+      </div>
+    </section>
+    <section id="list-view" class="list-view hidden" aria-label="List view"></section>
+    <p id="result-note" class="footer-note"></p>
+  </div>
+
+  <div id="event-modal" class="modal hidden" aria-hidden="true" role="dialog" aria-modal="true">
+    <div id="modal-backdrop" class="modal-backdrop"></div>
+    <div class="modal-card">
+      <button id="modal-close" class="modal-close" type="button" aria-label="Close">x</button>
+      <div id="modal-content"></div>
+    </div>
+  </div>
+
+  <script>
+    const DATA_URL = "calendar-events.json";
+
+    const sourceRoot = document.getElementById("source-filters");
+    const categoryRoot = document.getElementById("category-filters");
+    const dateStartInput = document.getElementById("date-start");
+    const dateEndInput = document.getElementById("date-end");
+    const monthTitle = document.getElementById("month-title");
+    const grid = document.getElementById("calendar-grid");
+    const calendarBody = document.getElementById("calendar-body");
+    const listView = document.getElementById("list-view");
+    const viewCalendarBtn = document.getElementById("view-calendar");
+    const viewListBtn = document.getElementById("view-list");
+    const note = document.getElementById("result-note");
+    const eventModal = document.getElementById("event-modal");
+    const modalContent = document.getElementById("modal-content");
+    const modalBackdrop = document.getElementById("modal-backdrop");
+    const modalClose = document.getElementById("modal-close");
+
+    let events = [];
+    let sources = [];
+    let categories = [];
+    let eventsById = new Map();
+
+    const now = new Date();
+    let viewYear = now.getFullYear();
+    let viewMonth = now.getMonth();
+    let viewMode = "calendar";
+    const todayYear = now.getFullYear();
+    const todayMonth = String(now.getMonth() + 1).padStart(2, "0");
+    const todayDay = String(now.getDate()).padStart(2, "0");
+    const todayDate = `${todayYear}-${todayMonth}-${todayDay}`;
+
+    function escapeHtml(value) {
+      return String(value)
+        .replaceAll("&", "&amp;")
+        .replaceAll("<", "&lt;")
+        .replaceAll(">", "&gt;")
+        .replaceAll('"', "&quot;")
+        .replaceAll("'", "&#39;");
+    }
+
+    function categoryClass(category) {
+      return `cat-${String(category).toLowerCase().replaceAll(/[^a-z0-9]+/g, "-")}`;
+    }
+
+    function renderChecks(root, name, values) {
+      root.innerHTML = values
+        .map((value) => {
+          const safeValue = escapeHtml(value);
+          return `<label class="check"><input type="checkbox" name="${name}" ` +
+            `value="${safeValue}" checked> ${safeValue}</label>`;
+        })
+        .join("");
+    }
+
+    function checkedValues(name) {
+      return new Set(
+        [...document.querySelectorAll(`input[name="${name}"]:checked`)].map((el) => el.value)
+      );
+    }
+
+    function setChecks(name, checked) {
+      for (const input of document.querySelectorAll(`input[name="${name}"]`)) {
+        input.checked = checked;
+      }
+      renderAll();
+    }
+
+    function addDays(dateText, days) {
+      const [y, m, d] = dateText.split("-").map((item) => Number(item));
+      const date = new Date(Date.UTC(y, m - 1, d + days));
+      return date.toISOString().slice(0, 10);
+    }
+
+    function filteredEvents() {
+      const selectedSources = checkedValues("source");
+      const selectedCategories = checkedValues("category");
+      const fromDate = dateStartInput.value;
+      const toDate = dateEndInput.value;
+
+      return events.filter((event) => {
+        if (!selectedSources.has(event.source)) {
+          return false;
+        }
+        if (!selectedCategories.has(event.category)) {
+          return false;
+        }
+        if (fromDate && event.end_date < fromDate) {
+          return false;
+        }
+        if (toDate && event.start_date > toDate) {
+          return false;
+        }
+        return true;
+      });
+    }
+
+    function eventsByDay(activeEvents) {
+      const perDay = new Map();
+      for (const event of activeEvents) {
+        let cursor = event.start_date;
+        while (cursor <= event.end_date) {
+          if (!perDay.has(cursor)) {
+            perDay.set(cursor, []);
+          }
+          perDay.get(cursor).push(event);
+          cursor = addDays(cursor, 1);
+        }
+      }
+      for (const [, dayEvents] of perDay) {
+        dayEvents.sort((a, b) => a.time.localeCompare(b.time) || a.title.localeCompare(b.title));
+      }
+      return perDay;
+    }
+
+    function pad2(number) {
+      return String(number).padStart(2, "0");
+    }
+
+    function ymDate(year, month, day) {
+      const date = new Date(year, month, day);
+      return `${date.getFullYear()}-${pad2(date.getMonth() + 1)}-${pad2(date.getDate())}`;
+    }
+
+    function renderCalendar(activeEvents) {
+      const perDay = eventsByDay(activeEvents);
+
+      const first = new Date(viewYear, viewMonth, 1);
+      const monthName = first.toLocaleString("en", { month: "long", year: "numeric" });
+      monthTitle.textContent = monthName;
+
+      const firstWeekday = (first.getDay() + 6) % 7;
+      const monthDays = new Date(viewYear, viewMonth + 1, 0).getDate();
+      const prevMonthDays = new Date(viewYear, viewMonth, 0).getDate();
+
+      const cells = [];
+
+      for (let i = 0; i < firstWeekday; i += 1) {
+        const day = prevMonthDays - firstWeekday + i + 1;
+        const dateText = ymDate(viewYear, viewMonth - 1, day);
+        cells.push(renderCell(day, dateText, perDay.get(dateText) || [], true));
+      }
+
+      for (let day = 1; day <= monthDays; day += 1) {
+        const dateText = ymDate(viewYear, viewMonth, day);
+        cells.push(renderCell(day, dateText, perDay.get(dateText) || [], false));
+      }
+
+      while (cells.length % 7 !== 0) {
+        const day = cells.length % 7;
+        const dateText = ymDate(viewYear, viewMonth + 1, day + 1);
+        cells.push(renderCell(day + 1, dateText, perDay.get(dateText) || [], true));
+      }
+
+      grid.innerHTML = cells.join("");
+    }
+
+    function renderList(activeEvents) {
+      const sorted = [...activeEvents].sort((a, b) => {
+        return (
+          a.start_date.localeCompare(b.start_date)
+          || a.time.localeCompare(b.time)
+          || a.title.localeCompare(b.title)
+        );
+      });
+      const byDate = new Map();
+      for (const event of sorted) {
+        if (!byDate.has(event.start_date)) {
+          byDate.set(event.start_date, []);
+        }
+        byDate.get(event.start_date).push(event);
+      }
+      const blocks = [];
+      for (const [date, dateEvents] of byDate) {
+        const dateLabel = new Date(`${date}T12:00:00`).toLocaleDateString("en", {
+          weekday: "short",
+          month: "short",
+          day: "numeric",
+          year: "numeric",
+        });
+        const items = dateEvents
+          .map((event) => {
+            const safeId = escapeHtml(event.id);
+            const safeTitle = escapeHtml(event.title);
+            const safeMeta = escapeHtml(`${event.time} · ${event.source} · ${event.category}`);
+            const categoryCssClass = categoryClass(event.category);
+            return `<button class="list-event ${categoryCssClass}" type="button" `
+              + `data-event-id="${safeId}">`
+              + `${safeTitle}<span class="list-meta">${safeMeta}</span></button>`;
+          })
+          .join("");
+        blocks.push(
+          `<div class="list-day"><p class="list-date">${escapeHtml(dateLabel)}</p>${items}</div>`
+        );
+      }
+      listView.innerHTML = blocks.join("");
+    }
+
+    function renderAll() {
+      const activeEvents = filteredEvents();
+      note.textContent = `${activeEvents.length} events match current filters.`;
+      renderCalendar(activeEvents);
+      renderList(activeEvents);
+    }
+
+    function renderCell(dayNumber, dateText, dayEvents, outsideMonth) {
+      const visible = dayEvents.slice(0, 3)
+        .map((event) => {
+          const safeId = escapeHtml(event.id);
+          const safeLabel = escapeHtml(`${event.time} ${event.title}`);
+          const categoryCssClass = categoryClass(event.category);
+          return `<button class="event ${categoryCssClass}" type="button" `
+            + `data-event-id="${safeId}">${safeLabel}</button>`;
+        })
+        .join("");
+
+      const hiddenCount = dayEvents.length - Math.min(dayEvents.length, 3);
+      const more = hiddenCount > 0 ? `<div class="more">+${hiddenCount} more</div>` : "";
+      const pastClass = dateText < todayDate ? " past" : "";
+      const className = outsideMonth ? `cell out${pastClass}` : `cell${pastClass}`;
+      return `<div class="${className}" data-date="${dateText}">` +
+        `<div class="day">${dayNumber}</div>${visible}${more}</div>`;
+    }
+
+    function displayDate(event) {
+      const options = { weekday: "short", month: "short", day: "numeric", year: "numeric" };
+      const startLabel = new Date(`${event.start_date}T12:00:00`).toLocaleDateString("en", options);
+      if (event.start_date === event.end_date) {
+        return startLabel;
+      }
+      const endLabel = new Date(`${event.end_date}T12:00:00`).toLocaleDateString("en", options);
+      return `${startLabel} -> ${endLabel}`;
+    }
+
+    function openEventModal(eventId) {
+      const event = eventsById.get(eventId);
+      if (!event) {
+        return;
+      }
+
+      const safeTitle = escapeHtml(event.title);
+      const safeSource = escapeHtml(event.source);
+      const safeCategory = escapeHtml(event.category);
+      const safeVenue = escapeHtml(event.venue || "Unknown venue");
+      const safeDate = escapeHtml(displayDate(event));
+      const safeTime = escapeHtml(event.time || "Unknown time");
+      const safeUrl = escapeHtml(event.url);
+      const descriptionText = event.description
+        ? escapeHtml(event.description)
+        : "No description available.";
+
+      modalContent.innerHTML =
+        `<h3 class="modal-title">${safeTitle}</h3>`
+        + `<div class="modal-grid">`
+        + `<div class="modal-label">Date</div><div>${safeDate}</div>`
+        + `<div class="modal-label">Time</div><div>${safeTime}</div>`
+        + `<div class="modal-label">Source</div><div>${safeSource}</div>`
+        + `<div class="modal-label">Category</div><div>${safeCategory}</div>`
+        + `<div class="modal-label">Venue</div><div>${safeVenue}</div>`
+        + `</div>`
+        + `<p class="modal-desc">${descriptionText}</p>`
+        + `<a class="modal-link" href="${safeUrl}" target="_blank" rel="noreferrer">`
+        + `Open source page</a>`;
+
+      eventModal.classList.remove("hidden");
+      eventModal.setAttribute("aria-hidden", "false");
+    }
+
+    function closeEventModal() {
+      eventModal.classList.add("hidden");
+      eventModal.setAttribute("aria-hidden", "true");
+      modalContent.innerHTML = "";
+    }
+
+    function bindEventClicks(root) {
+      root.addEventListener("click", (clickEvent) => {
+        const element = clickEvent.target instanceof Element ? clickEvent.target : null;
+        if (!element) {
+          return;
+        }
+        const trigger = element.closest("[data-event-id]");
+        if (!trigger) {
+          return;
+        }
+        clickEvent.preventDefault();
+        const eventId = trigger.getAttribute("data-event-id");
+        if (eventId) {
+          openEventModal(eventId);
+        }
+      });
+    }
+
+    function listenAll(selector) {
+      for (const node of document.querySelectorAll(selector)) {
+        node.addEventListener("change", renderAll);
+      }
+    }
+
+    dateStartInput.addEventListener("change", renderAll);
+    dateEndInput.addEventListener("change", renderAll);
+
+    document.getElementById("source-all").addEventListener("click", () => {
+      setChecks("source", true);
+    });
+    document.getElementById("source-none").addEventListener("click", () => {
+      setChecks("source", false);
+    });
+    document.getElementById("category-all").addEventListener("click", () => {
+      setChecks("category", true);
+    });
+    document.getElementById("category-none").addEventListener("click", () => {
+      setChecks("category", false);
+    });
+
+    viewCalendarBtn.addEventListener("click", () => {
+      viewMode = "calendar";
+      calendarBody.classList.remove("hidden");
+      listView.classList.add("hidden");
+      viewCalendarBtn.classList.add("active");
+      viewListBtn.classList.remove("active");
+    });
+
+    viewListBtn.addEventListener("click", () => {
+      viewMode = "list";
+      calendarBody.classList.add("hidden");
+      listView.classList.remove("hidden");
+      viewCalendarBtn.classList.remove("active");
+      viewListBtn.classList.add("active");
+    });
+
+    document.getElementById("prev-month").addEventListener("click", () => {
+      viewMonth -= 1;
+      if (viewMonth < 0) {
+        viewMonth = 11;
+        viewYear -= 1;
+      }
+      if (viewMode === "calendar") {
+        renderAll();
+      }
+    });
+
+    document.getElementById("next-month").addEventListener("click", () => {
+      viewMonth += 1;
+      if (viewMonth > 11) {
+        viewMonth = 0;
+        viewYear += 1;
+      }
+      if (viewMode === "calendar") {
+        renderAll();
+      }
+    });
+
+    document.getElementById("today-month").addEventListener("click", () => {
+      const today = new Date();
+      viewYear = today.getFullYear();
+      viewMonth = today.getMonth();
+      if (viewMode === "calendar") {
+        renderAll();
+      }
+    });
+
+    modalClose.addEventListener("click", closeEventModal);
+    modalBackdrop.addEventListener("click", closeEventModal);
+    document.addEventListener("keydown", (event) => {
+      if (event.key === "Escape" && !eventModal.classList.contains("hidden")) {
+        closeEventModal();
+      }
+    });
+    bindEventClicks(grid);
+    bindEventClicks(listView);
+
+    async function loadEvents() {
+      try {
+        const response = await fetch(DATA_URL, { cache: "no-store" });
+        if (!response.ok) {
+          throw new Error(`Failed to fetch ${DATA_URL}: ${response.status}`);
+        }
+        const payload = await response.json();
+        events = Array.isArray(payload) ? payload : [];
+        eventsById = new Map(events.map((event) => [event.id, event]));
+        sources = [...new Set(events.map((event) => event.source))].sort();
+        categories = [...new Set(events.map((event) => event.category))].sort();
+
+        renderChecks(sourceRoot, "source", sources);
+        renderChecks(categoryRoot, "category", categories);
+        listenAll('input[name="source"]');
+        listenAll('input[name="category"]');
+        renderAll();
+      } catch (error) {
+        console.error(error);
+        note.textContent = "Could not load calendar data file.";
+      }
+    }
+
+    loadEvents();
+  </script>
+</body>
+</html>
