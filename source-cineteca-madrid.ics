@@ -2,67 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Historias de Filadelfia
-DTSTART;TZID=Europe/Madrid:20260213T200000
-UID:5704d7545bb8adf1b9689d79e1910da0d171433e2b0d34e4d738fbfddf369153
-CATEGORIES:cinema
-DESCRIPTION:Historias de Filadelfia\n\nhttps://www.cinetecamadrid.com/prog
- ramacion/historias-de-filadelfia
-LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Eloy de la Iglesia\, adicto al cine
-DTSTART;TZID=Europe/Madrid:20260213T203000
-UID:df8963f723f40e0e559dd440cc96e7879f05cae945dbbd373c4e913f8b37712e
-CATEGORIES:cinema
-DESCRIPTION:Eloy de la Iglesia\, adicto al cine\n\nhttps://www.cinetecamad
- rid.com/programacion/eloy-de-la-iglesia-adicto-al-cine-0
-LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Emergency Exit
-DTSTART;TZID=Europe/Madrid:20260213T203000
-UID:47f795cd813315e3907f9818a239e6f7f77d717a7f2c824b7833187f21292b39
-CATEGORIES:cinema
-DESCRIPTION:Emergency Exit\n\nhttps://www.cinetecamadrid.com/programacion/
- emergency-exit
-LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hombre que me hace daño\, hombre que más feo se pone
-DTSTART;TZID=Europe/Madrid:20260214T180000
-UID:9e8e9113b827ec47774e2eb5a88559d46254ceca1c478f0eb87636cb29464f23
-CATEGORIES:cinema
-DESCRIPTION:Hombre que me hace daño\, hombre que más feo se pone\n\nhttp
- s://www.cinetecamadrid.com/programacion/hombre-que-me-hace-dano-hombre-que
- -mas-feo-se-pone
-LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Conferencia de José Luis Pardo + Tiempos modernos
-DTSTART;TZID=Europe/Madrid:20260214T190000
-UID:9ff6343d4d1644ddc0cad76065fb7b3f55c2c474d52ba5b5420fa1994a1f2993
-CATEGORIES:cinema
-DESCRIPTION:Conferencia de José Luis Pardo + Tiempos modernos\n\nhttps://
- www.cinetecamadrid.com/programacion/conferencia-de-jose-luis-pardo-tiempos
- -modernos
-LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Emergency Exit
-DTSTART;TZID=Europe/Madrid:20260214T200000
-UID:512193d383138ccbf9b89994f3d43aac928ce240b16a4808833f91aac16bd454
-CATEGORIES:cinema
-DESCRIPTION:Emergency Exit\n\nhttps://www.cinetecamadrid.com/programacion/
- emergency-exit
-LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Alice
 DTSTART;TZID=Europe/Madrid:20260215T120000
 UID:e6b0a1e625f841de425ec43217ab735ebe08f187c19b8569d6246b2360125934
 CATEGORIES:cinema
-DESCRIPTION:Alice\n\nhttps://www.cinetecamadrid.com/programacion/alice
+DESCRIPTION:Después de haber leído el cuento de Lewis Carroll\, Alicia s
+ e queda dormida en su cuarto rodeada de sus juguetes\, y en sueños es tra
+ nsportada al País de las Maravillas. A medida que persigue al escurridizo
+  Conejo Blanco\, vive peligrosas aventuras en las profundidades del Reino 
+ de la Niñez\, que culminan con el juicio a que es sometida en la corte de
+ l Rey y la Reina de Corazones.\n\nhttps://www.cinetecamadrid.com/programac
+ ion/alice
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -70,8 +20,9 @@ SUMMARY:En construcción
 DTSTART;TZID=Europe/Madrid:20260215T193000
 UID:4aba97b3326e13e0b48351c13d35b77fdfd0d522999e77d3e42a4ce9476d2fe7
 CATEGORIES:cinema
-DESCRIPTION:En construcción\n\nhttps://www.cinetecamadrid.com/programacio
- n/en-construccion
+DESCRIPTION:La construcción de un inmueble en el Barrio Chino\, barrio po
+ pular de Barcelona\, donde conviven obreros\, inmigrantes\, vagabundos y p
+ rostitutas.\n\nhttps://www.cinetecamadrid.com/programacion/en-construccion
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -79,8 +30,12 @@ SUMMARY:Emergency Exit
 DTSTART;TZID=Europe/Madrid:20260215T200000
 UID:31d284c23e8909d9c4cb553a28864746b47c46c1d430926e934959c2df571e17
 CATEGORIES:cinema
-DESCRIPTION:Emergency Exit\n\nhttps://www.cinetecamadrid.com/programacion/
- emergency-exit
+DESCRIPTION:Eros\, un grupo de pasajeros y una cabra\, vagan por paisajes 
+ irreales en una misteriosa guagua de la que no parece que se puedan bajar 
+ fácilmente. Durante el trayecto\, fabulan sobre sus identidades mientras 
+ el Deseo les va seduciendo. Un viaje onírico entre la vida y la muerte\, 
+ entre el sueño y la realidad.\n\nhttps://www.cinetecamadrid.com/programac
+ ion/emergency-exit
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -88,8 +43,13 @@ SUMMARY:En la ciudad de Sylvia
 DTSTART;TZID=Europe/Madrid:20260217T183000
 UID:3615613f621075747ab4f88a96a857deacd5abcf1c9153634f22f01021cdc38b
 CATEGORIES:cinema
-DESCRIPTION:En la ciudad de Sylvia\n\nhttps://www.cinetecamadrid.com/progr
- amacion/en-la-ciudad-de-sylvia
+DESCRIPTION:Un hombre vuelve a Estrasburgo para buscar a una mujer de la q
+ ue se enamoró seis años atrás y recuperar aquel mágico momento. Es ver
+ ano. El joven extranjero callejea observando y dibujando gestos y expresio
+ nes captadas azarosamente en la calle sin dejar de buscar a esa mujer\, cu
+ yo recuerdo gravita sobre la ciudad. Esa búsqueda le conduce a otra mujer
+  y ésta a otra... siempre bajo la invocación de la ausente.\n\nhttps://w
+ ww.cinetecamadrid.com/programacion/en-la-ciudad-de-sylvia
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -97,8 +57,12 @@ SUMMARY:Los espigadores y la espigadora
 DTSTART;TZID=Europe/Madrid:20260217T200000
 UID:033434804b83ad1ad8713005f15c9285e9a83b5df015c1fac6d62dd345af8e2d
 CATEGORIES:cinema
-DESCRIPTION:Los espigadores y la espigadora\n\nhttps://www.cinetecamadrid.
- com/programacion/los-espigadores-y-la-espigadora-0
+DESCRIPTION:Recorriendo Francia\, Agnès Varda se ha encontrado con espiga
+ dores\, recolectores\, gente que busca entre la basura. Por necesidad\, o 
+ por puro azar\, estas gentes recogen los objetos desechados por otros. Su 
+ mundo es sorprendente. Y la directora\, a su manera\, es también una espe
+ cie de espigadora que selecciona y recoge imágenes aquí y allá.\n\nhttp
+ s://www.cinetecamadrid.com/programacion/los-espigadores-y-la-espigadora-0
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -106,8 +70,12 @@ SUMMARY:Emergency Exit
 DTSTART;TZID=Europe/Madrid:20260217T203000
 UID:0117a1cf67ff392dc764b80d75fa84b944a0b83974d66c6bd93e487818acabcc
 CATEGORIES:cinema
-DESCRIPTION:Emergency Exit\n\nhttps://www.cinetecamadrid.com/programacion/
- emergency-exit
+DESCRIPTION:Eros\, un grupo de pasajeros y una cabra\, vagan por paisajes 
+ irreales en una misteriosa guagua de la que no parece que se puedan bajar 
+ fácilmente. Durante el trayecto\, fabulan sobre sus identidades mientras 
+ el Deseo les va seduciendo. Un viaje onírico entre la vida y la muerte\, 
+ entre el sueño y la realidad.\n\nhttps://www.cinetecamadrid.com/programac
+ ion/emergency-exit
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -115,8 +83,16 @@ SUMMARY:Unas fotos en la ciudad de Sylvia
 DTSTART;TZID=Europe/Madrid:20260218T193000
 UID:4c8e72f391295371168407bed389c445183dc1555a33c90e832bf4c137ce3619
 CATEGORIES:cinema
-DESCRIPTION:Unas fotos en la ciudad de Sylvia\n\nhttps://www.cinetecamadri
- d.com/programacion/unas-fotos-en-la-ciudad-de-sylvia
+DESCRIPTION:Antes de realizar En la Ciudad de Sylvia \, Guerin pasó gran 
+ cantidad de tiempo filmando y trabajando con una serie de apuntes. La pel
+ ícula posee total independencia narrativa con respecto a la mencionada En
+  la Ciudad de Sylvia . En ningún caso debe verse como un esbozo\, está h
+ echa a partir de fotografías en blanco y negro\, mudas\, lo que cuenta es
+  la pequeña elipsis que hay entre una fotografía y otra... Entre una fot
+ o y otra hay un tiempo que se fuga\, un misterio que se escapa... Esas lim
+ itaciones autoimpuestas requerían de un enunciado en primera persona que 
+ actuara como vía o conductor.\n\nhttps://www.cinetecamadrid.com/programac
+ ion/unas-fotos-en-la-ciudad-de-sylvia
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -124,8 +100,13 @@ SUMMARY:Privilege
 DTSTART;TZID=Europe/Madrid:20260218T193000
 UID:d87ef9419e09f2f42cebf94209c29734879722e8b6cd815633ba2fd2cccd3b95
 CATEGORIES:cinema
-DESCRIPTION:Privilege\n\nhttps://www.cinetecamadrid.com/programacion/privi
- lege-0
+DESCRIPTION:Privilege es un testimonio único en muchos sentidos. En prime
+ r lugar\, porque aborda la menopausia\, un territorio históricamente rele
+ gado al silencio\, donde confluyen el cuerpo\, el deseo y las políticas d
+ e visibilidad. Lejos de tratarse únicamente de una experiencia biológica
+ \, la menopausia aparece aquí como una frontera simbólica: un punto de i
+ nflexión desde el cual se reorganizan la exclusión y las jerarquías de 
+ género.\n\nhttps://www.cinetecamadrid.com/programacion/privilege-0
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -133,7 +114,12 @@ SUMMARY:Fraude
 DTSTART;TZID=Europe/Madrid:20260218T200000
 UID:16172127c83d0704ea538138860c0412700950cafc7c479fa6327606cdd2ebe8
 CATEGORIES:cinema
-DESCRIPTION:Fraude\n\nhttps://www.cinetecamadrid.com/programacion/fraude
+DESCRIPTION:Documental sobre el fraude y las falsificaciones que se centra
+  en la figura del falsificador Elmyr de Hory y su biógrafo\, Clifford Irv
+ ing\, autor también de la fraudulenta biografía de Howard Hughes. Asimis
+ mo relata la reclusión de Hughes y la carrera de Welles\, que comenzó co
+ n la emisión radiofónica de una falsa invasión marciana: La guerra de l
+ os mundos .\n\nhttps://www.cinetecamadrid.com/programacion/fraude
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -141,8 +127,12 @@ SUMMARY:Emergency Exit
 DTSTART;TZID=Europe/Madrid:20260219T190000
 UID:03ef9f6237cf6cf26e7d360562c77e342bf138dfe82974381ca5b13d1de9ebf8
 CATEGORIES:cinema
-DESCRIPTION:Emergency Exit\n\nhttps://www.cinetecamadrid.com/programacion/
- emergency-exit
+DESCRIPTION:Eros\, un grupo de pasajeros y una cabra\, vagan por paisajes 
+ irreales en una misteriosa guagua de la que no parece que se puedan bajar 
+ fácilmente. Durante el trayecto\, fabulan sobre sus identidades mientras 
+ el Deseo les va seduciendo. Un viaje onírico entre la vida y la muerte\, 
+ entre el sueño y la realidad.\n\nhttps://www.cinetecamadrid.com/programac
+ ion/emergency-exit
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -150,8 +140,15 @@ SUMMARY:Correspondencias Jonas Mekas – J.L. Guerin
 DTSTART;TZID=Europe/Madrid:20260219T193000
 UID:5f1ea0ac074804505de3b2ed137088a7288d4721af65a9e334379082553e38c1
 CATEGORIES:cinema
-DESCRIPTION:Correspondencias Jonas Mekas – J.L. Guerin\n\nhttps://www.ci
- netecamadrid.com/programacion/correspondencias-jonas-mekas-jl-guerin
+DESCRIPTION:José Luis Guerin asume un principio de Jonas Mekas como propi
+ o: el cine es la reacción a la vida. A partir de esa premisa\, una serie 
+ de cartas dan lugar a una relación personal en la cual se descubren impre
+ siones y afinidades entre dos cineastas unidos por la voluntad de comparti
+ r preocupaciones y puntos de vista. Dos colegas de profesión que se traza
+ n una relación única a través su correspondencia ante los ojos del espe
+ ctador y buscan su complicidad\, creando un espacio de nueva intimidad ref
+ lexiva.\n\nhttps://www.cinetecamadrid.com/programacion/correspondencias-jo
+ nas-mekas-jl-guerin
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -159,8 +156,11 @@ SUMMARY:Stalker
 DTSTART;TZID=Europe/Madrid:20260219T200000
 UID:010d5f402acffeaa094e773ee245087f058c951e6c70c0af8b61501a1480c814
 CATEGORIES:cinema
-DESCRIPTION:Stalker\n\nhttps://www.cinetecamadrid.com/programacion/stalker
- -0
+DESCRIPTION:En un lugar de Rusia llamado "La Zona"\, hace algunos años se
+  estrelló un meteorito. A pesar de que el acceso a este lugar está prohi
+ bido\, los "stalkers" se dedican a guiar a quienes se atreven a aventurars
+ e en este inquietante paraje.\n\nhttps://www.cinetecamadrid.com/programaci
+ on/stalker-0
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -168,9 +168,9 @@ SUMMARY:Conferencia de Ernesto Castro + Amanece\, que no es poco
 DTSTART;TZID=Europe/Madrid:20260220T190000
 UID:7c65db650c708a276363661b32f8a07f8b4438f380dfc23a5cd525b8ccac399d
 CATEGORIES:cinema
-DESCRIPTION:Conferencia de Ernesto Castro + Amanece\, que no es poco\n\nht
- tps://www.cinetecamadrid.com/programacion/conferencia-de-ernesto-castro-am
- anece-que-no-es-poco
+DESCRIPTION:Conferencia de Ernesto Castro (60' aprox.) + proyección: Aman
+ ece\, que no es poco\n\nhttps://www.cinetecamadrid.com/programacion/confer
+ encia-de-ernesto-castro-amanece-que-no-es-poco
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -178,8 +178,11 @@ SUMMARY:Al oeste\, en Zapata
 DTSTART;TZID=Europe/Madrid:20260220T193000
 UID:6ddfb55688089a198e7d7e559ba6f378376aadad2122582b605af93296b09eb8
 CATEGORIES:cinema
-DESCRIPTION:Al oeste\, en Zapata\n\nhttps://www.cinetecamadrid.com/program
- acion/al-oeste-en-zapata
+DESCRIPTION:Landi y Mercedes son un matrimonio que permanece en la ciénag
+ a de Zapata\, el territorio más inhóspito del archipiélago cubano. En m
+ edio de una pandemia\, escasez y disturbios sociales\, deben adentrarse en
+  las profundidades para alimentar a su hijo.\n\nhttps://www.cinetecamadrid
+ .com/programacion/al-oeste-en-zapata
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -187,8 +190,15 @@ SUMMARY:La desmemoriada
 DTSTART;TZID=Europe/Madrid:20260220T200000
 UID:3497f6182e314eb936836ee24119eed7de3d2dca24938a8241f783e61dfcdcb7
 CATEGORIES:cinema
-DESCRIPTION:La desmemoriada\n\nhttps://www.cinetecamadrid.com/programacion
- /la-desmemoriada
+DESCRIPTION:Estructurada a partir de la paradoja “la que no tiene memori
+ a\, recuerda”\, La desmemoriada se nos ofrece como el diario de trabajo 
+ de Myriam Palacios\, querida actriz chilena ampliamente recordada por sus 
+ trabajos en el campo del teatro\, y el cine. Entre olvidos y recuerdos\, s
+ urgen imágenes inéditas capturadas en su casa\, narrándonos su vida ant
+ es de perder la memoria producto del Alzheimer. A través del testimonio d
+ e sus compañeras actrices seremos testigo del largo proceso que vivió en
+  términos personales y artísticos con esta enfermedad.\n\nhttps://www.ci
+ netecamadrid.com/programacion/la-desmemoriada
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -196,8 +206,11 @@ SUMMARY:Father Mother Sister Brother
 DTSTART;TZID=Europe/Madrid:20260221T180000
 UID:99c88afe937743405e8f54df6e2d01130efb9db5ebd6919997ce9560a0da0b5e
 CATEGORIES:cinema
-DESCRIPTION:Father Mother Sister Brother\n\nhttps://www.cinetecamadrid.com
- /programacion/father-mother-sister-brother-0
+DESCRIPTION:Tres historias sobre relaciones distantes entre padres e hijos
+ . Todas tienen lugar en la actualidad\, pero cada una en un país diferent
+ e. La película es estudio de personajes tranquilo\, observacional y sin p
+ rejuicios. Una comedia\, pero entretejida con hilos de melancolía.\n\nhtt
+ ps://www.cinetecamadrid.com/programacion/father-mother-sister-brother-0
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -205,8 +218,12 @@ SUMMARY:Vivir al revés
 DTSTART;TZID=Europe/Madrid:20260221T200000
 UID:c3bf121a36a0d4b4f89da65107b8ce6dda844ba56146ac008d3c476b86e23aab
 CATEGORIES:cinema
-DESCRIPTION:Vivir al revés\n\nhttps://www.cinetecamadrid.com/programacion
- /vivir-al-reves
+DESCRIPTION:¿Se puede volver a uno mismo para hablar con el que fuimos en
+  el pasado? Lo imposible puede suceder en esta historia con tintes surreal
+ istas llamada “Vivir al revés” donde se nos presenta a un hombre que 
+ se siente atrapado en un cuerpo envejecido que vive en una antigua casa\, 
+ donde debe lidiar con sus fantasías homoeróticas y sus dos hijas soltera
+ s.\n\nhttps://www.cinetecamadrid.com/programacion/vivir-al-reves
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -214,8 +231,17 @@ SUMMARY:Queer me
 DTSTART;TZID=Europe/Madrid:20260221T203000
 UID:e0488c9ba037a170663f59bca7b65fff847d5c396708eaba697c9f1fbde86c77
 CATEGORIES:cinema
-DESCRIPTION:Queer me\n\nhttps://www.cinetecamadrid.com/programacion/queer-
- me
+DESCRIPTION:"El verano de 2015 cumplí treinta años. Vivía con amigues e
+ n una okupa transfeminista en Toulouse\, el TDB (Trou De Balle). El TDB er
+ a un lugar de referencia para la comunidad queer de diversos lugares del m
+ undo. Siete años después de dejar de vivir allí\, vuelvo para filmar lo
+  que queda de aquella casa abandonada y mis recuerdos en Fraga y Zaragoza.
+  Mis imágenes de archivo muestran cómo llegué\, cómo me reapropié de 
+ mi habitación\, cómo me sumergí intensamente en la aventura de mi nueva
+  vida dentro de un colectivo de personas queer y el viaje de Queer me mues
+ tra la euforia de esos meses\, mi transformación y el viaje personal que 
+ me llevó hasta ese lugar que cambió mi vida y mi retorno a Zaragoza".\n\
+ nhttps://www.cinetecamadrid.com/programacion/queer-me
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -223,8 +249,17 @@ SUMMARY:Alicia en el país de las maravillas (2010)
 DTSTART;TZID=Europe/Madrid:20260222T120000
 UID:f41fdad96b1e2e6ea66ba64db9797b5767991c11fa498dd04efcb24f4e42b22b
 CATEGORIES:cinema
-DESCRIPTION:Alicia en el país de las maravillas (2010)\n\nhttps://www.cin
- etecamadrid.com/programacion/alicia-en-el-pais-de-las-maravillas-2010
+DESCRIPTION:Inspirada en la obra homónima de Lewis Carroll. Alicia\, una 
+ joven de 19 años\, acude a una mansión victoriana para asistir a una fie
+ sta de la alta sociedad. Cuando está a punto de recibir públicamente una
+  propuesta de matrimonio\, sale corriendo tras un conejo blanco y va a par
+ ar al País de las Maravillas\, un lugar que había visitado diez años an
+ tes\, aunque ya no lo recuerda. Ese país era un reino pacífico hasta que
+  la Reina Roja derrocó a su hermana\, la Reina Blanca\, pero las criatura
+ s que viven en él\, dispuestas a rebelarse\, esperan contar con el apoyo 
+ de Alicia\, a la que ayudan a recordar su primera visita al fantástico re
+ ino.\n\nhttps://www.cinetecamadrid.com/programacion/alicia-en-el-pais-de-l
+ as-maravillas-2010
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -232,8 +267,11 @@ SUMMARY:Father Mother Sister Brother
 DTSTART;TZID=Europe/Madrid:20260222T190000
 UID:5cfb78151d28c852c97b4bc705b81ef85da52e30823d147a8f3291f3787299c9
 CATEGORIES:cinema
-DESCRIPTION:Father Mother Sister Brother\n\nhttps://www.cinetecamadrid.com
- /programacion/father-mother-sister-brother-0
+DESCRIPTION:Tres historias sobre relaciones distantes entre padres e hijos
+ . Todas tienen lugar en la actualidad\, pero cada una en un país diferent
+ e. La película es estudio de personajes tranquilo\, observacional y sin p
+ rejuicios. Una comedia\, pero entretejida con hilos de melancolía.\n\nhtt
+ ps://www.cinetecamadrid.com/programacion/father-mother-sister-brother-0
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -241,8 +279,12 @@ SUMMARY:Vivir al revés
 DTSTART;TZID=Europe/Madrid:20260222T200000
 UID:53c9018d0d4cae262048313d009f4f8b8ce76d749fa4f6e4b6f0734dac0154c9
 CATEGORIES:cinema
-DESCRIPTION:Vivir al revés\n\nhttps://www.cinetecamadrid.com/programacion
- /vivir-al-reves
+DESCRIPTION:¿Se puede volver a uno mismo para hablar con el que fuimos en
+  el pasado? Lo imposible puede suceder en esta historia con tintes surreal
+ istas llamada “Vivir al revés” donde se nos presenta a un hombre que 
+ se siente atrapado en un cuerpo envejecido que vive en una antigua casa\, 
+ donde debe lidiar con sus fantasías homoeróticas y sus dos hijas soltera
+ s.\n\nhttps://www.cinetecamadrid.com/programacion/vivir-al-reves
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -250,8 +292,17 @@ SUMMARY:Queer me
 DTSTART;TZID=Europe/Madrid:20260222T203000
 UID:a8d761f349ba28fe596876249400a9e854f5efee699b9cd71be4f4a7fe8b01f4
 CATEGORIES:cinema
-DESCRIPTION:Queer me\n\nhttps://www.cinetecamadrid.com/programacion/queer-
- me
+DESCRIPTION:"El verano de 2015 cumplí treinta años. Vivía con amigues e
+ n una okupa transfeminista en Toulouse\, el TDB (Trou De Balle). El TDB er
+ a un lugar de referencia para la comunidad queer de diversos lugares del m
+ undo. Siete años después de dejar de vivir allí\, vuelvo para filmar lo
+  que queda de aquella casa abandonada y mis recuerdos en Fraga y Zaragoza.
+  Mis imágenes de archivo muestran cómo llegué\, cómo me reapropié de 
+ mi habitación\, cómo me sumergí intensamente en la aventura de mi nueva
+  vida dentro de un colectivo de personas queer y el viaje de Queer me mues
+ tra la euforia de esos meses\, mi transformación y el viaje personal que 
+ me llevó hasta ese lugar que cambió mi vida y mi retorno a Zaragoza".\n\
+ nhttps://www.cinetecamadrid.com/programacion/queer-me
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -259,8 +310,18 @@ SUMMARY:Una animación del cine
 DTSTART;TZID=Europe/Madrid:20260224T190000
 UID:5e3c27940d3a5a643e5f8f4fea17b3d39df560abe646b895a9eb74c757e63c1d
 CATEGORIES:cinema
-DESCRIPTION:Una animación del cine\n\nhttps://www.cinetecamadrid.com/prog
- ramacion/una-animacion-del-cine
+DESCRIPTION:Una tormenta relampagueante de margaritas\, un paseo en tren d
+ evenido en test de Rorschach\, un zapping cinematográfico entre emulsione
+ s ardientes y desintegradas\, un estudio urbano en forma de flip-book evoc
+ ativo y sensual\, un poema rústico a las potencias de la luz y de la form
+ a. ¿Cuál es el hilo conductor de esta sesión? Si el cine narrativo como
+  modelo de representación se institucionalizó bajo las premisas de invis
+ ibilizar sus mecanismos y estandarizar el uso de sus herramientas\, el cin
+ e experimental dio un volantazo en U para embestir de lleno dichos preconc
+ eptos y abolir las reglas. Estas cinco películas\, que abarcan setenta a
+ ños de historia\, proponen nuevas alteraciones y animaciones de lo que co
+ nocemos como "cine".\n\nhttps://www.cinetecamadrid.com/programacion/una-an
+ imacion-del-cine
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -268,8 +329,17 @@ SUMMARY:Queer me
 DTSTART;TZID=Europe/Madrid:20260224T193000
 UID:561a7fc5788ae8a4fe609aa68eca517fe11cc71783bd3bc002c9228d8e207b61
 CATEGORIES:cinema
-DESCRIPTION:Queer me\n\nhttps://www.cinetecamadrid.com/programacion/queer-
- me
+DESCRIPTION:"El verano de 2015 cumplí treinta años. Vivía con amigues e
+ n una okupa transfeminista en Toulouse\, el TDB (Trou De Balle). El TDB er
+ a un lugar de referencia para la comunidad queer de diversos lugares del m
+ undo. Siete años después de dejar de vivir allí\, vuelvo para filmar lo
+  que queda de aquella casa abandonada y mis recuerdos en Fraga y Zaragoza.
+  Mis imágenes de archivo muestran cómo llegué\, cómo me reapropié de 
+ mi habitación\, cómo me sumergí intensamente en la aventura de mi nueva
+  vida dentro de un colectivo de personas queer y el viaje de Queer me mues
+ tra la euforia de esos meses\, mi transformación y el viaje personal que 
+ me llevó hasta ese lugar que cambió mi vida y mi retorno a Zaragoza".\n\
+ nhttps://www.cinetecamadrid.com/programacion/queer-me
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -277,8 +347,13 @@ SUMMARY:Mermaid Legend
 DTSTART;TZID=Europe/Madrid:20260224T200000
 UID:1143a59fca841447da973c6c44d23ca6a471a272ebe5ac9fb2287d5088a149c3
 CATEGORIES:cinema
-DESCRIPTION:Mermaid Legend\n\nhttps://www.cinetecamadrid.com/programacion/
- mermaid-legend
+DESCRIPTION:Cuando un pescador es asesinado por unos codiciosos promotores
+  inmobiliarios por interponerse en sus planes de expansión\, su esposa Mi
+ giwa\, buceadora de perlas\, emprende una implacable venganza contra los y
+ akuza responsables. Acusada del asesinato de su marido y obligada a refugi
+ arse en un burdel\, una furia imparable se desata a medida que tienen luga
+ r las sangrientas batallas.\n\nhttps://www.cinetecamadrid.com/programacion
+ /mermaid-legend
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -286,8 +361,11 @@ SUMMARY:Father Mother Sister Brother
 DTSTART;TZID=Europe/Madrid:20260225T190000
 UID:9f738db9ce98e5457bc840200779d83a8b5977854d5a645a9349e03593fdbbd9
 CATEGORIES:cinema
-DESCRIPTION:Father Mother Sister Brother\n\nhttps://www.cinetecamadrid.com
- /programacion/father-mother-sister-brother-0
+DESCRIPTION:Tres historias sobre relaciones distantes entre padres e hijos
+ . Todas tienen lugar en la actualidad\, pero cada una en un país diferent
+ e. La película es estudio de personajes tranquilo\, observacional y sin p
+ rejuicios. Una comedia\, pero entretejida con hilos de melancolía.\n\nhtt
+ ps://www.cinetecamadrid.com/programacion/father-mother-sister-brother-0
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -295,9 +373,13 @@ SUMMARY:CIMA en corto: Un lugar al que llamar (Correspondencias íntimas)
 DTSTART;TZID=Europe/Madrid:20260225T190000
 UID:4361129ba4f7e9e010d0b18f43795f50e4b2c44a48ea49cfb1ad4c27f5f95d7e
 CATEGORIES:cinema
-DESCRIPTION:CIMA en corto: Un lugar al que llamar (Correspondencias íntim
- as)\n\nhttps://www.cinetecamadrid.com/programacion/cima-en-corto-un-lugar-
- al-que-llamar-correspondencias-intimas
+DESCRIPTION:A partir de cartas\, recuerdos y relatos dirigidos\, esta sesi
+ ón de CIMA en Corto indaga en la búsqueda de un lugar propio\, familiar\
+ , emocional o territorial que ya no existe o se encuentra a la distancia. 
+ Cuatro cortometrajes dialogan sobre la herencia\, la identidad y la perten
+ encia\, y encuentran\, en las imágenes\, espacios para mostrar aquello qu
+ e está ausente.\n\nhttps://www.cinetecamadrid.com/programacion/cima-en-co
+ rto-un-lugar-al-que-llamar-correspondencias-intimas
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -305,8 +387,15 @@ SUMMARY:Bumpkin Soup
 DTSTART;TZID=Europe/Madrid:20260225T200000
 UID:8424d3ae0fa9242e3d42565aeb377eb0f0ba1df897adb8c1cf0edd317608df7a
 CATEGORIES:cinema
-DESCRIPTION:Bumpkin Soup\n\nhttps://www.cinetecamadrid.com/programacion/bu
- mpkin-soup
+DESCRIPTION:Akiko es una joven del campo que visita una universidad de Tok
+ io en busca de su amor de juventud. En su búsqueda se cruza con diversos 
+ y excéntricos habitantes del campus: intelectuales apáticos\, estudiante
+ s obsesionadas con el sexo\, un profesor de psicología en busca de la teo
+ ría de la vergüenza y\, por supuesto\, su amado Yoshioka\, que se ha con
+ vertido en un personaje esquivo y prácticamente invisible dentro de la un
+ iversidad. Una de las primeras obras de Kiyoshi Kurosawa\, reconocido dire
+ ctor de Cure y Tokyo Sonata .\n\nhttps://www.cinetecamadrid.com/programaci
+ on/bumpkin-soup
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -314,8 +403,11 @@ SUMMARY:Father Mother Sister Brother
 DTSTART;TZID=Europe/Madrid:20260226T190000
 UID:d9de9d2d2a0c4cab520fcc7b13dc3479db7491bfac794499f22491231e6dc528
 CATEGORIES:cinema
-DESCRIPTION:Father Mother Sister Brother\n\nhttps://www.cinetecamadrid.com
- /programacion/father-mother-sister-brother-0
+DESCRIPTION:Tres historias sobre relaciones distantes entre padres e hijos
+ . Todas tienen lugar en la actualidad\, pero cada una en un país diferent
+ e. La película es estudio de personajes tranquilo\, observacional y sin p
+ rejuicios. Una comedia\, pero entretejida con hilos de melancolía.\n\nhtt
+ ps://www.cinetecamadrid.com/programacion/father-mother-sister-brother-0
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -323,8 +415,14 @@ SUMMARY:Sesión de cortometrajes: José Luis Guerin
 DTSTART;TZID=Europe/Madrid:20260226T193000
 UID:2829e66b4a8e8e5998c0875535b4c8dc636c6bc84b8405d951d6f5f3f115649b
 CATEGORIES:cinema
-DESCRIPTION:Sesión de cortometrajes: José Luis Guerin\n\nhttps://www.cin
- etecamadrid.com/programacion/sesion-de-cortometrajes-jose-luis-guerin
+DESCRIPTION:Recuerdos de una mañana (José Luis Guerin\, Corea del Sur\, 
+ 2011\, 47’) En la mañana del 21 de enero de 2008\, un violinista que vi
+ vía en el mismo barrio que el realizador José Luis Guerin se suicidó sa
+ ltando desnudo desde su ventana. Lo único que supo de él es que estaba p
+ reparando una nueva traducción de Werther\, de Goethe. Con su recuerdo di
+ ario\, Guerín comenzó a explorar las calles y a encontrar historias.\n\n
+ https://www.cinetecamadrid.com/programacion/sesion-de-cortometrajes-jose-l
+ uis-guerin
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -332,7 +430,15 @@ SUMMARY:Door
 DTSTART;TZID=Europe/Madrid:20260226T200000
 UID:3cd1adcfd38e0ca6f9eaaa736fd2030cbda2f83db1938601bde7b92bb5af10c3
 CATEGORIES:cinema
-DESCRIPTION:Door\n\nhttps://www.cinetecamadrid.com/programacion/door
+DESCRIPTION:Yasuko vive en un rascacielos de la ciudad con su marido y su 
+ hijo. Nerviosa por las llamadas de broma y las insistentes visitas comerci
+ ales\, un día le cierra la puerta de golpe a un vendedor cuando este inte
+ nta meter a la fuerza un folleto a través de la cadena. A partir de ahí\
+ , él comienza a acosarla: primero con cartas obscenas escritas en la puer
+ ta de su casa y luego escalando poco a poco hasta convertirse en un acoso 
+ constante que desemboca en unos últimos 20 minutos de caos fuera de sí..
+ . Primera película slasher japonesa.\n\nhttps://www.cinetecamadrid.com/pr
+ ogramacion/door
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -340,8 +446,13 @@ SUMMARY:Door II: Tokyo Diary
 DTSTART;TZID=Europe/Madrid:20260227T200000
 UID:782f964910ded3dab51cf1846da90d29df470487675200b49cc31360de575a15
 CATEGORIES:cinema
-DESCRIPTION:Door II: Tokyo Diary\n\nhttps://www.cinetecamadrid.com/program
- acion/door-ii-tokyo-diary
+DESCRIPTION:Ai es una call girl \, un trabajo que conlleva muchos riesgos.
+  Cada vez que cruza una puerta\, no sabe qué tipo de hombre va a encontra
+ rse al otro lado: algunos son amables\, otros violentos y otros simplement
+ e están completamente desequilibrados. Un día conoce al señor Mamiya\, 
+ un artista extraño y fascinante que poco a poco la iniciará en los place
+ res del S&M.\n\nhttps://www.cinetecamadrid.com/programacion/door-ii-tokyo-
+ diary
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -349,8 +460,11 @@ SUMMARY:La academia de las musas
 DTSTART;TZID=Europe/Madrid:20260227T203000
 UID:24e175155cf1fb71d1b080e388c892da54b44ba8fbf993313ff9231d77ee340b
 CATEGORIES:cinema
-DESCRIPTION:La academia de las musas\n\nhttps://www.cinetecamadrid.com/pro
- gramacion/la-academia-de-las-musas
+DESCRIPTION:Un día\, un profesor de filología se encuentra con que su mu
+ jer cuestiona y critica el enfoque pedagógico de las clases que imparte e
+ n la "Academia de las Musas"\, cuyo fin es regenerar el mundo a través de
+  la poesía.\n\nhttps://www.cinetecamadrid.com/programacion/la-academia-de
+ -las-musas
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -358,8 +472,11 @@ SUMMARY:Me siento extraña
 DTSTART;TZID=Europe/Madrid:20260228T190000
 UID:8ed970823e73c0a24bdcb70572e1ca2d9d669e805be2ffb73b4c706c0978cc20
 CATEGORIES:cinema
-DESCRIPTION:Me siento extraña\n\nhttps://www.cinetecamadrid.com/programac
- ion/me-siento-extrana
+DESCRIPTION:Un fuerte vínculo nace entre Laura\, una pianista que huye de
+ l maltrato de su marido\, y una vedette llamada Marta. El deseo\, los rumo
+ res y la pasión comienzan a aflorar cuando ambas amigas trabajan juntas e
+ n sacar adelante el espectáculo de Marta.\n\nhttps://www.cinetecamadrid.c
+ om/programacion/me-siento-extrana
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -367,8 +484,68 @@ SUMMARY:The Crazy Family
 DTSTART;TZID=Europe/Madrid:20260228T200000
 UID:c1e3cade73d13142fb9b0177f3ba47a1840e892c5f39188962c696bfeed2704e
 CATEGORIES:cinema
-DESCRIPTION:The Crazy Family\n\nhttps://www.cinetecamadrid.com/programacio
- n/crazy-family
+DESCRIPTION:La familia Kobayashi por fin consigue mudarse de su diminuto y
+  agobiante apartamento de Tokio a la casa de sus sueños. Pero las cosas n
+ o son tan perfectas como parecen: la vivienda está infestada de termitas 
+ y la familia empieza a perder la cordura. El hijo\, Masaki\, estudia de fo
+ rma tan obsesiva para los exámenes que comienza a desquiciarse\; la hija\
+ , Erika\, vive ajena a todo salvo a su próxima audición para una discogr
+ áfica\; el abuelo\, Yasukuni\, sufre recuerdos traumáticos de la Segunda
+  Guerra Mundial\; y el padre\, Katsuhiko\, está tan preocupado por la “
+ enfermedad” de su familia que llega a pensar que solo puede curarse medi
+ ante un suicidio colectivo. A medida que la casa de los Kobayashi empieza 
+ a venirse abajo\, también lo hace la cordura de sus habitantes. Katsuhiko
+  decide tomar cartas en el asunto para evitar que acaben en un manicomio
+ … cueste lo que cueste.\n\nhttps://www.cinetecamadrid.com/programacion/c
+ razy-family
+LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:fe sin obras muerta es
+DTSTART;TZID=Europe/Madrid:20260303T193000
+UID:fdb9119128e57c982b84304821ec6548a31f68d61638e8f157098c0bb08d197d
+CATEGORIES:cinema
+DESCRIPTION:Con fe sense obres morta és \, Serra se adentra en los territ
+ orios más íntimos y espirituales de la producción de Antoni Tàpies\, e
+ xplorando sus límites matéricos\, la carga simbólica y la densidad filo
+ sófica desde una mirada propia\, insobornable y siempre provocadora. El f
+ ilme rehúye la narración convencional para construir una experiencia inm
+ ersiva que dialoga con el pensamiento y la estética del artista\, y subra
+ ya su vigencia\, complejidad y fuerza transformadora. Así pues\, este pro
+ yecto audiovisual es mucho más que un retrato o un ejercicio de interpret
+ ación: se trata de una propuesta artística autónoma que\, partiendo del
+  universo de Tàpies\, desvela las dimensiones ocultas o inesperadas del m
+ ismo.\n\nhttps://www.cinetecamadrid.com/programacion/fe-sin-obras-muerta-e
+ s
+LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El ojo en estado salvaje: La primera vanguardia
+DTSTART;TZID=Europe/Madrid:20260303T200000
+UID:6d82e741c70221b208082fd6c64e420a7dd5c5cfb5618c8ba46fd7032acc8dee
+CATEGORIES:cinema
+DESCRIPTION:Un perro andaluz ( Un chien andalou ) (Luis Buñuel\, 1929\, 2
+ 1') Película fundacional del surrealismo cinematográfico. Construida com
+ o una sucesión de imágenes sin lógica narrativa ni causal\, guiadas por
+  la asociación libre y el sueño. El film ataca frontalmente la moral bur
+ guesa\, la psicología y la idea clásica de relato\, proponiendo una expe
+ riencia de choque\, deseo y violencia visual.\n\nhttps://www.cinetecamadri
+ d.com/programacion/el-ojo-en-estado-salvaje-la-primera-vanguardia
+LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A&E\, Adolf & Eva / Adam & Eve
+DTSTART;TZID=Europe/Madrid:20260304T170000
+UID:13e1affd67ed2891c98f4c79f6751443f9fa86fbf37fbaf15b9d557292d01f14
+CATEGORIES:cinema
+DESCRIPTION:A&E\, Adolf & Eva / Adam & Eve\, Cooking Show\, Kitchen (Paul 
+ McCarthy\, EEUU\, 2022/2023\, 108') Adolf Adam (Paul McCarthy) y Eva Eve (
+ Lilith Stangenberg) hacen sopa y hablan a la cámara mientras beben champ
+ án. Adolf Adam es el cerdo-artista gordo estadounidense y Eva Eve es la a
+ ctriz alemana\, hija\, falsa Marilyn. Diversión y juegos en la cocina\, e
+ n el suelo\, un jugueteo amoroso sobre la resbaladiza encimera de la cocin
+ a\; Eva Eve vomita en la olla de la sopa.\n\nhttps://www.cinetecamadrid.co
+ m/programacion/ae-adolf-eva-adam-eve
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -376,9 +553,209 @@ SUMMARY:Capítulo XXIX: II Jornadas sobre Arte Sonoro "Rebecca Collins"
 DTSTART;TZID=Europe/Madrid:20260304T190000
 UID:91fdf6494bbe35dfecce26c23235863a2602caff70196b63b8baa96b39c72f26
 CATEGORIES:cinema
-DESCRIPTION:Capítulo XXIX: II Jornadas sobre Arte Sonoro "Rebecca Collins
- "\n\nhttps://www.cinetecamadrid.com/programacion/capitulo-xxix-ii-jornadas
- -sobre-arte-sonoro-rebecca-collins
+DESCRIPTION:Con esta sesión de escucha se clausura el encuentro dedicado 
+ a las relaciones entre ciencia y arte sonoro organizado los días 3 y 4 de
+  marzo en recuerdo de la artista e investigadora Rebecca Collins por dos i
+ nstituciones dependientes del CSIC: el Instituto de Física Teórica (IFT)
+  y el Instituto de Historia (IH). Las obras sonoras presentadas en la Cine
+ teca son el resultado de la convocatoria artística vinculada a estas jorn
+ adas\, que este año tienen como tema "Tiempo\, archivo y memoria en el ar
+ te sonoro y las músicas experimentales".\n\nhttps://www.cinetecamadrid.co
+ m/programacion/capitulo-xxix-ii-jornadas-sobre-arte-sonoro-rebecca-collins
+LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El misterio Picasso
+DTSTART;TZID=Europe/Madrid:20260304T200000
+UID:16c1c8b22901fb25fe78adf2056d2f3211df2d1c5818c8fdd8e11fe6eb116810
+CATEGORIES:cinema
+DESCRIPTION:Documental único que registra el proceso creativo de Pablo Pi
+ casso en tiempo real. Gracias a un dispositivo técnico que permite ver el
+  trazo a través del papel\, el film convierte la pintura en acontecimient
+ o cinematográfico y reflexiona sobre el misterio del acto de creación.\n
+ \nhttps://www.cinetecamadrid.com/programacion/el-misterio-picasso
+LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Conferencia de Estrella de Diego + Cineastas coreógrafas: El cine
+  de Maya Deren e Yvonne Rainer
+DTSTART;TZID=Europe/Madrid:20260305T190000
+UID:5d291a232b30890ef78492bf4746b0045fcdc92b3a6bfc494e20d927a99996a9
+CATEGORIES:cinema
+DESCRIPTION:Conferencia de Estrella de Diego (60' aprox.)\n\nhttps://www.c
+ inetecamadrid.com/programacion/conferencia-de-estrella-de-diego-cineastas-
+ coreografas-el-cine-de-maya-deren-e-yvonne
+LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:With a Little Help from My Friends
+DTSTART;TZID=Europe/Madrid:20260305T193000
+UID:de5d80d3345a25962534cdfb545674fd11fec2f7fbb87efb983fa1125cf727d8
+CATEGORIES:cinema
+DESCRIPTION:Una invitación a la artista Sally Gutiérrez Dewar a poner en
+  diálogo una de sus obras más recientes con la de otros artistas y activ
+ istas. Una sesión que nos invita a imaginar colectivamente y a pensar lo 
+ audiovisual más allá de sus límites habituales. Películas que sugieren
+  conexiones inesperadas\, activan resonancias entre geografías\, historia
+ s y sensibilidades diversas. El programa propone un encuentro efímero y p
+ lural en el que cada obra aporta una perspectiva singular y\, al unirse\, 
+ construyen un espacio compartido de pensamiento y descubrimiento. Un progr
+ ama que encarna el espíritu de la propia artista: trabajar desde lo comú
+ n\, confiar en los cruces inesperados y permitir que las imágenes invente
+ n su propio lenguaje compartido.\n\nhttps://www.cinetecamadrid.com/program
+ acion/little-help-my-friends
+LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vía versus
+DTSTART;TZID=Europe/Madrid:20260306T190000
+UID:d5e4b76fda5d34b44058f65d4970f08701ab6093fa84be536cc70a7d34f3ffcb
+CATEGORIES:cinema
+DESCRIPTION:Vía Versus es una pieza audiovisual realizada en colaboració
+ n por la artista española María Salgado y la cineasta argentina Clarisa 
+ Navas\, filmada entre el nordeste argentino —Formosa y Corrientes— y G
+ alicia —Pousada y Verín—. A partir de estos territorios concretos y d
+ e las lenguas\, historias y formas de vida de quienes los habitan\, la obr
+ a indaga en aquello que permanece oculto o silenciado por procesos histór
+ icos de represión y olvido. Dos poemas escritos por Salgado acompañan el
+  film como voces sonoras y como textos impresos disponibles para el públi
+ co\, articulando un diálogo entre palabra\, imagen y territorio. Más sen
+ sorial que discursiva\, la película se construye como un viaje compartido
+  en el que ambas artistas se desplazan desde sus lenguajes y lugares de or
+ igen hacia un espacio común aún por definir. Este proceso de apertura co
+ lectiva\, vivido junto al equipo de trabajo\, da lugar a una obra de senti
+ do abierto\, que se expande más allá de la proyección y se despliega en
+  distintas formas de experiencia.\n\nhttps://www.cinetecamadrid.com/progra
+ macion/versus
+LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El Brujo: Julio Zachrisson
+DTSTART;TZID=Europe/Madrid:20260306T203000
+UID:228e7a927412727aaecd533c80a96a643be6ecdf9484aa70160f6eac0f88b3e4
+CATEGORIES:cinema
+DESCRIPTION:Un joven cineasta panameño viaja a Madrid para conocer a Juli
+ o Zachrisson\, un legendario surrealista panameño cuya obra lo marcó des
+ de la infancia. Lo que comienza como una búsqueda personal se transforma 
+ gradualmente en un diálogo intergeneracional entre dos artistas. Filmado 
+ a lo largo de casi cinco años —mientras Zachrisson enfrenta la pérdida
+  de la vista durante el capítulo final de su vida—\, ambos forjan una a
+ mistad inesperada que transforma sus vidas. Con entrevistas inéditas y ma
+ terial de archivo nunca antes visto\, este documental explora la memoria\,
+  la identidad y el poder perdurable del arte para conectar generaciones.\n
+ \nhttps://www.cinetecamadrid.com/programacion/el-brujo-julio-zachrisson
+LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yrupẽ
+DTSTART;TZID=Europe/Madrid:20260307T193000
+UID:89f7309cfc00bc7ceac5f12f63faf2c0e77c97b4689e4c0d4e2ba4aae4e0c23d
+CATEGORIES:cinema
+DESCRIPTION:La búsqueda de La flor de Irupé \, una película perdida de 
+ Guillermo Fernández-Zúñiga\, pionero español del cine científico de p
+ rincipios del siglo XX\, desencadena un viaje por historias familiares y a
+ rchivos nacionales. A medida que asistimos al lento crecimiento de la yrup
+ ẽ emergen diferentes capas de imágenes y silencios.\n\nhttps://www.cine
+ tecamadrid.com/programacion/yrupe
+LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El Brujo: Julio Zachrisson
+DTSTART;TZID=Europe/Madrid:20260307T203000
+UID:6bdfe4bea17644fac339dd9ac2a246801fa64e2fd563c27da3ad9530c648522f
+CATEGORIES:cinema
+DESCRIPTION:Un joven cineasta panameño viaja a Madrid para conocer a Juli
+ o Zachrisson\, un legendario surrealista panameño cuya obra lo marcó des
+ de la infancia. Lo que comienza como una búsqueda personal se transforma 
+ gradualmente en un diálogo intergeneracional entre dos artistas. Filmado 
+ a lo largo de casi cinco años —mientras Zachrisson enfrenta la pérdida
+  de la vista durante el capítulo final de su vida—\, ambos forjan una a
+ mistad inesperada que transforma sus vidas. Con entrevistas inéditas y ma
+ terial de archivo nunca antes visto\, este documental explora la memoria\,
+  la identidad y el poder perdurable del arte para conectar generaciones.\n
+ \nhttps://www.cinetecamadrid.com/programacion/el-brujo-julio-zachrisson
+LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yrupẽ
+DTSTART;TZID=Europe/Madrid:20260308T193000
+UID:99ee831f98e235f6b320148528e46aa20e7b21cb0521da5449c9f5100bfc93fd
+CATEGORIES:cinema
+DESCRIPTION:La búsqueda de La flor de Irupé \, una película perdida de 
+ Guillermo Fernández-Zúñiga\, pionero español del cine científico de p
+ rincipios del siglo XX\, desencadena un viaje por historias familiares y a
+ rchivos nacionales. A medida que asistimos al lento crecimiento de la yrup
+ ẽ emergen diferentes capas de imágenes y silencios.\n\nhttps://www.cine
+ tecamadrid.com/programacion/yrupe
+LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El Brujo: Julio Zachrisson
+DTSTART;TZID=Europe/Madrid:20260308T203000
+UID:78135021c373e457cbd52deff8d4840366c639127eb50fddbe8ecfdda1898120
+CATEGORIES:cinema
+DESCRIPTION:Un joven cineasta panameño viaja a Madrid para conocer a Juli
+ o Zachrisson\, un legendario surrealista panameño cuya obra lo marcó des
+ de la infancia. Lo que comienza como una búsqueda personal se transforma 
+ gradualmente en un diálogo intergeneracional entre dos artistas. Filmado 
+ a lo largo de casi cinco años —mientras Zachrisson enfrenta la pérdida
+  de la vista durante el capítulo final de su vida—\, ambos forjan una a
+ mistad inesperada que transforma sus vidas. Con entrevistas inéditas y ma
+ terial de archivo nunca antes visto\, este documental explora la memoria\,
+  la identidad y el poder perdurable del arte para conectar generaciones.\n
+ \nhttps://www.cinetecamadrid.com/programacion/el-brujo-julio-zachrisson
+LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yrupẽ
+DTSTART;TZID=Europe/Madrid:20260310T193000
+UID:924e71f7bfc84cc7ba29c71cea33f747e37e2021e73cc3ec1730ff6bd02adf53
+CATEGORIES:cinema
+DESCRIPTION:La búsqueda de La flor de Irupé \, una película perdida de 
+ Guillermo Fernández-Zúñiga\, pionero español del cine científico de p
+ rincipios del siglo XX\, desencadena un viaje por historias familiares y a
+ rchivos nacionales. A medida que asistimos al lento crecimiento de la yrup
+ ẽ emergen diferentes capas de imágenes y silencios.\n\nhttps://www.cine
+ tecamadrid.com/programacion/yrupe
+LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Viva la muerte
+DTSTART;TZID=Europe/Madrid:20260310T200000
+UID:2ab5a36079784dfce009cabd8dd5b2478bf0a73c2257706fc982324ce767a3c4
+CATEGORIES:cinema
+DESCRIPTION:Relato autobiográfico y feroz sobre la infancia durante la Gu
+ erra Civil española. A través de la mirada de un niño\, la película me
+ zcla memoria\, fantasía\, violencia política y provocación surrealista 
+ para construir una visión delirante y cruel del fanatismo\, la represión
+  y la educación ideológica.\n\nhttps://www.cinetecamadrid.com/programaci
+ on/viva-la-muerte
+LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Conferencia de Germán Labrador + Arrebato
+DTSTART;TZID=Europe/Madrid:20260311T190000
+UID:dc2962d93cdf4a94680b76a5f89501cbbd38fbf0d3596372fabebda616104335
+CATEGORIES:cinema
+DESCRIPTION:Conferencia de Germán Labrador (60' aprox.) + proyección: Ar
+ rebato\n\nhttps://www.cinetecamadrid.com/programacion/conferencia-de-germa
+ n-labrador-arrebato
+LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Demonios en el jardín
+DTSTART;TZID=Europe/Madrid:20260312T200000
+UID:b2046bf19b8237a17da003f87c438cb8357ca5ca4fe6e8516f6cfd7b8729abbb
+CATEGORIES:cinema
+DESCRIPTION:Ambientada en la España de la posguerra\, Demonios en el jard
+ ín retrata la vida de una familia marcada por la represión\, el miedo y 
+ las tensiones morales del franquismo. A través de la mirada de un niño\,
+  la película reconstruye un universo doméstico atravesado por secretos\,
+  violencia latente y silencios impuestos\, donde la supervivencia cotidian
+ a convive con la hipocresía y la delación. Manuel Gutiérrez Aragón com
+ pone un relato íntimo y político sobre la infancia\, la memoria y los ef
+ ectos del autoritarismo en la vida privada.\n\nhttps://www.cinetecamadrid.
+ com/programacion/demonios-en-el-jardin
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 END:VCALENDAR

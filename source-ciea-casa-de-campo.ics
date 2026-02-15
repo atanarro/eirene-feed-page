@@ -2,41 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:WEBINARIO: Diseño de jardines para atracción de polinizadores
-DTSTART;TZID=Europe/Madrid:20260213T120000
-DTEND;TZID=Europe/Madrid:20260213T130000
-UID:6c0c482d3961826d54052ca5f06ee4bc7abddcde3ba598a842e5b295a2c07fba
-CATEGORIES:talk
-DESCRIPTION:WEBINARIO dirigido a público adulto.\nImpartido en colaboraci
- ón con el Grupo de seguimiento de biodiversidad y el Museo de entomologí
- a de la Universidad Complutense de Madrid. En el seminario digital descubr
- irás cómo puedes diseñar un jardín (preferentemente con especies autó
- ctonas) para atraer a los polinizadores para tus plantas.\nEMISIÓN EN DIR
- ECTO: Para participar\, acceder al Canal de Youtube del CIEA Casa de Campo
-  en el día y hora señalados.\n\n \n \n\n\nhttps://diario.madrid.es/cie
- acasadecampo/evento/webinario-sanidad-vegetal-2-3/
-LOCATION:CIEA Casa de Campo - Paseo Embarcadero\, 1\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Del corredor del Suroeste a Casa de Campo
-DTSTART;TZID=Europe/Madrid:20260214T100000
-DTEND;TZID=Europe/Madrid:20260214T140000
-UID:fbf9584e3d49e635585fca1950fc637a0eed0daa1f99b8f8127bf08aa85fbe86
-CATEGORIES:walk
-DESCRIPTION:\nRuta de senderismo dirigida a usuarios/as a partir de 12 añ
- os.\nDistancia: 15 km / Desnivel: moderado / Dificultad: media-alta.\nItin
- erario lineal en el que daremos a conocer los aspectos históricos de Madr
- id y su tradición cultural ligada a la ganadería y la trashumancia\, pre
- stando especial atención a la importancia de las vías pecuarias a travé
- s de un recorrido que parte del municipio de Alcorcón y con final en el P
- arque de Casa de Campo.\nDaremos a conocer una zona muy rica en biodiversi
- dad pero amenazada por el boom urbanístico\, que sirve como conector ecol
- ógico entre el río Guadarrama y Casa de Campo.\n¡Descubre nuevos sender
- os para conectarnos con la naturaleza!\n\n\nhttps://diario.madrid.es/cieac
- asadecampo/evento/del-corredor-del-suroeste-a-casa-de-campo-7-2/
-LOCATION:CIEA Casa de Campo - Paseo Embarcadero\, 1\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Pastores por un día
 DTSTART;TZID=Europe/Madrid:20260215T103000
 DTEND;TZID=Europe/Madrid:20260215T133000
@@ -86,7 +51,7 @@ SUMMARY:Rastros y huellas (actividad familiar)
 DTSTART;TZID=Europe/Madrid:20260222T113000
 DTEND;TZID=Europe/Madrid:20260222T130000
 UID:949e9a2b13ab6b86bfedbe7c0f30b183636dbd3adad09427544951e0bd9d2ad1
-CATEGORIES:children
+CATEGORIES:family
 DESCRIPTION:Taller dirigido a familias con menores a partir de 7 años.\nA
  unque no siempre les veamos\, en el Parque viven numerosos animales y much
  os de ellos nos dejan sus huellas\, plumas\, cacas\, restos de nidos\, ega
@@ -118,7 +83,7 @@ SUMMARY:Increíble Mundo Insecto (actividad familiar)
 DTSTART;TZID=Europe/Madrid:20260301T113000
 DTEND;TZID=Europe/Madrid:20260301T130000
 UID:e5a450fcf2fd4ecb0c83b72c7bdddb7294d29161106b2a4cbf0264d00e69089b
-CATEGORIES:children
+CATEGORIES:family
 DESCRIPTION:\nTaller dirigido a familias con niños y niñas mayores de 7 
  años.\n¿Cuántos insectos conoces? ¿Sabrías distinguir un insecto del 
  resto de animales artrópodos? ¿Has visto alguna vez cómo son capaces de
@@ -205,7 +170,7 @@ SUMMARY:YINCANA: Gran Juego de los Duendes del bosque (ACTIVIDAD FAMILIAR)
 DTSTART;TZID=Europe/Madrid:20260314T113000
 DTEND;TZID=Europe/Madrid:20260314T130000
 UID:1a62716461a4ba815b6d6c9f241bcbdac9951179f0e30c0008c12227fab3b7ca
-CATEGORIES:children
+CATEGORIES:family
 DESCRIPTION:\n\n \nActividad dirigida a familias (menores de 5 a 10 años
  ).\n¿Sabes qué ocurrió en el bosque de el Molinero? ¿Quiénes son los 
  habitantes de este lugar?\n\nDivertida yincana con pruebas de agua\, tierr
@@ -214,6 +179,22 @@ DESCRIPTION:\n\n \nActividad dirigida a familias (menores de 5 a 10 años
  á teniendo mucha magia!\n \n\n\nhttps://diario.madrid.es/cieacasadecampo
  /evento/yincana-gran-juego-de-los-duendes-del-bosque-especial-familias-2-2
  /
+LOCATION:CIEA Casa de Campo - Paseo Embarcadero\, 1\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Árboles singulares de Casa de Campo
+DTSTART;TZID=Europe/Madrid:20260315T100000
+DTEND;TZID=Europe/Madrid:20260315T140000
+UID:622c0e03113695b216a95cc54bfb8ad0af7bc2d3cf5b9328d81e8db5310ea6b7
+CATEGORIES:walk
+DESCRIPTION:\n \n\n \nRuta de senderismo dirigida a usuarios/as a partir
+  de 12 años.\nDistancia: 11 km / Desnivel: moderado / Dificultad: media.\
+ nItinerario lineal en el que visitaremos más de 10 árboles catalogados c
+ omo «singulares» dentro de Casa de Campo\, detallando las característic
+ as biológicas\, de conservación y las historias relacionadas con los mis
+ mos… Todo ello recorriendo las entrañas de este gran parque.\n¡No te p
+ ierdas su riqueza natural!\n\n\nhttps://diario.madrid.es/cieacasadecampo/e
+ vento/arboles-singulares-de-la-casa-de-campo-2-2/
 LOCATION:CIEA Casa de Campo - Paseo Embarcadero\, 1\, Madrid
 END:VEVENT
 END:VCALENDAR

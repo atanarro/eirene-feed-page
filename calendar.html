@@ -4,6 +4,10 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>eirene calendar</title>
+  <link rel="stylesheet"
+        href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+        integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+        crossorigin="">
   <style>
     :root {
       --bg: #f5efe3;
@@ -19,7 +23,8 @@
       --cat-exhibition: #8b5a2b;
       --cat-theater: #7d3c6d;
       --cat-music: #1c7a5b;
-      --cat-children: #d17f1f;
+      --cat-market: #7d5a3a;
+      --cat-family: #d17f1f;
       --cat-talk: #2f6a63;
       --cat-walk: #4f7f2a;
       --cat-other: #6c6c6c;
@@ -94,7 +99,10 @@
       color: var(--muted);
     }
 
-    input[type="date"] {
+    input[type="date"],
+    input[type="search"],
+    input[type="number"],
+    select {
       border: 1px solid var(--line);
       border-radius: 8px;
       padding: 0.42rem 0.5rem;
@@ -125,6 +133,46 @@
       padding: 0.2rem 0.6rem;
       font-size: 0.86rem;
       white-space: nowrap;
+    }
+
+    .map-panel {
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      background: #fff;
+      padding: 0.55rem;
+      display: grid;
+      gap: 0.45rem;
+    }
+
+    .map-toolbar {
+      display: flex;
+      gap: 0.45rem;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .map-hint {
+      margin: 0;
+      color: var(--muted);
+      font-size: 0.82rem;
+    }
+
+    #distance-map {
+      height: 230px;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      overflow: hidden;
+    }
+
+    .coord-readout {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+      gap: 0.45rem;
+    }
+
+    .coord-readout input {
+      background: #faf7ef;
     }
 
     .calendar-shell {
@@ -239,8 +287,13 @@
     .event.cat-music,
     .list-event.cat-music { border-left-color: var(--cat-music); }
 
+    .event.cat-market,
+    .list-event.cat-market { border-left-color: var(--cat-market); }
+
+    .event.cat-family,
+    .list-event.cat-family,
     .event.cat-children,
-    .list-event.cat-children { border-left-color: var(--cat-children); }
+    .list-event.cat-children { border-left-color: var(--cat-family); }
 
     .event.cat-talk,
     .list-event.cat-talk { border-left-color: var(--cat-talk); }
@@ -395,7 +448,7 @@
     <header class="top">
       <div>
         <h1>Event calendar</h1>
-        <p class="sub">Filter by source, type, and date range.</p>
+        <p class="sub">Filter by type, source, date range, text, score, and distance.</p>
       </div>
       <a class="home-link" href="index.html">Back to feed index</a>
     </header>
@@ -409,14 +462,46 @@
         <label class="input-label" for="date-end">To date
           <input id="date-end" type="date">
         </label>
+        <label class="input-label" for="text-filter">Text search
+          <input id="text-filter" type="search" placeholder="title, venue, description">
+        </label>
+        <label class="input-label" for="score-min">Min TMDb score
+          <input id="score-min" type="number" min="0" max="10" step="0.1" placeholder="e.g. 7.0">
+        </label>
+        <label class="input-label" for="votes-min">Min TMDb votes
+          <input id="votes-min" type="number" min="0" step="1" placeholder="e.g. 200">
+        </label>
+        <label class="input-label" for="distance-km">Max distance (km)
+          <input id="distance-km" type="number" min="0" step="0.1" placeholder="e.g. 5">
+        </label>
       </div>
       <div class="filter-row">
-        <strong>Sources</strong>
-        <div class="check-actions">
-          <button id="source-all" class="btn" type="button">Select all</button>
-          <button id="source-none" class="btn" type="button">Clear all</button>
+        <div class="map-panel">
+          <div class="map-toolbar">
+            <p class="map-hint">Click on the map to set center.</p>
+            <button id="center-geolocate" class="btn" type="button">Use my location</button>
+          </div>
+          <div id="distance-map" aria-label="Distance filter map"></div>
+          <div class="coord-readout">
+            <label class="input-label" for="center-lat">Center latitude
+              <input id="center-lat" type="number" step="0.000001" placeholder="40.4168" readonly>
+            </label>
+            <label class="input-label" for="center-lon">Center longitude
+              <input id="center-lon" type="number" step="0.000001" placeholder="-3.7038" readonly>
+            </label>
+          </div>
         </div>
-        <div id="source-filters" class="checks"></div>
+      </div>
+      <div class="filter-row date-row">
+        <label class="check" for="rated-only">
+          <input id="rated-only" type="checkbox"> Only rated events
+        </label>
+        <label class="input-label" for="list-sort">List sort
+          <select id="list-sort">
+            <option value="date">Date/time</option>
+            <option value="score">TMDb score</option>
+          </select>
+        </label>
       </div>
       <div class="filter-row">
         <strong>Event types</strong>
@@ -425,6 +510,14 @@
           <button id="category-none" class="btn" type="button">Clear all</button>
         </div>
         <div id="category-filters" class="checks"></div>
+      </div>
+      <div class="filter-row">
+        <strong>Sources</strong>
+        <div class="check-actions">
+          <button id="source-all" class="btn" type="button">Select all</button>
+          <button id="source-none" class="btn" type="button">Clear all</button>
+        </div>
+        <div id="source-filters" class="checks"></div>
       </div>
     </section>
 
@@ -458,6 +551,9 @@
     </div>
   </div>
 
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+          integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+          crossorigin=""></script>
   <script>
     const DATA_URL = "calendar-events.json";
 
@@ -465,6 +561,16 @@
     const categoryRoot = document.getElementById("category-filters");
     const dateStartInput = document.getElementById("date-start");
     const dateEndInput = document.getElementById("date-end");
+    const textFilterInput = document.getElementById("text-filter");
+    const scoreMinInput = document.getElementById("score-min");
+    const votesMinInput = document.getElementById("votes-min");
+    const distanceKmInput = document.getElementById("distance-km");
+    const centerLatInput = document.getElementById("center-lat");
+    const centerLonInput = document.getElementById("center-lon");
+    const centerGeolocateBtn = document.getElementById("center-geolocate");
+    const distanceMapContainer = document.getElementById("distance-map");
+    const ratedOnlyInput = document.getElementById("rated-only");
+    const listSortInput = document.getElementById("list-sort");
     const monthTitle = document.getElementById("month-title");
     const grid = document.getElementById("calendar-grid");
     const calendarBody = document.getElementById("calendar-body");
@@ -475,6 +581,12 @@
     const eventModal = document.getElementById("event-modal");
     const modalContent = document.getElementById("modal-content");
     const modalBackdrop = document.getElementById("modal-backdrop");
+
+    const mapDefaultLat = 40.4168;
+    const mapDefaultLon = -3.7038;
+    let distanceMap = null;
+    let distanceCenterMarker = null;
+    let distanceCircle = null;
     const modalClose = document.getElementById("modal-close");
 
     let events = [];
@@ -508,8 +620,12 @@
       root.innerHTML = values
         .map((value) => {
           const safeValue = escapeHtml(value);
+          const normalizedValue = String(value).toLowerCase();
+          const isFamilyCategory = name === "category"
+            && (normalizedValue === "family" || normalizedValue === "children");
+          const checkedAttr = isFamilyCategory ? "" : " checked";
           return `<label class="check"><input type="checkbox" name="${name}" ` +
-            `value="${safeValue}" checked> ${safeValue}</label>`;
+            `value="${safeValue}"${checkedAttr}> ${safeValue}</label>`;
         })
         .join("");
     }
@@ -538,6 +654,13 @@
       const selectedCategories = checkedValues("category");
       const fromDate = dateStartInput.value;
       const toDate = dateEndInput.value;
+      const textQuery = textFilterInput.value.trim().toLowerCase();
+      const minScore = parseNumberInput(scoreMinInput.value);
+      const minVotes = parseNumberInput(votesMinInput.value);
+      const maxDistanceKm = parseNumberInput(distanceKmInput.value);
+      const centerLat = parseNumberInput(centerLatInput.value);
+      const centerLon = parseNumberInput(centerLonInput.value);
+      const onlyRated = ratedOnlyInput.checked;
 
       return events.filter((event) => {
         if (!selectedSources.has(event.source)) {
@@ -552,15 +675,149 @@
         if (toDate && event.start_date > toDate) {
           return false;
         }
+        if (textQuery) {
+          const searchFields = [
+            event.title,
+            event.description,
+            event.venue,
+            event.source,
+            event.category,
+            event.movie_language,
+          ];
+          const textBlob = searchFields
+            .filter((value) => typeof value === "string")
+            .join(" ")
+            .toLowerCase();
+          if (!textBlob.includes(textQuery)) {
+            return false;
+          }
+        }
+        if (minScore != null) {
+          const score = Number(event.tmdb_vote_average);
+          if (!Number.isFinite(score) || score < minScore) {
+            return false;
+          }
+        }
+        if (minVotes != null) {
+          const votes = Number(event.tmdb_vote_count);
+          if (!Number.isFinite(votes) || votes < minVotes) {
+            return false;
+          }
+        }
+        if (maxDistanceKm != null) {
+          if (centerLat == null || centerLon == null) {
+            return false;
+          }
+          const lat = Number(event.lat);
+          const lon = Number(event.lon);
+          if (!Number.isFinite(lat) || !Number.isFinite(lon)) {
+            return false;
+          }
+          const distance = distanceKm(centerLat, centerLon, lat, lon);
+          if (distance > maxDistanceKm) {
+            return false;
+          }
+        }
+        if (onlyRated) {
+          const score = Number(event.tmdb_vote_average);
+          if (!Number.isFinite(score) || score <= 0) {
+            return false;
+          }
+        }
         return true;
       });
     }
 
+    function distanceKm(lat1, lon1, lat2, lon2) {
+      const toRadians = (value) => value * Math.PI / 180;
+      const earthRadiusKm = 6371;
+      const dLat = toRadians(lat2 - lat1);
+      const dLon = toRadians(lon2 - lon1);
+      const lat1Radians = toRadians(lat1);
+      const lat2Radians = toRadians(lat2);
+      const a = Math.sin(dLat / 2) ** 2
+        + Math.cos(lat1Radians) * Math.cos(lat2Radians) * Math.sin(dLon / 2) ** 2;
+      return 2 * earthRadiusKm * Math.asin(Math.sqrt(a));
+    }
+
+    function parseNumberInput(value) {
+      const trimmed = String(value || "").trim();
+      if (!trimmed) {
+        return null;
+      }
+      const parsed = Number(trimmed);
+      return Number.isFinite(parsed) ? parsed : null;
+    }
+
+    function initDistanceMap() {
+      if (distanceMap || typeof L === "undefined") {
+        return;
+      }
+      const initialLat = parseNumberInput(centerLatInput.value) ?? mapDefaultLat;
+      const initialLon = parseNumberInput(centerLonInput.value) ?? mapDefaultLon;
+      distanceMap = L.map(distanceMapContainer).setView([initialLat, initialLon], 12);
+      L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+        maxZoom: 18,
+        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+      }).addTo(distanceMap);
+
+      distanceMap.on("click", (evt) => {
+        centerLatInput.value = evt.latlng.lat.toFixed(6);
+        centerLonInput.value = evt.latlng.lng.toFixed(6);
+        updateDistanceMapOverlay();
+        renderAll();
+      });
+
+      updateDistanceMapOverlay();
+    }
+
+    function updateDistanceMapOverlay() {
+      if (!distanceMap || typeof L === "undefined") {
+        return;
+      }
+      const lat = parseNumberInput(centerLatInput.value);
+      const lon = parseNumberInput(centerLonInput.value);
+      const radiusKm = parseNumberInput(distanceKmInput.value);
+
+      if (distanceCenterMarker) {
+        distanceMap.removeLayer(distanceCenterMarker);
+        distanceCenterMarker = null;
+      }
+      if (distanceCircle) {
+        distanceMap.removeLayer(distanceCircle);
+        distanceCircle = null;
+      }
+
+      if (lat == null || lon == null) {
+        return;
+      }
+
+      const center = [lat, lon];
+      distanceCenterMarker = L.marker(center).addTo(distanceMap);
+      if (radiusKm != null && radiusKm > 0) {
+        distanceCircle = L.circle(center, {
+          radius: radiusKm * 1000,
+          color: "#356859",
+          fillColor: "#d9ebe5",
+          fillOpacity: 0.25,
+          weight: 2,
+        }).addTo(distanceMap);
+      }
+    }
+
     function eventsByDay(activeEvents) {
+      const fromDate = dateStartInput.value;
+      const toDate = dateEndInput.value;
       const perDay = new Map();
       for (const event of activeEvents) {
-        let cursor = event.start_date;
-        while (cursor <= event.end_date) {
+        const firstDay = fromDate && event.start_date < fromDate ? fromDate : event.start_date;
+        const lastDay = toDate && event.end_date > toDate ? toDate : event.end_date;
+        if (firstDay > lastDay) {
+          continue;
+        }
+
+        let cursor = firstDay;
+        while (cursor <= lastDay) {
           if (!perDay.has(cursor)) {
             perDay.set(cursor, []);
           }
@@ -617,19 +874,39 @@
     }
 
     function renderList(activeEvents) {
+      const sortMode = listSortInput.value;
       const sorted = [...activeEvents].sort((a, b) => {
+        const dateKeyA = listDateKey(a);
+        const dateKeyB = listDateKey(b);
+        if (sortMode === "score") {
+          const scoreA = Number(a.tmdb_vote_average);
+          const scoreB = Number(b.tmdb_vote_average);
+          const safeScoreA = Number.isFinite(scoreA) ? scoreA : -1;
+          const safeScoreB = Number.isFinite(scoreB) ? scoreB : -1;
+          if (safeScoreA !== safeScoreB) {
+            return safeScoreB - safeScoreA;
+          }
+          const votesA = Number(a.tmdb_vote_count);
+          const votesB = Number(b.tmdb_vote_count);
+          const safeVotesA = Number.isFinite(votesA) ? votesA : -1;
+          const safeVotesB = Number.isFinite(votesB) ? votesB : -1;
+          if (safeVotesA !== safeVotesB) {
+            return safeVotesB - safeVotesA;
+          }
+        }
         return (
-          a.start_date.localeCompare(b.start_date)
+          dateKeyA.localeCompare(dateKeyB)
           || a.time.localeCompare(b.time)
           || a.title.localeCompare(b.title)
         );
       });
       const byDate = new Map();
       for (const event of sorted) {
-        if (!byDate.has(event.start_date)) {
-          byDate.set(event.start_date, []);
+        const dateKey = listDateKey(event);
+        if (!byDate.has(dateKey)) {
+          byDate.set(dateKey, []);
         }
-        byDate.get(event.start_date).push(event);
+        byDate.get(dateKey).push(event);
       }
       const blocks = [];
       for (const [date, dateEvents] of byDate) {
@@ -643,7 +920,17 @@
           .map((event) => {
             const safeId = escapeHtml(event.id);
             const safeTitle = escapeHtml(event.title);
-            const safeMeta = escapeHtml(`${event.time} · ${event.source} · ${event.category}`);
+            const rating = tmdbLabel(event);
+            const languageVersion = movieLanguageLabel(event);
+            const metaParts = [event.time, event.source, event.category];
+            if (languageVersion) {
+              metaParts.push(languageVersion);
+            }
+            if (rating) {
+              metaParts.push(rating);
+            }
+            const meta = metaParts.join(" · ");
+            const safeMeta = escapeHtml(meta);
             const categoryCssClass = categoryClass(event.category);
             return `<button class="list-event ${categoryCssClass}" type="button" `
               + `data-event-id="${safeId}">`
@@ -655,6 +942,13 @@
         );
       }
       listView.innerHTML = blocks.join("");
+    }
+
+    function listDateKey(event) {
+      if (event.start_date < todayDate && event.end_date >= todayDate) {
+        return todayDate;
+      }
+      return event.start_date;
     }
 
     function renderAll() {
@@ -706,9 +1000,17 @@
       const safeDate = escapeHtml(displayDate(event));
       const safeTime = escapeHtml(event.time || "Unknown time");
       const safeUrl = escapeHtml(event.url);
+      const languageVersion = movieLanguageLabel(event);
+      const languageRow = languageVersion
+        ? `<div class="modal-label">Audio</div><div>${escapeHtml(languageVersion)}</div>`
+        : "";
       const descriptionText = event.description
         ? escapeHtml(event.description)
         : "No description available.";
+      const rating = tmdbLabel(event);
+      const ratingRow = rating
+        ? `<div class="modal-label">TMDb</div><div>${escapeHtml(rating)}</div>`
+        : "";
 
       modalContent.innerHTML =
         `<h3 class="modal-title">${safeTitle}</h3>`
@@ -718,6 +1020,8 @@
         + `<div class="modal-label">Source</div><div>${safeSource}</div>`
         + `<div class="modal-label">Category</div><div>${safeCategory}</div>`
         + `<div class="modal-label">Venue</div><div>${safeVenue}</div>`
+        + `${languageRow}`
+        + `${ratingRow}`
         + `</div>`
         + `<p class="modal-desc">${descriptionText}</p>`
         + `<a class="modal-link" href="${safeUrl}" target="_blank" rel="noreferrer">`
@@ -751,14 +1055,165 @@
       });
     }
 
+    function tmdbLabel(event) {
+      if (event.tmdb_vote_average == null) {
+        return "";
+      }
+      const score = Number(event.tmdb_vote_average);
+      if (!Number.isFinite(score) || score <= 0) {
+        return "";
+      }
+      const count = Number(event.tmdb_vote_count);
+      if (Number.isFinite(count) && count > 0) {
+        return `TMDb ${score.toFixed(1)} (${Math.trunc(count)})`;
+      }
+      return `TMDb ${score.toFixed(1)}`;
+    }
+
+    function movieLanguageLabel(event) {
+      if (event.movie_language === "vose") {
+        return "VOSE";
+      }
+      if (event.movie_language === "dubbed_es") {
+        return "Doblada ES";
+      }
+      return "";
+    }
+
     function listenAll(selector) {
       for (const node of document.querySelectorAll(selector)) {
         node.addEventListener("change", renderAll);
       }
     }
 
+    function valuesFromQuery(params, name) {
+      const repeated = params.getAll(name);
+      if (repeated.length > 0) {
+        return repeated
+          .flatMap((value) => value.split(","))
+          .map((value) => value.trim())
+          .filter((value) => value.length > 0);
+      }
+      const single = params.get(name);
+      if (!single) {
+        return [];
+      }
+      return single
+        .split(",")
+        .map((value) => value.trim())
+        .filter((value) => value.length > 0);
+    }
+
+    function applyQueryFilters() {
+      const params = new URLSearchParams(window.location.search);
+
+      const sourceValues = valuesFromQuery(params, "source");
+      if (sourceValues.length > 0) {
+        const wanted = new Set(sourceValues);
+        for (const input of document.querySelectorAll('input[name="source"]')) {
+          input.checked = wanted.has(input.value);
+        }
+      }
+
+      const categoryValues = valuesFromQuery(params, "category");
+      if (categoryValues.length > 0) {
+        const wanted = new Set(categoryValues);
+        for (const input of document.querySelectorAll('input[name="category"]')) {
+          input.checked = wanted.has(input.value);
+        }
+      }
+
+      const start = params.get("start");
+      if (start) {
+        dateStartInput.value = start;
+      } else {
+        dateStartInput.value = todayDate;
+      }
+
+      const end = params.get("end");
+      if (end) {
+        dateEndInput.value = end;
+      }
+
+      const query = params.get("q");
+      if (query) {
+        textFilterInput.value = query;
+      }
+
+      const minScore = params.get("min_score");
+      if (minScore) {
+        scoreMinInput.value = minScore;
+      }
+
+      const minVotes = params.get("min_votes");
+      if (minVotes) {
+        votesMinInput.value = minVotes;
+      }
+
+      const maxDistanceKm = params.get("max_distance_km");
+      if (maxDistanceKm) {
+        distanceKmInput.value = maxDistanceKm;
+      }
+
+      const centerLat = params.get("center_lat");
+      if (centerLat) {
+        centerLatInput.value = centerLat;
+      }
+
+      const centerLon = params.get("center_lon");
+      if (centerLon) {
+        centerLonInput.value = centerLon;
+      }
+
+      const ratedOnly = params.get("rated_only");
+      if (ratedOnly === "1" || ratedOnly === "true") {
+        ratedOnlyInput.checked = true;
+      }
+
+      const listSort = params.get("list_sort");
+      if (listSort === "date" || listSort === "score") {
+        listSortInput.value = listSort;
+      }
+
+      const monthAnchor = start || end;
+      if (monthAnchor && /^\d{4}-\d{2}-\d{2}$/.test(monthAnchor)) {
+        const [year, month] = monthAnchor.split("-").map((item) => Number(item));
+        viewYear = year;
+        viewMonth = month - 1;
+      }
+    }
+
     dateStartInput.addEventListener("change", renderAll);
     dateEndInput.addEventListener("change", renderAll);
+    textFilterInput.addEventListener("input", renderAll);
+    scoreMinInput.addEventListener("input", renderAll);
+    votesMinInput.addEventListener("input", renderAll);
+    distanceKmInput.addEventListener("input", renderAll);
+    distanceKmInput.addEventListener("input", updateDistanceMapOverlay);
+    centerLatInput.addEventListener("input", () => {
+      updateDistanceMapOverlay();
+      renderAll();
+    });
+    centerLonInput.addEventListener("input", () => {
+      updateDistanceMapOverlay();
+      renderAll();
+    });
+    centerGeolocateBtn.addEventListener("click", () => {
+      if (!navigator.geolocation) {
+        return;
+      }
+      navigator.geolocation.getCurrentPosition((position) => {
+        centerLatInput.value = position.coords.latitude.toFixed(6);
+        centerLonInput.value = position.coords.longitude.toFixed(6);
+        if (distanceMap) {
+          distanceMap.setView([position.coords.latitude, position.coords.longitude], 13);
+        }
+        updateDistanceMapOverlay();
+        renderAll();
+      });
+    });
+    ratedOnlyInput.addEventListener("change", renderAll);
+    listSortInput.addEventListener("change", renderAll);
 
     document.getElementById("source-all").addEventListener("click", () => {
       setChecks("source", true);
@@ -846,6 +1301,8 @@
         renderChecks(categoryRoot, "category", categories);
         listenAll('input[name="source"]');
         listenAll('input[name="category"]');
+        applyQueryFilters();
+        initDistanceMap();
         renderAll();
       } catch (error) {
         console.error(error);
