@@ -149,7 +149,12 @@
       gap: 0.45rem;
       flex-wrap: wrap;
       align-items: center;
-      justify-content: space-between;
+      justify-content: flex-start;
+    }
+
+    .coord-readout .input-label {
+      margin: 0;
+      min-width: 160px;
     }
 
     .map-hint {
@@ -169,6 +174,14 @@
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
       gap: 0.45rem;
+      align-items: end;
+    }
+
+    .coord-actions {
+      display: flex;
+      align-items: center;
+      gap: 0.45rem;
+      flex-wrap: wrap;
     }
 
     .coord-readout input {
@@ -471,15 +484,11 @@
         <label class="input-label" for="votes-min">Min TMDb votes
           <input id="votes-min" type="number" min="0" step="1" placeholder="e.g. 200">
         </label>
-        <label class="input-label" for="distance-km">Max distance (km)
-          <input id="distance-km" type="number" min="0" step="0.1" placeholder="e.g. 5">
-        </label>
       </div>
       <div class="filter-row">
         <div class="map-panel">
           <div class="map-toolbar">
             <p class="map-hint">Click on the map to set center.</p>
-            <button id="center-geolocate" class="btn" type="button">Use my location</button>
           </div>
           <div id="distance-map" aria-label="Distance filter map"></div>
           <div class="coord-readout">
@@ -489,6 +498,12 @@
             <label class="input-label" for="center-lon">Center longitude
               <input id="center-lon" type="number" step="0.000001" placeholder="-3.7038" readonly>
             </label>
+            <label class="input-label" for="distance-km">Max distance (km)
+              <input id="distance-km" type="number" min="0" step="0.1" placeholder="e.g. 5">
+            </label>
+            <div class="coord-actions">
+              <button id="center-geolocate" class="btn" type="button">Use my location</button>
+            </div>
           </div>
         </div>
       </div>
@@ -1011,6 +1026,19 @@
       const ratingRow = rating
         ? `<div class="modal-label">TMDb</div><div>${escapeHtml(rating)}</div>`
         : "";
+      const lat = Number(event.lat);
+      const lon = Number(event.lon);
+      const safeLat = Number.isFinite(lat) ? escapeHtml(lat.toFixed(6)) : "";
+      const safeLon = Number.isFinite(lon) ? escapeHtml(lon.toFixed(6)) : "";
+      const safeMapsUrl = Number.isFinite(lat) && Number.isFinite(lon)
+        ? escapeHtml(`https://www.google.com/maps?q=${lat.toFixed(6)},${lon.toFixed(6)}`)
+        : "";
+      const coordsRow = Number.isFinite(lat) && Number.isFinite(lon)
+        ? `<div class="modal-label">Coordinates</div>`
+          + `<div>${safeLat}, ${safeLon} `
+          + `<a class="modal-link" href="${safeMapsUrl}" target="_blank" rel="noreferrer">`
+          + `Open map</a></div>`
+        : "";
 
       modalContent.innerHTML =
         `<h3 class="modal-title">${safeTitle}</h3>`
@@ -1020,6 +1048,7 @@
         + `<div class="modal-label">Source</div><div>${safeSource}</div>`
         + `<div class="modal-label">Category</div><div>${safeCategory}</div>`
         + `<div class="modal-label">Venue</div><div>${safeVenue}</div>`
+        + `${coordsRow}`
         + `${languageRow}`
         + `${ratingRow}`
         + `</div>`

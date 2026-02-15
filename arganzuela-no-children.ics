@@ -2,6 +2,43 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
+SUMMARY:Exponencial. De analógicos a digitales
+DTSTART;TZID=Europe/Madrid:20240514T000000
+DTEND;TZID=Europe/Madrid:20271231T000000
+UID:f5757770ba2619f835632f368e9ae1c25e8353ae577ea62f600b1f84611272c3
+CATEGORIES:exhibition
+DESCRIPTION:Exposición permanente que explora el creciente impacto que ha
+  tenido el desarrollo de las telecomunicaciones en todos los ámbitos de n
+ uestras vidas (Espacio Fundación Telefónica.\n\nhttp://espacio.fundacio
+ ntelefonica.com/
+LOCATION:Espacio Fundación Telefónica - de Fuencarral\, 3\, Madrid\, 280
+ 04
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El martirio de San Andrés
+DTSTART;TZID=Europe/Madrid:20250303T000000
+DTEND;TZID=Europe/Madrid:20260630T000000
+UID:c56452e24e8fd3c171cbe4476576a664eb831b3e40e93f150e0e31a5675aacab
+CATEGORIES:exhibition
+DESCRIPTION:El museo incorpora a su colección una obra maestra de la últ
+ ima época del artista del pintor germano (Museo del Prado. Hasta 30 junio
+  2026).\n\nhttps://www.museodelprado.es/actualidad/exposicion/el-martirio-
+ de-san-andres/812ff002-8b36-b329-bbcd-ac809fdb1f27
+LOCATION:Museo del Prado - del Prado\, s/n\, Madrid\, 28014
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I Creative Campus Awards. Finalistas
+DTSTART;TZID=Europe/Madrid:20250614T000000
+DTEND;TZID=Europe/Madrid:20260731T000000
+UID:288474431daa3fa1e8565455a743f91b846096d02d8bd59edbce0e9ba128576c
+CATEGORIES:exhibition
+DESCRIPTION:La exposición ofrece un recorrido por las ideas\, estilos y v
+ isiones de una nueva generación de diseñadores (Casa del Lector. Hasta 3
+ 1 julio 2026)\n\nhttps://casalector.fundaciongsr.org/finalistas-creative-c
+ ampus-awards/
+LOCATION:Casa del Lector (Matadero) - de la Chopera\, 14\, Madrid\, 28045
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:La conspiración judeo-masónica. La construcción de un mito
 DTSTART;TZID=Europe/Madrid:20250619T000000
 DTEND;TZID=Europe/Madrid:20260331T000000
@@ -12,6 +49,57 @@ DESCRIPTION:Exposición que aporta una mirada crítica para romper con los
  Centro Sefarad-Israel. Hasta 31 marzo 2026).\n\nhttps://www.sefarad-israel
  .es/exposiciones/la-conspiracion-judeo-masonica/
 LOCATION:Centro Sefarad-Israel - Mayor\, 69\, Madrid\, 28013
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Desenfocado. Otra visión del arte
+DTSTART;TZID=Europe/Madrid:20250917T000000
+DTEND;TZID=Europe/Madrid:20260412T000000
+UID:11b5aeaaf0d2ef1676f26ac44ebd966abf626ec5dec60d4a88ffa1480a3db304
+CATEGORIES:exhibition
+DESCRIPTION:Exposición que explora el concepto de desenfoque en el arte c
+ omo nueva manera de comprender el mundo (CaixaForum Madrid. Hasta 12 abr).
+ \n\nhttps://caixaforum.org/es/madrid/p/desenfocado_a173668105
+LOCATION:CaixaForum Madrid - del Prado\, 36\, Madrid\, 28014
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Del alif a la zain: arte caligráfico en movimiento
+DTSTART;TZID=Europe/Madrid:20250925T000000
+DTEND;TZID=Europe/Madrid:20260215T000000
+UID:39b5a964c7d7a898a7f8791c4fc4ce1cbdff74f6dd3567aa8903f5a6912ba4db
+CATEGORIES:exhibition
+DESCRIPTION:Exposición dedicada a la caligrafía árabe de vanguardia que
+  reúne la obra de diez artistas de la región (Casa Árabe. 25 sept a 15 
+ feb).\n\nhttps://casaarabe.es/eventos-arabes/show/del-alif-a-la-zain-arte-
+ caligrafico-en-movimiento
+LOCATION:Casa Árabe - de Alcalá\, 62\, Madrid\, 28009
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fui sobre agua edificada
+DTSTART;TZID=Europe/Madrid:20250926T000000
+DTEND;TZID=Europe/Madrid:20260412T000000
+UID:72d72a8d8af19b2261fdb74e4b194145ef12d84cb714bb3ea3f63b8507efa520
+CATEGORIES:exhibition
+DESCRIPTION:Muestra que reúne las fotografías ganadoras y finalistas del
+  V Concurso de fotografía\, que retrata la presencia del agua en Madrid (
+ Museo de Historia. Hasta 12 abril).\n\nhttps://www.madrid.es/portales/muni
+ madrid/es/Inicio/Cultura-ocio-y-deporte/Museo-de-Historia-de-Madrid/?vgnex
+ tfmt=default&vgnextoid=ab18a1ead63ab010VgnVCM100000d90ca8c0RCRD&vgnextchan
+ nel=7911f073808fe410VgnVCM2000000c205a0aRCRD&idCapitulo=50068026&page=1
+LOCATION:Museo de Historia - de Fuencarral\, 78\, Madrid\, 28004
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La fotoescultura. El 3D del siglo XIX
+DTSTART;TZID=Europe/Madrid:20251006T000000
+DTEND;TZID=Europe/Madrid:20260224T000000
+UID:c25afa704cac1afb2a642f3b60053e325e171fff93d98cf19b46aef7792e5cec
+CATEGORIES:exhibition
+DESCRIPTION:Muestra que reúne por primera vez diecinueve piezas de las tr
+ einta y nueve que integran la colección de fotoesculturas de la galería 
+ (Galería de las Colecciones Reales. Hasta 24 febrero).\n\nhttps://www.gal
+ eriadelascoleccionesreales.es/exposicion/fotoescultura-el-3d-del-siglo-xix
+ /87c952a5-aeee-d6d1-282a-b98bc7363e78
+LOCATION:Galería de las Colecciones Reales - de Bailén\, 8\, Madrid\, 28
+ 013
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Maruja Mallo. Máscara y compás
@@ -25,6 +113,21 @@ DESCRIPTION:La mayor retrospectiva hasta la fecha de una de las artistas m
 LOCATION:Museo Reina Sofía - de Santa Isabel\, 52\, Madrid\, 28012
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:El sueño de la razón. Del Siglo de las Luces a la inteligencia a
+ rtificial
+DTSTART;TZID=Europe/Madrid:20251010T000000
+DTEND;TZID=Europe/Madrid:20260405T000000
+UID:7d01e3a4a6f0001b3f79d5916c5a36ea8c4043f8795bc06ecd19e4b59d63d961
+CATEGORIES:exhibition
+DESCRIPTION:Recorrido que va desde el uso del dibujo y el grabado como for
+ ma científica de representar el mundo hasta el nacimiento de la fotograf
+ ía (Espacio Fundación Telefónica. Hasta 5 abr).\n\nhttps://espacio.fund
+ aciontelefonica.com/evento/el-sueno-de-la-razon-del-siglo-de-las-luces-a-l
+ a-inteligencia-artificial/
+LOCATION:Espacio Fundación Telefónica - de Fuencarral\, 3\, Madrid\, 280
+ 04
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Un paseo por el Real Jardín Botánico en imágenes
 DTSTART;TZID=Europe/Madrid:20251013T000000
 DTEND;TZID=Europe/Madrid:20260228T000000
@@ -36,6 +139,40 @@ DESCRIPTION:Exposición fotográfica al aire libre que celebra los 270 añ
 LOCATION:Real Jardín Botánico - de Murillo\, 2\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Inquietud. Libertad y democracia
+DTSTART;TZID=Europe/Madrid:20251016T000000
+DTEND;TZID=Europe/Madrid:20260308T000000
+UID:9af3deb5a9321dad9164c3c1565b5b288f7c959a8346a291958b095a7a635a9f
+CATEGORIES:exhibition
+DESCRIPTION:Una celebración de los 50 años de la transición democrátic
+ a en Portugal y España (La Casa Encendida. 16 oct a 8 mar).\n\nhttps://ww
+ w.lacasaencendida.es/exposiciones/inquietud-libertad-y-democracia
+LOCATION:La Casa Encendida - de Valencia\, 2\, Madrid\, 28012
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Luis Pérez Calvo. Cromos de artista
+DTSTART;TZID=Europe/Madrid:20251023T000000
+DTEND;TZID=Europe/Madrid:20260426T000000
+UID:d1a38d5c3fda69f1b1cd0cbd644d7f9f891b83bb5c54d1351766903fbb53e43b
+CATEGORIES:exhibition
+DESCRIPTION:El artista multidisciplinar presenta una exposición integrada
+  por una selección de «cromos» y un mural realizado in situ (CentroCent
+ ro. Hasta 26 abr).\n\nhttps://www.centrocentro.org/exposicion/luis-perez-c
+ alvo
+LOCATION:CentroCentro - de Cibeles\, 1\, Madrid\, 28014
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Miluca Sanz. Estratos. La inmortalidad de lo efímero
+DTSTART;TZID=Europe/Madrid:20251023T000000
+DTEND;TZID=Europe/Madrid:20260426T000000
+UID:a6e10ea49be1d7a3e78235e2c58c637d794692e4b473069a9f09d9c2b5a66b7e
+CATEGORIES:exhibition
+DESCRIPTION:Exposición que reúne en formato audiovisual una selección d
+ e los conocidos diarios de la artista (CentroCentro. 23 oct a 26 abr).\n\n
+ https://www.centrocentro.org/exposicion/miluca-sanz-estratos
+LOCATION:CentroCentro - de Cibeles\, 1\, Madrid\, 28014
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Animals
 DTSTART;TZID=Europe/Madrid:20251029T000000
 DTEND;TZID=Europe/Madrid:20260601T000000
@@ -45,6 +182,43 @@ DESCRIPTION:Una selección de 22 retratos de la fotógrafa y activista Ele
  na de Castro que combinan sensibilidad y compromiso (Matadero Madrid. Hast
  a Junio).\n\nhttps://www.mataderomadrid.org/programacion/animals
 LOCATION:Matadero Madrid - de Legazpi\, 8\, Madrid\, 28045
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chez Matisse. El legado de una nueva pintura
+DTSTART;TZID=Europe/Madrid:20251029T000000
+DTEND;TZID=Europe/Madrid:20260222T000000
+UID:7f08d0e6e7054e1cf5ae8fc638b70611fbb18939f4b1d441920fa7272d76e206
+CATEGORIES:exhibition
+DESCRIPTION:Un viaje por la obra del artista que cuestiona las condiciones
+  mismas de la pintura\, pero también su situación emocional y política 
+ (CaixaForum Madrid. Hasta 22 feb).\n\nhttps://caixaforum.org/es/madrid/p/c
+ hez-matisse_a173665344
+LOCATION:CaixaForum Madrid - del Prado\, 36\, Madrid\, 28014
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Legendaria II: Mitos contados e ilustrados
+DTSTART;TZID=Europe/Madrid:20251114T000000
+DTEND;TZID=Europe/Madrid:20260301T000000
+UID:c57e13670cb9d85c5eb340744f41c00ba48f481ce4de829a52ed945fb2822f78
+CATEGORIES:exhibition
+DESCRIPTION:Relatos e ilustraciones que revisitan la mitología española 
+ en un recorrido visual único (Casa del Lector. Hasta 1 marzo 2026).\n\nht
+ tps://casalector.fundaciongsr.org/exposicion-legendaria-ii-mitos-contados-
+ e-ilustrados/
+LOCATION:Casa del Lector (Matadero) - de la Chopera\, 14\, Madrid\, 28045
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pablo Reinoso. La vida se mueve
+DTSTART;TZID=Europe/Madrid:20251114T000000
+DTEND;TZID=Europe/Madrid:20260315T000000
+UID:a44a2b4d8d7de66e2e81d50a9ed744310dfde9dde680a8faccda0696320467d2
+CATEGORIES:exhibition
+DESCRIPTION:Partiendo de objetos tradicionales que adoptan formas inespera
+ das\, sus esculturas exploran la intersección entre el arte y la funciona
+ lidad (Museo Nacional de Artes Decorativas. Hasta 15 mar).\n\nhttps://www
+ .cultura.gob.es/mnartesdecorativas/exposiciones/proximas-exposiciones.html
+LOCATION:Museo Nacional de Artes Decorativas - de Montalbán\, 12\, Madrid
+ \, 28014
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Edgar Degas. En la sombrerería
@@ -60,6 +234,90 @@ LOCATION:Museo Nacional Thyssen-Bornemisza - del Prado\, 8\, Madrid\, 2801
  4
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Iberian sculpture dialogues. The Louvre Museum at the MAN
+DTSTART;TZID=Europe/Madrid:20251118T000000
+DTEND;TZID=Europe/Madrid:20260510T000000
+UID:9c4c57170228f60c1f292ee09682fbe843eefe2f86a047279cd2c62bb0f73f6f
+CATEGORIES:exhibition
+DESCRIPTION:Obras maestras del Museo del Louvre dialogan por primera vez c
+ on la escultura ibérica del MAN (Museo Arqueológico Nacional. Hasta 10 m
+ ay).\n\nhttps://www.man.es/man/exposicion/exposiciones-temporales/20251118
+ -escultura-iberica-louvre-man.html
+LOCATION:Museo Arqueológico Nacional - de Serrano\, 13\, Madrid\, 28001
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Juan Muñoz. Historias de Arte
+DTSTART;TZID=Europe/Madrid:20251118T000000
+DTEND;TZID=Europe/Madrid:20260308T000000
+UID:310b979016675c1fbfbb1d2a4ac210cd6f8251418bc16dfe11899ca31ba470b8
+CATEGORIES:exhibition
+DESCRIPTION:Una muestra que recorre una mirada contemporánea del Renacimi
+ ento y del Barroco de la mano del icónico artista (Museo del Prado. Hasta
+  8 mar).\n\nhttps://www.museodelprado.es/actualidad/exposicion/juan-muoz-h
+ istorias-de-arte/499fbef9-c3c6-b73d-740f-7eeede62ca7e
+LOCATION:Museo del Prado - del Prado\, s/n\, Madrid\, 28014
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FOD. Fueradentro
+DTSTART;TZID=Europe/Madrid:20251120T000000
+DTEND;TZID=Europe/Madrid:20260315T000000
+UID:255b3332af088293192b0b414e99f5d8d202e19a5a1740ac12e9d858c242df01
+CATEGORIES:exhibition
+DESCRIPTION:Muestra que propone un diálogo entre pintura\, escultura y ar
+ quitectura en clave contemporánea (CentroCentro. 20 nov a 15 mar).\n\nhtt
+ ps://www.centrocentro.org/exposicion/fod
+LOCATION:CentroCentro - de Cibeles\, 1\, Madrid\, 28014
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hoy es un buen día para hablar de derechos digitales
+DTSTART;TZID=Europe/Madrid:20251120T000000
+DTEND;TZID=Europe/Madrid:20260503T000000
+UID:3c58bff717ecf1ab125e0a8b518f620c9b5257fb9035b059c574c2842926dffa
+CATEGORIES:exhibition
+DESCRIPTION:Reflexión crítica sobre la ciudadanía digital\, los derecho
+ s fundamentales y el impacto de la tecnología en nuestra vida (Espacio Fu
+ ndación Telefónica. Hasta 3 mayo).\n\nhttps://espacio.fundaciontelefonic
+ a.com/evento/hoy-es-un-buen-dia-para-hablar-de-derechos-digitales/
+LOCATION:Espacio Fundación Telefónica - de Fuencarral\, 3\, Madrid\, 280
+ 04
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ómnibus. El futuro se dibuja aquí
+DTSTART;TZID=Europe/Madrid:20251120T000000
+DTEND;TZID=Europe/Madrid:20260228T000000
+UID:91c4ae2270239fc80ca8bb7f06b7a817f516b92f3ea4094853d7882be05457ef
+CATEGORIES:exhibition
+DESCRIPTION:Una experiencia creativa y participativa sobre cómo imaginamo
+ s el futuro (Casa del Lector – Matadero. Hasta 28 febrero).\n\nhttps://c
+ asalector.fundaciongsr.org/omnibus-el-futuro-se-dibuja-aqui/
+LOCATION:Casa del Lector (Matadero) - de la Chopera\, 14\, Madrid\, 28045
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tirarse es sinónimo de futuro desconocido
+DTSTART;TZID=Europe/Madrid:20251120T000000
+DTEND;TZID=Europe/Madrid:20260315T000000
+UID:04944954fdbbb60ba1af5a12a323cb1437045926342299923a796980c3b028c6
+CATEGORIES:exhibition
+DESCRIPTION:Cuatro artistas residentes en Madrid presentan sus obras que v
+ an desde lo instalativo hasta la pintura (CentroCentro. 20 nov a 15 mar).\
+ n\nhttps://www.centrocentro.org/exposicion/tirarse-es-sinonimo-de-futuro-d
+ esconocido
+LOCATION:CentroCentro - de Cibeles\, 1\, Madrid\, 28014
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Antonio Raphael Mengs. El más grande pintor del siglo XVIII
+DTSTART;TZID=Europe/Madrid:20251125T000000
+DTEND;TZID=Europe/Madrid:20260301T000000
+UID:0162b738ce308f1f6bdbe02bc01c59be71b2e9eb55bbc0d4d65840bcbdec8b88
+CATEGORIES:exhibition
+DESCRIPTION:La exposición monográfica más importante hasta la fecha ded
+ icada al pintor alemán que presenta aproximadamente 150 obras (Museo del 
+ Prado. 22 nov a 1 mar).\n\nhttps://www.museodelprado.es/actualidad/exposic
+ ion/antonio-raphael-mengs-el-mas-grande-pintor-del/4be2964e-3169-c21d-52ec
+ -9c6caf24cbfb
+LOCATION:Museo del Prado - del Prado\, s/n\, Madrid\, 28014
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Juan Uslé. Ese barco en la montaña
 DTSTART;TZID=Europe/Madrid:20251126T000000
 DTEND;TZID=Europe/Madrid:20260420T000000
@@ -70,6 +328,73 @@ DESCRIPTION:Gran muestra antológica que profundiza en los más de cuarent
  0 abril).\n\nhttps://www.museoreinasofia.es/prensa/nota-de-prensa/juan-usl
  e
 LOCATION:Museo Reina Sofía - de Santa Isabel\, 52\, Madrid\, 28012
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Let's PLay. Juguemos en la colección
+DTSTART;TZID=Europe/Madrid:20251127T000000
+DTEND;TZID=Europe/Madrid:20260308T000000
+UID:8af689c2443a9cd286b3ea9af61e4fd9bba98871e4f39c16f4434a1e989ff0ae
+CATEGORIES:exhibition
+DESCRIPTION:Varias intervenciones artísticas invitan a reinterpretar la c
+ olección permanente del museo y su narrativa\, dentro de la programación
+  de BIENALSUR 2025 (Museo Nacional de Artes Decorativas.\n\nhttps://bienal
+ sur.org/es/single_agenda/714
+LOCATION:Museo Nacional de Artes Decorativas - de Montalbán\, 12\, Madrid
+ \, 28014
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:“El Prado en femenino III”. Promotoras artísticas de las cole
+ cciones del Museo (1701-1819)
+DTSTART;TZID=Europe/Madrid:20251201T000000
+DTEND;TZID=Europe/Madrid:20260524T000000
+UID:372b32e86de0139aca0f333c75d996f0ab75515e6d6e6e063190b9412c65f338
+CATEGORIES:exhibition
+DESCRIPTION:Un recorrido por la decisiva huella de las mujeres en la forma
+ ción del Prado durante el siglo XVIII (Museo del Prado. Hasta 24 may).\n\
+ nhttps://www.museodelprado.es/actualidad/exposicion/el-prado-en-femenino-i
+ ii-promotoras-artisticas-de/3f7ed688-956b-487f-957b-6a377fbeffd1
+LOCATION:Museo del Prado - del Prado\, s/n\, Madrid\, 28014
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Victoria Eugenia
+DTSTART;TZID=Europe/Madrid:20251203T000000
+DTEND;TZID=Europe/Madrid:20260405T000000
+UID:e677e5325777bd7995bb66f0d9d60972ee75b3c20ba5e69f4e01a995d109ff76
+CATEGORIES:exhibition
+DESCRIPTION:Un viaje a través de la fascinante vida y legado de la reina 
+ Victoria Eugenia de Battenberg (Galería de las Colecciones Reales. Hasta 
+ 5 abr).\n\nhttps://www.galeriadelascoleccionesreales.es/exposicion/victori
+ a-eugenia/bde4b248-65e8-6cc8-44bb-6b91b6666366
+LOCATION:Galería de las Colecciones Reales - de Bailén\, 8\, Madrid\, 28
+ 013
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Juguetes Reales
+DTSTART;TZID=Europe/Madrid:20251216T000000
+DTEND;TZID=Europe/Madrid:20260405T000000
+UID:e4192339b7d35caa284b51b57fc67959f42dbf324701e0ff658c160b01378e68
+CATEGORIES:exhibition
+DESCRIPTION:Objetos relacionados con el ocio y el aprendizaje que formaron
+  parte de la infancia de la monarquía española entre mediados del siglo 
+ XIX y el primer tercio del XX (Galería de las Colecciones Reale\n\nhttps:
+ //www.galeriadelascoleccionesreales.es/exposicion/juguetes-reales/067453c6
+ -f34b-42d9-f0d3-993690226ada
+LOCATION:Galería de las Colecciones Reales - de Bailén\, 8\, Madrid\, 28
+ 013
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Naturaleza de asfalto. Madrid hiperrealista. José Miguel Palacio
+DTSTART;TZID=Europe/Madrid:20251216T000000
+DTEND;TZID=Europe/Madrid:20260524T000000
+UID:2a0e4846f4d89ac27a3dcb05bbe6f34ccb84bbee99b3e0868f72ac8bce5937dc
+CATEGORIES:exhibition
+DESCRIPTION:El artista aragonés expone varias pinturas\, esculturas y dib
+ ujos en los que Madrid es retratada en todo su esplendor (Museo de Histori
+ a. Hasta 24 may).\n\nhttps://www.madrid.es/portales/munimadrid/es/Inicio/C
+ ultura-ocio-y-deporte/Fiestas-en-Madrid/Museo-de-Historia-de-Madrid/?vgnex
+ tfmt=default&vgnextoid=ab18a1ead63ab010VgnVCM100000d90ca8c0RCRD&vgnextchan
+ nel=8ef1bbef60841810VgnVCM1000001d4a900aRCRD&idCapitul
+LOCATION:Museo de Historia - de Fuencarral\, 78\, Madrid\, 28004
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Oliver Laxe. HU/هُوَ. Bailad como si nadie os viera
@@ -95,6 +420,81 @@ DESCRIPTION:Selección de obras del fotógrafo español considerado uno d
  bellasartessanfernando.com/actividades/exposiciones/oriol-maspons/
 LOCATION:Real Academia de Bellas Artes de San Fernando - de Alcalá\, 13\,
   Madrid\, 28014
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:75 años de la Colección Marañón: el origen del Fondo Antiguo d
+ e la Biblioteca COAM
+DTSTART;TZID=Europe/Madrid:20251218T000000
+DTEND;TZID=Europe/Madrid:20260529T000000
+UID:5cf4e0b75b255d2fbd9f6653a664775d331b70a2607ac694fd6413d10a0936da
+CATEGORIES:exhibition
+DESCRIPTION:Exposición que rinde homenaje a la biblioteca del Colegio Ofi
+ cial de Arquitectos de Madrid y a la adquisición de un conjunto bibliogr
+ áfico de gran valor que dio origen a sus fondos antiguos (COAM.\n\nhttps:
+ //www.coam.org/actualidad-agenda-coam-75-anos-de-la-coleccion-maranon-el-o
+ rigen-del-fondo-antiguo-de-la-biblioteca-coam/
+LOCATION:COAM - de Hortaleza\, 63\, Madrid\, 28004
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Carmen Martín Gaite. Un paradigma de mujer de letras
+DTSTART;TZID=Europe/Madrid:20251218T000000
+DTEND;TZID=Europe/Madrid:20260517T000000
+UID:dbc72b60af8520874eab4f89889e879e6a88e9c4f432187e07bdcc3fdadebd26
+CATEGORIES:exhibition
+DESCRIPTION:Exposición dedicada a la vida y obra de Carmen Martín Gaite\
+ , figura esencial de la literatura española contemporánea (Biblioteca Na
+ cional. Hasta 17 mayo).\n\nhttps://bne.es/es/agenda/carmen-martin-gaite-pa
+ radigma-mujer-letras
+LOCATION:Biblioteca Nacional - de Recoletos\, 20 - 22\, Madrid\, 28071
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Documentar la arquitectura: 50 años del Servicio Histórico del C
+ OAM
+DTSTART;TZID=Europe/Madrid:20251218T000000
+DTEND;TZID=Europe/Madrid:20260227T000000
+UID:663c26c91b690f11caef1dcc033d56edb3a8f80cecd1b3d52b6d9e7a6322113b
+CATEGORIES:exhibition
+DESCRIPTION:Exposición que rinde homenaje al trabajo realizado para conse
+ rvar y difundir el patrimonio documental arquitectónico español (COAM. H
+ asta 27 febrero).\n\nhttps://www.coam.org/actualidad-agenda-coam-documenta
+ r-la-arquitectura-50-anos-del-servicio-historico-del-coam/
+LOCATION:COAM - de Hortaleza\, 63\, Madrid\, 28004
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ignacio Aldecoa\, el oficio de escribir
+DTSTART;TZID=Europe/Madrid:20251218T000000
+DTEND;TZID=Europe/Madrid:20260517T000000
+UID:5957acde5e7de3e55d0d2cc4ff4efe04274aae268edd6f80515f5da88a453b38
+CATEGORIES:exhibition
+DESCRIPTION:Exposición dedicada a la vida y la obra del escritor Ignacio 
+ Aldecoa\, a través de su proceso creativo y su legado literario (Bibliote
+ ca Nacional. 18 dic a 17 may).\n\nhttps://bne.es/es/agenda/ignacio-aldecoa
+ -oficio-escribir
+LOCATION:Biblioteca Nacional - de Recoletos\, 20 - 22\, Madrid\, 28071
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Javier Garcerá. El pico al aire
+DTSTART;TZID=Europe/Madrid:20251218T000000
+DTEND;TZID=Europe/Madrid:20260503T000000
+UID:77e93f2b56914c5f77af9df3c1608b4c2a49e1bfcbb5823f03ff23aae8619c24
+CATEGORIES:exhibition
+DESCRIPTION:El espacio dialogará con esta gran instalación de pinturas\,
+  generando una experiencia inmersiva y sensorial para el público (CentroC
+ entro. Hasta 3 may).\n\nhttps://www.centrocentro.org/exposicion/javier-gar
+ cera
+LOCATION:CentroCentro - de Cibeles\, 1\, Madrid\, 28014
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Entre Oriente y Occidente. Chipre\, la isla de Afrodita
+DTSTART;TZID=Europe/Madrid:20260113T000000
+DTEND;TZID=Europe/Madrid:20260412T000000
+UID:e86d00f0db809e687cb5e1e7bb78489df614784bbc6c896769b36fafee06aaf8
+CATEGORIES:exhibition
+DESCRIPTION:Selcción de piezas de la colección chipriota del MAN fuert
+ emente ligada al Viaje a Oriente de la Fragata Arapiles (Museo Arqueol
+ ógico Nacional.\n\nhttps://www.man.es/man/exposicion/vitrina0/20260113-ch
+ ipre.html
+LOCATION:Museo Arqueológico Nacional - de Serrano\, 13\, Madrid\, 28001
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fotosíntesis atlántica
@@ -133,6 +533,79 @@ DESCRIPTION:Un espacio de reflexión de C. S. Leyva donde arte e historia
 LOCATION:Real Jardín Botánico - de Murillo\, 2\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Illán Argüello. El emerger de Venus
+DTSTART;TZID=Europe/Madrid:20260121T000000
+DTEND;TZID=Europe/Madrid:20260301T000000
+UID:affbc44af3788c5d8ebb5edc9b0f52f00eb15d0f061b5ce0f2961913bff13c6c
+CATEGORIES:exhibition
+DESCRIPTION:Una reflexión visual del artista madrileño sobre un futuro c
+ ercano\, ambiguo y emocionalmente contradictorio (CentroCentro. Hasta 1 ma
+ r).\n\nhttps://www.centrocentro.org/exposicion/illan-arguello-el-emerger-d
+ e-venus
+LOCATION:CentroCentro - de Cibeles\, 1\, Madrid\, 28014
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Fold. Hoda Afshar
+DTSTART;TZID=Europe/Madrid:20260127T000000
+DTEND;TZID=Europe/Madrid:20260426T000000
+UID:ecb5a5d9a1cd876185b3e9831edb8c7d1d235128eb923b9e4d254a6a88303485
+CATEGORIES:exhibition
+DESCRIPTION:Una investigación visual y psicológica del psiquiatra y fot
+ ógrafo francés Gaëtan Gatian de Clérambault (La Casa Encendida. 27 ene
+  a 26 abr)\n\nhttps://www.lacasaencendida.es/exposiciones/the-fold-hoda-af
+ shar
+LOCATION:La Casa Encendida - de Valencia\, 2\, Madrid\, 28012
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:De Babel al último rey de Iraq: una civilización milenaria
+DTSTART;TZID=Europe/Madrid:20260129T000000
+DTEND;TZID=Europe/Madrid:20260517T000000
+UID:d6855d91270850bf77368e9ab0b8d94f6e335e2acee53c0a01c93d6c059b2ae9
+CATEGORIES:exhibition
+DESCRIPTION:Las obras del artista iraquí Hanoos Hanoos reflexionan sobre 
+ el poder\, la violencia y la fragilidad humana (Casa Árabe. Hasta 17 mayo
+ ).\n\nhttps://casaarabe.es/eventos-arabes/show/de-babel-al-ultimo-rey-de-i
+ raq-una-civilizacion-milenaria
+LOCATION:Casa Árabe - de Alcalá\, 62\, Madrid\, 28009
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wunderkammer. Ana Juan
+DTSTART;TZID=Europe/Madrid:20260129T000000
+DTEND;TZID=Europe/Madrid:20260503T000000
+UID:bd560a4688dbb2c37fd172a78c32e5f54d1eaea04584c945ae73f943dd37c57d
+CATEGORIES:exhibition
+DESCRIPTION:Exposición de varios dibujos realizados por la destacada ilus
+ tradora valenciana en los que muestra su particular forma de entender el m
+ undo (CentroCentro. Hasta 3 may).\n\nhttps://www.centrocentro.org/exposici
+ on/ana-juan
+LOCATION:CentroCentro - de Cibeles\, 1\, Madrid\, 28014
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fundación. Marlon de Azambuja
+DTSTART;TZID=Europe/Madrid:20260130T000000
+DTEND;TZID=Europe/Madrid:20260927T000000
+UID:2b785145092292f5ea909f9863e266ee1c97c5fcfc663e9bb72ea13d7ebc09b3
+CATEGORIES:exhibition
+DESCRIPTION:Instalación escultórica del artista visual brasileño en la 
+ que el espacio se transforma en un territorio vivo (La Casa Encendida. Has
+ ta 27 sept).\n\nhttps://www.lacasaencendida.es/exposiciones/fundacion-marl
+ on-de-azambuja
+LOCATION:La Casa Encendida - de Valencia\, 2\, Madrid\, 28012
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El Prado Multiplicado. La fotografía como memoria compartida
+DTSTART;TZID=Europe/Madrid:20260202T000000
+DTEND;TZID=Europe/Madrid:20260405T000000
+UID:8e719dfa1a82b570d1c1914ef962331f63e7b54104dae839f6105f19969a5628
+CATEGORIES:exhibition
+DESCRIPTION:Muestra de imágenes en diversos formatos\, técnicas y soport
+ es\, realizadas por firmas fotográficas nacionales y extranjeras como Lau
+ rent\, Moreno\, Anderson o Hanfstaengl (Museo del Prado.\n\nhttps://www.mu
+ seodelprado.es/actualidad/exposicion/el-prado-multiplicado-la-fotografia-c
+ omo-memoria/2658bee2-97e8-d418-1e9d-94ae293bc637
+LOCATION:Museo del Prado - del Prado\, s/n\, Madrid\, 28014
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Migrar. Historias de Movimiento\, Pertenencia y Transformación
 DTSTART;TZID=Europe/Madrid:20260203T000000
 DTEND;TZID=Europe/Madrid:20260329T000000
@@ -159,6 +632,32 @@ LOCATION:Museo Nacional Thyssen-Bornemisza - del Prado\, 8\, Madrid\, 2801
  4
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Arte textil en Guatemala: diseño e identidad
+DTSTART;TZID=Europe/Madrid:20260205T000000
+DTEND;TZID=Europe/Madrid:20260503T000000
+UID:c0b09beb1ec0ebc6e553c293d7079441adb203ed1743c209c138b4067e34e67e
+CATEGORIES:exhibition
+DESCRIPTION:Muestra que reúne una selección de huipiles y piezas elabora
+ das mediante técnicas tradicionales como el telar de cintura o el brocado
+  (Fernán Gómez Centro Cultural de la Villa.\n\nhttps://madriddesignfest
+ ival.lafabrica.com/eventos/diseno-y-arte-textil/
+LOCATION:Fernán Gómez Centro Cultural de la Villa - de Colón \, 4\, Mad
+ rid\, 28001
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:André Ricard. Diseño en uso
+DTSTART;TZID=Europe/Madrid:20260206T000000
+DTEND;TZID=Europe/Madrid:20260503T000000
+UID:e5f8945a72469621ea9ab39674024a5f86b7d3977fa5481f659e5f0a7207c51d
+CATEGORIES:exhibition
+DESCRIPTION:Exposición dedicada a los diseños del artista que se asocian
+  con lo cotidiano y lo invisible (Fernán Gómez Centro Cultural de la Vil
+ la. 6 feb a 3 may).\n\nhttps://madriddesignfestival.lafabrica.com/eventos/
+ andre-ricard-diseno-en-uso/
+LOCATION:Fernán Gómez Centro Cultural de la Villa - de Colón \, 4\, Mad
+ rid\, 28001
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Hotel del artefacto expoliado
 DTSTART;TZID=Europe/Madrid:20260206T000000
 DTEND;TZID=Europe/Madrid:20260524T000000
@@ -170,6 +669,19 @@ DESCRIPTION:Exposición de la artista Agnes Essonti que forma parte del pr
  vidades/agenda/2026/expotemporales2026/hotel.html
 LOCATION:Museo Nacional de Antropología - de Alfonso XII\, 68\, Madrid\, 
  28014
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manifiesto Mediterráneo
+DTSTART;TZID=Europe/Madrid:20260206T000000
+DTEND;TZID=Europe/Madrid:20260503T000000
+UID:0536ba76d5898c9d49f816d09270bc88efae2dc7d918276580a6730faf2a57a9
+CATEGORIES:exhibition
+DESCRIPTION:Muestra que agrupa un cambio de paradigma a la hora de vivir\,
+  a través de una selección de muebles de distintos diseñadores (Fernán
+  Gómez Centro Cultural de la Villa. 6 feb a 3 may).\n\nhttps://madriddesi
+ gnfestival.lafabrica.com/eventos/manifiesto-mediterraneo/
+LOCATION:Fernán Gómez Centro Cultural de la Villa - de Colón \, 4\, Mad
+ rid\, 28001
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Transitar el siglo XX. Dibujo y escultura en las Colecciones ICO
@@ -221,6 +733,19 @@ DESCRIPTION:Un recorrido por el origen\, el diseño y la construcción de
 LOCATION:Círculo de Bellas Artes - de Alcalá\, 42\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:X Muestra Orfebrería y Joyería Contemporánea
+DTSTART;TZID=Europe/Madrid:20260212T000000
+DTEND;TZID=Europe/Madrid:20260426T000000
+UID:b9ff65408f14c71d21ceaf7b6a5ac5e70165473a9264ffb0e5f8c80cdce76143
+CATEGORIES:exhibition
+DESCRIPTION:Nueva edición de esta muestra que reúne diseños y piezas ar
+ tesanales de joyería y orfebrería en varios museos y espacios culturales
+  de la ciudad (Varios espacios. 12 feb a 26 abr).\n\nhttps://madriddesignf
+ estival.lafabrica.com/eventos/x-muestra-orfebreria-contemporanea-2026/
+LOCATION:Museo Nacional de Artes Decorativas - de Montalbán\, 12\, Madrid
+ \, 28014
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Postales de la memoria. Anotaciones visuales de lugares no olvidad
  os
 DTSTART;TZID=Europe/Madrid:20260212T000000
@@ -259,9 +784,21 @@ DESCRIPTION:Exposición de varios modelos de moda romántica realizados po
 LOCATION:Museo del Romanticismo - de San Mateo\, 13\, Madrid\, 28004
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:MANTEO DEL PELELE
+SUMMARY:Mercado Productores Planetario
+DTSTART;TZID=Europe/Madrid:20260215T100000
+DTEND;TZID=Europe/Madrid:20260215T160000
+UID:ee810b031577939b3f52fe509f784936a06aef66820991da099fb27328100ac1
+CATEGORIES:market
+DESCRIPTION:Mercado de productores locales y artesanos en Planetario con a
+ limentacion sostenible\, productos de cercania y actividades al aire libre
+ .\n\nhttps://mercadoproductores.es/mp-planetario/
+LOCATION:Mercado Productores Planetario - Avenida del Planetario esquina C
+ alle Meneses\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manteo Del Pelele
 DTSTART;TZID=Europe/Madrid:20260215T110000
-UID:6bd6efe26b216fbfadfbad1dad9cbec3d1da37bde93384fa00643e4b68890413
+UID:50eed89b6296feeb9187d3f8d2408a2b5180397aec42b1976e9aaf4898bede4d
 CATEGORIES:other
 DESCRIPTION:El domingo mira a la raíz castiza del carnaval madrileño. El
   Manteo del Pelele abre la mañana con una de las estampas más queridas d
@@ -305,23 +842,9 @@ DESCRIPTION:Cuando una sustancia extraterrestre mezcla el ADN de Zoe con e
 LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Alice
+SUMMARY:Encuentro De Comparsas Y Chirigotas
 DTSTART;TZID=Europe/Madrid:20260215T120000
-UID:e6b0a1e625f841de425ec43217ab735ebe08f187c19b8569d6246b2360125934
-CATEGORIES:cinema
-DESCRIPTION:Después de haber leído el cuento de Lewis Carroll\, Alicia s
- e queda dormida en su cuarto rodeada de sus juguetes\, y en sueños es tra
- nsportada al País de las Maravillas. A medida que persigue al escurridizo
-  Conejo Blanco\, vive peligrosas aventuras en las profundidades del Reino 
- de la Niñez\, que culminan con el juicio a que es sometida en la corte de
- l Rey y la Reina de Corazones.\n\nhttps://www.cinetecamadrid.com/programac
- ion/alice
-LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ENCUENTRO DE COMPARSAS Y CHIRIGOTAS
-DTSTART;TZID=Europe/Madrid:20260215T120000
-UID:6254cc36c83a6f4eabb59de1bafcff71207e02ff5610dbd4577263129e9847b2
+UID:7774391603701f598ff12cec7db56a7b9862fa4494c7303b5c0e0e72b3dcd31a
 CATEGORIES:music
 DESCRIPTION:Las agrupaciones carnavalescas toman la palabra cantada para r
  epasar\, con humor y sentido crítico\, la actualidad social\, política y
@@ -468,6 +991,56 @@ DESCRIPTION:Una hija se dispone a buscar la verdad sobre quién fue su pad
 LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Historias Del Buen Valle
+DTSTART;TZID=Europe/Madrid:20260215T160000
+UID:b486085384f9703318d2c558fc501ff026ef4ef610302ba1a38af71e10bd9f08
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 122 minutos | Pendien
+ te de calificación\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/105449
+ 4/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Chica Zurda
+DTSTART;TZID=Europe/Madrid:20260215T160000
+UID:9d665e12cb3a3cb0fba0d248022696609f5ccbe8b2950616ff621494cf031bc4
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 108 min
+ utos | No recomendada para menores de 12 años\n\nAudio: VOSE\n\nhttps://w
+ ww.pillalas.com/pase/1054429/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Tarta Del Presidente
+DTSTART;TZID=Europe/Madrid:20260215T160000
+UID:fef93aeeaeacf49590ff8da729645cdcc1f6c68faa9b103889ecb78324da3106
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 105 min
+ utos | No recomendada para menores de 12 años\n\nAudio: VOSE\n\nhttps://w
+ ww.pillalas.com/pase/1054492/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:No Hay Otra Opción
+DTSTART;TZID=Europe/Madrid:20260215T160000
+UID:c2f0c7d4513c43d9eaa47013b47320794b72b886e70e7f223d56739a15684e8f
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 139 min
+ utos | Pendiente de calificación\n\nAudio: VOSE\n\nhttps://www.pillalas.c
+ om/pase/1054493/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rondallas
+DTSTART;TZID=Europe/Madrid:20260215T160000
+UID:329b7ba974b5dfe3f6286462fe19a32a52dd6d86ddd24624c03b728422b40959
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 112 minutos | No reco
+ mendada para menores de 12 años\n\nAudio: VOSE\n\nhttps://www.pillalas.co
+ m/pase/1054428/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Como cabras
 DTSTART;TZID=Europe/Madrid:20260215T174500
 DTEND;TZID=Europe/Madrid:20260215T192000
@@ -514,6 +1087,26 @@ DESCRIPTION:La historia sigue a un hombre de mediana edad llamado Man-su q
 LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:No Hay Otra Opción
+DTSTART;TZID=Europe/Madrid:20260215T180000
+UID:4de82e98075b4869894d7b4eac74c6442cf185752de6630f70811eb1f0f474d9
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 139 min
+ utos | Pendiente de calificación\n\nAudio: VOSE\n\nhttps://www.pillalas.c
+ om/pase/1054495/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Historias Del Buen Valle
+DTSTART;TZID=Europe/Madrid:20260215T180500
+UID:a6861b5abc45bd46cbd090759ff2fbf8a2928714e0eb4539007dfd6049907051
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 122 minutos | Pendien
+ te de calificación\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/105443
+ 0/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Cumbres borrascosas
 DTSTART;TZID=Europe/Madrid:20260215T181000
 DTEND;TZID=Europe/Madrid:20260215T202600
@@ -529,6 +1122,16 @@ DESCRIPTION:Una audaz y original reinterpretación de una de una de las hi
 LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:La Tarta Del Presidente
+DTSTART;TZID=Europe/Madrid:20260215T181000
+UID:c75b4f8c867d944441454209af540f31d4c3c332d8f9f23c9ff8e249391274a5
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 105 min
+ utos | No recomendada para menores de 12 años\n\nAudio: VOSE\n\nhttps://w
+ ww.pillalas.com/pase/1054431/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Aída y vuelta
 DTSTART;TZID=Europe/Madrid:20260215T181500
 UID:65e511e828b2034d89fb9b20bc5b6ca46b7f936fb23abf24b4474151f935db06
@@ -540,6 +1143,16 @@ DESCRIPTION:'Aída y vuelta' aborda el rodaje de un capítulo de la serie
  bajo del cómico y la fama.\n\nhttps://cinesembajadores.es/pelicula/aida-y
  -vuelta/?ciudad=madrid
 LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Chica Zurda
+DTSTART;TZID=Europe/Madrid:20260215T182000
+UID:9b71aa2854203f6afaa4f765b42fe824875bf3b5f1841287cd68adb3a762eaca
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 108 min
+ utos | No recomendada para menores de 12 años\n\nAudio: VOSE\n\nhttps://w
+ ww.pillalas.com/pase/1054496/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tres adioses
@@ -558,27 +1171,23 @@ DESCRIPTION:Tras lo que parecía una discusión sin importancia\, Marta (A
 LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Las uvas de la ira (The Grapes of Wrath\, 1940)
-DTSTART;TZID=Europe/Madrid:20260215T190000
-UID:4853127252fd4def097f467b9fd1316ffe030e3c573e0e1a5edd4c010605df6a
+SUMMARY:Rondallas
+DTSTART;TZID=Europe/Madrid:20260215T183500
+UID:1403720293d0c03b162ea62502326209711ba7b22f0c3b41e0a6539b22110570
 CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Domingo 15 de Febrero a las 19:00h (Sala 1. Teji
- dos colectivos. Historias populares de resistencia). *Aunque las entradas 
- aparezcan como agotadas en web\, pueden adquirirse en taquilla entradas pa
- ra las sesiones del día (de 17h a 20h)\n\nhttps://entradasfilmoteca.sacat
- uentrada.es/es/productos/descripcion/las-uvas-de-la-ira
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
+DESCRIPTION:Versión Original Castellano | Duración 112 minutos | No reco
+ mendada para menores de 12 años\n\nAudio: VOSE\n\nhttps://www.pillalas.co
+ m/pase/1054497/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:En construcción
+SUMMARY:Jaco Pastorius Legacy 5tet
 DTSTART;TZID=Europe/Madrid:20260215T193000
-UID:4aba97b3326e13e0b48351c13d35b77fdfd0d522999e77d3e42a4ce9476d2fe7
-CATEGORIES:cinema
-DESCRIPTION:La construcción de un inmueble en el Barrio Chino\, barrio po
- pular de Barcelona\, donde conviven obreros\, inmigrantes\, vagabundos y p
- rostitutas.\n\nhttps://www.cinetecamadrid.com/programacion/en-construccion
-LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
+UID:9ad1275b8657ae7316eb7a1395bd8a4c8ea2b77d1a11aedc0960fc66bd30effa
+CATEGORIES:music
+DESCRIPTION:Sala Villanos agenda event. Concierto / Villanos del Jazz\n\nh
+ ttps://salavillanos.es/evento/jaco-pastorius-legacy-5tet/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Marty Supreme
@@ -639,6 +1248,36 @@ DESCRIPTION:Dos años después del trágico naufragio de un barco pesquero
 LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:No Hay Otra Opción
+DTSTART;TZID=Europe/Madrid:20260215T201000
+UID:9fa7ae609f9fb2d7061990205744576bf60fd69ce1444f9e24c7e10d2c0d3b46
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 139 min
+ utos | Pendiente de calificación\n\nAudio: VOSE\n\nhttps://www.pillalas.c
+ om/pase/1054432/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Historias Del Buen Valle
+DTSTART;TZID=Europe/Madrid:20260215T202500
+UID:eb01775d4cd257326281418e59616e2fa0db8c88189418a33e84858dcddb3bb9
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 122 minutos | Pendien
+ te de calificación\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/105449
+ 8/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Chica Zurda
+DTSTART;TZID=Europe/Madrid:20260215T202500
+UID:db61a2db972cc3cfa7bedcb7a5b295881b353612d299305517d0fe0dde187723
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 108 min
+ utos | No recomendada para menores de 12 años\n\nAudio: VOSE\n\nhttps://w
+ ww.pillalas.com/pase/1054433/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Como cabras
 DTSTART;TZID=Europe/Madrid:20260215T203000
 DTEND;TZID=Europe/Madrid:20260215T220500
@@ -670,6 +1309,26 @@ DESCRIPTION:La historia sigue a un hombre de mediana edad llamado Man-su q
  a por Costa-Gavras en 2005.\n\nAudio: VOSE\n\nhttps://cinesembajadores.es/
  pelicula/no-hay-otra-opcion-vose/?ciudad=madrid
 LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Tarta Del Presidente
+DTSTART;TZID=Europe/Madrid:20260215T203500
+UID:0e044fc222ce9a8483502b0abe2907c26729553158e897b04567307f41489a0e
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 105 min
+ utos | No recomendada para menores de 12 años\n\nAudio: VOSE\n\nhttps://w
+ ww.pillalas.com/pase/1054499/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rondallas
+DTSTART;TZID=Europe/Madrid:20260215T204000
+UID:a235ad0c31821b745a413ce2891d06992cb0ac10c88b87db37077be77c954962
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 112 minutos | No reco
+ mendada para menores de 12 años\n\nAudio: VOSE\n\nhttps://www.pillalas.co
+ m/pase/1054500/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tres adioses
@@ -727,6 +1386,106 @@ DESCRIPTION:Una audaz y original reinterpretación de una de una de las hi
  \nAudio: VOSE\n\nhttps://cinesembajadores.es/pelicula/cumbres-borrascosas-
  vose/?ciudad=madrid
 LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Historias Del Buen Valle
+DTSTART;TZID=Europe/Madrid:20260215T223000
+UID:0fd7c0cc3884d8ea287384b862fd9b07c516a0013c886a00fa7fb8163ba830af
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 122 minutos | Pendien
+ te de calificación\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/105443
+ 4/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:No Hay Otra Opción
+DTSTART;TZID=Europe/Madrid:20260215T224000
+UID:bbe5c556202c57e6be4cc7daeeb2761f6f2b8d650571d8f326abb604a22e21d4
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 139 min
+ utos | Pendiente de calificación\n\nAudio: VOSE\n\nhttps://www.pillalas.c
+ om/pase/1054501/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Chica Zurda
+DTSTART;TZID=Europe/Madrid:20260215T224500
+UID:b5ee8888b9eaf1ac3a3cef1e0adc2f307dd2c2d9ccb14ebd99d9f49fed3e9106
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 108 min
+ utos | No recomendada para menores de 12 años\n\nAudio: VOSE\n\nhttps://w
+ ww.pillalas.com/pase/1054502/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Tarta Del Presidente
+DTSTART;TZID=Europe/Madrid:20260215T224500
+UID:51b1652177ffb8c658c713b071398210641fd5174e01395cafea23adc2485deb
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 105 min
+ utos | No recomendada para menores de 12 años\n\nAudio: VOSE\n\nhttps://w
+ ww.pillalas.com/pase/1054435/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rondallas
+DTSTART;TZID=Europe/Madrid:20260215T224500
+UID:01d860075de824512d0b40e1eebaa0b9f1a594960297c59be8a53f5cb9ae0523
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 112 minutos | No reco
+ mendada para menores de 12 años\n\nAudio: VOSE\n\nhttps://www.pillalas.co
+ m/pase/1054503/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Historias Del Buen Valle
+DTSTART;TZID=Europe/Madrid:20260216T160000
+UID:35f46a97a2272a9b56fdba8a21b694bc7262216946fbdb033322f3dd40423027
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 122 minutos | Pendien
+ te de calificación\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/105450
+ 6/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Chica Zurda
+DTSTART;TZID=Europe/Madrid:20260216T160000
+UID:f4433965aa912451ebfc0d4ccdf5b5ad6386bb56509798e78025659ea4c166da
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 108 min
+ utos | No recomendada para menores de 12 años\n\nAudio: VOSE\n\nhttps://w
+ ww.pillalas.com/pase/1054437/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Tarta Del Presidente
+DTSTART;TZID=Europe/Madrid:20260216T160000
+UID:0aedcfe24f91c8ad003d78f6991044b387539a75b2e42050082f3ff4b7c51a69
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 105 min
+ utos | No recomendada para menores de 12 años\n\nAudio: VOSE\n\nhttps://w
+ ww.pillalas.com/pase/1054504/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:No Hay Otra Opción
+DTSTART;TZID=Europe/Madrid:20260216T160000
+UID:c8a73aa6081d19b5d483ef09c1dc9fbfc116eaf3ba88a81501e5b515351d7de7
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 139 min
+ utos | Pendiente de calificación\n\nAudio: VOSE\n\nhttps://www.pillalas.c
+ om/pase/1054505/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rondallas
+DTSTART;TZID=Europe/Madrid:20260216T160000
+UID:89bf7e2f6da81e877f6ef0bfcdd905a66c698bb2e9e176c07ac8bcf82aaee1d1
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 112 minutos | No reco
+ mendada para menores de 12 años\n\nAudio: VOSE\n\nhttps://www.pillalas.co
+ m/pase/1054436/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tres adioses
@@ -815,6 +1574,56 @@ DESCRIPTION:Dos años después del trágico naufragio de un barco pesquero
  cinos\, pero sobre todo de empezar a mirar hacia delante de nuevo.\n\nhttp
  s://cinesembajadores.es/pelicula/rondallas/?ciudad=madrid
 LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:No Hay Otra Opción
+DTSTART;TZID=Europe/Madrid:20260216T180000
+UID:13283fd9f8c5027d4b2ecc0c53e15a9c199aff4125abe9366425be064b2e94d5
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 139 min
+ utos | Pendiente de calificación\n\nAudio: VOSE\n\nhttps://www.pillalas.c
+ om/pase/1054507/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Historias Del Buen Valle
+DTSTART;TZID=Europe/Madrid:20260216T180500
+UID:352b3a4e0018035f2a0e40728b7ddbf52474f22e302107704cedd260eb7ad333
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 122 minutos | Pendien
+ te de calificación\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/105443
+ 8/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Tarta Del Presidente
+DTSTART;TZID=Europe/Madrid:20260216T181000
+UID:bf53e3c2e2bdf96918e334df3c0e6e79bc652190866a754c059e894a3e59bd7e
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 105 min
+ utos | No recomendada para menores de 12 años\n\nAudio: VOSE\n\nhttps://w
+ ww.pillalas.com/pase/1054439/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Chica Zurda
+DTSTART;TZID=Europe/Madrid:20260216T182000
+UID:b2044658221bb28adedd6a0e1d184a97d60cff78ff86e2e8759dce85101033f4
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 108 min
+ utos | No recomendada para menores de 12 años\n\nAudio: VOSE\n\nhttps://w
+ ww.pillalas.com/pase/1054508/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rondallas
+DTSTART;TZID=Europe/Madrid:20260216T183500
+UID:8cd4b3e9d877eee1096c5aec1218f3a8866fc1fc4e687d12e9348bd753c8dc62
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 112 minutos | No reco
+ mendada para menores de 12 años\n\nAudio: VOSE\n\nhttps://www.pillalas.co
+ m/pase/1054509/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Una pastelería en Tokio
@@ -907,6 +1716,76 @@ DESCRIPTION:Tras lo que parecía una discusión sin importancia\, Marta (A
 LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:GOGO PENGUIN With special guest Daudi Matsiko
+DTSTART;TZID=Europe/Madrid:20260216T200000
+UID:bb860c10f9ecd97d7f95da9fcf11f20fc7629d3a4553f660cf44ab63d25c88d0
+CATEGORIES:music
+DESCRIPTION:Sala Villanos agenda event. Concierto / Villanos del Jazz\n\nh
+ ttps://salavillanos.es/evento/gogo-penguin-with-special-guest-daudi-matsik
+ o/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:No Hay Otra Opción
+DTSTART;TZID=Europe/Madrid:20260216T201000
+UID:bc106dd51cbf31144157b9af160b0d8146f756a5690c3804c0489e8b61c896d5
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 139 min
+ utos | Pendiente de calificación\n\nAudio: VOSE\n\nhttps://www.pillalas.c
+ om/pase/1054440/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Historias Del Buen Valle
+DTSTART;TZID=Europe/Madrid:20260216T202500
+UID:289fbb203681008f5fb4a9356f5cc6f9d809fc922bd22ebe46530bcb98dda932
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 122 minutos | Pendien
+ te de calificación\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/105451
+ 0/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Chica Zurda
+DTSTART;TZID=Europe/Madrid:20260216T202500
+UID:f82245f5079fcb99ad4f676e9aec70ee389d0b93addc9ba4f9470a691f0a74f2
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 108 min
+ utos | No recomendada para menores de 12 años\n\nAudio: VOSE\n\nhttps://w
+ ww.pillalas.com/pase/1054441/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Tarta Del Presidente
+DTSTART;TZID=Europe/Madrid:20260216T203500
+UID:18a874bfcd0c899840445f8b643c8213d1021138bb55e0500d64afdf4717a51a
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 105 min
+ utos | No recomendada para menores de 12 años\n\nAudio: VOSE\n\nhttps://w
+ ww.pillalas.com/pase/1054511/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rondallas
+DTSTART;TZID=Europe/Madrid:20260216T204000
+UID:59df89af52949e675211caea247e36bd930e8ff67d2b09d6910a464120b5f514
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 112 minutos | No reco
+ mendada para menores de 12 años\n\nAudio: VOSE\n\nhttps://www.pillalas.co
+ m/pase/1054512/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GOGO PENGUIN With special guest Daudi Matsiko
+DTSTART;TZID=Europe/Madrid:20260216T221500
+UID:1b0a0cfa28992bf7c8304799659125a7814553f7d33ae8f528bc6fb1aaadc394
+CATEGORIES:music
+DESCRIPTION:Sala Villanos agenda event. Concierto / Villanos del Jazz\n\nh
+ ttps://salavillanos.es/evento/gogo-penguin-with-special-guest-daudi-matsik
+ o-2/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Cumbres borrascosas
 DTSTART;TZID=Europe/Madrid:20260216T223000
 DTEND;TZID=Europe/Madrid:20260217T004600
@@ -950,6 +1829,56 @@ DESCRIPTION:Las hermanas Nora y Agnes se reencuentran con su distanciado p
  io: VOSE\n\nhttps://cinesembajadores.es/pelicula/valor-sentimental-vose/?c
  iudad=madrid
 LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Historias Del Buen Valle
+DTSTART;TZID=Europe/Madrid:20260216T223000
+UID:491695b6730acc9eecb5dd9384c67932584ac35c1ee038ee6f7d5ec87c07d96a
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 122 minutos | Pendien
+ te de calificación\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/105444
+ 2/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:No Hay Otra Opción
+DTSTART;TZID=Europe/Madrid:20260216T224000
+UID:6124a382ec1b1afc96bc22752c315ec3c3a85a6b7e71f67a4eda600ff62c34ad
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 139 min
+ utos | Pendiente de calificación\n\nAudio: VOSE\n\nhttps://www.pillalas.c
+ om/pase/1054513/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Chica Zurda
+DTSTART;TZID=Europe/Madrid:20260216T224500
+UID:fa07100a2e69505751220f7b3b6974b4a45dde46fc5473428ca6985416daa8de
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 108 min
+ utos | No recomendada para menores de 12 años\n\nAudio: VOSE\n\nhttps://w
+ ww.pillalas.com/pase/1054514/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Tarta Del Presidente
+DTSTART;TZID=Europe/Madrid:20260216T224500
+UID:35a9cd25aeb00abbc90b1805678ce5568bd7f321a4264cdb897df3e1a0d7bb15
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 105 min
+ utos | No recomendada para menores de 12 años\n\nAudio: VOSE\n\nhttps://w
+ ww.pillalas.com/pase/1054443/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rondallas
+DTSTART;TZID=Europe/Madrid:20260216T224500
+UID:12db1940a58fdec0ec70e8d41c4eb4dac6ca5fc140620006a958ef4e8f04b55d
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 112 minutos | No reco
+ mendada para menores de 12 años\n\nAudio: VOSE\n\nhttps://www.pillalas.co
+ m/pase/1054515/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hammershøi. El ojo que escucha
@@ -1039,6 +1968,56 @@ DESCRIPTION:Ainara (Blanca Soroa)\, una joven idealista y brillante de 17
 LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Historias Del Buen Valle
+DTSTART;TZID=Europe/Madrid:20260217T160000
+UID:c5e8bab560c9ff74327dc0aee4691b64ce224e1c41049e7e8cd14e5b620ff2e8
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 122 minutos | Pendien
+ te de calificación\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/105451
+ 7/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Chica Zurda
+DTSTART;TZID=Europe/Madrid:20260217T160000
+UID:48f5983b88fa71ccd9bfb208f086fbd34d2417ee0327d3796a77e3058b24a2bf
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 108 min
+ utos | No recomendada para menores de 12 años\n\nAudio: VOSE\n\nhttps://w
+ ww.pillalas.com/pase/1054445/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Tarta Del Presidente
+DTSTART;TZID=Europe/Madrid:20260217T160000
+UID:cd2af9bd801efd8608e5aa703b5bac7c003c98177a477d430feb179ac4b2c7b7
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 105 min
+ utos | No recomendada para menores de 12 años\n\nAudio: VOSE\n\nhttps://w
+ ww.pillalas.com/pase/1054516/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:No Hay Otra Opción
+DTSTART;TZID=Europe/Madrid:20260217T160000
+UID:061ca10e964edd37b508f2125e6b16f31ebb5be3ea4921a4b954fcfcfb095cee
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 139 min
+ utos | Pendiente de calificación\n\nAudio: VOSE\n\nhttps://www.pillalas.c
+ om/pase/1054518/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rondallas
+DTSTART;TZID=Europe/Madrid:20260217T160000
+UID:f6aee761603c3e100dcb94d0c6c59ccb0327b2d6e1ee010d47243e48049b410a
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 112 minutos | No reco
+ mendada para menores de 12 años\n\nAudio: VOSE\n\nhttps://www.pillalas.co
+ m/pase/1054444/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Cumbres borrascosas
 DTSTART;TZID=Europe/Madrid:20260217T170000
 DTEND;TZID=Europe/Madrid:20260217T191600
@@ -1081,6 +2060,26 @@ DESCRIPTION:Narra la historia de Agnes\, la esposa de William Shakespeare\
 LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:No Hay Otra Opción
+DTSTART;TZID=Europe/Madrid:20260217T180000
+UID:4b0e72c65cc8d54afbbb90330fe77080976e39d2de7014aa368ad8c639b5c7c4
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 139 min
+ utos | Pendiente de calificación\n\nAudio: VOSE\n\nhttps://www.pillalas.c
+ om/pase/1054519/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Historias Del Buen Valle
+DTSTART;TZID=Europe/Madrid:20260217T180500
+UID:fbb9dbca304e3def5411948b9abf4a5a072b1c5af75c4d684e249defff7e6199
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 122 minutos | Pendien
+ te de calificación\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/105444
+ 6/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:No hay otra opción
 DTSTART;TZID=Europe/Madrid:20260217T181000
 DTEND;TZID=Europe/Madrid:20260217T202900
@@ -1113,6 +2112,16 @@ DESCRIPTION:Tras lo que parecía una discusión sin importancia\, Marta (A
 LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:La Tarta Del Presidente
+DTSTART;TZID=Europe/Madrid:20260217T181000
+UID:0397690027745e6c0736198015b07cf250a1a1c2ee748247fb8192e255452a5a
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 105 min
+ utos | No recomendada para menores de 12 años\n\nAudio: VOSE\n\nhttps://w
+ ww.pillalas.com/pase/1054447/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Aída y vuelta
 DTSTART;TZID=Europe/Madrid:20260217T182000
 UID:369f26c339aeef54a7892a539cb5189195a1ae4992e161a1c53ee46f76f864f5
@@ -1124,6 +2133,16 @@ DESCRIPTION:'Aída y vuelta' aborda el rodaje de un capítulo de la serie
  bajo del cómico y la fama.\n\nhttps://cinesembajadores.es/pelicula/aida-y
  -vuelta/?ciudad=madrid
 LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Chica Zurda
+DTSTART;TZID=Europe/Madrid:20260217T182000
+UID:62f9da9afabd5c92357a4ec2c80d2736e5abed2d85f6622fca6014ea5f6e98e9
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 108 min
+ utos | No recomendada para menores de 12 años\n\nAudio: VOSE\n\nhttps://w
+ ww.pillalas.com/pase/1054520/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:En la ciudad de Sylvia
@@ -1138,6 +2157,16 @@ DESCRIPTION:Un hombre vuelve a Estrasburgo para buscar a una mujer de la q
   y ésta a otra... siempre bajo la invocación de la ausente.\n\nhttps://w
  ww.cinetecamadrid.com/programacion/en-la-ciudad-de-sylvia
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rondallas
+DTSTART;TZID=Europe/Madrid:20260217T183500
+UID:ccfda3d8082817168e7995711fa1e4799a375654039b690e3c4f47773fc0e4bf
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 112 minutos | No reco
+ mendada para menores de 12 años\n\nAudio: VOSE\n\nhttps://www.pillalas.co
+ m/pase/1054521/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Amanecer en Puerta Oscura (1957)
@@ -1209,6 +2238,16 @@ DESCRIPTION:Ainara (Blanca Soroa)\, una joven idealista y brillante de 17
 LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:No Hay Otra Opción
+DTSTART;TZID=Europe/Madrid:20260217T201000
+UID:80faa2788c43e149686e171fd6f458d27062ddc0e65fd951ec6319a51b40578e
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 139 min
+ utos | Pendiente de calificación\n\nAudio: VOSE\n\nhttps://www.pillalas.c
+ om/pase/1054448/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Marty Supreme
 DTSTART;TZID=Europe/Madrid:20260217T202000
 DTEND;TZID=Europe/Madrid:20260217T224900
@@ -1221,6 +2260,26 @@ DESCRIPTION:Biopic de Marty Reisman\, un buscavidas convertido en campeón
  Doblada ES\n\nhttps://cinesembajadores.es/pelicula/marty-supreme-doblada-a
  l-espanol/?ciudad=madrid
 LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Historias Del Buen Valle
+DTSTART;TZID=Europe/Madrid:20260217T202500
+UID:54344d8a8a18efb281c802e4aaf3149b801dab824b638f7cce3e50f12de53478
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 122 minutos | Pendien
+ te de calificación\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/105452
+ 2/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Chica Zurda
+DTSTART;TZID=Europe/Madrid:20260217T202500
+UID:e3a56ed5f6e39e7970e3a7da668632808e6bc096389373549e837be7d01cf56f
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 108 min
+ utos | No recomendada para menores de 12 años\n\nAudio: VOSE\n\nhttps://w
+ ww.pillalas.com/pase/1054449/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Emergency Exit
@@ -1250,6 +2309,35 @@ DESCRIPTION:Tras lo que parecía una discusión sin importancia\, Marta (A
  spierta sus ganas de vivir sin miedo.\n\nAudio: Doblada ES\n\nhttps://cine
  sembajadores.es/pelicula/tres-adioses-doblada-al-espanol/?ciudad=madrid
 LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VINCENT PEIRANI
+DTSTART;TZID=Europe/Madrid:20260217T203000
+UID:e416622e12854c8986d90fc3127a30d4c9a990bdeee7fb86f20581068eeb3e13
+CATEGORIES:music
+DESCRIPTION:Sala Villanos agenda event. Concierto / Jazz\n\nhttps://salavi
+ llanos.es/evento/vincent-peirani/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Tarta Del Presidente
+DTSTART;TZID=Europe/Madrid:20260217T203500
+UID:9f7559c9d65b91579707af1783fa6ed869bcc9ec196e863ba05d2e692484e1d4
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 105 min
+ utos | No recomendada para menores de 12 años\n\nAudio: VOSE\n\nhttps://w
+ ww.pillalas.com/pase/1054523/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rondallas
+DTSTART;TZID=Europe/Madrid:20260217T204000
+UID:410acbe526d82f267fff1398c9e88d0b24a4d103f2f0c73fe8244f0200a64b64
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 112 minutos | No reco
+ mendada para menores de 12 años\n\nAudio: VOSE\n\nhttps://www.pillalas.co
+ m/pase/1054524/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:No hay otra opción
@@ -1310,6 +2398,56 @@ DESCRIPTION:Una audaz y original reinterpretación de una de una de las hi
  \nAudio: VOSE\n\nhttps://cinesembajadores.es/pelicula/cumbres-borrascosas-
  vose/?ciudad=madrid
 LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Historias Del Buen Valle
+DTSTART;TZID=Europe/Madrid:20260217T223000
+UID:ee6bff395da64365c2547b6d8f9a0ec2ff0410a13230c4d0e75a40c766164387
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 122 minutos | Pendien
+ te de calificación\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/105445
+ 0/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:No Hay Otra Opción
+DTSTART;TZID=Europe/Madrid:20260217T224000
+UID:3da5bfa9d97c12ba0119c35a5871fd097854640637e7a439396217f3e365e744
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 139 min
+ utos | Pendiente de calificación\n\nAudio: VOSE\n\nhttps://www.pillalas.c
+ om/pase/1054525/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Chica Zurda
+DTSTART;TZID=Europe/Madrid:20260217T224500
+UID:93a0c578daec07d01cf4760250ff0d698c013207b9d0941e3f3cbb49e74cc0b0
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 108 min
+ utos | No recomendada para menores de 12 años\n\nAudio: VOSE\n\nhttps://w
+ ww.pillalas.com/pase/1054527/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Tarta Del Presidente
+DTSTART;TZID=Europe/Madrid:20260217T224500
+UID:301fa071fc9dbecbd3caa77160665a2146384321f9853bf02c50f34e779ca57d
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 105 min
+ utos | No recomendada para menores de 12 años\n\nAudio: VOSE\n\nhttps://w
+ ww.pillalas.com/pase/1054451/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rondallas
+DTSTART;TZID=Europe/Madrid:20260217T224500
+UID:b5478e0f5cca7092fce4bb7148966ff74e031162af9c7bcab1d68cda93868c31
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 112 minutos | No reco
+ mendada para menores de 12 años\n\nAudio: VOSE\n\nhttps://www.pillalas.co
+ m/pase/1054526/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:El rostro significa lo infinito
@@ -1404,41 +2542,54 @@ DESCRIPTION:En el año 2075\, Iris\, una niña de 10 años\, ve caer del c
 LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:La Tullida Gallery: Corta y pega\, diseño a medida
-DTSTART;TZID=Europe/Madrid:20260218T170000
-UID:fc4d2aa4a053a860517cc9dd7c4dc8b28d4f1d66b5a6ae44ce531da211ca5af2
-CATEGORIES:exhibition
-DESCRIPTION:El taller de fanzine Corta y pega diseño a medida pretende se
- r un espacio no mixto dirigido a personas con discapacidad\, enfermedad\, 
- neurodivergencia o experiencias cercanas a estas realidades . Con un aforo
-  de 15 plazas\, el taller propone un encuentro cuidado desde el que pensar
- \, a través de la creación colectiva\, cómo nos gustaría que fuera La 
- Tullida Gallery cuando se haga realidad. A lo largo de diferentes ejercici
- os prácticos de\, escritura\, dibujo y collage\, entre otras técnicas ca
- da participante irá construyendo una propuesta en formato fanzine en la q
- ue podrá expresar deseos\, necesidades e imaginarios en torno a este futu
- ro espacio artístico y cultural. Las propuestas podrán moverse librement
- e entre lo cotidiano y lo fantástico: desde imaginar sofás para descansa
- r\, un baño bonito y accesible\, clubes de lectura o talleres de cocina\,
-  hasta plantear un espacio de reuniones\, comidas sin gluten o cualquier o
- tra idea que tenga sentido para quien la proponga. El fanzine funcionará 
- como una herramienta de escucha y de pensamiento colectivo\, donde todas l
- as voces tengan lugar y donde imaginar juntas se convierta también en una
-  forma de construir. El taller se plantea como un espacio abierto\, flexib
- le y accesible\, en el que compartir tiempo\, ideas y procesos desde el cu
- idado y el deseo. La idea es que cada persona cree su propia pieza de fanz
- ine. El fanzine será un material de trabajo colectivo que pasará a forma
- r parte del archivo y del proceso de investigación de La Tullida Gallery.
-  Al finalizar el taller\, los fanzines quedarán en custodia del proyecto 
- como un registro de los deseos\, ideas e imaginarios compartidos\, que ser
- virán como base para seguir pensando y construyendo el espacio en el futu
- ro. Más información sobre la residente Costa Badía y su propuesta . > I
- nscripción previa hasta el 11 de febrero en este formulario . > Se dará 
- prioridad a personas con discapacidad\, enfermedad\, neurodivergencia o ex
- periencias cercanas a estas realidades. > Comunicación a las personas adm
- itidas: 13 de febrero.\n\nhttps://www.mataderomadrid.org/programacion/la-t
- ullida-gallery-corta-y-pega-diseno-medida
-LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
+SUMMARY:Historias Del Buen Valle
+DTSTART;TZID=Europe/Madrid:20260218T160000
+UID:e544630d7d97fb774ff4e158b0f09a2c2852fd2e3aced3fa75242d82b6d1128a
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 122 minutos | Pendien
+ te de calificación\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/105453
+ 0/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Chica Zurda
+DTSTART;TZID=Europe/Madrid:20260218T160000
+UID:0de213afd39ba68baa886c6ef8f8acd5106fe50c2eb5243fd70ac3b95bcc4106
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 108 min
+ utos | No recomendada para menores de 12 años\n\nAudio: VOSE\n\nhttps://w
+ ww.pillalas.com/pase/1054452/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Tarta Del Presidente
+DTSTART;TZID=Europe/Madrid:20260218T160000
+UID:dd987a1a156a630b6379cc8ca3f283a9abc076f11b86f5ab6b0020903848d145
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 105 min
+ utos | No recomendada para menores de 12 años\n\nAudio: VOSE\n\nhttps://w
+ ww.pillalas.com/pase/1054529/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:No Hay Otra Opción
+DTSTART;TZID=Europe/Madrid:20260218T160000
+UID:9361c86f942802a28e69d0d563d7fc611c607955e343ecd849d571f43245d543
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 139 min
+ utos | Pendiente de calificación\n\nAudio: VOSE\n\nhttps://www.pillalas.c
+ om/pase/1054528/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rondallas
+DTSTART;TZID=Europe/Madrid:20260218T160000
+UID:4be718d067aeaba638d26fef92ef4b2768c88d472d5bacca9a6d05ea74951f91
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 112 minutos | No reco
+ mendada para menores de 12 años\n\nAudio: VOSE\n\nhttps://www.pillalas.co
+ m/pase/1054453/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cumbres borrascosas
@@ -1516,6 +2667,26 @@ DESCRIPTION:Dos años después del trágico naufragio de un barco pesquero
 LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:No Hay Otra Opción
+DTSTART;TZID=Europe/Madrid:20260218T180000
+UID:5e2c219348c582eb6bd9fc789eefe60a4cf19bb61776b44e8127c4624c360c3a
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 139 min
+ utos | Pendiente de calificación\n\nAudio: VOSE\n\nhttps://www.pillalas.c
+ om/pase/1054531/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Historias Del Buen Valle
+DTSTART;TZID=Europe/Madrid:20260218T180500
+UID:4b4f99d0ba1b804e5d0f5c7e77583b80e9819cd493982c9325a0b84e8ed74072
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 122 minutos | Pendien
+ te de calificación\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/105445
+ 4/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Aída y vuelta
 DTSTART;TZID=Europe/Madrid:20260218T181000
 UID:bcbbc6b4964a33557e0fc71c1549d3db8db7f0e8d4ee1092cb7214e33902b1f8
@@ -1527,6 +2698,36 @@ DESCRIPTION:'Aída y vuelta' aborda el rodaje de un capítulo de la serie
  bajo del cómico y la fama.\n\nhttps://cinesembajadores.es/pelicula/aida-y
  -vuelta/?ciudad=madrid
 LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Tarta Del Presidente
+DTSTART;TZID=Europe/Madrid:20260218T181000
+UID:5b2e92d19b22bfb178320ca0836cfbb2d39af6836e90e92e104d623b1b93b199
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 105 min
+ utos | No recomendada para menores de 12 años\n\nAudio: VOSE\n\nhttps://w
+ ww.pillalas.com/pase/1054455/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Chica Zurda
+DTSTART;TZID=Europe/Madrid:20260218T182000
+UID:ac59037eed35733ade70aee4f971996ffe166564a9ae570d05c99d40c3d74dc3
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 108 min
+ utos | No recomendada para menores de 12 años\n\nAudio: VOSE\n\nhttps://w
+ ww.pillalas.com/pase/1054532/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rondallas
+DTSTART;TZID=Europe/Madrid:20260218T183500
+UID:7dd8d2fe0ade50a8a6749e905c3443039ddbdfbef5d344631e6075498a18a9f0
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 112 minutos | No reco
+ mendada para menores de 12 años\n\nAudio: VOSE\n\nhttps://www.pillalas.co
+ m/pase/1054533/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dodes'ka-den (1970)
@@ -1660,6 +2861,16 @@ DESCRIPTION:'Aída y vuelta' aborda el rodaje de un capítulo de la serie
 LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:No Hay Otra Opción
+DTSTART;TZID=Europe/Madrid:20260218T201000
+UID:7e5bb84e2d4ce796088e0a2dfa47259af072f5e949f0f86e206ef6e6372b93c1
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 139 min
+ utos | Pendiente de calificación\n\nAudio: VOSE\n\nhttps://www.pillalas.c
+ om/pase/1054456/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Hamnet
 DTSTART;TZID=Europe/Madrid:20260218T201500
 DTEND;TZID=Europe/Madrid:20260218T222000
@@ -1671,6 +2882,55 @@ DESCRIPTION:Narra la historia de Agnes\, la esposa de William Shakespeare\
  ra de Shakespeare\, Hamlet.\n\nAudio: VOSE\n\nhttps://cinesembajadores.es/
  pelicula/hamnet-vose/?ciudad=madrid
 LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Historias Del Buen Valle
+DTSTART;TZID=Europe/Madrid:20260218T202500
+UID:bb474f63718640b5798dba4039a601c5e881f27a3b1915c15f15df94da1bb631
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 122 minutos | Pendien
+ te de calificación\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/105453
+ 4/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Chica Zurda
+DTSTART;TZID=Europe/Madrid:20260218T202500
+UID:a66c3c835d6a3f1563892baf551fcb0c49eeeee37015afed4e7f94b46067ddac
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 108 min
+ utos | No recomendada para menores de 12 años\n\nAudio: VOSE\n\nhttps://w
+ ww.pillalas.com/pase/1054457/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Tarta Del Presidente
+DTSTART;TZID=Europe/Madrid:20260218T203500
+UID:8bf53c2484edc17d0b01a73bdc7dda782bd57533db47d9722b99aecf59167579
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 105 min
+ utos | No recomendada para menores de 12 años\n\nAudio: VOSE\n\nhttps://w
+ ww.pillalas.com/pase/1054535/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rondallas
+DTSTART;TZID=Europe/Madrid:20260218T204000
+UID:60250c5f5b4b8b202e1bc06367c49b78d7b60c255ca768008795770e9297cb5f
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 112 minutos | No reco
+ mendada para menores de 12 años\n\nAudio: VOSE\n\nhttps://www.pillalas.co
+ m/pase/1054536/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JUICY
+DTSTART;TZID=Europe/Madrid:20260218T220000
+UID:793946d059a655393904b0a8b628c59d9e7a6be8f7c7742851209b26a7a082fb
+CATEGORIES:music
+DESCRIPTION:Sala Villanos agenda event. Concierto / Hip Hop & Rap / Rock /
+  Soul & R&B / Urban\n\nhttps://salavillanos.es/evento/juicy-2/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:No hay otra opción
@@ -1736,6 +2996,16 @@ DESCRIPTION:Un hombre (Sergi López) y su hijo (Bruno Núñez) llegan a un
 LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Historias Del Buen Valle
+DTSTART;TZID=Europe/Madrid:20260218T223000
+UID:64135a10944e6038d6d8c003dccd2bc8748fb64b7aed8c177de509a108cee315
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 122 minutos | Pendien
+ te de calificación\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/105445
+ 8/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Hamnet
 DTSTART;TZID=Europe/Madrid:20260218T223500
 DTEND;TZID=Europe/Madrid:20260219T004000
@@ -1764,6 +3034,46 @@ DESCRIPTION:Las hermanas Nora y Agnes se reencuentran con su distanciado p
  io: VOSE\n\nhttps://cinesembajadores.es/pelicula/valor-sentimental-vose/?c
  iudad=madrid
 LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:No Hay Otra Opción
+DTSTART;TZID=Europe/Madrid:20260218T224000
+UID:234b3dbac0f67bf417b0df40da8c491838ed4e3453a98acdca6546f66cc5f537
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 139 min
+ utos | Pendiente de calificación\n\nAudio: VOSE\n\nhttps://www.pillalas.c
+ om/pase/1054537/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Chica Zurda
+DTSTART;TZID=Europe/Madrid:20260218T224500
+UID:fe627dc386f48ec40822611bafb37cb021e01dc656a444b674a23b65ce135f24
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 108 min
+ utos | No recomendada para menores de 12 años\n\nAudio: VOSE\n\nhttps://w
+ ww.pillalas.com/pase/1054538/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Tarta Del Presidente
+DTSTART;TZID=Europe/Madrid:20260218T224500
+UID:7bc077591a25e7fc379a0bcd41c57f9536b118e57d95b1296c2cbdeee9c7be07
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 105 min
+ utos | No recomendada para menores de 12 años\n\nAudio: VOSE\n\nhttps://w
+ ww.pillalas.com/pase/1054459/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rondallas
+DTSTART;TZID=Europe/Madrid:20260218T224500
+UID:cf629a9120456acf4df3445cce3390a67d86815a2069af078130a89e311270f2
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 112 minutos | No reco
+ mendada para menores de 12 años\n\nAudio: VOSE\n\nhttps://www.pillalas.co
+ m/pase/1054539/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Anders Zorn. Recorrer el mundo\, recordar la tierra
@@ -1819,6 +3129,56 @@ DESCRIPTION:Tras lo que parecía una discusión sin importancia\, Marta (A
  spierta sus ganas de vivir sin miedo.\n\nAudio: VOSE\n\nhttps://cinesembaj
  adores.es/pelicula/sesion-teta-tres-adioses-vose/?ciudad=madrid
 LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Historias Del Buen Valle
+DTSTART;TZID=Europe/Madrid:20260219T160000
+UID:265b72f8993af90fb539afc52aea5380bd6f00083099225b0acc3c72c04d7c5f
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 122 minutos | Pendien
+ te de calificación\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/105454
+ 2/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Chica Zurda
+DTSTART;TZID=Europe/Madrid:20260219T160000
+UID:c7bb5a6dcf5eccaab918a459b56937326d869ef5f5cb26cc75ffa4dc133077ba
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 108 min
+ utos | No recomendada para menores de 12 años\n\nAudio: VOSE\n\nhttps://w
+ ww.pillalas.com/pase/1054461/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Tarta Del Presidente
+DTSTART;TZID=Europe/Madrid:20260219T160000
+UID:b76e9ce7939e9e89277bcb19c50598ba71f9b0a76675ab314a2d307f3f4c7541
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 105 min
+ utos | No recomendada para menores de 12 años\n\nAudio: VOSE\n\nhttps://w
+ ww.pillalas.com/pase/1054540/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:No Hay Otra Opción
+DTSTART;TZID=Europe/Madrid:20260219T160000
+UID:94812c5e82172c343c4541db42200771e67d6b3a44761a0aedf21d53f4d2a074
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 139 min
+ utos | Pendiente de calificación\n\nAudio: VOSE\n\nhttps://www.pillalas.c
+ om/pase/1054541/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rondallas
+DTSTART;TZID=Europe/Madrid:20260219T160000
+UID:d264bd472f3cb3e643370577d6f00ced54997040788bbd4686fd925cdee05363
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 112 minutos | No reco
+ mendada para menores de 12 años\n\nAudio: VOSE\n\nhttps://www.pillalas.co
+ m/pase/1054460/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cumbres borrascosas
@@ -1914,6 +3274,56 @@ DESCRIPTION:Dos años después del trágico naufragio de un barco pesquero
  cinos\, pero sobre todo de empezar a mirar hacia delante de nuevo.\n\nhttp
  s://cinesembajadores.es/pelicula/rondallas/?ciudad=madrid
 LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:No Hay Otra Opción
+DTSTART;TZID=Europe/Madrid:20260219T180000
+UID:446a4cbe6a8fc497e0ff161be209b1d7ff44e818980c6fa4c8428abb5c058336
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 139 min
+ utos | Pendiente de calificación\n\nAudio: VOSE\n\nhttps://www.pillalas.c
+ om/pase/1054543/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Historias Del Buen Valle
+DTSTART;TZID=Europe/Madrid:20260219T180500
+UID:3601d14569bb636e6078d1b6c5ed71fbd2d757379d55fc56a0ae6ce73be6fe9b
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 122 minutos | Pendien
+ te de calificación\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/105446
+ 2/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Tarta Del Presidente
+DTSTART;TZID=Europe/Madrid:20260219T181000
+UID:6ca7901dcbae243dd524b8457d613fdc7bf36c31fcb399b1df91a1de982780d8
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 105 min
+ utos | No recomendada para menores de 12 años\n\nAudio: VOSE\n\nhttps://w
+ ww.pillalas.com/pase/1054463/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Chica Zurda
+DTSTART;TZID=Europe/Madrid:20260219T182000
+UID:f380ebb072da7a3ac0e6ea7af37e1d56f5bbcc35207867f853f5b59c6e85c427
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 108 min
+ utos | No recomendada para menores de 12 años\n\nAudio: VOSE\n\nhttps://w
+ ww.pillalas.com/pase/1054544/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rondallas
+DTSTART;TZID=Europe/Madrid:20260219T183500
+UID:98925c5302ed3cb0716e0baf93f46e67335f6c4714d0c33eb11acb97c3e4ff18
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 112 minutos | No reco
+ mendada para menores de 12 años\n\nAudio: VOSE\n\nhttps://www.pillalas.co
+ m/pase/1054545/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Emergency Exit
@@ -2065,6 +3475,56 @@ DESCRIPTION:En un lugar de Rusia llamado "La Zona"\, hace algunos años se
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:No Hay Otra Opción
+DTSTART;TZID=Europe/Madrid:20260219T201000
+UID:3d3532c6990a996d9ab7c02bf2ce61f29fce43193fdcfa4cea34e0193b4f7f8f
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 139 min
+ utos | Pendiente de calificación\n\nAudio: VOSE\n\nhttps://www.pillalas.c
+ om/pase/1054464/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Historias Del Buen Valle
+DTSTART;TZID=Europe/Madrid:20260219T202500
+UID:df2d0dc0382ec0e8ced147014039d240f1883fbac8adc9a0510f86fbf8cf08c7
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 122 minutos | Pendien
+ te de calificación\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/105454
+ 6/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Chica Zurda
+DTSTART;TZID=Europe/Madrid:20260219T202500
+UID:4b566090d5f5e5ceaf78647140a9a3e0b19a02952c7b950577d7291681fcd651
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 108 min
+ utos | No recomendada para menores de 12 años\n\nAudio: VOSE\n\nhttps://w
+ ww.pillalas.com/pase/1054465/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Tarta Del Presidente
+DTSTART;TZID=Europe/Madrid:20260219T203500
+UID:fb520927eae6866784bea0d369d09de2b8f6404cb36a25998c328f3ce679e161
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 105 min
+ utos | No recomendada para menores de 12 años\n\nAudio: VOSE\n\nhttps://w
+ ww.pillalas.com/pase/1054547/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rondallas
+DTSTART;TZID=Europe/Madrid:20260219T204000
+UID:4383987d450f9a0ac321128fc476c5e638b6549fbe00d798e8dc8a1fe1234775
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 112 minutos | No reco
+ mendada para menores de 12 años\n\nAudio: VOSE\n\nhttps://www.pillalas.co
+ m/pase/1054548/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Aída y vuelta
 DTSTART;TZID=Europe/Madrid:20260219T220000
 UID:bdea87f0ddfd0abf3f76e7333e84619b2c0a9980a1e7a3c75bf3a27c23ca1136
@@ -2138,6 +3598,16 @@ DESCRIPTION:Tras lo que parecía una discusión sin importancia\, Marta (A
 LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Historias Del Buen Valle
+DTSTART;TZID=Europe/Madrid:20260219T223000
+UID:3c60d6b911632d7f5311cc012ea8e8da94a64116267177e819d4bf5e4cdd7d61
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 122 minutos | Pendien
+ te de calificación\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/105446
+ 6/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Valor sentimental
 DTSTART;TZID=Europe/Madrid:20260219T223500
 DTEND;TZID=Europe/Madrid:20260220T005000
@@ -2155,53 +3625,44 @@ DESCRIPTION:Las hermanas Nora y Agnes se reencuentran con su distanciado p
 LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Crear archivos tullidos: Memoria y rescate de genealogías
-DTSTART;TZID=Europe/Madrid:20260220T183000
-UID:a9d929c4cdb308c83a40e25136208924adcc55fb9890f5936d2d1418e8e761ed
-CATEGORIES:other
-DESCRIPTION:Actividad de acceso gratuito previa inscripción\, rellenando 
- este formulario (abierto hasta el día 17 de febrero a las 15 h.) El encue
- ntro-taller se propone como una búsqueda colectiva de formas de hacer arc
- hivo crip y queer como una manera de reapropiarnos de la Historia. La acti
- vidad se dividirá en dos partes\, una primera teórica\, en la que se exp
- licarán las bases de creación de un archivo\, tanto personal como colect
- ivo. Necesidades básicas\, materiales\, teorías de los archivos queer y 
- crip \, guía ética y corrientes de subversión de formatos. Una forma di
- sidente en la que crear archivos propios pero también para acceder a arch
- ivos institucionales. En la segunda parte\, se creará de forma colectiva 
- un archivo. Haremos una guía ética\, crearemos una nueva forma de catalo
- gar acorde con nuestras necesidades\, una nueva narrativa… Se pedirá a 
- las personas que participen traer materiales\, de forma que también podam
- os romper con el canon de lo que ‘ha de ser archivable’. A través tam
- bién de otros materiales aportados se buscarán estrategias en las que in
- troducir nuestras realidades crip en memorias institucionales. Buscaremos 
- formas en las que encontrarnos\, mostrarnos y reivindicarnos a partir de l
- os materiales y la historia. Esta actividad está dirigida a personas con 
- diversidad funcional/discapacidad\, diagnosticadas o dentro de las identid
- ades crip\, loque\, diska\, enferme\, psiquiatrizade\, neurodivergente y a
- fines. Vicky Guerra es activista\, escritora y archivera. Sus investigacio
- nes giran en torno a los archivos como espacios de memoria y lucha. Trata 
- de usarlos como forma de reivindicación política para completar lagunas 
- históricas y recuperar las voces del pasado. Crea espacios de cuidado y g
- enealogía que nos permitan ser conscientes del trauma pero también de su
-  potencial activador. En especial\, le interesa la fotografía como forma 
- de acercarnos al pasado y reapropiarse de las historias que han tratado de
-  ser borradas. Actualmente trabaja con archivos cuir en los que introduce 
- la mirada interseccional\, la ternura y la fiesta como forma de subvertir 
- los paradigmas canónicos\, tanto en forma como en contenido. Uno de sus o
- bjetivos con esto es la apertura y accesibilidad de los materiales\, hacie
- ndo del archivo un espacio para la comunidad y la memoria colectiva. En cu
- anto a temas\, la memoria histórica y las realidades cuir y crip forman p
- arte de sus intereses más cercanos. Colabora en el archivo de la Fundaci
- ón Anselmo Lorenzo\, en el fondo de la Radical Gai-LSD. Esta actividad fo
- rma parte del proyecto “ Spasticus Artisticus ”\, que se enmarca en "M
- etodologías experimentales"\, la línea de trabajo de Intermediae para la
-  innovación metodológica\, que en la edición 2025-2026 se desarrolla en
-  colaboración con el Departamento de Educación y Públicos\, en su objet
- ivo común de diversificar perfiles de público y fomentar los derechos cu
- lturales.\n\nhttps://www.mataderomadrid.org/programacion/crear-archivos-tu
- llidos-memoria-y-rescate-de-genealogias
-LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
+SUMMARY:No Hay Otra Opción
+DTSTART;TZID=Europe/Madrid:20260219T224000
+UID:0e6a28311a256c929788d884e1a63a74ba5edd3602aa93f2aa3c89ea41a9d724
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 139 min
+ utos | Pendiente de calificación\n\nAudio: VOSE\n\nhttps://www.pillalas.c
+ om/pase/1054549/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Chica Zurda
+DTSTART;TZID=Europe/Madrid:20260219T224500
+UID:424f9fa4a5cf91e6e126e1092fccc61deb01c769bc6903f2b9bf1b3bedd0a30c
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 108 min
+ utos | No recomendada para menores de 12 años\n\nAudio: VOSE\n\nhttps://w
+ ww.pillalas.com/pase/1054551/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Tarta Del Presidente
+DTSTART;TZID=Europe/Madrid:20260219T224500
+UID:e17cc6c7e0a578ee7576f1b1b43198e4b590d455b28ad0a06533f1627eced17b
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 105 min
+ utos | No recomendada para menores de 12 años\n\nAudio: VOSE\n\nhttps://w
+ ww.pillalas.com/pase/1054467/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rondallas
+DTSTART;TZID=Europe/Madrid:20260219T224500
+UID:bafbce30c625a438bcfbfbf6232389403d15466d525e99336c5c7a498876a719
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 112 minutos | No reco
+ mendada para menores de 12 años\n\nAudio: VOSE\n\nhttps://www.pillalas.co
+ m/pase/1054550/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Conferencia de Ernesto Castro + Amanece\, que no es poco
@@ -2225,44 +3686,6 @@ DESCRIPTION:Fecha y Hora: Viernes 20 de Febrero a las 19:00h (Sala 1. Cent
  s/productos/descripcion/los-santos-inocentes-6
 LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
  \, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Presentación del libro 'En defensa de la memoria' con Elvira Sast
- re
-DTSTART;TZID=Europe/Madrid:20260220T190000
-UID:86be80f56bda65366894ec585dbc5ff1a33521cf102c3c39b6143a5728f50db9
-CATEGORIES:other
-DESCRIPTION:El próximo 20 de febrero\, Casa del Lector será el escena
- rio de la presentación de En defensa de la memoria \, la nueva y más ín
- tima obra de Elvira Sastre\, publicada por Alfaguara\, en conversación 
- con Marta González Novo. Un libro profundamente personal en el que la au
- tora entrelaza por primera vez su escritura con fotografías analógicas p
- ropias para construir un archivo emocional contra el olvido\, donde memori
- a\, cuidado e intimidad se convierten en un gesto de resistencia Me resist
- o al olvido y lo combato con recuerdos. Estos son los míos. Elvira Sastre
-  (Segovia\, 1992) es poeta\, escritora\, editora y traductora. Es una de l
- as voces más reconocibles de la poesía contemporánea en español. Ha pu
- blicado\, entre otros títulos\, Cuarenta y tres maneras de soltarse el pe
- lo (2013)\, Baluarte (2014)\, La soledad de un cuerpo acostumbrado a la he
- rida (2016) y Aquella orilla nuestra (2018)\, libros que la han consolidad
- o como autora de referencia. En narrativa ha publicado las novelas Días s
- in ti (2019)\, galardonada con el Premio Biblioteca Breve 2019\, y Las vul
- nerabilidades (2024). Además de su labor como escritora\, ha trabajado co
- mo traductora literaria y ha participado en numerosos recitales y proyecto
- s culturales dentro y fuera de España. Su obra ha sido traducida a varios
-  idiomas. Marta González Novo es licenciada en Periodismo por la Universi
- dad Complutense de Madrid. Lleva trabajando veinticinco años en la SER y 
- dirige Hoy por hoy Madrid desde hace más de una década. Entre otros gala
- rdones\, González Novo ha sido reconocida con dos Antenas de Plata y el P
- remio del Parlamento de Andalucía\, por su contribución a la difusión d
- e la cultura andaluza al presentar el primer programa de radio emitido en 
- directo desde la casa de Federico García Lorca\, en Valderrubio. Una bañ
- era de hojas secas es su primera novela. Los asistenties podrán comprar e
- l libro allí gracias a los amigos de Grant Librería. Organiza: Alfaguar
- a. Imparte: Elvira Sastre y Marta González Novo. Público: joven y adulto
- .\n\nhttps://www.mataderomadrid.org/programacion/presentacion-del-libro-en
- -defensa-de-la-memoria-con-elvira-sastre
-LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Al oeste\, en Zapata
@@ -2291,6 +3714,25 @@ DESCRIPTION:Estructurada a partir de la paradoja “la que no tiene memori
   términos personales y artísticos con esta enfermedad.\n\nhttps://www.ci
  netecamadrid.com/programacion/la-desmemoriada
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Balkan Paradise Orchestra – Game Sessions Tour
+DTSTART;TZID=Europe/Madrid:20260220T210000
+UID:1af7d67d18717a242c6f59a38da026e649c2133f9dba3afff2be139294de4e16
+CATEGORIES:music
+DESCRIPTION:Sala Villanos agenda event. Concierto / Rock / Soul & R&B / Wo
+ rld Music & Folk\n\nhttps://salavillanos.es/evento/balkan-paradise-orchest
+ ra-game-sessions-tour/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:QUANTIC DJ SET + MADAME EXCUSE
+DTSTART;TZID=Europe/Madrid:20260220T235900
+UID:11ed3b18db44d00adcb13ac8fd56b241013e20cf322d967bd6b5c32bfddb99b1
+CATEGORIES:music
+DESCRIPTION:Sala Villanos agenda event. Club\n\nhttps://salavillanos.es/ev
+ ento/quantic-dj-set/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Clásicos al detalle: Luz que agoniza
@@ -2329,6 +3771,26 @@ DESCRIPTION:Muriel es una chica con sobrepeso que vive en un mundo de fant
   VOSE\n\nhttps://cinesembajadores.es/pelicula/laca-y-palomitas-la-boda-de-
  muriel-vose/?ciudad=madrid
 LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mercado de las Ranas
+DTSTART;TZID=Europe/Madrid:20260221T120000
+DTEND;TZID=Europe/Madrid:20260221T200000
+UID:2f6ff2675eb57e29888eba09c356788093bbed7c74e4ec602e082983f18547f0
+CATEGORIES:market
+DESCRIPTION:Mercado del Barrio de las Letras con puestos de artesanía\, d
+ iseño\, moda y gastronomía en la calle Huertas.\n\nhttps://barrioletras.
+ com/mercado-de-las-ranas/
+LOCATION:Barrio de las Letras - Calle de las Huertas\, 2-47\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EL FORO BLUES FESTIVAL II EDICION
+DTSTART;TZID=Europe/Madrid:20260221T130000
+UID:5dde18dec4451c0bdb5b792c95b17cd9f7f022f2bf1a8c960590a5e4df9c8607
+CATEGORIES:music
+DESCRIPTION:Sala Villanos agenda event. Concierto / Soul & R&B\n\nhttps://
+ salavillanos.es/evento/el-foro-blues-festival-ii-edicion/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:(No) Quiero ser Romántico
@@ -2404,6 +3866,15 @@ DESCRIPTION:"El verano de 2015 cumplí treinta años. Vivía con amigues e
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:INTERACTIVO DE CUBA
+DTSTART;TZID=Europe/Madrid:20260221T210000
+UID:64dda3f20fcd14169590ef957d6c92981ce6462b75d220d6dcdcfca2886165f4
+CATEGORIES:music
+DESCRIPTION:Sala Villanos agenda event. Concierto / Latin\n\nhttps://salav
+ illanos.es/evento/interactivo-de-cuba-2/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Alicia en el país de las maravillas (2010)
 DTSTART;TZID=Europe/Madrid:20260222T120000
 UID:f41fdad96b1e2e6ea66ba64db9797b5767991c11fa498dd04efcb24f4e42b22b
@@ -2434,6 +3905,24 @@ DESCRIPTION:Tres amigos\, amantes de la caza y que trabajan como obreros e
   para siempre.\n\nAudio: VOSE\n\nhttps://cinesembajadores.es/pelicula/domi
  ngo-de-clasicos-el-cazador-vose/?ciudad=madrid
 LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VILLAMOLINOS matinés musicales
+DTSTART;TZID=Europe/Madrid:20260222T130000
+UID:8973586c184c978a220d5fbcfaf6407a3c30255c4b3ea00fa7ceb8e231ed61a7
+CATEGORIES:music
+DESCRIPTION:Sala Villanos agenda event. Concierto / Jazz\n\nhttps://salavi
+ llanos.es/evento/villamolinos-matines-musicales-5/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TEMPLO DEL BAILE
+DTSTART;TZID=Europe/Madrid:20260222T173000
+UID:97b91dedd145eb71a90d24e362e25fd1c74424b32452673a1954dd799f7ec575
+CATEGORIES:music
+DESCRIPTION:Sala Villanos agenda event. Concierto / World Music & Folk\n\n
+ https://salavillanos.es/evento/templo-del-baile/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cine para perdedores: Ginger Snaps
@@ -2662,6 +4151,15 @@ DESCRIPTION:Cuando un pescador es asesinado por unos codiciosos promotores
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:POSTCODE
+DTSTART;TZID=Europe/Madrid:20260224T203000
+UID:21476c99ced0236768beb7f54c9e47896d826826d0910c51583dac59c602ce1d
+CATEGORIES:music
+DESCRIPTION:Sala Villanos agenda event. Concierto\n\nhttps://salavillanos.
+ es/evento/postcode/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Eclosión. El Círculo de Bellas Artes en los 80 y 90
 DTSTART;TZID=Europe/Madrid:20260225T000000
 DTEND;TZID=Europe/Madrid:20260510T000000
@@ -2675,9 +4173,9 @@ DESCRIPTION:Exposición que revisa su periodo de renovación y la volunt
 LOCATION:Círculo de Bellas Artes - de Alcalá\, 42\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Exposición 'Legendaria II:  Mitos contados e ilustrados'
+SUMMARY:Exposición 'Legendaria II: Mitos contados e ilustrados'
 DTSTART;TZID=Europe/Madrid:20260225T160000
-UID:db542b66e3efe8af05b087d353578ba08aa5306590054dd2128068874c8aa204
+UID:3578bf9e6f07ae35d332f8b63ca1fe9db0c43333f1b9f7b4a375e5b7af5e3665
 CATEGORIES:exhibition
 DESCRIPTION:Como su predecesora\, Legendaria II combina los dos elementos 
  fundamentales de la mitología y el folclore de nuestra geografía. De un 
@@ -2790,6 +4288,28 @@ DESCRIPTION:Akiko es una joven del campo que visita una universidad de Tok
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:SEMILLAS DE ESPERANZA: concierto solidario por Palestina
+DTSTART;TZID=Europe/Madrid:20260225T200000
+UID:2d9382dbf812155eac1ea7ad3ac106a4ef1ba8c5bfde26a735043479d57d2ddd
+CATEGORIES:music
+DESCRIPTION:Sala Villanos agenda event. Concierto / Pop / Rock\n\nhttps://
+ salavillanos.es/evento/semillas-de-esperanza-concierto-solidario-por-pales
+ tina/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Madrid Colecciona. 50 colecciones de arte contemporáneo
+DTSTART;TZID=Europe/Madrid:20260226T000000
+DTEND;TZID=Europe/Madrid:20260906T000000
+UID:607a81e6d1149fa5daa112ff49ec0c026b356202c9926602c51ed2a6b5438f18
+CATEGORIES:exhibition
+DESCRIPTION:Una selección de 100 obras contemporáneas pone en valor el p
+ apel indispensable de los coleccionistas para preservar la creación artí
+ stica (CentroCentro. 26 feb a 6 sept).\n\nhttps://www.centrocentro.org/exp
+ osicion/madrid-colecciona
+LOCATION:CentroCentro - de Cibeles\, 1\, Madrid\, 28014
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Father Mother Sister Brother
 DTSTART;TZID=Europe/Madrid:20260226T190000
 UID:d9de9d2d2a0c4cab520fcc7b13dc3479db7491bfac794499f22491231e6dc528
@@ -2874,6 +4394,15 @@ DESCRIPTION:Yasuko vive en un rascacielos de la ciudad con su marido y su
  . Primera película slasher japonesa.\n\nhttps://www.cinetecamadrid.com/pr
  ogramacion/door
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ADRIAN SHERWOOD
+DTSTART;TZID=Europe/Madrid:20260226T203000
+UID:a86231137bbac97e79d604fa43991b51853537e7472320d7be76cf0fc8842bac
+CATEGORIES:music
+DESCRIPTION:Sala Villanos agenda event. Concierto / Electronic / Hip Hop &
+  Rap / Pop\n\nhttps://salavillanos.es/evento/adrian-sherwood/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sesión de cortometrajes Ficción – Goya 2026
@@ -2986,6 +4515,25 @@ DESCRIPTION:Un día\, un profesor de filología se encuentra con que su mu
   la poesía.\n\nhttps://www.cinetecamadrid.com/programacion/la-academia-de
  -las-musas
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:¡Chiquita Movida se presenta por todo lo alto en Madrid!
+DTSTART;TZID=Europe/Madrid:20260227T213000
+UID:d7c9eda6c8d947aefeb427b0b3eb10401dc0eaa2b550074f72e7aa961013e586
+CATEGORIES:music
+DESCRIPTION:Sala Villanos agenda event. Concierto / Pop / Rock\n\nhttps://
+ salavillanos.es/evento/chiquita-movida-se-presenta-por-todo-lo-alto-en-mad
+ rid/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HORSE MEAT DISCO + RAYKO
+DTSTART;TZID=Europe/Madrid:20260227T235900
+UID:212c99d4c3949aa13bf1e46eabffa226f42f71f1081419557284cd952b3d4891
+CATEGORIES:other
+DESCRIPTION:Sala Villanos agenda event. Club\n\nhttps://salavillanos.es/ev
+ ento/horse-meat-disco/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Voces del río
@@ -3246,6 +4794,36 @@ DESCRIPTION:La familia Kobayashi por fin consigue mudarse de su diminuto y
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:AUSTRA
+DTSTART;TZID=Europe/Madrid:20260228T210000
+UID:84152eebc3c6d243140a69f705b1087e0b63f6485534c9f22eca73c696baaec7
+CATEGORIES:music
+DESCRIPTION:Sala Villanos agenda event. Concierto / Pop\n\nhttps://salavil
+ lanos.es/evento/austra/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Steve Bug Dj Set + ACID HERO / NACHO MARCO
+DTSTART;TZID=Europe/Madrid:20260228T235900
+UID:160958eadaeba5ad2ba257d65f2c288df657de30f619c282e8d810d8baa5c9b0
+CATEGORIES:music
+DESCRIPTION:Sala Villanos agenda event. Club\n\nhttps://salavillanos.es/ev
+ ento/steve-bug-dj-set/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mercado Productores Planetario
+DTSTART;TZID=Europe/Madrid:20260301T100000
+DTEND;TZID=Europe/Madrid:20260301T160000
+UID:f191e3105bec2bbc2cc48362671214ebdd2ef6d65a29733bf519d6deb77871e9
+CATEGORIES:market
+DESCRIPTION:Mercado de productores locales y artesanos en Planetario con a
+ limentacion sostenible\, productos de cercania y actividades al aire libre
+ .\n\nhttps://mercadoproductores.es/mp-planetario/
+LOCATION:Mercado Productores Planetario - Avenida del Planetario esquina C
+ alle Meneses\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Domingo de clásicos: 2001\, una odisea del espacio
 DTSTART;TZID=Europe/Madrid:20260301T120000
 DTEND;TZID=Europe/Madrid:20260301T141900
@@ -3283,6 +4861,15 @@ DESCRIPTION:Durante los últimos quince años\, el programa de Ayudas a l
   Público: Jóvenes y adultos.\n\nhttps://www.mataderomadrid.org/programac
  ion/exposicion-omnibus-el-futuro-se-dibuja-aqui
 LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Herman Düne
+DTSTART;TZID=Europe/Madrid:20260301T193000
+UID:17ae6890df66c0d9f0886fcb7a89547664d4fd8bdfd9fbd4950707a863f31abe
+CATEGORIES:music
+DESCRIPTION:Sala Villanos agenda event. Concierto / Pop / World Music & Fo
+ lk\n\nhttps://salavillanos.es/evento/herman-dune/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:La mejor receta
@@ -3421,6 +5008,20 @@ DESCRIPTION:Documental único que registra el proceso creativo de Pablo Pi
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:POR TINO:  Artistas invitados: Antonio Carmona\, Yumitus\, Son D´
+ alikante\, Guadiana\, Josemi Carmona\, Piraña\, Miguel El Rubio\, Montse 
+ Cortes\, Jorge Pardo\, Ingueta\, Pepe Luis Carmona\, Camaron de la Pitita\
+ , Pepe Luis Carmona\, Joselito Romero\, Bandolero\, Lucas Carmona…
+DTSTART;TZID=Europe/Madrid:20260304T220000
+UID:1508d17ee6f58e699b77ace17af0bfb24c6f117fba20edb5bc7776d83aac42a2
+CATEGORIES:music
+DESCRIPTION:Sala Villanos agenda event. Concierto / Flamenco\n\nhttps://sa
+ lavillanos.es/evento/por-tino-artistas-invitados-antonio-carmona-yumitus-s
+ on-dalikante-guadiana-josemi-carmona-pirana-miguel-el-rubio-montse-cortes-
+ jorge-pardo-ingueta-pepe-luis-carmona-camaron-de-la-p/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Conferencia de Estrella de Diego + Cineastas coreógrafas: El cine
   de Maya Deren e Yvonne Rainer
 DTSTART;TZID=Europe/Madrid:20260305T190000
@@ -3469,6 +5070,15 @@ DESCRIPTION:Convencido de que los comunistas están contaminando los Estad
  res.es/pelicula/cine-y-politica-telefono-rojo-volamos-hacia-moscu-vose/?ci
  udad=madrid
 LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maykel Blanco y su Salsa Mayor
+DTSTART;TZID=Europe/Madrid:20260305T210000
+UID:b23f5a47c8fe82966c4ce93fa73bb0b244b9933e6971f5e86228ef2f090c8125
+CATEGORIES:music
+DESCRIPTION:Sala Villanos agenda event. Concierto / Latin\n\nhttps://salav
+ illanos.es/evento/maykel-blanco-y-su-salsa-mayor/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vía versus
@@ -3523,6 +5133,15 @@ DESCRIPTION:Un joven cineasta panameño viaja a Madrid para conocer a Juli
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:FRESTO
+DTSTART;TZID=Europe/Madrid:20260306T213000
+UID:b71d67f798bf37fe9ea46aede085fda60c01e02f211671c63673ef7750c08062
+CATEGORIES:music
+DESCRIPTION:Sala Villanos agenda event. Concierto / Latin / Pop\n\nhttps:/
+ /salavillanos.es/evento/fresto/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Mercado de Motores Madrid · 7 y  8 de Marzo · Entrada GRATIS
 DTSTART;TZID=Europe/Madrid:20260307T110000
 DTEND;TZID=Europe/Madrid:20260308T200000
@@ -3534,6 +5153,17 @@ DESCRIPTION:El mercadillo más famoso de Madrid: moda vintage\, diseño\,
  id-7-y-8-de-marzo-entrada-gratis-1982627873340
 LOCATION:Mercado de motores - 61 Paseo de las Delicias\, Madrid\, MD\, 280
  45
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mercado de las Ranas
+DTSTART;TZID=Europe/Madrid:20260307T120000
+DTEND;TZID=Europe/Madrid:20260307T200000
+UID:c74c3726f50bd340eb3dfe2ebdbf824e66fec3119ba8ad970f9b2f27bd58f999
+CATEGORIES:market
+DESCRIPTION:Mercado del Barrio de las Letras con puestos de artesanía\, d
+ iseño\, moda y gastronomía en la calle Huertas.\n\nhttps://barrioletras.
+ com/mercado-de-las-ranas/
+LOCATION:Barrio de las Letras - Calle de las Huertas\, 2-47\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yrupẽ
@@ -3564,6 +5194,15 @@ DESCRIPTION:Un joven cineasta panameño viaja a Madrid para conocer a Juli
   la identidad y el poder perdurable del arte para conectar generaciones.\n
  \nhttps://www.cinetecamadrid.com/programacion/el-brujo-julio-zachrisson
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Satoshi Tomiie + NACHO MARCO
+DTSTART;TZID=Europe/Madrid:20260307T235900
+UID:cdcfac01f30858f7da0b1094be87a5f8b0d26cd12c3d14582c576cc15eafc3b2
+CATEGORIES:other
+DESCRIPTION:Sala Villanos agenda event. Club\n\nhttps://salavillanos.es/ev
+ ento/satoshi-tomiie/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Domingo de clásicos: Perdición
@@ -3634,6 +5273,15 @@ DESCRIPTION:Un joven cineasta panameño viaja a Madrid para conocer a Juli
   la identidad y el poder perdurable del arte para conectar generaciones.\n
  \nhttps://www.cinetecamadrid.com/programacion/el-brujo-julio-zachrisson
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VELITO EL BUFON
+DTSTART;TZID=Europe/Madrid:20260308T210000
+UID:b832ab67647ea55d6038f5a92ac8e69e9ef3b932f9823320baece7d41a4eef52
+CATEGORIES:music
+DESCRIPTION:Sala Villanos agenda event. Concierto / Latin / Urban\n\nhttps
+ ://salavillanos.es/evento/velito-el-bufon/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chocolat
@@ -3709,6 +5357,15 @@ DESCRIPTION:Conferencia de Germán Labrador (60' aprox.) + proyección: Ar
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:I PATAGARRI
+DTSTART;TZID=Europe/Madrid:20260311T203000
+UID:72c6f4e20ef152898e581c73c67fa40fd95c4eaa304a6851afb189f3f8808279
+CATEGORIES:music
+DESCRIPTION:Sala Villanos agenda event. Concierto / Pop / World Music & Fo
+ lk\n\nhttps://salavillanos.es/evento/i-patagarri/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Cine y política: Election
 DTSTART;TZID=Europe/Madrid:20260312T193000
 DTEND;TZID=Europe/Madrid:20260312T210800
@@ -3736,6 +5393,63 @@ DESCRIPTION:Ambientada en la España de la posguerra\, Demonios en el jard
  ectos del autoritarismo en la vida privada.\n\nhttps://www.cinetecamadrid.
  com/programacion/demonios-en-el-jardin
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ATZUR
+DTSTART;TZID=Europe/Madrid:20260312T201500
+UID:b560e0e41baf4b5db70432084f4232ea12bab3f4a9685e01ff0d08bd541cb7b1
+CATEGORIES:music
+DESCRIPTION:Sala Villanos agenda event. Concierto / Electronic / Pop\n\nht
+ tps://salavillanos.es/evento/atzur/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RICARDO MOYA
+DTSTART;TZID=Europe/Madrid:20260313T213000
+UID:ef71165cfdb28f06d8a45ec87d2a0a90f54e6af314f227f713af01e75b528770
+CATEGORIES:music
+DESCRIPTION:Sala Villanos agenda event. Concierto / Pop / Rock\n\nhttps://
+ salavillanos.es/evento/ricardo-moya/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hercules & Love Affair DJ SET + ISAAC ARGA / ESTRELLA OR
+DTSTART;TZID=Europe/Madrid:20260313T235900
+UID:b9a0f675f7ffd5c2ff82051889f38010855b3ca6c555a78fcb56d51064b1b479
+CATEGORIES:music
+DESCRIPTION:Sala Villanos agenda event. Club\n\nhttps://salavillanos.es/ev
+ ento/hercules-love-affair-dj-set/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SAINT STACY
+DTSTART;TZID=Europe/Madrid:20260314T213000
+UID:d80d283cec7503c350929cb649e147db3213557737c2c5f5f3ff2b42e4dbb0ad
+CATEGORIES:music
+DESCRIPTION:Sala Villanos agenda event. Concierto / Electronic / Rock\n\nh
+ ttps://salavillanos.es/evento/saint-stacy/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:System Olympia DJ SET + ACID HERO / IVAN SMOKA
+DTSTART;TZID=Europe/Madrid:20260314T235900
+UID:a4401dd0b1dd02c3072da9b13d37685ccf7a0f06bee92ea892ac08be39ff5e58
+CATEGORIES:music
+DESCRIPTION:Sala Villanos agenda event. Club\n\nhttps://salavillanos.es/ev
+ ento/system-olympia-dj-set/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mercado Productores Planetario
+DTSTART;TZID=Europe/Madrid:20260315T100000
+DTEND;TZID=Europe/Madrid:20260315T160000
+UID:c09a315a3e44c268603bf556fb4ec98bebdc851fcf10d297fbc2ddbb665aee60
+CATEGORIES:market
+DESCRIPTION:Mercado de productores locales y artesanos en Planetario con a
+ limentacion sostenible\, productos de cercania y actividades al aire libre
+ .\n\nhttps://mercadoproductores.es/mp-planetario/
+LOCATION:Mercado Productores Planetario - Avenida del Planetario esquina C
+ alle Meneses\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Domingo de clásicos: Hiroshima\, mon amour
@@ -3782,5 +5496,14 @@ DESCRIPTION:Decidida a cumplir el sueño de su difunta madre de abrir una
  y coloridos pasteles.\n\nAudio: VOSE\n\nhttps://cinesembajadores.es/pelicu
  la/una-pasteleria-en-notting-hill-vose/?ciudad=madrid
 LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:THE WAVES PICTURES
+DTSTART;TZID=Europe/Madrid:20260316T203000
+UID:4208fe99d2e4ebe0f926429b370283d9f2054048986cb6b99385601642ba1e63
+CATEGORIES:music
+DESCRIPTION:Sala Villanos agenda event. Concierto / Pop / Rock\n\nhttps://
+ salavillanos.es/evento/the-waves-pictures/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 END:VCALENDAR
