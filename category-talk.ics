@@ -68,10 +68,9 @@ SUMMARY:CRISTIAN de Moret full band + Juanfe Pérez\, La Pucci y Bego Sala
 DTSTART;TZID=Europe/Madrid:20260219T203000
 UID:f325f90a7e38043de68bcfc2cdacf7656c2e297b174fea3e4c6541aab5804ff2
 CATEGORIES:talk
-DESCRIPTION:Sala Villanos agenda event. Concierto / Electronic / Pop / Roc
- k\n\nhttps://salavillanos.es/evento/cristian-de-moret-full-band-artistas-i
- nvitados-juanfe-perez-y-mas-por-confirmar-presentacion-nuevo-disco-apache-
- bereber/
+DESCRIPTION:Concierto / Electronic / Pop / Rock\n\nhttps://salavillanos.es
+ /evento/cristian-de-moret-full-band-artistas-invitados-juanfe-perez-y-mas-
+ por-confirmar-presentacion-nuevo-disco-apache-bereber/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -298,14 +297,28 @@ DESCRIPTION:WEBINARIO dirigido a público adulto.\nImpartido en colaboraci
 LOCATION:CIEA Casa de Campo - Paseo Embarcadero\, 1\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Encuentro con Olga de Dios
+DTSTART;TZID=Europe/Madrid:20260307T120000
+UID:14d5248e7e5d8c10f221215c6b2f432f80ffda4ead25d021bc55124b9bd1bd49
+CATEGORIES:talk
+DESCRIPTION:7 Marzo 2026 ENCUENTRO CON OLGA DE DIOS Olga de Dios visitará
+  nuestra librería y narrará su último cuento: La estrella con los pies 
+ en el suelo . Si quieres disfrutar de una mañana diferente con tu peque\,
+  ¡os esperamos! El aforo es limitado\, por lo que es imprescindible reser
+ var plaza escribiéndonos un correo a hola@laanonimalibreria.com y recibir
+  nuestra confirmación\n\nhttps://laanonimalibreria.com/evento/151/encuent
+ ro-con-olga-de-dios/
+LOCATION:La Anonima Libreria - C/ Embajadores\, 166 - Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:MICROMAMBO presentación del disco La República del Baile con inv
  itados especiales
 DTSTART;TZID=Europe/Madrid:20260307T183000
 UID:070701b27f87c6bb506f02e8a44151eb42ecbf295e695da8ba4cfa7bc78b408c
 CATEGORIES:talk
-DESCRIPTION:Sala Villanos agenda event. Concierto / Latin / Rock / World M
- usic & Folk\n\nhttps://salavillanos.es/evento/micromambo-presentacion-del-
- disco-la-republica-del-baile-con-invitados-especiales/
+DESCRIPTION:Concierto / Latin / Rock / World Music & Folk\n\nhttps://salav
+ illanos.es/evento/micromambo-presentacion-del-disco-la-republica-del-baile
+ -con-invitados-especiales/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 END:VCALENDAR

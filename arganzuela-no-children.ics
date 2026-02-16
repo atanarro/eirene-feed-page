@@ -209,10 +209,10 @@ LOCATION:Museo Nacional de Artes Decorativas - de Montalbán\, 12\, Madrid
  \, 28014
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Edgar Degas. En la sombrerería
+SUMMARY:Edgar Degas. Chez la Modiste
 DTSTART;TZID=Europe/Madrid:20251117T000000
 DTEND;TZID=Europe/Madrid:20260301T000000
-UID:f109429030e968edcdd5e4c14685073b42c3bcf14c45f17f08c4f38987107a14
+UID:18c7f1c5bcb3928c6a80209d719193cbfb136f70af555499840ba1b2af127716
 CATEGORIES:exhibition
 DESCRIPTION:Exposición dedicada al estudio técnico en torno a la obra de
  l pintor y escultor francés realizada en 1882 (Museo Nacional Thyssen-Bor
@@ -222,10 +222,10 @@ LOCATION:Museo Nacional Thyssen-Bornemisza - del Prado\, 8\, Madrid\, 2801
  4
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Iberian sculpture dialogues. The Louvre Museum at the MAN
+SUMMARY:Diálogos de escultura ibérica. El Museo del Louvre en el MAN
 DTSTART;TZID=Europe/Madrid:20251118T000000
 DTEND;TZID=Europe/Madrid:20260510T000000
-UID:9c4c57170228f60c1f292ee09682fbe843eefe2f86a047279cd2c62bb0f73f6f
+UID:7db716925f44d4b7824b31d164202fdebbb87e49424bc8982114555753ec74c0
 CATEGORIES:exhibition
 DESCRIPTION:Obras maestras del Museo del Louvre dialogan por primera vez c
  on la escultura ibérica del MAN (Museo Arqueológico Nacional. Hasta 10 m
@@ -607,10 +607,11 @@ LOCATION:Museo Nacional de Antropología - de Alfonso XII\, 68\, Madrid\,
  28014
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rauschenberg: Express. Dentro y fuera del taller
+SUMMARY:Rauschenberg : Express. À l’intérieur et à l’extérieur de 
+ l’atelier
 DTSTART;TZID=Europe/Madrid:20260203T000000
 DTEND;TZID=Europe/Madrid:20260524T000000
-UID:e818b8a173d967498eb7de5b16fd750f6d7a17bf35d3538f8f6bc6108b7c89cb
+UID:fafa6c486f2543a1e8e82d825a4b482978cf3ab7e4a0541b7d0a05c070c80f45
 CATEGORIES:exhibition
 DESCRIPTION:Instalación especial en torno a una de las obras más represe
  ntativas del artista (Museo Nacional Thyssen-Bornemisza. 3 feb a 24 may).\
@@ -653,8 +654,8 @@ UID:cb14394abb58c9018f4fe34d24d6aa2fb134bbb2837e8496f2101c6b2eb302b1
 CATEGORIES:exhibition
 DESCRIPTION:Exposición de la artista Agnes Essonti que forma parte del pr
  ograma especial del 150º aniversario del museo (Museo Nacional de Antropo
- logía. 6 feb a 24 may).\n\nhttps://www.cultura.gob.es/mnantropologia/acti
- vidades/agenda/2026/expotemporales2026/hotel.html
+ logía. Hasta 24 may).\n\nhttps://www.cultura.gob.es/mnantropologia/activi
+ dades/agenda/2026/expotemporales2026/hotel.html
 LOCATION:Museo Nacional de Antropología - de Alfonso XII\, 68\, Madrid\, 
  28014
 END:VEVENT
@@ -666,10 +667,22 @@ UID:0536ba76d5898c9d49f816d09270bc88efae2dc7d918276580a6730faf2a57a9
 CATEGORIES:exhibition
 DESCRIPTION:Muestra que agrupa un cambio de paradigma a la hora de vivir\,
   a través de una selección de muebles de distintos diseñadores (Fernán
-  Gómez Centro Cultural de la Villa. 6 feb a 3 may).\n\nhttps://madriddesi
- gnfestival.lafabrica.com/eventos/manifiesto-mediterraneo/
+  Gómez Centro Cultural de la Villa. Hasta 3 may).\n\nhttps://madriddesign
+ festival.lafabrica.com/eventos/manifiesto-mediterraneo/
 LOCATION:Fernán Gómez Centro Cultural de la Villa - de Colón \, 4\, Mad
  rid\, 28001
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Materiales que cuentan historias
+DTSTART;TZID=Europe/Madrid:20260210T000000
+DTEND;TZID=Europe/Madrid:20260227T000000
+UID:8febccd508073288fe000ac8605d1a852ad66b077862d2e37e72467ff40eb779
+CATEGORIES:exhibition
+DESCRIPTION:Selección de trabajos realizados por varios alumnos de Diseñ
+ o\, Innovación y Tecnología en relación a la construcción de los inter
+ iores de varios espacios gastronómicos (MATCOAM.\n\nhttps://matcoam.coam.
+ org/exposicion-materiales-que-cuentan-historias/
+LOCATION:COAM - de Hortaleza\, 63\, Madrid\, 28004
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Transitar el siglo XX. Dibujo y escultura en las Colecciones ICO
@@ -1054,9 +1067,8 @@ SUMMARY:GOGO PENGUIN With special guest Daudi Matsiko
 DTSTART;TZID=Europe/Madrid:20260216T200000
 UID:bb860c10f9ecd97d7f95da9fcf11f20fc7629d3a4553f660cf44ab63d25c88d0
 CATEGORIES:music
-DESCRIPTION:Sala Villanos agenda event. Concierto / Villanos del Jazz\n\nh
- ttps://salavillanos.es/evento/gogo-penguin-with-special-guest-daudi-matsik
- o/
+DESCRIPTION:Concierto / Villanos del Jazz\n\nhttps://salavillanos.es/event
+ o/gogo-penguin-with-special-guest-daudi-matsiko/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -1114,9 +1126,8 @@ SUMMARY:GOGO PENGUIN With special guest Daudi Matsiko
 DTSTART;TZID=Europe/Madrid:20260216T221500
 UID:1b0a0cfa28992bf7c8304799659125a7814553f7d33ae8f528bc6fb1aaadc394
 CATEGORIES:music
-DESCRIPTION:Sala Villanos agenda event. Concierto / Villanos del Jazz\n\nh
- ttps://salavillanos.es/evento/gogo-penguin-with-special-guest-daudi-matsik
- o-2/
+DESCRIPTION:Concierto / Villanos del Jazz\n\nhttps://salavillanos.es/event
+ o/gogo-penguin-with-special-guest-daudi-matsiko-2/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -1215,10 +1226,10 @@ DESCRIPTION:Versión Original Castellano | Duración 112 minutos | No reco
 LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hammershøi. El ojo que escucha
+SUMMARY:Hammershøi. L’œil qui écoute
 DTSTART;TZID=Europe/Madrid:20260217T000000
 DTEND;TZID=Europe/Madrid:20260531T000000
-UID:c111d9b4444f4f6d2c6b3dee613bfa4ee5da36b9cbed90387e9d66af33b68bb0
+UID:543840f47f6fb31dc67ce0029c08f5ed5b73ff7b4811b98d5fb2bfe3da0cb16d
 CATEGORIES:exhibition
 DESCRIPTION:La primera retrospectiva en España dedicada al artista danés
   que reúne casi un centenar de obras (Museo Nacional Thyssen-Bornemisza. 
@@ -1645,12 +1656,12 @@ DESCRIPTION:Tras lo que parecía una discusión sin importancia\, Marta (A
 LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:VINCENT PEIRANI
+SUMMARY:Vincent Peirani
 DTSTART;TZID=Europe/Madrid:20260217T203000
-UID:e416622e12854c8986d90fc3127a30d4c9a990bdeee7fb86f20581068eeb3e13
+UID:7df058be2d8c1a61245862cfa6b84a79e003d401bd7f38c5a7bd2635feaef4a7
 CATEGORIES:music
-DESCRIPTION:Sala Villanos agenda event. Concierto / Jazz\n\nhttps://salavi
- llanos.es/evento/vincent-peirani/
+DESCRIPTION:Concierto / Jazz\n\nhttps://salavillanos.es/evento/vincent-pei
+ rani/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -2258,12 +2269,12 @@ DESCRIPTION:Versión Original Castellano | Duración 112 minutos | No reco
 LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:JUICY
+SUMMARY:Juicy
 DTSTART;TZID=Europe/Madrid:20260218T220000
-UID:793946d059a655393904b0a8b628c59d9e7a6be8f7c7742851209b26a7a082fb
+UID:cd5b9f59c85fc946557f2985b98755b2c961a43000fd7aaedfc87ec90f31c5a0
 CATEGORIES:music
-DESCRIPTION:Sala Villanos agenda event. Concierto / Hip Hop & Rap / Rock /
-  Soul & R&B / Urban\n\nhttps://salavillanos.es/evento/juicy-2/
+DESCRIPTION:Concierto / Hip Hop & Rap / Rock / Soul & R&B / Urban\n\nhttps
+ ://salavillanos.es/evento/juicy-2/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -3054,18 +3065,16 @@ SUMMARY:Balkan Paradise Orchestra – Game Sessions Tour
 DTSTART;TZID=Europe/Madrid:20260220T210000
 UID:1af7d67d18717a242c6f59a38da026e649c2133f9dba3afff2be139294de4e16
 CATEGORIES:music
-DESCRIPTION:Sala Villanos agenda event. Concierto / Rock / Soul & R&B / Wo
- rld Music & Folk\n\nhttps://salavillanos.es/evento/balkan-paradise-orchest
- ra-game-sessions-tour/
+DESCRIPTION:Concierto / Rock / Soul & R&B / World Music & Folk\n\nhttps://
+ salavillanos.es/evento/balkan-paradise-orchestra-game-sessions-tour/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:QUANTIC DJ SET + MADAME EXCUSE
+SUMMARY:Quantic DJ Set + Madame Excuse
 DTSTART;TZID=Europe/Madrid:20260220T235900
-UID:11ed3b18db44d00adcb13ac8fd56b241013e20cf322d967bd6b5c32bfddb99b1
+UID:798d33738a8464b8c5a22d647b9ee1b42f712797771cef7594091e8dc8676ec3
 CATEGORIES:music
-DESCRIPTION:Sala Villanos agenda event. Club\n\nhttps://salavillanos.es/ev
- ento/quantic-dj-set/
+DESCRIPTION:Club\n\nhttps://salavillanos.es/evento/quantic-dj-set/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -3118,12 +3127,12 @@ DESCRIPTION:Mercado del Barrio de las Letras con puestos de artesanía\, d
 LOCATION:Barrio de las Letras - Calle de las Huertas\, 2-47\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EL FORO BLUES FESTIVAL II EDICION
+SUMMARY:El Foro Blues Festival II Edicion
 DTSTART;TZID=Europe/Madrid:20260221T130000
-UID:5dde18dec4451c0bdb5b792c95b17cd9f7f022f2bf1a8c960590a5e4df9c8607
+UID:e7aa170bec29a1ae6002338b8bdd89fc0d44192b5b44e52593efcf697746f866
 CATEGORIES:music
-DESCRIPTION:Sala Villanos agenda event. Concierto / Soul & R&B\n\nhttps://
- salavillanos.es/evento/el-foro-blues-festival-ii-edicion/
+DESCRIPTION:Concierto / Soul & R&B\n\nhttps://salavillanos.es/evento/el-fo
+ ro-blues-festival-ii-edicion/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -3200,12 +3209,12 @@ DESCRIPTION:"El verano de 2015 cumplí treinta años. Vivía con amigues e
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:INTERACTIVO DE CUBA
+SUMMARY:Interactivo De Cuba
 DTSTART;TZID=Europe/Madrid:20260221T210000
-UID:64dda3f20fcd14169590ef957d6c92981ce6462b75d220d6dcdcfca2886165f4
+UID:5869590d01531eea4838c8a1534c2e779d0f5e65dec9494b45154f42b948f502
 CATEGORIES:music
-DESCRIPTION:Sala Villanos agenda event. Concierto / Latin\n\nhttps://salav
- illanos.es/evento/interactivo-de-cuba-2/
+DESCRIPTION:Concierto / Latin\n\nhttps://salavillanos.es/evento/interactiv
+ o-de-cuba-2/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -3245,17 +3254,17 @@ SUMMARY:VILLAMOLINOS matinés musicales
 DTSTART;TZID=Europe/Madrid:20260222T130000
 UID:8973586c184c978a220d5fbcfaf6407a3c30255c4b3ea00fa7ceb8e231ed61a7
 CATEGORIES:music
-DESCRIPTION:Sala Villanos agenda event. Concierto / Jazz\n\nhttps://salavi
- llanos.es/evento/villamolinos-matines-musicales-5/
+DESCRIPTION:Concierto / Jazz\n\nhttps://salavillanos.es/evento/villamolino
+ s-matines-musicales-5/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TEMPLO DEL BAILE
+SUMMARY:Templo Del Baile
 DTSTART;TZID=Europe/Madrid:20260222T173000
-UID:97b91dedd145eb71a90d24e362e25fd1c74424b32452673a1954dd799f7ec575
+UID:a9567f425061083726be9ca7adc816315fa32d65a83070cfe7ac0b2c16ce2761
 CATEGORIES:music
-DESCRIPTION:Sala Villanos agenda event. Concierto / World Music & Folk\n\n
- https://salavillanos.es/evento/templo-del-baile/
+DESCRIPTION:Concierto / World Music & Folk\n\nhttps://salavillanos.es/even
+ to/templo-del-baile/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -3356,10 +3365,11 @@ DESCRIPTION:Brigitte y su hermana Ginger son dos adolescentes muy unidas..
 LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Irma Álvarez-Laviada. Dentro y fuera del marco
+SUMMARY:Irma Álvarez-Laviada. À l’intérieur et à l’extérieur du c
+ adre
 DTSTART;TZID=Europe/Madrid:20260223T000000
 DTEND;TZID=Europe/Madrid:20260503T000000
-UID:97e325fc21da31c30d4ddb4d8dbc4ce7d6ece14d4068bca4f94b8111ad781e70
+UID:4d48752ac0e162e17f392da9872ddf06ce1858fe8db23d001052b14ab023a78d
 CATEGORIES:exhibition
 DESCRIPTION:Una selección de más de treinta piezas realizadas en la últ
  ima década por la artista\, junto a pinturas de la colección del museo (
@@ -3485,12 +3495,11 @@ DESCRIPTION:Cuando un pescador es asesinado por unos codiciosos promotores
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:POSTCODE
+SUMMARY:Postcode
 DTSTART;TZID=Europe/Madrid:20260224T203000
-UID:21476c99ced0236768beb7f54c9e47896d826826d0910c51583dac59c602ce1d
+UID:9b225202a5bde0a9f09fa0ba2fc3705a6a017927a55ab549b799ffe53942a1b7
 CATEGORIES:music
-DESCRIPTION:Sala Villanos agenda event. Concierto\n\nhttps://salavillanos.
- es/evento/postcode/
+DESCRIPTION:Concierto\n\nhttps://salavillanos.es/evento/postcode/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -3626,9 +3635,8 @@ SUMMARY:SEMILLAS DE ESPERANZA: concierto solidario por Palestina
 DTSTART;TZID=Europe/Madrid:20260225T200000
 UID:2d9382dbf812155eac1ea7ad3ac106a4ef1ba8c5bfde26a735043479d57d2ddd
 CATEGORIES:music
-DESCRIPTION:Sala Villanos agenda event. Concierto / Pop / Rock\n\nhttps://
- salavillanos.es/evento/semillas-de-esperanza-concierto-solidario-por-pales
- tina/
+DESCRIPTION:Concierto / Pop / Rock\n\nhttps://salavillanos.es/evento/semil
+ las-de-esperanza-concierto-solidario-por-palestina/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -3730,12 +3738,12 @@ DESCRIPTION:Yasuko vive en un rascacielos de la ciudad con su marido y su
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ADRIAN SHERWOOD
+SUMMARY:Adrian Sherwood
 DTSTART;TZID=Europe/Madrid:20260226T203000
-UID:a86231137bbac97e79d604fa43991b51853537e7472320d7be76cf0fc8842bac
+UID:f8600036e0604b53248eccccd0ebf3ef2c814ddab230a23cd9a59db80c20674b
 CATEGORIES:music
-DESCRIPTION:Sala Villanos agenda event. Concierto / Electronic / Hip Hop &
-  Rap / Pop\n\nhttps://salavillanos.es/evento/adrian-sherwood/
+DESCRIPTION:Concierto / Electronic / Hip Hop & Rap / Pop\n\nhttps://salavi
+ llanos.es/evento/adrian-sherwood/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -3855,18 +3863,16 @@ SUMMARY:¡Chiquita Movida se presenta por todo lo alto en Madrid!
 DTSTART;TZID=Europe/Madrid:20260227T213000
 UID:d7c9eda6c8d947aefeb427b0b3eb10401dc0eaa2b550074f72e7aa961013e586
 CATEGORIES:music
-DESCRIPTION:Sala Villanos agenda event. Concierto / Pop / Rock\n\nhttps://
- salavillanos.es/evento/chiquita-movida-se-presenta-por-todo-lo-alto-en-mad
- rid/
+DESCRIPTION:Concierto / Pop / Rock\n\nhttps://salavillanos.es/evento/chiqu
+ ita-movida-se-presenta-por-todo-lo-alto-en-madrid/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HORSE MEAT DISCO + RAYKO
+SUMMARY:Horse Meat Disco + Rayko
 DTSTART;TZID=Europe/Madrid:20260227T235900
-UID:212c99d4c3949aa13bf1e46eabffa226f42f71f1081419557284cd952b3d4891
+UID:5bd9cadae8b779a4346c4645dc8370b6683a7e7c2701d4491fe6e51fd8878248
 CATEGORIES:other
-DESCRIPTION:Sala Villanos agenda event. Club\n\nhttps://salavillanos.es/ev
- ento/horse-meat-disco/
+DESCRIPTION:Club\n\nhttps://salavillanos.es/evento/horse-meat-disco/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -4128,12 +4134,11 @@ DESCRIPTION:La familia Kobayashi por fin consigue mudarse de su diminuto y
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:AUSTRA
+SUMMARY:Austra
 DTSTART;TZID=Europe/Madrid:20260228T210000
-UID:84152eebc3c6d243140a69f705b1087e0b63f6485534c9f22eca73c696baaec7
+UID:17440b7ba8e6b3be430f0ffb20c1871313db08bdc555befe0dd3bc4c4a5b2611
 CATEGORIES:music
-DESCRIPTION:Sala Villanos agenda event. Concierto / Pop\n\nhttps://salavil
- lanos.es/evento/austra/
+DESCRIPTION:Concierto / Pop\n\nhttps://salavillanos.es/evento/austra/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -4141,8 +4146,7 @@ SUMMARY:Steve Bug Dj Set + ACID HERO / NACHO MARCO
 DTSTART;TZID=Europe/Madrid:20260228T235900
 UID:160958eadaeba5ad2ba257d65f2c288df657de30f619c282e8d810d8baa5c9b0
 CATEGORIES:music
-DESCRIPTION:Sala Villanos agenda event. Club\n\nhttps://salavillanos.es/ev
- ento/steve-bug-dj-set/
+DESCRIPTION:Club\n\nhttps://salavillanos.es/evento/steve-bug-dj-set/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -4201,8 +4205,8 @@ SUMMARY:Herman Düne
 DTSTART;TZID=Europe/Madrid:20260301T193000
 UID:17ae6890df66c0d9f0886fcb7a89547664d4fd8bdfd9fbd4950707a863f31abe
 CATEGORIES:music
-DESCRIPTION:Sala Villanos agenda event. Concierto / Pop / World Music & Fo
- lk\n\nhttps://salavillanos.es/evento/herman-dune/
+DESCRIPTION:Concierto / Pop / World Music & Folk\n\nhttps://salavillanos.e
+ s/evento/herman-dune/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -4222,10 +4226,10 @@ DESCRIPTION:Nat Dayan\, un viejo panadero judío del este de Londres\, se
 LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pedagogías de guerra. Roman Khimei & Yarema Malashchuk
+SUMMARY:Pédagogies de guerre. Roman Khimei & Yarema Malashchuk
 DTSTART;TZID=Europe/Madrid:20260303T000000
 DTEND;TZID=Europe/Madrid:20260621T000000
-UID:62b5cec47fa66eade5e20ff17d288c89e374e0fc4e571ac0dbb516e1f21e8560
+UID:994c0ebbd188d339780a22e0c785afc8ff728ad11a2a313128749569d16b24e9
 CATEGORIES:exhibition
 DESCRIPTION:Los jóvenes artistas ucranianos exploran con sus fotografía
  s cómo la invasión rusa a gran escala de Ucrania ha reorganizado el espa
@@ -4384,18 +4388,67 @@ DESCRIPTION:Documental único que registra el proceso creativo de Pablo Pi
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:POR TINO:  Artistas invitados: Antonio Carmona\, Yumitus\, Son D´
- alikante\, Guadiana\, Josemi Carmona\, Piraña\, Miguel El Rubio\, Montse 
- Cortes\, Jorge Pardo\, Ingueta\, Pepe Luis Carmona\, Camaron de la Pitita\
- , Pepe Luis Carmona\, Joselito Romero\, Bandolero\, Lucas Carmona…
+SUMMARY:POR TINO: Artistas invitados: Antonio Carmona\, Yumitus\, Son D´a
+ likante\, Guadiana\, Josemi Carmona\, Piraña\, Miguel El Rubio\, Montse C
+ ortes\, Jorge Pardo\, Ingueta\, Pepe Luis Carmona\, Camaron de la Pitita\,
+  Pepe Luis Carmona\, Joselito Romero\, Bandolero\, Lucas Carmona…
 DTSTART;TZID=Europe/Madrid:20260304T220000
-UID:1508d17ee6f58e699b77ace17af0bfb24c6f117fba20edb5bc7776d83aac42a2
+UID:c46481f44f68db5bbd4a7dfd3f9b90c441d7661c6da02088e9f31ab1ab42c214
 CATEGORIES:music
-DESCRIPTION:Sala Villanos agenda event. Concierto / Flamenco\n\nhttps://sa
- lavillanos.es/evento/por-tino-artistas-invitados-antonio-carmona-yumitus-s
- on-dalikante-guadiana-josemi-carmona-pirana-miguel-el-rubio-montse-cortes-
- jorge-pardo-ingueta-pepe-luis-carmona-camaron-de-la-p/
+DESCRIPTION:Concierto / Flamenco\n\nhttps://salavillanos.es/evento/por-tin
+ o-artistas-invitados-antonio-carmona-yumitus-son-dalikante-guadiana-josemi
+ -carmona-pirana-miguel-el-rubio-montse-cortes-jorge-pardo-ingueta-pepe-lui
+ s-carmona-camaron-de-la-p/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jornadas de Puertas Abiertas Semana del arte 2026 en el Centro de 
+ Residencias Artísticas
+DTSTART;TZID=Europe/Madrid:20260305T110000
+UID:a22925c3ce718373c335cbbf7a07359fe5934955b7df1c30ff772a99f0f97ca5
+CATEGORIES:exhibition
+DESCRIPTION:El Centro de residencias artísticas \, situado en la Nave 16 
+ de Matadero Madrid\, es un espacio de trabajo y convivencia entre diferent
+ es artistas y agentes culturales que comparten procesos de trabajo\, inves
+ tigación y creación. A lo largo del año se programan diferentes activid
+ ades que dan a conocer lo que ocurre de puertas hacia adentro\, pero será
+  durante la jornada de puertas abiertas cuando todos los residentes compar
+ tan su trabajo con el público. En la próxima Jornada de Puertas Abiertas
+  participarán los ocho artistas de residencias para artistas visuales Ant
+ onio Fernández Alvira \, Julia Llerena \, Elisa Pardo Puch \, Simón Sep
+ úlveda \, Andrea Aguilera \, Taxio Ardanaz \, Mar Guerrero y Martínez Be
+ llido \, así como la artista Hodei Herreros \, beneficiaria de las ayudas
+  del Ministerio de Cultura al programa de residencias de Tabacalera Centro
+  de Arte. Igualmente contaremos con la presencia de la residente de produc
+ ción musical para bandas\, Maite Gallardo Alba \,  la residente de arte 
+ y educación Costa Badía y las asociaciones Debajo del sombrero y AMECUM.
+  Se suman a estas Jornadas los residentes de Investigación Situada de Med
+ ialab Matadero Andrea Muniáin y Paula Ramos Mollá\, Calin Segal y Álvar
+ o Soto López . En las Jornadas\, el equipo asesor de las residencias para
+  artistas visuales\, la comisaria y crítica de arte Bea Espejo y el artis
+ ta Antonio Ballester Moreno\, nos acompañarán con visitas comentadas en 
+ las que conocer de primera mano los proyectos que están desarrollando los
+  artistas. PROGRAMA JUEVES 5 DE MARZO > 11h. APERTURA DE PUERTAS > 11h. DI
+ BUJO EN ACCIÓN Sesión de trabajo de los artistas de Debajo del Sombrero 
+ Lugar: estudio de Debajo del Sombrero VISITAS DIALOGADAS > 11.30h. Luisa E
+ spino con Costa Badía Lugar: estudios de los residentes > 12h. Antonio Ba
+ llester Moreno con Elisa Pardo Puch\, Mar Guerrero\, Taxio Ardanaz y Mart
+ ínez Bellido Lugar: estudios de los residentes > 12.45h. Bea Espejo con 
+  Antonio Fernández Alvira\, Julia Llerena\, Simón Sepúlveda\, Andrea A
+ guilera y Hodei Herreros Lugar: estudios de los residentes SÁBADO 7 DE MA
+ RZO 11h. APERTURA DE PUERTAS VISITAS DIALOGADAS > 11.30h. INVESTIGACIÓN S
+ ITUADA MEDIALAB: Bani Brusadin con Andrea Muniáin\, Calin Segal y Álvaro
+  Soto López Lugar: estudios de los residentes > 12h. Luisa Espino con Deb
+ ajo del sombrero\, AMECUM y Costa Badía Lugar: estudios de los residentes
+  > 12.30h. Antonio Ballester Moreno con Elisa Pardo Puch\, Mar Guerrero\, 
+ Taxio Ardanaz y Martínez Bellido Lugar: estudios de los residentes > 13.1
+ 5h. Bea Espejo con  Antonio Fernández Alvira\, Julia Llerena\, Simón Se
+ púlveda\, Andrea Aguilera y Hodei Herreros Lugar: estudios de los residen
+ tes. 14h. HA PASADO UN ÁNGEL Una inmersión en la memoria y el proceso cr
+ eativo de La belleza por Maite Gallardo. Lugar: cabina de sonido y cubo ne
+ gro\n\nhttps://www.mataderomadrid.org/programacion/jornadas-de-puertas-abi
+ ertas-semana-del-arte-2026-en-el-centro-de-residencias
+LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Conferencia de Estrella de Diego + Cineastas coreógrafas: El cine
@@ -4452,9 +4505,43 @@ SUMMARY:Maykel Blanco y su Salsa Mayor
 DTSTART;TZID=Europe/Madrid:20260305T210000
 UID:b23f5a47c8fe82966c4ce93fa73bb0b244b9933e6971f5e86228ef2f090c8125
 CATEGORIES:music
-DESCRIPTION:Sala Villanos agenda event. Concierto / Latin\n\nhttps://salav
- illanos.es/evento/maykel-blanco-y-su-salsa-mayor/
+DESCRIPTION:Concierto / Latin\n\nhttps://salavillanos.es/evento/maykel-bla
+ nco-y-su-salsa-mayor/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Visita Guiada A La Exposición 'Pulgar' Con La Artista Mónica May
+ s Y La Comisaria Cristina Anglada
+DTSTART;TZID=Europe/Madrid:20260306T180000
+UID:fd3743d7112f2a35f13bae8dc4cceecae79d0523eb578ca3dd7d9e2df4932c4e
+CATEGORIES:exhibition
+DESCRIPTION:La artista Mónica Mays (Madrid\, 1990) presenta una nueva ser
+ ie de esculturas que trazan los rastros de memoria y combustión desde Rib
+ era de Curtidores hasta la Nave 0\, donde refrigeración\, instrumentaliza
+ ción del cuerpo y fuego colisionan en la arquitectura del espacio exposit
+ ivo. Le acompañará en su recorrido la comisaria de la exposición \, Cr
+ istina Anglada. La práctica artística de Mónica Mays abarca la escultur
+ a y la instalación\, entrelazando la autobiografía\, el proceso material
+  y el archivo histórico. Sus piezas están compuestas por ensamblajes que
+  adoptan la forma de objetos domésticos animados\, desbordados\, distorsi
+ onados o en proceso de transmutación. Tras estudiar Antropología Cultura
+ l en la Universidad de Nueva Orleans\, Mays se graduó cum laude en la Éc
+ ole Supérieure des Arts Décoratifs de Estrasburgo en 2015 y obtuvo un m
+ áster en el Sandberg Instituut de Ámsterdam en 2017. Ha desarrollado pro
+ yectos en residencias artísticas como Rupert (Vilna)\, Fundación Bilbao 
+ Arte (Bilbao\, España)\, Matadero Madrid y el Cemeti Institute for Art an
+ d Society (Yogyakarta\, Indonesia). Su obra se ha exhibido en espacios com
+ o el Teatro Frascati (Ámsterdam)\, la Tallinn Art Hall (Tallin)\, Punt WG
+  (Ámsterdam)\, Blue Velvet Projects (Zúrich)\, CentroCentro (Madrid)\, K
+ UBUS (Hannover)\, Industra (Brno) y Atelier Chiffonier (Dijon\, Francia). 
+ Recientemente\, Mays ha sido galardonada con el Illy Art Prize ARCO 2024 y
+  fue una de las nominadas al NN Art Award 2024. Entre otros reconocimiento
+ s se incluyen el premio 3PD otorgado por el Fondo de las Artes de Ámsterd
+ am en 2022\, la beca Mondriaan Fonds Young Artist Stipendium 2023 y el pre
+ mio Generation 2022 de la Fundación Montemadrid.\n\nhttps://www.mataderom
+ adrid.org/programacion/visita-guiada-la-exposicion-pulgar-con-la-artista-m
+ onica-mays-y-la-comisaria-cristina
+LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vía versus
@@ -4509,12 +4596,12 @@ DESCRIPTION:Un joven cineasta panameño viaja a Madrid para conocer a Juli
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FRESTO
+SUMMARY:Fresto
 DTSTART;TZID=Europe/Madrid:20260306T213000
-UID:b71d67f798bf37fe9ea46aede085fda60c01e02f211671c63673ef7750c08062
+UID:3885dd0f771fb8fe727c82921977c07be43f7a4e312a6bd2230de47c375cfd38
 CATEGORIES:music
-DESCRIPTION:Sala Villanos agenda event. Concierto / Latin / Pop\n\nhttps:/
- /salavillanos.es/evento/fresto/
+DESCRIPTION:Concierto / Latin / Pop\n\nhttps://salavillanos.es/evento/fres
+ to/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -4576,8 +4663,7 @@ SUMMARY:Satoshi Tomiie + NACHO MARCO
 DTSTART;TZID=Europe/Madrid:20260307T235900
 UID:cdcfac01f30858f7da0b1094be87a5f8b0d26cd12c3d14582c576cc15eafc3b2
 CATEGORIES:other
-DESCRIPTION:Sala Villanos agenda event. Club\n\nhttps://salavillanos.es/ev
- ento/satoshi-tomiie/
+DESCRIPTION:Club\n\nhttps://salavillanos.es/evento/satoshi-tomiie/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -4651,12 +4737,12 @@ DESCRIPTION:Un joven cineasta panameño viaja a Madrid para conocer a Juli
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:VELITO EL BUFON
+SUMMARY:Velito El Bufon
 DTSTART;TZID=Europe/Madrid:20260308T210000
-UID:b832ab67647ea55d6038f5a92ac8e69e9ef3b932f9823320baece7d41a4eef52
+UID:ed63a9de625df87461ed4999e796cbf86e4fdc7801516c2e82bc5d7e28ff784f
 CATEGORIES:music
-DESCRIPTION:Sala Villanos agenda event. Concierto / Latin / Urban\n\nhttps
- ://salavillanos.es/evento/velito-el-bufon/
+DESCRIPTION:Concierto / Latin / Urban\n\nhttps://salavillanos.es/evento/ve
+ lito-el-bufon/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -4733,12 +4819,12 @@ DESCRIPTION:Conferencia de Germán Labrador (60' aprox.) + proyección: Ar
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:I PATAGARRI
+SUMMARY:I Patagarri
 DTSTART;TZID=Europe/Madrid:20260311T203000
-UID:72c6f4e20ef152898e581c73c67fa40fd95c4eaa304a6851afb189f3f8808279
+UID:13b22b0f256a3fa2ad22b12e55317c4f8958f8e4d82d913e295c579c5a45bd99
 CATEGORIES:music
-DESCRIPTION:Sala Villanos agenda event. Concierto / Pop / World Music & Fo
- lk\n\nhttps://salavillanos.es/evento/i-patagarri/
+DESCRIPTION:Concierto / Pop / World Music & Folk\n\nhttps://salavillanos.e
+ s/evento/i-patagarri/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -4771,21 +4857,21 @@ DESCRIPTION:Ambientada en la España de la posguerra\, Demonios en el jard
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ATZUR
+SUMMARY:Atzur
 DTSTART;TZID=Europe/Madrid:20260312T201500
-UID:b560e0e41baf4b5db70432084f4232ea12bab3f4a9685e01ff0d08bd541cb7b1
+UID:7797edec513c56aaf8bbf5489b42ac42627ac384b64edc65060f8b92b80b4178
 CATEGORIES:music
-DESCRIPTION:Sala Villanos agenda event. Concierto / Electronic / Pop\n\nht
- tps://salavillanos.es/evento/atzur/
+DESCRIPTION:Concierto / Electronic / Pop\n\nhttps://salavillanos.es/evento
+ /atzur/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:RICARDO MOYA
+SUMMARY:Ricardo Moya
 DTSTART;TZID=Europe/Madrid:20260313T213000
-UID:ef71165cfdb28f06d8a45ec87d2a0a90f54e6af314f227f713af01e75b528770
+UID:8e43dc649c3f79bc6c9183e6e2b21be6132b2f2d7020c81aa51fc505121edec6
 CATEGORIES:music
-DESCRIPTION:Sala Villanos agenda event. Concierto / Pop / Rock\n\nhttps://
- salavillanos.es/evento/ricardo-moya/
+DESCRIPTION:Concierto / Pop / Rock\n\nhttps://salavillanos.es/evento/ricar
+ do-moya/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -4793,17 +4879,17 @@ SUMMARY:Hercules & Love Affair DJ SET + ISAAC ARGA / ESTRELLA OR
 DTSTART;TZID=Europe/Madrid:20260313T235900
 UID:b9a0f675f7ffd5c2ff82051889f38010855b3ca6c555a78fcb56d51064b1b479
 CATEGORIES:music
-DESCRIPTION:Sala Villanos agenda event. Club\n\nhttps://salavillanos.es/ev
- ento/hercules-love-affair-dj-set/
+DESCRIPTION:Club\n\nhttps://salavillanos.es/evento/hercules-love-affair-dj
+ -set/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SAINT STACY
+SUMMARY:Saint Stacy
 DTSTART;TZID=Europe/Madrid:20260314T213000
-UID:d80d283cec7503c350929cb649e147db3213557737c2c5f5f3ff2b42e4dbb0ad
+UID:9543eb07d3cd6561035d215c2eead15d7f3eadd44cee076833de8174825e94ab
 CATEGORIES:music
-DESCRIPTION:Sala Villanos agenda event. Concierto / Electronic / Rock\n\nh
- ttps://salavillanos.es/evento/saint-stacy/
+DESCRIPTION:Concierto / Electronic / Rock\n\nhttps://salavillanos.es/event
+ o/saint-stacy/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -4811,8 +4897,7 @@ SUMMARY:System Olympia DJ SET + ACID HERO / IVAN SMOKA
 DTSTART;TZID=Europe/Madrid:20260314T235900
 UID:a4401dd0b1dd02c3072da9b13d37685ccf7a0f06bee92ea892ac08be39ff5e58
 CATEGORIES:music
-DESCRIPTION:Sala Villanos agenda event. Club\n\nhttps://salavillanos.es/ev
- ento/system-olympia-dj-set/
+DESCRIPTION:Club\n\nhttps://salavillanos.es/evento/system-olympia-dj-set/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -4845,10 +4930,10 @@ DESCRIPTION:Después de rodar una película en Hiroshima\, una joven actri
 LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Guercino y sus heroínas bíblicas
+SUMMARY:Guercino et ses héroïnes bibliques
 DTSTART;TZID=Europe/Madrid:20260316T000000
 DTEND;TZID=Europe/Madrid:20260614T000000
-UID:3e9a3ab4dc5ca83af24c15b8fa0189271af5516df95addfa10c4cc25749e9bcc
+UID:a9af7b1c675f0e83823e27f9472a405014d6b0241b06506d7b0980fc9e135b5b
 CATEGORIES:exhibition
 DESCRIPTION:Pequeña muestra que presenta un conjunto de obras de Giovanni
   Francesco Barbieri\, figura clave de la pintura barroca (Museo Nacional T
@@ -4874,12 +4959,12 @@ DESCRIPTION:Decidida a cumplir el sueño de su difunta madre de abrir una
 LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:THE WAVES PICTURES
+SUMMARY:The Waves Pictures
 DTSTART;TZID=Europe/Madrid:20260316T203000
-UID:4208fe99d2e4ebe0f926429b370283d9f2054048986cb6b99385601642ba1e63
+UID:7d559d4a44b24884e91e4956e26c0de3717072559285a5265311ffc33ceee69b
 CATEGORIES:music
-DESCRIPTION:Sala Villanos agenda event. Concierto / Pop / Rock\n\nhttps://
- salavillanos.es/evento/the-waves-pictures/
+DESCRIPTION:Concierto / Pop / Rock\n\nhttps://salavillanos.es/evento/the-w
+ aves-pictures/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -4887,9 +4972,8 @@ SUMMARY:Verde Prato + María Marín + Bruma Organizado por PlanBmusic
 DTSTART;TZID=Europe/Madrid:20260317T200000
 UID:bc107f3d850b5df975ba5776a08e363de652a271a4d895e7e39141ec0d7978d0
 CATEGORIES:music
-DESCRIPTION:Sala Villanos agenda event. Concierto / Electronic / Jazz\n\nh
- ttps://salavillanos.es/evento/verde-prato-maria-marin-bruma-organizado-por
- -plan-b/
+DESCRIPTION:Concierto / Electronic / Jazz\n\nhttps://salavillanos.es/event
+ o/verde-prato-maria-marin-bruma-organizado-por-plan-b/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 END:VCALENDAR

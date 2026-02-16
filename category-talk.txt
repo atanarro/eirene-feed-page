@@ -1,5 +1,5 @@
 Eirene feed debug
-Total events: 16
+Total events: 17
 
 [1] Presentación "Pleibak"
   id: a0d76eb5f586499d36b6a1d0865b5732c53b7f647538b82447ad0da94270577a
@@ -43,7 +43,7 @@ Total events: 16
   location: Sala Villanos - Calle de Bernardino Obregon, 18, Madrid
   coordinates: 40.4039493, -3.7002239
   url: https://salavillanos.es/evento/cristian-de-moret-full-band-artistas-invitados-juanfe-perez-y-mas-por-confirmar-presentacion-nuevo-disco-apache-bereber/
-  description: Sala Villanos agenda event. Concierto / Electronic / Pop / Rock
+  description: Concierto / Electronic / Pop / Rock
 
 [5] Presentación del libro 'En defensa de la memoria' con Elvira Sastre
   id: 86be80f56bda65366894ec585dbc5ff1a33521cf102c3c39b6143a5728f50db9
@@ -170,7 +170,18 @@ EMISIÓN EN DIRECTO: Para participar, acceder al Canal de Youtube del CIEA Casa 
  
 
 
-[16] MICROMAMBO presentación del disco La República del Baile con invitados especiales
+[16] Encuentro con Olga de Dios
+  id: 14d5248e7e5d8c10f221215c6b2f432f80ffda4ead25d021bc55124b9bd1bd49
+  start: 2026-03-07T12:00:00+01:00
+  end: N/A
+  category: talk
+  source: la_anonima_libreria
+  location: La Anonima Libreria - C/ Embajadores, 166 - Madrid
+  coordinates: 40.399513, -3.698598
+  url: https://laanonimalibreria.com/evento/151/encuentro-con-olga-de-dios/
+  description: 7 Marzo 2026 ENCUENTRO CON OLGA DE DIOS Olga de Dios visitará nuestra librería y narrará su último cuento: La estrella con los pies en el suelo . Si quieres disfrutar de una mañana diferente con tu peque, ¡os esperamos! El aforo es limitado, por lo que es imprescindible reservar plaza escribiéndonos un correo a hola@laanonimalibreria.com y recibir nuestra confirmación
+
+[17] MICROMAMBO presentación del disco La República del Baile con invitados especiales
   id: 070701b27f87c6bb506f02e8a44151eb42ecbf295e695da8ba4cfa7bc78b408c
   start: 2026-03-07T18:30:00+01:00
   end: N/A
@@ -179,4 +190,4 @@ EMISIÓN EN DIRECTO: Para participar, acceder al Canal de Youtube del CIEA Casa 
   location: Sala Villanos - Calle de Bernardino Obregon, 18, Madrid
   coordinates: 40.4039493, -3.7002239
   url: https://salavillanos.es/evento/micromambo-presentacion-del-disco-la-republica-del-baile-con-invitados-especiales/
-  description: Sala Villanos agenda event. Concierto / Latin / Rock / World Music & Folk
+  description: Concierto / Latin / Rock / World Music & Folk
