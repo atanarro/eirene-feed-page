@@ -1,5 +1,5 @@
 Eirene feed debug
-Total events: 8
+Total events: 9
 
 [1] Mercado de las Ranas
   id: 2f6ff2675eb57e29888eba09c356788093bbed7c74e4ec602e082983f18547f0
@@ -78,7 +78,18 @@ Total events: 8
   url: https://mercadoproductores.es/mp-alcobendas/
   description: Mercado de productores locales y artesanos en Alcobendas con alimentos de proximidad y propuestas gastronomicas.
 
-[8] Mercado Productores Planetario
+[8] Crea tu Kokedama japonés el  8 de marzo en Mercado de Motores
+  id: b0ec1b3211230166155b172e5314d8839dd860e50430f70d9d9775d4f1dab3df
+  start: 2026-03-08T11:30:00+01:00
+  end: 2026-03-08T14:00:00+01:00
+  category: market
+  source: mercado_de_motores
+  location: Mercado de motores - 61 Paseo de las Delicias, Madrid, MD, 28045
+  coordinates: 40.39883739999999, -3.6910858
+  url: https://www.eventbrite.es/e/entradas-crea-tu-kokedama-japones-el-8-de-marzo-en-mercado-de-motores-1983341566014
+  description: Descubre el arte japonés del Kokedama en un taller creativo, natural y sostenible con Green
+
+[9] Mercado Productores Planetario
   id: c09a315a3e44c268603bf556fb4ec98bebdc851fcf10d297fbc2ddbb665aee60
   start: 2026-03-15T10:00:00+01:00
   end: 2026-03-15T16:00:00+01:00
