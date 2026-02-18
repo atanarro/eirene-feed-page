@@ -2,15 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Vincent Peirani
-DTSTART;TZID=Europe/Madrid:20260217T203000
-UID:7df058be2d8c1a61245862cfa6b84a79e003d401bd7f38c5a7bd2635feaef4a7
-CATEGORIES:music
-DESCRIPTION:Concierto / Jazz\n\nhttps://salavillanos.es/evento/vincent-pei
- rani/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Dillom
 DTSTART;TZID=Europe/Madrid:20260218T210000
 UID:1eabf440f6902eaab7f0fac530245a291275c2e53ba6e5526197e8442a71d8b3
@@ -475,15 +466,6 @@ LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
  id
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ricardo Moya
-DTSTART;TZID=Europe/Madrid:20260313T213000
-UID:8e43dc649c3f79bc6c9183e6e2b21be6132b2f2d7020c81aa51fc505121edec6
-CATEGORIES:music
-DESCRIPTION:Concierto / Pop / Rock\n\nhttps://salavillanos.es/evento/ricar
- do-moya/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Hercules & Love Affair DJ SET + ISAAC ARGA / ESTRELLA OR
 DTSTART;TZID=Europe/Madrid:20260313T235900
 UID:b9a0f675f7ffd5c2ff82051889f38010855b3ca6c555a78fcb56d51064b1b479
@@ -565,6 +547,25 @@ UID:34eaa61f854604ad455d6c19d144e054d52adb531bbfaa86a2889861167cf4cf
 CATEGORIES:music
 DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://www.entradas.com/artist/
  asco/?Affiliate=RIV
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nils Hoffmann
+DTSTART;TZID=Europe/Madrid:20260319T210000
+UID:fbfd7a35c37bbb0f7b19146d38425e6d688eb6425cd40652f1bdf7cba94db9c4
+CATEGORIES:music
+DESCRIPTION:Concierto / Electronic\n\nhttps://salavillanos.es/evento/nils-
+ hoffmann/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hey Kid (Segunda Fecha)
+DTSTART;TZID=Europe/Madrid:20260319T210000
+UID:5a344194a9fb7b97e95ec186932e9d683030a3231ff98221e8f0f9ae6628275e
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://tickets.intromusica.com/
+ entradas/es/hey-kid-2a-fecha-madrid-la-riviera
 LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
  id
 END:VEVENT
