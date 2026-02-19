@@ -2,19 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Vivero: El viaje de la planta
-DTSTART;TZID=Europe/Madrid:20260218T100000
-DTEND;TZID=Europe/Madrid:20260218T130000
-UID:36a22bea5f85c34d7f9bffa14696dd7b08e915cbb689adf0b6a615c0419add1c
-CATEGORIES:walk
-DESCRIPTION:Visita dirigida a público adulto.\nRecorrido por el Vivero mu
- nicipal de Casa de Campo donde conoceremos las distintas instalaciones\, p
- rocesos y labores desde la producción de la planta hasta su salida a las 
- zonas verdes y arbolado de las calles de la ciudad.\n\n\nhttps://diario.ma
- drid.es/cieacasadecampo/evento/vivero-el-viaje-de-la-planta-23-2-2/
-LOCATION:CIEA Casa de Campo - Paseo Embarcadero\, 1\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Secretos del Lago
 DTSTART;TZID=Europe/Madrid:20260221T110000
 DTEND;TZID=Europe/Madrid:20260221T133000
@@ -194,6 +181,24 @@ DESCRIPTION:Actividad dirigida a público adulto.\nItinerario circular de
  guos\, grandes o especiales que se encuentran en el recinto del Vivero Mun
  icipal de Casa de Campo.\n¡Te sorprenderás!\n \n \n\n\nhttps://diario.
  madrid.es/cieacasadecampo/evento/arboles-notables-del-vivero-22/
+LOCATION:CIEA Casa de Campo - Paseo Embarcadero\, 1\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WEBINARIO: Bosque metropolitano
+DTSTART;TZID=Europe/Madrid:20260320T120000
+DTEND;TZID=Europe/Madrid:20260320T130000
+UID:5cc339179bb8661707a4ac77513114c56a040ba201f47dcf1a27afd900cb0dfe
+CATEGORIES:talk
+DESCRIPTION:WEBINARIO dirigido a público adulto.\nImpartido por personal 
+ del ayuntamiento de Madrid\, se dará a conocer el proyecto del Bosque Met
+ ropolitano\, que consiste en un gran anillo forestal de unos 75 kms que ro
+ deará toda la ciudad de Madrid que contribuirá a la lucha contra el camb
+ io climático fijando emisiones de CO2\, restauración ecológica y paisaj
+ ística de zonas degradadas actuando de conector ecológico e incrementand
+ o la oferta de itinerarios peatonales y ciclistas.\nPara participar\, acce
+ der al Canal de Youtube del CIEA Casa de Campo en el día y hora señala
+ dos.\n\n\nhttps://diario.madrid.es/cieacasadecampo/evento/webinario-bosque
+ -metropolitano/
 LOCATION:CIEA Casa de Campo - Paseo Embarcadero\, 1\, Madrid
 END:VEVENT
 END:VCALENDAR

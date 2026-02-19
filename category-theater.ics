@@ -2,64 +2,14 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Grito\, boda y sangre
-DTSTART;TZID=Europe/Madrid:20260123T180000
-DTEND;TZID=Europe/Madrid:20260301T180000
-UID:773b343e0b374ece2075ac16d3027feccf498ac27e13b9982c0ed306d3f004e9
-CATEGORIES:theater
-DESCRIPTION:Basada en Bodas de sangre de Federico García Lorca \, así co
- mo en fragmentos de otras de sus obras y poemas. Dramaturgia Iker Azkoitia
-  Dirección Ángela Ibáñez Castaño Dirección asociada Julián Fuentes 
- Reta\n\nhttps://dramatico.inaem.gob.es/evento/grito-boda-y-sangre/
-LOCATION:Teatro Maria Guerrero - Calle de Tamayo y Baus\, 4\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Constelaciones
-DTSTART;TZID=Europe/Madrid:20260206T200000
-DTEND;TZID=Europe/Madrid:20260329T200000
-UID:93c4e4d7ae6705d0c227557155cc519e701190d3161c898ffd770ed7229b6a00
-CATEGORIES:theater
-DESCRIPTION:Texto Nick Payne Versión y dirección Sergio Peris-Mencheta\n
- \nhttps://dramatico.inaem.gob.es/evento/constelaciones/
-LOCATION:Teatro Valle-Inclán - Plaza de Lavapies\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La última noche con mi hermano
-DTSTART;TZID=Europe/Madrid:20260213T200000
-DTEND;TZID=Europe/Madrid:20260405T200000
-UID:df484f18448dee2449eea922969c3fad7ae78cccea7db5d8b2709d15dea021fd
-CATEGORIES:theater
-DESCRIPTION:Texto y dirección Alfredo Sanzol\n\nhttps://dramatico.inaem.g
- ob.es/evento/la-ultima-noche-con-mi-hermano/
-LOCATION:Teatro Maria Guerrero - Calle de Tamayo y Baus\, 4\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tres noches en Ítaca
-DTSTART;TZID=Europe/Madrid:20260218T193000
+DTSTART;TZID=Europe/Madrid:20260219T193000
 DTEND;TZID=Europe/Madrid:20260308T193000
 UID:ed9da931253d87d489ae0d68f035f4a45a3125745f1e3409183a14fc7505146b
 CATEGORIES:theater
-DESCRIPTION:Últimas entradas desde 15.75€ | Tags: JOBO\n\nhttps://tiend
+DESCRIPTION:Entradas agotadas desde 15.75€ | Tags: JOBO\n\nhttps://tiend
  a.madrid-destino.com/es/nave-10/tres-noches-en-itaca/
 LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Preso en la esperanza / Trapped in hope
-DTSTART;TZID=Europe/Madrid:20260218T193000
-UID:1b913c2ae49ed10c487dd34d22ffa4453665d13199cee5fcadfad1d91a2e143b
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/preso-en-la-esperanz
- a-trapped-in-hope/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Encerrona de Pepe Viyuela
-DTSTART;TZID=Europe/Madrid:20260218T213000
-UID:22a7078e33711a801d282b605579bdc0986c186f9c6444d9311aa0043468e63c
-CATEGORIES:theater
-DESCRIPTION:Localidades agotadas\n\nhttps://teatrodelbarrio.com/pepe-viyue
- la-encerrona/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Preso en la esperanza / Trapped in hope
@@ -147,6 +97,15 @@ DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/preso-en-la-esperanz
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Mañana más
+DTSTART;TZID=Europe/Madrid:20260223T190000
+UID:958249410461b800007b6357760b99197954f2fc6539e7d0f052d301ad8517bc
+CATEGORIES:theater
+DESCRIPTION:¡Ya solo quedan 9 plazas!\n\nhttps://teatrodelbarrio.com/mana
+ na-mas/
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Asamblea de juveniles en Teatro del Barrio
 DTSTART;TZID=Europe/Madrid:20260224T183000
 UID:06a28127a330492cfed8f4a534b921ebbd93229bd8587890952aab1109a247bd
@@ -214,8 +173,8 @@ SUMMARY:Hoy tengo algo que hacer
 DTSTART;TZID=Europe/Madrid:20260228T193000
 UID:5eb4fdd427e8397159856aba40ab5fab1b86a913c9325026e907d8e9e9905db2
 CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/hoy-tengo-algo-que-h
- acer/
+DESCRIPTION:¡Ya solo quedan 24 plazas!\n\nhttps://teatrodelbarrio.com/hoy
+ -tengo-algo-que-hacer/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -227,14 +186,13 @@ DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/isa-y-javi/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Casi ninguna verdad
-DTSTART;TZID=Europe/Madrid:20260306T180000
-DTEND;TZID=Europe/Madrid:20260412T180000
-UID:7bb9229c5406de701333b18c1b45d43cb2daeda7ff87b2d98af381c1eb282154
+SUMMARY:Niebla
+DTSTART;TZID=Europe/Madrid:20260320T193000
+DTEND;TZID=Europe/Madrid:20260412T193000
+UID:f5c1c7ebb968eb8a2029978f386f4763212118ce95d6b31e1e8cb896ee68f191
 CATEGORIES:theater
-DESCRIPTION:Texto y dirección Cris Blanco Dramaturgia Cris Blanco\, Ósca
- r Bueno Rodríguez y Anto Rodríguez\n\nhttps://dramatico.inaem.gob.es/eve
- nto/casi-ninguna-verdad/
-LOCATION:Teatro Valle-Inclán - Plaza de Lavapies\, Madrid
+DESCRIPTION:Entradas disponibles desde 15.75€\n\nhttps://tienda.madrid-d
+ estino.com/es/nave-10/niebla/
+LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
 END:VEVENT
 END:VCALENDAR

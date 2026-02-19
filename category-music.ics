@@ -2,22 +2,14 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Dillom
-DTSTART;TZID=Europe/Madrid:20260218T210000
-UID:1eabf440f6902eaab7f0fac530245a291275c2e53ba6e5526197e8442a71d8b3
+SUMMARY:CRISTIAN de Moret full band + Juanfe Pérez\, La Pucci y Bego Sala
+ zar Presentación nuevo disco APACHE BEREBER
+DTSTART;TZID=Europe/Madrid:20260219T203000
+UID:f325f90a7e38043de68bcfc2cdacf7656c2e297b174fea3e4c6541aab5804ff2
 CATEGORIES:music
-DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://dice.fm/event/3onn8g-dil
- lom-en-madrid-18th-feb-la-riviera-madrid-tickets
-LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
- id
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Juicy
-DTSTART;TZID=Europe/Madrid:20260218T220000
-UID:cd5b9f59c85fc946557f2985b98755b2c961a43000fd7aaedfc87ec90f31c5a0
-CATEGORIES:music
-DESCRIPTION:Concierto / Hip Hop & Rap / Rock / Soul & R&B / Urban\n\nhttps
- ://salavillanos.es/evento/juicy-2/
+DESCRIPTION:Concierto / Electronic / Pop / Rock\n\nhttps://salavillanos.es
+ /evento/cristian-de-moret-full-band-artistas-invitados-juanfe-perez-y-mas-
+ por-confirmar-presentacion-nuevo-disco-apache-bereber/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -131,8 +123,8 @@ SUMMARY:Leire Martínez
 DTSTART;TZID=Europe/Madrid:20260222T200000
 UID:16cb4256bd93734a8ac814ac989b5221d8ec383fb1b62665192e2ab718717223
 CATEGORIES:music
-DESCRIPTION:Apertura Puertas: 19:00 pm\n\nhttps://www.entradas.com/artist/
- leire-martinez/?affiliate=RIV
+DESCRIPTION:Apertura Puertas: 18:30 Horas\n\nhttps://www.entradas.com/arti
+ st/leire-martinez/?affiliate=RIV
 LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
  id
 END:VEVENT
@@ -377,6 +369,17 @@ DESCRIPTION:Precio de las entradas: €/€ Entradas a la venta en woutick
 LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:MICROMAMBO presentación del disco La República del Baile con inv
+ itados especiales
+DTSTART;TZID=Europe/Madrid:20260307T183000
+UID:070701b27f87c6bb506f02e8a44151eb42ecbf295e695da8ba4cfa7bc78b408c
+CATEGORIES:music
+DESCRIPTION:Concierto / Latin / Rock / World Music & Folk\n\nhttps://salav
+ illanos.es/evento/micromambo-presentacion-del-disco-la-republica-del-baile
+ -con-invitados-especiales/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Orishas
 DTSTART;TZID=Europe/Madrid:20260307T203000
 UID:47d7fb8fa6ae41519a7f1024a1223409dedccc4212461d28514945f3b3ebcf7e
@@ -568,5 +571,36 @@ DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://tickets.intromusica.com/
  entradas/es/hey-kid-2a-fecha-madrid-la-riviera
 LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
  id
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Faenna
+DTSTART;TZID=Europe/Madrid:20260320T210000
+UID:827a0b26fce44597ae04a42fe53af093ecb63899272825dbcb6b7408daf43a42
+CATEGORIES:music
+DESCRIPTION:Concierto / Flamenco / Hip Hop & Rap / Urban\n\nhttps://salavi
+ llanos.es/evento/faenna/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Karavana
+DTSTART;TZID=Europe/Madrid:20260320T210000
+UID:22de78d74194b92924deffe338d219fc8064c7c6e50b72efdc8b0cf142d46b43
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://www.universe.com/events/
+ karavana-la-riviera-2026-fin-de-gira-tickets-CYMV13
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Parabellum+ Debruces
+DTSTART;TZID=Europe/Madrid:20260320T213000
+UID:4421326f428a111d2d2cfd395c51ea0a107108ccde73685210e22aa7098842c9
+CATEGORIES:music
+DESCRIPTION:Precio de las entradas: primeras 30 entradas a 12€. 17€/20
+ € Entradas a la venta en ticketandroll Bio/enlaces bandas: Parabellum_fa
+ cebook + Parabellum_X + Parabellum_instagram Debruces_facebook + Debruces_
+ instagram Más información: Parabellum vuelven a Madrid a presentar\n\nht
+ tps://gruta77.com/events/parabellum-debruces/var/ri-0.l-L2
+LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
 END:VEVENT
 END:VCALENDAR
