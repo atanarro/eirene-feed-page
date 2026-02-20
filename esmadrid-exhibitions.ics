@@ -148,17 +148,6 @@ LOCATION:Madrid - C/ General Ibáñez de Ibero\, 3\, Madrid\, Madrid\, 280
  03
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:El sueño de una noche de verano. Julia Margaret Cameron
-DTSTART;TZID=Europe/Madrid:20250611T000000
-DTEND;TZID=Europe/Madrid:20260611T000000
-UID:75baa5d8c58c6ee77fc565a69ffab572c2174c4f1802a9c767ef1e062b09eb13
-CATEGORIES:exhibition
-DESCRIPTION:Exposición que recupera la intensidad poética y teatral de l
- as imágenes de la fotógrafa británica (Teatro Real. Hasta 11 junio 2026
- ).\n\nhttps://phe.es/exposicion/el-sueno-de-una-noche-de-verano/
-LOCATION:Teatro Real - de Isabel II\, s/n\, Madrid\, 28013
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:I Creative Campus Awards. Finalistas
 DTSTART;TZID=Europe/Madrid:20250614T000000
 DTEND;TZID=Europe/Madrid:20260731T000000
@@ -547,6 +536,18 @@ DESCRIPTION:Muestra que establece un diálogo entre tres colecciones que o
  -visionado-a-tres-voces
 LOCATION:Centro de Arte Dos de Mayo (CA2M) / Móstoles - de la Constituci
  ón \, 23\, (Móstoles)\, Móstoles\, 28931
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Legendaria II: Mitos contados e ilustrados
+DTSTART;TZID=Europe/Madrid:20251114T000000
+DTEND;TZID=Europe/Madrid:20260301T000000
+UID:c57e13670cb9d85c5eb340744f41c00ba48f481ce4de829a52ed945fb2822f78
+CATEGORIES:exhibition
+DESCRIPTION:Relatos e ilustraciones que revisitan la mitología española 
+ en un recorrido visual único (Casa del Lector. Hasta 1 marzo 2026).\n\nht
+ tps://casalector.fundaciongsr.org/exposicion-legendaria-ii-mitos-contados-
+ e-ilustrados/
+LOCATION:Casa del Lector (Matadero) - de la Chopera\, 14\, Madrid\, 28045
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pablo Reinoso. La vida se mueve
@@ -1072,18 +1073,6 @@ DESCRIPTION:El espacio dialogará con esta gran instalación de pinturas\,
 LOCATION:CentroCentro - de Cibeles\, 1\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Shinuk Suh: The Engineering of Comfort
-DTSTART;TZID=Europe/Madrid:20251218T000000
-DTEND;TZID=Europe/Madrid:20260221T000000
-UID:7ad78aade9fb8bde6034e826b1e4f311d0154f63869acf872655e4f43e14e4e7
-CATEGORIES:exhibition
-DESCRIPTION:El artista surcoreano presenta varias esculturas e instalacion
- es a través de las que cuestiona el confort como posible sistema de regul
- ación del cuerpo (SOLO CSV. Hasta 21 febrero).\n\nhttps://solocontemporar
- y.com/shinuk-suhs-the-engineering-of-comfort-at-movimiento-37/
-LOCATION:SOLO CSV - de San Vicente\, 36\, Madrid\, 28008
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Intolerancia. España en una Europa convulsa\, 1914-1945
 DTSTART;TZID=Europe/Madrid:20251219T000000
 DTEND;TZID=Europe/Madrid:20260412T000000
@@ -1220,20 +1209,6 @@ DESCRIPTION:Una muestra de aparatos científicos antiguos en el marco sing
 LOCATION:Instituto San Isidro - de Toledo\, 39\, Madrid\, 28005
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Suave patria. La grandeza del arte popular mexicano
-DTSTART;TZID=Europe/Madrid:20260119T000000
-DTEND;TZID=Europe/Madrid:20260222T000000
-UID:216ecb8a020eeee0f83b73b679d13dc88b5074f2a94911b4decdcff91deee191
-CATEGORIES:exhibition
-DESCRIPTION:La riqueza cultural mexicana\, sus tradiciones y el arte popul
- ar son los protagonistas de esta exposición formada por 80 piezas de dist
- intas zonas del país (Fundación Casa de México en España.\n\nhttps://w
- ww.casademexico.es/exposicion/suave-patria-la-grandeza-del-arte-popular-me
- xicano/
-LOCATION:Fundación Casa de México en España - de Alberto Aguilera\, 20\
- , Madrid\, 28015
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:El centro puede estar en todas partes. Quisqueya Henríquez
 DTSTART;TZID=Europe/Madrid:20260120T000000
 DTEND;TZID=Europe/Madrid:20260426T000000
@@ -1341,6 +1316,18 @@ DESCRIPTION:Instalación escultórica del artista visual brasileño en la
 LOCATION:La Casa Encendida - de Valencia\, 2\, Madrid\, 28012
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Generación 2026
+DTSTART;TZID=Europe/Madrid:20260130T000000
+DTEND;TZID=Europe/Madrid:20260419T000000
+UID:af981f8dbdc2619d0876884d874e762236d880231a1b3b7e84c7e8eff39ffcdf
+CATEGORIES:exhibition
+DESCRIPTION:Una muestra que reúne los proyectos ganadores de la última e
+ dición de Generaciones de la Fundación Montemadrid (La Casa Encendida. H
+ asta 19 abril).\n\nhttps://www.lacasaencendida.es/exposiciones/generacion-
+ 2026
+LOCATION:La Casa Encendida - de Valencia\, 2\, Madrid\, 28012
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:El Prado Multiplicado. La fotografía como memoria compartida
 DTSTART;TZID=Europe/Madrid:20260202T000000
 DTEND;TZID=Europe/Madrid:20260405T000000
@@ -1416,18 +1403,6 @@ DESCRIPTION:Una muestra que reúne las mejores fotografías de carácter h
  umanitario del año 2025 (Fundación Ortega - Marañón. 5 a 28 febrero).\
  n\nhttps://premioluisvaltuena.org/
 LOCATION:Fundación Ortega - Marañón - de Fortuny\, 53\, Madrid\, 28010
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sillón frailero
-DTSTART;TZID=Europe/Madrid:20260205T000000
-DTEND;TZID=Europe/Madrid:20260224T000000
-UID:8636e5afeefdb06cbf4cd2aea6e3ed925f19812a7a837aafbc960a83c75e1209
-CATEGORIES:exhibition
-DESCRIPTION:Exposición que rinde homenaje a este emblemático diseño de 
- José Luis Pérez Ortega en su 40º aniversario (Escuela de Arte La Palma.
-  Hasta 24 febrero).\n\nhttps://ealapalma.es/exposiciones/exposicion-perez-
- ortega-sillon-frailero/
-LOCATION:Escuela de Arte La Palma - de la Palma\, 46\, Madrid\, 28004
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:André Ricard. Diseño en uso
@@ -1528,6 +1503,19 @@ DESCRIPTION:Retrospectiva de la trayectoria del artista\, figura clave de
  ofía. Hasta 8 jun).\n\nhttps://www.museoreinasofia.es/exposicion/alberto-
  greco
 LOCATION:Museo Reina Sofía - de Santa Isabel\, 52\, Madrid\, 28012
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New Comer de Ziyi Le
+DTSTART;TZID=Europe/Madrid:20260211T000000
+DTEND;TZID=Europe/Madrid:20260515T000000
+UID:8bf6c29ceeb0f18dc56c493e11f0ee5ecb4b092e8030eb5a27e5df0a1d0d5184
+CATEGORIES:exhibition
+DESCRIPTION:Exposición fotográfica del artista chino Ziyi Le\, ganador d
+ el Premio Leica Oskar Barnack 2023\, que incluye una serie de retratos (Le
+ ica Madrid Gallery. Hasta 15 mayo).\n\nhttps://leica-camera.com/es-ES/even
+ tos/exposicion-new-comer-de-ziyi-le?srsltid=AfmBOorOupGvXr9kqRTHzi8k30_2fP
+ K_YjdBUNr07TL5aG_Jn9psBIz1
+LOCATION:Madrid - Ortega y Gasset 34\, Madrid\, Madrid\, 28006
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bellezas del mundo flotante
@@ -1689,18 +1677,6 @@ DESCRIPTION:La muestra presenta un excepcional conjunto de tablas policrom
  s/man/exposicion/novedades-arqueologicas/20260217-imagenes-corte-medieval-
  toledo.html
 LOCATION:Museo Arqueológico Nacional - de Serrano\, 13\, Madrid\, 28001
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El rostro significa lo infinito
-DTSTART;TZID=Europe/Madrid:20260218T000000
-DTEND;TZID=Europe/Madrid:20260410T000000
-UID:51f69c5b9ad76e4e3b8ef7e86f6b3ec7d62647306e10835cd485e958532da687
-CATEGORIES:exhibition
-DESCRIPTION:La obra de la artista Sarah Kuźmicz invita a reflexionar sobr
- e los rostros retratados y lo que transmiten (Centro Sefarad-Israel. 18 fe
- b a 10 abr).\n\nhttps://www.sefarad-israel.es/exposiciones/el-rostro-signi
- fica-lo-infinito/
-LOCATION:Centro Sefarad-Israel - Mayor\, 69\, Madrid\, 28013
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Anders Zorn. Recorrer el mundo\, recordar la tierra

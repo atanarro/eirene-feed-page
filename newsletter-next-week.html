@@ -1,177 +1,617 @@
+<!-- FILE: undefined -->
 <!doctype html>
-<html lang="en">
+<html lang="und" dir="auto" xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>eirene weekly newsletter</title>
-  <style>
-    :root {
-      --bg: #f5efe3;
-      --paper: #fffaf1;
-      --line: #e3dac6;
-      --ink: #1f1f1b;
-      --muted: #6a665d;
-      --accent: #356859;
-      --chip: #efe8d8;
-      --top-picks-bg: #f3e8d3;
-      --top-picks-line: #b89f7d;
-      --top-picks-title: #1f1f1f;
+  <!--[if !mso]><!-->
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <!--<![endif]-->
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style type="text/css">
+    #outlook a {
+      padding: 0;
     }
-    * { box-sizing: border-box; }
-    body { margin: 0; color: var(--ink); background: var(--bg); font-family: Georgia, serif; }
-    .wrap { max-width: 960px; margin: 0 auto; padding: 1.2rem 1rem 2rem; }
-    h1 { margin: 0; font-size: 1.7rem; }
-    .subtitle { margin: 0.35rem 0 0; color: var(--muted); font-size: 0.95rem; }
-    .section {
-      margin-top: 1rem;
-      background: var(--paper);
-      border: 1px solid var(--line);
-      border-radius: 12px;
-      padding: 0.9rem;
-    }
-    .section h2 { margin: 0; font-size: 1.15rem; }
-    .section-top-picks {
-      background: var(--top-picks-bg);
-      border-color: var(--top-picks-line);
-      border-width: 2px;
-    }
-    .section-top-picks h2 {
-      color: var(--top-picks-title);
-      letter-spacing: 0.02em;
-    }
-    .section-note { margin: 0.3rem 0 0; font-size: 0.9rem; color: var(--muted); }
-    .section-divider {
-      margin-top: 0.7rem;
-      padding-top: 0.55rem;
-      border-top: 1px solid var(--line);
-    }
-    .other-movies-summary {
+
+    body {
       margin: 0;
-      color: #2a2a2a;
-      font-size: 0.91rem;
-      line-height: 1.5;
+      padding: 0;
+      -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
     }
-    .other-movies-link {
-      color: #1f1f1f;
-      text-decoration: underline;
-      text-decoration-thickness: 1px;
-      text-underline-offset: 0.14rem;
+
+    table,
+    td {
+      border-collapse: collapse;
+      mso-table-lspace: 0pt;
+      mso-table-rspace: 0pt;
     }
-    .other-movies-link:hover,
-    .other-movies-link:focus-visible {
-      color: #2a2a2a;
-      text-decoration-thickness: 2px;
-    }
-    .event { border-top: 1px solid var(--line); padding-top: 0.65rem; margin-top: 0.65rem; }
-    .event:first-of-type { border-top: 0; margin-top: 0.45rem; padding-top: 0; }
-    .event-title { margin: 0; font-size: 1.03rem; }
-    .event-meta { margin-top: 0.2rem; color: var(--muted); font-size: 0.9rem; }
-    .event-desc { margin: 0.45rem 0 0; font-size: 0.95rem; line-height: 1.4; }
-    .exhibition-group-title { margin: 0; font-size: 1.03rem; }
-    .exhibition-list { margin: 0.6rem 0 0; padding: 0; list-style: none; }
-    .exhibition-item {
-      border-top: 1px dashed var(--line);
-      padding-top: 0.55rem;
-      margin-top: 0.55rem;
-    }
-    .exhibition-item:first-child { border-top: 0; padding-top: 0; margin-top: 0; }
-    .exhibition-item-title { margin: 0; font-size: 0.99rem; }
-    .exhibition-item .cta { margin-top: 0.3rem; }
-    .cta {
-      display: inline-block;
-      margin-top: 0.4rem;
-      color: var(--accent);
-      text-underline-offset: 0.15rem;
-    }
-    .badge {
-      display: inline-block;
-      margin-top: 0.35rem;
-      margin-right: 0.3rem;
-      border: 1px solid var(--line);
-      border-radius: 999px;
-      padding: 0.14rem 0.45rem;
-      font-size: 0.78rem;
-      background: var(--chip);
-      color: var(--muted);
-    }
-    .suggest-events {
-      margin-top: 1.1rem;
-      background: #f8f2e6;
-      border-color: #d3c8b5;
-    }
-    .suggest-events-text {
-      margin: 0.45rem 0 0;
-      color: var(--muted);
-      font-size: 0.95rem;
-      line-height: 1.45;
-    }
-    .suggest-events-note {
-      margin: 0.45rem 0 0;
-      color: var(--muted);
-      font-size: 0.88rem;
-      line-height: 1.45;
-    }
-    .suggest-events-cta {
-      margin-top: 0.65rem;
-      padding: 0.34rem 0.72rem;
-      border: 1px solid var(--line);
-      border-radius: 999px;
-      background: transparent;
-      color: #2a2a2a;
+
+    img {
+      border: 0;
+      height: auto;
+      line-height: 100%;
+      outline: none;
       text-decoration: none;
+      -ms-interpolation-mode: bicubic;
     }
-    .suggest-events-cta:hover,
-    .suggest-events-cta:focus-visible {
-      background: #f1e7d5;
-      color: #1f1f1f;
+
+    p {
+      display: block;
+      margin: 13px 0;
     }
+
+  </style>
+  <!--[if mso]>
+    <noscript>
+    <xml>
+    <o:OfficeDocumentSettings>
+      <o:AllowPNG/>
+      <o:PixelsPerInch>96</o:PixelsPerInch>
+    </o:OfficeDocumentSettings>
+    </xml>
+    </noscript>
+    <![endif]-->
+  <!--[if lte mso 11]>
+    <style type="text/css">
+      .mj-outlook-group-fix { width:100% !important; }
+    </style>
+    <![endif]-->
+  <style type="text/css">
+    @media only screen and (min-width:480px) {
+      .mj-column-per-100 {
+        width: 100% !important;
+        max-width: 100%;
+      }
+    }
+
+  </style>
+  <style media="screen and (min-width:480px)">
+    .moz-text-html .mj-column-per-100 {
+      width: 100% !important;
+      max-width: 100%;
+    }
+
   </style>
 </head>
-<body>
-  <div class="wrap">
-    <header>
-      <h1>Weekly events</h1>
-      <p class="subtitle">Week: Mon 23 Feb - Sun 01 Mar 2026 · Generated 2026-02-19 06:08 CET</p>
-      <p class="subtitle"><a href="index.html">Back to feed index</a></p>
-      <p class="subtitle">This week in Madrid, Batman and IRON LUNG lead the highlights. From Exhibitions to Cinema, here is what not to miss in Mon 23 Feb - Sun 01 Mar 2026.</p>
-    </header>
-    <section class="section section-top-picks">
-      <h2>Top picks</h2>
-      <article class="event"><h3 class="event-title">Batman</h3><div class="event-meta">Cineteca Madrid · Sun 01 Mar 12:00</div><span class="badge">Cinema</span><span class="badge">new</span><span class="badge">TMDb 7.2 (8396)</span><p class="event-desc">Batman y Robin se enfrentan a un grupo de criminales entre los que se encuentran sus eternos rivales Joker y El Pingüino, quienes se han apoderado de un sofisticado artilugio para dominar el mundo....</p><a class="cta" href="https://www.cinetecamadrid.com/programacion/batman-0" target="_blank" rel="noreferrer">View details</a></article>
-<article class="event"><h3 class="event-title">IRON LUNG</h3><div class="event-meta">Yelmo Cines Ideal · Fri 27 Feb 21:30</div><span class="badge">Cinema</span><span class="badge">VOSE</span><span class="badge">new</span><span class="badge">TMDb 7.4 (90)</span><p class="event-desc">Película basada en el juego del mismo nombre, ambientada en un futuro postapocalíptico en el que un suceso conocido como &#x27;El rapto silencioso&#x27; provocó la desaparición de todas las estrellas y planetas habitables conocidos del universo....</p><a class="cta" href="https://yelmocines.es/sinopsis/iron-lung" target="_blank" rel="noreferrer">View details</a></article>
-<article class="event"><h3 class="event-title">&#x27;Invisible&#x27;, de la novela a los escenarios</h3><div class="event-meta">Matadero Madrid · Sat 28 Feb 18:30</div><span class="badge">Other</span><span class="badge">new</span><p class="event-desc">En el marco de la novela Invisible , de Eloy Moreno, Casa del Lector y LaJoven realizan una nueva colaboración para llevar el análisis de la trama y la historia al siguiente nivel: se trata dos sesiones en las que se mezcla literatura y artes escénicas en torno a la historia de la novela....</p><a class="cta" href="https://www.mataderomadrid.org/programacion/invisible-de-la-novela-los-escenarios" target="_blank" rel="noreferrer">View details</a></article>
-<article class="event"><h3 class="event-title">Exposición Ómnibus. El futuro se dibuja aquí</h3><div class="event-meta">Matadero Madrid · Sun 01 Mar 16:00</div><span class="badge">Exhibition</span><span class="badge">new</span><p class="event-desc">Durante los últimos quince años, el programa de Ayudas a la Creación Joven Injuve ha acompañado a una generación de artistas que han transformado el cómic y la ilustración en territorios de experimentación, pensamiento y emoción visual....</p><a class="cta" href="https://www.mataderomadrid.org/programacion/exposicion-omnibus-el-futuro-se-dibuja-aqui" target="_blank" rel="noreferrer">View details</a></article>
-<article class="event"><h3 class="event-title">Exposición &#x27;Legendaria II: Mitos contados e ilustrados&#x27;</h3><div class="event-meta">Matadero Madrid · Wed 25 Feb 16:00</div><span class="badge">Exhibition</span><span class="badge">new</span><p class="event-desc">Como su predecesora, Legendaria II combina los dos elementos fundamentales de la mitología y el folclore de nuestra geografía. De un lado, la palabra, el relato contado de generación en generación que da origen a leyendas y seres fantásticos....</p><a class="cta" href="https://www.mataderomadrid.org/programacion/exposicion-legendaria-ii-mitos-contados-e-ilustrados" target="_blank" rel="noreferrer">View details</a></article>
-<article class="event"><h3 class="event-title">Vermú y encuentro con los editores de Dos Bigotes</h3><div class="event-meta">La Anonima Libreria · Sat 28 Feb 12:30</div><span class="badge">Talk</span><span class="badge">new</span><p class="event-desc">28 Febrero 2026 Queridas anónimas: El 28 de febrero celebramos nuestro VERMÚ LITERARIO con la Editorial del mes: Dos Bigotes ....</p><a class="cta" href="https://laanonimalibreria.com/evento/150/vermu-y-encuentro-con-los-editores-de-dos-bigotes/" target="_blank" rel="noreferrer">View details</a></article>
-<article class="event"><h3 class="event-title">¡Chiquita Movida se presenta por todo lo alto en Madrid!</h3><div class="event-meta">Sala Villanos · Fri 27 Feb 21:30</div><span class="badge">Music</span><span class="badge">new</span><p class="event-desc">Concierto / Pop / Rock</p><a class="cta" href="https://salavillanos.es/evento/chiquita-movida-se-presenta-por-todo-lo-alto-en-madrid/" target="_blank" rel="noreferrer">View details</a></article>
-<article class="event"><h3 class="event-title">Horse Meat Disco + Rayko</h3><div class="event-meta">Sala Villanos · Fri 27 Feb 23:59</div><span class="badge">Other</span><span class="badge">new</span><p class="event-desc">Club</p><a class="cta" href="https://salavillanos.es/evento/horse-meat-disco/" target="_blank" rel="noreferrer">View details</a></article>
-    </section>
-    
-    <section class="section"><h2>Exhibitions</h2><p class="section-note">5 of 114 events</p><article class="event"><h3 class="exhibition-group-title">Matadero Madrid</h3><ul class="exhibition-list"><li class="exhibition-item"><p class="exhibition-item-title">&#x27;Como lo ve una abeja&#x27; con Elisa Pardo Puch</p><div class="event-meta">Wed 25 Feb 17:00</div><span class="badge">new</span><p class="event-desc">“Representar el mundo tal como lo ve una abeja; y mañana, tal como lo ve la luna” Hannah Höch. La residente Elisa Pardo Puch abre su proceso de creación en una sesión en la que se creará una pieza de arte textil de manera colaborativa....</p><a class="cta" href="https://www.mataderomadrid.org/programacion/como-lo-ve-una-abeja-con-elisa-pardo-puch" target="_blank" rel="noreferrer">View details</a></li></ul></article>
-<article class="event"><h3 class="exhibition-group-title">Museo Nacional Thyssen-Bornemisza</h3><ul class="exhibition-list"><li class="exhibition-item"><p class="exhibition-item-title">Irma Álvarez-Laviada. À l’intérieur et à l’extérieur du cadre</p><div class="event-meta">Mon 23 Feb 00:00</div><span class="badge">new</span><p class="event-desc">Una selección de más de treinta piezas realizadas en la última década por la artista, junto a pinturas de la colección del museo (Museo Nacional Thyssen-Bornemisza. 23 feb a 3 may).</p><a class="cta" href="https://www.museothyssen.org/exposiciones/irma-alvarez-laviada-dentro-fuera-marco" target="_blank" rel="noreferrer">View details</a></li></ul></article>
-<article class="event"><h3 class="exhibition-group-title">CentroCentro</h3><ul class="exhibition-list"><li class="exhibition-item"><p class="exhibition-item-title">Madrid Colecciona. 50 colecciones de arte contemporáneo</p><div class="event-meta">Thu 26 Feb 00:00</div><span class="badge">new</span><p class="event-desc">Una selección de 100 obras contemporáneas pone en valor el papel indispensable de los coleccionistas para preservar la creación artística (CentroCentro. 26 feb a 6 sept).</p><a class="cta" href="https://www.centrocentro.org/exposicion/madrid-colecciona" target="_blank" rel="noreferrer">View details</a></li></ul></article>
-<article class="event"><h3 class="exhibition-group-title">Círculo de Bellas Artes</h3><ul class="exhibition-list"><li class="exhibition-item"><p class="exhibition-item-title">Eclosión. El Círculo de Bellas Artes en los 80 y 90</p><div class="event-meta">Wed 25 Feb 00:00</div><span class="badge">new</span><p class="event-desc">Exposición que revisa su periodo de renovación y la voluntad de convertirse en un centro cultural multidisciplinar, innovador y conectado con las necesidades de su tiempo (Círculo de Bell</p><a class="cta" href="https://www.circulobellasartes.com/exposiciones/eclosion-el-circulo-de-bellas-artes-en-los-80-y-90/" target="_blank" rel="noreferrer">View details</a></li></ul></article>
-<article class="event"><h3 class="exhibition-group-title">Museo Reina Sofía</h3><ul class="exhibition-list"><li class="exhibition-item"><p class="exhibition-item-title">Alberto Greco. Viva el arte vivo</p><div class="event-meta">Mon 23 Feb 00:00</div><p class="event-desc">Retrospectiva de la trayectoria del artista, figura clave de la vanguardia experimental y fundador del llamado arte vivo (Museo Reina Sofía. Hasta 8 jun).</p><a class="cta" href="https://www.museoreinasofia.es/exposicion/alberto-greco" target="_blank" rel="noreferrer">View details</a></li></ul></article><div class="section-divider"><p class="other-movies-summary">Other exhibitions available: <a class="other-movies-link" href="https://www.museoreinasofia.es/prensa/nota-de-prensa/juan-usle" target="_blank" rel="noreferrer">Juan Uslé. Ese barco en la montaña</a>, <a class="other-movies-link" href="https://www.museoreinasofia.es/exposicion/maruja-mallo" target="_blank" rel="noreferrer">Maruja Mallo. Máscara y compás</a>, <a class="other-movies-link" href="https://www.museoreinasofia.es/exposicion/oliver-laxe" target="_blank" rel="noreferrer">Oliver Laxe. HU/هُوَ. Bailad como si nadie os viera</a>, <a class="other-movies-link" href="https://www.mataderomadrid.org/programacion/animals" target="_blank" rel="noreferrer">The Animals</a>, <a class="other-movies-link" href="https://www.cultura.gob.es/mnantropologia/en/actividades/agenda/2026/expotemporales2026/quema.html" target="_blank" rel="noreferrer">La quema</a>, <a class="other-movies-link" href="https://www.museodelprado.es/actualidad/exposicion/antonio-raphael-mengs-el-mas-grande-pintor-del/4be2964e-3169-c21d-52ec-9c6caf24cbfb" target="_blank" rel="noreferrer">Antonio Raphael Mengs. El más grande pintor del siglo XVIII</a>, <a class="other-movies-link" href="https://www.museodelprado.es/actualidad/exposicion/el-martirio-de-san-andres/812ff002-8b36-b329-bbcd-ac809fdb1f27" target="_blank" rel="noreferrer">El martirio de San Andrés</a>, <a class="other-movies-link" href="https://www.museodelprado.es/actualidad/exposicion/el-prado-multiplicado-la-fotografia-como-memoria/2658bee2-97e8-d418-1e9d-94ae293bc637" target="_blank" rel="noreferrer">El Prado Multiplicado. La fotografía como memoria compartida</a>, <a class="other-movies-link" href="https://www.museodelprado.es/actualidad/exposicion/juan-muoz-historias-de-arte/499fbef9-c3c6-b73d-740f-7eeede62ca7e" target="_blank" rel="noreferrer">Juan Muñoz. Historias de Arte</a>, <a class="other-movies-link" href="https://www.museodelprado.es/actualidad/exposicion/el-prado-en-femenino-iii-promotoras-artisticas-de/3f7ed688-956b-487f-957b-6a377fbeffd1" target="_blank" rel="noreferrer">“El Prado en femenino III”. Promotoras artísticas de las colecciones del Museo (1701-1819)</a>; and 99 more.</p></div></section>
-<section class="section"><h2>Cinema</h2><p class="section-note">5 of 55 events</p><article class="event"><h3 class="event-title">El agente secreto</h3><div class="event-meta">Cine Embajadores / Cine Embajadores Río / Yelmo Cines Ideal · Multiple sessions (Mon 23 Feb-Thu 26 Feb)</div><span class="badge">DOBLADA</span><span class="badge">VOSE</span><span class="badge">TMDb 7.5 (362)</span><p class="event-desc">En 1977, durante la dictadura militar brasileña, Marcelo, un profesor que huye de un pasado turbulento, regresa huyendo a la ciudad de Recife, donde espera construir una nueva vida y reencontrarse con su hijo....</p><a class="cta" href="https://cinesembajadores.es/pelicula/el-agente-secreto-vose/?ciudad=madrid" target="_blank" rel="noreferrer">View details</a></article>
-<article class="event"><h3 class="event-title">Hamnet</h3><div class="event-meta">Cine Embajadores Río / Yelmo Cines Ideal · Multiple sessions (Mon 23 Feb-Thu 26 Feb)</div><span class="badge">DOBLADA</span><span class="badge">VOSE</span><span class="badge">TMDb 7.7 (607)</span><p class="event-desc">Narra la historia de Agnes, la esposa de William Shakespeare, en su lucha por superar la pérdida de su único hijo, Hamnet. Una historia humana y desgarradora como telón de fondo para la creación de la obra de Shakespeare, Hamlet.</p><a class="cta" href="https://yelmocines.es/sinopsis/hamnet" target="_blank" rel="noreferrer">View details</a></article>
-<article class="event"><h3 class="event-title">La cena</h3><div class="event-meta">Yelmo Cines Ideal · Tue 24 Feb 20:15</div><span class="badge">DOBLADA</span><span class="badge">new</span><span class="badge">TMDb 6.6 (36)</span><p class="event-desc">Dos semanas después de acabar la Guerra Civil, Franco solicita una cena de celebración en el Hotel Palace. Un joven teniente, un maître meticuloso y un grupo de prisioneros republicanos expertos en cocina, deben preparar un banquete impecable en tiempo récord....</p><a class="cta" href="https://yelmocines.es/sinopsis/la-cena" target="_blank" rel="noreferrer">View details</a></article>
-<article class="event"><h3 class="event-title">No Hay Otra Opción</h3><div class="event-meta">Cine Embajadores / Cine Embajadores Río / Renoir Plaza de Espana · Multiple sessions (Mon 23 Feb-Thu 26 Feb)</div><span class="badge">DOBLADA</span><span class="badge">VOSE</span><span class="badge">TMDb 7.6 (681)</span><p class="event-desc">La historia sigue a un hombre de mediana edad llamado Man-su que se embarca decidido en una búsqueda de trabajo tras ser despedido inesperadamente de la compañía de papel en la que trabajó durante 25 años. &quot;Si no hay una vacante para mí, tendré que crear una para que me contraten....</p><a class="cta" href="https://www.pillalas.com/pase/1055583/" target="_blank" rel="noreferrer">View details</a></article>
-<article class="event"><h3 class="event-title">Marty Supreme</h3><div class="event-meta">Cine Embajadores / Cine Embajadores Río / Yelmo Cines Ideal · Multiple sessions (Mon 23 Feb-Thu 26 Feb)</div><span class="badge">DOBLADA</span><span class="badge">VOSE</span><span class="badge">TMDb 7.6 (791)</span><p class="event-desc">La historia se centra en la apasionante carrera de Marty Reisman, interpretado por el dos veces nominado al Oscar© Timothée Chalamet (Call me by your name, A Complete Unknown), un pasante de apuestas que descubre su pasión por el tenis de mesa....</p><a class="cta" href="https://yelmocines.es/sinopsis/marty-supreme" target="_blank" rel="noreferrer">View details</a></article><div class="section-divider"><p class="other-movies-summary">Other movies available: <a class="other-movies-link" href="https://yelmocines.es/sinopsis/primate" target="_blank" rel="noreferrer">Primate</a>, <a class="other-movies-link" href="https://entradasfilmoteca.sacatuentrada.es/es/productos/descripcion/bacurau" target="_blank" rel="noreferrer">Bacurau (2019)</a>, <a class="other-movies-link" href="https://yelmocines.es/sinopsis/avatar-fuego-y-ceniza" target="_blank" rel="noreferrer">Avatar: Fuego y ceniza</a>, <a class="other-movies-link" href="https://yelmocines.es/sinopsis/la-asistenta" target="_blank" rel="noreferrer">La asistenta</a>, <a class="other-movies-link" href="https://yelmocines.es/sinopsis/send-help-enviad-ayuda" target="_blank" rel="noreferrer">Send Help (Enviad ayuda)</a>, <a class="other-movies-link" href="https://yelmocines.es/sinopsis/scream-7" target="_blank" rel="noreferrer">Scream 7</a>, <a class="other-movies-link" href="https://yelmocines.es/sinopsis/cumbres-borrascosas" target="_blank" rel="noreferrer">Cumbres borrascosas</a>, <a class="other-movies-link" href="https://yelmocines.es/sinopsis/greenland-2" target="_blank" rel="noreferrer">Greenland 2</a>, <a class="other-movies-link" href="https://www.cinetecamadrid.com/programacion/door" target="_blank" rel="noreferrer">Door</a>, <a class="other-movies-link" href="https://www.cinetecamadrid.com/programacion/door-ii-tokyo-diary" target="_blank" rel="noreferrer">Door II: Tokyo Diary</a>; and 40 more.</p></div></section>
-<section class="section"><h2>Theater</h2><p class="section-note">5 of 11 events</p><article class="event"><h3 class="event-title">Federico. No hay olvido, ni sueño: Carne viva</h3><div class="event-meta">Teatro del Barrio · Fri 27 Feb 19:30</div><span class="badge">new</span><p class="event-desc">Disponible</p><a class="cta" href="https://teatrodelbarrio.com/federico-no-hay-olvido-ni-sueno-carne-viva/" target="_blank" rel="noreferrer">View details</a></article>
-<article class="event"><h3 class="event-title">Noche de fiesta - VERDE QUE TE QUIERO VERDE - Proyecto 43-2</h3><div class="event-meta">Teatro del Barrio · Fri 27 Feb 22:00</div><span class="badge">new</span><p class="event-desc">Programación en Teatro del Barrio</p><a class="cta" href="https://teatrodelbarrio.com/noche-de-fiesta-proyecto-432/" target="_blank" rel="noreferrer">View details</a></article>
-<article class="event"><h3 class="event-title">Nadie sabe lo que sufre un caracol</h3><div class="event-meta">Teatro del Barrio · Sat 28 Feb 13:00</div><span class="badge">new</span><p class="event-desc">Disponible</p><a class="cta" href="https://teatrodelbarrio.com/nadie-sabe-lo-que-sufre-un-caracol/" target="_blank" rel="noreferrer">View details</a></article>
-<article class="event"><h3 class="event-title">Hoy tengo algo que hacer</h3><div class="event-meta">Teatro del Barrio · Sat 28 Feb 19:30</div><span class="badge">new</span><p class="event-desc">¡Ya solo quedan 24 plazas!</p><a class="cta" href="https://teatrodelbarrio.com/hoy-tengo-algo-que-hacer/" target="_blank" rel="noreferrer">View details</a></article>
-<article class="event"><h3 class="event-title">Isa &amp; Javi</h3><div class="event-meta">Teatro del Barrio · Sat 28 Feb 22:15</div><span class="badge">new</span><p class="event-desc">Disponible</p><a class="cta" href="https://teatrodelbarrio.com/isa-y-javi/" target="_blank" rel="noreferrer">View details</a></article><div class="section-divider"><p class="other-movies-summary">Other events available: <a class="other-movies-link" href="https://teatrodelbarrio.com/manana-mas/" target="_blank" rel="noreferrer">Mañana más</a>, <a class="other-movies-link" href="https://teatrodelbarrio.com/asamblea-de-juveniles-en-teatro-del-barrio/" target="_blank" rel="noreferrer">Asamblea de juveniles en Teatro del Barrio</a>, <a class="other-movies-link" href="https://teatrodelbarrio.com/hijas-de-la-nakba-7-ninas-judias/" target="_blank" rel="noreferrer">Hijas de la Nakba. 7 niñas judías</a>, <a class="other-movies-link" href="https://teatrodelbarrio.com/los-arboles-no-votan/" target="_blank" rel="noreferrer">Los árboles no votan</a>, <a class="other-movies-link" href="https://teatrodelbarrio.com/un-verano-por-metro-cuadrado/" target="_blank" rel="noreferrer">Un verano por metro cuadrado</a>, <a class="other-movies-link" href="https://tienda.madrid-destino.com/es/nave-10/tres-noches-en-itaca/" target="_blank" rel="noreferrer">Tres noches en Ítaca</a>.</p></div></section>
-<section class="section"><h2>Music</h2><p class="section-note">5 of 11 events</p><article class="event"><h3 class="event-title">Austra</h3><div class="event-meta">Sala Villanos · Sat 28 Feb 21:00</div><span class="badge">new</span><p class="event-desc">Concierto / Pop</p><a class="cta" href="https://salavillanos.es/evento/austra/" target="_blank" rel="noreferrer">View details</a></article>
-<article class="event"><h3 class="event-title">Steve Bug Dj Set + ACID HERO / NACHO MARCO</h3><div class="event-meta">Sala Villanos · Sat 28 Feb 23:59</div><span class="badge">new</span><p class="event-desc">Club</p><a class="cta" href="https://salavillanos.es/evento/steve-bug-dj-set/" target="_blank" rel="noreferrer">View details</a></article>
-<article class="event"><h3 class="event-title">Herman Düne</h3><div class="event-meta">Sala Villanos · Sun 01 Mar 19:30</div><span class="badge">new</span><p class="event-desc">Concierto / Pop / World Music &amp; Folk</p><a class="cta" href="https://salavillanos.es/evento/herman-dune/" target="_blank" rel="noreferrer">View details</a></article>
-<article class="event"><h3 class="event-title">Postcode</h3><div class="event-meta">Sala Villanos · Tue 24 Feb 20:30</div><span class="badge">new</span><p class="event-desc">Concierto</p><a class="cta" href="https://salavillanos.es/evento/postcode/" target="_blank" rel="noreferrer">View details</a></article>
-<article class="event"><h3 class="event-title">SEMILLAS DE ESPERANZA: concierto solidario por Palestina</h3><div class="event-meta">Sala Villanos · Wed 25 Feb 20:00</div><span class="badge">new</span><p class="event-desc">Concierto / Pop / Rock</p><a class="cta" href="https://salavillanos.es/evento/semillas-de-esperanza-concierto-solidario-por-palestina/" target="_blank" rel="noreferrer">View details</a></article><div class="section-divider"><p class="other-movies-summary">Other events available: <a class="other-movies-link" href="https://salavillanos.es/evento/adrian-sherwood/" target="_blank" rel="noreferrer">Adrian Sherwood</a>, <a class="other-movies-link" href="https://www.livenation.es/event/kikuoland-above-all-bounds-world-tour-2026-madrid-tickets-edp1628891" target="_blank" rel="noreferrer">Kikuoland</a>, <a class="other-movies-link" href="https://gruta77.com/events/yeska-kike-babas-y-la-desbanda/var/ri-0.l-L2" target="_blank" rel="noreferrer">Yeska + Kike Babas Y La Desbandá</a>, <a class="other-movies-link" href="https://gruta77.com/events/rojo-omega/var/ri-0.l-L2" target="_blank" rel="noreferrer">Rojo Omega + Motociclón</a>, <a class="other-movies-link" href="https://www.madnesslive.es/es/conciertos-en-madrid/1779-comprar-entrada-avatar-alien-weaponry-madrid.html" target="_blank" rel="noreferrer">Avatar + Alien Weaponry</a>, <a class="other-movies-link" href="https://www.entradas.com/event/la-m-o-d-a-sala-la-riviera-20297403/?affiliate=LVB#tab=" target="_blank" rel="noreferrer">La M.O.D.A.</a>.</p></div></section>
-<section class="section"><h2>Talks</h2><p class="section-note">3 events</p><article class="event"><h3 class="event-title">Presentación &quot;Termita&quot;</h3><div class="event-meta">La Anonima Libreria · Thu 26 Feb 19:00</div><span class="badge">new</span><p class="event-desc">26 Febrero 2026 Queridas anónimas: El próximo 26 de febrero presentamos la inteligentísima novela de Garazi Albizua , Termita ( Galaxia Gutemberg , 2024); la historia de una mujer precarizada que vive con su abuela y que rechaza todas las imposiciones laborales y afectivas del capitalismo....</p><a class="cta" href="https://laanonimalibreria.com/evento/149/presentacion-termita/" target="_blank" rel="noreferrer">View details</a></article>
-<article class="event"><h3 class="event-title">Presentación: &quot;Conocimientos y experiencias de supervivencia&quot;, de Francisco Monedero</h3><div class="event-meta">Libreria Desnivel · Fri 27 Feb 19:00</div><span class="badge">new</span><p class="event-desc">Francisco Monedero visita la Librería Desnivel para presentarnos su nuevo libro, Conocimientos y experiencias de supervivencia , editado junto a la Diputación de Segovia. La presentación tendrá lugar el próximo viernes 27 de febrero a las 19 h de la tarde. Entrada libre hasta completar aforo....</p><a class="cta" href="https://www.libreriadesnivel.com/agenda/conocimientos-y-experiencias-de-supervivencia-de-francisco-monedero/418/" target="_blank" rel="noreferrer">View details</a></article>
-<article class="event"><h3 class="event-title">Presentación: &quot;Paisajeros. Veinte viajes en tren y sus protagonistas&quot;, de Pablo Zulaica Parra</h3><div class="event-meta">Libreria Desnivel · Thu 26 Feb 19:00</div><span class="badge">new</span><p class="event-desc">La librería Desnivel se complace de acoger la presentación del libro Paisajeros. Veinte viajes en tren y sus protagonistas , de Pablo Zulaica Parra . Será el próximo 26 de febrero a las 19 h . Entrada libre hasta completar aforo. ¡No te la pierdas!</p><a class="cta" href="https://www.libreriadesnivel.com/agenda/paisajeros-veinte-viajes-en-tren-y-sus-protagonistas-de-pablo-zulaica-parra/415/" target="_blank" rel="noreferrer">View details</a></article></section>
-<section class="section"><h2>Markets</h2><p class="section-note">1 event</p><article class="event"><h3 class="event-title">Mercado Productores Planetario</h3><div class="event-meta">Mercado Productores Planetario · Sun 01 Mar 10:00</div><span class="badge">new</span><p class="event-desc">Mercado de productores locales y artesanos en Planetario con alimentacion sostenible, productos de cercania y actividades al aire libre.</p><a class="cta" href="https://mercadoproductores.es/mp-planetario/" target="_blank" rel="noreferrer">View details</a></article></section>
-    
+
+<body style="word-spacing:normal;background-color:#f5efe3;">
+  <div style="display:none;font-size:1px;color:#ffffff;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;">This week in Madrid, Batman and IRON LUNG lead the highlights. From Exhibitions to Cinema, here is what not to miss in Mon 23 Feb - Sun 01 Mar 2026.</div>
+  <div style="background-color:#f5efe3;" lang="und" dir="auto">
+    <!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:960px;" width="960" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+    <div style="margin:0px auto;max-width:960px;">
+      <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+        <tbody>
+          <tr>
+            <td style="direction:ltr;font-size:0px;padding:16px 24px 8px;text-align:center;">
+              <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:top;width:912px;" ><![endif]-->
+              <div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+                  <tbody>
+                    <tr>
+                      <td style="vertical-align:top;padding:0;">
+                        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style width="100%">
+                          <tbody>
+                            <tr>
+                              <td align="left" style="font-size:0px;padding:0 0 6px;word-break:break-word;">
+                                <div style="font-family:Georgia, serif;font-size:28px;font-weight:700;line-height:1.5;text-align:left;color:#1f1f1b;">Weekly events</div>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td align="left" style="font-size:0px;padding:0 0 4px;word-break:break-word;">
+                                <div style="font-family:Georgia, serif;font-size:14px;line-height:1.5;text-align:left;color:#6a665d;">Week: Mon 23 Feb - Sun 01 Mar 2026 · Generated 2026-02-20 06:03 CET</div>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td align="left" style="font-size:0px;padding:0 0 4px;word-break:break-word;">
+                                <div style="font-family:Georgia, serif;font-size:14px;line-height:1.5;text-align:left;color:#6a665d;"><a href="index.html" style="color:#356859;">Back to feed index</a></div>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td align="left" style="font-size:0px;padding:0;word-break:break-word;">
+                                <div style="font-family:Georgia, serif;font-size:14px;line-height:1.5;text-align:left;color:#6a665d;">This week in Madrid, Batman and IRON LUNG lead the highlights. From Exhibitions to Cinema, here is what not to miss in Mon 23 Feb - Sun 01 Mar 2026.</div>
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+              <!--[if mso | IE]></td></tr></table><![endif]-->
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <!--[if mso | IE]></td></tr></table><table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:960px;" width="960" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+    <div style="margin:0px auto;max-width:960px;">
+      <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+        <tbody>
+          <tr>
+            <td style="direction:ltr;font-size:0px;padding:8px 24px;text-align:center;">
+              <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="section-card-outlook" style="vertical-align:top;width:912px;" ><![endif]-->
+              <div class="mj-column-per-100 mj-outlook-group-fix section-card" style="font-size: 0px; text-align: left; direction: ltr; display: inline-block; vertical-align: top; width: 100%; border-radius: 12px;">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-radius: 12px; border-collapse: separate; border-spacing: 0;">
+                  <tbody>
+                    <tr>
+                      <td style="background-color: #f3e8d3; border: 2px solid #b89f7d; vertical-align: top; padding: 16px; border-radius: 12px;" bgcolor="#f3e8d3" valign="top">
+                        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-radius: 12px; border-collapse: separate; border-spacing: 0;" width="100%">
+                          <tbody>
+                            <tr>
+                              <td align="left" style="font-size: 0px; padding: 0 0 9px; word-break: break-word; border-radius: 12px;">
+                                <div style="font-family:'Source Sans 3', Inter, 'Segoe UI', Arial, sans-serif;font-size:21px;font-weight:600;letter-spacing:0.03em;line-height:1.5;text-align:left;color:#1f1f1f;">Top picks</div>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td align="left" style="font-size: 0px; padding: 8px 0 0; word-break: break-word; border-radius: 12px;">
+                                <div style="font-family:Georgia, serif;font-size:15px;line-height:1.5;text-align:left;color:#1f1f1b;">
+                                  <div style="margin-top:6px;">
+                                    <p style="margin:0; font-size:17px; font-weight:700;">Batman</p>
+                                    <p style="margin:4px 0 0; color:#6a665d; font-size:13px;">Cineteca Madrid · Sun 01 Mar 12:00</p><span style="display:inline-block; margin-top:6px; margin-right:5px; border:1px solid #e3dac6; border-radius:999px; padding:2px 8px; font-size:12px; color:#6a665d; background:#efe8d8;">Cinema</span><span style="display:inline-block; margin-top:6px; margin-right:5px; border:1px solid #e3dac6; border-radius:999px; padding:2px 8px; font-size:12px; color:#6a665d; background:#efe8d8;">new</span><span style="display:inline-block; margin-top:6px; margin-right:5px; border:1px solid #e3dac6; border-radius:999px; padding:2px 8px; font-size:12px; color:#6a665d; background:#efe8d8;">TMDb 7.2 (8405)</span>
+                                    <p style="margin:8px 0 0; font-size:14px; color:#1f1f1b;">Batman y Robin se enfrentan a un grupo de criminales entre los que se encuentran sus eternos rivales Joker y El Pingüino, quienes se han apoderado de un sofisticado artilugio para dominar el mundo....</p>
+                                    <p style="margin:8px 0 0;"><a href="https://www.cinetecamadrid.com/programacion/batman-0" target="_blank" rel="noreferrer" style="color:#356859; text-decoration:underline;">View details</a> &middot; <a href="https://calendar.google.com/calendar/render?action=TEMPLATE&amp;text=Batman&amp;dates=20260301T110000Z%2F20260301T130000Z&amp;details=Batman+y+Robin+se+enfrentan+a+un+grupo+de+criminales+entre+los+que+se+encuentran+sus+eternos+rivales+Joker+y+El+Ping%C3%BCino%2C+quienes+se+han+apoderado+de+un+sofisticado+artilugio+para+dominar+el+mundo.+Adaptaci%C3%B3n+a+la+gran+pantalla+del+popular+c%C3%B3mic+de+Bob+Kane%2C+que+ese+mismo+a%C3%B1o+y+con+los+mismos+protagonistas+conoc%C3%ADa+una+exitosa+versi%C3%B3n+en+formato+de+serie+de+televisi%C3%B3n+que+durar%C3%ADa+dos+a%C3%B1os+en+la+peque%C3%B1a+pantalla.%0A%0Ahttps%3A%2F%2Fwww.cinetecamadrid.com%2Fprogramacion%2Fbatman-0&amp;location=Cineteca+Madrid&amp;ctz=Europe%2FMadrid" target="_blank" rel="noreferrer" style="color:#356859; text-decoration:underline;">Add to Google Calendar</a></p>
+                                  </div>
+                                  <div style="border-top:1px solid #e3dac6; margin-top:12px; padding-top:12px;">
+                                    <p style="margin:0; font-size:17px; font-weight:700;">IRON LUNG</p>
+                                    <p style="margin:4px 0 0; color:#6a665d; font-size:13px;">Yelmo Cines Ideal · Fri 27 Feb 21:30</p><span style="display:inline-block; margin-top:6px; margin-right:5px; border:1px solid #e3dac6; border-radius:999px; padding:2px 8px; font-size:12px; color:#6a665d; background:#efe8d8;">Cinema</span><span style="display:inline-block; margin-top:6px; margin-right:5px; border:1px solid #e3dac6; border-radius:999px; padding:2px 8px; font-size:12px; color:#6a665d; background:#efe8d8;">VOSE</span><span style="display:inline-block; margin-top:6px; margin-right:5px; border:1px solid #e3dac6; border-radius:999px; padding:2px 8px; font-size:12px; color:#6a665d; background:#efe8d8;">new</span><span style="display:inline-block; margin-top:6px; margin-right:5px; border:1px solid #e3dac6; border-radius:999px; padding:2px 8px; font-size:12px; color:#6a665d; background:#efe8d8;">TMDb 7.4 (90)</span>
+                                    <p style="margin:8px 0 0; font-size:14px; color:#1f1f1b;">Película basada en el juego del mismo nombre, ambientada en un futuro postapocalíptico en el que un suceso conocido como &#x27;El rapto silencioso&#x27; provocó la desaparición de todas las estrellas y planetas habitables conocidos del universo....</p>
+                                    <p style="margin:8px 0 0;"><a href="https://yelmocines.es/sinopsis/iron-lung" target="_blank" rel="noreferrer" style="color:#356859; text-decoration:underline;">View details</a> &middot; <a href="https://calendar.google.com/calendar/render?action=TEMPLATE&amp;text=IRON+LUNG&amp;dates=20260227T203000Z%2F20260227T220500Z&amp;details=Pel%C3%ADcula+basada+en+el+juego+del+mismo+nombre%2C+ambientada+en+un+futuro+postapocal%C3%ADptico+en+el+que+un+suceso+conocido+como+%27El+rapto+silencioso%27+provoc%C3%B3+la+desaparici%C3%B3n+de+todas+las+estrellas+y+planetas+habitables+conocidos+del+universo.+Un+convicto+es+enviado+a+buscar+en+un+oc%C3%A9ano+de+sangre+descubierto+en+una+luna+desolada%2C+utilizando+un+peque%C3%B1o+submarino+apodado+%27Pulm%C3%B3n+de+Hierro%27%2C+la+%C3%BAnica+esperanza+que+queda.+En+las+salas+oxidadas+de+estaciones+espaciales+en+ruinas%2C+los+%C3%BAltimos+restos+de+la+humanidad+fabrican+un+submarino+para+explorar+las+profundidades+sangrantes...+y+sueldan+un+alma+en+su+interior+para+pilotarlo.+Pero+la+esperanza+en+este+vac%C3%ADo+es+tan+ilusoria+como+la+luz+de+las+estrellas.%0A%0Ahttps%3A%2F%2Fyelmocines.es%2Fsinopsis%2Firon-lung&amp;location=Yelmo+Cines+Ideal&amp;ctz=Europe%2FMadrid" target="_blank" rel="noreferrer" style="color:#356859; text-decoration:underline;">Add to Google Calendar</a></p>
+                                  </div>
+                                  <div style="border-top:1px solid #e3dac6; margin-top:12px; padding-top:12px;">
+                                    <p style="margin:0; font-size:17px; font-weight:700;">&#x27;Invisible&#x27;, de la novela a los escenarios</p>
+                                    <p style="margin:4px 0 0; color:#6a665d; font-size:13px;">Matadero Madrid · Sat 28 Feb 18:30</p><span style="display:inline-block; margin-top:6px; margin-right:5px; border:1px solid #e3dac6; border-radius:999px; padding:2px 8px; font-size:12px; color:#6a665d; background:#efe8d8;">Other</span><span style="display:inline-block; margin-top:6px; margin-right:5px; border:1px solid #e3dac6; border-radius:999px; padding:2px 8px; font-size:12px; color:#6a665d; background:#efe8d8;">new</span>
+                                    <p style="margin:8px 0 0; font-size:14px; color:#1f1f1b;">En el marco de la novela Invisible , de Eloy Moreno, Casa del Lector y LaJoven realizan una nueva colaboración para llevar el análisis de la trama y la historia al siguiente nivel: se trata dos sesiones en las que se mezcla literatura y artes escénicas en torno a la historia de la novela....</p>
+                                    <p style="margin:8px 0 0;"><a href="https://www.mataderomadrid.org/programacion/invisible-de-la-novela-los-escenarios" target="_blank" rel="noreferrer" style="color:#356859; text-decoration:underline;">View details</a> &middot; <a href="https://calendar.google.com/calendar/render?action=TEMPLATE&amp;text=%27Invisible%27%2C+de+la+novela+a+los+escenarios&amp;dates=20260228T173000Z%2F20260228T193000Z&amp;details=En+el+marco+de+la+novela+Invisible+%2C+de+Eloy+Moreno%2C+Casa+del+Lector+y+LaJoven+realizan+una+nueva+colaboraci%C3%B3n+para+llevar+el+an%C3%A1lisis+de+la+trama+y+la+historia+al+siguiente+nivel%3A+se+trata+dos+sesiones+en+las+que+se+mezcla+literatura+y+artes+esc%C3%A9nicas+en+torno+a+la+historia+de+la+novela.+Por+un+lado%2C+se+realizar%C3%A1+una+primera+sesi%C3%B3n+en+Casa+del+Lector+%28Matadero+Madrid%29+en+la+que+se+analizar%C3%A1+el+paso+de+la+novela+a+la+obra.+Mediado+por+Roberto+Osa%2C+contar%C3%A1+con+la+presencia+de+Jos%C3%A9+Luis+Arellano%2C+director+art%C3%ADstico+de+LaJoven%2C+compa%C3%B1%C3%ADa+teatral+que+junto+a+Josep+Maria+Mir%C3%B3+han+adaptado+la+historia+de+Eloy+Moreno+a+los+escenarios+teatrales%2C+y+parte+del+elenco+de+la+obra.+Se+trata+de+una+sesi%C3%B3n+en+la+que+se+profundizar%C3%A1+en+la+lectura+entre+l%C3%ADneas+del+texto%2C+sus+mensajes%2C+los+dilemas+de+los+personajes%2C+y+los+aspectos+que+conllevan+su+representaci%C3%B3n+en+personajes+de+carne+y+hueso.+Por+otro+lado%2C+la+segunda+sesi%C3%B3n+ser%C3%A1+la+visita+voluntaria+a+una+funci%C3%B3n+de+la+obra+de+LaJoven%2C+que+se+realizar%C3%A1+en+el+Teatro+de+la+Abad%C3%ADa+del+13+de+marzo+al+5+de+abril.+Existir%C3%A1+un+descuento+de+cupo+limitado+de+un+25%25+para+quienes+asistan+a+la+primera+sesi%C3%B3n.+En+esta+representaci%C3%B3n+se+podr%C3%A1n+ver+reflejadas+parte+de+las+conclusiones+y+an%C3%A1lisis+de+la+actividad+en+Casa+del+Lector%2C+al+mismo+tiempo+que+se+disfrutar%C3%A1+de+la+puesta+en+escena+de+esta+emotiva+historia%2C+de+la+mano+de+una+producci%C3%B3n+sobresaliente.+Organiza%3A+Casa+del+Lector+y+LaJoven.+P%C3%BAblico%3A+J%C3%B3venes+y+adultos+desde+12+a%C3%B1os.%0A%0Ahttps%3A%2F%2Fwww.mataderomadrid.org%2Fprogramacion%2Finvisible-de-la-novela-los-escenarios&amp;location=Matadero+Madrid&amp;ctz=Europe%2FMadrid" target="_blank" rel="noreferrer" style="color:#356859; text-decoration:underline;">Add to Google Calendar</a></p>
+                                  </div>
+                                  <div style="border-top:1px solid #e3dac6; margin-top:12px; padding-top:12px;">
+                                    <p style="margin:0; font-size:17px; font-weight:700;">Exposición Ómnibus. El futuro se dibuja aquí</p>
+                                    <p style="margin:4px 0 0; color:#6a665d; font-size:13px;">Matadero Madrid · Sun 01 Mar 16:00</p><span style="display:inline-block; margin-top:6px; margin-right:5px; border:1px solid #e3dac6; border-radius:999px; padding:2px 8px; font-size:12px; color:#6a665d; background:#efe8d8;">Exhibition</span><span style="display:inline-block; margin-top:6px; margin-right:5px; border:1px solid #e3dac6; border-radius:999px; padding:2px 8px; font-size:12px; color:#6a665d; background:#efe8d8;">new</span>
+                                    <p style="margin:8px 0 0; font-size:14px; color:#1f1f1b;">Durante los últimos quince años, el programa de Ayudas a la Creación Joven Injuve ha acompañado a una generación de artistas que han transformado el cómic y la ilustración en territorios de experimentación, pensamiento y emoción visual....</p>
+                                    <p style="margin:8px 0 0;"><a href="https://www.mataderomadrid.org/programacion/exposicion-omnibus-el-futuro-se-dibuja-aqui" target="_blank" rel="noreferrer" style="color:#356859; text-decoration:underline;">View details</a> &middot; <a href="https://calendar.google.com/calendar/render?action=TEMPLATE&amp;text=Exposici%C3%B3n+%C3%93mnibus.+El+futuro+se+dibuja+aqu%C3%AD&amp;dates=20260301T150000Z%2F20260301T170000Z&amp;details=Durante+los+%C3%BAltimos+quince+a%C3%B1os%2C+el+programa+de+Ayudas+a+la+Creaci%C3%B3n+Joven+Injuve+ha+acompa%C3%B1ado+a+una+generaci%C3%B3n+de+artistas+que+han+transformado+el+c%C3%B3mic+y+la+ilustraci%C3%B3n+en+territorios+de+experimentaci%C3%B3n%2C+pensamiento+y+emoci%C3%B3n+visual.+A+trav%C3%A9s+de+un+recorrido+inverso%2C+desde+las+ayudas+m%C3%A1s+recientes+hasta+las+primeras%2C+se+muestra+c%C3%B3mo+este+programa+ha+fortalecido+la+narrativa+visual+contempor%C3%A1nea%2C+especialmente+en+el+c%C3%B3mic+y+la+ilustraci%C3%B3n%2C+donde+la+imagen+se+convierte+en+una+herramienta+cr%C3%ADtica+y+emocional.+La+muestra+tambi%C3%A9n+permite+al+p%C3%BAblico+explorar+los+perfiles+de+los+artistas+mediante+c%C3%B3digos+QR%2C+ampliando+la+experiencia+y+reconociendo+la+investigaci%C3%B3n+art%C3%ADstica+de+generaciones+que+siguen+inspirando+el+futuro+creativo.+Organiza%3A+Instituto+de+la+Juventud.+P%C3%BAblico%3A+J%C3%B3venes+y+adultos.%0A%0Ahttps%3A%2F%2Fwww.mataderomadrid.org%2Fprogramacion%2Fexposicion-omnibus-el-futuro-se-dibuja-aqui&amp;location=Matadero+Madrid&amp;ctz=Europe%2FMadrid" target="_blank" rel="noreferrer" style="color:#356859; text-decoration:underline;">Add to Google Calendar</a></p>
+                                  </div>
+                                  <div style="border-top:1px solid #e3dac6; margin-top:12px; padding-top:12px;">
+                                    <p style="margin:0; font-size:17px; font-weight:700;">Exposición &#x27;Legendaria II: Mitos contados e ilustrados&#x27;</p>
+                                    <p style="margin:4px 0 0; color:#6a665d; font-size:13px;">Matadero Madrid · Wed 25 Feb 16:00</p><span style="display:inline-block; margin-top:6px; margin-right:5px; border:1px solid #e3dac6; border-radius:999px; padding:2px 8px; font-size:12px; color:#6a665d; background:#efe8d8;">Exhibition</span><span style="display:inline-block; margin-top:6px; margin-right:5px; border:1px solid #e3dac6; border-radius:999px; padding:2px 8px; font-size:12px; color:#6a665d; background:#efe8d8;">new</span>
+                                    <p style="margin:8px 0 0; font-size:14px; color:#1f1f1b;">Como su predecesora, Legendaria II combina los dos elementos fundamentales de la mitología y el folclore de nuestra geografía. De un lado, la palabra, el relato contado de generación en generación que da origen a leyendas y seres fantásticos....</p>
+                                    <p style="margin:8px 0 0;"><a href="https://www.mataderomadrid.org/programacion/exposicion-legendaria-ii-mitos-contados-e-ilustrados" target="_blank" rel="noreferrer" style="color:#356859; text-decoration:underline;">View details</a> &middot; <a href="https://calendar.google.com/calendar/render?action=TEMPLATE&amp;text=Exposici%C3%B3n+%27Legendaria+II%3A+Mitos+contados+e+ilustrados%27&amp;dates=20260225T150000Z%2F20260225T170000Z&amp;details=Como+su+predecesora%2C+Legendaria+II+combina+los+dos+elementos+fundamentales+de+la+mitolog%C3%ADa+y+el+folclore+de+nuestra+geograf%C3%ADa.+De+un+lado%2C+la+palabra%2C+el+relato+contado+de+generaci%C3%B3n+en+generaci%C3%B3n+que+da+origen+a+leyendas+y+seres+fant%C3%A1sticos.+Por+el+otro%2C+la+imagen%2C+la+representaci%C3%B3n+art%C3%ADstica+de+estas+historias+que+forman+parte+de+nuestro+imaginario+colectivo.+Con+un+formato+expositivo+doble+por+vitrina%2C+que+incluye+un+relato+y+una+ilustraci%C3%B3n+inspirados+en+un+mismo+mito%2C+Legendaria+II+se+abre+como+un+libro+que+muestra+y+reivindica+la+magia+de+nuestra+mitolog%C3%ADa+a+sus+visitantes.+Una+mirada+%C3%BAnica+a+estas+historias+fascinantes%2C+a+trav%C3%A9s+de+la+interpretaci%C3%B3n+particular+de+decenas+de+artistas%2C+investigadores%2C+escritores%2C+guionistas+y+dramaturgos+consagrados.+Con+m%C3%A1s+obras+y+relatos+que+en+la+edici%C3%B3n+anterior%2C+la+exposici%C3%B3n+ocupar%C3%A1+tres+puentes+de+la+Casa+del+Lector+%28planta+superior%29+de+Matadero.+Se+inaugurar%C3%A1+el+14+de+noviembre+de+2025+a+las+19%3A30+horas+y+se+extender%C3%A1+a+marzo+de+2026.+Organiza%3A+XVII+Festival+Sui+Generis+Madrid%2FAsociaci%C3%B3n+Cultural+Besarilia.+Todos+los+p%C3%BAblicos.%0A%0Ahttps%3A%2F%2Fwww.mataderomadrid.org%2Fprogramacion%2Fexposicion-legendaria-ii-mitos-contados-e-ilustrados&amp;location=Matadero+Madrid&amp;ctz=Europe%2FMadrid" target="_blank" rel="noreferrer" style="color:#356859; text-decoration:underline;">Add to Google Calendar</a></p>
+                                  </div>
+                                  <div style="border-top:1px solid #e3dac6; margin-top:12px; padding-top:12px;">
+                                    <p style="margin:0; font-size:17px; font-weight:700;">Vermú y encuentro con los editores de Dos Bigotes</p>
+                                    <p style="margin:4px 0 0; color:#6a665d; font-size:13px;">La Anonima Libreria · Sat 28 Feb 12:30</p><span style="display:inline-block; margin-top:6px; margin-right:5px; border:1px solid #e3dac6; border-radius:999px; padding:2px 8px; font-size:12px; color:#6a665d; background:#efe8d8;">Talk</span><span style="display:inline-block; margin-top:6px; margin-right:5px; border:1px solid #e3dac6; border-radius:999px; padding:2px 8px; font-size:12px; color:#6a665d; background:#efe8d8;">new</span>
+                                    <p style="margin:8px 0 0; font-size:14px; color:#1f1f1b;">28 Febrero 2026 Queridas anónimas: El 28 de febrero celebramos nuestro VERMÚ LITERARIO con la Editorial del mes: Dos Bigotes ....</p>
+                                    <p style="margin:8px 0 0;"><a href="https://laanonimalibreria.com/evento/150/vermu-y-encuentro-con-los-editores-de-dos-bigotes/" target="_blank" rel="noreferrer" style="color:#356859; text-decoration:underline;">View details</a> &middot; <a href="https://calendar.google.com/calendar/render?action=TEMPLATE&amp;text=Verm%C3%BA+y+encuentro+con+los+editores+de+Dos+Bigotes&amp;dates=20260228T113000Z%2F20260228T133000Z&amp;details=28+Febrero+2026+Queridas+an%C3%B3nimas%3A+El+28+de+febrero+celebramos+nuestro+VERM%C3%9A+LITERARIO+con+la+Editorial+del+mes%3A+Dos+Bigotes+.+Especializado+en+tem%C3%A1tica+LGTBI+%2C+feminismo+y+g%C3%A9nero%2C+el+cat%C3%A1logo+de+la+Editorial+Dos+Bigotes+alberga+algunos+de+nuestros+t%C3%ADtulos+recomendados+de+novela%2C+cuento+y+ensayo+como+Amigas+%2C+C%C3%B3mo+acabar+con+la+escritura+de+las+mujeres+o+The+Rocky+Horror+Picture+Show+.+Gonzalo+Izquierdo+y+Alberto+Rodr%C3%ADguez+fundaron+la+editorial+en+2014+y+desde+entonces+han+editado+cada+libro+con+el+cuidado+y+la+calidad+que+les+caracteriza+%28y+que+a+nosotras+nos+encanta%29.+El+s%C3%A1bado+a+las+12%3A30+h+estaremos+charlando+con+ellos+sobre+su+experiencia+en+la+industria+editorial%2C+algunas+particularidades+del+proyecto+y+mucho+m%C3%A1s.+Adem%C3%A1s%2C+por+ser+la+Editorial+del+mes%2C+todos+los+libros+de+Dos+Bigotes+tienen+un+5%25+de+descuento+.+%C2%A1Ven+a+tomarte+un+verm%C3%BA+y+ll%C3%A9vate+tu+pr%C3%B3xima+lectura+a+casa%21+Te+esperamos%2C+La+An%C3%B3nima+Librer%C3%ADa+%2B+Editorial+Dos+Bigotes+%3C3+Cu%C3%A1ndo%3A+s%C3%A1bado+28+de+febrero+a+las+12%3A30+h.+D%C3%B3nde%3A+La+An%C3%B3nima+Librer%C3%ADa+%28C%2FEmbajadores%2C+166+-+Metro+Delicias+%2F+Legazpi%29+Entrada+libre+hasta+completar+aforo.%0A%0Ahttps%3A%2F%2Flaanonimalibreria.com%2Fevento%2F150%2Fvermu-y-encuentro-con-los-editores-de-dos-bigotes%2F&amp;location=La+Anonima+Libreria&amp;ctz=Europe%2FMadrid" target="_blank" rel="noreferrer" style="color:#356859; text-decoration:underline;">Add to Google Calendar</a></p>
+                                  </div>
+                                  <div style="border-top:1px solid #e3dac6; margin-top:12px; padding-top:12px;">
+                                    <p style="margin:0; font-size:17px; font-weight:700;">¡Chiquita Movida se presenta por todo lo alto en Madrid!</p>
+                                    <p style="margin:4px 0 0; color:#6a665d; font-size:13px;">Sala Villanos · Fri 27 Feb 21:30</p><span style="display:inline-block; margin-top:6px; margin-right:5px; border:1px solid #e3dac6; border-radius:999px; padding:2px 8px; font-size:12px; color:#6a665d; background:#efe8d8;">Music</span><span style="display:inline-block; margin-top:6px; margin-right:5px; border:1px solid #e3dac6; border-radius:999px; padding:2px 8px; font-size:12px; color:#6a665d; background:#efe8d8;">new</span>
+                                    <p style="margin:8px 0 0; font-size:14px; color:#1f1f1b;">Concierto / Pop / Rock</p>
+                                    <p style="margin:8px 0 0;"><a href="https://salavillanos.es/evento/chiquita-movida-se-presenta-por-todo-lo-alto-en-madrid/" target="_blank" rel="noreferrer" style="color:#356859; text-decoration:underline;">View details</a> &middot; <a href="https://calendar.google.com/calendar/render?action=TEMPLATE&amp;text=%C2%A1Chiquita+Movida+se+presenta+por+todo+lo+alto+en+Madrid%21&amp;dates=20260227T203000Z%2F20260227T223000Z&amp;details=Concierto+%2F+Pop+%2F+Rock%0A%0Ahttps%3A%2F%2Fsalavillanos.es%2Fevento%2Fchiquita-movida-se-presenta-por-todo-lo-alto-en-madrid%2F&amp;location=Sala+Villanos&amp;ctz=Europe%2FMadrid" target="_blank" rel="noreferrer" style="color:#356859; text-decoration:underline;">Add to Google Calendar</a></p>
+                                  </div>
+                                  <div style="border-top:1px solid #e3dac6; margin-top:12px; padding-top:12px;">
+                                    <p style="margin:0; font-size:17px; font-weight:700;">Horse Meat Disco + Rayko</p>
+                                    <p style="margin:4px 0 0; color:#6a665d; font-size:13px;">Sala Villanos · Fri 27 Feb 23:59</p><span style="display:inline-block; margin-top:6px; margin-right:5px; border:1px solid #e3dac6; border-radius:999px; padding:2px 8px; font-size:12px; color:#6a665d; background:#efe8d8;">Other</span><span style="display:inline-block; margin-top:6px; margin-right:5px; border:1px solid #e3dac6; border-radius:999px; padding:2px 8px; font-size:12px; color:#6a665d; background:#efe8d8;">new</span>
+                                    <p style="margin:8px 0 0; font-size:14px; color:#1f1f1b;">Club</p>
+                                    <p style="margin:8px 0 0;"><a href="https://salavillanos.es/evento/horse-meat-disco/" target="_blank" rel="noreferrer" style="color:#356859; text-decoration:underline;">View details</a> &middot; <a href="https://calendar.google.com/calendar/render?action=TEMPLATE&amp;text=Horse+Meat+Disco+%2B+Rayko&amp;dates=20260227T225900Z%2F20260228T005900Z&amp;details=Club%0A%0Ahttps%3A%2F%2Fsalavillanos.es%2Fevento%2Fhorse-meat-disco%2F&amp;location=Sala+Villanos&amp;ctz=Europe%2FMadrid" target="_blank" rel="noreferrer" style="color:#356859; text-decoration:underline;">Add to Google Calendar</a></p>
+                                  </div>
+                                </div>
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+              <!--[if mso | IE]></td></tr></table><![endif]-->
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <!--[if mso | IE]></td></tr></table><table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:960px;" width="960" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+    <div style="margin:0px auto;max-width:960px;">
+      <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+        <tbody>
+          <tr>
+            <td style="direction:ltr;font-size:0px;padding:8px 24px;text-align:center;">
+              <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="section-card-outlook" style="vertical-align:top;width:912px;" ><![endif]-->
+              <div class="mj-column-per-100 mj-outlook-group-fix section-card" style="font-size: 0px; text-align: left; direction: ltr; display: inline-block; vertical-align: top; width: 100%; border-radius: 12px;">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-radius: 12px; border-collapse: separate; border-spacing: 0;">
+                  <tbody>
+                    <tr>
+                      <td style="background-color: #fffaf1; border: 2px solid #e3dac6; vertical-align: top; padding: 16px; border-radius: 12px;" bgcolor="#fffaf1" valign="top">
+                        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-radius: 12px; border-collapse: separate; border-spacing: 0;" width="100%">
+                          <tbody>
+                            <tr>
+                              <td align="left" style="font-size: 0px; padding: 0 0 9px; word-break: break-word; border-radius: 12px;">
+                                <div style="font-family:'Source Sans 3', Inter, 'Segoe UI', Arial, sans-serif;font-size:21px;font-weight:600;letter-spacing:0.03em;line-height:1.5;text-align:left;color:#1f1f1b;">Cinema</div>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td align="left" style="font-size: 0px; padding: 8px 0 0; word-break: break-word; border-radius: 12px;">
+                                <div style="font-family:Georgia, serif;font-size:15px;line-height:1.5;text-align:left;color:#1f1f1b;">
+                                  <p style="margin:0; color:#6a665d; font-size:13px;">5 of 58 events</p>
+                                  <div style="margin-top:6px;">
+                                    <p style="margin:0; font-size:17px; font-weight:700;">El agente secreto</p>
+                                    <p style="margin:4px 0 0; color:#6a665d; font-size:13px;">Cine Embajadores / Cine Embajadores Río / Yelmo Cines Ideal · Multiple sessions (Mon 23 Feb-Thu 26 Feb)</p><span style="display:inline-block; margin-top:6px; margin-right:5px; border:1px solid #e3dac6; border-radius:999px; padding:2px 8px; font-size:12px; color:#6a665d; background:#efe8d8;">DOBLADA</span><span style="display:inline-block; margin-top:6px; margin-right:5px; border:1px solid #e3dac6; border-radius:999px; padding:2px 8px; font-size:12px; color:#6a665d; background:#efe8d8;">VOSE</span><span style="display:inline-block; margin-top:6px; margin-right:5px; border:1px solid #e3dac6; border-radius:999px; padding:2px 8px; font-size:12px; color:#6a665d; background:#efe8d8;">TMDb 7.5 (364)</span>
+                                    <p style="margin:8px 0 0; font-size:14px; color:#1f1f1b;">En 1977, durante la dictadura militar brasileña, Marcelo, un profesor que huye de un pasado turbulento, regresa huyendo a la ciudad de Recife, donde espera construir una nueva vida y reencontrarse con su hijo....</p>
+                                    <p style="margin:8px 0 0;"><a href="https://cinesembajadores.es/pelicula/el-agente-secreto-vose/?ciudad=madrid" target="_blank" rel="noreferrer" style="color:#356859; text-decoration:underline;">View details</a> &middot; <a href="https://calendar.google.com/calendar/render?action=TEMPLATE&amp;text=El+agente+secreto&amp;dates=20260222T230000Z%2F20260222T233800Z&amp;details=En+1977%2C+durante+la+dictadura+militar+brasile%C3%B1a%2C+Marcelo%2C+un+profesor+que+huye+de+un+pasado+turbulento%2C+regresa+huyendo+a+la+ciudad+de+Recife%2C+donde+espera+construir+una+nueva+vida+y+reencontrarse+con+su+hijo.+Pero+pronto+se+da+cuenta+de+que+la+ciudad+est%C3%A1+lejos+de+ser+el+refugio+que+busca%2C+que+las+fuerzas+gubernamentales+le+persiguen+y+las+amenazas+de+muerte+se+ciernen+sobre+%C3%A9l.%0A%0Ahttps%3A%2F%2Fcinesembajadores.es%2Fpelicula%2Fel-agente-secreto-vose%2F%3Fciudad%3Dmadrid&amp;location=Cine+Embajadores&amp;ctz=Europe%2FMadrid" target="_blank" rel="noreferrer" style="color:#356859; text-decoration:underline;">Add to Google Calendar</a></p>
+                                  </div>
+                                  <div style="border-top:1px solid #e3dac6; margin-top:12px; padding-top:12px;">
+                                    <p style="margin:0; font-size:17px; font-weight:700;">La cena</p>
+                                    <p style="margin:4px 0 0; color:#6a665d; font-size:13px;">Yelmo Cines Ideal · Tue 24 Feb 20:15</p><span style="display:inline-block; margin-top:6px; margin-right:5px; border:1px solid #e3dac6; border-radius:999px; padding:2px 8px; font-size:12px; color:#6a665d; background:#efe8d8;">DOBLADA</span><span style="display:inline-block; margin-top:6px; margin-right:5px; border:1px solid #e3dac6; border-radius:999px; padding:2px 8px; font-size:12px; color:#6a665d; background:#efe8d8;">new</span><span style="display:inline-block; margin-top:6px; margin-right:5px; border:1px solid #e3dac6; border-radius:999px; padding:2px 8px; font-size:12px; color:#6a665d; background:#efe8d8;">TMDb 6.7 (41)</span>
+                                    <p style="margin:8px 0 0; font-size:14px; color:#1f1f1b;">Dos semanas después de acabar la Guerra Civil, Franco solicita una cena de celebración en el Hotel Palace. Un joven teniente, un maître meticuloso y un grupo de prisioneros republicanos expertos en cocina, deben preparar un banquete impecable en tiempo récord....</p>
+                                    <p style="margin:8px 0 0;"><a href="https://yelmocines.es/sinopsis/la-cena" target="_blank" rel="noreferrer" style="color:#356859; text-decoration:underline;">View details</a> &middot; <a href="https://calendar.google.com/calendar/render?action=TEMPLATE&amp;text=La+cena&amp;dates=20260224T191500Z%2F20260224T210100Z&amp;details=Dos+semanas+despu%C3%A9s+de+acabar+la+Guerra+Civil%2C+Franco+solicita+una+cena+de+celebraci%C3%B3n+en+el+Hotel+Palace.+Un+joven+teniente%2C+un+ma%C3%AEtre+meticuloso+y+un+grupo+de+prisioneros+republicanos+expertos+en+cocina%2C+deben+preparar+un+banquete+impecable+en+tiempo+r%C3%A9cord.+Todo+parece+ir+sobre+ruedas%2C+pero+en+la+cocina+se+trama+algo+m%C3%A1s+que+un+men%C3%BA.+La+fuga+est%C3%A1+servida.%0A%0Ahttps%3A%2F%2Fyelmocines.es%2Fsinopsis%2Fla-cena&amp;location=Yelmo+Cines+Ideal&amp;ctz=Europe%2FMadrid" target="_blank" rel="noreferrer" style="color:#356859; text-decoration:underline;">Add to Google Calendar</a></p>
+                                  </div>
+                                  <div style="border-top:1px solid #e3dac6; margin-top:12px; padding-top:12px;">
+                                    <p style="margin:0; font-size:17px; font-weight:700;">Hamnet</p>
+                                    <p style="margin:4px 0 0; color:#6a665d; font-size:13px;">Cine Embajadores Río / Yelmo Cines Ideal · Multiple sessions (Mon 23 Feb-Thu 26 Feb)</p><span style="display:inline-block; margin-top:6px; margin-right:5px; border:1px solid #e3dac6; border-radius:999px; padding:2px 8px; font-size:12px; color:#6a665d; background:#efe8d8;">DOBLADA</span><span style="display:inline-block; margin-top:6px; margin-right:5px; border:1px solid #e3dac6; border-radius:999px; padding:2px 8px; font-size:12px; color:#6a665d; background:#efe8d8;">VOSE</span><span style="display:inline-block; margin-top:6px; margin-right:5px; border:1px solid #e3dac6; border-radius:999px; padding:2px 8px; font-size:12px; color:#6a665d; background:#efe8d8;">TMDb 7.7 (630)</span>
+                                    <p style="margin:8px 0 0; font-size:14px; color:#1f1f1b;">Narra la historia de Agnes, la esposa de William Shakespeare, en su lucha por superar la pérdida de su único hijo, Hamnet. Una historia humana y desgarradora como telón de fondo para la creación de la obra de Shakespeare, Hamlet.</p>
+                                    <p style="margin:8px 0 0;"><a href="https://yelmocines.es/sinopsis/hamnet" target="_blank" rel="noreferrer" style="color:#356859; text-decoration:underline;">View details</a> &middot; <a href="https://calendar.google.com/calendar/render?action=TEMPLATE&amp;text=Hamnet&amp;dates=20260222T230000Z%2F20260222T234500Z&amp;details=Narra+la+historia+de+Agnes%2C+la+esposa+de+William+Shakespeare%2C+en+su+lucha+por+superar+la+p%C3%A9rdida+de+su+%C3%BAnico+hijo%2C+Hamnet.+Una+historia+humana+y+desgarradora+como+tel%C3%B3n+de+fondo+para+la+creaci%C3%B3n+de+la+obra+de+Shakespeare%2C+Hamlet.%0A%0Ahttps%3A%2F%2Fyelmocines.es%2Fsinopsis%2Fhamnet&amp;location=Yelmo+Cines+Ideal&amp;ctz=Europe%2FMadrid" target="_blank" rel="noreferrer" style="color:#356859; text-decoration:underline;">Add to Google Calendar</a></p>
+                                  </div>
+                                  <div style="border-top:1px solid #e3dac6; margin-top:12px; padding-top:12px;">
+                                    <p style="margin:0; font-size:17px; font-weight:700;">Primate</p>
+                                    <p style="margin:4px 0 0; color:#6a665d; font-size:13px;">Yelmo Cines Ideal · Mon 23 Feb 00:00</p><span style="display:inline-block; margin-top:6px; margin-right:5px; border:1px solid #e3dac6; border-radius:999px; padding:2px 8px; font-size:12px; color:#6a665d; background:#efe8d8;">VOSE</span><span style="display:inline-block; margin-top:6px; margin-right:5px; border:1px solid #e3dac6; border-radius:999px; padding:2px 8px; font-size:12px; color:#6a665d; background:#efe8d8;">TMDb 6.6 (344)</span>
+                                    <p style="margin:8px 0 0; font-size:14px; color:#1f1f1b;">Tras regresar de la universidad, Lucy se reúne con su familia, incluido el chimpancé Ben. Ben contrae la rabia durante una fiesta en la piscina y se vuelve muy agresivo. Lucy y sus amigos se atrincheran en la piscina e idean formas de sobrevivir al feroz chimpancé.</p>
+                                    <p style="margin:8px 0 0;"><a href="https://yelmocines.es/sinopsis/primate" target="_blank" rel="noreferrer" style="color:#356859; text-decoration:underline;">View details</a> &middot; <a href="https://calendar.google.com/calendar/render?action=TEMPLATE&amp;text=Primate&amp;dates=20260222T230000Z%2F20260222T230400Z&amp;details=Tras+regresar+de+la+universidad%2C+Lucy+se+re%C3%BAne+con+su+familia%2C+incluido+el+chimpanc%C3%A9+Ben.+Ben+contrae+la+rabia+durante+una+fiesta+en+la+piscina+y+se+vuelve+muy+agresivo.+Lucy+y+sus+amigos+se+atrincheran+en+la+piscina+e+idean+formas+de+sobrevivir+al+feroz+chimpanc%C3%A9.%0A%0Ahttps%3A%2F%2Fyelmocines.es%2Fsinopsis%2Fprimate&amp;location=Yelmo+Cines+Ideal&amp;ctz=Europe%2FMadrid" target="_blank" rel="noreferrer" style="color:#356859; text-decoration:underline;">Add to Google Calendar</a></p>
+                                  </div>
+                                  <div style="border-top:1px solid #e3dac6; margin-top:12px; padding-top:12px;">
+                                    <p style="margin:0; font-size:17px; font-weight:700;">No Hay Otra Opción</p>
+                                    <p style="margin:4px 0 0; color:#6a665d; font-size:13px;">Cine Embajadores / Cine Embajadores Río / Renoir Plaza de Espana · Multiple sessions (Mon 23 Feb-Thu 26 Feb)</p><span style="display:inline-block; margin-top:6px; margin-right:5px; border:1px solid #e3dac6; border-radius:999px; padding:2px 8px; font-size:12px; color:#6a665d; background:#efe8d8;">DOBLADA</span><span style="display:inline-block; margin-top:6px; margin-right:5px; border:1px solid #e3dac6; border-radius:999px; padding:2px 8px; font-size:12px; color:#6a665d; background:#efe8d8;">VOSE</span><span style="display:inline-block; margin-top:6px; margin-right:5px; border:1px solid #e3dac6; border-radius:999px; padding:2px 8px; font-size:12px; color:#6a665d; background:#efe8d8;">TMDb 7.6 (692)</span>
+                                    <p style="margin:8px 0 0; font-size:14px; color:#1f1f1b;">La historia sigue a un hombre de mediana edad llamado Man-su que se embarca decidido en una búsqueda de trabajo tras ser despedido inesperadamente de la compañía de papel en la que trabajó durante 25 años. &quot;Si no hay una vacante para mí, tendré que crear una para que me contraten....</p>
+                                    <p style="margin:8px 0 0;"><a href="https://www.pillalas.com/pase/1055583/" target="_blank" rel="noreferrer" style="color:#356859; text-decoration:underline;">View details</a> &middot; <a href="https://calendar.google.com/calendar/render?action=TEMPLATE&amp;text=No+Hay+Otra+Opci%C3%B3n&amp;dates=20260223T150000Z%2F20260223T170000Z&amp;details=La+historia+sigue+a+un+hombre+de+mediana+edad+llamado+Man-su+que+se+embarca+decidido+en+una+b%C3%BAsqueda+de+trabajo+tras+ser+despedido+inesperadamente+de+la+compa%C3%B1%C3%ADa+de+papel+en+la+que+trabaj%C3%B3+durante+25+a%C3%B1os.+%22Si+no+hay+una+vacante+para+m%C3%AD%2C+tendr%C3%A9+que+crear+una+para+que+me+contraten.+No+hay+otra+opci%C3%B3n%22.+Adaptaci%C3%B3n+de+la+novela+%22The+Ax%22+de+Donald+E.+Westlake%2C+que+ya+fue+llevada+al+cine+en+la+pel%C3%ADcula+%22Arcadia%22%2C+dirigida+por+Costa-Gavras+en+2005.%0A%0Ahttps%3A%2F%2Fwww.pillalas.com%2Fpase%2F1055583%2F&amp;location=Renoir+Plaza+de+Espana&amp;ctz=Europe%2FMadrid" target="_blank" rel="noreferrer" style="color:#356859; text-decoration:underline;">Add to Google Calendar</a></p>
+                                  </div>
+                                  <p style="margin:10px 0 0; border-top:1px solid #e3dac6; padding-top:10px; color:#2a2a2a; font-size:13px;">Other movies available: <a href="https://yelmocines.es/sinopsis/marty-supreme" target="_blank" rel="noreferrer" style="color:#1f1f1f; text-decoration:underline;">Marty Supreme</a>, <a href="https://entradasfilmoteca.sacatuentrada.es/es/productos/descripcion/bacurau" target="_blank" rel="noreferrer" style="color:#1f1f1f; text-decoration:underline;">Bacurau (2019)</a>, <a href="https://yelmocines.es/sinopsis/avatar-fuego-y-ceniza" target="_blank" rel="noreferrer" style="color:#1f1f1f; text-decoration:underline;">Avatar: Fuego y ceniza</a>, <a href="https://yelmocines.es/sinopsis/la-asistenta" target="_blank" rel="noreferrer" style="color:#1f1f1f; text-decoration:underline;">La asistenta</a>, <a href="https://cinesembajadores.es/pelicula/una-pasteleria-en-tokio-doblada-al-espanol/?ciudad=madrid" target="_blank" rel="noreferrer" style="color:#1f1f1f; text-decoration:underline;">Una pastelería en Tokio</a>, <a href="https://yelmocines.es/sinopsis/send-help-enviad-ayuda" target="_blank" rel="noreferrer" style="color:#1f1f1f; text-decoration:underline;">Send Help (Enviad ayuda)</a>, <a href="https://yelmocines.es/sinopsis/scream-7" target="_blank" rel="noreferrer" style="color:#1f1f1f; text-decoration:underline;">Scream 7</a>, <a href="https://yelmocines.es/sinopsis/cumbres-borrascosas" target="_blank" rel="noreferrer" style="color:#1f1f1f; text-decoration:underline;">Cumbres borrascosas</a>, <a href="https://yelmocines.es/sinopsis/greenland-2" target="_blank" rel="noreferrer" style="color:#1f1f1f; text-decoration:underline;">Greenland 2</a>, <a href="https://www.cinetecamadrid.com/programacion/door-ii-tokyo-diary" target="_blank" rel="noreferrer" style="color:#1f1f1f; text-decoration:underline;">Door II: Tokyo Diary</a>; and 43 more.</p>
+                                </div>
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+              <!--[if mso | IE]></td></tr></table><![endif]-->
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <!--[if mso | IE]></td></tr></table><table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:960px;" width="960" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+    <div style="margin:0px auto;max-width:960px;">
+      <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+        <tbody>
+          <tr>
+            <td style="direction:ltr;font-size:0px;padding:8px 24px;text-align:center;">
+              <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="section-card-outlook" style="vertical-align:top;width:912px;" ><![endif]-->
+              <div class="mj-column-per-100 mj-outlook-group-fix section-card" style="font-size: 0px; text-align: left; direction: ltr; display: inline-block; vertical-align: top; width: 100%; border-radius: 12px;">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-radius: 12px; border-collapse: separate; border-spacing: 0;">
+                  <tbody>
+                    <tr>
+                      <td style="background-color: #fffaf1; border: 2px solid #e3dac6; vertical-align: top; padding: 16px; border-radius: 12px;" bgcolor="#fffaf1" valign="top">
+                        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-radius: 12px; border-collapse: separate; border-spacing: 0;" width="100%">
+                          <tbody>
+                            <tr>
+                              <td align="left" style="font-size: 0px; padding: 0 0 9px; word-break: break-word; border-radius: 12px;">
+                                <div style="font-family:'Source Sans 3', Inter, 'Segoe UI', Arial, sans-serif;font-size:21px;font-weight:600;letter-spacing:0.03em;line-height:1.5;text-align:left;color:#1f1f1b;">Exhibitions</div>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td align="left" style="font-size: 0px; padding: 8px 0 0; word-break: break-word; border-radius: 12px;">
+                                <div style="font-family:Georgia, serif;font-size:15px;line-height:1.5;text-align:left;color:#1f1f1b;">
+                                  <p style="margin:0; color:#6a665d; font-size:13px;">5 of 114 events</p>
+                                  <div style="margin-top:6px;">
+                                    <p style="margin:0; font-size:17px; font-weight:700;">Matadero Madrid</p>
+                                    <div style="margin-top:8px;">
+                                      <p style="margin:0; font-size:16px; font-weight:700;">&#x27;Como lo ve una abeja&#x27; con Elisa Pardo Puch</p>
+                                      <p style="margin:4px 0 0; color:#6a665d; font-size:13px;">Wed 25 Feb 17:00</p><span style="display:inline-block; margin-top:6px; margin-right:5px; border:1px solid #e3dac6; border-radius:999px; padding:2px 8px; font-size:12px; color:#6a665d; background:#efe8d8;">new</span>
+                                      <p style="margin:8px 0 0; font-size:14px; color:#1f1f1b;">“Representar el mundo tal como lo ve una abeja; y mañana, tal como lo ve la luna” Hannah Höch. La residente Elisa Pardo Puch abre su proceso de creación en una sesión en la que se creará una pieza de arte textil de manera colaborativa....</p>
+                                      <p style="margin:8px 0 0;"><a href="https://www.mataderomadrid.org/programacion/como-lo-ve-una-abeja-con-elisa-pardo-puch" target="_blank" rel="noreferrer" style="color:#356859; text-decoration:underline;">View details</a> &middot; <a href="https://calendar.google.com/calendar/render?action=TEMPLATE&amp;text=%27Como+lo+ve+una+abeja%27+con+Elisa+Pardo+Puch&amp;dates=20260225T160000Z%2F20260225T180000Z&amp;details=%E2%80%9CRepresentar+el+mundo+tal+como+lo+ve+una+abeja%3B+y+ma%C3%B1ana%2C+tal+como+lo+ve+la+luna%E2%80%9D+Hannah+H%C3%B6ch.+La+residente+Elisa+Pardo+Puch+abre+su+proceso+de+creaci%C3%B3n+en+una+sesi%C3%B3n+en+la+que+se+crear%C3%A1+una+pieza+de+arte+textil+de+manera+colaborativa.+La+artista%2C+partiendo+de+la+investigaci%C3%B3n+textil+que+est%C3%A1+desarrollando+en+el+Centro+de+residencias+art%C3%ADsticas%2C+propone+la+construcci%C3%B3n+de+una+almazuela+colectiva%2C+pieza+textil+que+se+integrar%C3%A1+en+la+obra+final+de+su+proyecto+Umbrales+.+El+nombre+de+todas+las+personas+que+han+participado+aparecer%C3%A1+en+la+obra+colectiva.+La+Almazuela+es+una+t%C3%A9cnica+de+aprovechamiento+textil+que+se+conserva+en+La+Rioja%2C+lo+que+en+el+mundo+anglosaj%C3%B3n+se+conoce+como+patchwork+.+Esta+t%C3%A9cnica+ha+sido+desarrollada+y+preservada+por+grupos+de+mujeres+de+esa+zona%2C+destacando+Lola+Barasoain%2C+la+artista+y+artesana+que+se+encarg%C3%B3+de+recuperarla+e+investigar+su+historia.+El+nombre+de+Almazuela+tiene+un+origen+%C3%A1rabe%2C+deriva+de+la+palabra+%E2%80%98almozala%E2%80%99%2C+sustantivo+que+en+la+Espa%C3%B1a+medieval+daba+nombre+al+cobertor+de+cama+y+que%2C+a+su+vez%2C+tiene+su+origen+en+el+%C3%A1rabe+%E2%80%98almus%C3%A1lla%E2%80%99+y+%E2%80%98musalla%E2%80%99%2C+cuyo+significado+es+%E2%80%98tapiz+de+plegaria%E2%80%99+y+%E2%80%98lugar+para+rezar%E2%80%99.+La+artista+propone+un+taller+en+el+que+la+creaci%C3%B3n+textil+se+concibe+de+forma+heterodoxa.+El+ejercicio+pl%C3%A1stico+se+basar%C3%A1+en+uno+de+los+dise%C3%B1os+tradicionales+de+almazuelas+que+se+cose+en+espiral.+Las+personas+participantes+construir%C3%A1n+un+textil+colectivo+utilizando+materiales+industriales%2C+telas%2C+papeles+o+materiales+sobrantes+y+se+unir%C3%A1n+cosiendo%2C+grapando+con+anillas%2C+bridas+o+pegando.+La+cita+de+Hannah+H%C3%B6ch+refleja+el+proceso+a+seguir%2C+pasando+de+la+creaci%C3%B3n+individual+a+la+colectiva%2C+y+trabajando+la+pieza+desde+distintas+escalas.+Primero+cada+persona+trabajar%C3%A1+en+su+fragmento%2C+y+despu%C3%A9s+se+unir%C3%A1n+todos%2C+formando+una+visi%C3%B3n+diferente+y+m%C3%A1s+amplia.+Para+participar+en+esta+sesi%C3%B3n+de+creaci%C3%B3n+colectiva+es+necesario+apuntarse+en+este+formulario+.+Actividad+dirigida+a+p%C3%BAblico+adulto.%0A%0Ahttps%3A%2F%2Fwww.mataderomadrid.org%2Fprogramacion%2Fcomo-lo-ve-una-abeja-con-elisa-pardo-puch&amp;location=Matadero+Madrid&amp;ctz=Europe%2FMadrid" target="_blank" rel="noreferrer" style="color:#356859; text-decoration:underline;">Add to Google Calendar</a></p>
+                                    </div>
+                                  </div>
+                                  <div style="border-top:1px solid #e3dac6; margin-top:12px; padding-top:12px;">
+                                    <p style="margin:0; font-size:17px; font-weight:700;">Museo Nacional Thyssen-Bornemisza</p>
+                                    <div style="margin-top:8px;">
+                                      <p style="margin:0; font-size:16px; font-weight:700;">Irma Álvarez-Laviada. À l’intérieur et à l’extérieur du cadre</p>
+                                      <p style="margin:4px 0 0; color:#6a665d; font-size:13px;">Mon 23 Feb 00:00</p><span style="display:inline-block; margin-top:6px; margin-right:5px; border:1px solid #e3dac6; border-radius:999px; padding:2px 8px; font-size:12px; color:#6a665d; background:#efe8d8;">new</span>
+                                      <p style="margin:8px 0 0; font-size:14px; color:#1f1f1b;">Una selección de más de treinta piezas realizadas en la última década por la artista, junto a pinturas de la colección del museo (Museo Nacional Thyssen-Bornemisza. 23 feb a 3 may).</p>
+                                      <p style="margin:8px 0 0;"><a href="https://www.museothyssen.org/exposiciones/irma-alvarez-laviada-dentro-fuera-marco" target="_blank" rel="noreferrer" style="color:#356859; text-decoration:underline;">View details</a> &middot; <a href="https://calendar.google.com/calendar/render?action=TEMPLATE&amp;text=Irma+%C3%81lvarez-Laviada.+%C3%80+l%E2%80%99int%C3%A9rieur+et+%C3%A0+l%E2%80%99ext%C3%A9rieur+du+cadre&amp;dates=20260222T230000Z%2F20260502T220000Z&amp;details=Una+selecci%C3%B3n+de+m%C3%A1s+de+treinta+piezas+realizadas+en+la+%C3%BAltima+d%C3%A9cada+por+la+artista%2C+junto+a+pinturas+de+la+colecci%C3%B3n+del+museo+%28Museo+Nacional+Thyssen-Bornemisza.+23+feb+a+3+may%29.%0A%0Ahttps%3A%2F%2Fwww.museothyssen.org%2Fexposiciones%2Firma-alvarez-laviada-dentro-fuera-marco&amp;location=Museo+Nacional+Thyssen-Bornemisza&amp;ctz=Europe%2FMadrid" target="_blank" rel="noreferrer" style="color:#356859; text-decoration:underline;">Add to Google Calendar</a></p>
+                                    </div>
+                                  </div>
+                                  <div style="border-top:1px solid #e3dac6; margin-top:12px; padding-top:12px;">
+                                    <p style="margin:0; font-size:17px; font-weight:700;">CentroCentro</p>
+                                    <div style="margin-top:8px;">
+                                      <p style="margin:0; font-size:16px; font-weight:700;">Madrid Colecciona. 50 colecciones de arte contemporáneo</p>
+                                      <p style="margin:4px 0 0; color:#6a665d; font-size:13px;">Thu 26 Feb 00:00</p><span style="display:inline-block; margin-top:6px; margin-right:5px; border:1px solid #e3dac6; border-radius:999px; padding:2px 8px; font-size:12px; color:#6a665d; background:#efe8d8;">new</span>
+                                      <p style="margin:8px 0 0; font-size:14px; color:#1f1f1b;">Una selección de 100 obras contemporáneas pone en valor el papel indispensable de los coleccionistas para preservar la creación artística (CentroCentro. 26 feb a 6 sept).</p>
+                                      <p style="margin:8px 0 0;"><a href="https://www.centrocentro.org/exposicion/madrid-colecciona" target="_blank" rel="noreferrer" style="color:#356859; text-decoration:underline;">View details</a> &middot; <a href="https://calendar.google.com/calendar/render?action=TEMPLATE&amp;text=Madrid+Colecciona.+50+colecciones+de+arte+contempor%C3%A1neo&amp;dates=20260225T230000Z%2F20260905T220000Z&amp;details=Una+selecci%C3%B3n+de+100+obras+contempor%C3%A1neas+pone+en+valor+el+papel+indispensable+de+los+coleccionistas+para+preservar+la+creaci%C3%B3n+art%C3%ADstica+%28CentroCentro.+26+feb+a+6+sept%29.%0A%0Ahttps%3A%2F%2Fwww.centrocentro.org%2Fexposicion%2Fmadrid-colecciona&amp;location=CentroCentro&amp;ctz=Europe%2FMadrid" target="_blank" rel="noreferrer" style="color:#356859; text-decoration:underline;">Add to Google Calendar</a></p>
+                                    </div>
+                                  </div>
+                                  <div style="border-top:1px solid #e3dac6; margin-top:12px; padding-top:12px;">
+                                    <p style="margin:0; font-size:17px; font-weight:700;">Círculo de Bellas Artes</p>
+                                    <div style="margin-top:8px;">
+                                      <p style="margin:0; font-size:16px; font-weight:700;">Eclosión. El Círculo de Bellas Artes en los 80 y 90</p>
+                                      <p style="margin:4px 0 0; color:#6a665d; font-size:13px;">Wed 25 Feb 00:00</p><span style="display:inline-block; margin-top:6px; margin-right:5px; border:1px solid #e3dac6; border-radius:999px; padding:2px 8px; font-size:12px; color:#6a665d; background:#efe8d8;">new</span>
+                                      <p style="margin:8px 0 0; font-size:14px; color:#1f1f1b;">Exposición que revisa su periodo de renovación y la voluntad de convertirse en un centro cultural multidisciplinar, innovador y conectado con las necesidades de su tiempo (Círculo de Bell</p>
+                                      <p style="margin:8px 0 0;"><a href="https://www.circulobellasartes.com/exposiciones/eclosion-el-circulo-de-bellas-artes-en-los-80-y-90/" target="_blank" rel="noreferrer" style="color:#356859; text-decoration:underline;">View details</a> &middot; <a href="https://calendar.google.com/calendar/render?action=TEMPLATE&amp;text=Eclosi%C3%B3n.+El+C%C3%ADrculo+de+Bellas+Artes+en+los+80+y+90&amp;dates=20260224T230000Z%2F20260509T220000Z&amp;details=Exposici%C3%B3n+que+revisa+su+periodo+de+renovaci%C3%B3n+y+la+voluntad+de+convertirse+en+un+centro+cultural+multidisciplinar%2C+innovador+y+conectado+con+las+necesidades+de+su+tiempo+%28C%C3%ADrculo+de+Bell%0A%0Ahttps%3A%2F%2Fwww.circulobellasartes.com%2Fexposiciones%2Feclosion-el-circulo-de-bellas-artes-en-los-80-y-90%2F&amp;location=C%C3%ADrculo+de+Bellas+Artes&amp;ctz=Europe%2FMadrid" target="_blank" rel="noreferrer" style="color:#356859; text-decoration:underline;">Add to Google Calendar</a></p>
+                                    </div>
+                                  </div>
+                                  <div style="border-top:1px solid #e3dac6; margin-top:12px; padding-top:12px;">
+                                    <p style="margin:0; font-size:17px; font-weight:700;">Museo Reina Sofía</p>
+                                    <div style="margin-top:8px;">
+                                      <p style="margin:0; font-size:16px; font-weight:700;">Alberto Greco. Viva el arte vivo</p>
+                                      <p style="margin:4px 0 0; color:#6a665d; font-size:13px;">Mon 23 Feb 00:00</p>
+                                      <p style="margin:8px 0 0; font-size:14px; color:#1f1f1b;">Retrospectiva de la trayectoria del artista, figura clave de la vanguardia experimental y fundador del llamado arte vivo (Museo Reina Sofía. Hasta 8 jun).</p>
+                                      <p style="margin:8px 0 0;"><a href="https://www.museoreinasofia.es/exposicion/alberto-greco" target="_blank" rel="noreferrer" style="color:#356859; text-decoration:underline;">View details</a> &middot; <a href="https://calendar.google.com/calendar/render?action=TEMPLATE&amp;text=Alberto+Greco.+Viva+el+arte+vivo&amp;dates=20260222T230000Z%2F20260607T220000Z&amp;details=Retrospectiva+de+la+trayectoria+del+artista%2C+figura+clave+de+la+vanguardia+experimental+y+fundador+del+llamado+arte+vivo+%28Museo+Reina+Sof%C3%ADa.+Hasta+8+jun%29.%0A%0Ahttps%3A%2F%2Fwww.museoreinasofia.es%2Fexposicion%2Falberto-greco&amp;location=Museo+Reina+Sof%C3%ADa&amp;ctz=Europe%2FMadrid" target="_blank" rel="noreferrer" style="color:#356859; text-decoration:underline;">Add to Google Calendar</a></p>
+                                    </div>
+                                  </div>
+                                  <p style="margin:10px 0 0; border-top:1px solid #e3dac6; padding-top:10px; color:#2a2a2a; font-size:13px;">Other exhibitions available: <a href="https://www.museoreinasofia.es/prensa/nota-de-prensa/juan-usle" target="_blank" rel="noreferrer" style="color:#1f1f1f; text-decoration:underline;">Juan Uslé. Ese barco en la montaña</a>, <a href="https://www.museoreinasofia.es/exposicion/maruja-mallo" target="_blank" rel="noreferrer" style="color:#1f1f1f; text-decoration:underline;">Maruja Mallo. Máscara y compás</a>, <a href="https://www.museoreinasofia.es/exposicion/oliver-laxe" target="_blank" rel="noreferrer" style="color:#1f1f1f; text-decoration:underline;">Oliver Laxe. HU/هُوَ. Bailad como si nadie os viera</a>, <a href="https://www.mataderomadrid.org/programacion/animals" target="_blank" rel="noreferrer" style="color:#1f1f1f; text-decoration:underline;">The Animals</a>, <a href="https://www.cultura.gob.es/mnantropologia/en/actividades/agenda/2026/expotemporales2026/quema.html" target="_blank" rel="noreferrer" style="color:#1f1f1f; text-decoration:underline;">La quema</a>, <a href="https://www.museodelprado.es/actualidad/exposicion/antonio-raphael-mengs-el-mas-grande-pintor-del/4be2964e-3169-c21d-52ec-9c6caf24cbfb" target="_blank" rel="noreferrer" style="color:#1f1f1f; text-decoration:underline;">Antonio Raphael Mengs. El más grande pintor del siglo XVIII</a>, <a href="https://www.museodelprado.es/actualidad/exposicion/el-martirio-de-san-andres/812ff002-8b36-b329-bbcd-ac809fdb1f27" target="_blank" rel="noreferrer" style="color:#1f1f1f; text-decoration:underline;">El martirio de San Andrés</a>, <a href="https://www.museodelprado.es/actualidad/exposicion/el-prado-multiplicado-la-fotografia-como-memoria/2658bee2-97e8-d418-1e9d-94ae293bc637" target="_blank" rel="noreferrer" style="color:#1f1f1f; text-decoration:underline;">El Prado Multiplicado. La fotografía como memoria compartida</a>, <a href="https://www.museodelprado.es/actualidad/exposicion/juan-muoz-historias-de-arte/499fbef9-c3c6-b73d-740f-7eeede62ca7e" target="_blank" rel="noreferrer" style="color:#1f1f1f; text-decoration:underline;">Juan Muñoz. Historias de Arte</a>, <a href="https://www.museodelprado.es/actualidad/exposicion/el-prado-en-femenino-iii-promotoras-artisticas-de/3f7ed688-956b-487f-957b-6a377fbeffd1" target="_blank" rel="noreferrer" style="color:#1f1f1f; text-decoration:underline;">“El Prado en femenino III”. Promotoras artísticas de las colecciones del Museo (1701-1819)</a>; and 99 more.</p>
+                                </div>
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+              <!--[if mso | IE]></td></tr></table><![endif]-->
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <!--[if mso | IE]></td></tr></table><table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:960px;" width="960" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+    <div style="margin:0px auto;max-width:960px;">
+      <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+        <tbody>
+          <tr>
+            <td style="direction:ltr;font-size:0px;padding:8px 24px;text-align:center;">
+              <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="section-card-outlook" style="vertical-align:top;width:912px;" ><![endif]-->
+              <div class="mj-column-per-100 mj-outlook-group-fix section-card" style="font-size: 0px; text-align: left; direction: ltr; display: inline-block; vertical-align: top; width: 100%; border-radius: 12px;">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-radius: 12px; border-collapse: separate; border-spacing: 0;">
+                  <tbody>
+                    <tr>
+                      <td style="background-color: #fffaf1; border: 2px solid #e3dac6; vertical-align: top; padding: 16px; border-radius: 12px;" bgcolor="#fffaf1" valign="top">
+                        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-radius: 12px; border-collapse: separate; border-spacing: 0;" width="100%">
+                          <tbody>
+                            <tr>
+                              <td align="left" style="font-size: 0px; padding: 0 0 9px; word-break: break-word; border-radius: 12px;">
+                                <div style="font-family:'Source Sans 3', Inter, 'Segoe UI', Arial, sans-serif;font-size:21px;font-weight:600;letter-spacing:0.03em;line-height:1.5;text-align:left;color:#1f1f1b;">Theater</div>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td align="left" style="font-size: 0px; padding: 8px 0 0; word-break: break-word; border-radius: 12px;">
+                                <div style="font-family:Georgia, serif;font-size:15px;line-height:1.5;text-align:left;color:#1f1f1b;">
+                                  <p style="margin:0; color:#6a665d; font-size:13px;">5 of 11 events</p>
+                                  <div style="margin-top:6px;">
+                                    <p style="margin:0; font-size:17px; font-weight:700;">Federico. No hay olvido, ni sueño: Carne viva</p>
+                                    <p style="margin:4px 0 0; color:#6a665d; font-size:13px;">Teatro del Barrio · Fri 27 Feb 19:30</p><span style="display:inline-block; margin-top:6px; margin-right:5px; border:1px solid #e3dac6; border-radius:999px; padding:2px 8px; font-size:12px; color:#6a665d; background:#efe8d8;">new</span>
+                                    <p style="margin:8px 0 0; font-size:14px; color:#1f1f1b;">Disponible</p>
+                                    <p style="margin:8px 0 0;"><a href="https://teatrodelbarrio.com/federico-no-hay-olvido-ni-sueno-carne-viva/" target="_blank" rel="noreferrer" style="color:#356859; text-decoration:underline;">View details</a> &middot; <a href="https://calendar.google.com/calendar/render?action=TEMPLATE&amp;text=Federico.+No+hay+olvido%2C+ni+sue%C3%B1o%3A+Carne+viva&amp;dates=20260227T183000Z%2F20260227T203000Z&amp;details=Disponible%0A%0Ahttps%3A%2F%2Fteatrodelbarrio.com%2Ffederico-no-hay-olvido-ni-sueno-carne-viva%2F&amp;location=Teatro+del+Barrio&amp;ctz=Europe%2FMadrid" target="_blank" rel="noreferrer" style="color:#356859; text-decoration:underline;">Add to Google Calendar</a></p>
+                                  </div>
+                                  <div style="border-top:1px solid #e3dac6; margin-top:12px; padding-top:12px;">
+                                    <p style="margin:0; font-size:17px; font-weight:700;">Noche de fiesta - VERDE QUE TE QUIERO VERDE - Proyecto 43-2</p>
+                                    <p style="margin:4px 0 0; color:#6a665d; font-size:13px;">Teatro del Barrio · Fri 27 Feb 22:00</p><span style="display:inline-block; margin-top:6px; margin-right:5px; border:1px solid #e3dac6; border-radius:999px; padding:2px 8px; font-size:12px; color:#6a665d; background:#efe8d8;">new</span>
+                                    <p style="margin:8px 0 0; font-size:14px; color:#1f1f1b;">Programación en Teatro del Barrio</p>
+                                    <p style="margin:8px 0 0;"><a href="https://teatrodelbarrio.com/noche-de-fiesta-proyecto-432/" target="_blank" rel="noreferrer" style="color:#356859; text-decoration:underline;">View details</a> &middot; <a href="https://calendar.google.com/calendar/render?action=TEMPLATE&amp;text=Noche+de+fiesta+-+VERDE+QUE+TE+QUIERO+VERDE+-+Proyecto+43-2&amp;dates=20260227T210000Z%2F20260227T230000Z&amp;details=Programaci%C3%B3n+en+Teatro+del+Barrio%0A%0Ahttps%3A%2F%2Fteatrodelbarrio.com%2Fnoche-de-fiesta-proyecto-432%2F&amp;location=Teatro+del+Barrio&amp;ctz=Europe%2FMadrid" target="_blank" rel="noreferrer" style="color:#356859; text-decoration:underline;">Add to Google Calendar</a></p>
+                                  </div>
+                                  <div style="border-top:1px solid #e3dac6; margin-top:12px; padding-top:12px;">
+                                    <p style="margin:0; font-size:17px; font-weight:700;">Nadie sabe lo que sufre un caracol</p>
+                                    <p style="margin:4px 0 0; color:#6a665d; font-size:13px;">Teatro del Barrio · Sat 28 Feb 13:00</p><span style="display:inline-block; margin-top:6px; margin-right:5px; border:1px solid #e3dac6; border-radius:999px; padding:2px 8px; font-size:12px; color:#6a665d; background:#efe8d8;">new</span>
+                                    <p style="margin:8px 0 0; font-size:14px; color:#1f1f1b;">Disponible</p>
+                                    <p style="margin:8px 0 0;"><a href="https://teatrodelbarrio.com/nadie-sabe-lo-que-sufre-un-caracol/" target="_blank" rel="noreferrer" style="color:#356859; text-decoration:underline;">View details</a> &middot; <a href="https://calendar.google.com/calendar/render?action=TEMPLATE&amp;text=Nadie+sabe+lo+que+sufre+un+caracol&amp;dates=20260228T120000Z%2F20260228T140000Z&amp;details=Disponible%0A%0Ahttps%3A%2F%2Fteatrodelbarrio.com%2Fnadie-sabe-lo-que-sufre-un-caracol%2F&amp;location=Teatro+del+Barrio&amp;ctz=Europe%2FMadrid" target="_blank" rel="noreferrer" style="color:#356859; text-decoration:underline;">Add to Google Calendar</a></p>
+                                  </div>
+                                  <div style="border-top:1px solid #e3dac6; margin-top:12px; padding-top:12px;">
+                                    <p style="margin:0; font-size:17px; font-weight:700;">Hoy tengo algo que hacer</p>
+                                    <p style="margin:4px 0 0; color:#6a665d; font-size:13px;">Teatro del Barrio · Sat 28 Feb 19:30</p><span style="display:inline-block; margin-top:6px; margin-right:5px; border:1px solid #e3dac6; border-radius:999px; padding:2px 8px; font-size:12px; color:#6a665d; background:#efe8d8;">new</span>
+                                    <p style="margin:8px 0 0; font-size:14px; color:#1f1f1b;">¡Ya solo quedan 24 plazas!</p>
+                                    <p style="margin:8px 0 0;"><a href="https://teatrodelbarrio.com/hoy-tengo-algo-que-hacer/" target="_blank" rel="noreferrer" style="color:#356859; text-decoration:underline;">View details</a> &middot; <a href="https://calendar.google.com/calendar/render?action=TEMPLATE&amp;text=Hoy+tengo+algo+que+hacer&amp;dates=20260228T183000Z%2F20260228T203000Z&amp;details=%C2%A1Ya+solo+quedan+24+plazas%21%0A%0Ahttps%3A%2F%2Fteatrodelbarrio.com%2Fhoy-tengo-algo-que-hacer%2F&amp;location=Teatro+del+Barrio&amp;ctz=Europe%2FMadrid" target="_blank" rel="noreferrer" style="color:#356859; text-decoration:underline;">Add to Google Calendar</a></p>
+                                  </div>
+                                  <div style="border-top:1px solid #e3dac6; margin-top:12px; padding-top:12px;">
+                                    <p style="margin:0; font-size:17px; font-weight:700;">Isa &amp; Javi</p>
+                                    <p style="margin:4px 0 0; color:#6a665d; font-size:13px;">Teatro del Barrio · Sat 28 Feb 22:15</p><span style="display:inline-block; margin-top:6px; margin-right:5px; border:1px solid #e3dac6; border-radius:999px; padding:2px 8px; font-size:12px; color:#6a665d; background:#efe8d8;">new</span>
+                                    <p style="margin:8px 0 0; font-size:14px; color:#1f1f1b;">Disponible</p>
+                                    <p style="margin:8px 0 0;"><a href="https://teatrodelbarrio.com/isa-y-javi/" target="_blank" rel="noreferrer" style="color:#356859; text-decoration:underline;">View details</a> &middot; <a href="https://calendar.google.com/calendar/render?action=TEMPLATE&amp;text=Isa+%26+Javi&amp;dates=20260228T211500Z%2F20260228T231500Z&amp;details=Disponible%0A%0Ahttps%3A%2F%2Fteatrodelbarrio.com%2Fisa-y-javi%2F&amp;location=Teatro+del+Barrio&amp;ctz=Europe%2FMadrid" target="_blank" rel="noreferrer" style="color:#356859; text-decoration:underline;">Add to Google Calendar</a></p>
+                                  </div>
+                                  <p style="margin:10px 0 0; border-top:1px solid #e3dac6; padding-top:10px; color:#2a2a2a; font-size:13px;">Other events available: <a href="https://teatrodelbarrio.com/manana-mas/" target="_blank" rel="noreferrer" style="color:#1f1f1f; text-decoration:underline;">Mañana más</a>, <a href="https://teatrodelbarrio.com/asamblea-de-juveniles-en-teatro-del-barrio/" target="_blank" rel="noreferrer" style="color:#1f1f1f; text-decoration:underline;">Asamblea de juveniles en Teatro del Barrio</a>, <a href="https://teatrodelbarrio.com/hijas-de-la-nakba-7-ninas-judias/" target="_blank" rel="noreferrer" style="color:#1f1f1f; text-decoration:underline;">Hijas de la Nakba. 7 niñas judías</a>, <a href="https://teatrodelbarrio.com/los-arboles-no-votan/" target="_blank" rel="noreferrer" style="color:#1f1f1f; text-decoration:underline;">Los árboles no votan</a>, <a href="https://teatrodelbarrio.com/un-verano-por-metro-cuadrado/" target="_blank" rel="noreferrer" style="color:#1f1f1f; text-decoration:underline;">Un verano por metro cuadrado</a>, <a href="https://tienda.madrid-destino.com/es/nave-10/tres-noches-en-itaca/" target="_blank" rel="noreferrer" style="color:#1f1f1f; text-decoration:underline;">Tres noches en Ítaca</a>.</p>
+                                </div>
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+              <!--[if mso | IE]></td></tr></table><![endif]-->
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <!--[if mso | IE]></td></tr></table><table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:960px;" width="960" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+    <div style="margin:0px auto;max-width:960px;">
+      <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+        <tbody>
+          <tr>
+            <td style="direction:ltr;font-size:0px;padding:8px 24px;text-align:center;">
+              <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="section-card-outlook" style="vertical-align:top;width:912px;" ><![endif]-->
+              <div class="mj-column-per-100 mj-outlook-group-fix section-card" style="font-size: 0px; text-align: left; direction: ltr; display: inline-block; vertical-align: top; width: 100%; border-radius: 12px;">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-radius: 12px; border-collapse: separate; border-spacing: 0;">
+                  <tbody>
+                    <tr>
+                      <td style="background-color: #fffaf1; border: 2px solid #e3dac6; vertical-align: top; padding: 16px; border-radius: 12px;" bgcolor="#fffaf1" valign="top">
+                        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-radius: 12px; border-collapse: separate; border-spacing: 0;" width="100%">
+                          <tbody>
+                            <tr>
+                              <td align="left" style="font-size: 0px; padding: 0 0 9px; word-break: break-word; border-radius: 12px;">
+                                <div style="font-family:'Source Sans 3', Inter, 'Segoe UI', Arial, sans-serif;font-size:21px;font-weight:600;letter-spacing:0.03em;line-height:1.5;text-align:left;color:#1f1f1b;">Music</div>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td align="left" style="font-size: 0px; padding: 8px 0 0; word-break: break-word; border-radius: 12px;">
+                                <div style="font-family:Georgia, serif;font-size:15px;line-height:1.5;text-align:left;color:#1f1f1b;">
+                                  <p style="margin:0; color:#6a665d; font-size:13px;">5 of 11 events</p>
+                                  <div style="margin-top:6px;">
+                                    <p style="margin:0; font-size:17px; font-weight:700;">Austra</p>
+                                    <p style="margin:4px 0 0; color:#6a665d; font-size:13px;">Sala Villanos · Sat 28 Feb 21:00</p><span style="display:inline-block; margin-top:6px; margin-right:5px; border:1px solid #e3dac6; border-radius:999px; padding:2px 8px; font-size:12px; color:#6a665d; background:#efe8d8;">new</span>
+                                    <p style="margin:8px 0 0; font-size:14px; color:#1f1f1b;">Concierto / Pop</p>
+                                    <p style="margin:8px 0 0;"><a href="https://salavillanos.es/evento/austra/" target="_blank" rel="noreferrer" style="color:#356859; text-decoration:underline;">View details</a> &middot; <a href="https://calendar.google.com/calendar/render?action=TEMPLATE&amp;text=Austra&amp;dates=20260228T200000Z%2F20260228T220000Z&amp;details=Concierto+%2F+Pop%0A%0Ahttps%3A%2F%2Fsalavillanos.es%2Fevento%2Faustra%2F&amp;location=Sala+Villanos&amp;ctz=Europe%2FMadrid" target="_blank" rel="noreferrer" style="color:#356859; text-decoration:underline;">Add to Google Calendar</a></p>
+                                  </div>
+                                  <div style="border-top:1px solid #e3dac6; margin-top:12px; padding-top:12px;">
+                                    <p style="margin:0; font-size:17px; font-weight:700;">Steve Bug Dj Set + ACID HERO / NACHO MARCO</p>
+                                    <p style="margin:4px 0 0; color:#6a665d; font-size:13px;">Sala Villanos · Sat 28 Feb 23:59</p><span style="display:inline-block; margin-top:6px; margin-right:5px; border:1px solid #e3dac6; border-radius:999px; padding:2px 8px; font-size:12px; color:#6a665d; background:#efe8d8;">new</span>
+                                    <p style="margin:8px 0 0; font-size:14px; color:#1f1f1b;">Club</p>
+                                    <p style="margin:8px 0 0;"><a href="https://salavillanos.es/evento/steve-bug-dj-set/" target="_blank" rel="noreferrer" style="color:#356859; text-decoration:underline;">View details</a> &middot; <a href="https://calendar.google.com/calendar/render?action=TEMPLATE&amp;text=Steve+Bug+Dj+Set+%2B+ACID+HERO+%2F+NACHO+MARCO&amp;dates=20260228T225900Z%2F20260301T005900Z&amp;details=Club%0A%0Ahttps%3A%2F%2Fsalavillanos.es%2Fevento%2Fsteve-bug-dj-set%2F&amp;location=Sala+Villanos&amp;ctz=Europe%2FMadrid" target="_blank" rel="noreferrer" style="color:#356859; text-decoration:underline;">Add to Google Calendar</a></p>
+                                  </div>
+                                  <div style="border-top:1px solid #e3dac6; margin-top:12px; padding-top:12px;">
+                                    <p style="margin:0; font-size:17px; font-weight:700;">Herman Düne</p>
+                                    <p style="margin:4px 0 0; color:#6a665d; font-size:13px;">Sala Villanos · Sun 01 Mar 19:30</p><span style="display:inline-block; margin-top:6px; margin-right:5px; border:1px solid #e3dac6; border-radius:999px; padding:2px 8px; font-size:12px; color:#6a665d; background:#efe8d8;">new</span>
+                                    <p style="margin:8px 0 0; font-size:14px; color:#1f1f1b;">Concierto / Pop / World Music &amp; Folk</p>
+                                    <p style="margin:8px 0 0;"><a href="https://salavillanos.es/evento/herman-dune/" target="_blank" rel="noreferrer" style="color:#356859; text-decoration:underline;">View details</a> &middot; <a href="https://calendar.google.com/calendar/render?action=TEMPLATE&amp;text=Herman+D%C3%BCne&amp;dates=20260301T183000Z%2F20260301T203000Z&amp;details=Concierto+%2F+Pop+%2F+World+Music+%26+Folk%0A%0Ahttps%3A%2F%2Fsalavillanos.es%2Fevento%2Fherman-dune%2F&amp;location=Sala+Villanos&amp;ctz=Europe%2FMadrid" target="_blank" rel="noreferrer" style="color:#356859; text-decoration:underline;">Add to Google Calendar</a></p>
+                                  </div>
+                                  <div style="border-top:1px solid #e3dac6; margin-top:12px; padding-top:12px;">
+                                    <p style="margin:0; font-size:17px; font-weight:700;">Postcode</p>
+                                    <p style="margin:4px 0 0; color:#6a665d; font-size:13px;">Sala Villanos · Tue 24 Feb 20:30</p><span style="display:inline-block; margin-top:6px; margin-right:5px; border:1px solid #e3dac6; border-radius:999px; padding:2px 8px; font-size:12px; color:#6a665d; background:#efe8d8;">new</span>
+                                    <p style="margin:8px 0 0; font-size:14px; color:#1f1f1b;">Concierto</p>
+                                    <p style="margin:8px 0 0;"><a href="https://salavillanos.es/evento/postcode/" target="_blank" rel="noreferrer" style="color:#356859; text-decoration:underline;">View details</a> &middot; <a href="https://calendar.google.com/calendar/render?action=TEMPLATE&amp;text=Postcode&amp;dates=20260224T193000Z%2F20260224T213000Z&amp;details=Concierto%0A%0Ahttps%3A%2F%2Fsalavillanos.es%2Fevento%2Fpostcode%2F&amp;location=Sala+Villanos&amp;ctz=Europe%2FMadrid" target="_blank" rel="noreferrer" style="color:#356859; text-decoration:underline;">Add to Google Calendar</a></p>
+                                  </div>
+                                  <div style="border-top:1px solid #e3dac6; margin-top:12px; padding-top:12px;">
+                                    <p style="margin:0; font-size:17px; font-weight:700;">SEMILLAS DE ESPERANZA: concierto solidario por Palestina</p>
+                                    <p style="margin:4px 0 0; color:#6a665d; font-size:13px;">Sala Villanos · Wed 25 Feb 20:00</p><span style="display:inline-block; margin-top:6px; margin-right:5px; border:1px solid #e3dac6; border-radius:999px; padding:2px 8px; font-size:12px; color:#6a665d; background:#efe8d8;">new</span>
+                                    <p style="margin:8px 0 0; font-size:14px; color:#1f1f1b;">Concierto / Pop / Rock</p>
+                                    <p style="margin:8px 0 0;"><a href="https://salavillanos.es/evento/semillas-de-esperanza-concierto-solidario-por-palestina/" target="_blank" rel="noreferrer" style="color:#356859; text-decoration:underline;">View details</a> &middot; <a href="https://calendar.google.com/calendar/render?action=TEMPLATE&amp;text=SEMILLAS+DE+ESPERANZA%3A+concierto+solidario+por+Palestina&amp;dates=20260225T190000Z%2F20260225T210000Z&amp;details=Concierto+%2F+Pop+%2F+Rock%0A%0Ahttps%3A%2F%2Fsalavillanos.es%2Fevento%2Fsemillas-de-esperanza-concierto-solidario-por-palestina%2F&amp;location=Sala+Villanos&amp;ctz=Europe%2FMadrid" target="_blank" rel="noreferrer" style="color:#356859; text-decoration:underline;">Add to Google Calendar</a></p>
+                                  </div>
+                                  <p style="margin:10px 0 0; border-top:1px solid #e3dac6; padding-top:10px; color:#2a2a2a; font-size:13px;">Other events available: <a href="https://salavillanos.es/evento/adrian-sherwood/" target="_blank" rel="noreferrer" style="color:#1f1f1f; text-decoration:underline;">Adrian Sherwood</a>, <a href="https://www.livenation.es/event/kikuoland-above-all-bounds-world-tour-2026-madrid-tickets-edp1628891" target="_blank" rel="noreferrer" style="color:#1f1f1f; text-decoration:underline;">Kikuoland</a>, <a href="https://gruta77.com/events/yeska-kike-babas-y-la-desbanda/var/ri-0.l-L2" target="_blank" rel="noreferrer" style="color:#1f1f1f; text-decoration:underline;">Yeska + Kike Babas Y La Desbandá</a>, <a href="https://gruta77.com/events/rojo-omega/var/ri-0.l-L2" target="_blank" rel="noreferrer" style="color:#1f1f1f; text-decoration:underline;">Rojo Omega + Motociclón</a>, <a href="https://www.madnesslive.es/es/conciertos-en-madrid/1779-comprar-entrada-avatar-alien-weaponry-madrid.html" target="_blank" rel="noreferrer" style="color:#1f1f1f; text-decoration:underline;">Avatar + Alien Weaponry</a>, <a href="https://www.entradas.com/event/la-m-o-d-a-sala-la-riviera-20297403/?affiliate=LVB#tab=" target="_blank" rel="noreferrer" style="color:#1f1f1f; text-decoration:underline;">La M.O.D.A.</a>.</p>
+                                </div>
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+              <!--[if mso | IE]></td></tr></table><![endif]-->
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <!--[if mso | IE]></td></tr></table><table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:960px;" width="960" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+    <div style="margin:0px auto;max-width:960px;">
+      <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+        <tbody>
+          <tr>
+            <td style="direction:ltr;font-size:0px;padding:8px 24px;text-align:center;">
+              <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="section-card-outlook" style="vertical-align:top;width:912px;" ><![endif]-->
+              <div class="mj-column-per-100 mj-outlook-group-fix section-card" style="font-size: 0px; text-align: left; direction: ltr; display: inline-block; vertical-align: top; width: 100%; border-radius: 12px;">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-radius: 12px; border-collapse: separate; border-spacing: 0;">
+                  <tbody>
+                    <tr>
+                      <td style="background-color: #fffaf1; border: 2px solid #e3dac6; vertical-align: top; padding: 16px; border-radius: 12px;" bgcolor="#fffaf1" valign="top">
+                        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-radius: 12px; border-collapse: separate; border-spacing: 0;" width="100%">
+                          <tbody>
+                            <tr>
+                              <td align="left" style="font-size: 0px; padding: 0 0 9px; word-break: break-word; border-radius: 12px;">
+                                <div style="font-family:'Source Sans 3', Inter, 'Segoe UI', Arial, sans-serif;font-size:21px;font-weight:600;letter-spacing:0.03em;line-height:1.5;text-align:left;color:#1f1f1b;">Talks</div>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td align="left" style="font-size: 0px; padding: 8px 0 0; word-break: break-word; border-radius: 12px;">
+                                <div style="font-family:Georgia, serif;font-size:15px;line-height:1.5;text-align:left;color:#1f1f1b;">
+                                  <p style="margin:0; color:#6a665d; font-size:13px;">3 events</p>
+                                  <div style="margin-top:6px;">
+                                    <p style="margin:0; font-size:17px; font-weight:700;">Presentación &quot;Termita&quot;</p>
+                                    <p style="margin:4px 0 0; color:#6a665d; font-size:13px;">La Anonima Libreria · Thu 26 Feb 19:00</p><span style="display:inline-block; margin-top:6px; margin-right:5px; border:1px solid #e3dac6; border-radius:999px; padding:2px 8px; font-size:12px; color:#6a665d; background:#efe8d8;">new</span>
+                                    <p style="margin:8px 0 0; font-size:14px; color:#1f1f1b;">26 Febrero 2026 Queridas anónimas: El próximo 26 de febrero presentamos la inteligentísima novela de Garazi Albizua , Termita ( Galaxia Gutemberg , 2024); la historia de una mujer precarizada que vive con su abuela y que rechaza todas las imposiciones laborales y afectivas del capitalismo....</p>
+                                    <p style="margin:8px 0 0;"><a href="https://laanonimalibreria.com/evento/149/presentacion-termita/" target="_blank" rel="noreferrer" style="color:#356859; text-decoration:underline;">View details</a> &middot; <a href="https://calendar.google.com/calendar/render?action=TEMPLATE&amp;text=Presentaci%C3%B3n+%22Termita%22&amp;dates=20260226T180000Z%2F20260226T200000Z&amp;details=26+Febrero+2026+Queridas+an%C3%B3nimas%3A+El+pr%C3%B3ximo+26+de+febrero+presentamos+la+inteligent%C3%ADsima+novela+de+Garazi+Albizua+%2C+Termita+%28+Galaxia+Gutemberg+%2C+2024%29%3B+la+historia+de+una+mujer+precarizada+que+vive+con+su+abuela+y+que+rechaza+todas+las+imposiciones+laborales+y+afectivas+del+capitalismo.+Despu%C3%A9s+de+varios+c%C3%B3mics+y+cuentos+infantiles%2C+Garazi+Albizua+debuta+en+la+narrativa+para+adultos+con+esta+obra%2C+galardonada+con+el+Premio+Euskadi+de+Literatura+en+Castellano.+De+ella+se+ha+dicho+que+%E2%80%9Csus+violentas+met%C3%A1foras+dan+cuerpo+a+delicadas+percepciones+acerca+de+la+lealtad%2C+la+amistad+y+la+supervivencia%E2%80%9D+.+Si+est%C3%A1s+buscando+tu+pr%C3%B3xima+lectura+feminista%2C+esta+puede+ser+tu+novela.+La+autora+estar%C3%A1+conversando+con+el+escritor+Hasier+Larretxea.+%C2%A1Os+esperamos%21+Cu%C3%A1ndo%3A+jueves+26+de+febrero+a+las+19+h.+D%C3%B3nde%3A+La+An%C3%B3nima+Librer%C3%ADa+%28C%2FEmbajadores%2C+166+-+Metro+Delicias+%2F+Legazpi%29+Entrada+libre+hasta+completar+aforo.%0A%0Ahttps%3A%2F%2Flaanonimalibreria.com%2Fevento%2F149%2Fpresentacion-termita%2F&amp;location=La+Anonima+Libreria&amp;ctz=Europe%2FMadrid" target="_blank" rel="noreferrer" style="color:#356859; text-decoration:underline;">Add to Google Calendar</a></p>
+                                  </div>
+                                  <div style="border-top:1px solid #e3dac6; margin-top:12px; padding-top:12px;">
+                                    <p style="margin:0; font-size:17px; font-weight:700;">Presentación: &quot;Conocimientos y experiencias de supervivencia&quot;, de Francisco Monedero</p>
+                                    <p style="margin:4px 0 0; color:#6a665d; font-size:13px;">Libreria Desnivel · Fri 27 Feb 19:00</p><span style="display:inline-block; margin-top:6px; margin-right:5px; border:1px solid #e3dac6; border-radius:999px; padding:2px 8px; font-size:12px; color:#6a665d; background:#efe8d8;">new</span>
+                                    <p style="margin:8px 0 0; font-size:14px; color:#1f1f1b;">Francisco Monedero visita la Librería Desnivel para presentarnos su nuevo libro, Conocimientos y experiencias de supervivencia , editado junto a la Diputación de Segovia. La presentación tendrá lugar el próximo viernes 27 de febrero a las 19 h de la tarde. Entrada libre hasta completar aforo....</p>
+                                    <p style="margin:8px 0 0;"><a href="https://www.libreriadesnivel.com/agenda/conocimientos-y-experiencias-de-supervivencia-de-francisco-monedero/418/" target="_blank" rel="noreferrer" style="color:#356859; text-decoration:underline;">View details</a> &middot; <a href="https://calendar.google.com/calendar/render?action=TEMPLATE&amp;text=Presentaci%C3%B3n%3A+%22Conocimientos+y+experiencias+de+supervivencia%22%2C+de+Francisco+Monedero&amp;dates=20260227T180000Z%2F20260227T200000Z&amp;details=Francisco+Monedero+visita+la+Librer%C3%ADa+Desnivel+para+presentarnos+su+nuevo+libro%2C+Conocimientos+y+experiencias+de+supervivencia+%2C+editado+junto+a+la+Diputaci%C3%B3n+de+Segovia.+La+presentaci%C3%B3n+tendr%C3%A1+lugar+el+pr%C3%B3ximo+viernes+27+de+febrero+a+las+19+h+de+la+tarde.+Entrada+libre+hasta+completar+aforo.+%C2%A1Que+no+te+lo+cuenten%21%0A%0Ahttps%3A%2F%2Fwww.libreriadesnivel.com%2Fagenda%2Fconocimientos-y-experiencias-de-supervivencia-de-francisco-monedero%2F418%2F&amp;location=Libreria+Desnivel&amp;ctz=Europe%2FMadrid" target="_blank" rel="noreferrer" style="color:#356859; text-decoration:underline;">Add to Google Calendar</a></p>
+                                  </div>
+                                  <div style="border-top:1px solid #e3dac6; margin-top:12px; padding-top:12px;">
+                                    <p style="margin:0; font-size:17px; font-weight:700;">Presentación: &quot;Paisajeros. Veinte viajes en tren y sus protagonistas&quot;, de Pablo Zulaica Parra</p>
+                                    <p style="margin:4px 0 0; color:#6a665d; font-size:13px;">Libreria Desnivel · Thu 26 Feb 19:00</p><span style="display:inline-block; margin-top:6px; margin-right:5px; border:1px solid #e3dac6; border-radius:999px; padding:2px 8px; font-size:12px; color:#6a665d; background:#efe8d8;">new</span>
+                                    <p style="margin:8px 0 0; font-size:14px; color:#1f1f1b;">La librería Desnivel se complace de acoger la presentación del libro Paisajeros. Veinte viajes en tren y sus protagonistas , de Pablo Zulaica Parra . Será el próximo 26 de febrero a las 19 h . Entrada libre hasta completar aforo. ¡No te la pierdas!</p>
+                                    <p style="margin:8px 0 0;"><a href="https://www.libreriadesnivel.com/agenda/paisajeros-veinte-viajes-en-tren-y-sus-protagonistas-de-pablo-zulaica-parra/415/" target="_blank" rel="noreferrer" style="color:#356859; text-decoration:underline;">View details</a> &middot; <a href="https://calendar.google.com/calendar/render?action=TEMPLATE&amp;text=Presentaci%C3%B3n%3A+%22Paisajeros.+Veinte+viajes+en+tren+y+sus+protagonistas%22%2C+de+Pablo+Zulaica+Parra&amp;dates=20260226T180000Z%2F20260226T200000Z&amp;details=La+librer%C3%ADa+Desnivel+se+complace+de+acoger+la+presentaci%C3%B3n+del+libro+Paisajeros.+Veinte+viajes+en+tren+y+sus+protagonistas+%2C+de+Pablo+Zulaica+Parra+.+Ser%C3%A1+el+pr%C3%B3ximo+26+de+febrero+a+las+19+h+.+Entrada+libre+hasta+completar+aforo.+%C2%A1No+te+la+pierdas%21%0A%0Ahttps%3A%2F%2Fwww.libreriadesnivel.com%2Fagenda%2Fpaisajeros-veinte-viajes-en-tren-y-sus-protagonistas-de-pablo-zulaica-parra%2F415%2F&amp;location=Libreria+Desnivel&amp;ctz=Europe%2FMadrid" target="_blank" rel="noreferrer" style="color:#356859; text-decoration:underline;">Add to Google Calendar</a></p>
+                                  </div>
+                                </div>
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+              <!--[if mso | IE]></td></tr></table><![endif]-->
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <!--[if mso | IE]></td></tr></table><table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:960px;" width="960" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+    <div style="margin:0px auto;max-width:960px;">
+      <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+        <tbody>
+          <tr>
+            <td style="direction:ltr;font-size:0px;padding:8px 24px;text-align:center;">
+              <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="section-card-outlook" style="vertical-align:top;width:912px;" ><![endif]-->
+              <div class="mj-column-per-100 mj-outlook-group-fix section-card" style="font-size: 0px; text-align: left; direction: ltr; display: inline-block; vertical-align: top; width: 100%; border-radius: 12px;">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-radius: 12px; border-collapse: separate; border-spacing: 0;">
+                  <tbody>
+                    <tr>
+                      <td style="background-color: #fffaf1; border: 2px solid #e3dac6; vertical-align: top; padding: 16px; border-radius: 12px;" bgcolor="#fffaf1" valign="top">
+                        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-radius: 12px; border-collapse: separate; border-spacing: 0;" width="100%">
+                          <tbody>
+                            <tr>
+                              <td align="left" style="font-size: 0px; padding: 0 0 9px; word-break: break-word; border-radius: 12px;">
+                                <div style="font-family:'Source Sans 3', Inter, 'Segoe UI', Arial, sans-serif;font-size:21px;font-weight:600;letter-spacing:0.03em;line-height:1.5;text-align:left;color:#1f1f1b;">Markets</div>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td align="left" style="font-size: 0px; padding: 8px 0 0; word-break: break-word; border-radius: 12px;">
+                                <div style="font-family:Georgia, serif;font-size:15px;line-height:1.5;text-align:left;color:#1f1f1b;">
+                                  <p style="margin:0; color:#6a665d; font-size:13px;">1 event</p>
+                                  <div style="margin-top:6px;">
+                                    <p style="margin:0; font-size:17px; font-weight:700;">Mercado Productores Planetario</p>
+                                    <p style="margin:4px 0 0; color:#6a665d; font-size:13px;">Mercado Productores Planetario · Sun 01 Mar 10:00</p><span style="display:inline-block; margin-top:6px; margin-right:5px; border:1px solid #e3dac6; border-radius:999px; padding:2px 8px; font-size:12px; color:#6a665d; background:#efe8d8;">new</span>
+                                    <p style="margin:8px 0 0; font-size:14px; color:#1f1f1b;">Mercado de productores locales y artesanos en Planetario con alimentacion sostenible, productos de cercania y actividades al aire libre.</p>
+                                    <p style="margin:8px 0 0;"><a href="https://mercadoproductores.es/mp-planetario/" target="_blank" rel="noreferrer" style="color:#356859; text-decoration:underline;">View details</a> &middot; <a href="https://calendar.google.com/calendar/render?action=TEMPLATE&amp;text=Mercado+Productores+Planetario&amp;dates=20260301T090000Z%2F20260301T150000Z&amp;details=Mercado+de+productores+locales+y+artesanos+en+Planetario+con+alimentacion+sostenible%2C+productos+de+cercania+y+actividades+al+aire+libre.%0A%0Ahttps%3A%2F%2Fmercadoproductores.es%2Fmp-planetario%2F&amp;location=Mercado+Productores+Planetario&amp;ctz=Europe%2FMadrid" target="_blank" rel="noreferrer" style="color:#356859; text-decoration:underline;">Add to Google Calendar</a></p>
+                                  </div>
+                                </div>
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+              <!--[if mso | IE]></td></tr></table><![endif]-->
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <!--[if mso | IE]></td></tr></table><![endif]-->
   </div>
 </body>
+
 </html>
+

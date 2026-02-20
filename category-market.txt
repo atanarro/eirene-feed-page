@@ -1,5 +1,5 @@
 Eirene feed debug
-Total events: 14
+Total events: 16
 
 [1] Mercado de las Ranas
   id: 2f6ff2675eb57e29888eba09c356788093bbed7c74e4ec602e082983f18547f0
@@ -103,7 +103,7 @@ Total events: 14
 [10] Cata de Quesos de Oveja  La Mueda 7 y  8 de marzo| Mercado de Motores
   id: 4b351015425948bc55c9c46ee29a4c7c09b886174958de0c230163389b958faf
   start: 2026-03-07T13:00:00+01:00
-  end: 2026-03-08T18:30:00+01:00
+  end: 2026-03-08T14:00:00+01:00
   category: market
   source: mercado_de_motores
   location: Mercado de motores - 61 Paseo de las Delicias, Madrid, MD, 28045
@@ -122,7 +122,18 @@ Total events: 14
   url: https://www.eventbrite.es/e/entradas-taller-de-jardin-vertical-natural-en-mercado-de-motores-1983451928110
   description: Crea tu propio jardín vertical natural y aprende paso a paso a diseñar un cuadro vivo para decorar tu
 
-[12] Mercado Productores Alcobendas
+[12] Taller de Smoothails con Pardorán en Mercado de Motores
+  id: ff97b9d126ce14308e2dcb619721747a7f225db700c0425fd4a0c78155266e98
+  start: 2026-03-07T17:30:00+01:00
+  end: 2026-03-08T18:30:00+01:00
+  category: market
+  source: mercado_de_motores
+  location: Mercado de motores - 61 Paseo de las Delicias, Madrid, MD, 28045
+  coordinates: 40.39883739999999, -3.6910858
+  url: https://www.eventbrite.es/e/entradas-taller-de-smoothails-con-pardoran-en-mercado-de-motores-1983541137939
+  description: Descubre otra forma de disfrutar tus combinados: taller de 1 hora para crear smoothails, frescos, equilibrados y fáciles de hacer en
+
+[13] Mercado Productores Alcobendas
   id: 5e8267c577c31e1bf6d469718c7a4d346146c0ed35d76913169726e9fd0a3e4a
   start: 2026-03-08T10:00:00+01:00
   end: 2026-03-08T16:00:00+01:00
@@ -133,7 +144,7 @@ Total events: 14
   url: https://mercadoproductores.es/mp-alcobendas/
   description: Mercado de productores locales y artesanos en Alcobendas con alimentos de proximidad y propuestas gastronomicas.
 
-[13] Crea tu Kokedama japonés el  8 de marzo en Mercado de Motores
+[14] Crea tu Kokedama japonés el  8 de marzo en Mercado de Motores
   id: b0ec1b3211230166155b172e5314d8839dd860e50430f70d9d9775d4f1dab3df
   start: 2026-03-08T11:30:00+01:00
   end: 2026-03-08T14:00:00+01:00
@@ -144,7 +155,7 @@ Total events: 14
   url: https://www.eventbrite.es/e/entradas-crea-tu-kokedama-japones-el-8-de-marzo-en-mercado-de-motores-1983341566014
   description: Descubre el arte japonés del Kokedama en un taller creativo, natural y sostenible con Green
 
-[14] Mercado Productores Planetario
+[15] Mercado Productores Planetario
   id: c09a315a3e44c268603bf556fb4ec98bebdc851fcf10d297fbc2ddbb665aee60
   start: 2026-03-15T10:00:00+01:00
   end: 2026-03-15T16:00:00+01:00
@@ -154,3 +165,14 @@ Total events: 14
   coordinates: 40.392053, -3.679427
   url: https://mercadoproductores.es/mp-planetario/
   description: Mercado de productores locales y artesanos en Planetario con alimentacion sostenible, productos de cercania y actividades al aire libre.
+
+[16] Mercado de las Ranas
+  id: 0cd88d75feff7979f14018c406759c10708a9c0ed082d92d3a48beffb758e0b7
+  start: 2026-03-21T12:00:00+01:00
+  end: 2026-03-21T20:00:00+01:00
+  category: market
+  source: mercado_de_las_ranas
+  location: Barrio de las Letras - Calle de las Huertas, 2-47, Madrid
+  coordinates: 40.414413, -3.698524
+  url: https://barrioletras.com/mercado-de-las-ranas/
+  description: Mercado del Barrio de las Letras con puestos de artesanía, diseño, moda y gastronomía en la calle Huertas.

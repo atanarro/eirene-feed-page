@@ -66,6 +66,13 @@
       text-underline-offset: 0.15rem;
     }
 
+    .top-links {
+      display: flex;
+      gap: 0.65rem;
+      flex-wrap: wrap;
+      justify-content: flex-end;
+    }
+
     .filters {
       border: 1px solid var(--line);
       background: var(--paper);
@@ -463,7 +470,10 @@
         <h1>Event calendar</h1>
         <p class="sub">Filter by type, source, date range, text, score, and distance.</p>
       </div>
-      <a class="home-link" href="index.html">Back to feed index</a>
+      <div class="top-links">
+        <a class="home-link" href="survey.html">Open quick picks</a>
+        <a class="home-link" href="index.html">Back to feed index</a>
+      </div>
     </header>
 
     <section class="filters" aria-label="Calendar filters">

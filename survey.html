@@ -1,0 +1,959 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>eirene quick picks</title>
+  <style>
+    :root {
+      --bg: #f4f1e9;
+      --paper: #fbf9f4;
+      --panel: #f7f3eb;
+      --ink: #232220;
+      --muted: #68645b;
+      --line: #ddd5c6;
+      --accent: #4c5f40;
+      --accent-soft: #dfe7d8;
+      --chip: #f0e9dc;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--ink);
+      font-family: "Source Sans 3", "Segoe UI", sans-serif;
+      line-height: 1.45;
+    }
+
+    .wrap {
+      max-width: 920px;
+      margin: 0 auto;
+      padding: 1.25rem 1rem 2rem;
+    }
+
+    .top {
+      display: flex;
+      justify-content: space-between;
+      align-items: end;
+      gap: 1rem;
+      margin-bottom: 1rem;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: 1.5rem;
+      letter-spacing: 0.02em;
+      text-transform: lowercase;
+    }
+
+    .sub {
+      margin: 0.25rem 0 0;
+      color: var(--muted);
+      font-size: 0.95rem;
+    }
+
+    .top-links {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.65rem;
+      justify-content: flex-end;
+    }
+
+    .share-row {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: flex-end;
+      gap: 0.42rem;
+      margin-top: 0.35rem;
+    }
+
+    .share-btn {
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: #fff;
+      color: var(--accent);
+      font: inherit;
+      font-size: 0.84rem;
+      padding: 0.25rem 0.52rem;
+      cursor: pointer;
+    }
+
+    .share-btn:hover {
+      background: var(--chip);
+    }
+
+    .share-status {
+      margin: 0;
+      color: var(--muted);
+      font-size: 0.78rem;
+      min-height: 1.1em;
+    }
+
+    .top-link {
+      color: var(--accent);
+      text-underline-offset: 0.14rem;
+      font-size: 0.9rem;
+    }
+
+    .grid {
+      display: grid;
+      gap: 0.75rem;
+    }
+
+    .question {
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      background: var(--paper);
+      padding: 0.85rem;
+    }
+
+    .preset-row {
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      background: var(--paper);
+      padding: 0.72rem 0.85rem;
+      display: grid;
+      gap: 0.5rem;
+    }
+
+    .preset-title {
+      margin: 0;
+      color: var(--muted);
+      font-size: 0.84rem;
+      letter-spacing: 0.01em;
+    }
+
+    .preset-links {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.45rem;
+    }
+
+    .preset-link {
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      padding: 0.22rem 0.58rem;
+      text-decoration: none;
+      color: var(--accent);
+      background: #fff;
+      font-size: 0.82rem;
+    }
+
+    .preset-link:hover {
+      background: var(--chip);
+    }
+
+    .question-title {
+      margin: 0;
+      font-size: 1rem;
+      letter-spacing: 0.01em;
+    }
+
+    .question-sub {
+      margin: 0.2rem 0 0.55rem;
+      font-size: 0.86rem;
+      color: var(--muted);
+    }
+
+    .chips {
+      display: flex;
+      gap: 0.45rem;
+      flex-wrap: wrap;
+    }
+
+    .chip {
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      background: #fff;
+      color: var(--ink);
+      padding: 0.34rem 0.75rem;
+      font: inherit;
+      cursor: pointer;
+    }
+
+    .chip:hover {
+      background: var(--chip);
+    }
+
+    .chip.active {
+      border-color: #b8c6aa;
+      background: var(--accent-soft);
+      color: #25301f;
+    }
+
+    .status {
+      margin: 0.3rem 0 0;
+      color: var(--muted);
+      font-size: 0.84rem;
+    }
+
+    .results {
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      background: var(--panel);
+      padding: 0.9rem;
+    }
+
+    .results-title {
+      margin: 0;
+      font-size: 1.05rem;
+    }
+
+    .results-sub {
+      margin: 0.22rem 0 0.72rem;
+      color: var(--muted);
+      font-size: 0.88rem;
+    }
+
+    .event-list {
+      display: grid;
+      gap: 0.62rem;
+    }
+
+    .event-card {
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      background: #fff;
+      padding: 0.7rem;
+    }
+
+    .event-title {
+      margin: 0;
+      font-size: 1rem;
+      line-height: 1.3;
+    }
+
+    .event-meta {
+      margin-top: 0.25rem;
+      color: var(--muted);
+      font-size: 0.86rem;
+    }
+
+    .tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.35rem;
+      margin-top: 0.45rem;
+    }
+
+    .tag {
+      border: 1px solid var(--line);
+      background: var(--chip);
+      border-radius: 999px;
+      padding: 0.16rem 0.52rem;
+      font-size: 0.78rem;
+      color: #35332f;
+    }
+
+    .event-link {
+      margin-top: 0.52rem;
+      display: inline-block;
+      color: var(--accent);
+      text-underline-offset: 0.15rem;
+      font-size: 0.88rem;
+    }
+
+    .empty {
+      border: 1px dashed #cbbfa9;
+      border-radius: 10px;
+      background: #fcfaf6;
+      padding: 0.8rem;
+      color: var(--muted);
+      font-size: 0.9rem;
+    }
+
+    .relax {
+      margin-top: 0.6rem;
+      display: flex;
+      gap: 0.4rem;
+      flex-wrap: wrap;
+    }
+
+    .relax button {
+      border: 1px solid var(--line);
+      background: #fff;
+      border-radius: 8px;
+      padding: 0.28rem 0.52rem;
+      color: var(--ink);
+      font: inherit;
+      font-size: 0.82rem;
+      cursor: pointer;
+    }
+
+    @media (max-width: 720px) {
+      .top {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+
+      .top-links {
+        justify-content: flex-start;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <header class="top">
+      <div>
+        <h1>quick picks</h1>
+        <p class="sub">A short survey to get 1 to 3 nearby events.</p>
+      </div>
+      <div>
+        <div class="top-links">
+          <a class="top-link" href="index.html">Back to feed index</a>
+          <a class="top-link" href="calendar.html">Open full calendar</a>
+        </div>
+        <div class="share-row">
+          <button id="copy-link" class="share-btn" type="button">Copy current survey link</button>
+          <p id="share-status" class="share-status" aria-live="polite"></p>
+        </div>
+      </div>
+    </header>
+
+    <main class="grid">
+      <section class="preset-row" aria-label="Survey presets">
+        <p class="preset-title">Try a preset:</p>
+        <div class="preset-links">
+          <a class="preset-link" href="survey.html?when=now&what=cinema&period=evening">
+            Tonight cinema
+          </a>
+          <a class="preset-link" href="survey.html?when=saturday&what=exhibition">
+            Saturday exhibitions
+          </a>
+          <a class="preset-link" href="survey.html?when=tomorrow&what=music">
+            Tomorrow live music
+          </a>
+          <a class="preset-link" href="survey.html?when=sunday&what=family&period=afternoon">
+            Sunday family
+          </a>
+        </div>
+      </section>
+
+      <section class="question" aria-labelledby="when-title">
+        <h2 id="when-title" class="question-title">1) When?</h2>
+        <p class="question-sub">Pick one time window.</p>
+        <div id="when-options" class="chips" role="list"></div>
+      </section>
+
+      <section class="question" aria-labelledby="what-title">
+        <h2 id="what-title" class="question-title">2) What?</h2>
+        <p class="question-sub">Choose a type or keep it open.</p>
+        <div id="what-options" class="chips" role="list"></div>
+      </section>
+
+      <section class="question" aria-labelledby="refine-title">
+        <h2 id="refine-title" class="question-title">3) Refine</h2>
+        <p class="question-sub">Optional details to narrow recommendations.</p>
+        <div id="period-options" class="chips" role="list"></div>
+        <p class="status" id="geo-status">Distance: anywhere</p>
+        <div id="distance-options" class="chips" role="list"></div>
+      </section>
+
+      <section class="results" aria-live="polite">
+        <h2 class="results-title">Your picks</h2>
+        <p id="results-sub" class="results-sub">Loading events...</p>
+        <div id="event-list" class="event-list"></div>
+      </section>
+    </main>
+  </div>
+
+  <script>
+    const DATA_URL = "calendar-events.json";
+    const MAX_RESULTS = 3;
+    const DEFAULT_STATE = {"when":"today","category":"any","period":"any","distance":"any"};
+    const state = {
+      when: DEFAULT_STATE.when,
+      category: DEFAULT_STATE.category,
+      period: DEFAULT_STATE.period,
+      distance: DEFAULT_STATE.distance,
+      coords: null,
+      events: [],
+      now: new Date(),
+    };
+
+    const categoryOptions = [["any","Any"],["cinema","Cinema"],["exhibition","Exhibition"],["theater","Theater"],["music","Music"],["market","Market"],["talk","Talk"],["walk","Walk"],["family","Family"],["other","Other"]];
+
+    const categoryAliases = {"children":"family"};
+
+    const periodOptions = [["any","Any time"],["morning","Morning"],["afternoon","Afternoon"],["evening","Evening"],["late","Late"]];
+
+    const distanceOptions = [["any","Anywhere"],["near2","Near me (2 km)"],["near5","Short trip (5 km)"]];
+
+    function allowedValues(options) {
+      return new Set(options.map((item) => item[0]));
+    }
+
+    function normalizeChoice(value, allowed, aliases = null) {
+      if (!value) {
+        return null;
+      }
+      const normalized = String(value).trim().toLowerCase();
+      const resolved = aliases && aliases[normalized] ? aliases[normalized] : normalized;
+      return allowed.has(resolved) ? resolved : null;
+    }
+
+    function applyQueryState() {
+      const params = new URLSearchParams(window.location.search);
+      const whenFromQuery = params.get("when");
+      const categoryFromQuery = params.get("what") || params.get("category") || params.get("type");
+      const periodFromQuery = params.get("period") || params.get("time");
+      const distanceFromQuery = params.get("distance");
+      const allowedWhen = new Set(buildWhenOptions(state.now).map((option) => option.id));
+      const allowedCategory = allowedValues(categoryOptions);
+      const allowedPeriod = allowedValues(periodOptions);
+      const allowedDistance = allowedValues(distanceOptions);
+      const normalizedWhen = normalizeChoice(whenFromQuery, allowedWhen);
+      const normalizedCategory = normalizeChoice(
+        categoryFromQuery,
+        allowedCategory,
+        categoryAliases
+      );
+      const normalizedPeriod = normalizeChoice(periodFromQuery, allowedPeriod);
+      const normalizedDistance = normalizeChoice(distanceFromQuery, allowedDistance);
+
+      if (normalizedWhen) {
+        state.when = normalizedWhen;
+      }
+      if (normalizedCategory) {
+        state.category = normalizedCategory;
+      }
+      if (normalizedPeriod) {
+        state.period = normalizedPeriod;
+      }
+      if (normalizedDistance) {
+        state.distance = normalizedDistance;
+      }
+
+      const lat = Number.parseFloat(params.get("lat") || "");
+      const lon = Number.parseFloat(params.get("lon") || "");
+      if (Number.isFinite(lat) && Number.isFinite(lon)) {
+        state.coords = { lat, lon };
+      }
+    }
+
+    function parseEvent(raw) {
+      const time = raw.time && /^\d{2}:\d{2}$/.test(raw.time) ? raw.time : "00:00";
+      const startAt = new Date(`${raw.start_date}T${time}:00`);
+      const endDate = raw.end_date || raw.start_date;
+      const endAt = new Date(`${endDate}T23:59:59`);
+      return {
+        ...raw,
+        startAt,
+        endAt,
+      };
+    }
+
+    function buildWhenOptions(now) {
+      const options = [
+        { id: "today", label: "Today" },
+        { id: "tomorrow", label: "Tomorrow" },
+      ];
+      const weekdayMap = [
+        { id: "sunday", day: 0, label: "This Sunday" },
+        { id: "friday", day: 5, label: "This Friday" },
+        { id: "saturday", day: 6, label: "This Saturday" },
+      ];
+      for (const option of weekdayMap) {
+        if (option.day !== now.getDay()) {
+          options.push(option);
+        }
+      }
+      options.unshift({ id: "now", label: "Now / today" });
+      options.unshift({ id: "any", label: "Any day" });
+      return options;
+    }
+
+    function setGeoStatus(message) {
+      const node = document.getElementById("geo-status");
+      if (node) {
+        node.textContent = message;
+      }
+    }
+
+    function setShareStatus(message) {
+      const node = document.getElementById("share-status");
+      if (node) {
+        node.textContent = message;
+      }
+    }
+
+    function buildShareUrl() {
+      const url = new URL(window.location.href);
+      const params = new URLSearchParams();
+
+      if (state.when !== DEFAULT_STATE.when) {
+        params.set("when", state.when);
+      }
+      if (state.category !== DEFAULT_STATE.category) {
+        params.set("what", state.category);
+      }
+      if (state.period !== DEFAULT_STATE.period) {
+        params.set("period", state.period);
+      }
+      if (state.distance !== DEFAULT_STATE.distance) {
+        params.set("distance", state.distance);
+      }
+      if (state.coords && state.distance !== "any") {
+        params.set("lat", state.coords.lat.toFixed(6));
+        params.set("lon", state.coords.lon.toFixed(6));
+      }
+
+      url.search = params.toString();
+      return url.toString();
+    }
+
+    async function copyCurrentSurveyLink() {
+      const value = buildShareUrl();
+      try {
+        if (navigator.clipboard && navigator.clipboard.writeText) {
+          await navigator.clipboard.writeText(value);
+        } else {
+          throw new Error("Clipboard API unavailable");
+        }
+        setShareStatus("Link copied.");
+      } catch (_error) {
+        setShareStatus("Copy failed. Copy from your browser address bar.");
+      }
+    }
+
+    function renderChoices(targetId, options, stateKey) {
+      const container = document.getElementById(targetId);
+      if (!container) {
+        return;
+      }
+      container.innerHTML = "";
+      for (const [value, label] of options) {
+        const button = document.createElement("button");
+        button.type = "button";
+        button.className = "chip";
+        button.textContent = label;
+        button.dataset.value = value;
+        button.setAttribute("aria-pressed", String(state[stateKey] === value));
+        if (state[stateKey] === value) {
+          button.classList.add("active");
+        }
+        button.addEventListener("click", () => {
+          state[stateKey] = value;
+          if (stateKey === "distance") {
+            onDistanceChange();
+          }
+          renderAll();
+        });
+        container.appendChild(button);
+      }
+    }
+
+    function renderWhenChoices() {
+      const container = document.getElementById("when-options");
+      if (!container) {
+        return;
+      }
+      container.innerHTML = "";
+      for (const option of buildWhenOptions(state.now)) {
+        const button = document.createElement("button");
+        button.type = "button";
+        button.className = "chip";
+        button.textContent = option.label;
+        button.dataset.value = option.id;
+        button.setAttribute("aria-pressed", String(state.when === option.id));
+        if (state.when === option.id) {
+          button.classList.add("active");
+        }
+        button.addEventListener("click", () => {
+          state.when = option.id;
+          renderAll();
+        });
+        container.appendChild(button);
+      }
+    }
+
+    function sameDate(a, b) {
+      return (
+        a.getFullYear() === b.getFullYear() &&
+        a.getMonth() === b.getMonth() &&
+        a.getDate() === b.getDate()
+      );
+    }
+
+    function startOfDay(date) {
+      return new Date(date.getFullYear(), date.getMonth(), date.getDate(), 0, 0, 0, 0);
+    }
+
+    function datePlusDays(date, days) {
+      const copy = new Date(date);
+      copy.setDate(copy.getDate() + days);
+      return copy;
+    }
+
+    function nextWeekdayDate(now, day) {
+      const currentDay = now.getDay();
+      const delta = (day - currentDay + 7) % 7;
+      return startOfDay(datePlusDays(now, delta));
+    }
+
+    function whenMatches(event) {
+      const selected = state.when;
+      if (selected === "any") {
+        return true;
+      }
+
+      if (selected === "now") {
+        return sameDate(event.startAt, state.now) && event.startAt >= state.now;
+      }
+
+      const targetDate =
+        selected === "today"
+          ? startOfDay(state.now)
+          : selected === "tomorrow"
+            ? startOfDay(datePlusDays(state.now, 1))
+            : selected === "friday"
+              ? nextWeekdayDate(state.now, 5)
+              : selected === "saturday"
+                ? nextWeekdayDate(state.now, 6)
+                : nextWeekdayDate(state.now, 0);
+
+      return (
+        sameDate(event.startAt, targetDate) ||
+        (event.startAt <= targetDate && event.endAt >= targetDate)
+      );
+    }
+
+    function periodMatches(event) {
+      if (state.period === "any") {
+        return true;
+      }
+      const hour = event.startAt.getHours();
+      if (state.period === "morning") {
+        return hour >= 6 && hour < 12;
+      }
+      if (state.period === "afternoon") {
+        return hour >= 12 && hour < 18;
+      }
+      if (state.period === "evening") {
+        return hour >= 18 && hour < 22;
+      }
+      return hour >= 22 || hour < 6;
+    }
+
+    function toRadians(value) {
+      return (value * Math.PI) / 180;
+    }
+
+    function distanceKm(fromLat, fromLon, toLat, toLon) {
+      const radius = 6371;
+      const dLat = toRadians(toLat - fromLat);
+      const dLon = toRadians(toLon - fromLon);
+      const a =
+        Math.sin(dLat / 2) ** 2 +
+        Math.cos(toRadians(fromLat)) * Math.cos(toRadians(toLat)) * Math.sin(dLon / 2) ** 2;
+      return radius * 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+    }
+
+    function getDistanceRadius() {
+      if (state.distance === "near2") {
+        return 2;
+      }
+      if (state.distance === "near5") {
+        return 5;
+      }
+      return null;
+    }
+
+    async function requestCoords() {
+      if (!navigator.geolocation) {
+        setGeoStatus("Distance: geolocation not available on this device.");
+        return;
+      }
+
+      setGeoStatus("Distance: requesting your location...");
+      await new Promise((resolve) => {
+        navigator.geolocation.getCurrentPosition(
+          (position) => {
+            state.coords = {
+              lat: position.coords.latitude,
+              lon: position.coords.longitude,
+            };
+            const radius = getDistanceRadius();
+            setGeoStatus(
+              radius
+                ? `Distance: using your location within ${radius} km.`
+                : "Distance: using your location."
+            );
+            resolve();
+          },
+          () => {
+            setGeoStatus("Distance: location unavailable, showing anywhere.");
+            state.coords = null;
+            resolve();
+          },
+          { timeout: 7000 }
+        );
+      });
+    }
+
+    async function onDistanceChange() {
+      const radius = getDistanceRadius();
+      if (radius === null) {
+        setGeoStatus("Distance: anywhere");
+        return;
+      }
+      if (!state.coords) {
+        await requestCoords();
+      } else {
+        setGeoStatus(`Distance: using your location within ${radius} km.`);
+      }
+    }
+
+    function categoryMatches(event) {
+      if (state.category === "any") {
+        return true;
+      }
+      if (state.category === "family") {
+        return event.category === "family" || event.category === "children";
+      }
+      return event.category === state.category;
+    }
+
+    function scoreEvent(event) {
+      let score = 0;
+      const hoursAhead = (event.startAt.getTime() - state.now.getTime()) / 3600000;
+      if (hoursAhead >= 0) {
+        score += Math.max(0, 3 - hoursAhead / 24);
+      }
+
+      if (state.category !== "any" && categoryMatches(event)) {
+        score += 3;
+      }
+      if (state.period !== "any" && periodMatches(event)) {
+        score += 1.5;
+      }
+      if (event.description) {
+        score += 0.2;
+      }
+
+      const radius = getDistanceRadius();
+      if (
+        radius !== null &&
+        state.coords &&
+        typeof event.lat === "number" &&
+        typeof event.lon === "number"
+      ) {
+        const kilometers = distanceKm(state.coords.lat, state.coords.lon, event.lat, event.lon);
+        if (kilometers > radius) {
+          return -1;
+        }
+        score += Math.max(0, 2 - (kilometers / radius) * 2);
+      }
+
+      return score;
+    }
+
+    function buildReasonTags(event) {
+      const tags = [];
+      if (state.when !== "any") {
+        tags.push(state.when.replace("now", "now/today"));
+      }
+      if (state.category !== "any") {
+        tags.push(event.category === "children" ? "family" : event.category);
+      }
+      if (state.period !== "any") {
+        tags.push(state.period);
+      }
+      const radius = getDistanceRadius();
+      if (
+        radius !== null &&
+        state.coords &&
+        typeof event.lat === "number" &&
+        typeof event.lon === "number"
+      ) {
+        const kilometers = distanceKm(state.coords.lat, state.coords.lon, event.lat, event.lon);
+        tags.push(`${kilometers.toFixed(1)} km`);
+      }
+      return tags;
+    }
+
+    function pickDiverseEvents(scored) {
+      const selected = [];
+      const seenSignatures = new Set();
+      for (const item of scored) {
+        if (selected.length >= MAX_RESULTS) {
+          break;
+        }
+        const signature = `${item.event.venue || ""}|${item.event.category || ""}`;
+        if (seenSignatures.has(signature)) {
+          continue;
+        }
+        selected.push(item);
+        seenSignatures.add(signature);
+      }
+      if (selected.length < MAX_RESULTS) {
+        for (const item of scored) {
+          if (selected.length >= MAX_RESULTS) {
+            break;
+          }
+          if (!selected.includes(item)) {
+            selected.push(item);
+          }
+        }
+      }
+      return selected;
+    }
+
+    function applySurvey() {
+      const filtered = state.events
+        .filter((event) => event.startAt >= state.now)
+        .filter(whenMatches)
+        .filter(categoryMatches)
+        .filter(periodMatches);
+
+      const scored = filtered
+        .map((event) => {
+          const score = scoreEvent(event);
+          return { event, score };
+        })
+        .filter((item) => item.score >= 0)
+        .sort((a, b) => (b.score - a.score) || (a.event.startAt - b.event.startAt));
+
+      return pickDiverseEvents(scored);
+    }
+
+    function formatEventDate(event) {
+      const date = event.startAt.toLocaleDateString(undefined, {
+        weekday: "short",
+        day: "numeric",
+        month: "short",
+      });
+      const time = event.time && event.time !== "00:00" ? event.time : "time TBA";
+      return `${date}, ${time}`;
+    }
+
+    function relaxChoice(change) {
+      if (change === "distance") {
+        state.distance = "any";
+      }
+      if (change === "category") {
+        state.category = "any";
+      }
+      if (change === "period") {
+        state.period = "any";
+      }
+      renderAll();
+    }
+
+    function renderEvents() {
+      const list = document.getElementById("event-list");
+      const sub = document.getElementById("results-sub");
+      if (!list || !sub) {
+        return;
+      }
+      const picks = applySurvey();
+      list.innerHTML = "";
+      if (!picks.length) {
+        sub.textContent = "No exact matches. Relax one condition.";
+        const empty = document.createElement("div");
+        empty.className = "empty";
+        empty.innerHTML = "Try broadening one filter:";
+        const actions = document.createElement("div");
+        actions.className = "relax";
+        const buttons = [
+          ["distance", "Expand distance"],
+          ["category", "Any type"],
+          ["period", "Any time"],
+        ];
+        for (const [key, label] of buttons) {
+          const button = document.createElement("button");
+          button.type = "button";
+          button.textContent = label;
+          button.addEventListener("click", () => relaxChoice(key));
+          actions.appendChild(button);
+        }
+        empty.appendChild(actions);
+        list.appendChild(empty);
+        return;
+      }
+
+      sub.textContent =
+        `Showing ${picks.length} recommendation${picks.length === 1 ? "" : "s"}.`;
+      for (const item of picks) {
+        const event = item.event;
+        const card = document.createElement("article");
+        card.className = "event-card";
+        const tags = buildReasonTags(event)
+          .map((tag) => `<span class="tag">${tag}</span>`)
+          .join("");
+
+        card.innerHTML = `
+          <h3 class="event-title">${event.title}</h3>
+          <div class="event-meta">
+            ${formatEventDate(event)} · ${event.venue || "Venue TBA"}
+          </div>
+          <div class="tags">${tags}</div>
+          <a
+            class="event-link"
+            href="${event.url}"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Open source page
+          </a>
+        `;
+        list.appendChild(card);
+      }
+    }
+
+    function renderAll() {
+      renderWhenChoices();
+      renderChoices("what-options", categoryOptions, "category");
+      renderChoices("period-options", periodOptions, "period");
+      renderChoices("distance-options", distanceOptions, "distance");
+      renderEvents();
+      setShareStatus("");
+    }
+
+    function bindCopyLink() {
+      const button = document.getElementById("copy-link");
+      if (!button) {
+        return;
+      }
+      button.addEventListener("click", () => {
+        copyCurrentSurveyLink();
+      });
+    }
+
+    async function loadEvents() {
+      try {
+        const response = await fetch(DATA_URL);
+        if (!response.ok) {
+          throw new Error(`HTTP ${response.status}`);
+        }
+        const payload = await response.json();
+        state.events = payload
+          .map(parseEvent)
+          .filter((event) => !Number.isNaN(event.startAt.getTime()));
+        renderAll();
+      } catch (_error) {
+        const sub = document.getElementById("results-sub");
+        if (sub) {
+          sub.textContent = "Could not load event data. Start the local server and retry.";
+        }
+      }
+    }
+
+    async function init() {
+      bindCopyLink();
+      applyQueryState();
+      if (state.distance !== "any") {
+        await onDistanceChange();
+      }
+      renderAll();
+      loadEvents();
+    }
+
+    init();
+  </script>
+</body>
+</html>

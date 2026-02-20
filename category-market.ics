@@ -117,7 +117,7 @@ BEGIN:VEVENT
 SUMMARY:Cata de Quesos de Oveja  La Mueda 7 y  8 de marzo| Mercado de Moto
  res
 DTSTART;TZID=Europe/Madrid:20260307T130000
-DTEND;TZID=Europe/Madrid:20260308T183000
+DTEND;TZID=Europe/Madrid:20260308T140000
 UID:4b351015425948bc55c9c46ee29a4c7c09b886174958de0c230163389b958faf
 CATEGORIES:market
 DESCRIPTION:Regálate un plan gourmet en Madrid: cata de quesos artesanale
@@ -137,6 +137,19 @@ DESCRIPTION:Crea tu propio jardín vertical natural y aprende paso a paso
  a diseñar un cuadro vivo para decorar tu\n\nhttps://www.eventbrite.es/e/e
  ntradas-taller-de-jardin-vertical-natural-en-mercado-de-motores-1983451928
  110
+LOCATION:Mercado de motores - 61 Paseo de las Delicias\, Madrid\, MD\, 280
+ 45
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Taller de Smoothails con Pardorán en Mercado de Motores
+DTSTART;TZID=Europe/Madrid:20260307T173000
+DTEND;TZID=Europe/Madrid:20260308T183000
+UID:ff97b9d126ce14308e2dcb619721747a7f225db700c0425fd4a0c78155266e98
+CATEGORIES:market
+DESCRIPTION:Descubre otra forma de disfrutar tus combinados: taller de 1 h
+ ora para crear smoothails\, frescos\, equilibrados y fáciles de hacer en\
+ n\nhttps://www.eventbrite.es/e/entradas-taller-de-smoothails-con-pardoran-
+ en-mercado-de-motores-1983541137939
 LOCATION:Mercado de motores - 61 Paseo de las Delicias\, Madrid\, MD\, 280
  45
 END:VEVENT
@@ -175,5 +188,16 @@ DESCRIPTION:Mercado de productores locales y artesanos en Planetario con a
  .\n\nhttps://mercadoproductores.es/mp-planetario/
 LOCATION:Mercado Productores Planetario - Avenida del Planetario esquina C
  alle Meneses\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mercado de las Ranas
+DTSTART;TZID=Europe/Madrid:20260321T120000
+DTEND;TZID=Europe/Madrid:20260321T200000
+UID:0cd88d75feff7979f14018c406759c10708a9c0ed082d92d3a48beffb758e0b7
+CATEGORIES:market
+DESCRIPTION:Mercado del Barrio de las Letras con puestos de artesanía\, d
+ iseño\, moda y gastronomía en la calle Huertas.\n\nhttps://barrioletras.
+ com/mercado-de-las-ranas/
+LOCATION:Barrio de las Letras - Calle de las Huertas\, 2-47\, Madrid
 END:VEVENT
 END:VCALENDAR
