@@ -2,39 +2,22 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Tres noches en Ítaca
-DTSTART;TZID=Europe/Madrid:20260220T193000
-DTEND;TZID=Europe/Madrid:20260308T193000
-UID:ed9da931253d87d489ae0d68f035f4a45a3125745f1e3409183a14fc7505146b
-CATEGORIES:theater
-DESCRIPTION:Entradas agotadas desde 15.75€ | Tags: JOBO\n\nhttps://tiend
- a.madrid-destino.com/es/nave-10/tres-noches-en-itaca/
-LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Yo soy 451
-DTSTART;TZID=Europe/Madrid:20260220T193000
-UID:c08adc39b290396259d8148b8d61ac303a4cbb23a4321e11245f0daf4c508297
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/yo-soy-451/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chistes contra Franco
-DTSTART;TZID=Europe/Madrid:20260220T213000
-UID:18565f211231bb388dc484674ca8865bbb4dcd58f36d57a26cd3cc2c8764589e
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/chistes-contra-franc
- o/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Isa & Javi
 DTSTART;TZID=Europe/Madrid:20260221T130000
 UID:a32ee5552d3b599e121621ade0ef06af59400bbe2469858571c85e067a24d686
 CATEGORIES:theater
 DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/isa-y-javi/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tres noches en Ítaca
+DTSTART;TZID=Europe/Madrid:20260221T193000
+DTEND;TZID=Europe/Madrid:20260308T193000
+UID:ed9da931253d87d489ae0d68f035f4a45a3125745f1e3409183a14fc7505146b
+CATEGORIES:theater
+DESCRIPTION:Entradas agotadas desde 15.75€ | Tags: JOBO\n\nhttps://tiend
+ a.madrid-destino.com/es/nave-10/tres-noches-en-itaca/
+LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yo soy 451
@@ -155,7 +138,7 @@ SUMMARY:Hoy tengo algo que hacer
 DTSTART;TZID=Europe/Madrid:20260228T193000
 UID:5eb4fdd427e8397159856aba40ab5fab1b86a913c9325026e907d8e9e9905db2
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 24 plazas!\n\nhttps://teatrodelbarrio.com/hoy
+DESCRIPTION:¡Ya solo quedan 17 plazas!\n\nhttps://teatrodelbarrio.com/hoy
  -tengo-algo-que-hacer/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
@@ -166,6 +149,32 @@ UID:653dce1d67c8f5b715a982b9150478ee47542ade69377ca961a227bc1d65392e
 CATEGORIES:theater
 DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/isa-y-javi/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tres noches en Ítaca
+DTSTART;TZID=Europe/Madrid:20260308T193000
+UID:79d90d7fc56b5f66cfcfaa10237226b981047e05c58c8e9c4786a8dd27342d27
+CATEGORIES:theater
+DESCRIPTION:Cuando la madre muere\, el muro cae y la muerte está ahí\, e
+ nfrente\, ya ineludible. Una mujer\, cerca de los 50\, deja a su familia y
+  su trabajo de profesora de griego en un instituto para irse a vivir a una
+  isla griega: Ítaca. Veinte años después\, sus tres hijas viajan a Grec
+ ia para organizar su entierro. Estas Tres noches en Ítaca les dará la op
+ ortunidad de descubrir quién fue su madre. Alberto Conejero pone en manos
+  de Maria Goiricelaya este texto sobre el individuo dentro de la familia y
+  fuera de ella. Una pieza ágil que Conejero denomina tragicomedia\, porqu
+ e ¿qué puede llevar a alguien a abandonar su vida\, su familia\, su trab
+ ajo e irse a vivir a kilómetros de distancia? Las hijas de Alicia\, Ariad
+ na\, Penélope y Elena\, todas ellas entre los 40 y los 50 años\, deben d
+ escubrir qué le sucedió a su madre\, y cómo vivió todo ese tiempo tan 
+ lejos de ellas. Pero también ha llegado el momento de que descubran quié
+ nes son ellas mismas. Aunque no quieran. Tres noches en Ítaca es un entie
+ rro en Grecia\, en una isla en donde la gente aún canta\, pero también e
+ s un nacimiento\, el de una etapa de madurez en la vida de Ariadna\, Elena
+  y Penélope. Rocío Bello Dramaturgista de la temporada 25/26 de Nave 10 
+ Matadero\n\nhttps://www.mataderomadrid.org/programacion/tres-noches-en-ita
+ ca
+LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Niebla

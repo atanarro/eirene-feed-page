@@ -53,19 +53,6 @@ LOCATION:Archivo Regional de la Comunidad de Madrid - de Ramirez de Prado\
  , 3\, Madrid\, 28045
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Exponencial. De analógicos a digitales
-DTSTART;TZID=Europe/Madrid:20240514T000000
-DTEND;TZID=Europe/Madrid:20271231T000000
-UID:f5757770ba2619f835632f368e9ae1c25e8353ae577ea62f600b1f84611272c3
-CATEGORIES:exhibition
-DESCRIPTION:Exposición permanente que explora el creciente impacto que ha
-  tenido el desarrollo de las telecomunicaciones en todos los ámbitos de n
- uestras vidas (Espacio Fundación Telefónica.\n\nhttp://espacio.fundacio
- ntelefonica.com/
-LOCATION:Espacio Fundación Telefónica - de Fuencarral\, 3\, Madrid\, 280
- 04
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Colección Masaveu. Arte español del siglo XX. De Picasso a Barce
  ló
 DTSTART;TZID=Europe/Madrid:20241009T000000
@@ -146,6 +133,17 @@ DESCRIPTION:Exposición que ofrece un recorrido por la historia de la foto
  2026).\n\nhttps://www.ign.es/web/ign/portal/ic-salas-expo-madrid-2025
 LOCATION:Madrid - C/ General Ibáñez de Ibero\, 3\, Madrid\, Madrid\, 280
  03
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El sueño de una noche de verano. Julia Margaret Cameron
+DTSTART;TZID=Europe/Madrid:20250611T000000
+DTEND;TZID=Europe/Madrid:20260611T000000
+UID:75baa5d8c58c6ee77fc565a69ffab572c2174c4f1802a9c767ef1e062b09eb13
+CATEGORIES:exhibition
+DESCRIPTION:Exposición que recupera la intensidad poética y teatral de l
+ as imágenes de la fotógrafa británica (Teatro Real. Hasta 11 junio 2026
+ ).\n\nhttps://phe.es/exposicion/el-sueno-de-una-noche-de-verano/
+LOCATION:Teatro Real - de Isabel II\, s/n\, Madrid\, 28013
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:I Creative Campus Awards. Finalistas
@@ -442,13 +440,13 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Luis Pérez Calvo. Cromos de artista
 DTSTART;TZID=Europe/Madrid:20251023T000000
-DTEND;TZID=Europe/Madrid:20260426T000000
+DTEND;TZID=Europe/Madrid:20260920T000000
 UID:d1a38d5c3fda69f1b1cd0cbd644d7f9f891b83bb5c54d1351766903fbb53e43b
 CATEGORIES:exhibition
 DESCRIPTION:El artista multidisciplinar presenta una exposición integrada
   por una selección de «cromos» y un mural realizado in situ (CentroCent
- ro. Hasta 26 abr).\n\nhttps://www.centrocentro.org/exposicion/luis-perez-c
- alvo
+ ro. Hasta 20 sept).\n\nhttps://www.centrocentro.org/exposicion/luis-perez-
+ calvo
 LOCATION:CentroCentro - de Cibeles\, 1\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
@@ -470,8 +468,8 @@ UID:5b44b14662313a15ffd2a1cef4e8fa88ff48e5c65fba6cf39755ba9694e78e06
 CATEGORIES:exhibition
 DESCRIPTION:Exposición que transmite la esencia del pensamiento indígena
   latinoamericano sobre la resiliencia a la crisis mundial (Museo de Améri
- ca. 23 oct a 8 mar).\n\nhttps://www.cultura.gob.es/museodeamerica/exposici
- ones/exposiciones-temporales/2025-pensar-bonito.html
+ ca. 23 oct - 22 mar).\n\nhttps://www.cultura.gob.es/museodeamerica/exposic
+ iones/exposiciones-temporales/2025-pensar-bonito.html
 LOCATION:Museo de América - de los Reyes Católicos\, 6\, Madrid\, 28040
 END:VEVENT
 BEGIN:VEVENT
@@ -724,21 +722,6 @@ DESCRIPTION:Arte\, lenguaje y energía confluyen en esta instalación del
 LOCATION:Instituto Cervantes - de Alcalá\, 49\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ignacio Bolívar y Urrutia (1850-1944). Director del Museo de Cien
- cias Naturales
-DTSTART;TZID=Europe/Madrid:20251127T000000
-DTEND;TZID=Europe/Madrid:20260531T000000
-UID:80784ead747d4a1b823d1478a6eeaa5a17ab833f582566a716a46a8bd7f928e9
-CATEGORIES:exhibition
-DESCRIPTION:Homenaje al que fuera director del Museo Nacional de Ciencias 
- Naturales en el primer tercio del siglo XX\, responsable de su modernizaci
- ón y prestigio (MNCN. A partir 27 noviembre).\n\nhttps://www.mncn.csic.es
- /es/visita-el-mncn/exposiciones/ignacio-bolivar-y-urrutia-1850-1944-direct
- or-del-museo-de-ciencias
-LOCATION:Museo Nacional de Ciencias Naturales - de José Gutierrez Abascal
- \, 2\, Madrid\, 28006
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Let's PLay. Juguemos en la colección
 DTSTART;TZID=Europe/Madrid:20251127T000000
 DTEND;TZID=Europe/Madrid:20260308T000000
@@ -750,19 +733,6 @@ DESCRIPTION:Varias intervenciones artísticas invitan a reinterpretar la c
  sur.org/es/single_agenda/714
 LOCATION:Museo Nacional de Artes Decorativas - de Montalbán\, 12\, Madrid
  \, 28014
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Moldear el mundo: del barro y las mujeres
-DTSTART;TZID=Europe/Madrid:20251127T000000
-DTEND;TZID=Europe/Madrid:20260220T000000
-UID:22d7456c9eab0a3f4b72e76e68819b2639b8e65b106fa47fc5886897980cfd9f
-CATEGORIES:exhibition
-DESCRIPTION:Muestra que reúne el trabajo de las mujeres africanas Mamisi 
- Walas (Mouleo Amebédé)\, Seyni Awa Camara y Reinata Sadimba (La Nave Sá
- nchez–Ubiría. 27 nov a 20 feb).\n\nhttps://sanchezubiria.com/exposicion
- es/
-LOCATION:La Nave Sánchez–Ubiría - de Valentín Beato\, 11 – Bajo B\,
-  Madrid\, Madrid\, 28037
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pintura cuzqueña. Centro y periferia
@@ -1073,6 +1043,18 @@ DESCRIPTION:El espacio dialogará con esta gran instalación de pinturas\,
 LOCATION:CentroCentro - de Cibeles\, 1\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Shinuk Suh: The Engineering of Comfort
+DTSTART;TZID=Europe/Madrid:20251218T000000
+DTEND;TZID=Europe/Madrid:20260221T000000
+UID:7ad78aade9fb8bde6034e826b1e4f311d0154f63869acf872655e4f43e14e4e7
+CATEGORIES:exhibition
+DESCRIPTION:El artista surcoreano presenta varias esculturas e instalacion
+ es a través de las que cuestiona el confort como posible sistema de regul
+ ación del cuerpo (SOLO CSV. Hasta 21 febrero).\n\nhttps://solocontemporar
+ y.com/shinuk-suhs-the-engineering-of-comfort-at-movimiento-37/
+LOCATION:SOLO CSV - de San Vicente\, 36\, Madrid\, 28008
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Intolerancia. España en una Europa convulsa\, 1914-1945
 DTSTART;TZID=Europe/Madrid:20251219T000000
 DTEND;TZID=Europe/Madrid:20260412T000000
@@ -1100,7 +1082,7 @@ BEGIN:VEVENT
 SUMMARY:Este libro es mío... la heráldica como elemento distintivo en la
   producción del libro antiguo
 DTSTART;TZID=Europe/Madrid:20260108T000000
-DTEND;TZID=Europe/Madrid:20260220T000000
+DTEND;TZID=Europe/Madrid:20260410T000000
 UID:47b39e561807a171f999bfe9336eba4aab85a76ff74a89808a96eed73ab57176
 CATEGORIES:exhibition
 DESCRIPTION:Exposición que explora cómo la heráldica se empleaba en la
@@ -1207,6 +1189,20 @@ DESCRIPTION:Una muestra de aparatos científicos antiguos en el marco sing
  Barroco.\n\nhttps://site.educa.madrid.org/ies.sanisidro.madrid/index.php/2
  026/02/06/las-raices-de-la-ciencia/
 LOCATION:Instituto San Isidro - de Toledo\, 39\, Madrid\, 28005
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Suave patria. La grandeza del arte popular mexicano
+DTSTART;TZID=Europe/Madrid:20260119T000000
+DTEND;TZID=Europe/Madrid:20260510T000000
+UID:216ecb8a020eeee0f83b73b679d13dc88b5074f2a94911b4decdcff91deee191
+CATEGORIES:exhibition
+DESCRIPTION:La riqueza cultural mexicana\, sus tradiciones y el arte popul
+ ar son los protagonistas de esta exposición formada por 80 piezas de dist
+ intas zonas del país (Fundación Casa de México en España.\n\nhttps://w
+ ww.casademexico.es/exposicion/suave-patria-la-grandeza-del-arte-popular-me
+ xicano/
+LOCATION:Fundación Casa de México en España - de Alberto Aguilera\, 20\
+ , Madrid\, 28015
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:El centro puede estar en todas partes. Quisqueya Henríquez
@@ -1405,6 +1401,18 @@ DESCRIPTION:Una muestra que reúne las mejores fotografías de carácter h
 LOCATION:Fundación Ortega - Marañón - de Fortuny\, 53\, Madrid\, 28010
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Sillón frailero
+DTSTART;TZID=Europe/Madrid:20260205T000000
+DTEND;TZID=Europe/Madrid:20260224T000000
+UID:8636e5afeefdb06cbf4cd2aea6e3ed925f19812a7a837aafbc960a83c75e1209
+CATEGORIES:exhibition
+DESCRIPTION:Exposición que rinde homenaje a este emblemático diseño de 
+ José Luis Pérez Ortega en su 40º aniversario (Escuela de Arte La Palma.
+  Hasta 24 febrero).\n\nhttps://ealapalma.es/exposiciones/exposicion-perez-
+ ortega-sillon-frailero/
+LOCATION:Escuela de Arte La Palma - de la Palma\, 46\, Madrid\, 28004
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:André Ricard. Diseño en uso
 DTSTART;TZID=Europe/Madrid:20260206T000000
 DTEND;TZID=Europe/Madrid:20260503T000000
@@ -1593,18 +1601,6 @@ DESCRIPTION:Exposición inmersiva que permite adentrarse en la fascinante
 LOCATION:Nomad Museo Inmersivo - Gran Vía\, 78\, Madrid\, 28013
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ecos de la moda romántica
-DTSTART;TZID=Europe/Madrid:20260213T000000
-DTEND;TZID=Europe/Madrid:20260517T000000
-UID:3f7979950b6e5606a310b7f693a9da6c7d46234d4b344ced4d0a03277ff96600
-CATEGORIES:exhibition
-DESCRIPTION:Exposición de varios modelos de moda romántica realizados po
- r algunos de los diseñadores más destacados del siglo XX y XXI como Bale
- nciaga o Pertegaz (Museo del Romanticismo.\n\nhttps://www.cultura.gob.es/
- mromanticismo/programacion/exposiciones/actuales/2026-ecos.html
-LOCATION:Museo del Romanticismo - de San Mateo\, 13\, Madrid\, 28004
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Dorothy Iannone. Una y otra vez
 DTSTART;TZID=Europe/Madrid:20260214T000000
 DTEND;TZID=Europe/Madrid:20260830T000000
@@ -1677,6 +1673,18 @@ DESCRIPTION:La muestra presenta un excepcional conjunto de tablas policrom
  s/man/exposicion/novedades-arqueologicas/20260217-imagenes-corte-medieval-
  toledo.html
 LOCATION:Museo Arqueológico Nacional - de Serrano\, 13\, Madrid\, 28001
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El rostro significa lo infinito
+DTSTART;TZID=Europe/Madrid:20260218T000000
+DTEND;TZID=Europe/Madrid:20260410T000000
+UID:51f69c5b9ad76e4e3b8ef7e86f6b3ec7d62647306e10835cd485e958532da687
+CATEGORIES:exhibition
+DESCRIPTION:La obra de la artista Sarah Kuźmicz invita a reflexionar sobr
+ e los rostros retratados y lo que transmiten (Centro Sefarad-Israel. 18 fe
+ b a 10 abr).\n\nhttps://www.sefarad-israel.es/exposiciones/el-rostro-signi
+ fica-lo-infinito/
+LOCATION:Centro Sefarad-Israel - Mayor\, 69\, Madrid\, 28013
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Anders Zorn. Recorrer el mundo\, recordar la tierra
@@ -1924,6 +1932,18 @@ DESCRIPTION:Durante los últimos quince años\, el programa de Ayudas a l
 LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ecos de la moda romántica
+DTSTART;TZID=Europe/Madrid:20260302T000000
+DTEND;TZID=Europe/Madrid:20260517T000000
+UID:a5a6a085516ed1ac7e3f5fc7837015a7803df1fdc48105ef0df65019f7cbd42d
+CATEGORIES:exhibition
+DESCRIPTION:Exposición de varios modelos de moda romántica realizados po
+ r algunos de los diseñadores más destacados del siglo XX y XXI como Bale
+ nciaga o Pertegaz (Museo del Romanticismo.\n\nhttps://www.cultura.gob.es/
+ mromanticismo/programacion/exposiciones/actuales/2026-ecos.html
+LOCATION:Museo del Romanticismo - de San Mateo\, 13\, Madrid\, 28004
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Gloria Fuertes (hoy)
 DTSTART;TZID=Europe/Madrid:20260303T000000
 DTEND;TZID=Europe/Madrid:20260915T000000
@@ -2073,50 +2093,6 @@ DESCRIPTION:El Centro de residencias artísticas \, situado en la Nave 16
  creativo de La belleza por Maite Gallardo. Lugar: cabina de sonido y cubo 
  negro\n\nhttps://www.mataderomadrid.org/programacion/jornadas-de-puertas-a
  biertas-semana-del-arte-2026-en-el-centro-de-residencias
-LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sesión audiovisual 'With a Little Help from My Friends'\, con Sal
- ly Gutiérrez Dewar
-DTSTART;TZID=Europe/Madrid:20260305T193000
-UID:7fd284c4f7546b691c981fd24065eca01e70d7b49ea729fb9791741e28f20410
-CATEGORIES:exhibition
-DESCRIPTION:Una invitación a la artista Sally Gutiérrez Dewar a poner en
-  diálogo una de sus obras más recientes con la de otros artistas y activ
- istas. Una sesión que nos invita a imaginar colectivamente y a pensar lo 
- audiovisual más allá de sus límites habituales. Películas que sugieren
-  conexiones inesperadas\, activan resonancias entre geografías\, historia
- s y sensibilidades diversas. El programa propone un encuentro efímero y p
- lural en el que cada obra aporta una perspectiva singular y\, al unirse\, 
- construyen un espacio compartido de pensamiento y descubrimiento. Un progr
- ama que encarna el espíritu de la propia artista: trabajar desde lo comú
- n\, confiar en los cruces inesperados y permitir que las imágenes invente
- n su propio lenguaje compartido. Programa: Application (Sally Gutiérrez D
- ewar\, 2026\, 18') El film combina fragmentos del alegato presentado por S
- udáfrica ante la Corte Internacional de Justicia en diciembre de 2023 con
-  imágenes de ríos y océanos filmadas a lo largo de varios años. Conceb
- idas inicialmente como una escucha atenta de la naturaleza y de los ritmos
-  elementales del agua\, estas imágenes adquieren un nuevo sentido tras la
-  noticia de la exterminación del pueblo palestino. Westerwald: Eine Heims
- uchung (Sandra Schäfer\, 2021\, 43’) Un ensayo cinematográfico sobre l
- a transformación de una región rural alemana a partir del diálogo entre
-  pasado y presente. Tomando como punto de partida la serie de retratos de 
- campesinos del Westerwald realizada por August Sander\, Sandra Schäfer co
- nfronta aquella mirada histórica con su propia perspectiva contemporánea
-  sobre el territorio en el que creció. La película explora cómo han cam
- biado el paisaje\, las formas de vida y el uso agrícola de la tierra\, y 
- cómo esas transformaciones quedan inscritas en las imágenes. Ládano\, b
- rillo de micacita (Mario Espliego\, 2025\, 20') El proyecto toma su nombre
-  del ládano\, una resina aromática extraída de la jara pringosa\, como 
- metáfora de un territorio cargado de capas de memoria. A partir de un rec
- orrido por la Alcarria y la Sierra Norte de Guadalajara\, la obra explora 
- la superposición de tiempos históricos\, biográficos y políticos en un
- a zona marcada hoy por la despoblación. Espacio de retiro eremítico en l
- a Edad Media y de resistencia antifascista durante la Guerra Civil\, el pa
- isaje se presenta como un archivo vivo donde perviven pasados latentes. > 
- Presentación y coloquio posterior con los/as artistas.\n\nhttps://www.mat
- aderomadrid.org/programacion/sesion-audiovisual-little-help-my-friends-con
- -sally-gutierrez-dewar
 LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
