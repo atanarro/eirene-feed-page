@@ -2,45 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:El Foro Blues Festival II Edicion
-DTSTART;TZID=Europe/Madrid:20260221T130000
-UID:e7aa170bec29a1ae6002338b8bdd89fc0d44192b5b44e52593efcf697746f866
-CATEGORIES:music
-DESCRIPTION:Concierto / Soul & R&B\n\nhttps://salavillanos.es/evento/el-fo
- ro-blues-festival-ii-edicion/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Interactivo De Cuba
-DTSTART;TZID=Europe/Madrid:20260221T210000
-UID:5869590d01531eea4838c8a1534c2e779d0f5e65dec9494b45154f42b948f502
-CATEGORIES:music
-DESCRIPTION:Concierto / Latin\n\nhttps://salavillanos.es/evento/interactiv
- o-de-cuba-2/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La M.O.D.A.
-DTSTART;TZID=Europe/Madrid:20260221T210000
-UID:fc421c4d83c37f44f5c0c7c1f75eed139277f900db09877a6b7c088c8a141c7e
-CATEGORIES:music
-DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://www.wegow.com/es/concier
- tos/la-moda-madrid-21-febrero
-LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
- id
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Satan (Reino Unido) + Hellgrimm (EEUU)
-DTSTART;TZID=Europe/Madrid:20260221T213000
-UID:e14661eead58586cf6cdb265163f66dfffa832df179dfb9c0367fb4d3f9751ea
-CATEGORIES:music
-DESCRIPTION:Precio de las entradas: 27€/30€ Entradas a la venta en man
- guales Bio/enlaces bandas: Hellgrimm_facebook + Hellgrimm_instagram Más i
- nformación: Satan es una formación fundamental de\n\nhttps://gruta77.com
- /events/satan-reino-unido-hellgrimm-eeuu/var/ri-0.l-L2
-LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:VILLAMOLINOS matinés musicales
 DTSTART;TZID=Europe/Madrid:20260222T130000
 UID:8973586c184c978a220d5fbcfaf6407a3c30255c4b3ea00fa7ceb8e231ed61a7
@@ -399,8 +360,8 @@ LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atzur
-DTSTART;TZID=Europe/Madrid:20260312T201500
-UID:7797edec513c56aaf8bbf5489b42ac42627ac384b64edc65060f8b92b80b4178
+DTSTART;TZID=Europe/Madrid:20260312T210000
+UID:49452b6139cf9208d396e94a77a0d566d3192ac53e3411ca0e7e5e021a176f83
 CATEGORIES:music
 DESCRIPTION:Concierto / Electronic / Pop\n\nhttps://salavillanos.es/evento
  /atzur/
@@ -531,6 +492,17 @@ LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
  id
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Rock Den + Just 4 Vipers
+DTSTART;TZID=Europe/Madrid:20260319T210000
+UID:72d7ac8d5be30a516a789498beab0b6313ce90cacce2b004dfce41e51973ea74
+CATEGORIES:music
+DESCRIPTION:Precio de las entradas: gratuito hasta completar aforo Bio/enl
+ aces bandas: Just 4 Vipers_instagram Más información: The Rock Den vuelv
+ e a enchufar los amplis y a demostrar que el rock también sabe sonar bien
+ \n\nhttps://gruta77.com/events/the-rock-den-just-4-vipers/var/ri-0.l-L2
+LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Faenna
 DTSTART;TZID=Europe/Madrid:20260320T210000
 UID:827a0b26fce44597ae04a42fe53af093ecb63899272825dbcb6b7408daf43a42
@@ -622,5 +594,23 @@ CATEGORIES:music
 DESCRIPTION:Concierto / Hip Hop & Rap / Jazz\n\nhttps://salavillanos.es/ev
  ento/substantial-marcus-d-presents-bop-alloy/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dora Morelenbaum: Mujeres en Vivo 2026
+DTSTART;TZID=Europe/Madrid:20260323T203000
+UID:86d51897e63af3a9e4c3395d0ce478f50ec9f40d4fbf84f12942939a9134e62b
+CATEGORIES:music
+DESCRIPTION:Concierto / Villanos del Jazz\n\nhttps://salavillanos.es/event
+ o/dora-morelenbaum/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Suede + Swim School (Sold Out)
+DTSTART;TZID=Europe/Madrid:20260323T210000
+UID:da8eaac91a7498823a9b93c5cc0db93946300f2d4979bc2bdf5435b7781a95e9
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://feverup.com/m/394213
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
 END:VEVENT
 END:VCALENDAR

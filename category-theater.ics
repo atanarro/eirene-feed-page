@@ -3,41 +3,6 @@ VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
 SUMMARY:Isa & Javi
-DTSTART;TZID=Europe/Madrid:20260221T130000
-UID:a32ee5552d3b599e121621ade0ef06af59400bbe2469858571c85e067a24d686
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/isa-y-javi/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tres noches en Ítaca
-DTSTART;TZID=Europe/Madrid:20260221T193000
-DTEND;TZID=Europe/Madrid:20260308T193000
-UID:ed9da931253d87d489ae0d68f035f4a45a3125745f1e3409183a14fc7505146b
-CATEGORIES:theater
-DESCRIPTION:Entradas agotadas desde 15.75€ | Tags: JOBO\n\nhttps://tiend
- a.madrid-destino.com/es/nave-10/tres-noches-en-itaca/
-LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Yo soy 451
-DTSTART;TZID=Europe/Madrid:20260221T193000
-UID:39d77816d6e8518304c30de735a5c1c0b6068fd692504cc2dc8ee34fc6b885e7
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/yo-soy-451/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Preso en la esperanza / Trapped in hope
-DTSTART;TZID=Europe/Madrid:20260221T221500
-UID:38d9bf008408fb1691a777f16aa5b4cd32759282087dd564b7c0b85ff316bfe3
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/preso-en-la-esperanz
- a-trapped-in-hope/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Isa & Javi
 DTSTART;TZID=Europe/Madrid:20260222T130000
 UID:444068d393cea945e6233c6eb5b99c4de4be12e12f175fdd3192db4878d0c851
 CATEGORIES:theater
@@ -53,6 +18,16 @@ DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/yo-soy-451/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Tres noches en Ítaca
+DTSTART;TZID=Europe/Madrid:20260222T193000
+DTEND;TZID=Europe/Madrid:20260308T193000
+UID:ed9da931253d87d489ae0d68f035f4a45a3125745f1e3409183a14fc7505146b
+CATEGORIES:theater
+DESCRIPTION:Entradas agotadas desde 15.75€ | Tags: JOBO\n\nhttps://tiend
+ a.madrid-destino.com/es/nave-10/tres-noches-en-itaca/
+LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Preso en la esperanza / Trapped in hope
 DTSTART;TZID=Europe/Madrid:20260222T203000
 UID:d82e99485e2b55ee8b8269bcce668b991f41f54378741497f04770273f061a97
@@ -66,8 +41,8 @@ SUMMARY:Mañana más
 DTSTART;TZID=Europe/Madrid:20260223T190000
 UID:958249410461b800007b6357760b99197954f2fc6539e7d0f052d301ad8517bc
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 1 plazas!\n\nhttps://teatrodelbarrio.com/mana
- na-mas/
+DESCRIPTION:Localidades agotadas\n\nhttps://teatrodelbarrio.com/manana-mas
+ /
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -93,8 +68,8 @@ SUMMARY:Los árboles no votan
 DTSTART;TZID=Europe/Madrid:20260225T193000
 UID:474ba9456d993c1229691bbd5422e4a398c4204582f464961719ce56c67c78d0
 CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/los-arboles-no-votan
- /
+DESCRIPTION:¡Ya solo quedan 25 plazas!\n\nhttps://teatrodelbarrio.com/los
+ -arboles-no-votan/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
