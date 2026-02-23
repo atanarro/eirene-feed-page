@@ -2,34 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:VILLAMOLINOS matinés musicales
-DTSTART;TZID=Europe/Madrid:20260222T130000
-UID:8973586c184c978a220d5fbcfaf6407a3c30255c4b3ea00fa7ceb8e231ed61a7
-CATEGORIES:music
-DESCRIPTION:Concierto / Jazz\n\nhttps://salavillanos.es/evento/villamolino
- s-matines-musicales-5/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Templo Del Baile
-DTSTART;TZID=Europe/Madrid:20260222T173000
-UID:a9567f425061083726be9ca7adc816315fa32d65a83070cfe7ac0b2c16ce2761
-CATEGORIES:music
-DESCRIPTION:Concierto / World Music & Folk\n\nhttps://salavillanos.es/even
- to/templo-del-baile/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Leire Martínez
-DTSTART;TZID=Europe/Madrid:20260222T200000
-UID:16cb4256bd93734a8ac814ac989b5221d8ec383fb1b62665192e2ab718717223
-CATEGORIES:music
-DESCRIPTION:Apertura Puertas: 18:30 Horas\n\nhttps://www.entradas.com/arti
- st/leire-martinez/?affiliate=RIV
-LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
- id
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Postcode
 DTSTART;TZID=Europe/Madrid:20260224T203000
 UID:9b225202a5bde0a9f09fa0ba2fc3705a6a017927a55ab549b799ffe53942a1b7
@@ -310,6 +282,40 @@ DESCRIPTION:Precio de las entradas: 12€/15€ Entradas a la venta en mov
  mación original\n\nhttps://gruta77.com/events/the-sun-rockets-the-chaches
  -rocking-band/var/ri-0.l-L2
 LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:En Gloria estamos
+DTSTART;TZID=Europe/Madrid:20260308T180000
+UID:9dca18d5e6801d6812b9910e1179e3536a5a47774ae6161d0b4b9b3807e5cfc2
+CATEGORIES:music
+DESCRIPTION:Para celebrar del Día Internacional de la Mujer y arrancamos 
+ la primera semana de la exposición con este espectáculo que rinde homena
+ je a la poesía de Gloria Fuertes de la mano del polifacético Pepe Viyuel
+ a\, la actriz Elena González y la música Sara Águeda\, admiradores y co
+ nocedores de su obra\, ofreciendo una experiencia íntima centrada en la p
+ alabra y la música. La poesía de Gloria Fuertes es pura música. Hacer d
+ e sus poemas canciones es un viaje apasionante\, sus frases se convierten 
+ en mantras\, se recorre su dolor\, su ironía y su ternura. El arpa teje l
+ a unión entre los capítulos y genera una escenografía emocional que aho
+ nda en lo más puro de su palabra. Leer a Gloria Fuertes es habitar su nom
+ bre\, estar en la gloria\, querer ser ella. Su poesía es un planeta al qu
+ e no viajas\, porque él llega primero y te conquista. Y lo hace sin más 
+ armas que el vértigo de asomarse a su ventana y querer desde entonces beb
+ erse los árboles y las aceras. El día que empiezas a sentirte colonizado
+  por su Gloria\, te das cuenta de que empiezas a ser más joven y más vie
+ jo al mismo tiempo\, que te haces niño y abuelo a la vez\, que has empeza
+ do a rozar con los dedos la sabia inocencia que poseen los que nunca aband
+ onan la niñez\, porque saben que allí está lo mejor de la vida\, y han 
+ decidido hacerse viejos jugando a vivirse\, mientras caminan sobre el alam
+ bre y las cornisas. Sus versos son una delicada y honda transfusión que n
+ os permite volver a levantarnos\, después de habernos desollado las rodil
+ las por perseguir las mariposas que nos salían de la cabeza. Por eso\, a 
+ todo aquel que quiero (y al que no quiero también)\, le deseo que en Glor
+ ia esté. "La Paz no es mi fin sino el medio de conseguir ese fin." Gloria
+  Fuertes. Organiza: Casa del Lector Todos los públicos. Categoría: Artes
+  escénicas. Música. Letras. Para Jóvenes Formato: Teatro. Concierto\n\n
+ https://www.mataderomadrid.org/programacion/en-gloria-estamos
+LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Velito El Bufon
@@ -610,6 +616,16 @@ DTSTART;TZID=Europe/Madrid:20260323T210000
 UID:da8eaac91a7498823a9b93c5cc0db93946300f2d4979bc2bdf5435b7781a95e9
 CATEGORIES:music
 DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://feverup.com/m/394213
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maro
+DTSTART;TZID=Europe/Madrid:20260324T203000
+UID:30106e0ba89ecc45873ec169ad3a51f6d3f6ddc21c2669a9ac05414fda053fc9
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://www.notikumi.com/channel
+ /villanos-de-la-cultura/2026/3/24/maro
 LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
  id
 END:VEVENT

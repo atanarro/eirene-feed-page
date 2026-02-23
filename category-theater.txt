@@ -1,51 +1,40 @@
 Eirene feed debug
-Total events: 16
+Total events: 18
 
-[1] Isa & Javi
-  id: 444068d393cea945e6233c6eb5b99c4de4be12e12f175fdd3192db4878d0c851
-  start: 2026-02-22T13:00:00+01:00
-  end: N/A
+[1] Grito, boda y sangre
+  id: 773b343e0b374ece2075ac16d3027feccf498ac27e13b9982c0ed306d3f004e9
+  start: 2026-01-23T18:00:00+01:00
+  end: 2026-03-01T18:00:00+01:00
   category: theater
-  source: teatro_del_barrio
-  location: Teatro del Barrio - Calle de Zurita, 20, Madrid
-  coordinates: 40.4096081, -3.699174
-  url: https://teatrodelbarrio.com/isa-y-javi/
-  description: Disponible
+  source: dramatico_inaem
+  location: Teatro Maria Guerrero - Calle de Tamayo y Baus, 4, Madrid
+  coordinates: 40.4228646, -3.6928431
+  url: https://dramatico.inaem.gob.es/evento/grito-boda-y-sangre/
+  description: Basada en Bodas de sangre de Federico García Lorca , así como en fragmentos de otras de sus obras y poemas. Dramaturgia Iker Azkoitia Dirección Ángela Ibáñez Castaño Dirección asociada Julián Fuentes Reta
 
-[2] Yo soy 451
-  id: 41fd63b0173e2d4ef216fdfbaf140eac529d0b5f29441cf1ab9285bfe16dc0dc
-  start: 2026-02-22T18:00:00+01:00
-  end: N/A
+[2] Constelaciones
+  id: 93c4e4d7ae6705d0c227557155cc519e701190d3161c898ffd770ed7229b6a00
+  start: 2026-02-06T20:00:00+01:00
+  end: 2026-03-29T20:00:00+02:00
   category: theater
-  source: teatro_del_barrio
-  location: Teatro del Barrio - Calle de Zurita, 20, Madrid
-  coordinates: 40.4096081, -3.699174
-  url: https://teatrodelbarrio.com/yo-soy-451/
-  description: Disponible
+  source: dramatico_inaem
+  location: Teatro Valle-Inclán - Plaza de Lavapies, Madrid
+  coordinates: 40.4080471, -3.7003217
+  url: https://dramatico.inaem.gob.es/evento/constelaciones/
+  description: Texto Nick Payne Versión y dirección Sergio Peris-Mencheta
 
-[3] Tres noches en Ítaca
-  id: ed9da931253d87d489ae0d68f035f4a45a3125745f1e3409183a14fc7505146b
-  start: 2026-02-22T19:30:00+01:00
-  end: 2026-03-08T19:30:00+01:00
+[3] La última noche con mi hermano
+  id: df484f18448dee2449eea922969c3fad7ae78cccea7db5d8b2709d15dea021fd
+  start: 2026-02-13T20:00:00+01:00
+  end: 2026-04-05T20:00:00+02:00
   category: theater
-  source: nave_10
-  location: Nave 10 - Paseo de la Chopera, 14, Madrid
-  coordinates: 40.3920606, -3.6978319
-  url: https://tienda.madrid-destino.com/es/nave-10/tres-noches-en-itaca/
-  description: Entradas agotadas desde 15.75€ | Tags: JOBO
+  source: dramatico_inaem
+  location: Teatro Maria Guerrero - Calle de Tamayo y Baus, 4, Madrid
+  coordinates: 40.4228646, -3.6928431
+  url: https://dramatico.inaem.gob.es/evento/la-ultima-noche-con-mi-hermano/
+  description: Texto y dirección Alfredo Sanzol
 
-[4] Preso en la esperanza / Trapped in hope
-  id: d82e99485e2b55ee8b8269bcce668b991f41f54378741497f04770273f061a97
-  start: 2026-02-22T20:30:00+01:00
-  end: N/A
-  category: theater
-  source: teatro_del_barrio
-  location: Teatro del Barrio - Calle de Zurita, 20, Madrid
-  coordinates: 40.4096081, -3.699174
-  url: https://teatrodelbarrio.com/preso-en-la-esperanza-trapped-in-hope/
-  description: Disponible
-
-[5] Mañana más
+[4] Mañana más
   id: 958249410461b800007b6357760b99197954f2fc6539e7d0f052d301ad8517bc
   start: 2026-02-23T19:00:00+01:00
   end: N/A
@@ -56,7 +45,7 @@ Total events: 16
   url: https://teatrodelbarrio.com/manana-mas/
   description: Localidades agotadas
 
-[6] Asamblea de juveniles en Teatro del Barrio
+[5] Asamblea de juveniles en Teatro del Barrio
   id: 06a28127a330492cfed8f4a534b921ebbd93229bd8587890952aab1109a247bd
   start: 2026-02-24T18:30:00+01:00
   end: N/A
@@ -67,7 +56,7 @@ Total events: 16
   url: https://teatrodelbarrio.com/asamblea-de-juveniles-en-teatro-del-barrio/
   description: Programación en Teatro del Barrio
 
-[7] Hijas de la Nakba. 7 niñas judías
+[6] Hijas de la Nakba. 7 niñas judías
   id: 0e0acf1a9d6802c9f09a7d7dab415fe613d6c3eca15a46d503b69d77edc63a37
   start: 2026-02-24T19:00:00+01:00
   end: N/A
@@ -78,6 +67,17 @@ Total events: 16
   url: https://teatrodelbarrio.com/hijas-de-la-nakba-7-ninas-judias/
   description: Localidades agotadas
 
+[7] Tres noches en Ítaca
+  id: ed9da931253d87d489ae0d68f035f4a45a3125745f1e3409183a14fc7505146b
+  start: 2026-02-24T19:30:00+01:00
+  end: 2026-03-08T19:30:00+01:00
+  category: theater
+  source: nave_10
+  location: Nave 10 - Paseo de la Chopera, 14, Madrid
+  coordinates: 40.3920606, -3.6978319
+  url: https://tienda.madrid-destino.com/es/nave-10/tres-noches-en-itaca/
+  description: Entradas agotadas desde 15.75€ | Tags: JOBO
+
 [8] Los árboles no votan
   id: 474ba9456d993c1229691bbd5422e4a398c4204582f464961719ce56c67c78d0
   start: 2026-02-25T19:30:00+01:00
@@ -87,7 +87,7 @@ Total events: 16
   location: Teatro del Barrio - Calle de Zurita, 20, Madrid
   coordinates: 40.4096081, -3.699174
   url: https://teatrodelbarrio.com/los-arboles-no-votan/
-  description: ¡Ya solo quedan 25 plazas!
+  description: ¡Ya solo quedan 23 plazas!
 
 [9] Un verano por metro cuadrado
   id: 203a717c4a3ea22e7b8730e67015646eae9f5516297b76fe0986e7194052bcc5
@@ -142,7 +142,7 @@ Total events: 16
   location: Teatro del Barrio - Calle de Zurita, 20, Madrid
   coordinates: 40.4096081, -3.699174
   url: https://teatrodelbarrio.com/hoy-tengo-algo-que-hacer/
-  description: ¡Ya solo quedan 17 plazas!
+  description: ¡Ya solo quedan 11 plazas!
 
 [14] Isa & Javi
   id: 653dce1d67c8f5b715a982b9150478ee47542ade69377ca961a227bc1d65392e
@@ -155,7 +155,18 @@ Total events: 16
   url: https://teatrodelbarrio.com/isa-y-javi/
   description: Disponible
 
-[15] Tres noches en Ítaca
+[15] Casi ninguna verdad
+  id: 7bb9229c5406de701333b18c1b45d43cb2daeda7ff87b2d98af381c1eb282154
+  start: 2026-03-06T18:00:00+01:00
+  end: 2026-04-12T18:00:00+02:00
+  category: theater
+  source: dramatico_inaem
+  location: Teatro Valle-Inclán - Plaza de Lavapies, Madrid
+  coordinates: 40.4080471, -3.7003217
+  url: https://dramatico.inaem.gob.es/evento/casi-ninguna-verdad/
+  description: Texto y dirección Cris Blanco Dramaturgia Cris Blanco, Óscar Bueno Rodríguez y Anto Rodríguez
+
+[16] Tres noches en Ítaca
   id: 79d90d7fc56b5f66cfcfaa10237226b981047e05c58c8e9c4786a8dd27342d27
   start: 2026-03-08T19:30:00+01:00
   end: N/A
@@ -166,7 +177,18 @@ Total events: 16
   url: https://www.mataderomadrid.org/programacion/tres-noches-en-itaca
   description: Cuando la madre muere, el muro cae y la muerte está ahí, enfrente, ya ineludible. Una mujer, cerca de los 50, deja a su familia y su trabajo de profesora de griego en un instituto para irse a vivir a una isla griega: Ítaca. Veinte años después, sus tres hijas viajan a Grecia para organizar su entierro. Estas Tres noches en Ítaca les dará la oportunidad de descubrir quién fue su madre. Alberto Conejero pone en manos de Maria Goiricelaya este texto sobre el individuo dentro de la familia y fuera de ella. Una pieza ágil que Conejero denomina tragicomedia, porque ¿qué puede llevar a alguien a abandonar su vida, su familia, su trabajo e irse a vivir a kilómetros de distancia? Las hijas de Alicia, Ariadna, Penélope y Elena, todas ellas entre los 40 y los 50 años, deben descubrir qué le sucedió a su madre, y cómo vivió todo ese tiempo tan lejos de ellas. Pero también ha llegado el momento de que descubran quiénes son ellas mismas. Aunque no quieran. Tres noches en Ítaca es un entierro en Grecia, en una isla en donde la gente aún canta, pero también es un nacimiento, el de una etapa de madurez en la vida de Ariadna, Elena y Penélope. Rocío Bello Dramaturgista de la temporada 25/26 de Nave 10 Matadero
 
-[16] Niebla
+[17] Utopía en llamas
+  id: a2d55cc52793d807a2dc3a7a9b1845d2fab03f29c67826917a62789076be6586
+  start: 2026-03-20T18:00:00+01:00
+  end: 2026-04-26T18:00:00+02:00
+  category: theater
+  source: dramatico_inaem
+  location: Teatro Maria Guerrero - Calle de Tamayo y Baus, 4, Madrid
+  coordinates: 40.4228646, -3.6928431
+  url: https://dramatico.inaem.gob.es/evento/utopia-en-llamas/
+  description: Texto y dramaturgia Alda Lozano Dirección Concha Delgado y Sandra Ferrús
+
+[18] Niebla
   id: f5c1c7ebb968eb8a2029978f386f4763212118ce95d6b31e1e8cb896ee68f191
   start: 2026-03-20T19:30:00+01:00
   end: 2026-04-12T19:30:00+02:00
