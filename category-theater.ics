@@ -2,47 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Grito\, boda y sangre
-DTSTART;TZID=Europe/Madrid:20260123T180000
-DTEND;TZID=Europe/Madrid:20260301T180000
-UID:773b343e0b374ece2075ac16d3027feccf498ac27e13b9982c0ed306d3f004e9
-CATEGORIES:theater
-DESCRIPTION:Basada en Bodas de sangre de Federico García Lorca \, así co
- mo en fragmentos de otras de sus obras y poemas. Dramaturgia Iker Azkoitia
-  Dirección Ángela Ibáñez Castaño Dirección asociada Julián Fuentes 
- Reta\n\nhttps://dramatico.inaem.gob.es/evento/grito-boda-y-sangre/
-LOCATION:Teatro Maria Guerrero - Calle de Tamayo y Baus\, 4\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Constelaciones
-DTSTART;TZID=Europe/Madrid:20260206T200000
-DTEND;TZID=Europe/Madrid:20260329T200000
-UID:93c4e4d7ae6705d0c227557155cc519e701190d3161c898ffd770ed7229b6a00
-CATEGORIES:theater
-DESCRIPTION:Texto Nick Payne Versión y dirección Sergio Peris-Mencheta\n
- \nhttps://dramatico.inaem.gob.es/evento/constelaciones/
-LOCATION:Teatro Valle-Inclán - Plaza de Lavapies\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La última noche con mi hermano
-DTSTART;TZID=Europe/Madrid:20260213T200000
-DTEND;TZID=Europe/Madrid:20260405T200000
-UID:df484f18448dee2449eea922969c3fad7ae78cccea7db5d8b2709d15dea021fd
-CATEGORIES:theater
-DESCRIPTION:Texto y dirección Alfredo Sanzol\n\nhttps://dramatico.inaem.g
- ob.es/evento/la-ultima-noche-con-mi-hermano/
-LOCATION:Teatro Maria Guerrero - Calle de Tamayo y Baus\, 4\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mañana más
-DTSTART;TZID=Europe/Madrid:20260223T190000
-UID:958249410461b800007b6357760b99197954f2fc6539e7d0f052d301ad8517bc
-CATEGORIES:theater
-DESCRIPTION:Localidades agotadas\n\nhttps://teatrodelbarrio.com/manana-mas
- /
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Asamblea de juveniles en Teatro del Barrio
 DTSTART;TZID=Europe/Madrid:20260224T183000
 UID:06a28127a330492cfed8f4a534b921ebbd93229bd8587890952aab1109a247bd
@@ -56,8 +15,8 @@ SUMMARY:Hijas de la Nakba. 7 niñas judías
 DTSTART;TZID=Europe/Madrid:20260224T190000
 UID:0e0acf1a9d6802c9f09a7d7dab415fe613d6c3eca15a46d503b69d77edc63a37
 CATEGORIES:theater
-DESCRIPTION:Localidades agotadas\n\nhttps://teatrodelbarrio.com/hijas-de-l
- a-nakba-7-ninas-judias/
+DESCRIPTION:¡Ya solo quedan 2 plazas!\n\nhttps://teatrodelbarrio.com/hija
+ s-de-la-nakba-7-ninas-judias/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -75,7 +34,7 @@ SUMMARY:Los árboles no votan
 DTSTART;TZID=Europe/Madrid:20260225T193000
 UID:474ba9456d993c1229691bbd5422e4a398c4204582f464961719ce56c67c78d0
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 23 plazas!\n\nhttps://teatrodelbarrio.com/los
+DESCRIPTION:¡Ya solo quedan 18 plazas!\n\nhttps://teatrodelbarrio.com/los
  -arboles-no-votan/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
@@ -133,17 +92,6 @@ DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/isa-y-javi/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Casi ninguna verdad
-DTSTART;TZID=Europe/Madrid:20260306T180000
-DTEND;TZID=Europe/Madrid:20260412T180000
-UID:7bb9229c5406de701333b18c1b45d43cb2daeda7ff87b2d98af381c1eb282154
-CATEGORIES:theater
-DESCRIPTION:Texto y dirección Cris Blanco Dramaturgia Cris Blanco\, Ósca
- r Bueno Rodríguez y Anto Rodríguez\n\nhttps://dramatico.inaem.gob.es/eve
- nto/casi-ninguna-verdad/
-LOCATION:Teatro Valle-Inclán - Plaza de Lavapies\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tres noches en Ítaca
 DTSTART;TZID=Europe/Madrid:20260308T193000
 UID:79d90d7fc56b5f66cfcfaa10237226b981047e05c58c8e9c4786a8dd27342d27
@@ -168,16 +116,6 @@ DESCRIPTION:Cuando la madre muere\, el muro cae y la muerte está ahí\, e
  Matadero\n\nhttps://www.mataderomadrid.org/programacion/tres-noches-en-ita
  ca
 LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Utopía en llamas
-DTSTART;TZID=Europe/Madrid:20260320T180000
-DTEND;TZID=Europe/Madrid:20260426T180000
-UID:a2d55cc52793d807a2dc3a7a9b1845d2fab03f29c67826917a62789076be6586
-CATEGORIES:theater
-DESCRIPTION:Texto y dramaturgia Alda Lozano Dirección Concha Delgado y Sa
- ndra Ferrús\n\nhttps://dramatico.inaem.gob.es/evento/utopia-en-llamas/
-LOCATION:Teatro Maria Guerrero - Calle de Tamayo y Baus\, 4\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Niebla

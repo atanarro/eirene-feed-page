@@ -1,5 +1,5 @@
 Eirene feed debug
-Total events: 47
+Total events: 50
 
 [1] Una animación del cine
   id: 5e3c27940d3a5a643e5f8f4fea17b3d39df560abe646b895a9eb74c757e63c1d
@@ -247,8 +247,8 @@ Total events: 47
   description: Conferencia de Estrella de Diego (60' aprox.)
 
 [22] With a Little Help from My Friends
-  id: de5d80d3345a25962534cdfb545674fd11fec2f7fbb87efb983fa1125cf727d8
-  start: 2026-03-05T19:30:00+01:00
+  id: 97136f4e73a9d66df7987604a43f7b4c2e248e658556cb0ce8fe851728466b3e
+  start: 2026-03-05T20:30:00+01:00
   end: N/A
   category: cinema
   source: cineteca_madrid
@@ -258,8 +258,8 @@ Total events: 47
   url: https://www.cinetecamadrid.com/programacion/little-help-my-friends
   description: Una invitación a la artista Sally Gutiérrez Dewar a poner en diálogo una de sus obras más recientes con la de otros artistas y activistas. Una sesión que nos invita a imaginar colectivamente y a pensar lo audiovisual más allá de sus límites habituales. Películas que sugieren conexiones inesperadas, activan resonancias entre geografías, historias y sensibilidades diversas. El programa propone un encuentro efímero y plural en el que cada obra aporta una perspectiva singular y, al unirse, construyen un espacio compartido de pensamiento y descubrimiento. Un programa que encarna el espíritu de la propia artista: trabajar desde lo común, confiar en los cruces inesperados y permitir que las imágenes inventen su propio lenguaje compartido.
 
-[23] Vía versus
-  id: d5e4b76fda5d34b44058f65d4970f08701ab6093fa84be536cc70a7d34f3ffcb
+[23] Vía Versus
+  id: 6f1b22ae31e7e1a7daf9177b4fd9a1ff03899cb64711f72b6fd1a31271076ad8
   start: 2026-03-06T19:00:00+01:00
   end: N/A
   category: cinema
@@ -267,7 +267,7 @@ Total events: 47
   location: Cineteca Madrid - Plaza de Legazpi, 8, Madrid
   coordinates: 40.392398, -3.697762
   url: https://www.cinetecamadrid.com/programacion/versus
-  description: Vía Versus es una pieza audiovisual realizada en colaboración por la artista española María Salgado y la cineasta argentina Clarisa Navas, filmada entre el nordeste argentino —Formosa y Corrientes— y Galicia —Pousada y Verín—. A partir de estos territorios concretos y de las lenguas, historias y formas de vida de quienes los habitan, la obra indaga en aquello que permanece oculto o silenciado por procesos históricos de represión y olvido. Dos poemas escritos por Salgado acompañan el film como voces sonoras y como textos impresos disponibles para el público, articulando un diálogo entre palabra, imagen y territorio. Más sensorial que discursiva, la película se construye como un viaje compartido en el que ambas artistas se desplazan desde sus lenguajes y lugares de origen hacia un espacio común aún por definir. Este proceso de apertura colectiva, vivido junto al equipo de trabajo, da lugar a una obra de sentido abierto, que se expande más allá de la proyección y se despliega en distintas formas de experiencia.
+  description: Vía Versus es una pieza audiovisual hecha de dos poemas o dos poemas filmados que buscan hacer aparecer dos lugares muy concretos, el Nordeste argentino y Ourense, a partir del habla y las historias de algunas personas que en ellos habitan y en donde se encuentran y desencuentran con un origen y pertenencia difíciles de delimitar. También y sobre todo fue un viaje a un territorio desconocido y un desplazamiento del medio del que venían la cineasta argentina Clarisa Navas y la poeta española María Salgado, en equipo con Lucas Olivares, Marta F. Salgado, Luis Molina, Marta Orozco y Chus Pérez Limia.
 
 [24] El Brujo: Julio Zachrisson
   id: 228e7a927412727aaecd533c80a96a643be6ecdf9484aa70160f6eac0f88b3e4
@@ -545,3 +545,37 @@ Total events: 47
   coordinates: 40.392398, -3.697762
   url: https://www.cinetecamadrid.com/programacion/el-misterio-picasso
   description: Documental único que registra el proceso creativo de Pablo Picasso en tiempo real. Gracias a un dispositivo técnico que permite ver el trazo a través del papel, el film convierte la pintura en acontecimiento cinematográfico y reflexiona sobre el misterio del acto de creación.
+
+[48] El pájaro de papel
+  id: b54705346dc755cefbac8d838ee78b8f84f3db5ee6abbb44fa7cf160645c9405
+  start: 2026-03-25T19:00:00+01:00
+  end: N/A
+  category: cinema
+  source: cineteca_madrid
+  movie_language: vose
+  location: Cineteca Madrid - Plaza de Legazpi, 8, Madrid
+  coordinates: 40.392398, -3.697762
+  url: https://www.cinetecamadrid.com/programacion/el-pajaro-de-papel
+  description: La joven abogada de Oslo, Helen Larre, presencia la caída de un hombre desde un balcón y, al acercarse, descubre que se trata de su padre. En su ropa se hallan adheridos diversos documentos y una fotografía de una joven. Con la ayuda del inspector Pål Brenden, comienza a desentrañar una red de intrigas corporativas y conflictos familiares que la llevarán a replantearse su relación con él, mientras intenta descubrir si se trata de un suicidio, un accidente o un asesinato.
+
+[49] CIMA proyecta: Porque la noche es oscura
+  id: a00103d59882efb2f8c7f4320c1691dad366c3e3e9ffe2c9f7cd06a972d899a3
+  start: 2026-03-25T19:00:00+01:00
+  end: N/A
+  category: cinema
+  source: cineteca_madrid
+  location: Cineteca Madrid - Plaza de Legazpi, 8, Madrid
+  coordinates: 40.392398, -3.697762
+  url: https://www.cinetecamadrid.com/programacion/cima-proyecta-porque-la-noche-es-oscura
+  description: En un futuro cercano, la ciudad se ahoga en su propio humo y la libertad de recordar es un lujo que pocos pueden permitirse. En la ciudad, la sombra es la única verdad. Es en la oscuridad donde un grupo de mujeres se une para encontrar el hilo de la resistencia: la búsqueda del material fílmico que les dejó su compañera Luna. La cinta de recuerdos grabada con sus voces, es su única esperanza. Eso y el cine, hacer cine como refugio y santuario.
+
+[50] María Sánchez: Mientras haces otras cosas
+  id: 2a7ab558405266cb6eddf98e1ef7a02c7bfe57a1b4251c5aa16c355e8f0e3598
+  start: 2026-03-25T19:30:00+01:00
+  end: N/A
+  category: cinema
+  source: cineteca_madrid
+  location: Cineteca Madrid - Plaza de Legazpi, 8, Madrid
+  coordinates: 40.392398, -3.697762
+  url: https://www.cinetecamadrid.com/programacion/maria-sanchez-mientras-haces-otras-cosas
+  description: Esta sesión inicia una serie de incursiones en los pequeños relatos, pensando en que no solo las grandes narrativas construyen una historia, sino que las acciones consideradas menores son las que constituyen espacios tangibles de convivencia. Hasta junio de 2026, las artistas presentes en el ciclo Así son las cosas compartirán sus análisis y propuestas que trabajan desde la cotidianeidad y apuestan por plantear formas de vida situadas y comprometidas con una visión desplazada de la gran costumbre, la conformidad hegemónica.
