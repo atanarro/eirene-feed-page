@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Postcode
-DTSTART;TZID=Europe/Madrid:20260224T203000
-UID:9b225202a5bde0a9f09fa0ba2fc3705a6a017927a55ab549b799ffe53942a1b7
-CATEGORIES:music
-DESCRIPTION:Concierto\n\nhttps://salavillanos.es/evento/postcode/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Avatar + Alien Weaponry
 DTSTART;TZID=Europe/Madrid:20260225T190000
 UID:c1ea6be7a1953f0dc047b667617e16e6e19bba1962dc7a38ec9064613d8afc65
@@ -135,9 +127,9 @@ LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
  id
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Capítulo XXIX: II Jornadas sobre Arte Sonoro "Rebecca Collins"
-DTSTART;TZID=Europe/Madrid:20260304T120000
-UID:e2a878444b771bd1f0abc2d1243b02ad2710bb8df74f78146e0cdd2f08011dec
+SUMMARY:Capítulo XXIX: II Jornadas sobre Arte Sonoro 'Rebecca Collins'
+DTSTART;TZID=Europe/Madrid:20260304T190000
+UID:7906540827c73c688283851d23d31321291a9607152547c5300d5ac5a0e46f30
 CATEGORIES:music
 DESCRIPTION:Con esta sesión de escucha se clausura el encuentro dedicado 
  a las relaciones entre ciencia y arte sonoro organizado los días 3 y 4 de
@@ -647,5 +639,35 @@ CATEGORIES:music
 DESCRIPTION:Concierto / Jazz\n\nhttps://salavillanos.es/evento/eileen-alis
  ter/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deteresa
+DTSTART;TZID=Europe/Madrid:20260326T203000
+UID:164a5e36b281ead7026821e1a40cae424fefecec37a5d95954f017bddc7fd03e
+CATEGORIES:music
+DESCRIPTION:Concierto / Pop / Urban / World Music & Folk\n\nhttps://salavi
+ llanos.es/evento/deteresa/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Dead South
+DTSTART;TZID=Europe/Madrid:20260326T210000
+UID:b6f7e71a4cc74b3d6be9c9272d4b3b73dc339495b22494934290456279b5b895
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://www.entradas.com/event/t
+ he-dead-south-sala-la-riviera-20310337/?affiliate=RIV
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dúo Caifás Presenta "Jesucristo Superstar"
+DTSTART;TZID=Europe/Madrid:20260326T210000
+UID:732430b5a69583bc6d71a33c0421e42130461a52d72c8508e03cfd9d2235cc4c
+CATEGORIES:music
+DESCRIPTION:Precio de las entradas: 10€/12€ Entradas a la venta en mov
+ ingtickets próximamente Bio/enlaces bandas: Más información: Vuelve el 
+ DÚO CAIFÁS con su Gira Crucis a preparar el camino de\n\nhttps://gruta77
+ .com/events/duo-caifas-presenta-jesucristo-superstar/var/ri-0.l-L2
+LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
 END:VEVENT
 END:VCALENDAR
