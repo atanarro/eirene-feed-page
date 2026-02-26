@@ -2,66 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Exposición 'Legendaria II: Mitos contados e ilustrados'
-DTSTART;TZID=Europe/Madrid:20260225T160000
-UID:3578bf9e6f07ae35d332f8b63ca1fe9db0c43333f1b9f7b4a375e5b7af5e3665
-CATEGORIES:exhibition
-DESCRIPTION:Como su predecesora\, Legendaria II combina los dos elementos 
- fundamentales de la mitología y el folclore de nuestra geografía. De un 
- lado\, la palabra\, el relato contado de generación en generación que da
-  origen a leyendas y seres fantásticos. Por el otro\, la imagen\, la repr
- esentación artística de estas historias que forman parte de nuestro imag
- inario colectivo. Con un formato expositivo doble por vitrina\, que incluy
- e un relato y una ilustración inspirados en un mismo mito\, Legendaria II
-  se abre como un libro que muestra y reivindica la magia de nuestra mitolo
- gía a sus visitantes. Una mirada única a estas historias fascinantes\, a
-  través de la interpretación particular de decenas de artistas\, investi
- gadores\, escritores\, guionistas y dramaturgos consagrados. Con más obra
- s y relatos que en la edición anterior\, la exposición ocupará tres pue
- ntes de la Casa del Lector (planta superior) de Matadero. Se inaugurará e
- l 14 de noviembre de 2025 a las 19:30 horas y se extenderá a marzo de 202
- 6. Organiza: XVII Festival Sui Generis Madrid/Asociación Cultural Besaril
- ia. Todos los públicos.\n\nhttps://www.mataderomadrid.org/programacion/ex
- posicion-legendaria-ii-mitos-contados-e-ilustrados
-LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:'Como lo ve una abeja' con Elisa Pardo Puch
-DTSTART;TZID=Europe/Madrid:20260225T170000
-UID:e283a97d170e7a72ebc9b4cb6674290a918ea5f1848a1eb13b497998d218cebd
-CATEGORIES:exhibition
-DESCRIPTION:“Representar el mundo tal como lo ve una abeja\; y mañana\,
-  tal como lo ve la luna” Hannah Höch. La residente Elisa Pardo Puch abr
- e su proceso de creación en una sesión en la que se creará una pieza de
-  arte textil de manera colaborativa. La artista\, partiendo de la investig
- ación textil que está desarrollando en el Centro de residencias artísti
- cas\, propone la construcción de una almazuela colectiva\, pieza textil q
- ue se integrará en la obra final de su proyecto Umbrales . El nombre de t
- odas las personas que han participado aparecerá en la obra colectiva. La 
- Almazuela es una técnica de aprovechamiento textil que se conserva en La 
- Rioja\, lo que en el mundo anglosajón se conoce como patchwork . Esta té
- cnica ha sido desarrollada y preservada por grupos de mujeres de esa zona\
- , destacando Lola Barasoain\, la artista y artesana que se encargó de rec
- uperarla e investigar su historia. El nombre de Almazuela tiene un origen 
- árabe\, deriva de la palabra ‘almozala’\, sustantivo que en la Españ
- a medieval daba nombre al cobertor de cama y que\, a su vez\, tiene su ori
- gen en el árabe ‘almusálla’ y ‘musalla’\, cuyo significado es 
- ‘tapiz de plegaria’ y ‘lugar para rezar’. La artista propone un ta
- ller en el que la creación textil se concibe de forma heterodoxa. El ejer
- cicio plástico se basará en uno de los diseños tradicionales de almazue
- las que se cose en espiral. Las personas participantes construirán un tex
- til colectivo utilizando materiales industriales\, telas\, papeles o mater
- iales sobrantes y se unirán cosiendo\, grapando con anillas\, bridas o pe
- gando. La cita de Hannah Höch refleja el proceso a seguir\, pasando de la
-  creación individual a la colectiva\, y trabajando la pieza desde distint
- as escalas. Primero cada persona trabajará en su fragmento\, y después s
- e unirán todos\, formando una visión diferente y más amplia. Para parti
- cipar en esta sesión de creación colectiva es necesario apuntarse en est
- e formulario . Actividad dirigida a público adulto.\n\nhttps://www.matade
- romadrid.org/programacion/como-lo-ve-una-abeja-con-elisa-pardo-puch
-LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Compañía de Danza Jesús Carmona
 DTSTART;TZID=Europe/Madrid:20260227T200000
 UID:7a8566c183907ca9e563372ccac89c2a0de3b9ff7e8d2e97e3b98e9b4c03eb8a
@@ -647,6 +587,71 @@ DESCRIPTION:Cuando la madre muere\, el muro cae y la muerte está ahí\, e
   y Penélope. Rocío Bello Dramaturgista de la temporada 25/26 de Nave 10 
  Matadero\n\nhttps://www.mataderomadrid.org/programacion/tres-noches-en-ita
  ca
+LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drupal ECA
+DTSTART;TZID=Europe/Madrid:20260311T120000
+UID:b5569b75fe3ff29a8f1e22a651fe99ae7244f74c07a0e89d1592c75aa49f2455
+CATEGORIES:other
+DESCRIPTION:La propuesta es hacer una introducción básica a ECA para ent
+ ender sus fundamentos y cómo este módulo nos permite definir comportamie
+ ntos complejos en Drupal sin necesidad de escribir código\, basándonos e
+ n eventos\, condiciones y acciones. A partir de ahí\, exploraremos cómo 
+ integrar servicios de IA para enriquecer estos flujos\, permitiendo que el
+  sitio tome decisiones más avanzadas y contextuales. Los ejemplos que se 
+ explicarán son: Ejecutar acciones automáticas en Drupal a partir de even
+ tos del sistema. Evaluar condiciones dinámicas utilizando datos generados
+  o procesados por IA. Integrar servicios de IA para tareas como el resumen
+  o la traducción de texto. La idea es mostrar cómo Drupal puede converti
+ rse en una plataforma potente para construir flujos de programación sin c
+ ódigo y además\, combinado con la IA. - Sobre el ponente: Sergio Huerta 
+ Desde siempre me ha gustado experimentar con la tecnología\, empezando po
+ r la edición de vídeo\, la fotografía y la animación 2D\, hasta que de
+ scubrí la programación. Tras recorrer distintos caminos\, encontré en D
+ rupal el espacio donde desarrollar mi carrera profesional. Ahora mi objeti
+ vo es contribuir a la comunidad y compartir lo aprendido con otras persona
+ s. LinkedIn https://www.linkedin.com/in/sergio-huerta-gomez/\n\nhttps://ww
+ w.mataderomadrid.org/programacion/drupal-eca
+LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Semana de Irlanda con Eimear McBride
+DTSTART;TZID=Europe/Madrid:20260311T193000
+UID:14e5c2b5b1c7031839f62d72aa83b36615a152d2fde9bbc6b5068f8112befac9
+CATEGORIES:other
+DESCRIPTION:Celebramos la Semana de Irlanda con Eimear McBride e Impedimen
+ ta Editorial en una lectura y conversación bilingüe con el editor Enriqu
+ e Redel. Presentado por Desperate Literature y Tourism Ireland. Disfrutar
+ emos de lecturas en inglés y español. La conversación será en inglés.
+  We celebrate Semana de Irlanda with Eimear McBride and Impedimenta Editor
+ ial for a bilingual reading and discussion with editor Enrique Redel. Pres
+ ented by Desperate Literature and Tourism Ireland. Readings in English and
+  Spanish. Discussion in English. Eimear McBride es una de las voces más p
+ oderosas e innovadoras de la actual narrativa en lengua inglesa. Un autén
+ tico clásico moderno. Eimear McBride nació en 1976 en Liverpool\, pero s
+ e mudó a Irlanda cuando tenía tres años. Creció en Tubbercurry\, vivi
+ ó en los condados de Sligo y de Mayo\, y finalmente se mudó a los diecis
+ iete años a Londres\, donde estudió en el Drama Centre. A la muerte de s
+ u hermano\, hizo un viaje a Rusia y comenzó a escribir. La intimidad que 
+ estableció con el lenguaje le condujo a una revelación y recuperó el ga
+ élico como lengua literaria. Una chica es una cosa a medio hacer repres
+ enta su debut literario\, y fue escrita en tan solo seis meses\, cuando Ei
+ mear McBride contaba veintisiete años de edad. Tras casi una década sin 
+ encontrar editor\, la novela apareció en un pequeño sello independiente 
+ inglés\, Galley Beggar\, y constituyó una de las mayores sorpresas de la
+  temporada editorial inglesa\, alzándose con el premio Desmond Elliot\, e
+ l Baileys Women’s Prize for Fiction\, el Kerry Group Irish Novel of the 
+ Year y el Geoffrey Faber Memorial Prize. Más tarde se publicaría en EE. 
+ UU. de la mano de la prestigiosa Coffee House Press\, hasta ser fichada po
+ r Faber & Faber. Su segunda novela\, The Lesser Bohemians (2016)\, se hi
+ zo con el premio James Tait Black Memorial Prize\, y fue seleccionada para
+  los premios Goldsmith y RSL Encore. En 2020 ha publicado su tercera novel
+ a\, Strange Hotel. Ha prologado libros de la destacada escritora y poeta
+  rusa Anna Ajmátova. Organiza: Desperate Literature y Tourism Ireland. I
+ mparte: Eimear McBride y Enrique Redel. Público: Jóvenes y adultos.\n\n
+ https://www.mataderomadrid.org/programacion/semana-de-irlanda-con-eimear-m
+ cbride
 LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 END:VCALENDAR

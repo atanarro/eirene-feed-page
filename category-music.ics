@@ -2,25 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Avatar + Alien Weaponry
-DTSTART;TZID=Europe/Madrid:20260225T190000
-UID:c1ea6be7a1953f0dc047b667617e16e6e19bba1962dc7a38ec9064613d8afc65
-CATEGORIES:music
-DESCRIPTION:Apertura Puertas: 18:00\n\nhttps://www.madnesslive.es/es/conci
- ertos-en-madrid/1779-comprar-entrada-avatar-alien-weaponry-madrid.html
-LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
- id
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SEMILLAS DE ESPERANZA: concierto solidario por Palestina
-DTSTART;TZID=Europe/Madrid:20260225T200000
-UID:2d9382dbf812155eac1ea7ad3ac106a4ef1ba8c5bfde26a735043479d57d2ddd
-CATEGORIES:music
-DESCRIPTION:Concierto / Pop / Rock\n\nhttps://salavillanos.es/evento/semil
- las-de-esperanza-concierto-solidario-por-palestina/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Adrian Sherwood
 DTSTART;TZID=Europe/Madrid:20260226T203000
 UID:f8600036e0604b53248eccccd0ebf3ef2c814ddab230a23cd9a59db80c20674b
@@ -155,12 +136,9 @@ LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
  id
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:POR TINO: Artistas invitados: Antonio Carmona\, Yumitus\, Son D´a
- likante\, Guadiana\, Josemi Carmona\, Piraña\, Miguel El Rubio\, Montse C
- ortes\, Jorge Pardo\, Ingueta\, Pepe Luis Carmona\, Camaron de la Pitita\,
-  Pepe Luis Carmona\, Joselito Romero\, Bandolero\, Lucas Carmona…
+SUMMARY:Por Tino
 DTSTART;TZID=Europe/Madrid:20260304T220000
-UID:c46481f44f68db5bbd4a7dfd3f9b90c441d7661c6da02088e9f31ab1ab42c214
+UID:77176d08c6fc70052393bfb899279fc36689a91b61a45e07a7427bf176bdad76
 CATEGORIES:music
 DESCRIPTION:Concierto / Flamenco\n\nhttps://salavillanos.es/evento/por-tin
  o-artistas-invitados-antonio-carmona-yumitus-son-dalikante-guadiana-josemi
@@ -338,16 +316,6 @@ DESCRIPTION:Concierto / Flamenco / Jazz\n\nhttps://salavillanos.es/evento/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:G-5
-DTSTART;TZID=Europe/Madrid:20260311T200000
-UID:835ac06b29e0e34224219d1a51b4cfbc2a873be5ad1caebcadf06bc13b1719b7
-CATEGORIES:music
-DESCRIPTION:Apertura Puertas: 19:00 pm\n\nhttps://mutick.com/e/entradas-g5
- -madrid
-LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
- id
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:I Patagarri
 DTSTART;TZID=Europe/Madrid:20260311T203000
 UID:13b22b0f256a3fa2ad22b12e55317c4f8958f8e4d82d913e295c579c5a45bd99
@@ -384,6 +352,19 @@ DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://www.enterticket.es/event
  os/andres-suarez-madrid-130326-678513
 LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
  id
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fiesta Carabanchel Distrito Cultural: Reina Roja + La Chacha De Na
+ die
+DTSTART;TZID=Europe/Madrid:20260313T213000
+UID:8006afb7f871486c26ede27d477219ef9b258b274df8f34ee3c1442f1b59d627
+CATEGORIES:music
+DESCRIPTION:Precio de las entradas: 10€/14€ Entradas a la venta en mov
+ ingtickets Reina Roja_facebook + Reina Roja_instagram La Chacha de Nadie_f
+ acebook + La Chacha de Nadie_ X + La Chacha de\n\nhttps://gruta77.com/even
+ ts/fiesta-carabanchel-distrito-cultural-reina-roja-la-chacha-de-nadie/var/
+ ri-0.l-L2
+LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hercules & Love Affair DJ SET + ISAAC ARGA / ESTRELLA OR
@@ -565,6 +546,15 @@ DESCRIPTION:Precio de las entradas: 14€/17€ Entradas a la venta en mov
 LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:VILLAMOLINOS matinés musicales
+DTSTART;TZID=Europe/Madrid:20260322T130000
+UID:50bd21eb5b613118a353660bc4671cc3428e7684d9b14823bbc55d1ce31ce89c
+CATEGORIES:music
+DESCRIPTION:Concierto / Jazz\n\nhttps://salavillanos.es/evento/villamolino
+ s-matines-musicales-6/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:La  M.O.D.A.
 DTSTART;TZID=Europe/Madrid:20260322T130000
 UID:627bf7dff1a285066935a44ebc5308835c2dc45a27da88e84535babe96c23913
@@ -664,10 +654,56 @@ SUMMARY:Dúo Caifás Presenta "Jesucristo Superstar"
 DTSTART;TZID=Europe/Madrid:20260326T210000
 UID:732430b5a69583bc6d71a33c0421e42130461a52d72c8508e03cfd9d2235cc4c
 CATEGORIES:music
-DESCRIPTION:Precio de las entradas: 10€/12€ Entradas a la venta en mov
- ingtickets próximamente Bio/enlaces bandas: Más información: Vuelve el 
- DÚO CAIFÁS con su Gira Crucis a preparar el camino de\n\nhttps://gruta77
- .com/events/duo-caifas-presenta-jesucristo-superstar/var/ri-0.l-L2
+DESCRIPTION:Precio de las entradas: 10€/13€ Entradas a la venta en mov
+ ingtickets Bio/enlaces bandas: Más información: Vuelve el DÚO CAIFÁS c
+ on su Gira Crucis especial XV Aniversario. Preparando el camino de\n\nhttp
+ s://gruta77.com/events/duo-caifas-presenta-jesucristo-superstar/var/ri-0.l
+ -L2
 LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aprende a identificar las mariposas de Madrid
+DTSTART;TZID=Europe/Madrid:20260327T110000
+DTEND;TZID=Europe/Madrid:20260327T140000
+UID:1844a9ec6a681e53a07bb5ee7467d7283e765f39c9b9f12e79a15741d6d7321a
+CATEGORIES:music
+DESCRIPTION:\nTaller dirigido a usuarios/as a partir de 9 años (especial 
+ familias).\n¿Conoces la gran cantidad de especies de mariposas que hay en
+  la ciudad? ¿Sabes qué mariposa merodea por tu jardín? ¿Te gustaría p
+ oder identificarla?\n\nTaller teórico-práctico en concierto con el Grupo
+  de Seguimiento de la Biodiversidad de la UCM y el Observatorio de Maripos
+ as Urbanas\, en el que descubriremos la biodiversidad de lepidópteros de 
+ Madrid.\n\n \nLa actividad incluirá la entrada al Centro Entomológico M
+ anuel Ortego con su importante colección de insectos.\nColabora:\n\n \n\
+ n\nhttps://diario.madrid.es/cieacasadecampo/evento/aprende-a-identificar-l
+ as-mariposas-de-madrid-41-2/
+LOCATION:CIEA Casa de Campo - Paseo Embarcadero\, 1\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Compota De Manana
+DTSTART;TZID=Europe/Madrid:20260327T203000
+UID:292b14e0a1aa889cda118d9dd62c92593e7375f6e4dd29612b56e2356f7f5339
+CATEGORIES:music
+DESCRIPTION:Concierto / Latin\n\nhttps://salavillanos.es/evento/compota-de
+ -manana/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Biznaga
+DTSTART;TZID=Europe/Madrid:20260327T210000
+UID:9ff11d7189859baed14506a8b240cfa0f89450752f2b70d9dadd2ad86e8cae5e
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://dice.fm/event/2wpp3o-biz
+ naga-27th-mar-la-riviera-madrid-tickets
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dam Swindle DJ SET + RAFA SANTOS
+DTSTART;TZID=Europe/Madrid:20260327T235900
+UID:85331b27d69b00428483b317d9642edf4be545c8599aac708dada37342f7fa08
+CATEGORIES:music
+DESCRIPTION:Club\n\nhttps://salavillanos.es/evento/dam-swindle-dj-set/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 END:VCALENDAR

@@ -2,19 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:El pan nuestro de cada día (Our Daily Bread\, 1934)
-DTSTART;TZID=Europe/Madrid:20260225T190000
-UID:40dba5e747063ccfd2bb33aacbdc1ca2c6f9f94226cead782ec2518d2ee6dfb5
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Miércoles 25 de Febrero a las 19:00h (Sala 1. T
- ejidos colectivos. Historias populares de\nresistencia). *Aunque las entra
- das aparezcan como agotadas en web\, pueden adquirirse en taquilla entrada
- s para las sesiones del día (de 17h a 20h)\n\nhttps://entradasfilmoteca.s
- acatuentrada.es/es/productos/descripcion/el-pan-nuestro-de-cada-dia
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Mapantsula (1988)
 DTSTART;TZID=Europe/Madrid:20260226T190000
 UID:cb2499466927653d778dc4c5ca016e58e707cd5ab47e8e4bf3fdf0013d2da623
@@ -52,6 +39,19 @@ DESCRIPTION:Fecha y Hora: Sábado 28 de Febrero a las 19:00h (Sala 1. Teji
   aparezcan como agotadas en web\, pueden adquirirse en taquilla entradas p
  ara las sesiones del día (de 17h a 20h)\n\nOriginal language: PT\n\nhttps
  ://entradasfilmoteca.sacatuentrada.es/es/productos/descripcion/bacurau
+LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
+ \, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Corazón verde (1971)
+DTSTART;TZID=Europe/Madrid:20260320T173000
+UID:e5899e1417dbf38f5b3eb47ba3345b93b02991b0c5814dc40fd22ed7507f6a1f
+CATEGORIES:cinema
+DESCRIPTION:Fecha y Hora: Viernes 20 de Marzo a las 17:30h (Sala 1. Kel
+ ly Reichardt. Carta blanca) *Aunque las entradas aparezcan como agotadas e
+ n web\, pueden adquirirse en taquilla entradas para las sesiones del día 
+ (de 17h a 20h)\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/productos/
+ descripcion/corazon-verde
 LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
  \, Madrid
 END:VEVENT
