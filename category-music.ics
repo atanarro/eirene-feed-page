@@ -2,25 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Adrian Sherwood
-DTSTART;TZID=Europe/Madrid:20260226T203000
-UID:f8600036e0604b53248eccccd0ebf3ef2c814ddab230a23cd9a59db80c20674b
-CATEGORIES:music
-DESCRIPTION:Concierto / Electronic / Hip Hop & Rap / Pop\n\nhttps://salavi
- llanos.es/evento/adrian-sherwood/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La M.O.D.A.
-DTSTART;TZID=Europe/Madrid:20260226T210000
-UID:385dcefe5324809da30fb3bb55163c20a0f6e29af9d0cee6be0dde57429d7159
-CATEGORIES:music
-DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://www.entradas.com/event/l
- a-m-o-d-a-sala-la-riviera-20297403/?affiliate=LVB#tab=
-LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
- id
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:La M.O.D.A.
 DTSTART;TZID=Europe/Madrid:20260227T210000
 UID:b02424dcb15abdab4c054bb9a2601997849f55135d59e258a12645e3102cfc58
@@ -130,7 +111,7 @@ SUMMARY:The Kooks
 DTSTART;TZID=Europe/Madrid:20260304T210000
 UID:7b1e5e5e08020c581a18250f2ebf0573868159f73fd4039b514e318d50954c56
 CATEGORIES:music
-DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://www.ticketmaster.es/even
+DESCRIPTION:Apertura Puertas: 19:00 pm\n\nhttps://www.ticketmaster.es/even
  t/the-kooks-entradas/1697362735
 LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
  id
@@ -342,6 +323,15 @@ DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://tickets.intromusica.com/
  entradas/hey-kid-madrid-la-riviera
 LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
  id
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Meli Perea
+DTSTART;TZID=Europe/Madrid:20260313T193000
+UID:2c77d086357259157c5022583584d596d93c15c187c7577afe6310ca97720dbc
+CATEGORIES:music
+DESCRIPTION:Concierto / Latin / Urban\n\nhttps://salavillanos.es/evento/me
+ li-perea/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Andrés Suárez
@@ -704,6 +694,45 @@ DTSTART;TZID=Europe/Madrid:20260327T235900
 UID:85331b27d69b00428483b317d9642edf4be545c8599aac708dada37342f7fa08
 CATEGORIES:music
 DESCRIPTION:Club\n\nhttps://salavillanos.es/evento/dam-swindle-dj-set/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lee Ritenour
+DTSTART;TZID=Europe/Madrid:20260328T210000
+UID:88066b209d188ec4fc91083fc17c90fd1edb30a2aaf82b07b9048b1d132fd3c8
+CATEGORIES:music
+DESCRIPTION:Concierto / Villanos del Jazz\n\nhttps://salavillanos.es/event
+ o/lee-ritenour/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Biznaga (Sold Out)
+DTSTART;TZID=Europe/Madrid:20260328T210000
+UID:02d976ff5e6f502b3fee2fab42a52922d4784429d4358e33cb2b3b2d0ff60556
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://dice.fm/event/eo2bq6-biz
+ naga-28th-mar-la-riviera-madrid-tickets
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zeke (EEUU) + Electric Riot
+DTSTART;TZID=Europe/Madrid:20260328T213000
+UID:467ada8a4a7e2f2aab18ae75356e116972f1e86b1ec7178fed2e0f4f48bc7eab
+CATEGORIES:music
+DESCRIPTION:Precio de las entradas: 25€ anticipada Entradas a la venta e
+ n movingtickets Bio/enlaces bandas: Zeke_facebook + Zeke_youtube + Zeke_in
+ stagram Electric Riot_instagram Más información: Zeke\, la banda más be
+ stia del mundo vuelve un año más\n\nhttps://gruta77.com/events/zeke-eeuu
+ -3/var/ri-0.l-L2
+LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DjRUM + LA IND0
+DTSTART;TZID=Europe/Madrid:20260328T235900
+UID:d50b3de6f2b89f3e15f815a28a22bf60e70784bf6d6fc39f0f48e8500f86d1ac
+CATEGORIES:music
+DESCRIPTION:Club\n\nhttps://salavillanos.es/evento/djrum-la-indo/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 END:VCALENDAR
