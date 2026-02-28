@@ -2,8 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
+SUMMARY:Nadie sabe lo que sufre un caracol
+DTSTART;TZID=Europe/Madrid:20260228T130000
+UID:001af55f2b9f54f37800b2bd18349a2cf1e7767b01a29752db09d6eadf99e306
+CATEGORIES:theater
+DESCRIPTION:¡Ya solo quedan 26 plazas!\n\nhttps://teatrodelbarrio.com/nad
+ ie-sabe-lo-que-sufre-un-caracol/
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Tres noches en Ítaca
-DTSTART;TZID=Europe/Madrid:20260227T193000
+DTSTART;TZID=Europe/Madrid:20260228T193000
 DTEND;TZID=Europe/Madrid:20260308T193000
 UID:ed9da931253d87d489ae0d68f035f4a45a3125745f1e3409183a14fc7505146b
 CATEGORIES:theater
@@ -12,48 +21,12 @@ DESCRIPTION:Entradas agotadas desde 15.75€ | Tags: JOBO\n\nhttps://tiend
 LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Federico. No hay olvido\, ni sueño: Carne viva
-DTSTART;TZID=Europe/Madrid:20260227T193000
-UID:a87cd9e0df50c4374a34696349a2042218ef24c369089f5929047345f09ac2dc
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/federico-no-hay-olvi
- do-ni-sueno-carne-viva/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Noche de fiesta - VERDE QUE TE QUIERO VERDE - Proyecto 43-2
-DTSTART;TZID=Europe/Madrid:20260227T220000
-UID:a74d472d8178f0775a4c609d3c962592ecb06a5164d5b946b6f7c98003d4c984
-CATEGORIES:theater
-DESCRIPTION:Programación en Teatro del Barrio\n\nhttps://teatrodelbarrio.
- com/noche-de-fiesta-proyecto-432/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Noche de fiesta - 15 AÑOS DE CINE LÉSBICO
-DTSTART;TZID=Europe/Madrid:20260227T220000
-UID:9b1966f0df355c9b3172dee965786beb51be32b876fc2994b8fb0166be1bb1fe
-CATEGORIES:theater
-DESCRIPTION:Programación en Teatro del Barrio\n\nhttps://teatrodelbarrio.
- com/noche-de-fiesta-15-anos-de-cine-lesbico/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nadie sabe lo que sufre un caracol
-DTSTART;TZID=Europe/Madrid:20260228T130000
-UID:001af55f2b9f54f37800b2bd18349a2cf1e7767b01a29752db09d6eadf99e306
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/nadie-sabe-lo-que-su
- fre-un-caracol/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Hoy tengo algo que hacer
 DTSTART;TZID=Europe/Madrid:20260228T193000
 UID:5eb4fdd427e8397159856aba40ab5fab1b86a913c9325026e907d8e9e9905db2
 CATEGORIES:theater
-DESCRIPTION:Localidades agotadas\n\nhttps://teatrodelbarrio.com/hoy-tengo-
- algo-que-hacer/
+DESCRIPTION:¡Ya solo quedan 3 plazas!\n\nhttps://teatrodelbarrio.com/hoy-
+ tengo-algo-que-hacer/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT

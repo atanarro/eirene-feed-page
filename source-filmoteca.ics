@@ -2,20 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:El globo atado (Privarzaniyat balon\, 1967)
-DTSTART;TZID=Europe/Madrid:20260227T190000
-UID:5be850dae0a9b118f9da519a01894f85f3babd0ff766c50f3a65e633891b6848
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Viernes 27 de Febrero a las 19:00h (Sala 1. Fuer
- a del radar. Hallazgos del cine\ninternacional / Tejidos colectivos. Histo
- rias populares de resistencia). *Aunque las entradas aparezcan como agotad
- as en web\, pueden adquirirse en taquilla entradas para las sesiones del d
- ía (de 17h a 20h)\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/produc
- tos/descripcion/el-globo-atado
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bacurau (2019)
 DTSTART;TZID=Europe/Madrid:20260228T190000
 UID:32609c8c9738a3196b588b50da81b5a5ab66079078dab6b159299f23043a9248
@@ -616,19 +602,6 @@ LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
  \, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Zama (2017)
-DTSTART;TZID=Europe/Madrid:20260327T200000
-UID:8b6553d8a64dc25083e74ea208940afa7ba9f98c00617c5fd9c6c2b584d2370a
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Viernes 27 de Marzo a las 20:00h (Sala 1.Kelly
-  Reichardt. Carta blanca) *Aunque las entradas aparezcan como agotadas en 
- web\, pueden adquirirse en taquilla entradas para las sesiones del día (d
- e 17h a 20h)\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/productos/de
- scripcion/zama
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Érase una vez… (1950)
 DTSTART;TZID=Europe/Madrid:20260328T173000
 UID:82342db2d6b6dbe6065e9ac3a56344499920d9eb742b0461bf3640f8b951ad68
@@ -651,6 +624,32 @@ DESCRIPTION:Fecha y Hora: Sábado 28 de Marzo a las 19:30h (Sala 1.Kelly
  web\, pueden adquirirse en taquilla entradas para las sesiones del día (d
  e 17h a 20h)\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/productos/de
  scripcion/walkabou
+LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
+ \, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los asesinos de la luna de miel (The Honeymoon Killers\,1970)
+DTSTART;TZID=Europe/Madrid:20260329T173000
+UID:0d3631ccfc79032f28c676042b85169e9a4735b8fd5b23fa37be46c0e38e1a98
+CATEGORIES:cinema
+DESCRIPTION:Fecha y Hora: Domingo 29 de Marzo a las 17:30h (Sala 1.Kelly
+  Reichardt. Juego de espejos) *Aunque las entradas aparezcan como agotadas
+  en web\, pueden adquirirse en taquilla entradas para las sesiones del dí
+ a (de 17h a 20h)\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/producto
+ s/descripcion/los-asesinos-de-la-luna-de-miel
+LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
+ \, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:River of Grass (1994)
+DTSTART;TZID=Europe/Madrid:20260329T200000
+UID:c8f1fdec22194133d069c662fb105adf4323d6d43bce9437784b911354d35fad
+CATEGORIES:cinema
+DESCRIPTION:Fecha y Hora: Domingo 29 de Marzo a las 20:00h (Sala 1.Kelly
+  Reichardt. Retrospectiva) *Aunque las entradas aparezcan como agotadas en
+  web\, pueden adquirirse en taquilla entradas para las sesiones del día (
+ de 17h a 20h)\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/productos/d
+ escripcion/river-of-grass-ii
 LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
  \, Madrid
 END:VEVENT

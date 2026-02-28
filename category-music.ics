@@ -2,37 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:La M.O.D.A.
-DTSTART;TZID=Europe/Madrid:20260227T210000
-UID:b02424dcb15abdab4c054bb9a2601997849f55135d59e258a12645e3102cfc58
-CATEGORIES:music
-DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://www.wegow.com/es/concier
- tos/la-moda-madrid-27-febrero
-LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
- id
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:¡Chiquita Movida se presenta por todo lo alto en Madrid!
-DTSTART;TZID=Europe/Madrid:20260227T213000
-UID:d7c9eda6c8d947aefeb427b0b3eb10401dc0eaa2b550074f72e7aa961013e586
-CATEGORIES:music
-DESCRIPTION:Concierto / Pop / Rock\n\nhttps://salavillanos.es/evento/chiqu
- ita-movida-se-presenta-por-todo-lo-alto-en-madrid/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Yeska + Kike Babas Y La Desbandá
-DTSTART;TZID=Europe/Madrid:20260227T213000
-UID:e853cb3e1a48ae613418d40b0196c4bd308a2395b13f554c4d26f7a88d31b74f
-CATEGORIES:music
-DESCRIPTION:Precio de las entradas: 12€/16€ Entradas a la venta en mov
- ingtickets Bio/enlaces bandas: Yeska_facebook + Yeska_instagram + Yeska_yo
- utube Kike Babas_facebook + Kike Babas_instagram Más información: Yeska 
- vuelve más vivos y más fieles que\n\nhttps://gruta77.com/events/yeska-ki
- ke-babas-y-la-desbanda/var/ri-0.l-L2
-LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Austra
 DTSTART;TZID=Europe/Madrid:20260228T210000
 UID:17440b7ba8e6b3be430f0ffb20c1871313db08bdc555befe0dd3bc4c4a5b2611
@@ -645,10 +614,10 @@ DTSTART;TZID=Europe/Madrid:20260326T210000
 UID:732430b5a69583bc6d71a33c0421e42130461a52d72c8508e03cfd9d2235cc4c
 CATEGORIES:music
 DESCRIPTION:Precio de las entradas: 10€/13€ Entradas a la venta en mov
- ingtickets Bio/enlaces bandas: Más información: Vuelve el DÚO CAIFÁS c
- on su Gira Crucis especial XV Aniversario. Preparando el camino de\n\nhttp
- s://gruta77.com/events/duo-caifas-presenta-jesucristo-superstar/var/ri-0.l
- -L2
+ ingtickets Bio/enlaces bandas: Más información: JESUCRISTO SUPERSTAR de 
+ salón por el DÚO CAIFÁS. Gira Crucis XV Aniversario. Gilberto Aubán y 
+ Antonio\n\nhttps://gruta77.com/events/duo-caifas-presenta-jesucristo-super
+ star/var/ri-0.l-L2
 LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -716,15 +685,15 @@ LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
  id
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Zeke (EEUU) + Electric Riot
+SUMMARY:Zeke (EEUU) + Electric Riot\; En Escenarios Mahou
 DTSTART;TZID=Europe/Madrid:20260328T213000
-UID:467ada8a4a7e2f2aab18ae75356e116972f1e86b1ec7178fed2e0f4f48bc7eab
+UID:f4b0865cae8e42355862a35db117998134f8bfefca45d69b9f9620e0912128fc
 CATEGORIES:music
-DESCRIPTION:Precio de las entradas: 25€ anticipada Entradas a la venta e
- n movingtickets Bio/enlaces bandas: Zeke_facebook + Zeke_youtube + Zeke_in
- stagram Electric Riot_instagram Más información: Zeke\, la banda más be
- stia del mundo vuelve un año más\n\nhttps://gruta77.com/events/zeke-eeuu
- -3/var/ri-0.l-L2
+DESCRIPTION:Precio de las entradas: 25€/30€ Entradas a la venta en mov
+ ingtickets Bio/enlaces bandas: Zeke_facebook + Zeke_youtube + Zeke_instagr
+ am Electric Riot_instagram Más información: Zeke\, la banda más bestia 
+ del mundo vuelve un año más demostrando\n\nhttps://gruta77.com/events/ze
+ ke-eeuu-3/var/ri-0.l-L2
 LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -734,5 +703,15 @@ UID:d50b3de6f2b89f3e15f815a28a22bf60e70784bf6d6fc39f0f48e8500f86d1ac
 CATEGORIES:music
 DESCRIPTION:Club\n\nhttps://salavillanos.es/evento/djrum-la-indo/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:J.I.D.
+DTSTART;TZID=Europe/Madrid:20260329T203000
+UID:30a27482f471022bf9deb8583cfdef590ba8e5f6f8449bc9fabd94d62c4332a0
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:00 pm\n\nhttps://www.entradas.com/artist/
+ jid/?affiliate=RIV
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
 END:VEVENT
 END:VCALENDAR
