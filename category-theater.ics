@@ -2,34 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Federico. No hay olvido\, ni sueño: Carne viva
-DTSTART;TZID=Europe/Madrid:20260301T180000
-UID:a0520256547d05a03a1f6979e127217af9be4b4e249f4a3553dc57eeca8a127d
-CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 27 plazas!\n\nhttps://teatrodelbarrio.com/fed
- erico-no-hay-olvido-ni-sueno-carne-viva/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tres noches en Ítaca
-DTSTART;TZID=Europe/Madrid:20260301T193000
-DTEND;TZID=Europe/Madrid:20260308T193000
-UID:ed9da931253d87d489ae0d68f035f4a45a3125745f1e3409183a14fc7505146b
-CATEGORIES:theater
-DESCRIPTION:Entradas agotadas desde 15.75€ | Tags: JOBO\n\nhttps://tiend
- a.madrid-destino.com/es/nave-10/tres-noches-en-itaca/
-LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La rabia es nuestra
-DTSTART;TZID=Europe/Madrid:20260301T203000
-UID:d83368dc770ef16c0f487f646d1087674c04e72b4e2849c221a1351b04a97ab9
-CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 29 plazas!\n\nhttps://teatrodelbarrio.com/la-
- rabia-es-nuestra/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Club de lectura Capitán Barrio: Buenas y enfadadas\, de Rebecca T
  raister
 DTSTART;TZID=Europe/Madrid:20260302T190000
@@ -58,6 +30,16 @@ DESCRIPTION:¡Ya solo quedan 1 plazas!\n\nhttps://teatrodelbarrio.com/ha-l
  legado-la-hora-de-la-resistencia-presentacion-del-numero-11-de-la-revista-
  5w/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tres noches en Ítaca
+DTSTART;TZID=Europe/Madrid:20260303T193000
+DTEND;TZID=Europe/Madrid:20260308T193000
+UID:ed9da931253d87d489ae0d68f035f4a45a3125745f1e3409183a14fc7505146b
+CATEGORIES:theater
+DESCRIPTION:Entradas agotadas desde 15.75€ | Tags: JOBO\n\nhttps://tiend
+ a.madrid-destino.com/es/nave-10/tres-noches-en-itaca/
+LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Los árboles no votan
@@ -212,9 +194,9 @@ SUMMARY:Homenaje a Marielle Franco y a las Defensoras y Defensores de los
 DTSTART;TZID=Europe/Madrid:20260310T190000
 UID:98dc66bbd52e2a2ae1979ea16a509e00850ea4b2e11d01ba81c8181c024dbe6f
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 15 plazas!\n\nhttps://teatrodelbarrio.com/hom
- enaje-a-marielle-franco-y-a-las-defensoras-y-defensores-de-los-derechos-hu
- manos/
+DESCRIPTION:¡Ya solo quedan 1 plazas!\n\nhttps://teatrodelbarrio.com/home
+ naje-a-marielle-franco-y-a-las-defensoras-y-defensores-de-los-derechos-hum
+ anos/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
