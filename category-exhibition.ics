@@ -14,19 +14,6 @@ DESCRIPTION:Oportunidad única para admirar las obras más importantes de
 LOCATION:Conde Duque - del Conde Duque\, 11\, Madrid\, 28015
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Cleopatra\, la exposición inmersiva
-DTSTART;TZID=Europe/Madrid:20150912T000000
-DTEND;TZID=Europe/Madrid:20260517T000000
-UID:92ca9f16ebad00209813608a08482487332faf1f1675845e870f1bb9a27a52cd
-CATEGORIES:exhibition
-DESCRIPTION:Experiencia que transporta al corazón del Egipto helenístico
-  para redescubrir a una de las mujeres más fascinantes de la historia (MA
- D - Madrid Artes Digitales. Centro de Experiencias Inmersiv\n\nhttps://ma
- dridartesdigitales.com/agenda/cleopatra/
-LOCATION:MAD (Madrid Artes Digitales) Centro de Experiencias Inmersivas - 
- de Legazpi\, 8\, Madrid\, 28045
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Julia\, de Jaume Plensa
 DTSTART;TZID=Europe/Madrid:20181220T000000
 DTEND;TZID=Europe/Madrid:20271231T000000
@@ -37,6 +24,19 @@ DESCRIPTION:Una escultura de 12 metros del artista barcelonés se ubica so
  olón. Hasta diciembre 2027).\n\nhttps://www.fundacioncristinamasaveu.com/
  portfolio/julia-de-jaume-plensa/
 LOCATION:Plaza de Colón - de Colón\, Madrid\, 28004
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cleopatra\, la exposición inmersiva
+DTSTART;TZID=Europe/Madrid:20190912T000000
+DTEND;TZID=Europe/Madrid:20260517T000000
+UID:68443e7f138201dd482616240171cb3eee084f8f033645d5eec1b4259124d587
+CATEGORIES:exhibition
+DESCRIPTION:Experiencia que transporta al corazón del Egipto helenístico
+  para redescubrir a una de las mujeres más fascinantes de la historia (MA
+ D - Madrid Artes Digitales. Centro de Experiencias Inmersiv\n\nhttps://ma
+ dridartesdigitales.com/agenda/cleopatra/
+LOCATION:MAD (Madrid Artes Digitales) Centro de Experiencias Inmersivas - 
+ de Legazpi\, 8\, Madrid\, 28045
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Trenes históricos
@@ -633,6 +633,21 @@ DESCRIPTION:Arte\, lenguaje y energía confluyen en esta instalación del
 LOCATION:Instituto Cervantes - de Alcalá\, 49\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ignacio Bolívar y Urrutia (1850-1944). Director del Museo de Cien
+ cias Naturales
+DTSTART;TZID=Europe/Madrid:20251127T000000
+DTEND;TZID=Europe/Madrid:20260531T000000
+UID:80784ead747d4a1b823d1478a6eeaa5a17ab833f582566a716a46a8bd7f928e9
+CATEGORIES:exhibition
+DESCRIPTION:Homenaje al que fuera director del Museo Nacional de Ciencias 
+ Naturales en el primer tercio del siglo XX\, responsable de su modernizaci
+ ón y prestigio (MNCN. A partir 27 noviembre).\n\nhttps://www.mncn.csic.es
+ /es/visita-el-mncn/exposiciones/ignacio-bolivar-y-urrutia-1850-1944-direct
+ or-del-museo-de-ciencias
+LOCATION:Museo Nacional de Ciencias Naturales - de José Gutierrez Abascal
+ \, 2\, Madrid\, 28006
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Let's PLay. Juguemos en la colección
 DTSTART;TZID=Europe/Madrid:20251127T000000
 DTEND;TZID=Europe/Madrid:20260308T000000
@@ -717,6 +732,19 @@ DESCRIPTION:Exposición que recorre la historia de la bandera española\,
  desde sus orígenes hasta su consolidación como símbolo nacional (Museo 
  Naval. Hasta 5 abril).\n\nhttps://acortar.link/8SbSnm
 LOCATION:Museo Naval - del Prado\, 3\, Madrid\, 28014
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Metro Cómic. Un viaje entre viñetas
+DTSTART;TZID=Europe/Madrid:20251205T000000
+DTEND;TZID=Europe/Madrid:20260322T000000
+UID:bf0f9e577378815487e63fc0b06d6069e9e3a36c44faf7458435a7eb93571f0f
+CATEGORIES:exhibition
+DESCRIPTION:Una exposición que ofrece una panorámica sobre la relación 
+ entre el metro y el cómic (Nave de Motores de Pacífico. Viernes a doming
+ os. Hasta marzo 2026).\n\nhttps://museosmetromadrid.es/metro-comic-un-viaj
+ e-entre-vinetas/
+LOCATION:Nave de Motores de Pacífico - de Valderribas\, 49\, Madrid\, 280
+ 07
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:De Monet a Kandinski. Arte revolucionario
@@ -902,6 +930,19 @@ DESCRIPTION:El espacio dialogará con esta gran instalación de pinturas\,
 LOCATION:CentroCentro - de Cibeles\, 1\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Intolerancia. España en una Europa convulsa\, 1914-1945
+DTSTART;TZID=Europe/Madrid:20251219T000000
+DTEND;TZID=Europe/Madrid:20260412T000000
+UID:27abdbfb8850484a3247bfbcb0f9df01cc0a6f100a130c2e10bd35d5b8951756
+CATEGORIES:exhibition
+DESCRIPTION:Recorrido por episodios clave de la Historia de nuestro país 
+ en las décadas centrales del siglo XX a través de documentos originales 
+ e inéditos (Residencia de Estudiantes. Hasta 12 abril).\n\nhttps://reside
+ nciadeestudiantes.com/exposiciones/intolerancia-espana-en-una-europa-convu
+ lsa-1914-1945
+LOCATION:Residencia de Estudiantes - del Pinar\, 21-23\, Madrid\, 28006
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Viajar en el tiempo: 85 años de publicidad de Renfe
 DTSTART;TZID=Europe/Madrid:20251219T000000
 DTEND;TZID=Europe/Madrid:20260531T000000
@@ -974,19 +1015,6 @@ DESCRIPTION:Exposición de Antonio Liébana que reúne 25 fotografías de
  os-un-proyecto-fotografico-de-antonio-liebana/
 LOCATION:B the travel brand Xperience Madrid - de Miguel Ángel\, 33\, Mad
  rid\, 28010
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:War - Kepa Garraza
-DTSTART;TZID=Europe/Madrid:20260115T000000
-DTEND;TZID=Europe/Madrid:20260314T000000
-UID:671bfe90629677bce502d7a787a56069680f1c8110f6b34502e1e015027774f0
-CATEGORIES:exhibition
-DESCRIPTION:Serie de obras concebidas como un proyecto de análisis crí
- tico sobre las representaciones de la guerra y sus efectos en las sociedad
- es contemporáneas (Galería de arte Álvaro Alcázar. Hasta\n\nhttps://
- galeriaalvaroalcazar.com/2025/12/16/war-kepa-garraza/
-LOCATION:Álvaro Alcázar Galería de Arte - de Saturnino Calleja\, 3\, ba
- jo\, Madrid\, 28002
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Des-caradas
@@ -1289,18 +1317,6 @@ LOCATION:Real Academia de Bellas Artes de San Fernando - de Alcalá\, 13\,
   Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:La casa de las artes. Abierta desde 1926
-DTSTART;TZID=Europe/Madrid:20260212T000000
-DTEND;TZID=Europe/Madrid:20260510T000000
-UID:ee5ed0b89007b2883c9bf9b903f561f71f75e32932b51c1e4a905c62f4ed3042
-CATEGORIES:exhibition
-DESCRIPTION:Un recorrido por el origen\, el diseño y la construcción de 
- una de las arquitecturas más emblemáticas de la Gran Vía madrileña (C
- írculo de Bellas Artes. Hasta 10 may).\n\nhttps://www.circulobellasartes.
- com/exposiciones/la-casa-de-las-artes-abierta-desde-1926/
-LOCATION:Círculo de Bellas Artes - de Alcalá\, 42\, Madrid\, 28014
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:X Muestra Orfebrería y Joyería Contemporánea
 DTSTART;TZID=Europe/Madrid:20260212T000000
 DTEND;TZID=Europe/Madrid:20260426T000000
@@ -1557,6 +1573,19 @@ LOCATION:Instituto Cultural de México en España - de San Jerónimo\, 46\
  , Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Eclosión. El Círculo de Bellas Artes en los 80 y 90
+DTSTART;TZID=Europe/Madrid:20260225T000000
+DTEND;TZID=Europe/Madrid:20260510T000000
+UID:df8843aa27649dc0af2e4f4d0218ba29b3cf53a3e96fcc516a3eef4ad11ded67
+CATEGORIES:exhibition
+DESCRIPTION:Exposición que revisa su periodo de renovación y la volunt
+ ad de convertirse en un centro cultural multidisciplinar\, innovador y con
+ ectado con las necesidades de su tiempo (Círculo de Bell\n\nhttps://www.c
+ irculobellasartes.com/exposiciones/eclosion-el-circulo-de-bellas-artes-en-
+ los-80-y-90/
+LOCATION:Círculo de Bellas Artes - de Alcalá\, 42\, Madrid\, 28014
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Fronteras móviles. Arte latinoamericano en tránsito
 DTSTART;TZID=Europe/Madrid:20260225T000000
 DTEND;TZID=Europe/Madrid:20260307T000000
@@ -1567,19 +1596,6 @@ DESCRIPTION:Exposición colectiva de arte contemporáneo realizado en Lati
  y Europa (Casa de América. 25 feb a 7 mar).\n\nhttps://www.casamerica.es/
  exposiciones/fronteras-moviles-arte-latinoamericano-en-circulacion
 LOCATION:Casa de América - de Cibeles\, 2\, Madrid\, 28014
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Una resistencia indetectable
-DTSTART;TZID=Europe/Madrid:20260225T000000
-DTEND;TZID=Europe/Madrid:20260503T000000
-UID:ac4d4266a91c0c826bff53341725aee8ef73bc1571eb4d936ffe038ee180a120
-CATEGORIES:exhibition
-DESCRIPTION:El proyecto expositivo de Paula Noya reflexiona sobre la capac
- idad del cuerpo humano para oponerse a las dinámicas actuales de eficienc
- ia (Sala de Arte Joven. 25 feb a 3 may).\n\nhttps://www.comunidad.madrid/a
- ctividades/2026/exposicion-resistencia-indetectable
-LOCATION:Sala de Arte Joven de la Comunidad de Madrid - de América\, 13\,
-  Madrid\, 28002
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Abierto x Obras - Pulgar. Mónica Mays
@@ -1628,19 +1644,6 @@ DESCRIPTION:Muestra que reúne una selección de obras inspiradas en las c
 LOCATION:Fundación Juan March - de Castelló\, 77\, Madrid\, 28006
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:La quema
-DTSTART;TZID=Europe/Madrid:20260227T000000
-DTEND;TZID=Europe/Madrid:20260524T000000
-UID:3e0a419209830f1fc6206f685eda8de77334c08356b0ea390d41d1de6486a776
-CATEGORIES:exhibition
-DESCRIPTION:Una retrospectiva de Elena del Rivero como parte del programa 
- especial del 150º aniversario y del programa Visiones críticas (Museo Na
- cional de Antropología. 27 feb a 24 may).\n\nhttps://www.cultura.gob.es/m
- nantropologia/en/actividades/agenda/2026/expotemporales2026/quema.html
-LOCATION:Museo Nacional de Antropología - de Alfonso XII\, 68\, Madrid\, 
- 28014
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Gloria Fuertes (hoy)
 DTSTART;TZID=Europe/Madrid:20260303T000000
 DTEND;TZID=Europe/Madrid:20260915T000000
@@ -1663,25 +1666,6 @@ DESCRIPTION:Los jóvenes artistas ucranianos exploran con sus fotografía
  sen.org/exposiciones/khimei-malashchuk-pedagogias-guerra
 LOCATION:Museo Nacional Thyssen-Bornemisza - del Prado\, 8\, Madrid\, 2801
  4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:fe sin obras muerta es
-DTSTART;TZID=Europe/Madrid:20260303T193000
-UID:db41bfdcb7cd252345b3b06aae026528eafc074cd12182dbc3b0035e8e85a0a3
-CATEGORIES:exhibition
-DESCRIPTION:Con fe sense obres morta és \, Serra se adentra en los territ
- orios más íntimos y espirituales de la producción de Antoni Tàpies\, e
- xplorando sus límites matéricos\, la carga simbólica y la densidad filo
- sófica desde una mirada propia\, insobornable y siempre provocadora. El f
- ilme rehúye la narración convencional para construir una experiencia inm
- ersiva que dialoga con el pensamiento y la estética del artista\, y subra
- ya su vigencia\, complejidad y fuerza transformadora. Así pues\, este pro
- yecto audiovisual es mucho más que un retrato o un ejercicio de interpret
- ación: se trata de una propuesta artística autónoma que\, partiendo del
-  universo de Tàpies\, desvela las dimensiones ocultas o inesperadas del m
- ismo. > Presentación a cargo de Imma Prieto\, directora del Museu Tàpie
- s\n\nhttps://www.mataderomadrid.org/programacion/fe-sin-obras-muerta-es
-LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ana Locking. Nostalgia / Utopía
@@ -2046,6 +2030,33 @@ DESCRIPTION:Innovadora propuesta expositiva a través de animaciones que f
 LOCATION:Museo de América - de los Reyes Católicos\, 6\, Madrid\, 28040
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Trànsit
+DTSTART;TZID=Europe/Madrid:20260313T170000
+UID:b0845675ef6c465f1b8e822e51eeabaea688086b41cb7dc2f56693b45f7d99ea
+CATEGORIES:exhibition
+DESCRIPTION:Una reflexión sobre cómo las señales que forman parte de la
+  cotidianeidad del paisaje urbano pueden ser transformadas en una experien
+ cia cultural. cabosanroque y Studio Animal convierten 49 semáforos en mat
+ eria artística\, liberándolos de su codificación como reguladores del t
+ ráfico y provocando que las tres icónicas luces se mezclen y jueguen con
+  el ritmo sonoro hasta generar una paleta de gradiente infinito\, en trán
+ sito del rojo al verde. Se conforma así un espacio inmersivo que invita a
+ l espectador a sumergirse en un trayecto entre movimiento y quietud. cabos
+ anroque son Laia Torrents Carulla y Roger Aixut Sampietro. Su trabajo\, c
+ entrado en sonido y tecnología\, busca tensiones entre disciplinas —mú
+ sica\, teatro y artes visuales— y cuestiona el espacio de exhibición y 
+ los formatos. Sus obras se presentan en instituciones como Centre Pompidou
+ \, CCCB o Théâtre Garonne\, Cité de l’Architecture o Museo Cabañas\,
+  entre otros. Con sede entre Madrid y Barcelona y dirigido por Javier Jim
+ énez Iniesta\, Studio Animal es un estudio especializado en arquitectur
+ a efímera e interiorismo que explora nuevas formas de habitar el espacio.
+  Cuenta con premios como FAD (2023 y 2024)\, ROOM 2024 y FRAME Award 2024.
+  Autores: cabosanroque + Studio Animal (Roger Aixut\, Laia Torrents\, Javi
+ er J. Iniesta) Obra creada para Llum Bcn 2025 producida por Simon\n\nhttps
+ ://www.mataderomadrid.org/programacion/transit
+LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Si te lo cuento tendría que matarte
 DTSTART;TZID=Europe/Madrid:20260313T180000
 UID:5cd4189cbc61a77f0e1ac2df82ef66e464f8dc1d03107d1cd979751e3fc31212
@@ -2095,10 +2106,10 @@ DESCRIPTION:ACTIVIDAD DE ACCESO GRATUITO PREVIA INSCRIPCIÓN\, RELLENANDO
 LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Guercino et ses héroïnes bibliques
+SUMMARY:Guercino y sus heroínas bíblicas
 DTSTART;TZID=Europe/Madrid:20260316T000000
 DTEND;TZID=Europe/Madrid:20260614T000000
-UID:a9af7b1c675f0e83823e27f9472a405014d6b0241b06506d7b0980fc9e135b5b
+UID:3e9a3ab4dc5ca83af24c15b8fa0189271af5516df95addfa10c4cc25749e9bcc
 CATEGORIES:exhibition
 DESCRIPTION:Pequeña muestra que presenta un conjunto de obras de Giovanni
   Francesco Barbieri\, figura clave de la pintura barroca (Museo Nacional T
@@ -2106,5 +2117,30 @@ DESCRIPTION:Pequeña muestra que presenta un conjunto de obras de Giovanni
  iciones/guercino-heroinas-biblicas
 LOCATION:Museo Nacional Thyssen-Bornemisza - del Prado\, 8\, Madrid\, 2801
  4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valle-Inclán en Madrid
+DTSTART;TZID=Europe/Madrid:20260320T000000
+DTEND;TZID=Europe/Madrid:20260621T000000
+UID:21f85e48917fe3e455df3d6312a228bd4e50042ea990939030650fb759626569
+CATEGORIES:exhibition
+DESCRIPTION:Recorrido por la vida y obra del genial escritor gallego duran
+ te sus estancias en Madrid (Biblioteca Regional Joaquín Leguina. 20 mar a
+  21 jun).\n\nhttps://www.comunidad.madrid/actividades/2025/exposicion-vall
+ e-inclan-madrid
+LOCATION:Biblioteca Regional de la Comunidad de Madrid Joaquín Leguina - 
+ de Ramírez de Prado\, 3\, Madrid\, 28045
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HELNWEIN: mundos invertidos
+DTSTART;TZID=Europe/Madrid:20260325T000000
+DTEND;TZID=Europe/Madrid:20260930T000000
+UID:589bff2b47fe2569cb5e1920515f441c0e2aa7c4a42b54347667e7768faccc2a
+CATEGORIES:exhibition
+DESCRIPTION:El extraordinario universo visual del artista austro irlandés
+  Gottfried Helnwein protagoniza esta exposición que reúne varias de sus 
+ más icónicas obras (SOLO Independencia. 25 mar a 30 dic).\n\nhttps://sol
+ ocontemporary.com/projects/helnwein-mundos-invertidos/
+LOCATION:SOLO Independencia - de la Independencia\, 5\, Madrid\, 28001
 END:VEVENT
 END:VCALENDAR
