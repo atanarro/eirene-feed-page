@@ -2,32 +2,34 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
+SUMMARY:Constelaciones
+DTSTART;TZID=Europe/Madrid:20260206T200000
+DTEND;TZID=Europe/Madrid:20260329T200000
+UID:93c4e4d7ae6705d0c227557155cc519e701190d3161c898ffd770ed7229b6a00
+CATEGORIES:theater
+DESCRIPTION:Texto Nick Payne Versión y dirección Sergio Peris-Mencheta\n
+ \nhttps://dramatico.inaem.gob.es/evento/constelaciones/
+LOCATION:Teatro Valle-Inclán - Plaza de Lavapies\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La última noche con mi hermano
+DTSTART;TZID=Europe/Madrid:20260213T200000
+DTEND;TZID=Europe/Madrid:20260405T200000
+UID:df484f18448dee2449eea922969c3fad7ae78cccea7db5d8b2709d15dea021fd
+CATEGORIES:theater
+DESCRIPTION:Texto y dirección Alfredo Sanzol\n\nhttps://dramatico.inaem.g
+ ob.es/evento/la-ultima-noche-con-mi-hermano/
+LOCATION:Teatro Maria Guerrero - Calle de Tamayo y Baus\, 4\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Tres noches en Ítaca
-DTSTART;TZID=Europe/Madrid:20260304T193000
+DTSTART;TZID=Europe/Madrid:20260305T193000
 DTEND;TZID=Europe/Madrid:20260308T193000
 UID:ed9da931253d87d489ae0d68f035f4a45a3125745f1e3409183a14fc7505146b
 CATEGORIES:theater
 DESCRIPTION:Entradas agotadas desde 21.00€ | Tags: JOBO\n\nhttps://tiend
  a.madrid-destino.com/es/nave-10/tres-noches-en-itaca/
 LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Los árboles no votan
-DTSTART;TZID=Europe/Madrid:20260304T193000
-UID:b9c1bc289463dba58dc027b1812e668afba5fab772a65f85fba347c669664225
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/los-arboles-no-votan
- /
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Swing en el Teatro del Barrio
-DTSTART;TZID=Europe/Madrid:20260304T220000
-UID:1e29cad24c684c6d354d6472efef32beaa748df5e386dcb7f2451686920f9c10
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/swing-en-el-teatro-d
- el-barrio/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gordas\, lisiadas y mamarrachas
@@ -43,16 +45,27 @@ SUMMARY:Jajás en el Barrio
 DTSTART;TZID=Europe/Madrid:20260305T220000
 UID:ebe26f7c2390fe0757ff41dbc48c34c1569926cb198f2c46a722957de637eb21
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 24 plazas!\n\nhttps://teatrodelbarrio.com/jaj
+DESCRIPTION:¡Ya solo quedan 23 plazas!\n\nhttps://teatrodelbarrio.com/jaj
  as-en-el-barrio/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Casi ninguna verdad
+DTSTART;TZID=Europe/Madrid:20260306T180000
+DTEND;TZID=Europe/Madrid:20260412T180000
+UID:7bb9229c5406de701333b18c1b45d43cb2daeda7ff87b2d98af381c1eb282154
+CATEGORIES:theater
+DESCRIPTION:Texto y dirección Cris Blanco Dramaturgia Cris Blanco\, Ósca
+ r Bueno Rodríguez y Anto Rodríguez\n\nhttps://dramatico.inaem.gob.es/eve
+ nto/casi-ninguna-verdad/
+LOCATION:Teatro Valle-Inclán - Plaza de Lavapies\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CAPITAL. El valor de ser joven
 DTSTART;TZID=Europe/Madrid:20260306T193000
 UID:4ac883ebf65352a39910573caddd040a1c987e6ea43c6957ab02370ae6cd31b1
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 9 plazas!\n\nhttps://teatrodelbarrio.com/capi
+DESCRIPTION:¡Ya solo quedan 1 plazas!\n\nhttps://teatrodelbarrio.com/capi
  tal-el-valor-de-ser-joven/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
@@ -118,32 +131,6 @@ DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/arrancamiento/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tres noches en Ítaca
-DTSTART;TZID=Europe/Madrid:20260308T193000
-UID:79d90d7fc56b5f66cfcfaa10237226b981047e05c58c8e9c4786a8dd27342d27
-CATEGORIES:theater
-DESCRIPTION:Cuando la madre muere\, el muro cae y la muerte está ahí\, e
- nfrente\, ya ineludible. Una mujer\, cerca de los 50\, deja a su familia y
-  su trabajo de profesora de griego en un instituto para irse a vivir a una
-  isla griega: Ítaca. Veinte años después\, sus tres hijas viajan a Grec
- ia para organizar su entierro. Estas Tres noches en Ítaca les dará la op
- ortunidad de descubrir quién fue su madre. Alberto Conejero pone en manos
-  de Maria Goiricelaya este texto sobre el individuo dentro de la familia y
-  fuera de ella. Una pieza ágil que Conejero denomina tragicomedia\, porqu
- e ¿qué puede llevar a alguien a abandonar su vida\, su familia\, su trab
- ajo e irse a vivir a kilómetros de distancia? Las hijas de Alicia\, Ariad
- na\, Penélope y Elena\, todas ellas entre los 40 y los 50 años\, deben d
- escubrir qué le sucedió a su madre\, y cómo vivió todo ese tiempo tan 
- lejos de ellas. Pero también ha llegado el momento de que descubran quié
- nes son ellas mismas. Aunque no quieran. Tres noches en Ítaca es un entie
- rro en Grecia\, en una isla en donde la gente aún canta\, pero también e
- s un nacimiento\, el de una etapa de madurez en la vida de Ariadna\, Elena
-  y Penélope. Rocío Bello Dramaturgista de la temporada 25/26 de Nave 10 
- Matadero\n\nhttps://www.mataderomadrid.org/programacion/tres-noches-en-ita
- ca
-LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Solo quería bailar
 DTSTART;TZID=Europe/Madrid:20260308T203000
 UID:b572741c4d5e1ba9464b49a95354032d1ca9bb81a9ef7b2cccf151d2c4466c61
@@ -156,7 +143,8 @@ SUMMARY:La gran cacería
 DTSTART;TZID=Europe/Madrid:20260309T193000
 UID:50183c64d7fc0aa6e42252984046f8fad1cb83ec7f7e1a69ddf9979526859b31
 CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/la-gran-caceria/
+DESCRIPTION:¡Ya solo quedan 26 plazas!\n\nhttps://teatrodelbarrio.com/la-
+ gran-caceria/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -276,6 +264,16 @@ DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/ser-humana/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:A 50 AÑOS DEL GOLPE DE ESTADO EN ARGENTINA\, MÁS MEMORIA\, MÁS 
+ VERDAD\, MÁS JUSTICIA.
+DTSTART;TZID=Europe/Madrid:20260317T190000
+UID:24be6d9b3a2c5ddda787f393b9206681167ffbde50d34e31a6509b28fefcd192
+CATEGORIES:theater
+DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/a-50-anos-del-golpe-
+ de-estado-en-argentina-mas-memoria-mas-verdad-mas-justicia/
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Los árboles no votan
 DTSTART;TZID=Europe/Madrid:20260318T193000
 UID:9b304fa7431b27c728aa6affc234087873d3dbd8b22c43f66c71e53546e47736
@@ -307,6 +305,16 @@ UID:45a7c17dbf4eb3033301e3ea81f9b8f92f634e826ead71a339d954066dc3a995
 CATEGORIES:theater
 DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/isa-y-javi/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Utopía en llamas
+DTSTART;TZID=Europe/Madrid:20260320T180000
+DTEND;TZID=Europe/Madrid:20260426T180000
+UID:a2d55cc52793d807a2dc3a7a9b1845d2fab03f29c67826917a62789076be6586
+CATEGORIES:theater
+DESCRIPTION:Texto Alda Lozano Dirección Concha Delgado y Sandra Ferrús\n
+ \nhttps://dramatico.inaem.gob.es/evento/utopia-en-llamas/
+LOCATION:Teatro Maria Guerrero - Calle de Tamayo y Baus\, 4\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Niebla
@@ -390,7 +398,7 @@ SUMMARY:Estreno del documental "Soy Tribulete 7"
 DTSTART;TZID=Europe/Madrid:20260324T190000
 UID:31b437b3eda05a1e740335efe80de82fc1a327bdac1badf77b22270e69a4f63c
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 16 plazas!\n\nhttps://teatrodelbarrio.com/est
+DESCRIPTION:¡Ya solo quedan 15 plazas!\n\nhttps://teatrodelbarrio.com/est
  reno-del-documental-soy-tribulete-7/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
@@ -410,6 +418,16 @@ UID:df79a72af200b01a10e19fa1cbf6c1035d70d0d044d96c14c0280aaeaf0d22c4
 CATEGORIES:theater
 DESCRIPTION:¡Ya solo quedan 1 plazas!\n\nhttps://teatrodelbarrio.com/un-v
  erano-por-metro-cuadrado/
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Concierto primer aniversario Peña Flamenca de Lavapiés a benefic
+ io de UNRWA España
+DTSTART;TZID=Europe/Madrid:20260326T221500
+UID:74132497d786ba12955989a9bb906057a7680dcf7c0f56e2f7c1517fd13cfe3c
+CATEGORIES:theater
+DESCRIPTION:¡Ya solo quedan 26 plazas!\n\nhttps://teatrodelbarrio.com/con
+ cierto-primer-aniversario-pena-flamenca-de-lavapies-a-beneficio-de-unrwa/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT

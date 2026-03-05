@@ -65,6 +65,19 @@ LOCATION:Archivo Regional de la Comunidad de Madrid - de Ramirez de Prado\
  , 3\, Madrid\, 28045
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Exponencial. De analógicos a digitales
+DTSTART;TZID=Europe/Madrid:20240514T000000
+DTEND;TZID=Europe/Madrid:20271231T000000
+UID:f5757770ba2619f835632f368e9ae1c25e8353ae577ea62f600b1f84611272c3
+CATEGORIES:exhibition
+DESCRIPTION:Exposición permanente que explora el creciente impacto que ha
+  tenido el desarrollo de las telecomunicaciones en todos los ámbitos de n
+ uestras vidas (Espacio Fundación Telefónica.\n\nhttp://espacio.fundacio
+ ntelefonica.com/
+LOCATION:Espacio Fundación Telefónica - de Fuencarral\, 3\, Madrid\, 280
+ 04
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Colección Masaveu. Arte español del siglo XX. De Picasso a Barce
  ló
 DTSTART;TZID=Europe/Madrid:20241009T000000
@@ -458,44 +471,6 @@ DESCRIPTION:Una selección de 22 retratos de la fotógrafa y activista Ele
 LOCATION:Matadero Madrid - de Legazpi\, 8\, Madrid\, 28045
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tú\, que tienes ademanes de ensueño
-DTSTART;TZID=Europe/Madrid:20251106T000000
-DTEND;TZID=Europe/Madrid:20260308T000000
-UID:0d9dbf33edf02812590c913ff7042b6c843a62a23d63c5e665330604bdfacc4c
-CATEGORIES:exhibition
-DESCRIPTION:Primera exposición individual de Lucía C. Pino en un museo d
- e la región de Madrid​ (Centro de Arte Dos de Mayo (CA2M) / Móstoles. 
- Hasta 8 mar).\n\nhttps://ca2m.org/exposiciones/lucia-c-pino-tu-que-tienes-
- ademanes-de-ensueno
-LOCATION:Centro de Arte Dos de Mayo (CA2M) / Móstoles - de la Constituci
- ón \, 23\, (Móstoles)\, Móstoles\, 28931
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Un visionado a tres voces. Colecciones de video del museo CA2M\, M
- AC de Panamá y Bienalsur
-DTSTART;TZID=Europe/Madrid:20251107T000000
-DTEND;TZID=Europe/Madrid:20260308T000000
-UID:252d9c6c5dec049cd616b19d6d6f02c0b6ec23ed48881a00fa498452c4c13a14
-CATEGORIES:exhibition
-DESCRIPTION:Muestra que establece un diálogo entre tres colecciones que o
- peran en diferentes marcos territoriales del Sur (Centro de Arte Dos de Ma
- yo (CA2M) / Móstoles. Hasta 8 marzo).\n\nhttps://ca2m.org/exposiciones/un
- -visionado-a-tres-voces
-LOCATION:Centro de Arte Dos de Mayo (CA2M) / Móstoles - de la Constituci
- ón \, 23\, (Móstoles)\, Móstoles\, 28931
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NIKE. Diseño en movimiento
-DTSTART;TZID=Europe/Madrid:20251112T000000
-DTEND;TZID=Europe/Madrid:20260405T000000
-UID:d5bcce03bce914c4882127876971059ff6567570eed75e745161acdd47935948
-CATEGORIES:exhibition
-DESCRIPTION:Primera gran exposición dedicada a la marca deportiva Nike co
- n un recorrido por su legado de innovación\, diseño y cultura (TeamLabs 
- Madrid. Hasta 5 abril).\n\nhttps://nikedisenoenmovimiento.com/
-LOCATION:Teamlabs - de San Martín\, 1\, Madrid\, 28013
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Pablo Reinoso. La vida se mueve
 DTSTART;TZID=Europe/Madrid:20251114T000000
 DTEND;TZID=Europe/Madrid:20260315T000000
@@ -585,19 +560,6 @@ LOCATION:Museo de Arte Contemporáneo - del Conde Duque\, 9\, Madrid\, 280
  15
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Alegorías de un porvenir
-DTSTART;TZID=Europe/Madrid:20251125T000000
-DTEND;TZID=Europe/Madrid:20260328T000000
-UID:3b5453be4f4fe4791337db554ef325d4fe1a8daea656b7f097e57c822d855606
-CATEGORIES:exhibition
-DESCRIPTION:El Banco de España analiza por primera vez el impacto del mov
- imiento art déco en su sede principal de Cibeles (Sala de Exposiciones Ba
- nco de España. Hasta 28 marzo).\n\nhttps://coleccion.bde.es/wca/es/seccio
- nes/exposiciones/alegorias-de-un-porvenir.html
-LOCATION:Sala de Exposiciones del Banco de España - de Alcalá\, 48\, Mad
- rid\, 28012
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Avatar: The Experience
 DTSTART;TZID=Europe/Madrid:20251126T000000
 DTEND;TZID=Europe/Madrid:20260419T000000
@@ -631,21 +593,6 @@ DESCRIPTION:Arte\, lenguaje y energía confluyen en esta instalación del
  Instituto Cervantes. 27 nov a 8 mar).\n\nhttps://cultura.cervantes.es/espa
  nya/es/Aeolia/185239
 LOCATION:Instituto Cervantes - de Alcalá\, 49\, Madrid\, 28014
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ignacio Bolívar y Urrutia (1850-1944). Director del Museo de Cien
- cias Naturales
-DTSTART;TZID=Europe/Madrid:20251127T000000
-DTEND;TZID=Europe/Madrid:20260531T000000
-UID:80784ead747d4a1b823d1478a6eeaa5a17ab833f582566a716a46a8bd7f928e9
-CATEGORIES:exhibition
-DESCRIPTION:Homenaje al que fuera director del Museo Nacional de Ciencias 
- Naturales en el primer tercio del siglo XX\, responsable de su modernizaci
- ón y prestigio (MNCN. A partir 27 noviembre).\n\nhttps://www.mncn.csic.es
- /es/visita-el-mncn/exposiciones/ignacio-bolivar-y-urrutia-1850-1944-direct
- or-del-museo-de-ciencias
-LOCATION:Museo Nacional de Ciencias Naturales - de José Gutierrez Abascal
- \, 2\, Madrid\, 28006
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Let's PLay. Juguemos en la colección
@@ -696,19 +643,6 @@ DESCRIPTION:Muestra que se centra en los noticiarios y documentales NO-DO
  Española. Hasta 26 julio).\n\nhttps://www.cultura.gob.es/cultura/areas/ci
  ne/mc/fe/difusion/exposiciones.html
 LOCATION:Filmoteca Española - de la Magdalena\, 10\, Madrid\, 28012
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Victoria Eugenia
-DTSTART;TZID=Europe/Madrid:20251203T000000
-DTEND;TZID=Europe/Madrid:20260405T000000
-UID:e677e5325777bd7995bb66f0d9d60972ee75b3c20ba5e69f4e01a995d109ff76
-CATEGORIES:exhibition
-DESCRIPTION:Un viaje a través de la fascinante vida y legado de la reina 
- Victoria Eugenia de Battenberg (Galería de las Colecciones Reales. Hasta 
- 5 abr).\n\nhttps://www.galeriadelascoleccionesreales.es/exposicion/victori
- a-eugenia/bde4b248-65e8-6cc8-44bb-6b91b6666366
-LOCATION:Galería de las Colecciones Reales - de Bailén\, 8\, Madrid\, 28
- 013
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gauchos
@@ -827,10 +761,10 @@ LOCATION:Museo Casa de La Moneda - del Doctor Esquerdo\, 36\, Madrid\, 280
  28
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Metamorfosis: espacio y sociedad en la colección idealista
+SUMMARY:Metamorphosis: space and society in the idealist collection
 DTSTART;TZID=Europe/Madrid:20251217T000000
 DTEND;TZID=Europe/Madrid:20260308T000000
-UID:9f9abfd0b28088da237d14e5afb2939a901b685d0cf3ccd8e744ab76d5c89a44
+UID:1b03f3d7a602eb36a22c10f7d5ecc170cb6bcd26651efdca1dbe80936ace21d0
 CATEGORIES:exhibition
 DESCRIPTION:Una selección de fotografías y videoarte realizados por vari
  os artistas de todo el mundo ofrecen una visión crítica de la realidad c
@@ -1317,6 +1251,18 @@ LOCATION:Real Academia de Bellas Artes de San Fernando - de Alcalá\, 13\,
   Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:La casa de las artes. Abierta desde 1926
+DTSTART;TZID=Europe/Madrid:20260212T000000
+DTEND;TZID=Europe/Madrid:20260510T000000
+UID:ee5ed0b89007b2883c9bf9b903f561f71f75e32932b51c1e4a905c62f4ed3042
+CATEGORIES:exhibition
+DESCRIPTION:Un recorrido por el origen\, el diseño y la construcción de 
+ una de las arquitecturas más emblemáticas de la Gran Vía madrileña (C
+ írculo de Bellas Artes. Hasta 10 may).\n\nhttps://www.circulobellasartes.
+ com/exposiciones/la-casa-de-las-artes-abierta-desde-1926/
+LOCATION:Círculo de Bellas Artes - de Alcalá\, 42\, Madrid\, 28014
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:X Muestra Orfebrería y Joyería Contemporánea
 DTSTART;TZID=Europe/Madrid:20260212T000000
 DTEND;TZID=Europe/Madrid:20260426T000000
@@ -1598,6 +1544,19 @@ DESCRIPTION:Exposición colectiva de arte contemporáneo realizado en Lati
 LOCATION:Casa de América - de Cibeles\, 2\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Una resistencia indetectable
+DTSTART;TZID=Europe/Madrid:20260225T000000
+DTEND;TZID=Europe/Madrid:20260503T000000
+UID:ac4d4266a91c0c826bff53341725aee8ef73bc1571eb4d936ffe038ee180a120
+CATEGORIES:exhibition
+DESCRIPTION:El proyecto expositivo de Paula Noya reflexiona sobre la capac
+ idad del cuerpo humano para oponerse a las dinámicas actuales de eficienc
+ ia (Sala de Arte Joven. 25 feb a 3 may).\n\nhttps://www.comunidad.madrid/a
+ ctividades/2026/exposicion-resistencia-indetectable
+LOCATION:Sala de Arte Joven de la Comunidad de Madrid - de América\, 13\,
+  Madrid\, 28002
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Abierto x Obras - Pulgar. Mónica Mays
 DTSTART;TZID=Europe/Madrid:20260226T000000
 DTEND;TZID=Europe/Madrid:20260524T000000
@@ -1621,18 +1580,6 @@ DESCRIPTION:Una selección de 100 obras contemporáneas pone en valor el p
 LOCATION:CentroCentro - de Cibeles\, 1\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ukiyo-e. El ferrocarril en el mundo flotante
-DTSTART;TZID=Europe/Madrid:20260226T000000
-DTEND;TZID=Europe/Madrid:20260607T000000
-UID:a48647a52a1e15ffc60e634cd8feb90d5bb1e0cd322a49cfe27a0d17ac074cda
-CATEGORIES:exhibition
-DESCRIPTION:Un acercamiento al arte japonés y su representación del ferr
- ocarril a través de los grabados conocidos con el nombre de ukiyo-e (Muse
- o del Ferrocarril. Hasta 7 junio).\n\nhttps://www.museodelferrocarril.org/
- comunicacion/noticia.asp?item=798
-LOCATION:Museo del Ferrocarril - de las Delicias\, 61\, Madrid\, 28045
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:A la manera del Bosco
 DTSTART;TZID=Europe/Madrid:20260227T000000
 DTEND;TZID=Europe/Madrid:20260412T000000
@@ -1642,6 +1589,19 @@ DESCRIPTION:Muestra que reúne una selección de obras inspiradas en las c
  reaciones del gran pintor flamenco (Fundación Juan March. 27 feb a 12 abr
  ).\n\nhttps://www.march.es/es/madrid/exposiciones/manera-bosco
 LOCATION:Fundación Juan March - de Castelló\, 77\, Madrid\, 28006
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La quema
+DTSTART;TZID=Europe/Madrid:20260227T000000
+DTEND;TZID=Europe/Madrid:20260524T000000
+UID:3e0a419209830f1fc6206f685eda8de77334c08356b0ea390d41d1de6486a776
+CATEGORIES:exhibition
+DESCRIPTION:Una retrospectiva de Elena del Rivero como parte del programa 
+ especial del 150º aniversario y del programa Visiones críticas (Museo Na
+ cional de Antropología. 27 feb a 24 may).\n\nhttps://www.cultura.gob.es/m
+ nantropologia/en/actividades/agenda/2026/expotemporales2026/quema.html
+LOCATION:Museo Nacional de Antropología - de Alfonso XII\, 68\, Madrid\, 
+ 28014
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gloria Fuertes (hoy)
@@ -1706,18 +1666,6 @@ DESCRIPTION:Retrospectiva escultórica que recorre la evolución de este a
 LOCATION:Casa de América - de Cibeles\, 2\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:La lechuza de Minerva
-DTSTART;TZID=Europe/Madrid:20260304T000000
-DTEND;TZID=Europe/Madrid:20260510T000000
-UID:5751bb495e916d3fa72c7683491798d0cc77c5488c0c05ff684d197aabb81dd5
-CATEGORIES:exhibition
-DESCRIPTION:Varios artistas\, colectivos y activistas participan en divers
- as instalaciones que invitan a repensar el papel y la potencia del arte e
- n la ciudad\, en las instituciones y en la vida colectiva (\n\nhttps://www
- .circulobellasartes.com/exposiciones/la-lechuza-de-minerva/
-LOCATION:Círculo de Bellas Artes - de Alcalá\, 42\, Madrid\, 28014
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Petrotuning
 DTSTART;TZID=Europe/Madrid:20260304T000000
 DTEND;TZID=Europe/Madrid:20260315T000000
@@ -1744,28 +1692,15 @@ LOCATION:Fundación Casa de México en España - de Alberto Aguilera\, 20\
  , Madrid\, 28015
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:A&E\, Adolf & Eva / Adam & Eve
-DTSTART;TZID=Europe/Madrid:20260304T120000
-UID:80a3b6713fd25fde0ec17b5ae6fcb87dbacfd3a5af7d94d7d0b45d14c647550c
+SUMMARY:Zodiac Machine. Justin Caguiat
+DTSTART;TZID=Europe/Madrid:20260304T000000
+DTEND;TZID=Europe/Madrid:20260401T000000
+UID:4a9cbf13abaf9d1fa0a0eea230dd6cf6788d5201eaf37532e4d3ca0ce79938b2
 CATEGORIES:exhibition
-DESCRIPTION:Programa: A&E\, Adolf & Eva / Adam & Eve\, Cooking Show\, Kit
- chen (Paul McCarthy\, EEUU\, 2022/2023\, 108') Adolf Adam (Paul McCarthy) 
- y Eva Eve (Lilith Stangenberg) hacen sopa y hablan a la cámara mientras b
- eben champán. Adolf Adam es el cerdo-artista gordo estadounidense y Eva E
- ve es la actriz alemana\, hija\, falsa Marilyn. Diversión y juegos en la 
- cocina\, en el suelo\, un jugueteo amoroso sobre la resbaladiza encimera d
- e la cocina\; Eva Eve vomita en la olla de la sopa. A&E\, Adolf & Eva / A
- dam & Eve\, Mother (Paul McCarthy\, EEUU\, 2022/2025\, 46') Adolf Adam (P
- aul McCarthy) y Eva Eve (Lilith Stangenberg) están bajo un pino muerto. E
- va Eve apoya la espalda contra el árbol. Adolf Adam yace en el suelo\, co
- n la cabeza en su regazo. Adolf Adam es el niño bufón. Eva Eve es la mad
- re. Ella lo alimenta con su boca\, como un pájaro. Lo deja por muerto en 
- la tierra. > Entre la proyección de la primera y la segunda película te
- ndrá lugar un coloquio entre Paul McCarthy y Josechu Carreras\, fundador 
- del proyecto Batty Purple de SOLO . > Sesión no recomendada para menores 
- de 18 años. Las imágenes pueden herir la sensibilidad de algunas persona
- s.\n\nhttps://www.mataderomadrid.org/programacion/ae-adolf-eva-adam-eve
-LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
+DESCRIPTION:Exposición que reúne una muestra de pintura\, escultura\, ob
+ ra gráfica\, fotografía\, cine y sonido (Parroquia de Santa Ana y la Esp
+ eranza. Hasta 1 abril).\n\nhttps://santaanaylaesperanza.com/
+LOCATION:Madrid - Cañada\, 35\, Madrid\, 28030
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jornadas de Puertas Abiertas Semana del arte 2026 en el Centro de 
@@ -1859,50 +1794,6 @@ DESCRIPTION:La Feria Internacional de Nuevo Arte Contemporáneo regresa a
 LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sesión audiovisual 'With a Little Help from My Friends'\, con Sal
- ly Gutiérrez Dewar
-DTSTART;TZID=Europe/Madrid:20260305T203000
-UID:7fd284c4f7546b691c981fd24065eca01e70d7b49ea729fb9791741e28f20410
-CATEGORIES:exhibition
-DESCRIPTION:Una invitación a la artista Sally Gutiérrez Dewar a poner en
-  diálogo una de sus obras más recientes con la de otros artistas y activ
- istas. Una sesión que nos invita a imaginar colectivamente y a pensar lo 
- audiovisual más allá de sus límites habituales. Películas que sugieren
-  conexiones inesperadas\, activan resonancias entre geografías\, historia
- s y sensibilidades diversas. El programa propone un encuentro efímero y p
- lural en el que cada obra aporta una perspectiva singular y\, al unirse\, 
- construyen un espacio compartido de pensamiento y descubrimiento. Un progr
- ama que encarna el espíritu de la propia artista: trabajar desde lo comú
- n\, confiar en los cruces inesperados y permitir que las imágenes invente
- n su propio lenguaje compartido. Programa: Application (Sally Gutiérrez D
- ewar\, 2026\, 18') El film combina fragmentos del alegato presentado por S
- udáfrica ante la Corte Internacional de Justicia en diciembre de 2023 con
-  imágenes de ríos y océanos filmadas a lo largo de varios años. Conceb
- idas inicialmente como una escucha atenta de la naturaleza y de los ritmos
-  elementales del agua\, estas imágenes adquieren un nuevo sentido tras la
-  noticia de la exterminación del pueblo palestino. Westerwald: Eine Heims
- uchung (Sandra Schäfer\, 2021\, 43’) Un ensayo cinematográfico sobre l
- a transformación de una región rural alemana a partir del diálogo entre
-  pasado y presente. Tomando como punto de partida la serie de retratos de 
- campesinos del Westerwald realizada por August Sander\, Sandra Schäfer co
- nfronta aquella mirada histórica con su propia perspectiva contemporánea
-  sobre el territorio en el que creció. La película explora cómo han cam
- biado el paisaje\, las formas de vida y el uso agrícola de la tierra\, y 
- cómo esas transformaciones quedan inscritas en las imágenes. Ládano\, b
- rillo de micacita (Mario Espliego\, 2025\, 20') El proyecto toma su nombre
-  del ládano\, una resina aromática extraída de la jara pringosa\, como 
- metáfora de un territorio cargado de capas de memoria. A partir de un rec
- orrido por la Alcarria y la Sierra Norte de Guadalajara\, la obra explora 
- la superposición de tiempos históricos\, biográficos y políticos en un
- a zona marcada hoy por la despoblación. Espacio de retiro eremítico en l
- a Edad Media y de resistencia antifascista durante la Guerra Civil\, el pa
- isaje se presenta como un archivo vivo donde perviven pasados latentes. > 
- Presentación y coloquio posterior con los/as artistas.\n\nhttps://www.mat
- aderomadrid.org/programacion/sesion-audiovisual-little-help-my-friends-con
- -sally-gutierrez-dewar
-LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Expominerales Madrid 2026
 DTSTART;TZID=Europe/Madrid:20260306T000000
 DTEND;TZID=Europe/Madrid:20260308T000000
@@ -1974,48 +1865,6 @@ DESCRIPTION:La artista Mónica Mays (Madrid\, 1990) presenta una nueva ser
  adrid.org/programacion/visita-guiada-la-exposicion-pulgar-con-la-artista-m
  onica-mays-y-la-comisaria-cristina
 LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Proyección 'Vía Versus' y recital poético con María Salgado
-DTSTART;TZID=Europe/Madrid:20260306T190000
-UID:bf88a37434282e9ba888da7a870b95ca7febf23793487cc2695a0bc1067ea98f
-CATEGORIES:exhibition
-DESCRIPTION:Vía Versus es una pieza audiovisual hecha de dos poemas o dos
-  poemas filmados que buscan hacer aparecer dos lugares muy concretos\, el 
- Nordeste argentino y Ourense\, a partir del habla y las historias de algun
- as personas que en ellos habitan y en donde se encuentran y desencuentran 
- con un origen y pertenencia difíciles de delimitar. También y sobre todo
-  fue un viaje a un territorio desconocido y un desplazamiento del medio de
- l que venían la cineasta argentina Clarisa Navas y la poeta española Mar
- ía Salgado\, en equipo con Lucas Olivares\, Marta F. Salgado\, Luis Molin
- a\, Marta Orozco y Chus Pérez Limia. La pieza fue filmada entre el nordes
- te argentino —Formosa y Corrientes— y Galicia —Pousada y Verín—. 
- A partir de estos territorios concretos y de las lenguas\, historias y for
- mas de vida de quienes los habitan\, la obra indaga en aquello que permane
- ce oculto o silenciado por procesos históricos de represión y olvido. Do
- s poemas escritos por Salgado acompañan el film como voces sonoras y como
-  textos impresos disponibles para el público\, articulando un diálogo en
- tre palabra\, imagen y territorio. Más sensorial que discursiva\, la pel
- ícula se construye como un viaje compartido en el que ambas artistas se d
- esplazan desde sus lenguajes y lugares de origen hacia un espacio común a
- ún por definir. Este proceso de apertura colectiva\, vivido junto al equi
- po de trabajo\, da lugar a una obra de sentido abierto\, que se expande m
- ás allá de la proyección y se despliega en distintas formas de experien
- cia. > La sesión irá precedida de un recital poético a cargo de la arti
- sta María Salgado.\n\nhttps://www.mataderomadrid.org/programacion/proyecc
- ion-versus-y-recital-poetico-con-maria-salgado
-LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Visitas estudio Coco Dávez
-DTSTART;TZID=Europe/Madrid:20260307T000000
-DTEND;TZID=Europe/Madrid:20260307T000000
-UID:cc95f4e8d215be8802f2bf6b426b6437ef7a39196e6766207cf2f143fa513a85
-CATEGORIES:exhibition
-DESCRIPTION:La artista celebra el décimo aniversario de Faceless abriendo
-  las puertas de su estudio en Carabanchel (Caranbanchel. Hasta 23 mayo).\n
- \nhttps://shop.cocodavez.com/
-LOCATION:Madrid - Caranbanchel\, Madrid\, Madrid\, 28047
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:68 voces\, 68 corazones
@@ -2106,6 +1955,31 @@ DESCRIPTION:ACTIVIDAD DE ACCESO GRATUITO PREVIA INSCRIPCIÓN\, RELLENANDO
 LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:PAISAJES TENDIDOS [Intervención bajamente tecnológica hecha con 
+ tela blanca\, viento\, luz y olor a limpio]
+DTSTART;TZID=Europe/Madrid:20260313T193000
+UID:647c157d179b16786604f40557be125ea2260ff9e520a560c8060a5f44bd7f4a
+CATEGORIES:exhibition
+DESCRIPTION:El Manzanares fue durante décadas un gran lavadero al aire li
+ bre. Hasta bien entrado el siglo XX\, cientos de mujeres lavaban la ropa a
+  mano en el cauce del río. Era un trabajo duro\, mal remunerado y sin rec
+ onocimiento\, pero indispensable para sostener la vida cotidiana de Madrid
+ . Luzinterruptus conforma con este recuerdo una instalación site-specifi
+ c en la que más de cien sábanas suspendidas\, iluminadas con luz fría 
+ y movidas libremente por el aire\, forman un gran tendedero transitable qu
+ e conecta cuerpo\, memoria y paisaje urbano. *OBRA ESPECIALMENTE DISEÑADA
+  PARA LUZMADRID 2026 Luzinterruptus es un colectivo artístico anónimo q
+ ue trabaja con la luz en el paisaje urbano desde 2008. Su práctica se des
+ arrolla a través de intervenciones y acciones de carácter crítico que a
+ bordan cuestiones sociales\, medioambientales y vinculadas al uso del espa
+ cio público. Con más de cincuenta proyectos realizados\, ha estado prese
+ nte en festivales y eventos internacionales\, siempre utilizando la luz co
+ mo herramienta de participación ciudadana y reflexión colectiva.\n\nhttp
+ s://www.mataderomadrid.org/programacion/paisajes-tendidos-intervencion-baj
+ amente-tecnologica-hecha-con-tela-blanca-viento-luz
+LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Guercino y sus heroínas bíblicas
 DTSTART;TZID=Europe/Madrid:20260316T000000
 DTEND;TZID=Europe/Madrid:20260614T000000
@@ -2142,5 +2016,18 @@ DESCRIPTION:El extraordinario universo visual del artista austro irlandés
  más icónicas obras (SOLO Independencia. 25 mar a 30 dic).\n\nhttps://sol
  ocontemporary.com/projects/helnwein-mundos-invertidos/
 LOCATION:SOLO Independencia - de la Independencia\, 5\, Madrid\, 28001
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Por los caminos del mapa de la espiritualidad: el arte manuscrito 
+ armenio
+DTSTART;TZID=Europe/Madrid:20260326T000000
+DTEND;TZID=Europe/Madrid:20260621T000000
+UID:380907c76a0147498a74c926e642633c185a21ec2660393fa278794968f0df38
+CATEGORIES:exhibition
+DESCRIPTION:Aproximación a la cultura\, historia y creencias armenias a t
+ ravés de estas pinturas en miniatura de incalculable valor y belleza (Bib
+ lioteca Nacional. 26 mar a 21 jun).\n\nhttps://www.bne.es/es/agenda/camino
+ s-mapa-espiritualidad-arte-manuscrito-armenio
+LOCATION:Biblioteca Nacional - de Recoletos\, 20 - 22\, Madrid\, 28071
 END:VEVENT
 END:VCALENDAR

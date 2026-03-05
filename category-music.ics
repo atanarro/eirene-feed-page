@@ -2,45 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Capítulo XXIX: II Jornadas sobre Arte Sonoro 'Rebecca Collins'
-DTSTART;TZID=Europe/Madrid:20260304T190000
-UID:7906540827c73c688283851d23d31321291a9607152547c5300d5ac5a0e46f30
-CATEGORIES:music
-DESCRIPTION:Con esta sesión de escucha se clausura el encuentro dedicado 
- a las relaciones entre ciencia y arte sonoro organizado los días 3 y 4 de
-  marzo en recuerdo de la artista e investigadora Rebecca Collins por dos i
- nstituciones dependientes del CSIC: el Instituto de Física Teórica (IFT)
-  y el Instituto de Historia (IH). Las obras sonoras presentadas en la Cine
- teca son el resultado de la convocatoria artística vinculada a estas jorn
- adas\, que este año tienen como tema "Tiempo\, archivo y memoria en el ar
- te sonoro y las músicas experimentales". Más información y programa com
- pleto Miguel Álvarez-Fernández\, comisario del ciclo\n\nhttps://www.mata
- deromadrid.org/programacion/capitulo-xxix-ii-jornadas-sobre-arte-sonoro-re
- becca-collins
-LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Kooks
-DTSTART;TZID=Europe/Madrid:20260304T210000
-UID:7b1e5e5e08020c581a18250f2ebf0573868159f73fd4039b514e318d50954c56
-CATEGORIES:music
-DESCRIPTION:Apertura Puertas: 19:00 pm\n\nhttps://www.ticketmaster.es/even
- t/the-kooks-entradas/1697362735
-LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
- id
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Por Tino
-DTSTART;TZID=Europe/Madrid:20260304T220000
-UID:77176d08c6fc70052393bfb899279fc36689a91b61a45e07a7427bf176bdad76
-CATEGORIES:music
-DESCRIPTION:Concierto / Flamenco\n\nhttps://salavillanos.es/evento/por-tin
- o-artistas-invitados-antonio-carmona-yumitus-son-dalikante-guadiana-josemi
- -carmona-pirana-miguel-el-rubio-montse-cortes-jorge-pardo-ingueta-pepe-lui
- s-carmona-camaron-de-la-p/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Depresión Sonora
 DTSTART;TZID=Europe/Madrid:20260305T210000
 UID:32fb1c39d0e21f52a06ba6a27b37bc9c12ab8ecf53d902bb3144954feb211174
@@ -72,6 +33,15 @@ UID:dccf7d5b001c4289b023a6e5fa3312e037a48f2585efae3d3102bf81ec243868
 CATEGORIES:music
 DESCRIPTION:Concierto / Latin\n\nhttps://salavillanos.es/evento/maykel-bla
  nco-y-su-salsa-mayor/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Afterparty Maykel Blanco
+DTSTART;TZID=Europe/Madrid:20260305T233000
+UID:dfae31f47326c426fdfbbdd37cb5af03557cab71fa23a034c930dbff12a8d5f0
+CATEGORIES:music
+DESCRIPTION:Concierto / Soul & R&B / Pop / Funk & disco\n\nhttps://salavil
+ lanos.es/evento/afterparty-maykel-blanco/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -130,7 +100,7 @@ SUMMARY:Orishas
 DTSTART;TZID=Europe/Madrid:20260307T203000
 UID:47d7fb8fa6ae41519a7f1024a1223409dedccc4212461d28514945f3b3ebcf7e
 CATEGORIES:music
-DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://www.entradas.com/artist/
+DESCRIPTION:Apertura Puertas: 19:00 pm\n\nhttps://www.entradas.com/artist/
  orishas/?affiliate=RIV
 LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
  id
@@ -318,6 +288,15 @@ DESCRIPTION:Club\n\nhttps://salavillanos.es/evento/system-olympia-dj-set/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Santo Desmadre Fest
+DTSTART;TZID=Europe/Madrid:20260315T190000
+UID:00db7eba4e1d50cfe132993a604005d710251acf6aac0e8cdb934b5e7f03720a
+CATEGORIES:music
+DESCRIPTION:Concierto / Pop / Rock / Funk & disco / Urban / Soul & R&B\n\n
+ https://salavillanos.es/evento/santo-desmadre-fest/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Grison
 DTSTART;TZID=Europe/Madrid:20260315T200000
 UID:76c8fd46e65468a556f1b19b6be8f6b8fbf395df143c9927f38fa08970dc32cb
@@ -353,6 +332,15 @@ DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://www.entradas.com/artist/
  asco/?Affiliate=RIV
 LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
  id
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Juicy Sessions
+DTSTART;TZID=Europe/Madrid:20260318T220000
+UID:23b861b386fb774f5711fbbc6df2b18a327fe0679bd308bbd5f569a93dc011fb
+CATEGORIES:music
+DESCRIPTION:Concierto / Funk & disco / Pop / Urban / Soul & R&B / Hip Hop 
+ & Rap\n\nhttps://salavillanos.es/evento/juicy-sessions-3/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nils Hoffmann
@@ -674,6 +662,15 @@ UID:9ca9fd8ed164ae043ae0f7dd507c5ff4198cd0992b16d7bdeb93fc199e610ef0
 CATEGORIES:music
 DESCRIPTION:Concierto / Pop / World Music & Folk\n\nhttps://salavillanos.e
  s/evento/dotan/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El Polaco
+DTSTART;TZID=Europe/Madrid:20260403T203000
+UID:47b02d5f0867cbac465b1a772fbd595cf8bd2b224d13144216a8811df9b22dfc
+CATEGORIES:music
+DESCRIPTION:Concierto / Latin / Urban\n\nhttps://salavillanos.es/evento/el
+ -polaco/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 END:VCALENDAR
