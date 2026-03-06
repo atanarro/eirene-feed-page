@@ -22,34 +22,6 @@ DESCRIPTION:Texto y dirección Alfredo Sanzol\n\nhttps://dramatico.inaem.g
 LOCATION:Teatro Maria Guerrero - Calle de Tamayo y Baus\, 4\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tres noches en Ítaca
-DTSTART;TZID=Europe/Madrid:20260305T193000
-DTEND;TZID=Europe/Madrid:20260308T193000
-UID:ed9da931253d87d489ae0d68f035f4a45a3125745f1e3409183a14fc7505146b
-CATEGORIES:theater
-DESCRIPTION:Entradas agotadas desde 21.00€ | Tags: JOBO\n\nhttps://tiend
- a.madrid-destino.com/es/nave-10/tres-noches-en-itaca/
-LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gordas\, lisiadas y mamarrachas
-DTSTART;TZID=Europe/Madrid:20260305T193000
-UID:36d6f675a8d0cd217174279c46c9e691796e188c4dc1ad19291b0337b643055a
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/gordas-lisiadas-y-ma
- marrachas/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jajás en el Barrio
-DTSTART;TZID=Europe/Madrid:20260305T220000
-UID:ebe26f7c2390fe0757ff41dbc48c34c1569926cb198f2c46a722957de637eb21
-CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 23 plazas!\n\nhttps://teatrodelbarrio.com/jaj
- as-en-el-barrio/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Casi ninguna verdad
 DTSTART;TZID=Europe/Madrid:20260306T180000
 DTEND;TZID=Europe/Madrid:20260412T180000
@@ -59,6 +31,16 @@ DESCRIPTION:Texto y dirección Cris Blanco Dramaturgia Cris Blanco\, Ósca
  r Bueno Rodríguez y Anto Rodríguez\n\nhttps://dramatico.inaem.gob.es/eve
  nto/casi-ninguna-verdad/
 LOCATION:Teatro Valle-Inclán - Plaza de Lavapies\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tres noches en Ítaca
+DTSTART;TZID=Europe/Madrid:20260306T193000
+DTEND;TZID=Europe/Madrid:20260308T193000
+UID:ed9da931253d87d489ae0d68f035f4a45a3125745f1e3409183a14fc7505146b
+CATEGORIES:theater
+DESCRIPTION:Entradas agotadas desde 21.00€ | Tags: JOBO\n\nhttps://tiend
+ a.madrid-destino.com/es/nave-10/tres-noches-en-itaca/
+LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CAPITAL. El valor de ser joven
@@ -109,8 +91,8 @@ SUMMARY:No solo duelen los golpes.
 DTSTART;TZID=Europe/Madrid:20260307T221500
 UID:6dbab78d3dd8020c671b75d89f3cf0782b5964008ea1cc7e6efa5806d515454c
 CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/no-solo-duelen-los-g
- olpes/
+DESCRIPTION:¡Ya solo quedan 28 plazas!\n\nhttps://teatrodelbarrio.com/no-
+ solo-duelen-los-golpes/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -143,7 +125,7 @@ SUMMARY:La gran cacería
 DTSTART;TZID=Europe/Madrid:20260309T193000
 UID:50183c64d7fc0aa6e42252984046f8fad1cb83ec7f7e1a69ddf9979526859b31
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 26 plazas!\n\nhttps://teatrodelbarrio.com/la-
+DESCRIPTION:¡Ya solo quedan 16 plazas!\n\nhttps://teatrodelbarrio.com/la-
  gran-caceria/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
@@ -398,8 +380,8 @@ SUMMARY:Estreno del documental "Soy Tribulete 7"
 DTSTART;TZID=Europe/Madrid:20260324T190000
 UID:31b437b3eda05a1e740335efe80de82fc1a327bdac1badf77b22270e69a4f63c
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 15 plazas!\n\nhttps://teatrodelbarrio.com/est
- reno-del-documental-soy-tribulete-7/
+DESCRIPTION:¡Ya solo quedan 7 plazas!\n\nhttps://teatrodelbarrio.com/estr
+ eno-del-documental-soy-tribulete-7/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -426,8 +408,8 @@ SUMMARY:Concierto primer aniversario Peña Flamenca de Lavapiés a benefic
 DTSTART;TZID=Europe/Madrid:20260326T221500
 UID:74132497d786ba12955989a9bb906057a7680dcf7c0f56e2f7c1517fd13cfe3c
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 26 plazas!\n\nhttps://teatrodelbarrio.com/con
- cierto-primer-aniversario-pena-flamenca-de-lavapies-a-beneficio-de-unrwa/
+DESCRIPTION:¡Ya solo quedan 1 plazas!\n\nhttps://teatrodelbarrio.com/conc
+ ierto-primer-aniversario-pena-flamenca-de-lavapies-a-beneficio-de-unrwa/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT

@@ -2,49 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Depresión Sonora
-DTSTART;TZID=Europe/Madrid:20260305T210000
-UID:32fb1c39d0e21f52a06ba6a27b37bc9c12ab8ecf53d902bb3144954feb211174
-CATEGORIES:music
-DESCRIPTION:Apertura Puertas: 20:00 Horas\n\nhttps://dice.fm/partner/mazo-
- madriz/event/yomo3v-depresin-sonora-en-mazo-5th-mar-la-riviera-madrid-tick
- ets?dice_id=6329298&dice_channel=web&dice_tags=organic&dice_campaign=MAZO+
- Madriz&dice_feature=mio_marketing&_branch_match_id=1205074753429234087&utm
- _source=web&utm_campaign=MAZO+Madriz&utm_medium=mio_marketing&_branch_refe
- rrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9ZLyUxO1UvL1c%2BwTLE0NDNPSjE0NLWvK0pNSy0
- qysxLj08qyi8vTi2ydc4oys9NBQAWv7uMOwAAAA%3D%3D
-LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
- id
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Empire Strikes (Finlandia) + Cuatro Lulus
-DTSTART;TZID=Europe/Madrid:20260305T210000
-UID:ffefee306acc2c02b21f8f9060f82141ddb9136c76f7a523c5c3922d1c533a9a
-CATEGORIES:music
-DESCRIPTION:Precio de las entradas: 11€/14€ Entradas a la venta en mov
- ingtickets Bio/enlaces bandas: THE EMPIRE STRIKES (Finlandia) The\n\nhttps
- ://gruta77.com/events/the-empire-strikes-finlandia/var/ri-0.l-L2
-LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maykel Blanco y su Salsa Mayor
-DTSTART;TZID=Europe/Madrid:20260305T213000
-UID:dccf7d5b001c4289b023a6e5fa3312e037a48f2585efae3d3102bf81ec243868
-CATEGORIES:music
-DESCRIPTION:Concierto / Latin\n\nhttps://salavillanos.es/evento/maykel-bla
- nco-y-su-salsa-mayor/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Afterparty Maykel Blanco
-DTSTART;TZID=Europe/Madrid:20260305T233000
-UID:dfae31f47326c426fdfbbdd37cb5af03557cab71fa23a034c930dbff12a8d5f0
-CATEGORIES:music
-DESCRIPTION:Concierto / Soul & R&B / Pop / Funk & disco\n\nhttps://salavil
- lanos.es/evento/afterparty-maykel-blanco/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Camellos
 DTSTART;TZID=Europe/Madrid:20260306T210000
 UID:037b9e67c5e4a2646c8497815a74b79d4a3ab4d399b36d2477a87fda90d76ac7
@@ -208,9 +165,9 @@ LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
  id
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Meli Perea
+SUMMARY:Sitasound- Justicieros – Meli Perea
 DTSTART;TZID=Europe/Madrid:20260313T193000
-UID:2c77d086357259157c5022583584d596d93c15c187c7577afe6310ca97720dbc
+UID:7b3e1634775cddb3bf8fb7309c172ac7eb6094b291f8c521a69ce69b2a663dcc
 CATEGORIES:music
 DESCRIPTION:Concierto / Latin / Urban\n\nhttps://salavillanos.es/evento/me
  li-perea/
@@ -671,6 +628,15 @@ UID:47b02d5f0867cbac465b1a772fbd595cf8bd2b224d13144216a8811df9b22dfc
 CATEGORIES:music
 DESCRIPTION:Concierto / Latin / Urban\n\nhttps://salavillanos.es/evento/el
  -polaco/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gala Diaspora Teranga
+DTSTART;TZID=Europe/Madrid:20260404T200000
+UID:50b525b121100e27f0ce71494796482dca04f346eced5299343c1ecb9290e8fb
+CATEGORIES:music
+DESCRIPTION:Concierto / Afro\n\nhttps://salavillanos.es/evento/gala-diaspo
+ ra-teranga-celebracion-de-la-independencia-de-senegal/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 END:VCALENDAR
