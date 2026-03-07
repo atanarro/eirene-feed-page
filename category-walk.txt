@@ -1,23 +1,7 @@
 Eirene feed debug
 Total events: 8
 
-[1] Senderismo Encinar de San Pedro
-  id: dbb11d009385cab8699713f1a94376c068a4749dc6d607c60b13848f04f4780f
-  start: 2026-03-06T10:00:00+01:00
-  end: 2026-03-06T14:00:00+01:00
-  category: walk
-  source: ciea_casa_de_campo
-  location: CIEA Casa de Campo - Paseo Embarcadero, 1, Madrid
-  coordinates: 40.419216, -3.748188
-  url: https://diario.madrid.es/cieacasadecampo/evento/senderismo-encinar-de-san-pedro-8-2-2/
-  description: 
-Ruta de senderismo dirigida a usuarios/as a partir de 12 años.
-Distancia: 8 km/ Desnivel: moderado/ Dificultad: media-baja.
-Ruta circular por la Reserva Integral del Encinar de San Pedro, en Casa de Campo. A lo largo del recorrido descubriremos la diversidad de seres vivos que habitan en este valioso ecosistema mediterráneo, aprendiendo a identificar plantas, aves y otros animales característicos de la zona. Una oportunidad perfecta para conectar con la naturaleza, conocer mejor nuestra biodiversidad local y disfrutar de un entorno único dentro de Madrid.
-¡Adéntrate en el corazón del Parque!
-
-
-[2] Paseo ornitológico
+[1] Paseo ornitológico
   id: ad78c40683953e0a3d3aef637f5779d3ea1974b63cc473f622e9a9f3830fc244
   start: 2026-03-07T11:00:00+01:00
   end: 2026-03-07T13:30:00+01:00
@@ -37,7 +21,7 @@ No hace falta que seas un experto ornitólogo, si tienes ganas de aprender y te 
  
 
 
-[3] Paisaje y geomorfología de Casa de Campo
+[2] Paisaje y geomorfología de Casa de Campo
   id: 4625a758869b9065cb8cfd11e36727a8024c8208d4f7fe87c33f19d96e48f6db
   start: 2026-03-08T10:00:00+01:00
   end: 2026-03-08T14:00:00+01:00
@@ -52,7 +36,7 @@ Distancia: 8 km/ Desnivel: moderado/ Dificultad: media/baja.
 Recorrido lineal en el que visitaremos algunos de los miradores más bellos de la Casa de Campo y descubriremos cómo se ha ido originando este gran Parque de la ciudad de Madrid. Todo ello desde la observación, la interpretación del paisaje y el placer de caminar.
 ¡Un viaje apasionante por Casa de Campo!
 
-[4] Árboles singulares de Casa de Campo
+[3] Árboles singulares de Casa de Campo
   id: 622c0e03113695b216a95cc54bfb8ad0af7bc2d3cf5b9328d81e8db5310ea6b7
   start: 2026-03-15T10:00:00+01:00
   end: 2026-03-15T14:00:00+01:00
@@ -71,7 +55,7 @@ Itinerario lineal en el que visitaremos más de 10 árboles catalogados como «s
 ¡No te pierdas su riqueza natural!
 
 
-[5] Árboles notables del Vivero
+[4] Árboles notables del Vivero
   id: 08cafe0ec2c3a88fba78b19f64980c35c3ed9b8add2f94a1f800c84a99f07a0d
   start: 2026-03-18T10:00:00+01:00
   end: 2026-03-18T13:00:00+01:00
@@ -88,7 +72,7 @@ Con este paseo daremos a conocer algunos de los árboles más curiosos, antiguos
  
 
 
-[6] Senda botánica
+[5] Senda botánica
   id: ced00cb4c4aa801d38b459c2e6899064549523388d28bb0e6e12e1dc11b99abd
   start: 2026-03-22T11:00:00+01:00
   end: 2026-03-22T13:30:00+01:00
@@ -104,7 +88,7 @@ Con este paseo lineal de unos 4 km descubriremos la flora dominante en el Parque
 ¡Disfruta de este paseo por la ribera del arroyo Meaques y su bosque de galería!
 
 
-[7] Siguiendo puentes y caminos del agua
+[6] Siguiendo puentes y caminos del agua
   id: 704e9833cda9644548cf325934bf0ebd5390bfc4fe2b304295335787de03f90d
   start: 2026-03-28T10:00:00+01:00
   end: 2026-03-28T14:00:00+01:00
@@ -116,7 +100,7 @@ Con este paseo lineal de unos 4 km descubriremos la flora dominante en el Parque
   description: Ruta de senderismo dirigida a usuarios/as a partir de 12 años.
 Recorrido circular de unos 10 kilómetros y desnivel moderado, en el que se relacionará el aprovechamiento del agua con los usos que ha tenido Casa de Campo a lo largo del tiempo, mediante la visita o visionado de fotos históricas de puentes, fuentes, acueductos, acequias, pozos y estanques.
 
-[8] Pastores por un día
+[7] Pastores por un día
   id: c5657799e6e35f849c813a048fe0dc3ac5327ed7525354f8ba62ee89ecf007ce
   start: 2026-03-29T10:30:00+02:00
   end: 2026-03-29T13:30:00+02:00
@@ -131,3 +115,19 @@ Actividad en la que acompañaremos al rebaño permanente de Casa de Campo a lo l
 ¡Conviértete en un auténtico/a pastor/a!
  
 
+
+
+[8] Senderismo Encinar de San Pedro
+  id: 3876d29bd3170b2fc1296df2e78a424d98ce8e5f5bea7ce0c9dddedc487d54e5
+  start: 2026-04-05T10:00:00+02:00
+  end: 2026-04-05T14:00:00+02:00
+  category: walk
+  source: ciea_casa_de_campo
+  location: CIEA Casa de Campo - Paseo Embarcadero, 1, Madrid
+  coordinates: 40.419216, -3.748188
+  url: https://diario.madrid.es/cieacasadecampo/evento/senderismo-encinar-de-san-pedro-10/
+  description: 
+Ruta de senderismo dirigida a usuarios/as a partir de 12 años.
+Distancia: 10 km/ Desnivel: moderado/ Dificultad: media-baja.
+Ruta circular por la Reserva Integral del Encinar de San Pedro, en Casa de Campo. A lo largo del recorrido descubriremos la diversidad de seres vivos que habitan en este valioso ecosistema mediterráneo, aprendiendo a identificar plantas, aves y otros animales característicos de la zona. Una oportunidad perfecta para conectar con la naturaleza, conocer mejor nuestra biodiversidad local y disfrutar de un entorno único dentro de Madrid.
+¡Adéntrate en el corazón del Parque!

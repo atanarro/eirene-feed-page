@@ -1,5 +1,5 @@
 Eirene feed debug
-Total events: 15
+Total events: 17
 
 [1] Mercado de Motores Madrid · 7 y  8 de Marzo · Entrada GRATIS
   id: 80c449a27cee56ef2a7b28dcb2e357bda412054ece3765022f56019116a164d0
@@ -165,3 +165,25 @@ Total events: 15
   coordinates: 40.414413, -3.698524
   url: https://barrioletras.com/mercado-de-las-ranas/
   description: Mercado del Barrio de las Letras con puestos de artesanía, diseño, moda y gastronomía en la calle Huertas.
+
+[16] Mercado Productores Planetario
+  id: 6738b069de9490e315cb59adf6b3bb623f7ead9fe978c0e3978809bafb066764
+  start: 2026-04-05T10:00:00+02:00
+  end: 2026-04-05T16:00:00+02:00
+  category: market
+  source: mercado_productores
+  location: Mercado Productores Planetario - Avenida del Planetario esquina Calle Meneses, Madrid
+  coordinates: 40.392053, -3.679427
+  url: https://mercadoproductores.es/mp-planetario/
+  description: Mercado de productores locales y artesanos en Planetario con alimentacion sostenible, productos de cercania y actividades al aire libre.
+
+[17] Mercadillo de Minerales de la Escuela de Minas
+  id: 414883129389d82cb716e7f01d91d819d23d295c5842d4f8a5c911a2b9d95ffd
+  start: 2026-04-05T10:00:00+02:00
+  end: 2026-04-05T14:00:00+02:00
+  category: market
+  source: mercadillo_minerales
+  location: Escuela Superior de Ingenieros de Minas - Calle Rios Rosas, 21, Madrid
+  coordinates: 40.442576, -3.700177
+  url: https://www.esmadrid.com/agenda/mercadillo-minerales-madrid-escuela-superior-ingenieros-minas
+  description: Mercadillo de minerales, fosiles, gemas y conchas en la Escuela Superior de Ingenieros de Minas (primer domingo de cada mes, excepto agosto).

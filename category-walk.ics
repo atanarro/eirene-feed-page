@@ -2,24 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Senderismo Encinar de San Pedro
-DTSTART;TZID=Europe/Madrid:20260306T100000
-DTEND;TZID=Europe/Madrid:20260306T140000
-UID:dbb11d009385cab8699713f1a94376c068a4749dc6d607c60b13848f04f4780f
-CATEGORIES:walk
-DESCRIPTION:\nRuta de senderismo dirigida a usuarios/as a partir de 12 añ
- os.\nDistancia: 8 km/ Desnivel: moderado/ Dificultad: media-baja.\nRuta ci
- rcular por la Reserva Integral del Encinar de San Pedro\, en Casa de Campo
- . A lo largo del recorrido descubriremos la diversidad de seres vivos que 
- habitan en este valioso ecosistema mediterráneo\, aprendiendo a identific
- ar plantas\, aves y otros animales característicos de la zona. Una oportu
- nidad perfecta para conectar con la naturaleza\, conocer mejor nuestra bio
- diversidad local y disfrutar de un entorno único dentro de Madrid.\n¡Ad
- éntrate en el corazón del Parque!\n\n\nhttps://diario.madrid.es/cieacasa
- decampo/evento/senderismo-encinar-de-san-pedro-8-2-2/
-LOCATION:CIEA Casa de Campo - Paseo Embarcadero\, 1\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Paseo ornitológico
 DTSTART;TZID=Europe/Madrid:20260307T110000
 DTEND;TZID=Europe/Madrid:20260307T133000
@@ -127,6 +109,24 @@ DESCRIPTION:\nPaseo para todos los públicos: adultos y familias con mayor
  ejas y los perros pastores.\n¡Conviértete en un auténtico/a pastor/a!\n
   \n\n\n\nhttps://diario.madrid.es/cieacasadecampo/evento/pastores-por-un-
  dia-20-2-2-2-2/
+LOCATION:CIEA Casa de Campo - Paseo Embarcadero\, 1\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Senderismo Encinar de San Pedro
+DTSTART;TZID=Europe/Madrid:20260405T100000
+DTEND;TZID=Europe/Madrid:20260405T140000
+UID:3876d29bd3170b2fc1296df2e78a424d98ce8e5f5bea7ce0c9dddedc487d54e5
+CATEGORIES:walk
+DESCRIPTION:\nRuta de senderismo dirigida a usuarios/as a partir de 12 añ
+ os.\nDistancia: 10 km/ Desnivel: moderado/ Dificultad: media-baja.\nRuta c
+ ircular por la Reserva Integral del Encinar de San Pedro\, en Casa de Camp
+ o. A lo largo del recorrido descubriremos la diversidad de seres vivos que
+  habitan en este valioso ecosistema mediterráneo\, aprendiendo a identifi
+ car plantas\, aves y otros animales característicos de la zona. Una oport
+ unidad perfecta para conectar con la naturaleza\, conocer mejor nuestra bi
+ odiversidad local y disfrutar de un entorno único dentro de Madrid.\n¡Ad
+ éntrate en el corazón del Parque!\n\n\nhttps://diario.madrid.es/cieacasa
+ decampo/evento/senderismo-encinar-de-san-pedro-10/
 LOCATION:CIEA Casa de Campo - Paseo Embarcadero\, 1\, Madrid
 END:VEVENT
 END:VCALENDAR

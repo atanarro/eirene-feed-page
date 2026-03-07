@@ -185,4 +185,29 @@ DESCRIPTION:Mercado del Barrio de las Letras con puestos de artesanía\, d
  com/mercado-de-las-ranas/
 LOCATION:Barrio de las Letras - Calle de las Huertas\, 2-47\, Madrid
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mercado Productores Planetario
+DTSTART;TZID=Europe/Madrid:20260405T100000
+DTEND;TZID=Europe/Madrid:20260405T160000
+UID:6738b069de9490e315cb59adf6b3bb623f7ead9fe978c0e3978809bafb066764
+CATEGORIES:market
+DESCRIPTION:Mercado de productores locales y artesanos en Planetario con a
+ limentacion sostenible\, productos de cercania y actividades al aire libre
+ .\n\nhttps://mercadoproductores.es/mp-planetario/
+LOCATION:Mercado Productores Planetario - Avenida del Planetario esquina C
+ alle Meneses\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mercadillo de Minerales de la Escuela de Minas
+DTSTART;TZID=Europe/Madrid:20260405T100000
+DTEND;TZID=Europe/Madrid:20260405T140000
+UID:414883129389d82cb716e7f01d91d819d23d295c5842d4f8a5c911a2b9d95ffd
+CATEGORIES:market
+DESCRIPTION:Mercadillo de minerales\, fosiles\, gemas y conchas en la Escu
+ ela Superior de Ingenieros de Minas (primer domingo de cada mes\, excepto 
+ agosto).\n\nhttps://www.esmadrid.com/agenda/mercadillo-minerales-madrid-es
+ cuela-superior-ingenieros-minas
+LOCATION:Escuela Superior de Ingenieros de Minas - Calle Rios Rosas\, 21\,
+  Madrid
+END:VEVENT
 END:VCALENDAR

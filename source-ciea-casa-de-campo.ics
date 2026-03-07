@@ -2,41 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Senderismo Encinar de San Pedro
-DTSTART;TZID=Europe/Madrid:20260306T100000
-DTEND;TZID=Europe/Madrid:20260306T140000
-UID:dbb11d009385cab8699713f1a94376c068a4749dc6d607c60b13848f04f4780f
-CATEGORIES:walk
-DESCRIPTION:\nRuta de senderismo dirigida a usuarios/as a partir de 12 añ
- os.\nDistancia: 8 km/ Desnivel: moderado/ Dificultad: media-baja.\nRuta ci
- rcular por la Reserva Integral del Encinar de San Pedro\, en Casa de Campo
- . A lo largo del recorrido descubriremos la diversidad de seres vivos que 
- habitan en este valioso ecosistema mediterráneo\, aprendiendo a identific
- ar plantas\, aves y otros animales característicos de la zona. Una oportu
- nidad perfecta para conectar con la naturaleza\, conocer mejor nuestra bio
- diversidad local y disfrutar de un entorno único dentro de Madrid.\n¡Ad
- éntrate en el corazón del Parque!\n\n\nhttps://diario.madrid.es/cieacasa
- decampo/evento/senderismo-encinar-de-san-pedro-8-2-2/
-LOCATION:CIEA Casa de Campo - Paseo Embarcadero\, 1\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WEBINARIO: Mujeres jardineras
-DTSTART;TZID=Europe/Madrid:20260306T120000
-DTEND;TZID=Europe/Madrid:20260306T130000
-UID:e3a5d3cf687460a5f7a0fec7b38f17ac0ed9a086a90b2ff1116ca00fb8a42686
-CATEGORIES:talk
-DESCRIPTION:WEBINARIO dirigido a público adulto.\nImpartido en colaboraci
- ón con Luciano Labajos Sánchez -jardinero\, paisajista y educador ambien
- tal  con más de 25 años dedicados en la profesión. En este seminario n
- os hablará de las mujeres jardineras a lo largo de la historia de Madrid\
- , y cuáles han sido sus principales aportaciones a la jardinería madrile
- ña\, que hacen que hoy en día podamos disfrutar de una gran ciudad verde
- .\nEMISIÓN EN DIRECTO: Para participar\, acceder al Canal de Youtube del 
- CIEA Casa de Campo en el día y hora señalados.\n \n\n\nhttps://diario.m
- adrid.es/cieacasadecampo/evento/webinario-sanidad-vegetal-2-4/
-LOCATION:CIEA Casa de Campo - Paseo Embarcadero\, 1\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Paseo ornitológico
 DTSTART;TZID=Europe/Madrid:20260307T110000
 DTEND;TZID=Europe/Madrid:20260307T133000
@@ -137,19 +102,68 @@ DESCRIPTION:WEBINARIO dirigido a público adulto.\nImpartido en colaboraci
 LOCATION:CIEA Casa de Campo - Paseo Embarcadero\, 1\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ponte a prueba
+DTSTART;TZID=Europe/Madrid:20260321T100000
+DTEND;TZID=Europe/Madrid:20260321T140000
+UID:c6df228b4f8aea0b2ef162423c5bf929801fec7eed31a974dccbaaa6b278bd02
+CATEGORIES:other
+DESCRIPTION:\nJuego dirigido a todos los públicos.\n¿Sabes qué hay en e
+ l Parque de Casa de Campo?\nCon esta actividad pondremos a prueba tus cono
+ cimientos sobre el parque a través de un divertido juego en el que tendr
+ ás que ubicar en un plano diversos elementos paisajísticos o arquitectó
+ nicos poco conocidos del patrimonio de Casa de Campo.\nNo precisa de reser
+ va previa.\n\n \n\n\nhttps://diario.madrid.es/cieacasadecampo/evento/pont
+ e-a-prueba-7/
+LOCATION:CIEA Casa de Campo - Paseo Embarcadero\, 1\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Reforestación participativa (PIB)
 DTSTART;TZID=Europe/Madrid:20260321T103000
 DTEND;TZID=Europe/Madrid:20260321T130000
 UID:a0390566080617a9b3e9300dacca63cbef19b72238a1994d3c33705f276c8080
 CATEGORIES:family
-DESCRIPTION:\n\n \nActividad familiar (a partir de 7 años acompañados p
- or un adulto).\nCon esta actividad pretendemos promover la biodiversidad d
- e Casa de Campo a través de intervenciones y acciones que ayuden a conser
- var el patrimonio natural del gran pulmón de la ciudad.\nEn esta ocasión
-  plantaremos especies autóctonas mediterráneas propias de Casa de Campo 
- y reforestaremos las zonas más degradadas o dañadas.\n¡Ponte los guante
- s y únete a plantar!\n\n\nhttps://diario.madrid.es/cieacasadecampo/evento
- /reforestacion-pib-3-2-2/
+DESCRIPTION:Actividad familiar (a partir de 7 años acompañados por un ad
+ ulto).\nCon esta actividad pretendemos promover la biodiversidad de Casa d
+ e Campo a través de intervenciones y acciones que ayuden a conservar el p
+ atrimonio natural del gran pulmón de la ciudad.\nEn esta ocasión plantar
+ emos especies autóctonas mediterráneas propias de Casa de Campo y refore
+ staremos las zonas más degradadas o dañadas.\n¡Ponte los guantes y úne
+ te a plantar!\n\nhttps://diario.madrid.es/cieacasadecampo/evento/reforesta
+ cion-pib-3-2-2/
+LOCATION:CIEA Casa de Campo - Paseo Embarcadero\, 1\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La naturaleza de los objetos I
+DTSTART;TZID=Europe/Madrid:20260321T110000
+DTEND;TZID=Europe/Madrid:20260321T120000
+UID:148c9f69fa9fc9532f71efffd44bc575e9df162ac2391567392e800d38a13c26
+CATEGORIES:family
+DESCRIPTION:Juego dirigido a menores entre 5 y 10 años.\nTaller infantil
+  en el que\, mediante tres paneles interactivos\, los/as niños/as trabaj
+ an en equipo para identificar diferentes especies de árboles presentes en
+  los bosques y relacionarlas con los objetos de su entorno cotidiano. A tr
+ avés de esta actividad\, se refuerza la conciencia sobre el origen forest
+ al de muchos productos y la importancia de que su producción se realice d
+ e manera sostenible y respetuosa con el medioambiente.\nDesarrollado en co
+ laboración de PEFC España\n\nhttps://diario.madrid.es/cieacasadecampo/e
+ vento/la-naturaleza-de-los-objetos-i/
+LOCATION:CIEA Casa de Campo - Paseo Embarcadero\, 1\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La naturaleza de los objetos II
+DTSTART;TZID=Europe/Madrid:20260321T123000
+DTEND;TZID=Europe/Madrid:20260321T133000
+UID:0c51e1c8d52e6efd5ff6f7bf6a01f0e0298423f3afae95606906b97b8321a347
+CATEGORIES:family
+DESCRIPTION:Juego dirigido a menores entre 5 y 10 años.\nTaller infantil
+  en el que\, mediante tres paneles interactivos\, los/as niños/as trabaj
+ an en equipo para identificar diferentes especies de árboles presentes en
+  los bosques y relacionarlas con los objetos de su entorno cotidiano. A tr
+ avés de esta actividad\, se refuerza la conciencia sobre el origen forest
+ al de muchos productos y la importancia de que su producción se realice d
+ e manera sostenible y respetuosa con el medioambiente.\nDesarrollado en co
+ laboración de PEFC España\n \n\n\nhttps://diario.madrid.es/cieacasadec
+ ampo/evento/la-naturaleza-de-los-objetos-ii/
 LOCATION:CIEA Casa de Campo - Paseo Embarcadero\, 1\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -231,6 +245,24 @@ DESCRIPTION:\nTaller dirigido a familias con menores a partir de 7 años.\
  os de manera didáctica la parte práctica\, con juegos y dinámicas de gr
  upo.\n¡No te lo pierdas!\n\nhttps://diario.madrid.es/cieacasadecampo/even
  to/detective-botanico-actividad-familiar/
+LOCATION:CIEA Casa de Campo - Paseo Embarcadero\, 1\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Senderismo Encinar de San Pedro
+DTSTART;TZID=Europe/Madrid:20260405T100000
+DTEND;TZID=Europe/Madrid:20260405T140000
+UID:3876d29bd3170b2fc1296df2e78a424d98ce8e5f5bea7ce0c9dddedc487d54e5
+CATEGORIES:walk
+DESCRIPTION:\nRuta de senderismo dirigida a usuarios/as a partir de 12 añ
+ os.\nDistancia: 10 km/ Desnivel: moderado/ Dificultad: media-baja.\nRuta c
+ ircular por la Reserva Integral del Encinar de San Pedro\, en Casa de Camp
+ o. A lo largo del recorrido descubriremos la diversidad de seres vivos que
+  habitan en este valioso ecosistema mediterráneo\, aprendiendo a identifi
+ car plantas\, aves y otros animales característicos de la zona. Una oport
+ unidad perfecta para conectar con la naturaleza\, conocer mejor nuestra bi
+ odiversidad local y disfrutar de un entorno único dentro de Madrid.\n¡Ad
+ éntrate en el corazón del Parque!\n\n\nhttps://diario.madrid.es/cieacasa
+ decampo/evento/senderismo-encinar-de-san-pedro-10/
 LOCATION:CIEA Casa de Campo - Paseo Embarcadero\, 1\, Madrid
 END:VEVENT
 END:VCALENDAR

@@ -33,43 +33,6 @@ DESCRIPTION:Texto y dirección Cris Blanco Dramaturgia Cris Blanco\, Ósca
 LOCATION:Teatro Valle-Inclán - Plaza de Lavapies\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tres noches en Ítaca
-DTSTART;TZID=Europe/Madrid:20260306T193000
-DTEND;TZID=Europe/Madrid:20260308T193000
-UID:ed9da931253d87d489ae0d68f035f4a45a3125745f1e3409183a14fc7505146b
-CATEGORIES:theater
-DESCRIPTION:Entradas agotadas desde 21.00€ | Tags: JOBO\n\nhttps://tiend
- a.madrid-destino.com/es/nave-10/tres-noches-en-itaca/
-LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CAPITAL. El valor de ser joven
-DTSTART;TZID=Europe/Madrid:20260306T193000
-UID:4ac883ebf65352a39910573caddd040a1c987e6ea43c6957ab02370ae6cd31b1
-CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 1 plazas!\n\nhttps://teatrodelbarrio.com/capi
- tal-el-valor-de-ser-joven/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Noche de fiesta - Pamela y Elisabeth Palenciano
-DTSTART;TZID=Europe/Madrid:20260306T220000
-UID:5eaab11923cb8471198f6708b58ce58ced1083f2bc42861beac0453f6b0fe76d
-CATEGORIES:theater
-DESCRIPTION:Programación en Teatro del Barrio\n\nhttps://teatrodelbarrio.
- com/pamela-y-elisabeth-palenciano/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Noche de fiesta - LAS TATAS PALENCIANO. SESSION MILLENNIAL
-DTSTART;TZID=Europe/Madrid:20260306T220000
-UID:1c1fd47e447541cb9e5caaa35abe481e2e07d833d1e1e8511ad142491de6fb33
-CATEGORIES:theater
-DESCRIPTION:Programación en Teatro del Barrio\n\nhttps://teatrodelbarrio.
- com/las-tatas-session-millennial/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Subastas suicidas
 DTSTART;TZID=Europe/Madrid:20260307T130000
 UID:9080a6ab708808483677166ad0bea402876b482fcafbbcb29c553844d8892ef6
@@ -79,11 +42,22 @@ DESCRIPTION:¡Ya solo quedan 1 plazas!\n\nhttps://teatrodelbarrio.com/suba
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Tres noches en Ítaca
+DTSTART;TZID=Europe/Madrid:20260307T193000
+DTEND;TZID=Europe/Madrid:20260308T193000
+UID:ed9da931253d87d489ae0d68f035f4a45a3125745f1e3409183a14fc7505146b
+CATEGORIES:theater
+DESCRIPTION:Entradas agotadas desde 21.00€\n\nhttps://tienda.madrid-dest
+ ino.com/es/nave-10/tres-noches-en-itaca/
+LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Lo normal
 DTSTART;TZID=Europe/Madrid:20260307T193000
 UID:d0acf0e9ce2a66f717d6cf42692e0f7ee67377a6318b9df6dc37dfc1df253f42
 CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/lo-normal/
+DESCRIPTION:¡Ya solo quedan 24 plazas!\n\nhttps://teatrodelbarrio.com/lo-
+ normal/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -91,7 +65,7 @@ SUMMARY:No solo duelen los golpes.
 DTSTART;TZID=Europe/Madrid:20260307T221500
 UID:6dbab78d3dd8020c671b75d89f3cf0782b5964008ea1cc7e6efa5806d515454c
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 28 plazas!\n\nhttps://teatrodelbarrio.com/no-
+DESCRIPTION:¡Ya solo quedan 27 plazas!\n\nhttps://teatrodelbarrio.com/no-
  solo-duelen-los-golpes/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
@@ -125,7 +99,7 @@ SUMMARY:La gran cacería
 DTSTART;TZID=Europe/Madrid:20260309T193000
 UID:50183c64d7fc0aa6e42252984046f8fad1cb83ec7f7e1a69ddf9979526859b31
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 16 plazas!\n\nhttps://teatrodelbarrio.com/la-
+DESCRIPTION:¡Ya solo quedan 10 plazas!\n\nhttps://teatrodelbarrio.com/la-
  gran-caceria/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
