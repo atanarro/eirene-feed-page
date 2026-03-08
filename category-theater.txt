@@ -1,84 +1,7 @@
 Eirene feed debug
-Total events: 52
+Total events: 47
 
-[1] Constelaciones
-  id: 93c4e4d7ae6705d0c227557155cc519e701190d3161c898ffd770ed7229b6a00
-  start: 2026-02-06T20:00:00+01:00
-  end: 2026-03-29T20:00:00+02:00
-  category: theater
-  source: dramatico_inaem
-  location: Teatro Valle-Inclán - Plaza de Lavapies, Madrid
-  coordinates: 40.4080471, -3.7003217
-  url: https://dramatico.inaem.gob.es/evento/constelaciones/
-  description: Texto Nick Payne Versión y dirección Sergio Peris-Mencheta
-
-[2] La última noche con mi hermano
-  id: df484f18448dee2449eea922969c3fad7ae78cccea7db5d8b2709d15dea021fd
-  start: 2026-02-13T20:00:00+01:00
-  end: 2026-04-05T20:00:00+02:00
-  category: theater
-  source: dramatico_inaem
-  location: Teatro Maria Guerrero - Calle de Tamayo y Baus, 4, Madrid
-  coordinates: 40.4228646, -3.6928431
-  url: https://dramatico.inaem.gob.es/evento/la-ultima-noche-con-mi-hermano/
-  description: Texto y dirección Alfredo Sanzol
-
-[3] Casi ninguna verdad
-  id: 7bb9229c5406de701333b18c1b45d43cb2daeda7ff87b2d98af381c1eb282154
-  start: 2026-03-06T18:00:00+01:00
-  end: 2026-04-12T18:00:00+02:00
-  category: theater
-  source: dramatico_inaem
-  location: Teatro Valle-Inclán - Plaza de Lavapies, Madrid
-  coordinates: 40.4080471, -3.7003217
-  url: https://dramatico.inaem.gob.es/evento/casi-ninguna-verdad/
-  description: Texto y dirección Cris Blanco Dramaturgia Cris Blanco, Óscar Bueno Rodríguez y Anto Rodríguez
-
-[4] Subastas suicidas
-  id: 9080a6ab708808483677166ad0bea402876b482fcafbbcb29c553844d8892ef6
-  start: 2026-03-07T13:00:00+01:00
-  end: N/A
-  category: theater
-  source: teatro_del_barrio
-  location: Teatro del Barrio - Calle de Zurita, 20, Madrid
-  coordinates: 40.4096081, -3.699174
-  url: https://teatrodelbarrio.com/subasta-suicida/
-  description: ¡Ya solo quedan 1 plazas!
-
-[5] Tres noches en Ítaca
-  id: ed9da931253d87d489ae0d68f035f4a45a3125745f1e3409183a14fc7505146b
-  start: 2026-03-07T19:30:00+01:00
-  end: 2026-03-08T19:30:00+01:00
-  category: theater
-  source: nave_10
-  location: Nave 10 - Paseo de la Chopera, 14, Madrid
-  coordinates: 40.3920606, -3.6978319
-  url: https://tienda.madrid-destino.com/es/nave-10/tres-noches-en-itaca/
-  description: Entradas agotadas desde 21.00€
-
-[6] Lo normal
-  id: d0acf0e9ce2a66f717d6cf42692e0f7ee67377a6318b9df6dc37dfc1df253f42
-  start: 2026-03-07T19:30:00+01:00
-  end: N/A
-  category: theater
-  source: teatro_del_barrio
-  location: Teatro del Barrio - Calle de Zurita, 20, Madrid
-  coordinates: 40.4096081, -3.699174
-  url: https://teatrodelbarrio.com/lo-normal/
-  description: ¡Ya solo quedan 24 plazas!
-
-[7] No solo duelen los golpes.
-  id: 6dbab78d3dd8020c671b75d89f3cf0782b5964008ea1cc7e6efa5806d515454c
-  start: 2026-03-07T22:15:00+01:00
-  end: N/A
-  category: theater
-  source: teatro_del_barrio
-  location: Teatro del Barrio - Calle de Zurita, 20, Madrid
-  coordinates: 40.4096081, -3.699174
-  url: https://teatrodelbarrio.com/no-solo-duelen-los-golpes/
-  description: ¡Ya solo quedan 27 plazas!
-
-[8] AÚPA LERÉ. Percusión para crecer
+[1] AÚPA LERÉ. Percusión para crecer
   id: a795f383d0fd75b9648f4481361561221c6450510ce3d902c5c08be841546913
   start: 2026-03-08T11:00:00+01:00
   end: N/A
@@ -89,7 +12,7 @@ Total events: 52
   url: https://teatrodelbarrio.com/aupa-lere-percusion-para-crecer/
   description: Disponible
 
-[9] Arrancamiento
+[2] Arrancamiento
   id: 05f385541d882a944f67c0077b3a122248730c8079f76e8176b20565cc8c1cc0
   start: 2026-03-08T18:00:00+01:00
   end: N/A
@@ -100,7 +23,18 @@ Total events: 52
   url: https://teatrodelbarrio.com/arrancamiento/
   description: Disponible
 
-[10] Solo quería bailar
+[3] Tres noches en Ítaca
+  id: ed9da931253d87d489ae0d68f035f4a45a3125745f1e3409183a14fc7505146b
+  start: 2026-03-08T19:30:00+01:00
+  end: 2026-03-08T19:30:00+01:00
+  category: theater
+  source: nave_10
+  location: Nave 10 - Paseo de la Chopera, 14, Madrid
+  coordinates: 40.3920606, -3.6978319
+  url: https://tienda.madrid-destino.com/es/nave-10/tres-noches-en-itaca/
+  description: Entradas agotadas desde 21.00€
+
+[4] Solo quería bailar
   id: b572741c4d5e1ba9464b49a95354032d1ca9bb81a9ef7b2cccf151d2c4466c61
   start: 2026-03-08T20:30:00+01:00
   end: N/A
@@ -109,9 +43,9 @@ Total events: 52
   location: Teatro del Barrio - Calle de Zurita, 20, Madrid
   coordinates: 40.4096081, -3.699174
   url: https://teatrodelbarrio.com/solo-queria-bailar/
-  description: Disponible
+  description: ¡Ya solo quedan 29 plazas!
 
-[11] La gran cacería
+[5] La gran cacería
   id: 50183c64d7fc0aa6e42252984046f8fad1cb83ec7f7e1a69ddf9979526859b31
   start: 2026-03-09T19:30:00+01:00
   end: N/A
@@ -120,9 +54,9 @@ Total events: 52
   location: Teatro del Barrio - Calle de Zurita, 20, Madrid
   coordinates: 40.4096081, -3.699174
   url: https://teatrodelbarrio.com/la-gran-caceria/
-  description: ¡Ya solo quedan 10 plazas!
+  description: Localidades agotadas
 
-[12] Homenaje a Marielle Franco y a las Defensoras y Defensores de los Derechos Humanos
+[6] Homenaje a Marielle Franco y a las Defensoras y Defensores de los Derechos Humanos
   id: 98dc66bbd52e2a2ae1979ea16a509e00850ea4b2e11d01ba81c8181c024dbe6f
   start: 2026-03-10T19:00:00+01:00
   end: N/A
@@ -133,7 +67,7 @@ Total events: 52
   url: https://teatrodelbarrio.com/homenaje-a-marielle-franco-y-a-las-defensoras-y-defensores-de-los-derechos-humanos/
   description: ¡Ya solo quedan 1 plazas!
 
-[13] Los árboles no votan
+[7] Los árboles no votan
   id: f5fb3d65f842c40345efd25b4c4297850928ba1e5daa9e220a55b94fdce930ef
   start: 2026-03-11T19:30:00+01:00
   end: N/A
@@ -144,7 +78,7 @@ Total events: 52
   url: https://teatrodelbarrio.com/los-arboles-no-votan/
   description: Disponible
 
-[14] Un verano por metro cuadrado
+[8] Un verano por metro cuadrado
   id: 4739830ee39bb41f5c710e811c2eec6456e968b58067296dc20c1797321d0083
   start: 2026-03-12T19:30:00+01:00
   end: N/A
@@ -155,7 +89,7 @@ Total events: 52
   url: https://teatrodelbarrio.com/un-verano-por-metro-cuadrado/
   description: ¡Ya solo quedan 1 plazas!
 
-[15] "Torcidxs", de Las Nenas Theatre
+[9] "Torcidxs", de Las Nenas Theatre
   id: 3469e89194b5c7d1751b6533a053c5c92eb4c86db47c00b2b87f5e2d89f1b6d8
   start: 2026-03-13T19:30:00+01:00
   end: N/A
@@ -166,7 +100,7 @@ Total events: 52
   url: https://teatrodelbarrio.com/torcidxs-de-las-nenas-theatre/
   description: Disponible
 
-[16] Noche de fiesta - 50 Y SE BAILA. MARISA PONS
+[10] Noche de fiesta - 50 Y SE BAILA. MARISA PONS
   id: ecbd93814f6130b22281849aee90028efd242427de4743dda47becfaaa020a1b
   start: 2026-03-13T22:00:00+01:00
   end: N/A
@@ -177,7 +111,7 @@ Total events: 52
   url: https://teatrodelbarrio.com/50-y-se-baila-marisa-pons/
   description: Programación en Teatro del Barrio
 
-[17] GLORIA
+[11] GLORIA
   id: f609db3d24ad92c4424ee54ed75a52a341c191b50384932c7601b4e5bf02f48c
   start: 2026-03-14T13:00:00+01:00
   end: N/A
@@ -188,7 +122,7 @@ Total events: 52
   url: https://teatrodelbarrio.com/gloria/
   description: Disponible
 
-[18] "Torcidxs", de Las Nenas Theatre
+[12] "Torcidxs", de Las Nenas Theatre
   id: 61648f5dbf382fac8b4347937b35553bc30870ed3436ad79ddf120968ed9bd44
   start: 2026-03-14T19:30:00+01:00
   end: N/A
@@ -199,7 +133,7 @@ Total events: 52
   url: https://teatrodelbarrio.com/torcidxs-de-las-nenas-theatre/
   description: Disponible
 
-[19] Historia de una amapola que escapó entre los trigos
+[13] Historia de una amapola que escapó entre los trigos
   id: 10951f3c6d4517fe5cc0204aea4f0d41a29ba2e94e603aefb2e5e87f84ec72a4
   start: 2026-03-14T22:15:00+01:00
   end: N/A
@@ -210,7 +144,7 @@ Total events: 52
   url: https://teatrodelbarrio.com/historia-de-una-amapola/
   description: Disponible
 
-[20] AÚPA LERÉ. Percusión para crecer
+[14] AÚPA LERÉ. Percusión para crecer
   id: e381ab54ed5c6d962412de91f2e4ea76a021c00c11c21863e9627bc6aa980da5
   start: 2026-03-15T11:00:00+01:00
   end: N/A
@@ -221,7 +155,7 @@ Total events: 52
   url: https://teatrodelbarrio.com/aupa-lere-percusion-para-crecer/
   description: Disponible
 
-[21] Miércoles que parecen jueves, de Juan José Millás
+[15] Miércoles que parecen jueves, de Juan José Millás
   id: 4e19e922adb8a63eb8fd9bcda7aed827d6b5c0d0fd974183786bb09fe7e732c4
   start: 2026-03-15T13:00:00+01:00
   end: N/A
@@ -232,7 +166,7 @@ Total events: 52
   url: https://teatrodelbarrio.com/miercoles-que-parecen-jueves/
   description: Disponible
 
-[22] "Torcidxs", de Las Nenas Theatre
+[16] "Torcidxs", de Las Nenas Theatre
   id: 7acc0d49f00af135ee07634d6663fe1e7bbb5b729ca780df56f5be02869ea4a3
   start: 2026-03-15T18:00:00+01:00
   end: N/A
@@ -243,7 +177,7 @@ Total events: 52
   url: https://teatrodelbarrio.com/torcidxs-de-las-nenas-theatre/
   description: Disponible
 
-[23] La rabia es nuestra
+[17] La rabia es nuestra
   id: 01fff3965a45d8e65d1a15302ccdebee7726398ba076a8e30a5023c95162c2de
   start: 2026-03-15T20:30:00+01:00
   end: N/A
@@ -254,7 +188,7 @@ Total events: 52
   url: https://teatrodelbarrio.com/la-rabia-es-nuestra/
   description: Disponible
 
-[24] Ser humana
+[18] Ser humana
   id: 5786d1f5317e04e1af33c479be3038a00ed8cfe48879f90f7aa1c918cfeced96
   start: 2026-03-16T19:30:00+01:00
   end: N/A
@@ -265,7 +199,7 @@ Total events: 52
   url: https://teatrodelbarrio.com/ser-humana/
   description: Disponible
 
-[25] A 50 AÑOS DEL GOLPE DE ESTADO EN ARGENTINA, MÁS MEMORIA, MÁS VERDAD, MÁS JUSTICIA.
+[19] A 50 AÑOS DEL GOLPE DE ESTADO EN ARGENTINA, MÁS MEMORIA, MÁS VERDAD, MÁS JUSTICIA.
   id: 24be6d9b3a2c5ddda787f393b9206681167ffbde50d34e31a6509b28fefcd192
   start: 2026-03-17T19:00:00+01:00
   end: N/A
@@ -276,7 +210,7 @@ Total events: 52
   url: https://teatrodelbarrio.com/a-50-anos-del-golpe-de-estado-en-argentina-mas-memoria-mas-verdad-mas-justicia/
   description: Disponible
 
-[26] Los árboles no votan
+[20] Los árboles no votan
   id: 9b304fa7431b27c728aa6affc234087873d3dbd8b22c43f66c71e53546e47736
   start: 2026-03-18T19:30:00+01:00
   end: N/A
@@ -287,7 +221,7 @@ Total events: 52
   url: https://teatrodelbarrio.com/los-arboles-no-votan/
   description: Disponible
 
-[27] A la mierda
+[21] A la mierda
   id: 3fb013334b8a974cd2cdea2bd5f991c4853a4fe50a8bc808109726fd77fa0aac
   start: 2026-03-18T22:00:00+01:00
   end: N/A
@@ -298,7 +232,7 @@ Total events: 52
   url: https://teatrodelbarrio.com/a-la-mierda/
   description: Disponible
 
-[28] El hambre imposible
+[22] El hambre imposible
   id: cdafdf784fcf385254642aace09583e5a26ce5124cbe7b31e0a2f31af63e85a8
   start: 2026-03-19T19:30:00+01:00
   end: N/A
@@ -309,7 +243,7 @@ Total events: 52
   url: https://teatrodelbarrio.com/el-hambre-imposible/
   description: Disponible
 
-[29] Isa & Javi
+[23] Isa & Javi
   id: 45a7c17dbf4eb3033301e3ea81f9b8f92f634e826ead71a339d954066dc3a995
   start: 2026-03-19T22:15:00+01:00
   end: N/A
@@ -320,18 +254,7 @@ Total events: 52
   url: https://teatrodelbarrio.com/isa-y-javi/
   description: Disponible
 
-[30] Utopía en llamas
-  id: a2d55cc52793d807a2dc3a7a9b1845d2fab03f29c67826917a62789076be6586
-  start: 2026-03-20T18:00:00+01:00
-  end: 2026-04-26T18:00:00+02:00
-  category: theater
-  source: dramatico_inaem
-  location: Teatro Maria Guerrero - Calle de Tamayo y Baus, 4, Madrid
-  coordinates: 40.4228646, -3.6928431
-  url: https://dramatico.inaem.gob.es/evento/utopia-en-llamas/
-  description: Texto Alda Lozano Dirección Concha Delgado y Sandra Ferrús
-
-[31] Niebla
+[24] Niebla
   id: f5c1c7ebb968eb8a2029978f386f4763212118ce95d6b31e1e8cb896ee68f191
   start: 2026-03-20T19:30:00+01:00
   end: 2026-04-12T19:30:00+02:00
@@ -342,7 +265,7 @@ Total events: 52
   url: https://tienda.madrid-destino.com/es/nave-10/niebla/
   description: Entradas disponibles desde 15.75€
 
-[32] Chistes contra Franco
+[25] Chistes contra Franco
   id: be441b5b2c70af21a0616beef7536e61d0868f4a1f4e098a30db95f273d8026a
   start: 2026-03-20T19:30:00+01:00
   end: N/A
@@ -351,9 +274,9 @@ Total events: 52
   location: Teatro del Barrio - Calle de Zurita, 20, Madrid
   coordinates: 40.4096081, -3.699174
   url: https://teatrodelbarrio.com/chistes-contra-franco/
-  description: Disponible
+  description: ¡Ya solo quedan 30 plazas!
 
-[33] Ser humana
+[26] Ser humana
   id: 3bb935471355bde9c2ffadfe1e0bf82b228544c4128299f0830a7094642ecf4b
   start: 2026-03-21T13:00:00+01:00
   end: N/A
@@ -364,7 +287,7 @@ Total events: 52
   url: https://teatrodelbarrio.com/ser-humana/
   description: Disponible
 
-[34] Solo quería bailar
+[27] Solo quería bailar
   id: ee3cdc43e9b76f9cd35597336082ac591f358fff87350149eb5eead830183f02
   start: 2026-03-21T19:30:00+01:00
   end: N/A
@@ -375,7 +298,7 @@ Total events: 52
   url: https://teatrodelbarrio.com/solo-queria-bailar/
   description: Disponible
 
-[35] Piluka y sus internacionales del bolero
+[28] Piluka y sus internacionales del bolero
   id: c3f4562ed2af21e6d7d3a03227e8a85e9f1fdf530f04c035cd4591af233f84e6
   start: 2026-03-21T22:15:00+01:00
   end: N/A
@@ -386,7 +309,7 @@ Total events: 52
   url: https://teatrodelbarrio.com/piluka-y-sus-internacionales-del-bolero/
   description: Disponible
 
-[36] Piccolino. Un cine concierto
+[29] Piccolino. Un cine concierto
   id: 60e228360a95d6e09420fbb11d6df4f77c2a3f61de3a7df4264fb104d38f8c95
   start: 2026-03-22T11:00:00+01:00
   end: N/A
@@ -397,7 +320,7 @@ Total events: 52
   url: https://teatrodelbarrio.com/infantil-piccolino/
   description: Disponible
 
-[37] Infiltrado en VOX
+[30] Infiltrado en VOX
   id: c2cc002e355bdb962d6c7c085e0adaa6e059450b695c7c879f445127bef01179
   start: 2026-03-22T13:00:00+01:00
   end: N/A
@@ -408,7 +331,7 @@ Total events: 52
   url: https://teatrodelbarrio.com/infiltrado-en-vox/
   description: Disponible
 
-[38] Gordas, lisiadas y mamarrachas
+[31] Gordas, lisiadas y mamarrachas
   id: 070bbd47d70ecfba121b0268d9f559b918dbcbc6f6a89832fc79356a1bb0bf1d
   start: 2026-03-22T18:00:00+01:00
   end: N/A
@@ -419,7 +342,7 @@ Total events: 52
   url: https://teatrodelbarrio.com/gordas-lisiadas-y-mamarrachas/
   description: Disponible
 
-[39] Solo quería bailar
+[32] Solo quería bailar
   id: 51ac575612ff36108dfb2e52d61ad98dfd23f2abb0fd082d0f7967c742df100b
   start: 2026-03-22T20:30:00+01:00
   end: N/A
@@ -430,7 +353,7 @@ Total events: 52
   url: https://teatrodelbarrio.com/solo-queria-bailar/
   description: Disponible
 
-[40] Estreno del documental "Soy Tribulete 7"
+[33] Estreno del documental "Soy Tribulete 7"
   id: 31b437b3eda05a1e740335efe80de82fc1a327bdac1badf77b22270e69a4f63c
   start: 2026-03-24T19:00:00+01:00
   end: N/A
@@ -441,7 +364,7 @@ Total events: 52
   url: https://teatrodelbarrio.com/estreno-del-documental-soy-tribulete-7/
   description: ¡Ya solo quedan 7 plazas!
 
-[41] Un verano por metro cuadrado
+[34] Un verano por metro cuadrado
   id: 4c858d10cde2fccefd4848931129e7c044fc640f5e563cd5dadd8c85837c0ec1
   start: 2026-03-25T19:30:00+01:00
   end: N/A
@@ -452,7 +375,7 @@ Total events: 52
   url: https://teatrodelbarrio.com/un-verano-por-metro-cuadrado/
   description: ¡Ya solo quedan 1 plazas!
 
-[42] Un verano por metro cuadrado
+[35] Un verano por metro cuadrado
   id: df79a72af200b01a10e19fa1cbf6c1035d70d0d044d96c14c0280aaeaf0d22c4
   start: 2026-03-26T19:30:00+01:00
   end: N/A
@@ -463,7 +386,7 @@ Total events: 52
   url: https://teatrodelbarrio.com/un-verano-por-metro-cuadrado/
   description: ¡Ya solo quedan 1 plazas!
 
-[43] Concierto primer aniversario Peña Flamenca de Lavapiés a beneficio de UNRWA España
+[36] Concierto primer aniversario Peña Flamenca de Lavapiés a beneficio de UNRWA España
   id: 74132497d786ba12955989a9bb906057a7680dcf7c0f56e2f7c1517fd13cfe3c
   start: 2026-03-26T22:15:00+01:00
   end: N/A
@@ -474,7 +397,7 @@ Total events: 52
   url: https://teatrodelbarrio.com/concierto-primer-aniversario-pena-flamenca-de-lavapies-a-beneficio-de-unrwa/
   description: ¡Ya solo quedan 1 plazas!
 
-[44] Solo quería bailar
+[37] Solo quería bailar
   id: 3fc2832f4da28ed13485fd0d8913773af250005a95940c22b75b1573200ff65a
   start: 2026-03-27T19:30:00+01:00
   end: N/A
@@ -485,7 +408,7 @@ Total events: 52
   url: https://teatrodelbarrio.com/solo-queria-bailar/
   description: Disponible
 
-[45] Noche de fiesta - 15 AÑOS DE CINE LÉSBICO
+[38] Noche de fiesta - 15 AÑOS DE CINE LÉSBICO
   id: f586d58a9f06e8de4a131f79b25fcb02dfac80a3e888d961f853c714f0b29d82
   start: 2026-03-27T22:00:00+01:00
   end: N/A
@@ -496,7 +419,18 @@ Total events: 52
   url: https://teatrodelbarrio.com/noche-de-fiesta-15-anos-de-cine-lesbico/
   description: Programación en Teatro del Barrio
 
-[46] Isa & Javi
+[39] Malas
+  id: 4ea68fccf8c967c221c8010e3e2d1899791fa26d44cc9361ddf2da7224c647cc
+  start: 2026-03-28T13:00:00+01:00
+  end: N/A
+  category: theater
+  source: teatro_del_barrio
+  location: Teatro del Barrio - Calle de Zurita, 20, Madrid
+  coordinates: 40.4096081, -3.699174
+  url: https://teatrodelbarrio.com/malas/
+  description: Disponible
+
+[40] Isa & Javi
   id: 2f442b2dfc658b20aa51e2eb36bd757327588cd45bd793e912a550e3dd308d5a
   start: 2026-03-28T13:00:00+01:00
   end: N/A
@@ -507,7 +441,7 @@ Total events: 52
   url: https://teatrodelbarrio.com/isa-y-javi/
   description: Disponible
 
-[47] Feishow
+[41] Feishow
   id: 6a9a0f9c67293fa42964c7b89902282c550c040d3dcea45d992c271cf1586a50
   start: 2026-03-28T13:00:00+01:00
   end: N/A
@@ -518,7 +452,7 @@ Total events: 52
   url: https://teatrodelbarrio.com/feishow/
   description: Disponible
 
-[48] Solo quería bailar
+[42] Solo quería bailar
   id: 938cc26c235a4b9c5346ec3f801a278835682fe2430211abacf72d26e83bd3d9
   start: 2026-03-28T19:30:00+01:00
   end: N/A
@@ -529,7 +463,7 @@ Total events: 52
   url: https://teatrodelbarrio.com/solo-queria-bailar/
   description: Disponible
 
-[49] Feishow
+[43] Feishow
   id: 1cdbde66789c7de7c5e487cc1f6bc09a032fc5634cbaa5cd94b653a0ff878099
   start: 2026-03-28T22:15:00+01:00
   end: N/A
@@ -540,7 +474,7 @@ Total events: 52
   url: https://teatrodelbarrio.com/feishow/
   description: Disponible
 
-[50] Feishow
+[44] Feishow
   id: fc1f8eb631da85b127f747e4b006e15436b23d36d0503568fa719d3fd18be38b
   start: 2026-03-29T13:00:00+02:00
   end: N/A
@@ -551,7 +485,7 @@ Total events: 52
   url: https://teatrodelbarrio.com/feishow/
   description: Disponible
 
-[51] Solo quería bailar
+[45] Solo quería bailar
   id: 6a4d4295a58e76bd6db78a49a313b4a4740ab220f56ce2d2be66a8bd04b656df
   start: 2026-03-29T18:00:00+02:00
   end: N/A
@@ -562,7 +496,7 @@ Total events: 52
   url: https://teatrodelbarrio.com/solo-queria-bailar/
   description: Disponible
 
-[52] La rabia es nuestra
+[46] La rabia es nuestra
   id: af8e3891222ef76798d81e539598d0ea8e9fe8aae772834adde22e5216b8cbd8
   start: 2026-03-29T20:30:00+02:00
   end: N/A
@@ -571,4 +505,15 @@ Total events: 52
   location: Teatro del Barrio - Calle de Zurita, 20, Madrid
   coordinates: 40.4096081, -3.699174
   url: https://teatrodelbarrio.com/la-rabia-es-nuestra/
+  description: Disponible
+
+[47] Documental “Palestina, una tragedia permanente” + libro “El diario de Laila Azam” (Historias de Gaza)
+  id: 176dff024a9265a2a6f6f5d6a5752119a2a56ad5425800655ab617f92d1a1328
+  start: 2026-03-31T19:00:00+02:00
+  end: N/A
+  category: theater
+  source: teatro_del_barrio
+  location: Teatro del Barrio - Calle de Zurita, 20, Madrid
+  coordinates: 40.4096081, -3.699174
+  url: https://teatrodelbarrio.com/palestina-una-tragedia-permanente/
   description: Disponible

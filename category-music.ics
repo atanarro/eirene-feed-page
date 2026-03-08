@@ -2,39 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:MICROMAMBO presentación del disco La República del Baile con inv
- itados especiales
-DTSTART;TZID=Europe/Madrid:20260307T183000
-UID:070701b27f87c6bb506f02e8a44151eb42ecbf295e695da8ba4cfa7bc78b408c
-CATEGORIES:music
-DESCRIPTION:Concierto / Latin / Rock / World Music & Folk\n\nhttps://salav
- illanos.es/evento/micromambo-presentacion-del-disco-la-republica-del-baile
- -con-invitados-especiales/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Orishas
-DTSTART;TZID=Europe/Madrid:20260307T203000
-UID:47d7fb8fa6ae41519a7f1024a1223409dedccc4212461d28514945f3b3ebcf7e
-CATEGORIES:music
-DESCRIPTION:Apertura Puertas: 19:00 pm\n\nhttps://www.entradas.com/artist/
- orishas/?affiliate=RIV
-LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
- id
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Sun Rockets + The Chaches Rocking Band
-DTSTART;TZID=Europe/Madrid:20260307T213000
-UID:ac8e390700db07d89235c5eef81c3568acd9881d02e92771e19312b693ceb3ba
-CATEGORIES:music
-DESCRIPTION:Precio de las entradas: 12€/15€ Entradas a la venta en mov
- ingtickets Bio/enlaces bandas: The Sun Rockets_facebook Más información:
-  20 Aniversario The Sun Rockets (Almería) por lo que se ha reunido la for
- mación original\n\nhttps://gruta77.com/events/the-sun-rockets-the-chaches
- -rocking-band/var/ri-0.l-L2
-LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:En Gloria estamos
 DTSTART;TZID=Europe/Madrid:20260308T180000
 UID:9dca18d5e6801d6812b9910e1179e3536a5a47774ae6161d0b4b9b3807e5cfc2
@@ -598,5 +565,23 @@ CATEGORIES:music
 DESCRIPTION:Concierto / Afro\n\nhttps://salavillanos.es/evento/gala-diaspo
  ra-teranga-celebracion-de-la-independencia-de-senegal/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lucas Santtana
+DTSTART;TZID=Europe/Madrid:20260406T203000
+UID:ef6cef7aee0078163ab214f4c2b8a06cf1ba9dc8bbb67a191f2623a09720eb99
+CATEGORIES:music
+DESCRIPTION:Concierto / Villanos del Jazz\n\nhttps://salavillanos.es/event
+ o/lucas-santtana/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elena Rose (Segunda fecha)
+DTSTART;TZID=Europe/Madrid:20260406T210000
+UID:23dc13aeef337db22f852684294b9cfeaf30a6cf99535d675eb21795507b946c
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://feverup.com/m/570630
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
 END:VEVENT
 END:VCALENDAR
