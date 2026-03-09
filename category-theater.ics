@@ -2,42 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:AÚPA LERÉ. Percusión para crecer
-DTSTART;TZID=Europe/Madrid:20260308T110000
-UID:a795f383d0fd75b9648f4481361561221c6450510ce3d902c5c08be841546913
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/aupa-lere-percusion-
- para-crecer/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Arrancamiento
-DTSTART;TZID=Europe/Madrid:20260308T180000
-UID:05f385541d882a944f67c0077b3a122248730c8079f76e8176b20565cc8c1cc0
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/arrancamiento/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tres noches en Ítaca
-DTSTART;TZID=Europe/Madrid:20260308T193000
-DTEND;TZID=Europe/Madrid:20260308T193000
-UID:ed9da931253d87d489ae0d68f035f4a45a3125745f1e3409183a14fc7505146b
-CATEGORIES:theater
-DESCRIPTION:Entradas agotadas desde 21.00€\n\nhttps://tienda.madrid-dest
- ino.com/es/nave-10/tres-noches-en-itaca/
-LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Solo quería bailar
-DTSTART;TZID=Europe/Madrid:20260308T203000
-UID:b572741c4d5e1ba9464b49a95354032d1ca9bb81a9ef7b2cccf151d2c4466c61
-CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 29 plazas!\n\nhttps://teatrodelbarrio.com/sol
- o-queria-bailar/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:La gran cacería
 DTSTART;TZID=Europe/Madrid:20260309T193000
 UID:50183c64d7fc0aa6e42252984046f8fad1cb83ec7f7e1a69ddf9979526859b31
@@ -62,8 +26,8 @@ SUMMARY:Los árboles no votan
 DTSTART;TZID=Europe/Madrid:20260311T193000
 UID:f5fb3d65f842c40345efd25b4c4297850928ba1e5daa9e220a55b94fdce930ef
 CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/los-arboles-no-votan
- /
+DESCRIPTION:¡Ya solo quedan 28 plazas!\n\nhttps://teatrodelbarrio.com/los
+ -arboles-no-votan/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -220,7 +184,7 @@ SUMMARY:Chistes contra Franco
 DTSTART;TZID=Europe/Madrid:20260320T193000
 UID:be441b5b2c70af21a0616beef7536e61d0868f4a1f4e098a30db95f273d8026a
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 30 plazas!\n\nhttps://teatrodelbarrio.com/chi
+DESCRIPTION:¡Ya solo quedan 20 plazas!\n\nhttps://teatrodelbarrio.com/chi
  stes-contra-franco/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT

@@ -39,6 +39,19 @@ LOCATION:MAD (Madrid Artes Digitales) Centro de Experiencias Inmersivas -
  de Legazpi\, 8\, Madrid\, 28045
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Trenes históricos
+DTSTART;TZID=Europe/Madrid:20201205T000000
+DTEND;TZID=Europe/Madrid:20271231T000000
+UID:152153bf1625344142b8bfb8c0ba9b20a79231231cdf35572f5e6cd307ae9554
+CATEGORIES:exhibition
+DESCRIPTION:Exposición permanente sobre los primeros trenes que circularo
+ n por las vías del suburbano madrileño para conmemorar sus 100 años de 
+ vida (Estación de Chamartín).\n\nhttps://museosmetromadrid.es/museos/est
+ acion-de-chamartin/
+LOCATION:Estación de Madrid - Chamartín - Clara Campoamor - Agustín de 
+ Foxa\, s/n\, Madrid\, 28036
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Lo nunca visto. Tesoros escondidos en los protocolos notariales
 DTSTART;TZID=Europe/Madrid:20240419T000000
 DTEND;TZID=Europe/Madrid:20260331T000000
@@ -195,19 +208,6 @@ LOCATION:Museo Casa de La Moneda - del Doctor Esquerdo\, 36\, Madrid\, 280
  28
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dinosaurios entre nosotros
-DTSTART;TZID=Europe/Madrid:20250711T000000
-DTEND;TZID=Europe/Madrid:20260712T000000
-UID:283f9677b9b852f4083e9a569c69eaff2dbb3e009e8bbe3a2c6c2c6f19aaef49
-CATEGORIES:exhibition
-DESCRIPTION:Los dinosaurios siguen entre nosotros a través de sus descend
- ientes más directos: las aves. (Museo Nacional de Ciencias Naturales. A p
- artir del 11 de julio).\n\nhttps://www.mncn.csic.es/es/visita-el-mncn/expo
- siciones/dinosaurios-entre-nosotros
-LOCATION:Museo Nacional de Ciencias Naturales - de José Gutierrez Abascal
- \, 2\, Madrid\, 28006
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Frida Kahlo: Experiencia Live Art y Muestra Gastronómica
 DTSTART;TZID=Europe/Madrid:20250827T000000
 DTEND;TZID=Europe/Madrid:20260405T000000
@@ -322,21 +322,6 @@ LOCATION:OXO. Museo del Videojuego en Madrid - del Postigo de San Martín\
  , 8\, Madrid\, 28013
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:La mitad del mundo. La mujer en el México indígena. El ámbito d
- ivino
-DTSTART;TZID=Europe/Madrid:20251004T000000
-DTEND;TZID=Europe/Madrid:20260322T000000
-UID:43da9cd8646f1fd7fccdd0dc8abf6babc675be8a51d29fbfd3991b0658e35936
-CATEGORIES:exhibition
-DESCRIPTION:Un análisis sobre las construcciones culturales de género en
-  el mundo prehispánico (Fundación Casa de México en España/ Museo Arqu
- eológico Nacional/ Instituto Cervantes/ Museo Nacional Thyssen-Born\n\nht
- tps://www.casademexico.es/exposicion/la-mitad-del-mundo-la-mujer-en-el-mex
- ico-indigena/
-LOCATION:Fundación Casa de México en España - de Alberto Aguilera\, 20\
- , Madrid\, 28015
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Maruja Mallo. Máscara y compás
 DTSTART;TZID=Europe/Madrid:20251008T000000
 DTEND;TZID=Europe/Madrid:20260316T000000
@@ -362,6 +347,21 @@ LOCATION:La Casa de la Arquitectura (Arquería de Nuevos Ministerios) - de
   la Castellana\, 67\, Madrid\, 28046
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:El sueño de la razón. Del Siglo de las Luces a la inteligencia a
+ rtificial
+DTSTART;TZID=Europe/Madrid:20251010T000000
+DTEND;TZID=Europe/Madrid:20260405T000000
+UID:7d01e3a4a6f0001b3f79d5916c5a36ea8c4043f8795bc06ecd19e4b59d63d961
+CATEGORIES:exhibition
+DESCRIPTION:Recorrido que va desde el uso del dibujo y el grabado como for
+ ma científica de representar el mundo hasta el nacimiento de la fotograf
+ ía (Espacio Fundación Telefónica. Hasta 5 abr).\n\nhttps://espacio.fund
+ aciontelefonica.com/evento/el-sueno-de-la-razon-del-siglo-de-las-luces-a-l
+ a-inteligencia-artificial/
+LOCATION:Espacio Fundación Telefónica - de Fuencarral\, 3\, Madrid\, 280
+ 04
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Archivo Alexander Von Humboldt Madrid: Gesto Pacífico
 DTSTART;TZID=Europe/Madrid:20251016T000000
 DTEND;TZID=Europe/Madrid:20260321T000000
@@ -374,17 +374,6 @@ DESCRIPTION:Una exposición inspirada en los viajes de Alexander von Humbo
 LOCATION:Museo de América - de los Reyes Católicos\, 6\, Madrid\, 28040
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inquietud. Libertad y democracia
-DTSTART;TZID=Europe/Madrid:20251016T000000
-DTEND;TZID=Europe/Madrid:20260308T000000
-UID:9af3deb5a9321dad9164c3c1565b5b288f7c959a8346a291958b095a7a635a9f
-CATEGORIES:exhibition
-DESCRIPTION:Una celebración de los 50 años de la transición democrátic
- a en Portugal y España (La Casa Encendida. 16 oct a 8 mar).\n\nhttps://ww
- w.lacasaencendida.es/exposiciones/inquietud-libertad-y-democracia
-LOCATION:La Casa Encendida - de Valencia\, 2\, Madrid\, 28012
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Luis Pérez Calvo. Cromos de artista
 DTSTART;TZID=Europe/Madrid:20251023T000000
 DTEND;TZID=Europe/Madrid:20260920T000000
@@ -394,17 +383,6 @@ DESCRIPTION:El artista multidisciplinar presenta una exposición integrada
   por una selección de «cromos» y un mural realizado in situ (CentroCent
  ro. Hasta 20 sept).\n\nhttps://www.centrocentro.org/exposicion/luis-perez-
  calvo
-LOCATION:CentroCentro - de Cibeles\, 1\, Madrid\, 28014
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Miluca Sanz. Estratos. La inmortalidad de lo efímero
-DTSTART;TZID=Europe/Madrid:20251023T000000
-DTEND;TZID=Europe/Madrid:20260426T000000
-UID:a6e10ea49be1d7a3e78235e2c58c637d794692e4b473069a9f09d9c2b5a66b7e
-CATEGORIES:exhibition
-DESCRIPTION:Exposición que reúne en formato audiovisual una selección d
- e los conocidos diarios de la artista (CentroCentro. 23 oct a 26 abr).\n\n
- https://www.centrocentro.org/exposicion/miluca-sanz-estratos
 LOCATION:CentroCentro - de Cibeles\, 1\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
@@ -429,20 +407,6 @@ DESCRIPTION:Una selección de 22 retratos de la fotógrafa y activista Ele
  na de Castro que combinan sensibilidad y compromiso (Matadero Madrid. Hast
  a Junio).\n\nhttps://www.mataderomadrid.org/programacion/animals
 LOCATION:Matadero Madrid - de Legazpi\, 8\, Madrid\, 28045
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Un visionado a tres voces. Colecciones de video del museo CA2M\, M
- AC de Panamá y Bienalsur
-DTSTART;TZID=Europe/Madrid:20251107T000000
-DTEND;TZID=Europe/Madrid:20260308T000000
-UID:252d9c6c5dec049cd616b19d6d6f02c0b6ec23ed48881a00fa498452c4c13a14
-CATEGORIES:exhibition
-DESCRIPTION:Muestra que establece un diálogo entre tres colecciones que o
- peran en diferentes marcos territoriales del Sur (Centro de Arte Dos de Ma
- yo (CA2M) / Móstoles. Hasta 8 marzo).\n\nhttps://ca2m.org/exposiciones/un
- -visionado-a-tres-voces
-LOCATION:Centro de Arte Dos de Mayo (CA2M) / Móstoles - de la Constituci
- ón \, 23\, (Móstoles)\, Móstoles\, 28931
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NIKE. Diseño en movimiento
@@ -479,18 +443,6 @@ DESCRIPTION:Obras maestras del Museo del Louvre dialogan por primera vez c
  ay).\n\nhttps://www.man.es/man/exposicion/exposiciones-temporales/20251118
  -escultura-iberica-louvre-man.html
 LOCATION:Museo Arqueológico Nacional - de Serrano\, 13\, Madrid\, 28001
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Juan Muñoz. Historias de Arte
-DTSTART;TZID=Europe/Madrid:20251118T000000
-DTEND;TZID=Europe/Madrid:20260308T000000
-UID:310b979016675c1fbfbb1d2a4ac210cd6f8251418bc16dfe11899ca31ba470b8
-CATEGORIES:exhibition
-DESCRIPTION:Una muestra que recorre una mirada contemporánea del Renacimi
- ento y del Barroco de la mano del icónico artista (Museo del Prado. Hasta
-  8 mar).\n\nhttps://www.museodelprado.es/actualidad/exposicion/juan-muoz-h
- istorias-de-arte/499fbef9-c3c6-b73d-740f-7eeede62ca7e
-LOCATION:Museo del Prado - del Prado\, s/n\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FOD. Fueradentro
@@ -581,29 +533,19 @@ DESCRIPTION:Gran muestra antológica que profundiza en los más de cuarent
 LOCATION:Museo Reina Sofía - de Santa Isabel\, 52\, Madrid\, 28012
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Aeolia
+SUMMARY:Ignacio Bolívar y Urrutia (1850-1944). Director del Museo de Cien
+ cias Naturales
 DTSTART;TZID=Europe/Madrid:20251127T000000
-DTEND;TZID=Europe/Madrid:20260308T000000
-UID:465477a566c43e77f827d6ed18cb712767df191b19914f75a8de37d0ccfee1f3
+DTEND;TZID=Europe/Madrid:20260531T000000
+UID:80784ead747d4a1b823d1478a6eeaa5a17ab833f582566a716a46a8bd7f928e9
 CATEGORIES:exhibition
-DESCRIPTION:Arte\, lenguaje y energía confluyen en esta instalación del 
- artista conceptual Solimán López\, en el nuevo espacio Banca Cervantes (
- Instituto Cervantes. 27 nov a 8 mar).\n\nhttps://cultura.cervantes.es/espa
- nya/es/Aeolia/185239
-LOCATION:Instituto Cervantes - de Alcalá\, 49\, Madrid\, 28014
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Let's PLay. Juguemos en la colección
-DTSTART;TZID=Europe/Madrid:20251127T000000
-DTEND;TZID=Europe/Madrid:20260308T000000
-UID:8af689c2443a9cd286b3ea9af61e4fd9bba98871e4f39c16f4434a1e989ff0ae
-CATEGORIES:exhibition
-DESCRIPTION:Varias intervenciones artísticas invitan a reinterpretar la c
- olección permanente del museo y su narrativa\, dentro de la programación
-  de BIENALSUR 2025 (Museo Nacional de Artes Decorativas.\n\nhttps://bienal
- sur.org/es/single_agenda/714
-LOCATION:Museo Nacional de Artes Decorativas - de Montalbán\, 12\, Madrid
- \, 28014
+DESCRIPTION:Homenaje al que fuera director del Museo Nacional de Ciencias 
+ Naturales en el primer tercio del siglo XX\, responsable de su modernizaci
+ ón y prestigio (MNCN. A partir 27 noviembre).\n\nhttps://www.mncn.csic.es
+ /es/visita-el-mncn/exposiciones/ignacio-bolivar-y-urrutia-1850-1944-direct
+ or-del-museo-de-ciencias
+LOCATION:Museo Nacional de Ciencias Naturales - de José Gutierrez Abascal
+ \, 2\, Madrid\, 28006
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pintura cuzqueña. Centro y periferia
@@ -679,19 +621,6 @@ DESCRIPTION:Exposición que recorre la historia de la bandera española\,
 LOCATION:Museo Naval - del Prado\, 3\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Metro Cómic. Un viaje entre viñetas
-DTSTART;TZID=Europe/Madrid:20251205T000000
-DTEND;TZID=Europe/Madrid:20260322T000000
-UID:bf0f9e577378815487e63fc0b06d6069e9e3a36c44faf7458435a7eb93571f0f
-CATEGORIES:exhibition
-DESCRIPTION:Una exposición que ofrece una panorámica sobre la relación 
- entre el metro y el cómic (Nave de Motores de Pacífico. Viernes a doming
- os. Hasta marzo 2026).\n\nhttps://museosmetromadrid.es/metro-comic-un-viaj
- e-entre-vinetas/
-LOCATION:Nave de Motores de Pacífico - de Valderribas\, 49\, Madrid\, 280
- 07
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:De Monet a Kandinski. Arte revolucionario
 DTSTART;TZID=Europe/Madrid:20251205T000000
 DTEND;TZID=Europe/Madrid:20260330T000000
@@ -702,20 +631,6 @@ DESCRIPTION:Experiencia que reúne los movimientos artísticos más inf
  tillismo\, posimpresionismo\, cubismo y expresionismo (Nomad Museo\n\nhttp
  s://www.nomadmuseo.es/
 LOCATION:Nomad Museo Inmersivo - Gran Vía\, 78\, Madrid\, 28013
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Anshan Cuijin: La Elegancia del Estilo de Vida Tradicional Chino
-DTSTART;TZID=Europe/Madrid:20251216T000000
-DTEND;TZID=Europe/Madrid:20260308T000000
-UID:0d57c7d3a036ca2e4ffaf2f9ee7f317d5a1c050db6da2a590819ffded733b75c
-CATEGORIES:exhibition
-DESCRIPTION:Una invitación a descubrir la estética\, la armonía y la se
- nsibilidad de la vida tradicional china desde una mirada contemporánea (C
- entro Cultural de China en Madrid. Hasta 8 marzo).\n\nhttps://ccchinamadri
- d.org/actividad/anshan-cuijinexposicion-de-la-elegancia-del-estilo-de-vida
- -tradicional-chino/
-LOCATION:Centro Cultural de China en Madrid - del General Pardiñas\, 73\,
-  Madrid\, 28006
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Interludio. El sonido de Oceanía. Un pahu de las Islas Marquesas 
@@ -770,20 +685,6 @@ DESCRIPTION:La exposición revisita la trayectoria de la creadora vasca\,
  er_ferrer
 LOCATION:Museo Casa de La Moneda - del Doctor Esquerdo\, 36\, Madrid\, 280
  28
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Metamorfosis: espacio y sociedad en la colección idealista
-DTSTART;TZID=Europe/Madrid:20251217T000000
-DTEND;TZID=Europe/Madrid:20260308T000000
-UID:9f9abfd0b28088da237d14e5afb2939a901b685d0cf3ccd8e744ab76d5c89a44
-CATEGORIES:exhibition
-DESCRIPTION:Una selección de fotografías y videoarte realizados por vari
- os artistas de todo el mundo ofrecen una visión crítica de la realidad c
- ontemporánea (Espacio Cultural Serrería Belga.\n\nhttps://www.serreria-b
- elga.es/actividades/metamorfosis-espacio-y-sociedad-en-la-coleccion-ideali
- sta
-LOCATION:Espacio Cultural Serrería Belga - de la Alameda\, 15\, Madrid\, 
- 28014
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Oliver Laxe. HU/هُوَ. Bailad como si nadie os viera
@@ -888,6 +789,17 @@ DESCRIPTION:Recorrido por episodios clave de la Historia de nuestro país
 LOCATION:Residencia de Estudiantes - del Pinar\, 21-23\, Madrid\, 28006
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Viajar en el tiempo: 85 años de publicidad de Renfe
+DTSTART;TZID=Europe/Madrid:20251219T000000
+DTEND;TZID=Europe/Madrid:20260531T000000
+UID:e7f2ed4545f8ab9e74c8b72b5c36fb7fd217013ba6593ecb9accae2d800a282b
+CATEGORIES:exhibition
+DESCRIPTION:Exposición organizada por Renfe que muestra un viaje por 85 a
+ ños de memoria visual (Museo del Ferrocarril. Hasta 31 mayo).\n\nhttps://
+ www.museodelferrocarril.org/exposiciones/viajar-en-el-tiempo/
+LOCATION:Museo del Ferrocarril - de las Delicias\, 61\, Madrid\, 28045
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Este libro es mío... la heráldica como elemento distintivo en la
   producción del libro antiguo
 DTSTART;TZID=Europe/Madrid:20260108T000000
@@ -936,19 +848,6 @@ DESCRIPTION:Proyecto artístico de Fernando Carballa que reflexiona sobre
  ántico gallego (Real Jardín Botánico. 15 ene a 22 mar).\n\nhttps://rjb.
  csic.es/evento/exposicion-fotosintesis-atlantica/
 LOCATION:Real Jardín Botánico - de Murillo\, 2\, Madrid\, 28014
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Momentos. Un proyecto fotográfico de Antonio Liébana
-DTSTART;TZID=Europe/Madrid:20260115T000000
-DTEND;TZID=Europe/Madrid:20260320T000000
-UID:aa558e2f2d99131600c69657230d720a460ed76765cb6fe3542ace6295a6f347
-CATEGORIES:exhibition
-DESCRIPTION:Exposición de Antonio Liébana que reúne 25 fotografías de 
- gran formato tomadas en distintos rincones del planeta (B the travel brand
-  Xperience Madrid. 15 ene a 20 mar).\n\nhttps://premium.btravel.com/moment
- os-un-proyecto-fotografico-de-antonio-liebana/
-LOCATION:B the travel brand Xperience Madrid - de Miguel Ángel\, 33\, Mad
- rid\, 28010
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:War - Kepa Garraza
@@ -1264,18 +1163,6 @@ LOCATION:Real Academia de Bellas Artes de San Fernando - de Alcalá\, 13\,
   Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:La casa de las artes. Abierta desde 1926
-DTSTART;TZID=Europe/Madrid:20260212T000000
-DTEND;TZID=Europe/Madrid:20260510T000000
-UID:ee5ed0b89007b2883c9bf9b903f561f71f75e32932b51c1e4a905c62f4ed3042
-CATEGORIES:exhibition
-DESCRIPTION:Un recorrido por el origen\, el diseño y la construcción de 
- una de las arquitecturas más emblemáticas de la Gran Vía madrileña (C
- írculo de Bellas Artes. Hasta 10 may).\n\nhttps://www.circulobellasartes.
- com/exposiciones/la-casa-de-las-artes-abierta-desde-1926/
-LOCATION:Círculo de Bellas Artes - de Alcalá\, 42\, Madrid\, 28014
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:X Muestra Orfebrería y Joyería Contemporánea
 DTSTART;TZID=Europe/Madrid:20260212T000000
 DTEND;TZID=Europe/Madrid:20260426T000000
@@ -1387,21 +1274,6 @@ LOCATION:Fundación MAPFRE. Sala Recoletos - de Recoletos\, 23\, Madrid\,
  28004
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Domus Nova. Diseño para habitar el tiempo presente
-DTSTART;TZID=Europe/Madrid:20260219T000000
-DTEND;TZID=Europe/Madrid:20260308T000000
-UID:5de3e5b83623938a29fcaf88eb3638d475c4cb13de5cc86ad2206b8fe95c9b6a
-CATEGORIES:exhibition
-DESCRIPTION:Varios objetos de diseño dialogan con las piezas arqueológic
- as del museo (Museo de San Isidro. Los Orígenes de Madrid. Hasta 8 mar).\
- n\nhttps://www.madrid.es/portales/munimadrid/es/Inicio/Cultura-ocio-y-depo
- rte/Actividades-y-eventos/DOMUS-NOVA-Diseno-para-habitar-el-tiempo-present
- e/?vgnextfmt=default&vgnextoid=33a65e1ef415c910VgnVCM200000f921e388RCRD&vg
- nextchannel=6381f073808fe410VgnVCM20
-LOCATION:Museo de San Isidro. Los Orígenes de Madrid - de San Andrés\, 2
- \, Madrid\, 28005
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Gabinete de obra en papel (IV)
 DTSTART;TZID=Europe/Madrid:20260219T000000
 DTEND;TZID=Europe/Madrid:20260719T000000
@@ -1426,19 +1298,6 @@ DESCRIPTION:Exposición que reúne cerca de 200 obras de la fotógrafa es
  ionmapfre.org/arte-y-cultura/exposiciones/
 LOCATION:Fundación MAPFRE. Sala Recoletos - de Recoletos\, 23\, Madrid\, 
  28004
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jordi Teixidor. No-res
-DTSTART;TZID=Europe/Madrid:20260219T000000
-DTEND;TZID=Europe/Madrid:20260419T000000
-UID:c658aec3224c6be9681146e787930948de8ade83eb17fd188bbcd054f3685117
-CATEGORIES:exhibition
-DESCRIPTION:La obra del artista valenciano protagoniza esta muestra que in
- vita a la introspección y a la pausa (Sala Alcalá 31. Hasta 9 abr).\n\nh
- ttps://www.comunidad.madrid/actividades/2025/exposicion-jordi-teixidor-no-
- res
-LOCATION:Sala Alcalá 31 de la Comunidad de Madrid - de Alcalá\, 31\, Mad
- rid\, 28014
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Noches y días
@@ -1565,6 +1424,18 @@ DESCRIPTION:Una selección de 100 obras contemporáneas pone en valor el p
  stica (CentroCentro. 26 feb a 6 sept).\n\nhttps://www.centrocentro.org/exp
  osicion/madrid-colecciona
 LOCATION:CentroCentro - de Cibeles\, 1\, Madrid\, 28014
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ukiyo-e. El ferrocarril en el mundo flotante
+DTSTART;TZID=Europe/Madrid:20260226T000000
+DTEND;TZID=Europe/Madrid:20260607T000000
+UID:a48647a52a1e15ffc60e634cd8feb90d5bb1e0cd322a49cfe27a0d17ac074cda
+CATEGORIES:exhibition
+DESCRIPTION:Un acercamiento al arte japonés y su representación del ferr
+ ocarril a través de los grabados conocidos con el nombre de ukiyo-e (Muse
+ o del Ferrocarril. Hasta 7 junio).\n\nhttps://www.museodelferrocarril.org/
+ comunicacion/noticia.asp?item=798
+LOCATION:Museo del Ferrocarril - de las Delicias\, 61\, Madrid\, 28045
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Adorado Barragán\, de Lake Verea
@@ -1728,19 +1599,6 @@ DESCRIPTION:Exposición que reúne fotografías realizadas por vecinos\, m
  fed8a96b06010VgnVCM100000dc0ca8c0RCRD
 LOCATION:Imprenta Municipal-Artes del Libro - de Concepción Jerónima\, 1
  5\, Madrid\, 28012
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Expominerales Madrid 2026
-DTSTART;TZID=Europe/Madrid:20260306T000000
-DTEND;TZID=Europe/Madrid:20260308T000000
-UID:828ffad837c72bf6a38d73008f59f5a2f673f1775bed48aef3e5a08694e0557f
-CATEGORIES:exhibition
-DESCRIPTION:La feria de materiales de la Tierra expone una amplia varie
- dad de minerales\, fósiles\, gemas y meteoritos de todo el mundo (Escue
- la Superior de Ingenieros de Minas.\n\nhttps://minasyenergia.upm.es/museo/
- expominerales
-LOCATION:Escuela Superior de Ingenieros de Minas - Rios Rosas\, 21\, Madri
- d\, Madrid\, 28003
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A&E\, Adolf/Adam & Eva/Eve\, Drawing Sessions 2020–2022 with Lil
