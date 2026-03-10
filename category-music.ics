@@ -2,15 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Alex Conde Y Los Indultados
-DTSTART;TZID=Europe/Madrid:20260309T203000
-UID:ec7bc08c849609a659061298c70c921ff6dbc123cba08b3deb391d0cd0a4bfea
-CATEGORIES:music
-DESCRIPTION:Concierto / Flamenco / Jazz\n\nhttps://salavillanos.es/evento/
- alex-conde-y-los-indultados-3/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:I Patagarri
 DTSTART;TZID=Europe/Madrid:20260311T203000
 UID:13b22b0f256a3fa2ad22b12e55317c4f8958f8e4d82d913e295c579c5a45bd99
@@ -538,6 +529,15 @@ UID:c7945021987c3b6079dc08d745f00bc205ac4030c4f5b19be15c192556cca0ae
 CATEGORIES:music
 DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://salariviera.com/event/el
  ena-rose/
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Marquitos (fka ODDLIQUOR)
+DTSTART;TZID=Europe/Madrid:20260408T210000
+UID:f23f41f43f2b7040aaf50b778cea6123f937cf8897bd197cabd9152535699f67
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://feverup.com/m/274902
 LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
  id
 END:VEVENT

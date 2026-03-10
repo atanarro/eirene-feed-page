@@ -2,6 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
+SUMMARY:Espina
+DTSTART;TZID=Europe/Madrid:20260310T190000
+UID:ea37396a3d26d5d1b7a41b217b761eea91732c471ad2c86c5560f452b2e2eea7
+CATEGORIES:cinema
+DESCRIPTION:Jonathan\, un joven con discapacidad causada por mala praxis m
+ édica\, emprende un viaje desde México a Panamá para enfrentar al médi
+ co responsable. Acompañado por inesperados aliados\, su búsqueda de veng
+ anza se transforma en un viaje de autodescubrimiento\, humor y redención.
+ \n\nRelease year: 2025\n\nOriginal language: ES\n\nhttps://www.cinetecamad
+ rid.com/programacion/espina
+LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Yrupẽ
 DTSTART;TZID=Europe/Madrid:20260310T193000
 UID:924e71f7bfc84cc7ba29c71cea33f747e37e2021e73cc3ec1730ff6bd02adf53
@@ -27,19 +40,6 @@ DESCRIPTION:Relato autobiográfico y feroz sobre la infancia durante la Gu
   y la educación ideológica.\n\nRelease year: 1971\n\nOriginal language: 
  FR\n\nAudio: VOSE\n\nhttps://www.cinetecamadrid.com/programacion/viva-la-m
  uerte
-LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Espina
-DTSTART;TZID=Europe/Madrid:20260310T200000
-UID:bd56c7be4a377b508b4bf8cc35d299f1ec1df16390e7ba7b23f7c19f49ee9288
-CATEGORIES:cinema
-DESCRIPTION:Jonathan\, un joven con discapacidad causada por mala praxis m
- édica\, emprende un viaje desde México a Panamá para enfrentar al médi
- co responsable. Acompañado por inesperados aliados\, su búsqueda de veng
- anza se transforma en un viaje de autodescubrimiento\, humor y redención.
- \n\nRelease year: 2025\n\nOriginal language: ES\n\nhttps://www.cinetecamad
- rid.com/programacion/espina
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT

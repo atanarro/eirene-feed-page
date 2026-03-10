@@ -2,13 +2,35 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:La gran cacería
-DTSTART;TZID=Europe/Madrid:20260309T193000
-UID:50183c64d7fc0aa6e42252984046f8fad1cb83ec7f7e1a69ddf9979526859b31
+SUMMARY:Constelaciones
+DTSTART;TZID=Europe/Madrid:20260206T200000
+DTEND;TZID=Europe/Madrid:20260329T200000
+UID:93c4e4d7ae6705d0c227557155cc519e701190d3161c898ffd770ed7229b6a00
 CATEGORIES:theater
-DESCRIPTION:Localidades agotadas\n\nhttps://teatrodelbarrio.com/la-gran-ca
- ceria/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+DESCRIPTION:Texto Nick Payne Versión y dirección Sergio Peris-Mencheta\n
+ \nhttps://dramatico.inaem.gob.es/evento/constelaciones/
+LOCATION:Teatro Valle-Inclán - Plaza de Lavapies\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La última noche con mi hermano
+DTSTART;TZID=Europe/Madrid:20260213T200000
+DTEND;TZID=Europe/Madrid:20260405T200000
+UID:df484f18448dee2449eea922969c3fad7ae78cccea7db5d8b2709d15dea021fd
+CATEGORIES:theater
+DESCRIPTION:Texto y dirección Alfredo Sanzol\n\nhttps://dramatico.inaem.g
+ ob.es/evento/la-ultima-noche-con-mi-hermano/
+LOCATION:Teatro Maria Guerrero - Calle de Tamayo y Baus\, 4\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Casi ninguna verdad
+DTSTART;TZID=Europe/Madrid:20260306T180000
+DTEND;TZID=Europe/Madrid:20260412T180000
+UID:7bb9229c5406de701333b18c1b45d43cb2daeda7ff87b2d98af381c1eb282154
+CATEGORIES:theater
+DESCRIPTION:Texto y dirección Cris Blanco Dramaturgia Cris Blanco\, Ósca
+ r Bueno Rodríguez y Anto Rodríguez\n\nhttps://dramatico.inaem.gob.es/eve
+ nto/casi-ninguna-verdad/
+LOCATION:Teatro Valle-Inclán - Plaza de Lavapies\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Homenaje a Marielle Franco y a las Defensoras y Defensores de los 
@@ -26,7 +48,7 @@ SUMMARY:Los árboles no votan
 DTSTART;TZID=Europe/Madrid:20260311T193000
 UID:f5fb3d65f842c40345efd25b4c4297850928ba1e5daa9e220a55b94fdce930ef
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 28 plazas!\n\nhttps://teatrodelbarrio.com/los
+DESCRIPTION:¡Ya solo quedan 26 plazas!\n\nhttps://teatrodelbarrio.com/los
  -arboles-no-votan/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
@@ -170,6 +192,16 @@ DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/isa-y-javi/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Utopía en llamas
+DTSTART;TZID=Europe/Madrid:20260320T180000
+DTEND;TZID=Europe/Madrid:20260426T180000
+UID:a2d55cc52793d807a2dc3a7a9b1845d2fab03f29c67826917a62789076be6586
+CATEGORIES:theater
+DESCRIPTION:Texto Alda Lozano Dirección Concha Delgado y Sandra Ferrús\n
+ \nhttps://dramatico.inaem.gob.es/evento/utopia-en-llamas/
+LOCATION:Teatro Maria Guerrero - Calle de Tamayo y Baus\, 4\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Niebla
 DTSTART;TZID=Europe/Madrid:20260320T193000
 DTEND;TZID=Europe/Madrid:20260412T193000
@@ -184,7 +216,7 @@ SUMMARY:Chistes contra Franco
 DTSTART;TZID=Europe/Madrid:20260320T193000
 UID:be441b5b2c70af21a0616beef7536e61d0868f4a1f4e098a30db95f273d8026a
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 20 plazas!\n\nhttps://teatrodelbarrio.com/chi
+DESCRIPTION:¡Ya solo quedan 10 plazas!\n\nhttps://teatrodelbarrio.com/chi
  stes-contra-franco/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
@@ -251,7 +283,7 @@ SUMMARY:Estreno del documental "Soy Tribulete 7"
 DTSTART;TZID=Europe/Madrid:20260324T190000
 UID:31b437b3eda05a1e740335efe80de82fc1a327bdac1badf77b22270e69a4f63c
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 7 plazas!\n\nhttps://teatrodelbarrio.com/estr
+DESCRIPTION:¡Ya solo quedan 1 plazas!\n\nhttps://teatrodelbarrio.com/estr
  eno-del-documental-soy-tribulete-7/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
