@@ -2,53 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Constelaciones
-DTSTART;TZID=Europe/Madrid:20260206T200000
-DTEND;TZID=Europe/Madrid:20260329T200000
-UID:93c4e4d7ae6705d0c227557155cc519e701190d3161c898ffd770ed7229b6a00
-CATEGORIES:theater
-DESCRIPTION:Texto Nick Payne Versión y dirección Sergio Peris-Mencheta\n
- \nhttps://dramatico.inaem.gob.es/evento/constelaciones/
-LOCATION:Teatro Valle-Inclán - Plaza de Lavapies\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La última noche con mi hermano
-DTSTART;TZID=Europe/Madrid:20260213T200000
-DTEND;TZID=Europe/Madrid:20260405T200000
-UID:df484f18448dee2449eea922969c3fad7ae78cccea7db5d8b2709d15dea021fd
-CATEGORIES:theater
-DESCRIPTION:Texto y dirección Alfredo Sanzol\n\nhttps://dramatico.inaem.g
- ob.es/evento/la-ultima-noche-con-mi-hermano/
-LOCATION:Teatro Maria Guerrero - Calle de Tamayo y Baus\, 4\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Casi ninguna verdad
-DTSTART;TZID=Europe/Madrid:20260306T180000
-DTEND;TZID=Europe/Madrid:20260412T180000
-UID:7bb9229c5406de701333b18c1b45d43cb2daeda7ff87b2d98af381c1eb282154
-CATEGORIES:theater
-DESCRIPTION:Texto y dirección Cris Blanco Dramaturgia Cris Blanco\, Ósca
- r Bueno Rodríguez y Anto Rodríguez\n\nhttps://dramatico.inaem.gob.es/eve
- nto/casi-ninguna-verdad/
-LOCATION:Teatro Valle-Inclán - Plaza de Lavapies\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Homenaje a Marielle Franco y a las Defensoras y Defensores de los 
- Derechos Humanos
-DTSTART;TZID=Europe/Madrid:20260310T190000
-UID:98dc66bbd52e2a2ae1979ea16a509e00850ea4b2e11d01ba81c8181c024dbe6f
-CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 1 plazas!\n\nhttps://teatrodelbarrio.com/home
- naje-a-marielle-franco-y-a-las-defensoras-y-defensores-de-los-derechos-hum
- anos/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Los árboles no votan
 DTSTART;TZID=Europe/Madrid:20260311T193000
 UID:f5fb3d65f842c40345efd25b4c4297850928ba1e5daa9e220a55b94fdce930ef
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 26 plazas!\n\nhttps://teatrodelbarrio.com/los
+DESCRIPTION:¡Ya solo quedan 23 plazas!\n\nhttps://teatrodelbarrio.com/los
  -arboles-no-votan/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
@@ -154,8 +112,9 @@ SUMMARY:A 50 AÑOS DEL GOLPE DE ESTADO EN ARGENTINA\, MÁS MEMORIA\, MÁS
 DTSTART;TZID=Europe/Madrid:20260317T190000
 UID:24be6d9b3a2c5ddda787f393b9206681167ffbde50d34e31a6509b28fefcd192
 CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/a-50-anos-del-golpe-
- de-estado-en-argentina-mas-memoria-mas-verdad-mas-justicia/
+DESCRIPTION:¡Ya solo quedan 24 plazas!\n\nhttps://teatrodelbarrio.com/a-5
+ 0-anos-del-golpe-de-estado-en-argentina-mas-memoria-mas-verdad-mas-justici
+ a/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -192,23 +151,13 @@ DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/isa-y-javi/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Utopía en llamas
-DTSTART;TZID=Europe/Madrid:20260320T180000
-DTEND;TZID=Europe/Madrid:20260426T180000
-UID:a2d55cc52793d807a2dc3a7a9b1845d2fab03f29c67826917a62789076be6586
-CATEGORIES:theater
-DESCRIPTION:Texto Alda Lozano Dirección Concha Delgado y Sandra Ferrús\n
- \nhttps://dramatico.inaem.gob.es/evento/utopia-en-llamas/
-LOCATION:Teatro Maria Guerrero - Calle de Tamayo y Baus\, 4\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Niebla
 DTSTART;TZID=Europe/Madrid:20260320T193000
 DTEND;TZID=Europe/Madrid:20260412T193000
 UID:f5c1c7ebb968eb8a2029978f386f4763212118ce95d6b31e1e8cb896ee68f191
 CATEGORIES:theater
-DESCRIPTION:Entradas disponibles desde 15.75€\n\nhttps://tienda.madrid-d
- estino.com/es/nave-10/niebla/
+DESCRIPTION:Entradas disponibles desde 15.75€ | Tags: JOBO\n\nhttps://ti
+ enda.madrid-destino.com/es/nave-10/niebla/
 LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -216,8 +165,8 @@ SUMMARY:Chistes contra Franco
 DTSTART;TZID=Europe/Madrid:20260320T193000
 UID:be441b5b2c70af21a0616beef7536e61d0868f4a1f4e098a30db95f273d8026a
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 10 plazas!\n\nhttps://teatrodelbarrio.com/chi
- stes-contra-franco/
+DESCRIPTION:¡Ya solo quedan 1 plazas!\n\nhttps://teatrodelbarrio.com/chis
+ tes-contra-franco/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT

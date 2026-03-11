@@ -2,32 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Drupal ECA
-DTSTART;TZID=Europe/Madrid:20260311T120000
-UID:b5569b75fe3ff29a8f1e22a651fe99ae7244f74c07a0e89d1592c75aa49f2455
-CATEGORIES:other
-DESCRIPTION:La propuesta es hacer una introducción básica a ECA para ent
- ender sus fundamentos y cómo este módulo nos permite definir comportamie
- ntos complejos en Drupal sin necesidad de escribir código\, basándonos e
- n eventos\, condiciones y acciones. A partir de ahí\, exploraremos cómo 
- integrar servicios de IA para enriquecer estos flujos\, permitiendo que el
-  sitio tome decisiones más avanzadas y contextuales. Los ejemplos que se 
- explicarán son: Ejecutar acciones automáticas en Drupal a partir de even
- tos del sistema. Evaluar condiciones dinámicas utilizando datos generados
-  o procesados por IA. Integrar servicios de IA para tareas como el resumen
-  o la traducción de texto. La idea es mostrar cómo Drupal puede converti
- rse en una plataforma potente para construir flujos de programación sin c
- ódigo y además\, combinado con la IA. - Sobre el ponente: Sergio Huerta 
- Desde siempre me ha gustado experimentar con la tecnología\, empezando po
- r la edición de vídeo\, la fotografía y la animación 2D\, hasta que de
- scubrí la programación. Tras recorrer distintos caminos\, encontré en D
- rupal el espacio donde desarrollar mi carrera profesional. Ahora mi objeti
- vo es contribuir a la comunidad y compartir lo aprendido con otras persona
- s. LinkedIn https://www.linkedin.com/in/sergio-huerta-gomez/\n\nhttps://ww
- w.mataderomadrid.org/programacion/drupal-eca
-LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Semana de Irlanda con Eimear McBride
 DTSTART;TZID=Europe/Madrid:20260311T193000
 UID:14e5c2b5b1c7031839f62d72aa83b36615a152d2fde9bbc6b5068f8112befac9
@@ -388,6 +362,41 @@ DESCRIPTION:El Manzanares fue durante décadas un gran lavadero al aire li
 LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Repair Café Madrid. Encuentro vecinal colaborativo
+DTSTART;TZID=Europe/Madrid:20260314T180000
+UID:664bc2e565e9fbe3a9e9bd0faadc065b57c5f9610a8d175682fbb6900dfb3818
+CATEGORIES:family
+DESCRIPTION:Próxima sesión sábado 14 de marzo de 2026. Los conocimiento
+ s sobre reparación están desapareciendo muy rápido\, lo que amenaza el 
+ futuro de la economía circular en la que las materias primas se pueden vo
+ lver a utilizar una y otra vez. Repair Café Madrid es un encuentro vecina
+ l y colaborativo para reparar pequeños objetos cotidianos y aprender a mi
+ rarlos de una manera más sostenible. En estos encuentros se transfieren v
+ aliosas habilidades prácticas\, con las que utilizar los artefactos por m
+ ás tiempo\, reducir los residuos\, la necesidad de materias primas y de e
+ nergía\, así como las emisiones de CO2 para fabricar nuevos productos. A
+ demás de reparar cosas y transmitir conocimientos\, se fomenta el encuent
+ ro entre las personas del lugar\, y se desarrollan actividades creativas c
+ omo “Electroganchillo”\, donde se puede aprender a tejer con cables o 
+ cualquier otro tipo de material reciclado para elaborar otros objetos\, co
+ mo anillos\, pendientes o collares. Repair Café Madrid forma parte de una
+  red mundial que facilita la información necesaria para crear una nueva c
+ omunidad en cualquier lugar\, así como guías de reparación y otras herr
+ amientas prácticas. Horarios de reunión : Sábados de 18.00-20.00 h Dón
+ de: Terrario\, Medialab Matadero. Cómo participar No es necesaria inscrip
+ ción. Solo debes acudir a la reunión del grupo con algo que arreglar. Pu
+ edes escribir antes al grupo a través de este correo electrónico para in
+ formar de lo que quieres arreglar por si se necesitan herramientas especí
+ ficas. Contacto E-mail: reparatonmlp@gmail.com RRSS: @MadridRepair www.fac
+ ebook.com/repaircafemadrid Más información Web: https://madridrepair.blo
+ gspot.com /www.repaircafe.org/es Si eres periodista o documentas algún tr
+ abajo\, aquí tienes nuestro Dossier . Estas son nuestras estadísticas de
+ sde el año 2020. Para conocer la actividad del grupo de cursos anteriores
+  visita esta página\n\nhttps://www.mataderomadrid.org/programacion/repair
+ -cafe-madrid-encuentro-vecinal-colaborativo
+LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:OtraDanza
 DTSTART;TZID=Europe/Madrid:20260314T200000
 UID:16cdf89639a8cef9d456b16eaee477e2232b813217fa5b89a1b1e1bbb36fa4eb
@@ -465,6 +474,64 @@ DESCRIPTION:El mundo de Gloria Fuertes es un mundo particular\, que nos ha
  . 12 pingüinos. Público: de 9 a 10 años. Solo pagan los niños particip
  antes.\n\nhttps://www.mataderomadrid.org/programacion/como-se-dibuja-una-m
  aravilla
+LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drupal ECA
+DTSTART;TZID=Europe/Madrid:20260318T120000
+UID:9d5f839e5170267f00570936c6bee9112d359626ee17f8cceaa5d298437388aa
+CATEGORIES:other
+DESCRIPTION:La propuesta es hacer una introducción básica a ECA para ent
+ ender sus fundamentos y cómo este módulo nos permite definir comportamie
+ ntos complejos en Drupal sin necesidad de escribir código\, basándonos e
+ n eventos\, condiciones y acciones. A partir de ahí\, exploraremos cómo 
+ integrar servicios de IA para enriquecer estos flujos\, permitiendo que el
+  sitio tome decisiones más avanzadas y contextuales. Los ejemplos que se 
+ explicarán son: Ejecutar acciones automáticas en Drupal a partir de even
+ tos del sistema. Evaluar condiciones dinámicas utilizando datos generados
+  o procesados por IA. Integrar servicios de IA para tareas como el resumen
+  o la traducción de texto. La idea es mostrar cómo Drupal puede converti
+ rse en una plataforma potente para construir flujos de programación sin c
+ ódigo y además\, combinado con la IA. - Sobre el ponente: Sergio Huerta 
+ Desde siempre me ha gustado experimentar con la tecnología\, empezando po
+ r la edición de vídeo\, la fotografía y la animación 2D\, hasta que de
+ scubrí la programación. Tras recorrer distintos caminos\, encontré en D
+ rupal el espacio donde desarrollar mi carrera profesional. Ahora mi objeti
+ vo es contribuir a la comunidad y compartir lo aprendido con otras persona
+ s. LinkedIn https://www.linkedin.com/in/sergio-huerta-gomez/\n\nhttps://ww
+ w.mataderomadrid.org/programacion/drupal-eca
+LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Tullida Gallery: Economías que no cojean
+DTSTART;TZID=Europe/Madrid:20260318T180000
+UID:f6768ac6983b7808013634c6063b8cdcb117548162d9fc8bc6c9baea405225fa
+CATEGORIES:accessibility
+DESCRIPTION:En este encuentro se abrirá un espacio de diálogo entre arti
+ stas\, mediación cultural y agentes financiadores para reflexionar sobre 
+ las condiciones materiales que sostienen —o tensionan— la práctica ar
+ tística y los proyectos culturales. La sesión se articulará a partir de
+  dinámicas participativas que irán planteando cuestiones sobre sostenibi
+ lidad económica\, acceso a la vivienda\, precariedad estructural\, privil
+ egio y corresponsabilidad. Contaremos con la presencia de diferentes profe
+ sionales del ámbito cultural que compartirán experiencias situadas y pon
+ drán en común las distintas posiciones que se ocupan dentro del ecosiste
+ ma cultural\, generando un punto de encuentro entre mediación y financiac
+ ión. En el transcurso de la sesión se compartirán también perspectivas
+  institucionales en torno a posibles vías de financiación alternativa y 
+ modelos de apoyo más sensibles a colectivos con mayores tasas de precarie
+ dad. Del mismo modo\, se pondrá en valor la experiencia sostenida de espa
+ cios independientes y las estrategias que han permitido su continuidad en 
+ el tiempo. Más que ofrecer soluciones cerradas\, se pretende abrir un mar
+ co de imaginación crítica sobre cómo sostener prácticas y espacios sin
+  que sus economías cojeen. Actividad recomendada para todos los públicos
+ . Participarán: Susana Gómez San Segundo\, directora de estrategia de Fu
+ ndación Banco Santander Cristina Sáez\, responsable del programa artíst
+ ico de Fundación Carasso Nuria Arribas\, responsable del programa artíst
+ ico de Fundación A la Par Carmela Pérez-Anchuela\, directora de innovaci
+ ón de Fundación A la Par Fundación Kyomu José Luis Ramos Romo\,  dire
+ ctor artístico de Matadero Madrid\n\nhttps://www.mataderomadrid.org/progr
+ amacion/la-tullida-gallery-economias-que-no-cojean
 LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
