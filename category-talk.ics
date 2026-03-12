@@ -2,23 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Presentación "Las Galletas"
-DTSTART;TZID=Europe/Madrid:20260311T190000
-UID:8de1f68d21c1f30cefd6bad66c6e57bc145705099138ded2f1cb47fd97f96ed0
-CATEGORIES:talk
-DESCRIPTION:11 Marzo 2026 Queridas anónimas: El próximo 11 de marzo pres
- entamos la novela neocostumbrista de Óscar Liam \, Las Galletas ( Plasson
-  & Bartleboom \, 2026)\; una crónica de la oralidad y la memoria rural c
- anaria que se construye a través de las conversaciones de sobremesa entre
-  una abuela y su nieto. Al autor le acompañará nuestra queridísima Elen
- a Correa \, autora de Niñas sucias ( Pepitas \, 2025). "A la muerte no\, 
- pero al diablo sí le teníamos miedo". ¡Os esperamos! Cuándo: miércole
- s 11 de marzo a las 19 h. Dónde: La Anónima Librería (C/Embajadores\, 1
- 66 - Metro Delicias / Legazpi) Entrada libre hasta completar aforo.\n\nhtt
- ps://laanonimalibreria.com/evento/152/presentacion-las-galletas/
-LOCATION:La Anonima Libreria - C/ Embajadores\, 166 - Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Presentación: "Samuráis de la escalada"\, de Hippie
 DTSTART;TZID=Europe/Madrid:20260318T190000
 UID:8ccfc187bf36e7da80ba3fac3f829acba74ab8a9fb5821fae57e49c41da7e645
@@ -159,5 +142,22 @@ DESCRIPTION:7 Abril 2026 Queridas anónimas: Nos hace muchísima ilusión
  jadores\, 166) Reserva de plaza: web\, email o mostrador.\n\nhttps://laano
  nimalibreria.com/evento/155/club-de-lectura-marcelino-de-bibiana-collado/
 LOCATION:La Anonima Libreria - C/ Embajadores\, 166 - Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WEBINARIO: Artrópodos en la medicina
+DTSTART;TZID=Europe/Madrid:20260410T120000
+DTEND;TZID=Europe/Madrid:20260410T130000
+UID:f29a99d259efb67e50709285028523c001f1df0ce6717bbbaa524eae330f6e1b
+CATEGORIES:talk
+DESCRIPTION:WEBINARIO dirigido a público adulto.\nImpartido en colaboraci
+ ón con el Grupo de seguimiento de biodiversidad y el Museo de entomologí
+ a de la Universidad Complutense de Madrid. En el seminario digital descubr
+ irás cómo los artrópodos desempeñan un papel crucial en la  medicina\
+ , actuando como trasmisores de agentes infecciosos o como causas directas 
+ de enfermedades.\nEMISIÓN EN DIRECTO: Para participar\, acceder al Canal 
+ de Youtube del CIEA Casa de Campo en el día y hora señalados.\n\nhttps:/
+ /diario.madrid.es/cieacasadecampo/evento/webinario-artropodos-en-la-medici
+ na/
+LOCATION:CIEA Casa de Campo - Paseo Embarcadero\, 1\, Madrid
 END:VEVENT
 END:VCALENDAR
