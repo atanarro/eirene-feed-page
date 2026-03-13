@@ -2,46 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Papeles
-DTSTART;TZID=Europe/Madrid:20260312T190000
-UID:3043bb114d6a4cd640dff54e7a42cede0fae1e68a9d280486446cb40cd7c2609
-CATEGORIES:cinema
-DESCRIPTION:Atrapada en medio del escándalo mundial de los Papeles de Pan
- amá\, Ana Méndez debe luchar contra el sistema\, los medios de comunicac
- ión mundiales y su propia brújula ética para intentar restaurar su repu
- tación y salvar a su familia.\n\nRelease year: 2025\n\nOriginal language:
-  ES\n\nhttps://www.cinetecamadrid.com/programacion/papeles
-LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vincent Finch\, temporadas 1 y 2
-DTSTART;TZID=Europe/Madrid:20260312T193000
-UID:f5799bef5bf59b1de70f4c294a392823d260acc2c3eebf0d7b378e23d1b8f9ac
-CATEGORIES:cinema
-DESCRIPTION:Vincent Finch: Diario de un ego (2013 / 6 episodios / total: 9
- 3') Narra la vida de Vincent Finch (David Suárez)\, un egocéntrico y meg
- alómano director de cine.\n\nhttps://www.cinetecamadrid.com/programacion/
- vincent-finch-temporadas-1-y-2
-LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Demonios en el jardín
-DTSTART;TZID=Europe/Madrid:20260312T200000
-UID:b2046bf19b8237a17da003f87c438cb8357ca5ca4fe6e8516f6cfd7b8729abbb
-CATEGORIES:cinema
-DESCRIPTION:Ambientada en la España de la posguerra\, Demonios en el jard
- ín retrata la vida de una familia marcada por la represión\, el miedo y 
- las tensiones morales del franquismo. A través de la mirada de un niño\,
-  la película reconstruye un universo doméstico atravesado por secretos\,
-  violencia latente y silencios impuestos\, donde la supervivencia cotidian
- a convive con la hipocresía y la delación. Manuel Gutiérrez Aragón com
- pone un relato íntimo y político sobre la infancia\, la memoria y los ef
- ectos del autoritarismo en la vida privada.\n\nRelease year: 1982\n\nOrigi
- nal language: ES\n\nhttps://www.cinetecamadrid.com/programacion/demonios-e
- n-el-jardin
-LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Los cuidados y el recuerdo: Selección de cortometrajes de escuela
  s de cine en España
 DTSTART;TZID=Europe/Madrid:20260313T193000
@@ -301,8 +261,9 @@ DESCRIPTION:Marie\, pastora marfileña y ex periodista\, reside en Túnez
  n porvenir\, y a Jolie\, estudiante decidida que sostiene los sueños de l
  os suyos. La llegada de una niña huérfana pone a prueba su solidaridad e
  n un entorno social crispado\, dejando al descubierto su vulnerabilidad y 
- su fuerza.\n\nAudio: VOSE\n\nhttps://www.cinetecamadrid.com/programacion/p
- rometido-el-cielo
+ su fuerza.\n\nOriginal title: Promis le ciel\n\nRelease year: 2026\n\nOrig
+ inal language: FR\n\nAudio: VOSE\n\nhttps://www.cinetecamadrid.com/program
+ acion/prometido-el-cielo
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -540,7 +501,7 @@ UID:60d40cfe79d7b7ee2a3c31cd3e0d85883944f0a38609f9775adacfb4f6082546
 CATEGORIES:cinema
 DESCRIPTION:Serie de animación de 21 episodios que sigue a Samuel\, un ni
  ño de 10 años\, y a sus amigos\, mezclando introspección\, humor y canc
- iones nostálgicas.\n\nRelease year: 2011\n\nOriginal language: ES\n\nAudi
+ iones nostálgicas.\n\nRelease year: 2022\n\nOriginal language: EN\n\nAudi
  o: VOSE\n\nhttps://www.cinetecamadrid.com/programacion/samuel
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
@@ -577,7 +538,7 @@ DESCRIPTION:Según el mito aún vigente en los pueblos carboneros de la Pa
  iebla y el humo de la usina eléctrica cubren el pueblo\, las voces de las
   mujeres de Río Turbio se abren paso con fuerza entre el blanco del hielo
   y los zumbidos de las máquinas perforadoras\, hasta hacer saltar por los
-  aires la estructura del silencio.\n\nRelease year: 1954\n\nOriginal langu
+  aires la estructura del silencio.\n\nRelease year: 2020\n\nOriginal langu
  age: ES\n\nhttps://www.cinetecamadrid.com/programacion/rio-turbio
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
@@ -818,6 +779,24 @@ DESCRIPTION:Japón\, siglo XVI. Genjuro es un alfarero confiado en ganar d
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:El maquinista de La General
+DTSTART;TZID=Europe/Madrid:20260405T120000
+UID:2a6228ef08f3c22f9b0ad78b56870fda3115f849772782711eca811ba7912577
+CATEGORIES:cinema
+DESCRIPTION:Johnny Gray es maquinista en un estado del Sur y tiene dos gra
+ ndes amores: una chica y una locomotora: La General. En 1861\, al estallar
+  la Guerra de Secesión\, Johnny intenta alistarse\, pero el ejército con
+ sidera que será más útil trabajando en la retaguardia. Sin embargo\, An
+ abelle cree que es un cobarde y lo rechaza. El maquinista solo podrá demo
+ strar su auténtico valor cuando un comando nordista infiltrado en las lí
+ neas confederadas le robe "La General" y rapte a Anabelle. Johnny no dudar
+ á un segundo en subirse a otra locomotora y perseguir a los yanquis para 
+ recuperar a sus dos amadas.\n\nOriginal title: The General\n\nRelease year
+ : 1926\n\nOriginal language: EN\n\nhttps://www.cinetecamadrid.com/programa
+ cion/el-maquinista-de-la-general-1
+LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:La dama de Shanghái
 DTSTART;TZID=Europe/Madrid:20260405T200000
 UID:e3e37e9edb78674e94c6bacd65e94495ee87a06a59a9c193a941d94cf75798b2
@@ -830,9 +809,106 @@ DESCRIPTION:Michael O'Hara\, un marinero irlandés\, entra a trabajar en u
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Las amistades peligrosas
+DTSTART;TZID=Europe/Madrid:20260408T193000
+UID:587056d208c10ba6711c7c488e1a955ff40062b415d65fc59f15f17a85e5ca65
+CATEGORIES:cinema
+DESCRIPTION:Francia\, siglo XVIII. La perversa y fascinante marquesa de Me
+ rteuil planea vengarse de su último amante con la ayuda de su viejo amigo
+  el Vizconde de Valmont\, un seductor tan amoral y depravado como ella. Un
+ a virtuosa mujer casada\, Madame de Tourvel\, de la que Valmont se enamora
+ \, se verá involucrada en las insidiosas maquinaciones de la marquesa.\n\
+ nOriginal title: Dangerous Liaisons\n\nRelease year: 1988\n\nOriginal lang
+ uage: EN\n\nAudio: VOSE\n\nhttps://www.cinetecamadrid.com/programacion/las
+ -amistades-peligrosas
+LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Crueles intenciones
+DTSTART;TZID=Europe/Madrid:20260409T193000
+UID:e5f98aff2810c96c74d50e87badb86e30516bc62ca1d0708a29f3969449c034f
+CATEGORIES:cinema
+DESCRIPTION:Kathryn y su hermanastro Sebastian\, todavía estudiantes de b
+ achillerato en un elitista instituto de Nueva York\, deciden hacer una maq
+ uiavélica apuesta. Se trata de que Sebastian\, un consumado Don Juan\, se
+  acueste con Annette\, una joven que quiere permanecer virgen hasta su mat
+ rimonio. Si Sebastian pierde\, Kathryn se quedará con su Jaguar\, pero si
+  gana... la tendrá a ella. Nueva adaptación de Las amistades peligrosas 
+ ambientada en un contexto juvenil moderno.\n\nOriginal title: Cruel Intent
+ ions\n\nRelease year: 1999\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttp
+ s://www.cinetecamadrid.com/programacion/crueles-intenciones
+LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tratado de invisibilidad
+DTSTART;TZID=Europe/Madrid:20260410T193000
+UID:d6dc21694d34c2daf1d8ac6b452e3d6cf83f44d326103aacb367d0b5a9786e5d
+CATEGORIES:cinema
+DESCRIPTION:Una reflexión en torno a la invisibilidad a través de las vo
+ ces y experiencias de mujeres que limpian los espacios públicos en la Ciu
+ dad de México\, con elementos documentales\, de ficción y foto fija. Tra
+ tado de invisibilidad narra y cuestiona la precariedad laboral actual en u
+ n mundo donde la subcontratación manda.\n\nRelease year: 2024\n\nOriginal
+  language: ES\n\nhttps://www.cinetecamadrid.com/programacion/tratado-de-in
+ visibilidad
+LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Prophecy: The Madame Blavatsky Legend
 DTSTART;TZID=Europe/Madrid:20260410T203000
 UID:41172d3fe87b02201e30e86b8df216560a67998e14c3bb6d41c686633dbd31ec
+CATEGORIES:cinema
+DESCRIPTION:Helena P. Blavatsky afronta un juicio interpuesto por la Socie
+ dad de Estudios Psíquicos londinense en el que se enfrenta al investigado
+ r Robert Hodgson\, experto en asuntos esotéricos. A lo largo del juico se
+  desvela la vida de esta misteriosa mujer como personaje histórico envuel
+ to en leyenda y controversia\, así como el origen y las actividades de la
+  Theosophical Society\, con sede en la India\, creada por ella en 1875. Un
+  viaje alrededor de uno de los personajes más intrigantes del mundo esot
+ érico del s.XIX.\n\nAudio: VOSE\n\nhttps://www.cinetecamadrid.com/program
+ acion/prophecy-madame-blavatsky-legend
+LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La chica zurda
+DTSTART;TZID=Europe/Madrid:20260411T183000
+UID:5c0e83330798f834b8da238cc21606efc6e78879028bace0278108ada284b8e7
+CATEGORIES:cinema
+DESCRIPTION:Una madre soltera y sus dos hijas regresan a Taipei tras vario
+ s años viviendo en el campo para abrir un puesto en un bullicioso mercado
+  nocturno. Cada una a su manera\, tendrán que adaptarse a este nuevo ento
+ rno para llegar a fin de mes y conseguir mantener la unidad familiar. Tres
+  generaciones de secretos familiares empiezan a desvelarse después de que
+  su abuelo le diga a la hija menor\, que es zurda\, que nunca use su "mano
+  del diablo". Película coescrita y coproducida por Sean Baker ( The Flori
+ da Project\, Anora )\n\nOriginal title: 左撇子女孩\n\nRelease year: 2
+ 025\n\nOriginal language: ZH\n\nAudio: VOSE\n\nhttps://www.cinetecamadrid.
+ com/programacion/la-chica-zurda
+LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Your Father Was Born 100 Years Old\, and So Was the Nakba + Chil
+ dren of Shatilla
+DTSTART;TZID=Europe/Madrid:20260411T190000
+UID:2c27d4f702581b9d999141309059130ba619e504f04e5ada42f576d58e8524a6
+CATEGORIES:cinema
+DESCRIPTION:Exilio\, asedio y ocupación. Desde la Nakba de 1948 —cuando
+  la creación del Estado de Israel provocó la expulsión y huida de cient
+ os de miles de palestinos— hasta la vida en los campos de refugiados en 
+ el Líbano\, generaciones enteras han crecido entre desplazamientos\, viol
+ encia y relatos fragmentados. En este contexto histórico y geopolítico\,
+  el cine de Razan Alsalah y Mai Masri propone otra forma de mirar: mediant
+ e recuerdos\, sueños infantiles y gestos cotidianos de resistencia\, amba
+ s películas exploran cómo la memoria\, la imaginación y la narración c
+ olectiva pueden mantener vivo un lugar arrebatado por el control colonial.
+ \n\nAudio: VOSE\n\nhttps://www.cinetecamadrid.com/programacion/your-father
+ -was-born-100-years-old-and-so-was-nakba-children-shatilla
+LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prophecy: The Madame Blavatsky Legend
+DTSTART;TZID=Europe/Madrid:20260411T203000
+UID:898222eab35bbf31f86a3bc5c714bf5078f14a1887e13e44fe09bdb3514ef149
 CATEGORIES:cinema
 DESCRIPTION:Helena P. Blavatsky afronta un juicio interpuesto por la Socie
  dad de Estudios Psíquicos londinense en el que se enfrenta al investigado

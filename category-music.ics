@@ -2,25 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Atzur
-DTSTART;TZID=Europe/Madrid:20260312T210000
-UID:49452b6139cf9208d396e94a77a0d566d3192ac53e3411ca0e7e5e021a176f83
-CATEGORIES:music
-DESCRIPTION:Concierto / Electronic / Pop\n\nhttps://salavillanos.es/evento
- /atzur/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hey Kid
-DTSTART;TZID=Europe/Madrid:20260312T210000
-UID:4e483a76e77907d17a0b0b12bfaede303125ad461fcd9b782f277cf3e6d40164
-CATEGORIES:music
-DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://tickets.intromusica.com/
- entradas/hey-kid-madrid-la-riviera
-LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
- id
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Sitasound- Justicieros – Meli Perea
 DTSTART;TZID=Europe/Madrid:20260313T193000
 UID:7b3e1634775cddb3bf8fb7309c172ac7eb6094b291f8c521a69ce69b2a663dcc
@@ -579,6 +560,37 @@ DESCRIPTION:Precio de las entradas: 12€/15€ Entradas a la venta en mov
  ingtickets Bio/enlaces bandas: MUCK AND THE MIRES (EEUU) Muck and the Mire
  s_facebook + Muck and the Mires_youtube + Muck\n\nhttps://gruta77.com/even
  ts/muck-and-the-mires-eeuu/var/ri-0.l-L2
+LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LINZE\, presentacion de disco + SELVAJES
+DTSTART;TZID=Europe/Madrid:20260411T203000
+UID:649371286e6cb4825c8c8362aec5937e166a6fe28ec87e21148b256b111f71a0
+CATEGORIES:music
+DESCRIPTION:Concierto / Rock\n\nhttps://salavillanos.es/evento/linze-prese
+ ntacion-de-disco-selvajes/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rufus T. Firefly
+DTSTART;TZID=Europe/Madrid:20260411T210000
+UID:3c9e0372454fdb0fa3f9ec190d687c17721fe5d4a2cacbfbb62b11d9129f5306
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://www.entradas.com/event/r
+ ufus-t-firefly-gira-2025-sala-la-riviera-20644716/?Affiliate=RIV
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Isla Kume + Hafa Afrosweet En Fiesta Presentación Repica Balboa
+DTSTART;TZID=Europe/Madrid:20260411T223000
+UID:4dbd3ad228b841e18962ea885be37b300e1908ca88b3c3d49d013a066573c6eb
+CATEGORIES:music
+DESCRIPTION:Precio de las entradas: 17€/21€ Entradas a la venta en ent
+ erticket Bio/enlaces bandas: Isla Kume_instagram Hafa Afrosweet_facebook +
+  Hafa Afrosweet_youtube +Hafa Afrosweet_instagram Repica Balboa_instagram 
+ Más información: El Festival\n\nhttps://gruta77.com/events/isla-kume-haf
+ a-afrosweet-en-fiesta-presentacion-repica-balboa/var/ri-0.l-L2
 LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
 END:VEVENT
 END:VCALENDAR
