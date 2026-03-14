@@ -2,47 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Sitasound- Justicieros – Meli Perea
-DTSTART;TZID=Europe/Madrid:20260313T193000
-UID:7b3e1634775cddb3bf8fb7309c172ac7eb6094b291f8c521a69ce69b2a663dcc
-CATEGORIES:music
-DESCRIPTION:Concierto / Latin / Urban\n\nhttps://salavillanos.es/evento/me
- li-perea/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Andrés Suárez
-DTSTART;TZID=Europe/Madrid:20260313T210000
-UID:78e35272d293ccd4babacefbff5599f864b136a278a59e5796615e05ef5f2e73
-CATEGORIES:music
-DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://www.enterticket.es/event
- os/andres-suarez-madrid-130326-678513
-LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
- id
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fiesta Carabanchel Distrito Cultural: Reina Roja + La Chacha De Na
- die
-DTSTART;TZID=Europe/Madrid:20260313T213000
-UID:8006afb7f871486c26ede27d477219ef9b258b274df8f34ee3c1442f1b59d627
-CATEGORIES:music
-DESCRIPTION:Precio de las entradas: 10€/14€ Entradas a la venta en mov
- ingtickets Reina Roja_facebook + Reina Roja_instagram La Chacha de Nadie_f
- acebook + La Chacha de Nadie_ X + La Chacha de\n\nhttps://gruta77.com/even
- ts/fiesta-carabanchel-distrito-cultural-reina-roja-la-chacha-de-nadie/var/
- ri-0.l-L2
-LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hercules & Love Affair DJ SET + ISAAC ARGA / ESTRELLA OR
-DTSTART;TZID=Europe/Madrid:20260313T235900
-UID:b9a0f675f7ffd5c2ff82051889f38010855b3ca6c555a78fcb56d51064b1b479
-CATEGORIES:music
-DESCRIPTION:Club\n\nhttps://salavillanos.es/evento/hercules-love-affair-dj
- -set/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Andrés Suárez
 DTSTART;TZID=Europe/Madrid:20260314T210000
 UID:ccfe509929edf501e0ff53b7f846b02335149d5f7cac635659ca6a0a09980acd
@@ -592,5 +551,24 @@ DESCRIPTION:Precio de las entradas: 17€/21€ Entradas a la venta en ent
  Más información: El Festival\n\nhttps://gruta77.com/events/isla-kume-haf
  a-afrosweet-en-fiesta-presentacion-repica-balboa/var/ri-0.l-L2
 LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Matt Maltese
+DTSTART;TZID=Europe/Madrid:20260412T210000
+UID:cbe3d021ee618b8dc72ac64ba4352e2802cbc2eec6071bf1834a7f7e4733a228
+CATEGORIES:music
+DESCRIPTION:Concierto / Pop\n\nhttps://salavillanos.es/evento/matt-maltese
+ /
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mafalda Cardenal
+DTSTART;TZID=Europe/Madrid:20260412T210000
+UID:fae848a53801ba44e3daa228064a7068cad7186762198057c5bd0f5bd4fcf840
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://tickets.intromusica.com/
+ mafaldacardenal/es/comprarEvento?idEvento=15018
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
 END:VEVENT
 END:VCALENDAR

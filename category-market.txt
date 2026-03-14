@@ -1,5 +1,5 @@
 Eirene feed debug
-Total events: 8
+Total events: 9
 
 [1] Mercado Productores Planetario
   id: c09a315a3e44c268603bf556fb4ec98bebdc851fcf10d297fbc2ddbb665aee60
@@ -88,3 +88,14 @@ Total events: 8
   coordinates: 40.39883739999999, -3.6910858
   url: https://www.eventbrite.es/e/entradas-mercado-de-motores-madrid-11-y-12-de-abril-entrada-gratis-1984720303856
   description: El mercadillo más famoso de Madrid: moda vintage, diseño, segunda mano, artesanía, música en vivo y foodtrucks en el Museo del Ferrocarril
+
+[9] Mercado Productores Alcobendas
+  id: 18532c5e9a39ef1d68dba0504389c3079221f4287b1b8d6d7a3304b363e5e301
+  start: 2026-04-12T10:00:00+02:00
+  end: 2026-04-12T16:00:00+02:00
+  category: market
+  source: mercado_productores
+  location: Mercado Productores Alcobendas - Paseo de Valdelasfuentes esquina Calle Jose Hierro, Alcobendas
+  coordinates: 40.554188, -3.648976
+  url: https://mercadoproductores.es/mp-alcobendas/
+  description: Mercado de productores locales y artesanos en Alcobendas con alimentos de proximidad y propuestas gastronomicas.

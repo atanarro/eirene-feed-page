@@ -2,24 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:"Torcidxs"\, de Las Nenas Theatre
-DTSTART;TZID=Europe/Madrid:20260313T193000
-UID:3469e89194b5c7d1751b6533a053c5c92eb4c86db47c00b2b87f5e2d89f1b6d8
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/torcidxs-de-las-nena
- s-theatre/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Noche de fiesta - 50 Y SE BAILA. MARISA PONS
-DTSTART;TZID=Europe/Madrid:20260313T220000
-UID:ecbd93814f6130b22281849aee90028efd242427de4743dda47becfaaa020a1b
-CATEGORIES:theater
-DESCRIPTION:Programación en Teatro del Barrio\n\nhttps://teatrodelbarrio.
- com/50-y-se-baila-marisa-pons/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:GLORIA
 DTSTART;TZID=Europe/Madrid:20260314T130000
 UID:f609db3d24ad92c4424ee54ed75a52a341c191b50384932c7601b4e5bf02f48c
@@ -41,8 +23,8 @@ SUMMARY:Historia de una amapola que escapó entre los trigos
 DTSTART;TZID=Europe/Madrid:20260314T221500
 UID:10951f3c6d4517fe5cc0204aea4f0d41a29ba2e94e603aefb2e5e87f84ec72a4
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 23 plazas!\n\nhttps://teatrodelbarrio.com/his
- toria-de-una-amapola/
+DESCRIPTION:¡Ya solo quedan 4 plazas!\n\nhttps://teatrodelbarrio.com/hist
+ oria-de-una-amapola/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -59,7 +41,7 @@ SUMMARY:Miércoles que parecen jueves\, de Juan José Millás
 DTSTART;TZID=Europe/Madrid:20260315T130000
 UID:4e19e922adb8a63eb8fd9bcda7aed827d6b5c0d0fd974183786bb09fe7e732c4
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 23 plazas!\n\nhttps://teatrodelbarrio.com/mie
+DESCRIPTION:¡Ya solo quedan 12 plazas!\n\nhttps://teatrodelbarrio.com/mie
  rcoles-que-parecen-jueves/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
@@ -94,7 +76,7 @@ SUMMARY:A 50 AÑOS DEL GOLPE DE ESTADO EN ARGENTINA\, MÁS MEMORIA\, MÁS
 DTSTART;TZID=Europe/Madrid:20260317T190000
 UID:24be6d9b3a2c5ddda787f393b9206681167ffbde50d34e31a6509b28fefcd192
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 6 plazas!\n\nhttps://teatrodelbarrio.com/a-50
+DESCRIPTION:¡Ya solo quedan 4 plazas!\n\nhttps://teatrodelbarrio.com/a-50
  -anos-del-golpe-de-estado-en-argentina-mas-memoria-mas-verdad-mas-justicia
  /
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
@@ -214,7 +196,7 @@ SUMMARY:Estreno del documental "Soy Tribulete 7"
 DTSTART;TZID=Europe/Madrid:20260324T190000
 UID:31b437b3eda05a1e740335efe80de82fc1a327bdac1badf77b22270e69a4f63c
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 1 plazas!\n\nhttps://teatrodelbarrio.com/estr
+DESCRIPTION:¡Ya solo quedan 3 plazas!\n\nhttps://teatrodelbarrio.com/estr
  eno-del-documental-soy-tribulete-7/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
