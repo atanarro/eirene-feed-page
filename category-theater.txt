@@ -1,51 +1,40 @@
 Eirene feed debug
-Total events: 34
+Total events: 35
 
-[1] AÚPA LERÉ. Percusión para crecer
-  id: e381ab54ed5c6d962412de91f2e4ea76a021c00c11c21863e9627bc6aa980da5
-  start: 2026-03-15T11:00:00+01:00
-  end: N/A
+[1] Constelaciones
+  id: 93c4e4d7ae6705d0c227557155cc519e701190d3161c898ffd770ed7229b6a00
+  start: 2026-02-06T20:00:00+01:00
+  end: 2026-03-29T20:00:00+02:00
   category: theater
-  source: teatro_del_barrio
-  location: Teatro del Barrio - Calle de Zurita, 20, Madrid
-  coordinates: 40.4096081, -3.699174
-  url: https://teatrodelbarrio.com/aupa-lere-percusion-para-crecer/
-  description: Disponible
+  source: dramatico_inaem
+  location: Teatro Valle-Inclán - Plaza de Lavapies, Madrid
+  coordinates: 40.4080471, -3.7003217
+  url: https://dramatico.inaem.gob.es/evento/constelaciones/
+  description: Texto Nick Payne Versión y dirección Sergio Peris-Mencheta
 
-[2] Miércoles que parecen jueves, de Juan José Millás
-  id: 4e19e922adb8a63eb8fd9bcda7aed827d6b5c0d0fd974183786bb09fe7e732c4
-  start: 2026-03-15T13:00:00+01:00
-  end: N/A
+[2] La última noche con mi hermano
+  id: df484f18448dee2449eea922969c3fad7ae78cccea7db5d8b2709d15dea021fd
+  start: 2026-02-13T20:00:00+01:00
+  end: 2026-04-05T20:00:00+02:00
   category: theater
-  source: teatro_del_barrio
-  location: Teatro del Barrio - Calle de Zurita, 20, Madrid
-  coordinates: 40.4096081, -3.699174
-  url: https://teatrodelbarrio.com/miercoles-que-parecen-jueves/
-  description: ¡Ya solo quedan 7 plazas!
+  source: dramatico_inaem
+  location: Teatro Maria Guerrero - Calle de Tamayo y Baus, 4, Madrid
+  coordinates: 40.4228646, -3.6928431
+  url: https://dramatico.inaem.gob.es/evento/la-ultima-noche-con-mi-hermano/
+  description: Texto y dirección Alfredo Sanzol
 
-[3] "Torcidxs", de Las Nenas Theatre
-  id: 7acc0d49f00af135ee07634d6663fe1e7bbb5b729ca780df56f5be02869ea4a3
-  start: 2026-03-15T18:00:00+01:00
-  end: N/A
+[3] Casi ninguna verdad
+  id: 7bb9229c5406de701333b18c1b45d43cb2daeda7ff87b2d98af381c1eb282154
+  start: 2026-03-06T18:00:00+01:00
+  end: 2026-04-12T18:00:00+02:00
   category: theater
-  source: teatro_del_barrio
-  location: Teatro del Barrio - Calle de Zurita, 20, Madrid
-  coordinates: 40.4096081, -3.699174
-  url: https://teatrodelbarrio.com/torcidxs-de-las-nenas-theatre/
-  description: Disponible
+  source: dramatico_inaem
+  location: Teatro Valle-Inclán - Plaza de Lavapies, Madrid
+  coordinates: 40.4080471, -3.7003217
+  url: https://dramatico.inaem.gob.es/evento/casi-ninguna-verdad/
+  description: Texto y dirección Cris Blanco Dramaturgia Cris Blanco, Óscar Bueno Rodríguez y Anto Rodríguez
 
-[4] La rabia es nuestra
-  id: 01fff3965a45d8e65d1a15302ccdebee7726398ba076a8e30a5023c95162c2de
-  start: 2026-03-15T20:30:00+01:00
-  end: N/A
-  category: theater
-  source: teatro_del_barrio
-  location: Teatro del Barrio - Calle de Zurita, 20, Madrid
-  coordinates: 40.4096081, -3.699174
-  url: https://teatrodelbarrio.com/la-rabia-es-nuestra/
-  description: ¡Ya solo quedan 14 plazas!
-
-[5] Ser humana
+[4] Ser humana
   id: 5786d1f5317e04e1af33c479be3038a00ed8cfe48879f90f7aa1c918cfeced96
   start: 2026-03-16T19:30:00+01:00
   end: N/A
@@ -56,7 +45,7 @@ Total events: 34
   url: https://teatrodelbarrio.com/ser-humana/
   description: Disponible
 
-[6] A 50 AÑOS DEL GOLPE DE ESTADO EN ARGENTINA, MÁS MEMORIA, MÁS VERDAD, MÁS JUSTICIA.
+[5] A 50 AÑOS DEL GOLPE DE ESTADO EN ARGENTINA, MÁS MEMORIA, MÁS VERDAD, MÁS JUSTICIA.
   id: 24be6d9b3a2c5ddda787f393b9206681167ffbde50d34e31a6509b28fefcd192
   start: 2026-03-17T19:00:00+01:00
   end: N/A
@@ -65,9 +54,9 @@ Total events: 34
   location: Teatro del Barrio - Calle de Zurita, 20, Madrid
   coordinates: 40.4096081, -3.699174
   url: https://teatrodelbarrio.com/a-50-anos-del-golpe-de-estado-en-argentina-mas-memoria-mas-verdad-mas-justicia/
-  description: ¡Ya solo quedan 2 plazas!
+  description: ¡Ya solo quedan 1 plazas!
 
-[7] Los árboles no votan
+[6] Los árboles no votan
   id: 9b304fa7431b27c728aa6affc234087873d3dbd8b22c43f66c71e53546e47736
   start: 2026-03-18T19:30:00+01:00
   end: N/A
@@ -76,9 +65,9 @@ Total events: 34
   location: Teatro del Barrio - Calle de Zurita, 20, Madrid
   coordinates: 40.4096081, -3.699174
   url: https://teatrodelbarrio.com/los-arboles-no-votan/
-  description: ¡Ya solo quedan 19 plazas!
+  description: ¡Ya solo quedan 17 plazas!
 
-[8] A la mierda
+[7] A la mierda
   id: 3fb013334b8a974cd2cdea2bd5f991c4853a4fe50a8bc808109726fd77fa0aac
   start: 2026-03-18T22:00:00+01:00
   end: N/A
@@ -89,7 +78,7 @@ Total events: 34
   url: https://teatrodelbarrio.com/a-la-mierda/
   description: Disponible
 
-[9] El hambre imposible
+[8] El hambre imposible
   id: cdafdf784fcf385254642aace09583e5a26ce5124cbe7b31e0a2f31af63e85a8
   start: 2026-03-19T19:30:00+01:00
   end: N/A
@@ -100,7 +89,7 @@ Total events: 34
   url: https://teatrodelbarrio.com/el-hambre-imposible/
   description: Disponible
 
-[10] Isa & Javi
+[9] Isa & Javi
   id: 45a7c17dbf4eb3033301e3ea81f9b8f92f634e826ead71a339d954066dc3a995
   start: 2026-03-19T22:15:00+01:00
   end: N/A
@@ -110,6 +99,17 @@ Total events: 34
   coordinates: 40.4096081, -3.699174
   url: https://teatrodelbarrio.com/isa-y-javi/
   description: Disponible
+
+[10] Utopía en llamas
+  id: a2d55cc52793d807a2dc3a7a9b1845d2fab03f29c67826917a62789076be6586
+  start: 2026-03-20T18:00:00+01:00
+  end: 2026-04-26T18:00:00+02:00
+  category: theater
+  source: dramatico_inaem
+  location: Teatro Maria Guerrero - Calle de Tamayo y Baus, 4, Madrid
+  coordinates: 40.4228646, -3.6928431
+  url: https://dramatico.inaem.gob.es/evento/utopia-en-llamas/
+  description: Texto Alda Lozano Dirección Concha Delgado y Sandra Ferrús
 
 [11] Niebla
   id: f5c1c7ebb968eb8a2029978f386f4763212118ce95d6b31e1e8cb896ee68f191
@@ -219,7 +219,7 @@ Total events: 34
   location: Teatro del Barrio - Calle de Zurita, 20, Madrid
   coordinates: 40.4096081, -3.699174
   url: https://teatrodelbarrio.com/estreno-del-documental-soy-tribulete-7/
-  description: ¡Ya solo quedan 3 plazas!
+  description: ¡Ya solo quedan 2 plazas!
 
 [21] Un verano por metro cuadrado
   id: 4c858d10cde2fccefd4848931129e7c044fc640f5e563cd5dadd8c85837c0ec1
@@ -374,3 +374,14 @@ Total events: 34
   coordinates: 40.4096081, -3.699174
   url: https://teatrodelbarrio.com/palestina-una-tragedia-permanente/
   description: Disponible
+
+[35] The Silence
+  id: 6def926b11fdc0ac637add110f9fe7ccd968b6e6ef46eca412fb639429fbcb4d
+  start: 2026-04-10T20:00:00+02:00
+  end: 2026-04-12T20:00:00+02:00
+  category: theater
+  source: dramatico_inaem
+  location: Teatro Valle-Inclán - Plaza de Lavapies, Madrid
+  coordinates: 40.4080471, -3.7003217
+  url: https://dramatico.inaem.gob.es/evento/the-silence/
+  description: Texto y dirección Falk Richter

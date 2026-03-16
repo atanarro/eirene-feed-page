@@ -2,40 +2,35 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:AÚPA LERÉ. Percusión para crecer
-DTSTART;TZID=Europe/Madrid:20260315T110000
-UID:e381ab54ed5c6d962412de91f2e4ea76a021c00c11c21863e9627bc6aa980da5
+SUMMARY:Constelaciones
+DTSTART;TZID=Europe/Madrid:20260206T200000
+DTEND;TZID=Europe/Madrid:20260329T200000
+UID:93c4e4d7ae6705d0c227557155cc519e701190d3161c898ffd770ed7229b6a00
 CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/aupa-lere-percusion-
- para-crecer/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+DESCRIPTION:Texto Nick Payne Versión y dirección Sergio Peris-Mencheta\n
+ \nhttps://dramatico.inaem.gob.es/evento/constelaciones/
+LOCATION:Teatro Valle-Inclán - Plaza de Lavapies\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Miércoles que parecen jueves\, de Juan José Millás
-DTSTART;TZID=Europe/Madrid:20260315T130000
-UID:4e19e922adb8a63eb8fd9bcda7aed827d6b5c0d0fd974183786bb09fe7e732c4
+SUMMARY:La última noche con mi hermano
+DTSTART;TZID=Europe/Madrid:20260213T200000
+DTEND;TZID=Europe/Madrid:20260405T200000
+UID:df484f18448dee2449eea922969c3fad7ae78cccea7db5d8b2709d15dea021fd
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 7 plazas!\n\nhttps://teatrodelbarrio.com/mier
- coles-que-parecen-jueves/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+DESCRIPTION:Texto y dirección Alfredo Sanzol\n\nhttps://dramatico.inaem.g
+ ob.es/evento/la-ultima-noche-con-mi-hermano/
+LOCATION:Teatro Maria Guerrero - Calle de Tamayo y Baus\, 4\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:"Torcidxs"\, de Las Nenas Theatre
-DTSTART;TZID=Europe/Madrid:20260315T180000
-UID:7acc0d49f00af135ee07634d6663fe1e7bbb5b729ca780df56f5be02869ea4a3
+SUMMARY:Casi ninguna verdad
+DTSTART;TZID=Europe/Madrid:20260306T180000
+DTEND;TZID=Europe/Madrid:20260412T180000
+UID:7bb9229c5406de701333b18c1b45d43cb2daeda7ff87b2d98af381c1eb282154
 CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/torcidxs-de-las-nena
- s-theatre/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La rabia es nuestra
-DTSTART;TZID=Europe/Madrid:20260315T203000
-UID:01fff3965a45d8e65d1a15302ccdebee7726398ba076a8e30a5023c95162c2de
-CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 14 plazas!\n\nhttps://teatrodelbarrio.com/la-
- rabia-es-nuestra/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+DESCRIPTION:Texto y dirección Cris Blanco Dramaturgia Cris Blanco\, Ósca
+ r Bueno Rodríguez y Anto Rodríguez\n\nhttps://dramatico.inaem.gob.es/eve
+ nto/casi-ninguna-verdad/
+LOCATION:Teatro Valle-Inclán - Plaza de Lavapies\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ser humana
@@ -51,7 +46,7 @@ SUMMARY:A 50 AÑOS DEL GOLPE DE ESTADO EN ARGENTINA\, MÁS MEMORIA\, MÁS
 DTSTART;TZID=Europe/Madrid:20260317T190000
 UID:24be6d9b3a2c5ddda787f393b9206681167ffbde50d34e31a6509b28fefcd192
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 2 plazas!\n\nhttps://teatrodelbarrio.com/a-50
+DESCRIPTION:¡Ya solo quedan 1 plazas!\n\nhttps://teatrodelbarrio.com/a-50
  -anos-del-golpe-de-estado-en-argentina-mas-memoria-mas-verdad-mas-justicia
  /
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
@@ -61,7 +56,7 @@ SUMMARY:Los árboles no votan
 DTSTART;TZID=Europe/Madrid:20260318T193000
 UID:9b304fa7431b27c728aa6affc234087873d3dbd8b22c43f66c71e53546e47736
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 19 plazas!\n\nhttps://teatrodelbarrio.com/los
+DESCRIPTION:¡Ya solo quedan 17 plazas!\n\nhttps://teatrodelbarrio.com/los
  -arboles-no-votan/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
@@ -88,6 +83,16 @@ UID:45a7c17dbf4eb3033301e3ea81f9b8f92f634e826ead71a339d954066dc3a995
 CATEGORIES:theater
 DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/isa-y-javi/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Utopía en llamas
+DTSTART;TZID=Europe/Madrid:20260320T180000
+DTEND;TZID=Europe/Madrid:20260426T180000
+UID:a2d55cc52793d807a2dc3a7a9b1845d2fab03f29c67826917a62789076be6586
+CATEGORIES:theater
+DESCRIPTION:Texto Alda Lozano Dirección Concha Delgado y Sandra Ferrús\n
+ \nhttps://dramatico.inaem.gob.es/evento/utopia-en-llamas/
+LOCATION:Teatro Maria Guerrero - Calle de Tamayo y Baus\, 4\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Niebla
@@ -171,7 +176,7 @@ SUMMARY:Estreno del documental "Soy Tribulete 7"
 DTSTART;TZID=Europe/Madrid:20260324T190000
 UID:31b437b3eda05a1e740335efe80de82fc1a327bdac1badf77b22270e69a4f63c
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 3 plazas!\n\nhttps://teatrodelbarrio.com/estr
+DESCRIPTION:¡Ya solo quedan 2 plazas!\n\nhttps://teatrodelbarrio.com/estr
  eno-del-documental-soy-tribulete-7/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
@@ -293,5 +298,15 @@ CATEGORIES:theater
 DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/palestina-una-traged
  ia-permanente/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Silence
+DTSTART;TZID=Europe/Madrid:20260410T200000
+DTEND;TZID=Europe/Madrid:20260412T200000
+UID:6def926b11fdc0ac637add110f9fe7ccd968b6e6ef46eca412fb639429fbcb4d
+CATEGORIES:theater
+DESCRIPTION:Texto y dirección Falk Richter\n\nhttps://dramatico.inaem.gob
+ .es/evento/the-silence/
+LOCATION:Teatro Valle-Inclán - Plaza de Lavapies\, Madrid
 END:VEVENT
 END:VCALENDAR
