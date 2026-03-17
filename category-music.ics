@@ -2,15 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:The Waves Pictures
-DTSTART;TZID=Europe/Madrid:20260316T203000
-UID:7d559d4a44b24884e91e4956e26c0de3717072559285a5265311ffc33ceee69b
-CATEGORIES:music
-DESCRIPTION:Concierto / Pop / Rock\n\nhttps://salavillanos.es/evento/the-w
- aves-pictures/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Verde Prato + María Marín + Bruma Organizado por PlanBmusic
 DTSTART;TZID=Europe/Madrid:20260317T200000
 UID:bc107f3d850b5df975ba5776a08e363de652a271a4d895e7e39141ec0d7978d0
@@ -259,16 +250,6 @@ LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
  id
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Airbourne
-DTSTART;TZID=Europe/Madrid:20260325T200000
-UID:22919b78c8fc76e1410bd06e3299eda729fbb0638711663f1ee6b2cc52330c46
-CATEGORIES:music
-DESCRIPTION:Apertura Puertas: 19:00 pm\n\nhttps://www.madnesslive.es/es/co
- nciertos-en-madrid/1832-comprar-entrada-airbourne-madrid.html
-LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
- id
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Eileen Alister
 DTSTART;TZID=Europe/Madrid:20260325T203000
 UID:3f3be289d94a71ee9ae74491e5c001a7c638827d8f0fc83caa56c91b531d35b4
@@ -276,6 +257,16 @@ CATEGORIES:music
 DESCRIPTION:Concierto / Jazz\n\nhttps://salavillanos.es/evento/eileen-alis
  ter/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Airbourne
+DTSTART;TZID=Europe/Madrid:20260325T210000
+UID:264e061666a5729e3c2406b18313bc8abd11e03b86bea19255f92a00951f71b9
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:00 pm\n\nhttps://www.madnesslive.es/es/co
+ nciertos-en-madrid/1832-comprar-entrada-airbourne-madrid.html
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Deteresa
@@ -457,6 +448,15 @@ LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
  id
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:El Gato Con Jotas
+DTSTART;TZID=Europe/Madrid:20260407T203000
+UID:e9a58462dca2d84b1c35085c0bf932099f347c09c85d60d1b1c9885bb40dafa7
+CATEGORIES:music
+DESCRIPTION:Concierto / World Music & Folk / Electronic\n\nhttps://salavil
+ lanos.es/evento/el-gato-con-jotas/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Elena Rose (Sold Out)
 DTSTART;TZID=Europe/Madrid:20260407T210000
 UID:c7945021987c3b6079dc08d745f00bc205ac4030c4f5b19be15c192556cca0ae
@@ -581,5 +581,15 @@ UID:e91e60eff8df819914402503efb4e4c9a3283a3506d924243e0c42c6b77e6229
 CATEGORIES:music
 DESCRIPTION:Concierto / Rock\n\nhttps://salavillanos.es/evento/deadletter/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tarchi
+DTSTART;TZID=Europe/Madrid:20260415T210000
+UID:bd78b2dc9529997c5e9a0f02616057010d53b348bede5d200a83df739389d50b
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://dice.fm/event/2weyb6-tar
+ chi-15th-apr-la-riviera-madrid-tickets
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
 END:VEVENT
 END:VCALENDAR

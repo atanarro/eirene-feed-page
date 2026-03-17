@@ -1,51 +1,7 @@
 Eirene feed debug
-Total events: 35
+Total events: 29
 
-[1] Constelaciones
-  id: 93c4e4d7ae6705d0c227557155cc519e701190d3161c898ffd770ed7229b6a00
-  start: 2026-02-06T20:00:00+01:00
-  end: 2026-03-29T20:00:00+02:00
-  category: theater
-  source: dramatico_inaem
-  location: Teatro Valle-Inclán - Plaza de Lavapies, Madrid
-  coordinates: 40.4080471, -3.7003217
-  url: https://dramatico.inaem.gob.es/evento/constelaciones/
-  description: Texto Nick Payne Versión y dirección Sergio Peris-Mencheta
-
-[2] La última noche con mi hermano
-  id: df484f18448dee2449eea922969c3fad7ae78cccea7db5d8b2709d15dea021fd
-  start: 2026-02-13T20:00:00+01:00
-  end: 2026-04-05T20:00:00+02:00
-  category: theater
-  source: dramatico_inaem
-  location: Teatro Maria Guerrero - Calle de Tamayo y Baus, 4, Madrid
-  coordinates: 40.4228646, -3.6928431
-  url: https://dramatico.inaem.gob.es/evento/la-ultima-noche-con-mi-hermano/
-  description: Texto y dirección Alfredo Sanzol
-
-[3] Casi ninguna verdad
-  id: 7bb9229c5406de701333b18c1b45d43cb2daeda7ff87b2d98af381c1eb282154
-  start: 2026-03-06T18:00:00+01:00
-  end: 2026-04-12T18:00:00+02:00
-  category: theater
-  source: dramatico_inaem
-  location: Teatro Valle-Inclán - Plaza de Lavapies, Madrid
-  coordinates: 40.4080471, -3.7003217
-  url: https://dramatico.inaem.gob.es/evento/casi-ninguna-verdad/
-  description: Texto y dirección Cris Blanco Dramaturgia Cris Blanco, Óscar Bueno Rodríguez y Anto Rodríguez
-
-[4] Ser humana
-  id: 5786d1f5317e04e1af33c479be3038a00ed8cfe48879f90f7aa1c918cfeced96
-  start: 2026-03-16T19:30:00+01:00
-  end: N/A
-  category: theater
-  source: teatro_del_barrio
-  location: Teatro del Barrio - Calle de Zurita, 20, Madrid
-  coordinates: 40.4096081, -3.699174
-  url: https://teatrodelbarrio.com/ser-humana/
-  description: Disponible
-
-[5] A 50 AÑOS DEL GOLPE DE ESTADO EN ARGENTINA, MÁS MEMORIA, MÁS VERDAD, MÁS JUSTICIA.
+[1] A 50 AÑOS DEL GOLPE DE ESTADO EN ARGENTINA, MÁS MEMORIA, MÁS VERDAD, MÁS JUSTICIA.
   id: 24be6d9b3a2c5ddda787f393b9206681167ffbde50d34e31a6509b28fefcd192
   start: 2026-03-17T19:00:00+01:00
   end: N/A
@@ -56,7 +12,7 @@ Total events: 35
   url: https://teatrodelbarrio.com/a-50-anos-del-golpe-de-estado-en-argentina-mas-memoria-mas-verdad-mas-justicia/
   description: ¡Ya solo quedan 1 plazas!
 
-[6] Los árboles no votan
+[2] Los árboles no votan
   id: 9b304fa7431b27c728aa6affc234087873d3dbd8b22c43f66c71e53546e47736
   start: 2026-03-18T19:30:00+01:00
   end: N/A
@@ -65,9 +21,9 @@ Total events: 35
   location: Teatro del Barrio - Calle de Zurita, 20, Madrid
   coordinates: 40.4096081, -3.699174
   url: https://teatrodelbarrio.com/los-arboles-no-votan/
-  description: ¡Ya solo quedan 17 plazas!
+  description: ¡Ya solo quedan 15 plazas!
 
-[7] A la mierda
+[3] A la mierda
   id: 3fb013334b8a974cd2cdea2bd5f991c4853a4fe50a8bc808109726fd77fa0aac
   start: 2026-03-18T22:00:00+01:00
   end: N/A
@@ -78,7 +34,7 @@ Total events: 35
   url: https://teatrodelbarrio.com/a-la-mierda/
   description: Disponible
 
-[8] El hambre imposible
+[4] El hambre imposible
   id: cdafdf784fcf385254642aace09583e5a26ce5124cbe7b31e0a2f31af63e85a8
   start: 2026-03-19T19:30:00+01:00
   end: N/A
@@ -89,7 +45,7 @@ Total events: 35
   url: https://teatrodelbarrio.com/el-hambre-imposible/
   description: Disponible
 
-[9] Isa & Javi
+[5] Isa & Javi
   id: 45a7c17dbf4eb3033301e3ea81f9b8f92f634e826ead71a339d954066dc3a995
   start: 2026-03-19T22:15:00+01:00
   end: N/A
@@ -100,18 +56,7 @@ Total events: 35
   url: https://teatrodelbarrio.com/isa-y-javi/
   description: Disponible
 
-[10] Utopía en llamas
-  id: a2d55cc52793d807a2dc3a7a9b1845d2fab03f29c67826917a62789076be6586
-  start: 2026-03-20T18:00:00+01:00
-  end: 2026-04-26T18:00:00+02:00
-  category: theater
-  source: dramatico_inaem
-  location: Teatro Maria Guerrero - Calle de Tamayo y Baus, 4, Madrid
-  coordinates: 40.4228646, -3.6928431
-  url: https://dramatico.inaem.gob.es/evento/utopia-en-llamas/
-  description: Texto Alda Lozano Dirección Concha Delgado y Sandra Ferrús
-
-[11] Niebla
+[6] Niebla
   id: f5c1c7ebb968eb8a2029978f386f4763212118ce95d6b31e1e8cb896ee68f191
   start: 2026-03-20T19:30:00+01:00
   end: 2026-04-12T19:30:00+02:00
@@ -122,7 +67,7 @@ Total events: 35
   url: https://tienda.madrid-destino.com/es/nave-10/niebla/
   description: Entradas disponibles desde 15.75€ | Tags: JOBO
 
-[12] Chistes contra Franco
+[7] Chistes contra Franco
   id: be441b5b2c70af21a0616beef7536e61d0868f4a1f4e098a30db95f273d8026a
   start: 2026-03-20T19:30:00+01:00
   end: N/A
@@ -133,7 +78,7 @@ Total events: 35
   url: https://teatrodelbarrio.com/chistes-contra-franco/
   description: ¡Ya solo quedan 1 plazas!
 
-[13] Ser humana
+[8] Ser humana
   id: 3bb935471355bde9c2ffadfe1e0bf82b228544c4128299f0830a7094642ecf4b
   start: 2026-03-21T13:00:00+01:00
   end: N/A
@@ -144,7 +89,7 @@ Total events: 35
   url: https://teatrodelbarrio.com/ser-humana/
   description: Disponible
 
-[14] Solo quería bailar
+[9] Solo quería bailar
   id: ee3cdc43e9b76f9cd35597336082ac591f358fff87350149eb5eead830183f02
   start: 2026-03-21T19:30:00+01:00
   end: N/A
@@ -155,7 +100,7 @@ Total events: 35
   url: https://teatrodelbarrio.com/solo-queria-bailar/
   description: Disponible
 
-[15] Piluka y sus internacionales del bolero
+[10] Piluka y sus internacionales del bolero
   id: c3f4562ed2af21e6d7d3a03227e8a85e9f1fdf530f04c035cd4591af233f84e6
   start: 2026-03-21T22:15:00+01:00
   end: N/A
@@ -166,7 +111,7 @@ Total events: 35
   url: https://teatrodelbarrio.com/piluka-y-sus-internacionales-del-bolero/
   description: Disponible
 
-[16] Piccolino. Un cine concierto
+[11] Piccolino. Un cine concierto
   id: 60e228360a95d6e09420fbb11d6df4f77c2a3f61de3a7df4264fb104d38f8c95
   start: 2026-03-22T11:00:00+01:00
   end: N/A
@@ -177,7 +122,7 @@ Total events: 35
   url: https://teatrodelbarrio.com/infantil-piccolino/
   description: Disponible
 
-[17] Infiltrado en VOX
+[12] Infiltrado en VOX
   id: c2cc002e355bdb962d6c7c085e0adaa6e059450b695c7c879f445127bef01179
   start: 2026-03-22T13:00:00+01:00
   end: N/A
@@ -188,7 +133,7 @@ Total events: 35
   url: https://teatrodelbarrio.com/infiltrado-en-vox/
   description: Disponible
 
-[18] Gordas, lisiadas y mamarrachas
+[13] Gordas, lisiadas y mamarrachas
   id: 070bbd47d70ecfba121b0268d9f559b918dbcbc6f6a89832fc79356a1bb0bf1d
   start: 2026-03-22T18:00:00+01:00
   end: N/A
@@ -199,7 +144,7 @@ Total events: 35
   url: https://teatrodelbarrio.com/gordas-lisiadas-y-mamarrachas/
   description: Disponible
 
-[19] Solo quería bailar
+[14] Solo quería bailar
   id: 51ac575612ff36108dfb2e52d61ad98dfd23f2abb0fd082d0f7967c742df100b
   start: 2026-03-22T20:30:00+01:00
   end: N/A
@@ -210,7 +155,7 @@ Total events: 35
   url: https://teatrodelbarrio.com/solo-queria-bailar/
   description: Disponible
 
-[20] Estreno del documental "Soy Tribulete 7"
+[15] Estreno del documental "Soy Tribulete 7"
   id: 31b437b3eda05a1e740335efe80de82fc1a327bdac1badf77b22270e69a4f63c
   start: 2026-03-24T19:00:00+01:00
   end: N/A
@@ -219,9 +164,9 @@ Total events: 35
   location: Teatro del Barrio - Calle de Zurita, 20, Madrid
   coordinates: 40.4096081, -3.699174
   url: https://teatrodelbarrio.com/estreno-del-documental-soy-tribulete-7/
-  description: ¡Ya solo quedan 2 plazas!
+  description: ¡Ya solo quedan 1 plazas!
 
-[21] Un verano por metro cuadrado
+[16] Un verano por metro cuadrado
   id: 4c858d10cde2fccefd4848931129e7c044fc640f5e563cd5dadd8c85837c0ec1
   start: 2026-03-25T19:30:00+01:00
   end: N/A
@@ -232,7 +177,7 @@ Total events: 35
   url: https://teatrodelbarrio.com/un-verano-por-metro-cuadrado/
   description: ¡Ya solo quedan 1 plazas!
 
-[22] Un verano por metro cuadrado
+[17] Un verano por metro cuadrado
   id: df79a72af200b01a10e19fa1cbf6c1035d70d0d044d96c14c0280aaeaf0d22c4
   start: 2026-03-26T19:30:00+01:00
   end: N/A
@@ -243,7 +188,7 @@ Total events: 35
   url: https://teatrodelbarrio.com/un-verano-por-metro-cuadrado/
   description: ¡Ya solo quedan 1 plazas!
 
-[23] Concierto primer aniversario Peña Flamenca de Lavapiés a beneficio de UNRWA España
+[18] Concierto primer aniversario Peña Flamenca de Lavapiés a beneficio de UNRWA España
   id: 74132497d786ba12955989a9bb906057a7680dcf7c0f56e2f7c1517fd13cfe3c
   start: 2026-03-26T22:15:00+01:00
   end: N/A
@@ -254,7 +199,7 @@ Total events: 35
   url: https://teatrodelbarrio.com/concierto-primer-aniversario-pena-flamenca-de-lavapies-a-beneficio-de-unrwa/
   description: ¡Ya solo quedan 1 plazas!
 
-[24] Solo quería bailar
+[19] Solo quería bailar
   id: 3fc2832f4da28ed13485fd0d8913773af250005a95940c22b75b1573200ff65a
   start: 2026-03-27T19:30:00+01:00
   end: N/A
@@ -265,7 +210,7 @@ Total events: 35
   url: https://teatrodelbarrio.com/solo-queria-bailar/
   description: Disponible
 
-[25] Noche de fiesta - 15 AÑOS DE CINE LÉSBICO
+[20] Noche de fiesta - 15 AÑOS DE CINE LÉSBICO
   id: f586d58a9f06e8de4a131f79b25fcb02dfac80a3e888d961f853c714f0b29d82
   start: 2026-03-27T22:00:00+01:00
   end: N/A
@@ -276,7 +221,7 @@ Total events: 35
   url: https://teatrodelbarrio.com/noche-de-fiesta-15-anos-de-cine-lesbico/
   description: Programación en Teatro del Barrio
 
-[26] Malas
+[21] Malas
   id: 4ea68fccf8c967c221c8010e3e2d1899791fa26d44cc9361ddf2da7224c647cc
   start: 2026-03-28T13:00:00+01:00
   end: N/A
@@ -287,7 +232,7 @@ Total events: 35
   url: https://teatrodelbarrio.com/malas/
   description: Disponible
 
-[27] Isa & Javi
+[22] Isa & Javi
   id: 2f442b2dfc658b20aa51e2eb36bd757327588cd45bd793e912a550e3dd308d5a
   start: 2026-03-28T13:00:00+01:00
   end: N/A
@@ -298,7 +243,7 @@ Total events: 35
   url: https://teatrodelbarrio.com/isa-y-javi/
   description: Disponible
 
-[28] Feishow
+[23] Feishow
   id: 6a9a0f9c67293fa42964c7b89902282c550c040d3dcea45d992c271cf1586a50
   start: 2026-03-28T13:00:00+01:00
   end: N/A
@@ -309,7 +254,7 @@ Total events: 35
   url: https://teatrodelbarrio.com/feishow/
   description: Disponible
 
-[29] Solo quería bailar
+[24] Solo quería bailar
   id: 938cc26c235a4b9c5346ec3f801a278835682fe2430211abacf72d26e83bd3d9
   start: 2026-03-28T19:30:00+01:00
   end: N/A
@@ -320,7 +265,7 @@ Total events: 35
   url: https://teatrodelbarrio.com/solo-queria-bailar/
   description: Disponible
 
-[30] Feishow
+[25] Feishow
   id: 1cdbde66789c7de7c5e487cc1f6bc09a032fc5634cbaa5cd94b653a0ff878099
   start: 2026-03-28T22:15:00+01:00
   end: N/A
@@ -331,7 +276,7 @@ Total events: 35
   url: https://teatrodelbarrio.com/feishow/
   description: Disponible
 
-[31] Feishow
+[26] Feishow
   id: fc1f8eb631da85b127f747e4b006e15436b23d36d0503568fa719d3fd18be38b
   start: 2026-03-29T13:00:00+02:00
   end: N/A
@@ -342,7 +287,7 @@ Total events: 35
   url: https://teatrodelbarrio.com/feishow/
   description: Disponible
 
-[32] Solo quería bailar
+[27] Solo quería bailar
   id: 6a4d4295a58e76bd6db78a49a313b4a4740ab220f56ce2d2be66a8bd04b656df
   start: 2026-03-29T18:00:00+02:00
   end: N/A
@@ -353,7 +298,7 @@ Total events: 35
   url: https://teatrodelbarrio.com/solo-queria-bailar/
   description: Disponible
 
-[33] La rabia es nuestra
+[28] La rabia es nuestra
   id: af8e3891222ef76798d81e539598d0ea8e9fe8aae772834adde22e5216b8cbd8
   start: 2026-03-29T20:30:00+02:00
   end: N/A
@@ -362,9 +307,9 @@ Total events: 35
   location: Teatro del Barrio - Calle de Zurita, 20, Madrid
   coordinates: 40.4096081, -3.699174
   url: https://teatrodelbarrio.com/la-rabia-es-nuestra/
-  description: Disponible
+  description: ¡Ya solo quedan 19 plazas!
 
-[34] Documental “Palestina, una tragedia permanente” + libro “El diario de Laila Azam” (Historias de Gaza)
+[29] Documental “Palestina, una tragedia permanente” + libro “El diario de Laila Azam” (Historias de Gaza)
   id: 176dff024a9265a2a6f6f5d6a5752119a2a56ad5425800655ab617f92d1a1328
   start: 2026-03-31T19:00:00+02:00
   end: N/A
@@ -374,14 +319,3 @@ Total events: 35
   coordinates: 40.4096081, -3.699174
   url: https://teatrodelbarrio.com/palestina-una-tragedia-permanente/
   description: Disponible
-
-[35] The Silence
-  id: 6def926b11fdc0ac637add110f9fe7ccd968b6e6ef46eca412fb639429fbcb4d
-  start: 2026-04-10T20:00:00+02:00
-  end: 2026-04-12T20:00:00+02:00
-  category: theater
-  source: dramatico_inaem
-  location: Teatro Valle-Inclán - Plaza de Lavapies, Madrid
-  coordinates: 40.4080471, -3.7003217
-  url: https://dramatico.inaem.gob.es/evento/the-silence/
-  description: Texto y dirección Falk Richter

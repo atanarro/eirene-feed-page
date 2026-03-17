@@ -27,18 +27,6 @@ DESCRIPTION:El museo incorpora a su colección una obra maestra de la últ
 LOCATION:Museo del Prado - del Prado\, s/n\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:I Creative Campus Awards. Finalistas
-DTSTART;TZID=Europe/Madrid:20250614T000000
-DTEND;TZID=Europe/Madrid:20260731T000000
-UID:288474431daa3fa1e8565455a743f91b846096d02d8bd59edbce0e9ba128576c
-CATEGORIES:exhibition
-DESCRIPTION:La exposición ofrece un recorrido por las ideas\, estilos y v
- isiones de una nueva generación de diseñadores (Casa del Lector. Hasta 3
- 1 julio 2026)\n\nhttps://casalector.fundaciongsr.org/finalistas-creative-c
- ampus-awards/
-LOCATION:Casa del Lector (Matadero) - de la Chopera\, 14\, Madrid\, 28045
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:La conspiración judeo-masónica. La construcción de un mito
 DTSTART;TZID=Europe/Madrid:20250619T000000
 DTEND;TZID=Europe/Madrid:20260331T000000
@@ -51,15 +39,29 @@ DESCRIPTION:Exposición que aporta una mirada crítica para romper con los
 LOCATION:Centro Sefarad-Israel - Mayor\, 69\, Madrid\, 28013
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Maruja Mallo. Máscara y compás
-DTSTART;TZID=Europe/Madrid:20251008T000000
-DTEND;TZID=Europe/Madrid:20260316T000000
-UID:228ae2ab3196542fb377d78e31451ff3a87d07923ecc0942983f25c270318817
+SUMMARY:Desenfocado. Otra visión del arte
+DTSTART;TZID=Europe/Madrid:20250917T000000
+DTEND;TZID=Europe/Madrid:20260412T000000
+UID:11b5aeaaf0d2ef1676f26ac44ebd966abf626ec5dec60d4a88ffa1480a3db304
 CATEGORIES:exhibition
-DESCRIPTION:La mayor retrospectiva hasta la fecha de una de las artistas m
- ás innovadoras de la vanguardia (Museo Reina Sofía. Hasta 16 marzo).\n\n
- https://www.museoreinasofia.es/exposicion/maruja-mallo
-LOCATION:Museo Reina Sofía - de Santa Isabel\, 52\, Madrid\, 28012
+DESCRIPTION:Exposición que explora el concepto de desenfoque en el arte c
+ omo nueva manera de comprender el mundo (CaixaForum Madrid. Hasta 12 abr).
+ \n\nhttps://caixaforum.org/es/madrid/p/desenfocado_a173668105
+LOCATION:CaixaForum Madrid - del Prado\, 36\, Madrid\, 28014
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fui sobre agua edificada
+DTSTART;TZID=Europe/Madrid:20250926T000000
+DTEND;TZID=Europe/Madrid:20260412T000000
+UID:72d72a8d8af19b2261fdb74e4b194145ef12d84cb714bb3ea3f63b8507efa520
+CATEGORIES:exhibition
+DESCRIPTION:Muestra que reúne las fotografías ganadoras y finalistas del
+  V Concurso de fotografía\, que retrata la presencia del agua en Madrid (
+ Museo de Historia. Hasta 12 abril).\n\nhttps://www.madrid.es/portales/muni
+ madrid/es/Inicio/Cultura-ocio-y-deporte/Museo-de-Historia-de-Madrid/?vgnex
+ tfmt=default&vgnextoid=ab18a1ead63ab010VgnVCM100000d90ca8c0RCRD&vgnextchan
+ nel=7911f073808fe410VgnVCM2000000c205a0aRCRD&idCapitulo=50068026&page=1
+LOCATION:Museo de Historia - de Fuencarral\, 78\, Madrid\, 28004
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:El sueño de la razón. Del Siglo de las Luces a la inteligencia a
@@ -111,6 +113,18 @@ DESCRIPTION:Una selección de 22 retratos de la fotógrafa y activista Ele
 LOCATION:Matadero Madrid - de Legazpi\, 8\, Madrid\, 28045
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Diálogos de escultura ibérica. El Museo del Louvre en el MAN
+DTSTART;TZID=Europe/Madrid:20251118T000000
+DTEND;TZID=Europe/Madrid:20260510T000000
+UID:7db716925f44d4b7824b31d164202fdebbb87e49424bc8982114555753ec74c0
+CATEGORIES:exhibition
+DESCRIPTION:Obras maestras del Museo del Louvre dialogan por primera vez c
+ on la escultura ibérica del MAN (Museo Arqueológico Nacional. Hasta 10 m
+ ay).\n\nhttps://www.man.es/man/exposicion/exposiciones-temporales/20251118
+ -escultura-iberica-louvre-man.html
+LOCATION:Museo Arqueológico Nacional - de Serrano\, 13\, Madrid\, 28001
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Hoy es un buen día para hablar de derechos digitales
 DTSTART;TZID=Europe/Madrid:20251120T000000
 DTEND;TZID=Europe/Madrid:20260503T000000
@@ -122,6 +136,18 @@ DESCRIPTION:Reflexión crítica sobre la ciudadanía digital\, los derecho
  a.com/evento/hoy-es-un-buen-dia-para-hablar-de-derechos-digitales/
 LOCATION:Espacio Fundación Telefónica - de Fuencarral\, 3\, Madrid\, 280
  04
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Juan Uslé. Ese barco en la montaña
+DTSTART;TZID=Europe/Madrid:20251126T000000
+DTEND;TZID=Europe/Madrid:20260420T000000
+UID:f5c9d51aab654ec36910b9b7b8b26d8911942d1046efcdaa56cea22e34fd3493
+CATEGORIES:exhibition
+DESCRIPTION:Gran muestra antológica que profundiza en los más de cuarent
+ a años de trayectoria artística del artista (Museo Reina Sofía. Hasta 2
+ 0 abril).\n\nhttps://www.museoreinasofia.es/prensa/nota-de-prensa/juan-usl
+ e
+LOCATION:Museo Reina Sofía - de Santa Isabel\, 52\, Madrid\, 28012
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:“El Prado en femenino III”. Promotoras artísticas de las cole
@@ -164,17 +190,30 @@ LOCATION:Galería de las Colecciones Reales - de Bailén\, 8\, Madrid\, 28
  013
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Oriol Maspons
-DTSTART;TZID=Europe/Madrid:20251217T000000
-DTEND;TZID=Europe/Madrid:20260412T000000
-UID:86a14a38cc9379110a6f480e1e95754a0ddd89d1a39bcbf60980decb1815a708
+SUMMARY:Naturaleza de asfalto. Madrid hiperrealista. José Miguel Palacio
+DTSTART;TZID=Europe/Madrid:20251216T000000
+DTEND;TZID=Europe/Madrid:20260524T000000
+UID:2a0e4846f4d89ac27a3dcb05bbe6f34ccb84bbee99b3e0868f72ac8bce5937dc
 CATEGORIES:exhibition
-DESCRIPTION:Selección de obras del fotógrafo español considerado uno d
- e los más activos e influyentes fotógrafos de la Escuela de Barcelona (
- Real Academia de Bellas Artes de San Fernando.\n\nhttps://www.realacademia
- bellasartessanfernando.com/actividades/exposiciones/oriol-maspons/
-LOCATION:Real Academia de Bellas Artes de San Fernando - de Alcalá\, 13\,
-  Madrid\, 28014
+DESCRIPTION:El artista aragonés expone varias pinturas\, esculturas y dib
+ ujos en los que Madrid es retratada en todo su esplendor (Museo de Histori
+ a. Hasta 24 may).\n\nhttps://www.madrid.es/portales/munimadrid/es/Inicio/C
+ ultura-ocio-y-deporte/Fiestas-en-Madrid/Museo-de-Historia-de-Madrid/?vgnex
+ tfmt=default&vgnextoid=ab18a1ead63ab010VgnVCM100000d90ca8c0RCRD&vgnextchan
+ nel=8ef1bbef60841810VgnVCM1000001d4a900aRCRD&idCapitul
+LOCATION:Museo de Historia - de Fuencarral\, 78\, Madrid\, 28004
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oliver Laxe. HU/هُوَ. Bailad como si nadie os viera
+DTSTART;TZID=Europe/Madrid:20251217T000000
+DTEND;TZID=Europe/Madrid:20260420T000000
+UID:8c3d5566bb881110606260cf844798386f17f0d2b232da4ff074b5850cfd1152
+CATEGORIES:exhibition
+DESCRIPTION:Uno de los cineastas contemporáneos con mayor proyección int
+ ernacional presenta su nueva pieza que tiene objeto fundamental su últim
+ a película Sirat (Museo Reina Sofía.\n\nhttps://www.museoreinasofia.es/
+ exposicion/oliver-laxe
+LOCATION:Museo Reina Sofía - de Santa Isabel\, 52\, Madrid\, 28012
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:75 años de la Colección Marañón: el origen del Fondo Antiguo d
@@ -215,16 +254,16 @@ DESCRIPTION:Exposición dedicada a la vida y la obra del escritor Ignacio
 LOCATION:Biblioteca Nacional - de Recoletos\, 20 - 22\, Madrid\, 28071
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Javier Garcerá. El pico al aire
-DTSTART;TZID=Europe/Madrid:20251218T000000
-DTEND;TZID=Europe/Madrid:20260503T000000
-UID:77e93f2b56914c5f77af9df3c1608b4c2a49e1bfcbb5823f03ff23aae8619c24
+SUMMARY:Entre Oriente y Occidente. Chipre\, la isla de Afrodita
+DTSTART;TZID=Europe/Madrid:20260113T000000
+DTEND;TZID=Europe/Madrid:20260412T000000
+UID:e86d00f0db809e687cb5e1e7bb78489df614784bbc6c896769b36fafee06aaf8
 CATEGORIES:exhibition
-DESCRIPTION:El espacio dialogará con esta gran instalación de pinturas\,
-  generando una experiencia inmersiva y sensorial para el público (CentroC
- entro. Hasta 3 may).\n\nhttps://www.centrocentro.org/exposicion/javier-gar
- cera
-LOCATION:CentroCentro - de Cibeles\, 1\, Madrid\, 28014
+DESCRIPTION:Selcción de piezas de la colección chipriota del MAN fuert
+ emente ligada al Viaje a Oriente de la Fragata Arapiles (Museo Arqueol
+ ógico Nacional.\n\nhttps://www.man.es/man/exposicion/vitrina0/20260113-ch
+ ipre.html
+LOCATION:Museo Arqueológico Nacional - de Serrano\, 13\, Madrid\, 28001
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fotosíntesis atlántica
@@ -274,6 +313,30 @@ DESCRIPTION:Las obras del artista iraquí Hanoos Hanoos reflexionan sobre
 LOCATION:Casa Árabe - de Alcalá\, 62\, Madrid\, 28009
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Wunderkammer. Ana Juan
+DTSTART;TZID=Europe/Madrid:20260129T000000
+DTEND;TZID=Europe/Madrid:20260503T000000
+UID:bd560a4688dbb2c37fd172a78c32e5f54d1eaea04584c945ae73f943dd37c57d
+CATEGORIES:exhibition
+DESCRIPTION:Exposición de varios dibujos realizados por la destacada ilus
+ tradora valenciana en los que muestra su particular forma de entender el m
+ undo (CentroCentro. Hasta 3 may).\n\nhttps://www.centrocentro.org/exposici
+ on/ana-juan
+LOCATION:CentroCentro - de Cibeles\, 1\, Madrid\, 28014
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fundación. Marlon de Azambuja
+DTSTART;TZID=Europe/Madrid:20260130T000000
+DTEND;TZID=Europe/Madrid:20260927T000000
+UID:2b785145092292f5ea909f9863e266ee1c97c5fcfc663e9bb72ea13d7ebc09b3
+CATEGORIES:exhibition
+DESCRIPTION:Instalación escultórica del artista visual brasileño en la 
+ que el espacio se transforma en un territorio vivo (La Casa Encendida. Has
+ ta 27 sept).\n\nhttps://www.lacasaencendida.es/exposiciones/fundacion-marl
+ on-de-azambuja
+LOCATION:La Casa Encendida - de Valencia\, 2\, Madrid\, 28012
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Generación 2026
 DTSTART;TZID=Europe/Madrid:20260130T000000
 DTEND;TZID=Europe/Madrid:20260419T000000
@@ -297,6 +360,19 @@ DESCRIPTION:Muestra de imágenes en diversos formatos\, técnicas y soport
  seodelprado.es/actualidad/exposicion/el-prado-multiplicado-la-fotografia-c
  omo-memoria/2658bee2-97e8-d418-1e9d-94ae293bc637
 LOCATION:Museo del Prado - del Prado\, s/n\, Madrid\, 28014
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Migrar. Historias de Movimiento\, Pertenencia y Transformación
+DTSTART;TZID=Europe/Madrid:20260203T000000
+DTEND;TZID=Europe/Madrid:20260329T000000
+UID:6e1533cc29d478d35c20379939a562ae65c156154c9cfe70098e3dedc687ed5b
+CATEGORIES:exhibition
+DESCRIPTION:Muestra que analiza distintas experiencias de migración y des
+ plazamiento a través de objetos e imágenes (Museo Nacional de Antropolog
+ ía. A partir 3 febrero).\n\nhttps://www.esmadrid.com/agenda/migrar-histor
+ ias-movimiento-pertenencia-transformacion-museo-nacional-antropologia
+LOCATION:Museo Nacional de Antropología - de Alfonso XII\, 68\, Madrid\, 
+ 28014
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rauschenberg: Express. En movimiento
@@ -325,6 +401,19 @@ LOCATION:Fernán Gómez Centro Cultural de la Villa - de Colón \, 4\, Mad
  rid\, 28001
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Hotel del artefacto expoliado
+DTSTART;TZID=Europe/Madrid:20260206T000000
+DTEND;TZID=Europe/Madrid:20260524T000000
+UID:cb14394abb58c9018f4fe34d24d6aa2fb134bbb2837e8496f2101c6b2eb302b1
+CATEGORIES:exhibition
+DESCRIPTION:Exposición de la artista Agnes Essonti que forma parte del pr
+ ograma especial del 150º aniversario del museo (Museo Nacional de Antropo
+ logía. Hasta 24 may).\n\nhttps://www.cultura.gob.es/mnantropologia/activi
+ dades/agenda/2026/expotemporales2026/hotel.html
+LOCATION:Museo Nacional de Antropología - de Alfonso XII\, 68\, Madrid\, 
+ 28014
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Manifiesto Mediterráneo
 DTSTART;TZID=Europe/Madrid:20260206T000000
 DTEND;TZID=Europe/Madrid:20260503T000000
@@ -338,14 +427,28 @@ LOCATION:Fernán Gómez Centro Cultural de la Villa - de Colón \, 4\, Mad
  rid\, 28001
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Constelaciones
-DTSTART;TZID=Europe/Madrid:20260206T200000
-DTEND;TZID=Europe/Madrid:20260329T200000
-UID:93c4e4d7ae6705d0c227557155cc519e701190d3161c898ffd770ed7229b6a00
-CATEGORIES:theater
-DESCRIPTION:Texto Nick Payne Versión y dirección Sergio Peris-Mencheta\n
- \nhttps://dramatico.inaem.gob.es/evento/constelaciones/
-LOCATION:Teatro Valle-Inclán - Plaza de Lavapies\, Madrid
+SUMMARY:Transitar el siglo XX. Dibujo y escultura en las Colecciones ICO
+DTSTART;TZID=Europe/Madrid:20260210T000000
+DTEND;TZID=Europe/Madrid:20260510T000000
+UID:93717ebd5ea4a98c5b28d304f0010176b575de1a7d52196e6765f9d1e15c8bdb
+CATEGORIES:exhibition
+DESCRIPTION:Un recorrido a través de la obra de una treintena de artistas
+  que rinde homenaje a los orígenes de la colección de arte del museo (Mu
+ seo ICO. Hasta 10 may).\n\nhttps://www.fundacionico.es/web/guest/pr%C3%B3x
+ ima-exposicion
+LOCATION:Museo ICO - de Zorrilla\, 3\, Madrid\, 28014
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alberto Greco. Viva el arte vivo
+DTSTART;TZID=Europe/Madrid:20260211T000000
+DTEND;TZID=Europe/Madrid:20260608T000000
+UID:efc91b52e8e13f9f2804bf74bfd3fb0ba10dfe955d70a7a831a406a8f75c30f2
+CATEGORIES:exhibition
+DESCRIPTION:Retrospectiva de la trayectoria del artista\, figura clave de 
+ la vanguardia experimental y fundador del llamado arte vivo (Museo Reina S
+ ofía. Hasta 8 jun).\n\nhttps://www.museoreinasofia.es/exposicion/alberto-
+ greco
+LOCATION:Museo Reina Sofía - de Santa Isabel\, 52\, Madrid\, 28012
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bellezas del mundo flotante
@@ -359,18 +462,6 @@ DESCRIPTION:La edad de oro del grabado japonés entre finales del siglo XV
  anfernando.com/actividades/exposiciones/bellezas-del-mundo-flotante/
 LOCATION:Real Academia de Bellas Artes de San Fernando - de Alcalá\, 13\,
   Madrid\, 28014
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La casa de las artes. Abierta desde 1926
-DTSTART;TZID=Europe/Madrid:20260212T000000
-DTEND;TZID=Europe/Madrid:20260510T000000
-UID:ee5ed0b89007b2883c9bf9b903f561f71f75e32932b51c1e4a905c62f4ed3042
-CATEGORIES:exhibition
-DESCRIPTION:Un recorrido por el origen\, el diseño y la construcción de 
- una de las arquitecturas más emblemáticas de la Gran Vía madrileña (C
- írculo de Bellas Artes. Hasta 10 may).\n\nhttps://www.circulobellasartes.
- com/exposiciones/la-casa-de-las-artes-abierta-desde-1926/
-LOCATION:Círculo de Bellas Artes - de Alcalá\, 42\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:X Muestra Orfebrería y Joyería Contemporánea
@@ -396,16 +487,6 @@ DESCRIPTION:Exposición que invita a reflexionar sobre la relación entre
  a 17 may).\n\nhttps://rjb.csic.es/evento/exposicion-dia-y-noche-ritmos-del
  -alma/
 LOCATION:Real Jardín Botánico - de Murillo\, 2\, Madrid\, 28014
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La última noche con mi hermano
-DTSTART;TZID=Europe/Madrid:20260213T200000
-DTEND;TZID=Europe/Madrid:20260405T200000
-UID:df484f18448dee2449eea922969c3fad7ae78cccea7db5d8b2709d15dea021fd
-CATEGORIES:theater
-DESCRIPTION:Texto y dirección Alfredo Sanzol\n\nhttps://dramatico.inaem.g
- ob.es/evento/la-ultima-noche-con-mi-hermano/
-LOCATION:Teatro Maria Guerrero - Calle de Tamayo y Baus\, 4\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hammershøi. El ojo que escucha
@@ -547,19 +628,6 @@ DESCRIPTION:Exposición que presenta un recorrido por la obra y vida de la
 LOCATION:Casa del Lector (Matadero) - de la Chopera\, 14\, Madrid\, 28045
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pedagogías de guerra. Roman Khimei & Yarema Malashchuk
-DTSTART;TZID=Europe/Madrid:20260303T000000
-DTEND;TZID=Europe/Madrid:20260621T000000
-UID:62b5cec47fa66eade5e20ff17d288c89e374e0fc4e571ac0dbb516e1f21e8560
-CATEGORIES:exhibition
-DESCRIPTION:Los jóvenes artistas ucranianos exploran con sus fotografía
- s cómo la invasión rusa a gran escala de Ucrania ha reorganizado el espa
- cio público (Museo Nacional Thyssen-Bornemisza.\n\nhttps://www.museothys
- sen.org/exposiciones/khimei-malashchuk-pedagogias-guerra
-LOCATION:Museo Nacional Thyssen-Bornemisza - del Prado\, 8\, Madrid\, 2801
- 4
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ecos de la moda romántica
 DTSTART;TZID=Europe/Madrid:20260304T000000
 DTEND;TZID=Europe/Madrid:20260607T000000
@@ -597,15 +665,16 @@ DESCRIPTION:Varios artistas\, colectivos y activistas participan en divers
 LOCATION:Círculo de Bellas Artes - de Alcalá\, 42\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Casi ninguna verdad
-DTSTART;TZID=Europe/Madrid:20260306T180000
-DTEND;TZID=Europe/Madrid:20260412T180000
-UID:7bb9229c5406de701333b18c1b45d43cb2daeda7ff87b2d98af381c1eb282154
-CATEGORIES:theater
-DESCRIPTION:Texto y dirección Cris Blanco Dramaturgia Cris Blanco\, Ósca
- r Bueno Rodríguez y Anto Rodríguez\n\nhttps://dramatico.inaem.gob.es/eve
- nto/casi-ninguna-verdad/
-LOCATION:Teatro Valle-Inclán - Plaza de Lavapies\, Madrid
+SUMMARY:El cómic belga
+DTSTART;TZID=Europe/Madrid:20260311T000000
+DTEND;TZID=Europe/Madrid:20260409T000000
+UID:68055c2e1e69456760ee99dbf817cad168e1b6cf860c760fff70a4d9ab3a4123
+CATEGORIES:exhibition
+DESCRIPTION:La segunda edición de la Feria del Cómic de Madrid invita a 
+ conocer la riqueza y pluralidad de la bande déssinée creada en Bélgica 
+ (Casa del Lector - Matadero. Hasta 9 abril).\n\nhttps://casalector.fundaci
+ ongsr.org/el-comic-belga/
+LOCATION:Casa del Lector (Matadero) - de la Chopera\, 14\, Madrid\, 28045
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Espacio liminal. María Oriza
@@ -627,441 +696,10 @@ UID:3e9a3ab4dc5ca83af24c15b8fa0189271af5516df95addfa10c4cc25749e9bcc
 CATEGORIES:exhibition
 DESCRIPTION:Pequeña muestra que presenta un conjunto de obras de Giovanni
   Francesco Barbieri\, figura clave de la pintura barroca (Museo Nacional T
- hyssen-Bornemisza. 16 mar a 14 jun).\n\nhttps://www.museothyssen.org/expos
- iciones/guercino-heroinas-biblicas
+ hyssen-Bornemisza. Hasta 14 jun).\n\nhttps://www.museothyssen.org/exposici
+ ones/guercino-heroinas-biblicas
 LOCATION:Museo Nacional Thyssen-Bornemisza - del Prado\, 8\, Madrid\, 2801
  4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El Último Vikingo
-DTSTART;TZID=Europe/Madrid:20260316T155000
-UID:ed9745da4c39119dccc457adf99089a6955d03c2732988c432b36c065bfca421
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 116 min
- utos | No recomendada para menores de 16 años\n\nOriginal title: Den sids
- te viking\n\nRelease year: 2025\n\nOriginal language: DA\n\nAudio: VOSE\n\
- nhttps://www.pillalas.com/pase/1058779/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:No Hay Otra Opción
-DTSTART;TZID=Europe/Madrid:20260316T155000
-UID:991559549a4256a64f947b367f4fbe8a004f4caf76cbfc0baadd5edc63c33ce4
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 139 min
- utos | Pendiente de calificación\n\nOriginal title: 어쩔수가없다\n\
- nRelease year: 2025\n\nOriginal language: KO\n\nAudio: VOSE\n\nhttps://www
- .pillalas.com/pase/1058897/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Valor Sentimental
-DTSTART;TZID=Europe/Madrid:20260316T155000
-UID:6ff4678fb219ac13d65b8b43366f62edad91a7f022eeeb93fd84415d00056d2d
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 133 min
- utos | No recomendada para menores de 12 años\n\nOriginal title: Affeksjo
- nsverdi\n\nRelease year: 2025\n\nOriginal language: NO\n\nAudio: VOSE\n\nh
- ttps://www.pillalas.com/pase/1058829/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Águilas De El Cairo
-DTSTART;TZID=Europe/Madrid:20260316T155000
-UID:42d42709f04281c6f76b4a9d31c84f68fbd1059ff620ccd92d1f4ded1d4fc735
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 128 min
- utos | No recomendada para menores de 16 años\n\nAudio: VOSE\n\nhttps://w
- ww.pillalas.com/pase/1058828/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Orwell 2+2 = 5
-DTSTART;TZID=Europe/Madrid:20260316T160000
-UID:4161a7d2d35e173af8d294f4a9da3c685d0695b4ebfe199a28ba06be0f4d65f0
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 119 min
- utos | No recomendada para menores de 16 años\n\nRelease year: 2025\n\nOr
- iginal language: EN\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/105883
- 0/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tres adioses
-DTSTART;TZID=Europe/Madrid:20260316T170000
-DTEND;TZID=Europe/Madrid:20260316T190000
-UID:bd533244d1712fb21b22a70c059d75e017df9b07e9c290cd498fcd63d526a3c9
-CATEGORIES:cinema
-DESCRIPTION:Tras lo que parecía una discusión sin importancia\, Marta (A
- lba Rohrwacher) y Antonio (Elio Germano) se separan. Él\, un chef promete
- dor\, se refugia en sus fogones\; ella\, en su silencio\, empieza a notar 
- algo más que tristeza: ha perdido el apetito… y no solo por desamor. Cu
- ando descubre que detrás hay un problema de salud\, todo da un giro inesp
- erado: la comida sabe mejor\, la música le llega como nunca y el deseo de
- spierta sus ganas de vivir sin miedo.\n\nOriginal title: Tre ciotole\n\nRe
- lease year: 2025\n\nOriginal language: IT\n\nAudio: VOSE\n\nhttps://cinese
- mbajadores.es/pelicula/tres-adioses-vose/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Torrente presidente
-DTSTART;TZID=Europe/Madrid:20260316T173000
-DTEND;TZID=Europe/Madrid:20260316T191300
-UID:28d4d0a05070f94e566348761744dda83bb9fe11dd98ec53705e86a616c11647
-CATEGORIES:cinema
-DESCRIPTION:Sexta entrega de Torrente. Como nota informativa\, la películ
- a no tendrá ni tráiler ni póster ni se mostrará en pases de prensa pre
- vios a su estreno en cines\, en una maniobra de marketing de Santiago Segu
- ra con el fin de preservar las sorpresas y cameos hasta que los fans la pu
- edan ver.\n\nRelease year: 2026\n\nOriginal language: ES\n\nhttps://cinese
- mbajadores.es/pelicula/torrente-presidente/?ciudad=madrid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hoppers
-DTSTART;TZID=Europe/Madrid:20260316T174000
-DTEND;TZID=Europe/Madrid:20260316T192400
-UID:b0571de77efbc9a56d36c5ba4ad305e89ad44b685bce36e9c2e6e523f4b57e6a
-CATEGORIES:cinema
-DESCRIPTION:La historia sigue a una joven\, Mabel\, que puede transferir s
- u mente a un castor robot con el objetivo de infiltrarse en el reino anima
- l. Acaba haciéndose amiga de un castor regio\, el Rey Jorge\, y uniendo a
-  los animales para luchar contra los planes de un promotor inmobiliario.\n
- \nRelease year: 2026\n\nOriginal language: EN\n\nAudio: Doblada ES\n\nhttp
- s://cinesembajadores.es/pelicula/hoppers-doblada-al-espanol/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El último vikingo
-DTSTART;TZID=Europe/Madrid:20260316T174000
-DTEND;TZID=Europe/Madrid:20260316T193600
-UID:15e92753e327fff2ea7a944651a7afe65a78ccfb392d22e414ba50834903ce84
-CATEGORIES:cinema
-DESCRIPTION:Anker sale de prisión tras cumplir una condena de quince año
- s por robo. El dinero del atraco fue enterrado por su hermano Manfred. Sol
- o él sabe dónde está. Por desgracia\, desde entonces Manfred ha desarro
- llado un trastorno mental que le ha hecho olvidarlo todo. Juntos\, los her
- manos emprenden un viaje inesperado para encontrar el dinero y descubrir q
- uiénes son en realidad.\n\nOriginal title: Den sidste viking\n\nRelease y
- ear: 2025\n\nOriginal language: DA\n\nAudio: VOSE\n\nhttps://cinesembajado
- res.es/pelicula/el-ultimo-vikingo-vose/?ciudad=madrid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El testamento de Ann Lee
-DTSTART;TZID=Europe/Madrid:20260316T174500
-DTEND;TZID=Europe/Madrid:20260316T195500
-UID:17265c5776323721aeb26b68e4d3685ba58d92482689da9da1674fde3e05f6cf
-CATEGORIES:cinema
-DESCRIPTION:Inspirada en hechos reales\, se centra en la líder religiosa 
- Ann Lee\, fundadora del Movimiento Shaker a finales de la década de 1770\
- , llegó a construir una de las sociedades utópicas más grandes de la hi
- storia de Estados Unidos. Los seguidores de Lee la consideraban el Jesucri
- sto femenino\, y sus fieles le rezaban cantando y bailando.\n\nOriginal ti
- tle: The Testament of Ann Lee\n\nRelease year: 2025\n\nOriginal language: 
- EN\n\nAudio: VOSE\n\nhttps://cinesembajadores.es/pelicula/el-testamento-de
- -ann-lee-vose/?ciudad=madrid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hasta la montaña
-DTSTART;TZID=Europe/Madrid:20260316T175000
-DTEND;TZID=Europe/Madrid:20260316T194300
-UID:4585b83123633954e43b52e1deb2a4ea2cd8b1b324a4ac3fb021f3857a58ba32
-CATEGORIES:cinema
-DESCRIPTION:Tras un problema de salud\, Mathyas\, un publicista de Montrea
- l\, abandona su vida en Canadá para reinventarse como pastor de ovejas en
-  los Alpes franceses. Tras un comienzo difícil\, se le une Élise\, una f
- uncionaria tentada por sus historias de vida pastoril\, y juntos se compro
- meten a pasar un verano en la ladera de la montaña. Los dos solos. Y un b
- order collie. Y 800 ovejas.\n\nOriginal title: Bergers\n\nRelease year: 20
- 24\n\nOriginal language: FR\n\nAudio: VOSE\n\nhttps://cinesembajadores.es/
- pelicula/hasta-la-montana-vose/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Águilas De El Cairo
-DTSTART;TZID=Europe/Madrid:20260316T180000
-UID:2cfda2a08c4c74d9e02390fe08eeb42b7ccc6dd109c84bf2a8692b9aa6f523dc
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 128 min
- utos | No recomendada para menores de 16 años\n\nAudio: VOSE\n\nhttps://w
- ww.pillalas.com/pase/1058926/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El Último Vikingo
-DTSTART;TZID=Europe/Madrid:20260316T181000
-UID:e9a80b3a34a45e3281f53109d46eb868ffe211df9d96ca9ddd0f4099b47b2d43
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 116 min
- utos | No recomendada para menores de 16 años\n\nOriginal title: Den sids
- te viking\n\nRelease year: 2025\n\nOriginal language: DA\n\nAudio: VOSE\n\
- nhttps://www.pillalas.com/pase/1058832/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Orwell 2+2 = 5
-DTSTART;TZID=Europe/Madrid:20260316T181500
-UID:b25039986059c7c934273d6c24cb97379bccbcffccfbcc67d236c81b36d0273a
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 119 min
- utos | No recomendada para menores de 16 años\n\nRelease year: 2025\n\nOr
- iginal language: EN\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/105883
- 3/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Chica Zurda
-DTSTART;TZID=Europe/Madrid:20260316T182000
-UID:13b3e5e88507135be45ddeefa56705cb6b560bcac6ac954af2e5b4e8d5e16422
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 108 min
- utos | No recomendada para menores de 12 años\n\nOriginal title: 左撇
- 子女孩\n\nRelease year: 2025\n\nOriginal language: ZH\n\nAudio: VOSE\n\
- nhttps://www.pillalas.com/pase/1058898/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Tarta Del Presidente
-DTSTART;TZID=Europe/Madrid:20260316T182000
-UID:35509d930d2ccf8063da7a2a13deb0c8e65e808716c67f4d1f556903eb3c3332
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 105 min
- utos | No recomendada para menores de 12 años\n\nOriginal title: The Pres
- ident's Cake\n\nRelease year: 2025\n\nOriginal language: EN\n\nAudio: VOSE
- \n\nhttps://www.pillalas.com/pase/1058834/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Una pastelería en Notting Hill
-DTSTART;TZID=Europe/Madrid:20260316T193000
-DTEND;TZID=Europe/Madrid:20260316T210800
-UID:0df3df12e2f1c5e4aa1bd33812997030c5e448fcabb747c1bfa5f319a9fb2367
-CATEGORIES:cinema
-DESCRIPTION:Decidida a cumplir el sueño de su difunta madre de abrir una 
- pastelería en Notting Hill\, la joven Clarissa pide ayuda a la mejor amig
- a de su madre\, Isabella\, y a su excéntrica abuela\, Mimi. Estas tres ge
- neraciones de mujeres necesitarán superar el dolor\, las dudas y las dife
- rencias para honrar el recuerdo de su amada Sarah mientras se embarcan en 
- un viaje para establecer en Londres una tienda llenar de amor\, esperanza 
- y coloridos pasteles.\n\nOriginal title: Love Sarah\n\nRelease year: 2020\
- n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://cinesembajadores.es/pel
- icula/una-pasteleria-en-notting-hill-vose/?ciudad=madrid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ser humana
-DTSTART;TZID=Europe/Madrid:20260316T193000
-UID:5786d1f5317e04e1af33c479be3038a00ed8cfe48879f90f7aa1c918cfeced96
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/ser-humana/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Águilas de El Cairo
-DTSTART;TZID=Europe/Madrid:20260316T194500
-DTEND;TZID=Europe/Madrid:20260316T215200
-UID:479344d04f38f5848b6c45cdf7cbdcaa1c6f3362816fe5a8f8d7948be9cf1221
-CATEGORIES:cinema
-DESCRIPTION:George Fahmy (Fares Fares) el actor más querido de Egipto\, s
- e ve presionado a protagonizar una película encargada por las más altas 
- autoridades egipcias. Aceptando a regañadientes\, este papel será la pue
- rta que le hará entrar en el selecto grupo de las personas más poderosas
-  del país. Como una polilla atraída por la luz\, comienza un romance con
-  la misteriosa esposa del general que supervisa el proyecto.\n\nAudio: VOS
- E\n\nhttps://cinesembajadores.es/pelicula/aguilas-de-el-cairo-vose/?ciudad
- =madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El testamento de Ann Lee
-DTSTART;TZID=Europe/Madrid:20260316T195000
-DTEND;TZID=Europe/Madrid:20260316T220000
-UID:713dc08f8d6624802c84dc9c4da5032587791b2bdb98bf04e988b97b27f49bf7
-CATEGORIES:cinema
-DESCRIPTION:Inspirada en hechos reales\, se centra en la líder religiosa 
- Ann Lee\, fundadora del Movimiento Shaker a finales de la década de 1770\
- , llegó a construir una de las sociedades utópicas más grandes de la hi
- storia de Estados Unidos. Los seguidores de Lee la consideraban el Jesucri
- sto femenino\, y sus fieles le rezaban cantando y bailando.\n\nOriginal ti
- tle: The Testament of Ann Lee\n\nRelease year: 2025\n\nOriginal language: 
- EN\n\nAudio: VOSE\n\nhttps://cinesembajadores.es/pelicula/el-testamento-de
- -ann-lee-vose/?ciudad=madrid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pillion
-DTSTART;TZID=Europe/Madrid:20260316T200000
-DTEND;TZID=Europe/Madrid:20260316T214600
-UID:d0052390f6b4245b5af1f05ec26244039dafb523a3f84559ff906cbda04f2e7c
-CATEGORIES:cinema
-DESCRIPTION:Colin\, un hombre introvertido\, se queda prendado de Ray\, el
-  carismático y atractivo líder de una banda de moteros que le toma como 
- sumiso\, dinamitando su rutina y cambiándole la vida.\n\nRelease year: 20
- 25\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://cinesembajadores.es/
- pelicula/pillion-vose/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Torrente presidente
-DTSTART;TZID=Europe/Madrid:20260316T202000
-DTEND;TZID=Europe/Madrid:20260316T220300
-UID:de8f0771b893f4fd21faf8354a7e058bff13ccb0668d6a172b3385c1990c9b37
-CATEGORIES:cinema
-DESCRIPTION:Sexta entrega de Torrente. Como nota informativa\, la películ
- a no tendrá ni tráiler ni póster ni se mostrará en pases de prensa pre
- vios a su estreno en cines\, en una maniobra de marketing de Santiago Segu
- ra con el fin de preservar las sorpresas y cameos hasta que los fans la pu
- edan ver.\n\nRelease year: 2026\n\nOriginal language: ES\n\nhttps://cinese
- mbajadores.es/pelicula/torrente-presidente/?ciudad=madrid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El Último Vikingo
-DTSTART;TZID=Europe/Madrid:20260316T202000
-UID:b5cefcbdb2d377c6d1358d11242e90c1dea9ae0d1f1b95daa0f1c642dac9cce9
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 116 min
- utos | No recomendada para menores de 16 años\n\nOriginal title: Den sids
- te viking\n\nRelease year: 2025\n\nOriginal language: DA\n\nAudio: VOSE\n\
- nhttps://www.pillalas.com/pase/1058836/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:No Hay Otra Opción
-DTSTART;TZID=Europe/Madrid:20260316T202000
-UID:542a70d6ada95f7e1892d7f23f5dce6c16bfa721a32210162b578440e13a9e83
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 139 min
- utos | Pendiente de calificación\n\nOriginal title: 어쩔수가없다\n\
- nRelease year: 2025\n\nOriginal language: KO\n\nAudio: VOSE\n\nhttps://www
- .pillalas.com/pase/1058899/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Valor Sentimental
-DTSTART;TZID=Europe/Madrid:20260316T202000
-UID:b0dbfb7a05ca7f0d8e97d76a5ad532f3de49b90a45c81c24bc870a1e0a5c1453
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 133 min
- utos | No recomendada para menores de 12 años\n\nOriginal title: Affeksjo
- nsverdi\n\nRelease year: 2025\n\nOriginal language: NO\n\nAudio: VOSE\n\nh
- ttps://www.pillalas.com/pase/1058837/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Águilas De El Cairo
-DTSTART;TZID=Europe/Madrid:20260316T202000
-UID:0d057fdeba787e50d2723730f0908193e5df6457b51dd25970bfd44976bf3f21
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 128 min
- utos | No recomendada para menores de 16 años\n\nAudio: VOSE\n\nhttps://w
- ww.pillalas.com/pase/1058927/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Orwell 2+2 = 5
-DTSTART;TZID=Europe/Madrid:20260316T203000
-UID:a8771c7e249dd2dca2185262647a2c1abb3a1a64fd12e995559c961bff692be7
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 119 min
- utos | No recomendada para menores de 16 años\n\nRelease year: 2025\n\nOr
- iginal language: EN\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/105883
- 8/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Waves Pictures
-DTSTART;TZID=Europe/Madrid:20260316T203000
-UID:7d559d4a44b24884e91e4956e26c0de3717072559285a5265311ffc33ceee69b
-CATEGORIES:music
-DESCRIPTION:Concierto / Pop / Rock\n\nhttps://salavillanos.es/evento/the-w
- aves-pictures/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:¡La novia!
-DTSTART;TZID=Europe/Madrid:20260316T223000
-DTEND;TZID=Europe/Madrid:20260317T003600
-UID:859187ac9f5d3b7e295fd3a9a2c97da177e4bf9d31b158d607ffaddb0e2f2f8d
-CATEGORIES:cinema
-DESCRIPTION:En el Chicago de los años 30\, Frankenstein pide ayuda al Dr.
-  Euphronius para crear una compañera. Dan vida a una mujer asesinada como
-  la Novia\, lo que desencadena un romance\, el interés de la policía y u
- n cambio social radical. Remake de "La novia de Frankenstein".\n\nOriginal
-  title: The Bride!\n\nRelease year: 2026\n\nOriginal language: EN\n\nAudio
- : VOSE\n\nhttps://cinesembajadores.es/pelicula/la-novia-vose/?ciudad=madri
- d
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hamnet
-DTSTART;TZID=Europe/Madrid:20260316T223000
-DTEND;TZID=Europe/Madrid:20260317T003500
-UID:432669fd7575797889cedcf9670980550e35bee5d706b4a0c525430d38ed11ea
-CATEGORIES:cinema
-DESCRIPTION:Narra la historia de Agnes\, la esposa de William Shakespeare\
- , en su lucha por superar la pérdida de su único hijo\, Hamnet. Una hist
- oria humana y desgarradora como telón de fondo para la creación de la ob
- ra de Shakespeare\, Hamlet.\n\nRelease year: 2025\n\nOriginal language: EN
- \n\nAudio: VOSE\n\nhttps://cinesembajadores.es/pelicula/hamnet-vose/?ciuda
- d=madrid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:No Hay Otra Opción
-DTSTART;TZID=Europe/Madrid:20260316T223500
-UID:599e5f4f3027b132e0ff6d63fb3c3e257eb391ca7636bf281a6ac7fb51c9fcba
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 139 min
- utos | Pendiente de calificación\n\nOriginal title: 어쩔수가없다\n\
- nRelease year: 2025\n\nOriginal language: KO\n\nAudio: VOSE\n\nhttps://www
- .pillalas.com/pase/1058839/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El Último Vikingo
-DTSTART;TZID=Europe/Madrid:20260316T224500
-UID:ddd1e87cdb9be347fcaca88250d8f94f4549f9857af49e7670db2f770930ade7
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 116 min
- utos | No recomendada para menores de 16 años\n\nOriginal title: Den sids
- te viking\n\nRelease year: 2025\n\nOriginal language: DA\n\nAudio: VOSE\n\
- nhttps://www.pillalas.com/pase/1058900/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Tarta Del Presidente
-DTSTART;TZID=Europe/Madrid:20260316T224500
-UID:235ffd4b6b5eeb96ecb86c2d6fbae0957d640d3b2af9ce82c967ea4b8b10c69c
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 105 min
- utos | No recomendada para menores de 12 años\n\nOriginal title: The Pres
- ident's Cake\n\nRelease year: 2025\n\nOriginal language: EN\n\nAudio: VOSE
- \n\nhttps://www.pillalas.com/pase/1058842/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Orwell 2+2 = 5
-DTSTART;TZID=Europe/Madrid:20260316T224500
-UID:9a2988f2ad297acebe8a813d22256e6fddc7e4b3da017d7eda06be7eaf78ee6c
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 119 min
- utos | No recomendada para menores de 16 años\n\nRelease year: 2025\n\nOr
- iginal language: EN\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/105884
- 0/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Águilas De El Cairo
-DTSTART;TZID=Europe/Madrid:20260316T224500
-UID:9ab193ac58f2d953de4290a3090d42d33720db9e451218261d57565eef0e68ea
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 128 min
- utos | No recomendada para menores de 16 años\n\nAudio: VOSE\n\nhttps://w
- ww.pillalas.com/pase/1058928/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:El Último Vikingo
@@ -1168,17 +806,16 @@ DESCRIPTION:Versión Original subtitulada a Castellano | Duración 119 min
 LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hoppers
-DTSTART;TZID=Europe/Madrid:20260317T172000
-DTEND;TZID=Europe/Madrid:20260317T190400
-UID:72ddab748bfc4d95c21219da5615e199e5a08537ad146e71f68e71980134603d
+SUMMARY:Una batalla tras otra
+DTSTART;TZID=Europe/Madrid:20260317T170000
+DTEND;TZID=Europe/Madrid:20260317T194100
+UID:d00fbed1634c94908e5140e864d0813b811f17eca5cd1508c14b23d601b34191
 CATEGORIES:cinema
-DESCRIPTION:La historia sigue a una joven\, Mabel\, que puede transferir s
- u mente a un castor robot con el objetivo de infiltrarse en el reino anima
- l. Acaba haciéndose amiga de un castor regio\, el Rey Jorge\, y uniendo a
-  los animales para luchar contra los planes de un promotor inmobiliario.\n
- \nRelease year: 2026\n\nOriginal language: EN\n\nAudio: Doblada ES\n\nhttp
- s://cinesembajadores.es/pelicula/hoppers-doblada-al-espanol/?ciudad=madrid
+DESCRIPTION:Versión moderna de la novela 'Vineland'\, de Thomas Pynchon\,
+  escrita en 1990\, sobre los movimientos radicales de los años sesenta.\n
+ \nOriginal title: One Battle After Another\n\nRelease year: 2025\n\nOrigin
+ al language: EN\n\nAudio: Doblada ES\n\nhttps://cinesembajadores.es/pelicu
+ la/una-batalla-tras-otra-doblada-al-espanol/?ciudad=madrid
 LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
 END:VEVENT
 BEGIN:VEVENT
@@ -1440,6 +1077,19 @@ DESCRIPTION:Concierto / Electronic / Jazz\n\nhttps://salavillanos.es/event
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Una batalla tras otra
+DTSTART;TZID=Europe/Madrid:20260317T201000
+DTEND;TZID=Europe/Madrid:20260317T225100
+UID:49c50ea5ad9b75b08f73510f10d159d5de62c445f68e4c4da39700dbd6f688d8
+CATEGORIES:cinema
+DESCRIPTION:Versión moderna de la novela 'Vineland'\, de Thomas Pynchon\,
+  escrita en 1990\, sobre los movimientos radicales de los años sesenta.\n
+ \nOriginal title: One Battle After Another\n\nRelease year: 2025\n\nOrigin
+ al language: EN\n\nAudio: Doblada ES\n\nhttps://cinesembajadores.es/pelicu
+ la/una-batalla-tras-otra-doblada-al-espanol/?ciudad=madrid
+LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:El Último Vikingo
 DTSTART;TZID=Europe/Madrid:20260317T202000
 UID:6fa25e2191ed729f1fb06d8840cda2c3f0268ca481c9a9454f5d4fc8771ef7ef
@@ -1521,6 +1171,20 @@ DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://www.entradas.com/artist/
  asco/?Affiliate=RIV
 LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
  id
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hamnet
+DTSTART;TZID=Europe/Madrid:20260317T215000
+DTEND;TZID=Europe/Madrid:20260317T235500
+UID:7dd2f5c15778dcd71c28ae79cd9a3a23c86aaef9adab5d3639aeb8f8701953d4
+CATEGORIES:cinema
+DESCRIPTION:Narra la historia de Agnes\, la esposa de William Shakespeare\
+ , en su lucha por superar la pérdida de su único hijo\, Hamnet. Una hist
+ oria humana y desgarradora como telón de fondo para la creación de la ob
+ ra de Shakespeare\, Hamlet.\n\nRelease year: 2025\n\nOriginal language: EN
+ \n\nAudio: VOSE\n\nhttps://cinesembajadores.es/pelicula/hamnet-vose/?ciuda
+ d=madrid
+LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pillion
@@ -1734,6 +1398,20 @@ DESCRIPTION:Versión Original subtitulada a Castellano | Duración 119 min
 LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Hamnet
+DTSTART;TZID=Europe/Madrid:20260318T170000
+DTEND;TZID=Europe/Madrid:20260318T190500
+UID:83bc3ac837cb35f914dd3f25dd52d4bc349978c8a2958be231f86bd8ab9919e0
+CATEGORIES:cinema
+DESCRIPTION:Narra la historia de Agnes\, la esposa de William Shakespeare\
+ , en su lucha por superar la pérdida de su único hijo\, Hamnet. Una hist
+ oria humana y desgarradora como telón de fondo para la creación de la ob
+ ra de Shakespeare\, Hamlet.\n\nRelease year: 2025\n\nOriginal language: EN
+ \n\nAudio: VOSE\n\nhttps://cinesembajadores.es/pelicula/hamnet-vose/?ciuda
+ d=madrid
+LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:El beso de Judas (1954)
 DTSTART;TZID=Europe/Madrid:20260318T173000
 UID:2cbf1f1c59b16cde7675060798b825abddce48824ef8e1f8fdf3ad11c1f8efc5
@@ -1905,11 +1583,24 @@ LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
  \, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Una batalla tras otra
+DTSTART;TZID=Europe/Madrid:20260318T193000
+DTEND;TZID=Europe/Madrid:20260318T221100
+UID:14593b5ff361415c8fe960dbbe730290a2279834bf426fc7ff402d17135ee092
+CATEGORIES:cinema
+DESCRIPTION:Versión moderna de la novela 'Vineland'\, de Thomas Pynchon\,
+  escrita en 1990\, sobre los movimientos radicales de los años sesenta.\n
+ \nOriginal title: One Battle After Another\n\nRelease year: 2025\n\nOrigin
+ al language: EN\n\nAudio: VOSE\n\nhttps://cinesembajadores.es/pelicula/una
+ -batalla-tras-otra-vose/?ciudad=madrid
+LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Los árboles no votan
 DTSTART;TZID=Europe/Madrid:20260318T193000
 UID:9b304fa7431b27c728aa6affc234087873d3dbd8b22c43f66c71e53546e47736
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 17 plazas!\n\nhttps://teatrodelbarrio.com/los
+DESCRIPTION:¡Ya solo quedan 15 plazas!\n\nhttps://teatrodelbarrio.com/los
  -arboles-no-votan/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
@@ -2059,6 +1750,19 @@ DESCRIPTION:Versión Original subtitulada a Castellano | Duración 119 min
 LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Una batalla tras otra
+DTSTART;TZID=Europe/Madrid:20260318T220000
+DTEND;TZID=Europe/Madrid:20260319T004100
+UID:ab3b79d63079b4dbac610dc2a104c843f8cf4c4dcf08e7f1a0e28ae540d3c954
+CATEGORIES:cinema
+DESCRIPTION:Versión moderna de la novela 'Vineland'\, de Thomas Pynchon\,
+  escrita en 1990\, sobre los movimientos radicales de los años sesenta.\n
+ \nOriginal title: One Battle After Another\n\nRelease year: 2025\n\nOrigin
+ al language: EN\n\nAudio: VOSE\n\nhttps://cinesembajadores.es/pelicula/una
+ -batalla-tras-otra-vose/?ciudad=madrid
+LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Juicy Sessions
 DTSTART;TZID=Europe/Madrid:20260318T220000
 UID:23b861b386fb774f5711fbbc6df2b18a327fe0679bd308bbd5f569a93dc011fb
@@ -2140,18 +1844,17 @@ DESCRIPTION:La historia sigue a un hombre de mediana edad llamado Man-su q
 LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:¡La novia!
+SUMMARY:Hamnet
 DTSTART;TZID=Europe/Madrid:20260318T223500
-DTEND;TZID=Europe/Madrid:20260319T004100
-UID:3358050881f016c95dde58ac511de9d900e2ad8ca1789d4b0559ef50760f5879
+DTEND;TZID=Europe/Madrid:20260319T004000
+UID:4e7906d27d71140ae39652706b872e48be9012ffc263779b7b27cd16e40e8160
 CATEGORIES:cinema
-DESCRIPTION:En el Chicago de los años 30\, Frankenstein pide ayuda al Dr.
-  Euphronius para crear una compañera. Dan vida a una mujer asesinada como
-  la Novia\, lo que desencadena un romance\, el interés de la policía y u
- n cambio social radical. Remake de "La novia de Frankenstein".\n\nOriginal
-  title: The Bride!\n\nRelease year: 2026\n\nOriginal language: EN\n\nAudio
- : VOSE\n\nhttps://cinesembajadores.es/pelicula/la-novia-vose/?ciudad=madri
- d
+DESCRIPTION:Narra la historia de Agnes\, la esposa de William Shakespeare\
+ , en su lucha por superar la pérdida de su único hijo\, Hamnet. Una hist
+ oria humana y desgarradora como telón de fondo para la creación de la ob
+ ra de Shakespeare\, Hamlet.\n\nRelease year: 2025\n\nOriginal language: EN
+ \n\nAudio: VOSE\n\nhttps://cinesembajadores.es/pelicula/hamnet-vose/?ciuda
+ d=madrid
 LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
 END:VEVENT
 BEGIN:VEVENT
@@ -2263,6 +1966,34 @@ DESCRIPTION:Versión Original subtitulada a Castellano | Duración 119 min
 LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Hamnet
+DTSTART;TZID=Europe/Madrid:20260319T170000
+DTEND;TZID=Europe/Madrid:20260319T190500
+UID:d17d910f13e0f31de0fc666dc7d5b15e5f94ef271847ac55400425c03ac70f25
+CATEGORIES:cinema
+DESCRIPTION:Narra la historia de Agnes\, la esposa de William Shakespeare\
+ , en su lucha por superar la pérdida de su único hijo\, Hamnet. Una hist
+ oria humana y desgarradora como telón de fondo para la creación de la ob
+ ra de Shakespeare\, Hamlet.\n\nRelease year: 2025\n\nOriginal language: EN
+ \n\nAudio: VOSE\n\nhttps://cinesembajadores.es/pelicula/hamnet-vose/?ciuda
+ d=madrid
+LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hoppers
+DTSTART;TZID=Europe/Madrid:20260319T171500
+DTEND;TZID=Europe/Madrid:20260319T185900
+UID:0f68824b350e342e3f336f802692d7fc6baa9bb7e622b3585bda53d9da3a86e3
+CATEGORIES:cinema
+DESCRIPTION:La historia sigue a una joven\, Mabel\, que puede transferir s
+ u mente a un castor robot con el objetivo de infiltrarse en el reino anima
+ l. Acaba haciéndose amiga de un castor regio\, el Rey Jorge\, y uniendo a
+  los animales para luchar contra los planes de un promotor inmobiliario.\n
+ \nRelease year: 2026\n\nOriginal language: EN\n\nAudio: Doblada ES\n\nhttp
+ s://cinesembajadores.es/pelicula/hoppers-doblada-al-espanol/?ciudad=madrid
+LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:El último vikingo
 DTSTART;TZID=Europe/Madrid:20260319T172000
 DTEND;TZID=Europe/Madrid:20260319T191600
@@ -2320,20 +2051,6 @@ DESCRIPTION:Inspirada en hechos reales\, se centra en la líder religiosa
  EN\n\nAudio: VOSE\n\nhttps://cinesembajadores.es/pelicula/el-testamento-de
  -ann-lee-vose/?ciudad=madrid
 LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hoppers
-DTSTART;TZID=Europe/Madrid:20260319T173000
-DTEND;TZID=Europe/Madrid:20260319T191400
-UID:024b410260585d313d2ce6c1100ce09d87eb121dd5c11f1be532aa0e4d10e8de
-CATEGORIES:cinema
-DESCRIPTION:La historia sigue a una joven\, Mabel\, que puede transferir s
- u mente a un castor robot con el objetivo de infiltrarse en el reino anima
- l. Acaba haciéndose amiga de un castor regio\, el Rey Jorge\, y uniendo a
-  los animales para luchar contra los planes de un promotor inmobiliario.\n
- \nRelease year: 2026\n\nOriginal language: EN\n\nAudio: Doblada ES\n\nhttp
- s://cinesembajadores.es/pelicula/hoppers-doblada-al-espanol/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tres adioses
@@ -2420,6 +2137,24 @@ DESCRIPTION:La familia Skaug se reúne tras el funeral de un exitoso empre
  se year: 2020\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://www.cinet
  ecamadrid.com/programacion/la-herencia
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Las locas del obelisco
+DTSTART;TZID=Europe/Madrid:20260319T192000
+DTEND;TZID=Europe/Madrid:20260319T211200
+UID:c6ff2793674d7531d8979da0715f454f36673b788591eae8202f4e99a6364318
+CATEGORIES:cinema
+DESCRIPTION:Madrid\, finales del siglo XIX. María Ana Allsopp\, una joven
+  de la alta sociedad\, se conmueve profundamente ante la situación de mil
+ es de mujeres que han llegado a la capital buscando ganarse la vida y se v
+ en obligadas a vender su cuerpo en las calles. Junto al padre Francisco de
+  Asís Méndez funda una nueva congregación: Las Trinitarias\, una casa c
+ on las puertas abiertas día y noche\, un refugio seguro para tantas mujer
+ es abandonadas. Pero pronto se ciernen amenazas desde el exterior sobre es
+ te grupo decidido de mujeres cuya “locura” es salvar y devolver la dig
+ nidad a todas aquellas que la han perdido.\n\nOriginal language: ES\n\nhtt
+ ps://cinesembajadores.es/pelicula/las-locas-del-obelisco/?ciudad=madrid
+LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Las locas del obelisco
@@ -2637,6 +2372,19 @@ DESCRIPTION:Precio de las entradas: gratuito hasta completar aforo Bio/enl
 LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Una batalla tras otra
+DTSTART;TZID=Europe/Madrid:20260319T214500
+DTEND;TZID=Europe/Madrid:20260320T002600
+UID:c1272f601f0405bb7827bda67dbcf189b429c55d2a1fe90885e70281f4761f28
+CATEGORIES:cinema
+DESCRIPTION:Versión moderna de la novela 'Vineland'\, de Thomas Pynchon\,
+  escrita en 1990\, sobre los movimientos radicales de los años sesenta.\n
+ \nOriginal title: One Battle After Another\n\nRelease year: 2025\n\nOrigin
+ al language: EN\n\nAudio: VOSE\n\nhttps://cinesembajadores.es/pelicula/una
+ -batalla-tras-otra-vose/?ciudad=madrid
+LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:El testamento de Ann Lee
 DTSTART;TZID=Europe/Madrid:20260319T220000
 DTEND;TZID=Europe/Madrid:20260320T001000
@@ -2811,16 +2559,6 @@ DESCRIPTION:Fecha y Hora: Viernes 20 de Marzo a las 17:30h (Sala 1. Kel
  descripcion/corazon-verde
 LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
  \, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Utopía en llamas
-DTSTART;TZID=Europe/Madrid:20260320T180000
-DTEND;TZID=Europe/Madrid:20260426T180000
-UID:a2d55cc52793d807a2dc3a7a9b1845d2fab03f29c67826917a62789076be6586
-CATEGORIES:theater
-DESCRIPTION:Texto Alda Lozano Dirección Concha Delgado y Sandra Ferrús\n
- \nhttps://dramatico.inaem.gob.es/evento/utopia-en-llamas/
-LOCATION:Teatro Maria Guerrero - Calle de Tamayo y Baus\, 4\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Les 2 Alfred
@@ -3225,27 +2963,6 @@ DESCRIPTION:William Munny (Clint Eastwood) es un pistolero retirado\, viud
 LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ganas de vivir
-DTSTART;TZID=Europe/Madrid:20260322T120000
-DTEND;TZID=Europe/Madrid:20260322T131100
-UID:6e76a557ea08025224081ed8c66b2835a51e818a673c86e31b20585122e01319
-CATEGORIES:cinema
-DESCRIPTION:«Ganas de vivir» narra la extraordinaria historia de Desiré
- e Vila\, una joven atleta española de referencia en el deporte adaptado\,
-  reconocida tanto por sus éxitos en la pista como por su capacidad para i
- nspirar a través de su historia personal. A los 16 años\, cuando era cam
- peona de España de gimnasia acrobática\, sufrió una grave lesión que\,
-  a causa de una negligencia médica\, derivó en la amputación de su pier
- na derecha. Lejos de rendirse\, encontró en el atletismo su nueva pasión
-  y\, en tan solo un año\, se proclamó campeona de España en 100 metros 
- y salto de longitud. Desde entonces ha batido varios récords nacionales y
-  logrado un diploma olímpico en los Juegos Paralímpicos de Tokio\, conso
- lidándose como una de las voces más influyentes en favor de la igualdad\
- , la inclusión y la superación personal.\n\nhttps://cinesembajadores.es/
- pelicula/ganas-de-vivir/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:VILLAMOLINOS matinés musicales
 DTSTART;TZID=Europe/Madrid:20260322T130000
 UID:50bd21eb5b613118a353660bc4671cc3428e7684d9b14823bbc55d1ce31ce89c
@@ -3498,7 +3215,7 @@ SUMMARY:Estreno del documental "Soy Tribulete 7"
 DTSTART;TZID=Europe/Madrid:20260324T190000
 UID:31b437b3eda05a1e740335efe80de82fc1a327bdac1badf77b22270e69a4f63c
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 2 plazas!\n\nhttps://teatrodelbarrio.com/estr
+DESCRIPTION:¡Ya solo quedan 1 plazas!\n\nhttps://teatrodelbarrio.com/estr
  eno-del-documental-soy-tribulete-7/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
@@ -3598,92 +3315,92 @@ CATEGORIES:other
 DESCRIPTION:Diálogo conversacional y visual entre los creadores de los fo
  tolibros Utopías urbanísticas. 44 paseos por las colonias de Madrid y To
  ldo Verde. Postales de otro patrimonio . Miércoles 25 de marzo de 2026. 1
- 8.30h Diálogo en el que se sitúan nuevas miradas sobre el desarrollo urb
- anístico de nuestra ciudad. Perspectivas y análisis que no parten de un 
- plano urbano\, sino que despliegan herramientas como derivas\, paisajes vi
- suales y narrativas en busca de nuevas formas críticas de leer los proces
- os de transformación de la vivienda en la ciudad. Una sesión en la que s
- e verán emerger paisajes urbanos que reflejan las huellas de la historia\
- , las formas de gobernanza\, los procesos sociales\, las formas de vida ve
- cinales. Formas y representaciones de poder que se dan en lo urbano frente
-  a anhelos\, ilusiones e imaginarios\, en última instancia derechos funda
- mentales\, de la vivienda. Intervienen Pedro Zuazua Gil\, co-autor junto c
- on David Expósito de Utopías urbanísticas. 44 paseos por las colonias d
- e Madrid \, Pablo Arbodela y Kike Carbajal\, co-autores de Toldo verde. Po
- stales de otro patrimonio \, acompañados por Jara Blanco Aguilar. Pedro Z
- uazua Gil \, co-autor junto con el fotógrafo David Expósito de ‘Utopí
- as urbanísticas\, 44 paseos por las colonias de Madrid’ (Altamarea Edic
- iones\, 2024)\, Licenciado en Filología Hispánica por la Universidad de 
- Oviedo\, máster en Periodismo UAM-EL PAÍS y Recursos Humanos por IE. Ha 
- trabajado en la Fundación Princesa de Asturias y en el Centro Niemeyer y 
- en 2010 se incorporó a El País. Es autor también de ‘Días para ser g
- ato’ (Duomo ediciones\, 2022) y ‘En mi casa no entra un gato: diario d
- e un gatuno primerizo’ (Duomo ediciones\, 2018). Pablo Arboleda \, co-au
- tor de ‘Toldo verde. Postales de otro patrimonio’ (Ediciones Asimétri
- cas\, 2024)\, investigador en el Instituto de Lengua\, Literatura y Antrop
- ología del Consejo Superior de Investigaciones Científicas (ILLA-CSIC) y
-  arquitecto de formación\, ha trabajado en varias universidades de Españ
- a\, Francia\, Canadá\, Alemania y Escocia\, con un perfil en estudios pat
- rimoniales\, estudios urbanos\, geografía\, antropología cultural y arte
- s visuales. Autor de una treintena de publicaciones científicas que se nu
- tren de la fotografía\, el video\, el cómic o la poesía\, su trabajo ap
- uesta por la creatividad como estrategia más allá de la academia. Toldo 
- verde supone su primera incursión a la periferia urbana entendida como re
- alidad cultural y patrimonial. Kike Carbajal \, co-autor de ‘Toldo verde
- . Postales de otro patrimonio’ (Ediciones Asimétricas\, 2024)\, es fot
- ógrafo cuyo trabajo ha basculado entre editoriales\, prensa\, comunicaci
- ón y una práctica atravesada por el género documental\, la antropologí
- a visual y la fotografía urbana. Investiga desde lo más cotidiano a lo m
- ás devastador: como la desaparición del pequeño comercio o la evolució
- n de los empleados de una empresa “puntocom” a la realidad de personas
-  albinas en Mozambique o pigmeos Baka en Camerún. Somos la calle (Popurri
- t\, 2017) fue su primer libro\, una exploración en clave de street photog
- raphy sobre los habitantes de la capital\; Toldo verde aborda desde la fot
- ografía urbana y otro ángulo la misma realidad de calle. Jara Blanco Agu
- ilar es mediadora y gestora cultural\, con experiencia en el diseño y la 
- coordinación de proyectos educativos y colaborativos. Actualmente coordin
- a el programa comisarial Barrio(s) en el CCCQS–Quinta del Sordo. Desde a
- quí\, trabajan el diálogo entre arte contemporáneo y territorio a trav
- és de exposiciones y acciones públicas centradas en los imaginarios de l
- os barrios de la ciudad. Es coautora de investigaciones colaborativas sobr
- e arte y ciudad\, artefactos móviles y metodologías de mediación cultur
- al\, y coordina evaluaciones de proyectos culturales y comunitarios. Forma
-  parte del grupo motor de AMECUM\, y desde 2021 también es asesora de cul
- tura del Centro Botín\, donde promueve la creación de redes y vínculos 
- entre la institución y la comunidad artística. Referencias Utopías urba
- nísticas. 44 Paseos por las colonias de Madrid (Altamarea Ediciones 2024)
- \, Pedro Zuazua Gil y David Expósito. Una tarde de sábado de 2020\, Pedr
- o Zuazua se subió a su bicicleta y empezó a recorrer las colonias histó
- ricas de Madrid. A través de conversaciones con vecinos\, arquitectos\, h
- istoriadores o antiguos alcaldes\, fue tejiendo un mapa con la historia y 
- las historias de estos singulares emplazamientos urbanísticos que resiste
- n al paso del tiempo en la ciudad. El resultado es un conjunto de crónica
- s de aires costumbristas\, en los que el paisanaje se funde con el legado 
- arquitectónico de una época que ya no existe más allá de los límites 
- que marcan estas pequeñas utopías construidas para hacer mejor la vida d
- e sus habitantes. https://altamarea.es/producto/utopias-urbanisticas-44-pa
- seos-por-las-colonias-de-madrid/ El toldo verde. Postales de otro patrimon
- io (Ediciones Asimétricas 2024)\, Pablo Arbodela y Kike Carbajal. En el c
- ontexto del desarrollismo franquista\, un enorme número de viviendas fuer
- on erigidas en las periferias de las principales ciudades de nuestro país
- . Densos tejidos urbanos\, edificios tan homogéneos como anodinos\, un pa
- isaje identificativo de una España que\, experimentando cambios\, llega h
- asta nuestros días. El arquitecto-investigador Pablo Arboleda nos present
- a esta realidad imperfecta en clave patrimonial\, donde el término “pat
- rimonio” queda despojado de idealismo para erigirse en un espejo que inv
- ita a la sociedad a reconocerse tal como es. Paralelamente\, el fotógrafo
-  Kike Carbajal documenta un Madrid que podría ser muchas otras ciudades y
-  desde cuyas entrañas emerge un imaginario común que eleva a la categor
- ía de “postal” unas estampas extrañamente familiares. La conjunción
-  de ambos autores deriva en un rico ejercicio de introspección sobre las 
- paradojas que encierran nuestras ciudades\, basculando siempre entre la re
- ivindicación y el cuestionamiento. Una observación pausada y paseada sob
- re lo que\, por cercano\, nunca hemos mirado. Un pasado presente cuya narr
- ativa está necesitada de gestos que contribuyan a construir una imagen de
-  España más amplia\, honesta e inclusiva. https://edicionesasimetricas.c
- om/Toldo-Verde-Postales-de-otro-Patrimonio-Pablo-Arboleda-y-Kike-Carbajal 
- Imagen: fotografía de Kike Carbajal.\n\nhttps://www.mataderomadrid.org/pr
- ogramacion/otra-historia-del-urbanismo-de-madrid
+ 8.30h. Nave Una. Diálogo en el que se sitúan nuevas miradas sobre el des
+ arrollo urbanístico de nuestra ciudad. Perspectivas y análisis que no pa
+ rten de un plano urbano\, sino que despliegan herramientas como derivas\, 
+ paisajes visuales y narrativas en busca de nuevas formas críticas de leer
+  los procesos de transformación de la vivienda en la ciudad. Una sesión 
+ en la que se verán emerger paisajes urbanos que reflejan las huellas de l
+ a historia\, las formas de gobernanza\, los procesos sociales\, las formas
+  de vida vecinales. Formas y representaciones de poder que se dan en lo ur
+ bano frente a anhelos\, ilusiones e imaginarios\, en última instancia der
+ echos fundamentales\, de la vivienda. Intervienen Pedro Zuazua Gil\, co-au
+ tor junto con David Expósito de Utopías urbanísticas. 44 paseos por las
+  colonias de Madrid \, Pablo Arbodela y Kike Carbajal\, co-autores de Told
+ o verde. Postales de otro patrimonio \, acompañados por Jara Blanco Aguil
+ ar. Pedro Zuazua Gil \, co-autor junto con el fotógrafo David Expósito d
+ e ‘Utopías urbanísticas\, 44 paseos por las colonias de Madrid’ (Alt
+ amarea Ediciones\, 2024)\, Licenciado en Filología Hispánica por la Univ
+ ersidad de Oviedo\, máster en Periodismo UAM-EL PAÍS y Recursos Humanos 
+ por IE. Ha trabajado en la Fundación Princesa de Asturias y en el Centro 
+ Niemeyer y en 2010 se incorporó a El País. Es autor también de ‘Días
+  para ser gato’ (Duomo ediciones\, 2022) y ‘En mi casa no entra un gat
+ o: diario de un gatuno primerizo’ (Duomo ediciones\, 2018). Pablo Arbole
+ da \, co-autor de ‘Toldo verde. Postales de otro patrimonio’ (Edicione
+ s Asimétricas\, 2024)\, investigador en el Instituto de Lengua\, Literatu
+ ra y Antropología del Consejo Superior de Investigaciones Científicas (I
+ LLA-CSIC) y arquitecto de formación\, ha trabajado en varias universidade
+ s de España\, Francia\, Canadá\, Alemania y Escocia\, con un perfil en e
+ studios patrimoniales\, estudios urbanos\, geografía\, antropología cult
+ ural y artes visuales. Autor de una treintena de publicaciones científica
+ s que se nutren de la fotografía\, el video\, el cómic o la poesía\, su
+  trabajo apuesta por la creatividad como estrategia más allá de la acade
+ mia. Toldo verde supone su primera incursión a la periferia urbana entend
+ ida como realidad cultural y patrimonial. Kike Carbajal \, co-autor de ‘
+ Toldo verde. Postales de otro patrimonio’ (Ediciones Asimétricas\, 2024
+ )\, es fotógrafo cuyo trabajo ha basculado entre editoriales\, prensa\, c
+ omunicación y una práctica atravesada por el género documental\, la ant
+ ropología visual y la fotografía urbana. Investiga desde lo más cotidia
+ no a lo más devastador: como la desaparición del pequeño comercio o la 
+ evolución de los empleados de una empresa “puntocom” a la realidad de
+  personas albinas en Mozambique o pigmeos Baka en Camerún. Somos la calle
+  (Popurrit\, 2017) fue su primer libro\, una exploración en clave de stre
+ et photography sobre los habitantes de la capital\; Toldo verde aborda des
+ de la fotografía urbana y otro ángulo la misma realidad de calle. Jara B
+ lanco Aguilar es mediadora y gestora cultural\, con experiencia en el dise
+ ño y la coordinación de proyectos educativos y colaborativos. Actualment
+ e coordina el programa comisarial Barrio(s) en el CCCQS–Quinta del Sordo
+ . Desde aquí\, trabajan el diálogo entre arte contemporáneo y territori
+ o a través de exposiciones y acciones públicas centradas en los imaginar
+ ios de los barrios de la ciudad. Es coautora de investigaciones colaborati
+ vas sobre arte y ciudad\, artefactos móviles y metodologías de mediació
+ n cultural\, y coordina evaluaciones de proyectos culturales y comunitario
+ s. Forma parte del grupo motor de AMECUM\, y desde 2021 también es asesor
+ a de cultura del Centro Botín\, donde promueve la creación de redes y v
+ ínculos entre la institución y la comunidad artística. Referencias Utop
+ ías urbanísticas. 44 Paseos por las colonias de Madrid (Altamarea Edicio
+ nes 2024)\, Pedro Zuazua Gil y David Expósito. Una tarde de sábado de 20
+ 20\, Pedro Zuazua se subió a su bicicleta y empezó a recorrer las coloni
+ as históricas de Madrid. A través de conversaciones con vecinos\, arquit
+ ectos\, historiadores o antiguos alcaldes\, fue tejiendo un mapa con la hi
+ storia y las historias de estos singulares emplazamientos urbanísticos qu
+ e resisten al paso del tiempo en la ciudad. El resultado es un conjunto de
+  crónicas de aires costumbristas\, en los que el paisanaje se funde con e
+ l legado arquitectónico de una época que ya no existe más allá de los 
+ límites que marcan estas pequeñas utopías construidas para hacer mejor 
+ la vida de sus habitantes. https://altamarea.es/producto/utopias-urbanisti
+ cas-44-paseos-por-las-colonias-de-madrid/ El toldo verde. Postales de otro
+  patrimonio (Ediciones Asimétricas 2024)\, Pablo Arbodela y Kike Carbajal
+ . En el contexto del desarrollismo franquista\, un enorme número de vivie
+ ndas fueron erigidas en las periferias de las principales ciudades de nues
+ tro país. Densos tejidos urbanos\, edificios tan homogéneos como anodino
+ s\, un paisaje identificativo de una España que\, experimentando cambios\
+ , llega hasta nuestros días. El arquitecto-investigador Pablo Arboleda no
+ s presenta esta realidad imperfecta en clave patrimonial\, donde el térmi
+ no “patrimonio” queda despojado de idealismo para erigirse en un espej
+ o que invita a la sociedad a reconocerse tal como es. Paralelamente\, el f
+ otógrafo Kike Carbajal documenta un Madrid que podría ser muchas otras c
+ iudades y desde cuyas entrañas emerge un imaginario común que eleva a la
+  categoría de “postal” unas estampas extrañamente familiares. La con
+ junción de ambos autores deriva en un rico ejercicio de introspección so
+ bre las paradojas que encierran nuestras ciudades\, basculando siempre ent
+ re la reivindicación y el cuestionamiento. Una observación pausada y pas
+ eada sobre lo que\, por cercano\, nunca hemos mirado. Un pasado presente c
+ uya narrativa está necesitada de gestos que contribuyan a construir una i
+ magen de España más amplia\, honesta e inclusiva. https://edicionesasime
+ tricas.com/Toldo-Verde-Postales-de-otro-Patrimonio-Pablo-Arboleda-y-Kike-C
+ arbajal Imagen: fotografía de Kike Carbajal.\n\nhttps://www.mataderomadri
+ d.org/programacion/otra-historia-del-urbanismo-de-madrid
 LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -3809,16 +3526,6 @@ LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
  \, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Airbourne
-DTSTART;TZID=Europe/Madrid:20260325T200000
-UID:22919b78c8fc76e1410bd06e3299eda729fbb0638711663f1ee6b2cc52330c46
-CATEGORIES:music
-DESCRIPTION:Apertura Puertas: 19:00 pm\n\nhttps://www.madnesslive.es/es/co
- nciertos-en-madrid/1832-comprar-entrada-airbourne-madrid.html
-LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
- id
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Eileen Alister
 DTSTART;TZID=Europe/Madrid:20260325T203000
 UID:3f3be289d94a71ee9ae74491e5c001a7c638827d8f0fc83caa56c91b531d35b4
@@ -3826,6 +3533,16 @@ CATEGORIES:music
 DESCRIPTION:Concierto / Jazz\n\nhttps://salavillanos.es/evento/eileen-alis
  ter/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Airbourne
+DTSTART;TZID=Europe/Madrid:20260325T210000
+UID:264e061666a5729e3c2406b18313bc8abd11e03b86bea19255f92a00951f71b9
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:00 pm\n\nhttps://www.madnesslive.es/es/co
+ nciertos-en-madrid/1832-comprar-entrada-airbourne-madrid.html
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Por los caminos del mapa de la espiritualidad: el arte manuscrito 
@@ -3858,141 +3575,141 @@ SUMMARY:Periferias del presente. Los barrios que me habitan
 DTSTART;TZID=Europe/Madrid:20260326T183000
 UID:a4521cd3208120c9b7ad33dadec14d09437622e653b33cfb3ed0e4178abdb228
 CATEGORIES:exhibition
-DESCRIPTION:Jueves 26 de marzo 2026\, 18.30h – 19.30h. Un diálogo que a
- borda una perspectiva situada sobre quiénes han habitado esos territorios
- \, quiénes lo hacen en el presente y qué otras geografías\, culturales 
- y afectivas\, viven en nosotras. Una conversación que transitará por las
-  identidades de barrio\, experiencias migrantes\, sentidos diversos de per
- tenencia y apropiación de los espacios urbanos para alcanzar una idea com
- pleja de la ciudad y modos de habitar. Esta sesión nos acercar a la retó
- rica e identidad de barrio como una forma de comprender los cambios que ha
- n ido haciendo y transformando la ciudad que habitamos en el presente\, de
- sde perspectivas documentales\, prácticas culturales\, asociacionismo vec
- inal\, urbanismo migrante y luchas por la vivienda. Intervienen los creado
- rxs de Un barrio saliendo del barro \, Javi y Santi Vaquero\, Aida dos San
- tos\, autora de Hijas del hormigón \, y Madrid Negro\, recorridos anticol
- oniales\, de la mano de Yeison F. García López. Modera Lucía Asué Mbom
- ío Rubio. Javi Vaquero es bailarina\, comunicadora y gestora. Su trabajo 
- se sitúa en la intersección entre comunicación\, cultura\, danza y acci
- ón social\, con atención a la creación de comunidades\, procesos partic
- ipativos y cambio narrativo. Se formó en danza en Codarts (Holanda) y cue
- nta con trayectoria internacional en danza contemporánea como intérprete
- \, creadora y facilitadora. Ha desarrollado labor docente en la Universida
- d Javeriana (Bogotá\, Colombia) y en la Universidad Católica (Lima\, Per
- ú). Reside en Madrid\, donde desarrolla proyectos de mediación cultural 
- y danza comunitaria en instituciones como el Museo Nacional Centro de Arte
-  Reina Sofía\, Intermediae Matadero\, Teatro Fernán Gómez y La Casa Enc
- endida. Su trabajo incluye procesos artísticos y educativos con comunidad
- es migrantes\, LGTBIQ+ y otros colectivos. Forma parte de Laintersección\
- , colectivo dedicado al cambio narrativo\, investigación y campañas cole
- ctivas\, donde diseña estrategias\, proyectos y procesos participativos v
- inculados a la justicia de género. Santi Vaquero nació en La Puebla de A
- lmoradiel en 1951. Ha sido molinero\, campesino\, albañil y activista y\,
-  sobre todo\, captador y donante de imágenes. Vivió durante muchos años
-  en Vallekas\, donde participó activamente en los movimientos vecinales d
- el barrio. Actualmente reside en Iruña. Autodidacta\, comenzó a fotograf
- iar en 1975 con una Nikon FM. Gran parte de su trabajo documenta los movim
- ientos sociales de los que ha formado parte desde los años setenta. Desde
-  entonces mantiene casi a diario el ritual de salir a fotografiar manifest
- aciones\, acciones\, actuaciones o\, simplemente\, la realidad que lo rode
- a. En 2022 inauguró su primera exposición\, ‘Un barrio saliendo del ba
- rro’\, que posteriormente recorrió distintos espacios de Madrid y dio l
- ugar al fotolibro del mismo nombre\, editado por Kit Caníbal. En 2024 for
- mó parte de la exposición ‘Casas Bajas’\, junto a La Liminal\, en La
-  Quinta del Sordo. Aida dos Santos \, autora de Hijas del hormigón: Histo
- rias de clasismo\, sexismo y violencia en las periferias españolas (Debat
- e\, 2025)\, es licenciada en Ciencias Políticas (UCM)\, está especializa
- da en técnica cuantitativa y en cuestiones de género. Ha ganado el Premi
- o del Centro de Excelencia Jean Monnet - Antonio Truyol en dos ocasiones\,
-  2011 y 2014. Trabaja como técnica de investigación social aplicada y an
- alista de datos además de colaborar con varios medios de comunicación. E
- n 2021\, inició el proyecto Hijas del hormigón basado en entrevistas a m
- ujeres procedentes de las periferias de grandes ciudades de España. Comen
- zó entrevistando a mujeres de su entorno\, marco que trascendió difundie
- ndo en redes sociales su metodología incluyendo preguntas comercios y ser
- vicios de los barrios\, condiciones económicas y obstáculos en el desarr
- ollo de sus vidas. El proyecto cristalizó en el libro Hijas del Hormigón
- \, a partir de entrevistas a 175 mujeres de entre las más de mil recogida
- s. Yeison F. García López es politólogo\, gestor cultural e investigado
- r. Creció en Madrid y se autoidentifica como afrocolombiano y afroespaño
- l. Director de Conciencia Afro y del Centro Cultural Espacio Afro\, y equi
- po curatorial del Festival Conciencia Afro. Ha creado y co-coordinado inic
- iativas como ‘Madrid Negro\, ecorridos anticoloniales’\, el ‘Laborat
- orio Afrodiaspórico de Memoria\, Creación y Patrimonio’\, el Seminario
-  ‘Trenzando saberes\, prácticas e imaginación colectiva ¿Qué entende
- mos por derechos culturales desde una perspectiva afrocentrada?’\, e ‘
- ITÁN: afromemorias\, comunidades y archivos’. En 2024 integró el equip
- o curatorial de ‘La memoria colonial en las colecciones Thyssen-Bornemis
- za’ en el Museo Nacional Thyssen-Bornemisza y participó en el catálogo
-  Pinacoteca Migrante\, del Pabellón de España en la 60ª Bienal de Arte 
- de Venecia. Parte del equipo convocado para el proceso de renovación muse
- ográfica 2025 del Museo de América\, co-dirige el programa ‘Memoria co
- lonial II. Sintonizar con los susurros’ en el Museo Nacional Thyssen-Bor
- nemisza\, actualmente forma parte del equipo curatorial de la Bienal Afrod
- iaspórica 2026\, Cali\, Colombia. Lucía Asué Mbomío Rubio es licenciad
- a en Ciencias de la Información\, diplomada en Guion y Dirección de docu
- mentales\, Máster en Desarrollo y Ayuda Internacional y Experta universit
- aria en gestión de la diversidad en el entorno empresarial. Trabaja como 
- reportera de televisión desde 2005 y ha pasado por Madrid Directo\, Espa
- ñoles en el Mundo\, el Método Gonzo y\, actualmente\, es uno de los rost
- ros de Aquí la Tierra (Tve1). Además\, colabora en prensa (El País\, P
- íkara o Infolibre\, donde es columnista) y radio (Cadena SER). Es cofunda
- dora de ‘Afromayores’\, un proyecto fotográfico y audiovisual sobre m
- emoria protagonizado por gente africana y afrodescendiente de más de 65 a
- ños que ha sido expuesto en Río de Janeiro\, NY o Dakar entre otras ciud
- ades. Es autora de tres libros: ‘Las que se atrevieron’ (Pigmalion Edy
- pro\, 2017)\, ‘Hija del camino’ (Grijalbo\, 2019) y ‘Tierra de la Lu
- z’ (B\, 2024). Referencias Un barrio saliendo del barrio (Editorial Kit 
- Caníbal\, 2024)\, Santi Vaquero y Javi Vaquero. Un barrio saliendo del ba
- rro comienza en el Vallekas de finales de los 70 con las fotografías de
-  Santi Vaquero\, un fotógrafo que llegó al barrio de Palomeras unos a
- ños antes de la destrucción de sus casas bajas. Un Vallekas que a menudo
-  no se sentía ni se siente parte de Madrid y que se escribe con K como un
-  acto contracultural e identitario en referencia a su posible origen como 
- Valle del Kas. Este fotolibro es una conversación trenzada entre Santi\, 
- su hija Javier y mujeres del barrio que aportan las vivencias de su realid
- ad política-social en ese Vallekas de calles de barro. El relato se acomp
- aña de fotografías que muestran las casas de migrantes andaluces\, manch
- egos y extremeños que llegaron a Madrid a mediados del siglo XX para ser 
- la mano de obra barata que la capital necesitaba y que fueron el germen de
-  las luchas vecinales protagonistas hasta el día de hoy. Una historia com
- ún a muchas grandes ciudades que refleja cómo la memoria colectiva perme
- a en las periferias dando lugar al asociacionismo. Con su cámara Santi re
- trató manifestaciones\, asambleas\, encuentros\, festivales de música y 
- otros eventos que transformaron las formas de hacer de los movimientos pol
- íticos del momento\, siendo referentes en la búsqueda de modelos de “r
- esiliencia y convivencia” que siguen atravesándonos en nuestro día a d
- ía. https://kitcanibal.com/producto/coral-labor/un-barrio-saliendo-del-ba
- rro Hijas del hormigón: Historias de clasismo\, sexismo y violencia en la
- s periferias españolas (Debate\, 2025)\, Aída Dos Santos “Hablar de ex
- trarradio y de periferia significa hablar de clase obrera\, de bloques de 
- ladrillo y hormigón\, de toldos verdes comidos por el sol\, de pisos sin 
- ascensor y de cierto porcentaje considerable de población migrante en eda
- d de trabajar. Aunque se conocen como barrios de clase trabajadora\, tambi
- én los habitan muchas personas sin empleo que se arriesgan a perder una m
- uela por no poder empastarla”. Mientras que la literatura obrerista se h
- a encargado de romantizar el mono azul de trabajo y la academia feminista 
- aboga por romper techos de cristal\, las condiciones de quienes se encarga
- n de lavar los primeros y barrer los segundos han quedado totalmente descu
- idadas y olvidadas. Cargadas de razones y muy cansadas de cuidar para que 
- otras concilien\, un centenar de Hijas del hormigón le han contado a la p
- olitóloga Aida dos Santos su día a día\, porque la precariedad y las pr
- ivaciones no siempre las recoge la estadística. Madrid negro\, recorridos
-  anticoloniales Es una propuesta artística de investigación basada en el
-  estudio de la memoria histórica y el patrimonio contemporáneo de las pe
- rsonas negras y afrodescendientes en la Comunidad de Madrid. Este laborato
- rio pretende generar narrativas y prácticas de recuperación de memoria h
- istórica de las personas negras y afrodescendientes\, mediante la problem
- atización de los relatos historiográficos hegemónicos- coloniales. El p
- royecto ha puesto en marcha dos recorridos. Uno es Madrid Negro\, un paseo
-  por el pasado colonial del barrio de Malasaña y el otro es Móstoles Neg
- ro\, una ruta de investigación poética inspirada en la Revolución de Ha
- ití y la Guerra de Independencia en España. El equipo de Madrid Negro es
- tá formado por Yeison F. García López\, Nieves Cisneros Pascual\, Marí
- a Paula Irizarry Gúzmán y Malcolm Riascos Bazán. https://www.conciencia
- -afro.com/conciencia-afro/quienes-somos Imagen: fotografía de Santi Vaque
- ro.\n\nhttps://www.mataderomadrid.org/programacion/periferias-del-presente
- -los-barrios-que-me-habitan
+DESCRIPTION:Jueves 26 de marzo 2026\, 18.30h – 19.30h. Nave Una. Un diá
+ logo que aborda una perspectiva situada sobre quiénes han habitado esos t
+ erritorios\, quiénes lo hacen en el presente y qué otras geografías\, c
+ ulturales y afectivas\, viven en nosotras. Una conversación que transitar
+ á por las identidades de barrio\, experiencias migrantes\, sentidos diver
+ sos de pertenencia y apropiación de los espacios urbanos para alcanzar un
+ a idea compleja de la ciudad y modos de habitar. Esta sesión nos acercar 
+ a la retórica e identidad de barrio como una forma de comprender los camb
+ ios que han ido haciendo y transformando la ciudad que habitamos en el pre
+ sente\, desde perspectivas documentales\, prácticas culturales\, asociaci
+ onismo vecinal\, urbanismo migrante y luchas por la vivienda. Intervienen 
+ los creadorxs de Un barrio saliendo del barro \, Javi y Santi Vaquero\, Ai
+ da dos Santos\, autora de Hijas del hormigón \, y Madrid Negro\, recorrid
+ os anticoloniales\, de la mano de Yeison F. García López. Modera Lucía 
+ Asué Mbomío Rubio. Javi Vaquero es bailarina\, comunicadora y gestora. S
+ u trabajo se sitúa en la intersección entre comunicación\, cultura\, da
+ nza y acción social\, con atención a la creación de comunidades\, proce
+ sos participativos y cambio narrativo. Se formó en danza en Codarts (Hola
+ nda) y cuenta con trayectoria internacional en danza contemporánea como i
+ ntérprete\, creadora y facilitadora. Ha desarrollado labor docente en la 
+ Universidad Javeriana (Bogotá\, Colombia) y en la Universidad Católica (
+ Lima\, Perú). Reside en Madrid\, donde desarrolla proyectos de mediación
+  cultural y danza comunitaria en instituciones como el Museo Nacional Cent
+ ro de Arte Reina Sofía\, Intermediae Matadero\, Teatro Fernán Gómez y L
+ a Casa Encendida. Su trabajo incluye procesos artísticos y educativos con
+  comunidades migrantes\, LGTBIQ+ y otros colectivos. Forma parte de Lainte
+ rsección\, colectivo dedicado al cambio narrativo\, investigación y camp
+ añas colectivas\, donde diseña estrategias\, proyectos y procesos partic
+ ipativos vinculados a la justicia de género. Santi Vaquero nació en La P
+ uebla de Almoradiel en 1951. Ha sido molinero\, campesino\, albañil y act
+ ivista y\, sobre todo\, captador y donante de imágenes. Vivió durante mu
+ chos años en Vallekas\, donde participó activamente en los movimientos v
+ ecinales del barrio. Actualmente reside en Iruña. Autodidacta\, comenzó 
+ a fotografiar en 1975 con una Nikon FM. Gran parte de su trabajo documenta
+  los movimientos sociales de los que ha formado parte desde los años sete
+ nta. Desde entonces mantiene casi a diario el ritual de salir a fotografia
+ r manifestaciones\, acciones\, actuaciones o\, simplemente\, la realidad q
+ ue lo rodea. En 2022 inauguró su primera exposición\, ‘Un barrio salie
+ ndo del barro’\, que posteriormente recorrió distintos espacios de Madr
+ id y dio lugar al fotolibro del mismo nombre\, editado por Kit Caníbal. E
+ n 2024 formó parte de la exposición ‘Casas Bajas’\, junto a La Limin
+ al\, en La Quinta del Sordo. Aida dos Santos \, autora de Hijas del hormig
+ ón: Historias de clasismo\, sexismo y violencia en las periferias españo
+ las (Debate\, 2025)\, es licenciada en Ciencias Políticas (UCM)\, está e
+ specializada en técnica cuantitativa y en cuestiones de género. Ha ganad
+ o el Premio del Centro de Excelencia Jean Monnet - Antonio Truyol en dos o
+ casiones\, 2011 y 2014. Trabaja como técnica de investigación social apl
+ icada y analista de datos además de colaborar con varios medios de comuni
+ cación. En 2021\, inició el proyecto Hijas del hormigón basado en entre
+ vistas a mujeres procedentes de las periferias de grandes ciudades de Espa
+ ña. Comenzó entrevistando a mujeres de su entorno\, marco que trascendi
+ ó difundiendo en redes sociales su metodología incluyendo preguntas come
+ rcios y servicios de los barrios\, condiciones económicas y obstáculos e
+ n el desarrollo de sus vidas. El proyecto cristalizó en el libro Hijas de
+ l Hormigón\, a partir de entrevistas a 175 mujeres de entre las más de m
+ il recogidas. Yeison F. García López es politólogo\, gestor cultural e 
+ investigador. Creció en Madrid y se autoidentifica como afrocolombiano y 
+ afroespañol. Director de Conciencia Afro y del Centro Cultural Espacio Af
+ ro\, y equipo curatorial del Festival Conciencia Afro. Ha creado y co-coor
+ dinado iniciativas como ‘Madrid Negro\, ecorridos anticoloniales’\, el
+  ‘Laboratorio Afrodiaspórico de Memoria\, Creación y Patrimonio’\, e
+ l Seminario ‘Trenzando saberes\, prácticas e imaginación colectiva ¿Q
+ ué entendemos por derechos culturales desde una perspectiva afrocentrada?
+ ’\, e ‘ITÁN: afromemorias\, comunidades y archivos’. En 2024 integr
+ ó el equipo curatorial de ‘La memoria colonial en las colecciones Thyss
+ en-Bornemisza’ en el Museo Nacional Thyssen-Bornemisza y participó en e
+ l catálogo Pinacoteca Migrante\, del Pabellón de España en la 60ª Bien
+ al de Arte de Venecia. Parte del equipo convocado para el proceso de renov
+ ación museográfica 2025 del Museo de América\, co-dirige el programa 
+ ‘Memoria colonial II. Sintonizar con los susurros’ en el Museo Naciona
+ l Thyssen-Bornemisza\, actualmente forma parte del equipo curatorial de la
+  Bienal Afrodiaspórica 2026\, Cali\, Colombia. Lucía Asué Mbomío Rubio
+  es licenciada en Ciencias de la Información\, diplomada en Guion y Direc
+ ción de documentales\, Máster en Desarrollo y Ayuda Internacional y Expe
+ rta universitaria en gestión de la diversidad en el entorno empresarial. 
+ Trabaja como reportera de televisión desde 2005 y ha pasado por Madrid Di
+ recto\, Españoles en el Mundo\, el Método Gonzo y\, actualmente\, es uno
+  de los rostros de Aquí la Tierra (Tve1). Además\, colabora en prensa (E
+ l País\, Píkara o Infolibre\, donde es columnista) y radio (Cadena SER).
+  Es cofundadora de ‘Afromayores’\, un proyecto fotográfico y audiovis
+ ual sobre memoria protagonizado por gente africana y afrodescendiente de m
+ ás de 65 años que ha sido expuesto en Río de Janeiro\, NY o Dakar entre
+  otras ciudades. Es autora de tres libros: ‘Las que se atrevieron’ (Pi
+ gmalion Edypro\, 2017)\, ‘Hija del camino’ (Grijalbo\, 2019) y ‘Tier
+ ra de la Luz’ (B\, 2024). Referencias Un barrio saliendo del barrio (Edi
+ torial Kit Caníbal\, 2024)\, Santi Vaquero y Javi Vaquero. Un barrio sali
+ endo del barro comienza en el Vallekas de finales de los 70 con las fotog
+ rafías de Santi Vaquero\, un fotógrafo que llegó al barrio de Palomera
+ s unos años antes de la destrucción de sus casas bajas. Un Vallekas que
+  a menudo no se sentía ni se siente parte de Madrid y que se escribe con 
+ K como un acto contracultural e identitario en referencia a su posible ori
+ gen como Valle del Kas. Este fotolibro es una conversación trenzada entre
+  Santi\, su hija Javier y mujeres del barrio que aportan las vivencias de 
+ su realidad política-social en ese Vallekas de calles de barro. El relato
+  se acompaña de fotografías que muestran las casas de migrantes andaluce
+ s\, manchegos y extremeños que llegaron a Madrid a mediados del siglo XX 
+ para ser la mano de obra barata que la capital necesitaba y que fueron el 
+ germen de las luchas vecinales protagonistas hasta el día de hoy. Una his
+ toria común a muchas grandes ciudades que refleja cómo la memoria colect
+ iva permea en las periferias dando lugar al asociacionismo. Con su cámara
+  Santi retrató manifestaciones\, asambleas\, encuentros\, festivales de m
+ úsica y otros eventos que transformaron las formas de hacer de los movimi
+ entos políticos del momento\, siendo referentes en la búsqueda de modelo
+ s de “resiliencia y convivencia” que siguen atravesándonos en nuestro
+  día a día. https://kitcanibal.com/producto/coral-labor/un-barrio-salien
+ do-del-barro Hijas del hormigón: Historias de clasismo\, sexismo y violen
+ cia en las periferias españolas (Debate\, 2025)\, Aída Dos Santos “Hab
+ lar de extrarradio y de periferia significa hablar de clase obrera\, de bl
+ oques de ladrillo y hormigón\, de toldos verdes comidos por el sol\, de p
+ isos sin ascensor y de cierto porcentaje considerable de población migran
+ te en edad de trabajar. Aunque se conocen como barrios de clase trabajador
+ a\, también los habitan muchas personas sin empleo que se arriesgan a per
+ der una muela por no poder empastarla”. Mientras que la literatura obrer
+ ista se ha encargado de romantizar el mono azul de trabajo y la academia f
+ eminista aboga por romper techos de cristal\, las condiciones de quienes s
+ e encargan de lavar los primeros y barrer los segundos han quedado totalme
+ nte descuidadas y olvidadas. Cargadas de razones y muy cansadas de cuidar 
+ para que otras concilien\, un centenar de Hijas del hormigón le han conta
+ do a la politóloga Aida dos Santos su día a día\, porque la precariedad
+  y las privaciones no siempre las recoge la estadística. Madrid negro\, r
+ ecorridos anticoloniales Es una propuesta artística de investigación bas
+ ada en el estudio de la memoria histórica y el patrimonio contemporáneo 
+ de las personas negras y afrodescendientes en la Comunidad de Madrid. Este
+  laboratorio pretende generar narrativas y prácticas de recuperación de 
+ memoria histórica de las personas negras y afrodescendientes\, mediante l
+ a problematización de los relatos historiográficos hegemónicos- colonia
+ les. El proyecto ha puesto en marcha dos recorridos. Uno es Madrid Negro\,
+  un paseo por el pasado colonial del barrio de Malasaña y el otro es Mós
+ toles Negro\, una ruta de investigación poética inspirada en la Revoluci
+ ón de Haití y la Guerra de Independencia en España. El equipo de Madrid
+  Negro está formado por Yeison F. García López\, Nieves Cisneros Pascua
+ l\, María Paula Irizarry Gúzmán y Malcolm Riascos Bazán. https://www.c
+ onciencia-afro.com/conciencia-afro/quienes-somos Imagen: fotografía de Sa
+ nti Vaquero.\n\nhttps://www.mataderomadrid.org/programacion/periferias-del
+ -presente-los-barrios-que-me-habitan
 LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -4057,45 +3774,45 @@ SUMMARY:La Casa. C. ¿Cómo construir un espacio común y sostenerlo en el
 DTSTART;TZID=Europe/Madrid:20260326T200000
 UID:6377699d512c803f55d10c1811dcba3e9f3f4370416a3f6c9fe095247cc267c1
 CATEGORIES:exhibition
-DESCRIPTION:Jueves 26 de marzo 2026\, 20 – 21.00h. Una propuesta vincula
- da a su investigación La Casa que durante más de diez años ha atravesad
- o contextos\, geografías y comunidades adoptando múltiples formas. Aitan
- a Cordero compartirá procesos y fricciones que han dado forma a esta prá
- ctica coreográfica\, pedagógica y social. No será una retrospectiva\, s
- ino un acto de exposición: revelar lo que normalmente permanece oculto. 
- “Durante más de diez años\, La Casa. ha atravesado contextos\, geograf
- ías y comunidades diversas\, adoptando múltiples formas y nombres. Cada 
- encarnación ha sido una variación de estas preguntas: ¿cómo crear un 
- “nosotris” sostenible\, inclusivo y complejo? ¿Cómo destruir lo cono
- cido y saltar juntas al vacío? ¿Cómo reconstruirnos después de las rui
- nas\, las tempestades y lo irreparable? Ha mutado en distintas versiones: 
- La Casa.Ellos\, La Casa.Johanna\, La Casa.M\, La Casa.V\, La Casa.F\, La C
- asa.Oldtest. En esta ocasión será La Casa. C . C de Conversación\, Cohe
- rencia\, Coche\, Cuchara\, Castillo\, Cuaderno\, Cambio\, Comida\, Corazó
- n\, Crecimiento\, Celebración\, Conocer\, Cortar\, Compartir\, Collage\, 
- Cooperación\, Cuidado\, Caldo\, Construcción y Cre(C)er. El proyecto se 
- abrirá como una conversación pública sobre el tiempo\, el espacio y los
-  materiales que nos sostienen. La Casa. es construcción y demolición. Re
- ciclaje\, acumulación y transformación. Cuidado y conflicto. Intimidad y
-  acción colectiva. Esta vez buscará una nueva manera de contarse y compa
- rtirse: abrir su memoria material y afectiva como acto de comienzo.” –
-  Aitana Cordero Aitana Cordero Vico es creadora\, performer y coreógrafa.
-  Con formación en artes marciales\, danza e interpretación\, se graduó 
- en 2006 como Coreógrafa en la SNDO\, Escuela para el Nuevo desarrollo de 
- la danza\, de Ámsterdam\, y dos años después acabó el Master en Coreog
- rafía y nuevas tecnologías\, Dance Unlimited\, también en la capital ho
- landesa. Desde 2000 desarrolla sus propios proyectos en forma de piezas\, 
- instalaciones\, performances\, coreografías\, eventos\, películas\, vide
- os\, textos\, que han sido presentados en diversas ciudades de Europa\, Am
- érica del Norte y Asia. Desde 2001 compagina sus investigaciones y trabaj
- os artísticos con una intensa labor docente en distintas escuelas privada
- s y universidades. En la actualidad también realiza trabajos de dramaturg
- ia en procesos de otros coreógrafos o creadores. Trabaja también desde l
- os objetos y cruza intereses transdisciplinares que suelen integrarse en s
- us procesos\, entre ellos la filosofía\, la literatura\, los estudios de 
- género\, el cine\, la pintura y la gastronomía. Imagen cortesía de Aita
- na Cordero.\n\nhttps://www.mataderomadrid.org/programacion/la-casa-c-como-
- construir-un-espacio-comun-y-sostenerlo-en-el-tiempo
+DESCRIPTION:Jueves 26 de marzo 2026\, 20 – 21.00h. Nave Una. Una propues
+ ta vinculada a su investigación La Casa que durante más de diez años ha
+  atravesado contextos\, geografías y comunidades adoptando múltiples for
+ mas. Aitana Cordero compartirá procesos y fricciones que han dado forma a
+  esta práctica coreográfica\, pedagógica y social. No será una retrosp
+ ectiva\, sino un acto de exposición: revelar lo que normalmente permanece
+  oculto. “Durante más de diez años\, La Casa. ha atravesado contextos\
+ , geografías y comunidades diversas\, adoptando múltiples formas y nombr
+ es. Cada encarnación ha sido una variación de estas preguntas: ¿cómo c
+ rear un “nosotris” sostenible\, inclusivo y complejo? ¿Cómo destruir
+  lo conocido y saltar juntas al vacío? ¿Cómo reconstruirnos después de
+  las ruinas\, las tempestades y lo irreparable? Ha mutado en distintas ver
+ siones: La Casa.Ellos\, La Casa.Johanna\, La Casa.M\, La Casa.V\, La Casa.
+ F\, La Casa.Oldtest. En esta ocasión será La Casa. C . C de Conversació
+ n\, Coherencia\, Coche\, Cuchara\, Castillo\, Cuaderno\, Cambio\, Comida\,
+  Corazón\, Crecimiento\, Celebración\, Conocer\, Cortar\, Compartir\, Co
+ llage\, Cooperación\, Cuidado\, Caldo\, Construcción y Cre(C)er. El proy
+ ecto se abrirá como una conversación pública sobre el tiempo\, el espac
+ io y los materiales que nos sostienen. La Casa. es construcción y demolic
+ ión. Reciclaje\, acumulación y transformación. Cuidado y conflicto. Int
+ imidad y acción colectiva. Esta vez buscará una nueva manera de contarse
+  y compartirse: abrir su memoria material y afectiva como acto de comienzo
+ .” – Aitana Cordero Aitana Cordero Vico es creadora\, performer y core
+ ógrafa. Con formación en artes marciales\, danza e interpretación\, se 
+ graduó en 2006 como Coreógrafa en la SNDO\, Escuela para el Nuevo desarr
+ ollo de la danza\, de Ámsterdam\, y dos años después acabó el Master e
+ n Coreografía y nuevas tecnologías\, Dance Unlimited\, también en la ca
+ pital holandesa. Desde 2000 desarrolla sus propios proyectos en forma de p
+ iezas\, instalaciones\, performances\, coreografías\, eventos\, película
+ s\, videos\, textos\, que han sido presentados en diversas ciudades de Eur
+ opa\, América del Norte y Asia. Desde 2001 compagina sus investigaciones 
+ y trabajos artísticos con una intensa labor docente en distintas escuelas
+  privadas y universidades. En la actualidad también realiza trabajos de d
+ ramaturgia en procesos de otros coreógrafos o creadores. Trabaja también
+  desde los objetos y cruza intereses transdisciplinares que suelen integra
+ rse en sus procesos\, entre ellos la filosofía\, la literatura\, los estu
+ dios de género\, el cine\, la pintura y la gastronomía. Imagen cortesía
+  de Aitana Cordero.\n\nhttps://www.mataderomadrid.org/programacion/la-casa
+ -c-como-construir-un-espacio-comun-y-sostenerlo-en-el-tiempo
 LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -4258,6 +3975,20 @@ DESCRIPTION:Partiendo de un encuentro imaginario con la esencia de las muj
 LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:La invasió dels bàrbars
+DTSTART;TZID=Europe/Madrid:20260327T200000
+DTEND;TZID=Europe/Madrid:20260327T215700
+UID:bec0909e76eb7db7cb0458dbca4cad8804e5eab2591df9c7feacf7c5847e5773
+CATEGORIES:cinema
+DESCRIPTION:En 1939\, Esperanza\, una joven conservadora del Museo del Pra
+ do es interrogada por la desaparición de un cuadro que un coronel quiere 
+ incautar. Ochenta años después\, su nieta Aurora busca sus restos en una
+  de las fosas comunes del franquismo.\n\nRelease year: 2025\n\nOriginal la
+ nguage: CA\n\nAudio: VOSE\n\nhttps://cinesembajadores.es/pelicula/la-invas
+ io-dels-barbars-vose/?ciudad=madrid
+LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Río Turbio
 DTSTART;TZID=Europe/Madrid:20260327T203000
 UID:305fe381126b56910cab2641f0853b7e53940a17a34325ecb506c6951f086c64
@@ -4337,24 +4068,23 @@ SUMMARY:Lavapiés memoria urbana y transformación
 DTSTART;TZID=Europe/Madrid:20260328T120000
 UID:89234574275010b5b8c14174f83495566b1bf8cd1dc15ad97db454c5367191bf
 CATEGORIES:other
-DESCRIPTION:Sábado 28 de marzo de 2026\, 12h – 14h Actividad con inscri
- pción previa\, formulario de próxima apertura Leah Pattem guiará un rec
- orrido por un barrio que ha narrado como periodista durante la última dé
- cada\, combinando sus propias experiencias de vida en el vecindario con el
-  trabajo y la mirada de Javi Vaquero\, Kike Carbajal y Pablo Arboleda junt
- o a otras voces que emerjan durante el seminario. La ruta entrelaza memori
- a urbana y transformación. Juntos trazarán la historia en capas de un Ma
- drid empeñado en reinventarse y marcado por las muchas vidas e historias 
- que arrastra a su paso. Leah Pattem es una periodista\, fotógrafa y profe
- sora que lleva una década cubriendo historias comunitarias poco difundida
- s en Madrid. En 2016 fundó Madrid No Frills\, un proyecto de periodismo c
- omunitario centrado en los problemas y movimientos urbanos de Madrid. Ha i
- nvestigado sobre la cuestión de la vivienda en entornos urbanos contempor
- áneos. Recientemente ha trabajado también sobre tejido de barrio y bares
-  tradicionales\, perspectiva que activa la curiosidad\, el valor de lo cas
- tizo y de lo añejo\, a través de los que reconoce la importancia de la h
- istoria\, cultura y vida de la capital.\n\nhttps://www.mataderomadrid.org/
- programacion/lavapies-memoria-urbana-y-transformacion
+DESCRIPTION:Leah Pattem guiará un recorrido por un barrio que ha narrado 
+ como periodista durante la última década\, combinando sus propias experi
+ encias de vida en el vecindario con el trabajo y la mirada de Javi Vaquero
+ \, Kike Carbajal y Pablo Arboleda junto a otras voces que emerjan durante 
+ el seminario. La ruta entrelaza memoria urbana y transformación. Juntos t
+ razarán la historia en capas de un Madrid empeñado en reinventarse y mar
+ cado por las muchas vidas e historias que arrastra a su paso. Leah Pattem 
+ es una periodista\, fotógrafa y profesora que lleva una década cubriendo
+  historias comunitarias poco difundidas en Madrid. En 2016 fundó Madrid N
+ o Frills\, un proyecto de periodismo comunitario centrado en los problemas
+  y movimientos urbanos de Madrid. Ha investigado sobre la cuestión de la 
+ vivienda en entornos urbanos contemporáneos. Recientemente ha trabajado t
+ ambién sobre tejido de barrio y bares tradicionales\, perspectiva que act
+ iva la curiosidad\, el valor de lo castizo y de lo añejo\, a través de l
+ os que reconoce la importancia de la historia\, cultura y vida de la capit
+ al.\n\nhttps://www.mataderomadrid.org/programacion/lavapies-memoria-urbana
+ -y-transformacion
 LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -4377,6 +4107,20 @@ DESCRIPTION:Un sábado al mes\, la casa de Movistar KOI se abre al públic
  odos los públicos.\n\nhttps://www.mataderomadrid.org/programacion/ven-des
  cubrir-el-mundo-de-los-esports-2
 LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La invasió dels bàrbars
+DTSTART;TZID=Europe/Madrid:20260328T120000
+DTEND;TZID=Europe/Madrid:20260328T135700
+UID:33d482bdf9be787a11ebaa950f34398ddf12b5625d49077e991599cc308b8177
+CATEGORIES:cinema
+DESCRIPTION:En 1939\, Esperanza\, una joven conservadora del Museo del Pra
+ do es interrogada por la desaparición de un cuadro que un coronel quiere 
+ incautar. Ochenta años después\, su nieta Aurora busca sus restos en una
+  de las fosas comunes del franquismo.\n\nRelease year: 2025\n\nOriginal la
+ nguage: CA\n\nAudio: VOSE\n\nhttps://cinesembajadores.es/pelicula/la-invas
+ io-dels-barbars-vose/?ciudad=madrid
+LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Malas
@@ -4692,8 +4436,24 @@ SUMMARY:La rabia es nuestra
 DTSTART;TZID=Europe/Madrid:20260329T203000
 UID:af8e3891222ef76798d81e539598d0ea8e9fe8aae772834adde22e5216b8cbd8
 CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/la-rabia-es-nuestra/
+DESCRIPTION:¡Ya solo quedan 19 plazas!\n\nhttps://teatrodelbarrio.com/la-
+ rabia-es-nuestra/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Espacio Queer: What a Feeling
+DTSTART;TZID=Europe/Madrid:20260330T193000
+DTEND;TZID=Europe/Madrid:20260330T212000
+UID:d05ec2b68f7fe55bf553d9718214daf8c32bff3cbb3144869ebfa9bd2778c03e
+CATEGORIES:cinema
+DESCRIPTION:Una comedia romántica sincera e inteligente sobre dos mujeres
+  de mediana edad que se niegan a quedarse al margen de la vida.\n\nLa come
+ dia gira en torno a dos mujeres que se conocen en un bar de lesbianas y ex
+ plora temas como el amor entre culturas\, las convenciones\, la inmigraci
+ ón\, la clase social y la sexualidad en Austria.\n\nAudio: VOSE\n\nhttps:
+ //cinesembajadores.es/pelicula/espacio-queer-what-a-feeling-vose/?ciudad=m
+ adrid
+LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dotan
@@ -4974,6 +4734,15 @@ LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
  id
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:El Gato Con Jotas
+DTSTART;TZID=Europe/Madrid:20260407T203000
+UID:e9a58462dca2d84b1c35085c0bf932099f347c09c85d60d1b1c9885bb40dafa7
+CATEGORIES:music
+DESCRIPTION:Concierto / World Music & Folk / Electronic\n\nhttps://salavil
+ lanos.es/evento/el-gato-con-jotas/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Elena Rose (Sold Out)
 DTSTART;TZID=Europe/Madrid:20260407T210000
 UID:c7945021987c3b6079dc08d745f00bc205ac4030c4f5b19be15c192556cca0ae
@@ -5006,6 +4775,18 @@ CATEGORIES:music
 DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://feverup.com/m/274902
 LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
  id
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Soy Asurbanipal\, rey del mundo\, rey de Asiria
+DTSTART;TZID=Europe/Madrid:20260409T000000
+DTEND;TZID=Europe/Madrid:20261004T000000
+UID:9701576afa9dd5348303dc3312e139df32d740b2aa98756739538f39ae00f993
+CATEGORIES:exhibition
+DESCRIPTION:Muestra que ofrece un recorrido por la vida e influencia de la
+  figura de uno de los hombres más poderosos de su época (CaixaForum Madr
+ id. 9 abr a 4 oct 2026).\n\nhttps://caixaforum.org/es/madrid/p/soy-asurban
+ ipal_a173667669
+LOCATION:CaixaForum Madrid - del Prado\, 36\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Crueles intenciones
@@ -5055,16 +4836,6 @@ DESCRIPTION:Una reflexión en torno a la invisibilidad a través de las vo
   language: ES\n\nhttps://www.cinetecamadrid.com/programacion/tratado-de-in
  visibilidad
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Silence
-DTSTART;TZID=Europe/Madrid:20260410T200000
-DTEND;TZID=Europe/Madrid:20260412T200000
-UID:6def926b11fdc0ac637add110f9fe7ccd968b6e6ef46eca412fb639429fbcb4d
-CATEGORIES:theater
-DESCRIPTION:Texto y dirección Falk Richter\n\nhttps://dramatico.inaem.gob
- .es/evento/the-silence/
-LOCATION:Teatro Valle-Inclán - Plaza de Lavapies\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Prophecy: The Madame Blavatsky Legend
@@ -5298,6 +5069,19 @@ LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
  id
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:El universo del artista ante la cámara
+DTSTART;TZID=Europe/Madrid:20260413T000000
+DTEND;TZID=Europe/Madrid:20260705T000000
+UID:42c862cba63d01bbb4a7a1601a46fc9eab5dd91d18cb864caea90a6696dd9cdf
+CATEGORIES:exhibition
+DESCRIPTION:Exposición que analiza el impacto de la fotografía desde su 
+ aparición en el siglo XIX como una nueva disciplina artística (Museo del
+  Prado. 13 abr a 5 jul).\n\nhttps://www.museodelprado.es/actualidad/exposi
+ cion/el-universo-del-artista-ante-la-camara/b581a759-4ab0-b459-f3d4-8168c8
+ 4923f2
+LOCATION:Museo del Prado - del Prado\, s/n\, Madrid\, 28014
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Garden
 DTSTART;TZID=Europe/Madrid:20260414T190000
 UID:8758dae6febdadce80ed324afab162da26e542cd5ac0972622e3bf58f087cb4e
@@ -5335,5 +5119,74 @@ UID:e91e60eff8df819914402503efb4e4c9a3283a3506d924243e0c42c6b77e6229
 CATEGORIES:music
 DESCRIPTION:Concierto / Rock\n\nhttps://salavillanos.es/evento/deadletter/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La chica zurda
+DTSTART;TZID=Europe/Madrid:20260415T190000
+UID:cbba5ef26530f93935f0be8caf58f47e3d2497355a847d43df6eb804168940da
+CATEGORIES:cinema
+DESCRIPTION:Una madre soltera y sus dos hijas regresan a Taipei tras vario
+ s años viviendo en el campo para abrir un puesto en un bullicioso mercado
+  nocturno. Cada una a su manera\, tendrán que adaptarse a este nuevo ento
+ rno para llegar a fin de mes y conseguir mantener la unidad familiar. Tres
+  generaciones de secretos familiares empiezan a desvelarse después de que
+  su abuelo le diga a la hija menor\, que es zurda\, que nunca use su "mano
+  del diablo". Película coescrita y coproducida por Sean Baker ( The Flori
+ da Project\, Anora )\n\nOriginal title: 左撇子女孩\n\nRelease year: 2
+ 025\n\nOriginal language: ZH\n\nAudio: VOSE\n\nhttps://www.cinetecamadrid.
+ com/programacion/la-chica-zurda
+LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Secret Life of Plants
+DTSTART;TZID=Europe/Madrid:20260415T190000
+UID:3fe642530a5e43dda01a5da84982536d9b721a3aa52eb32c1702dd4342d601fb
+CATEGORIES:cinema
+DESCRIPTION:The Secret Life of Plants (1979)\, dirigida por Walon Green y 
+ basada en el libro de Peter Tompkins y Christopher Bird\, explora la capac
+ idad sensorial\, emocional y comunicativa de los seres vegetales. Con mús
+ ica de Stevie Wonder\, expone experimentos que sugieren que las plantas si
+ enten\, responden a la música y se comunican con humanos.\n\nRelease year
+ : 1979\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://www.cinetecamadr
+ id.com/programacion/secret-life-plants
+LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red Army/PFLP: Declaration of World War
+DTSTART;TZID=Europe/Madrid:20260415T193000
+UID:b3d87934df6c8a84009e63a9f658e94e643a6a1dda4cbe18749be2af87c3db72
+CATEGORIES:cinema
+DESCRIPTION:De regreso del Festival de Cannes\, Adachi y Wakamatsu viajaro
+ n a Beirut y\, en colaboración con miembros del Ejército Rojo y del Fren
+ te para la Liberación de Palestina\, filmaron la vida cotidiana de las gu
+ errillas árabes y probaron su “teoría del paisaje” (que se oponía a
+ l paisaje homogeneizado del espacio post-fordiano sometido al gran crecimi
+ ento económico) en este noticiero cinematográfico revolucionario.\n\nAud
+ io: VOSE\n\nhttps://www.cinetecamadrid.com/programacion/red-armypflp-decla
+ ration-world-war
+LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tarchi
+DTSTART;TZID=Europe/Madrid:20260415T210000
+UID:bd78b2dc9529997c5e9a0f02616057010d53b348bede5d200a83df739389d50b
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://dice.fm/event/2weyb6-tar
+ chi-15th-apr-la-riviera-madrid-tickets
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Las ingenieras domésticas y la revolución de la cocina
+DTSTART;TZID=Europe/Madrid:20260416T000000
+DTEND;TZID=Europe/Madrid:20260913T000000
+UID:77e260343210951ad66a54068cbf454552301adb035862dad955bbe47bba8300
+CATEGORIES:exhibition
+DESCRIPTION:Exposición sobre la evolución del espacio doméstico entre l
+ os siglos XIX y XX\, con las mujeres como protagonistas de su diseño (Mus
+ eo Nacional de Artes Decorativas. 16 abr a 13 sept).\n\nhttps://www.cultur
+ a.gob.es/mnartesdecorativas/exposiciones/proximas-exposiciones.html
+LOCATION:Museo Nacional de Artes Decorativas - de Montalbán\, 12\, Madrid
+ \, 28014
 END:VEVENT
 END:VCALENDAR

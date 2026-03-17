@@ -889,10 +889,11 @@
         cells.push(renderCell(day, dateText, perDay.get(dateText) || [], false));
       }
 
+      let trailingDay = 1;
       while (cells.length % 7 !== 0) {
-        const day = cells.length % 7;
-        const dateText = ymDate(viewYear, viewMonth + 1, day + 1);
-        cells.push(renderCell(day + 1, dateText, perDay.get(dateText) || [], true));
+        const dateText = ymDate(viewYear, viewMonth + 1, trailingDay);
+        cells.push(renderCell(trailingDay, dateText, perDay.get(dateText) || [], true));
+        trailingDay += 1;
       }
 
       grid.innerHTML = cells.join("");
