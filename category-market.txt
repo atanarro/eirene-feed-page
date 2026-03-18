@@ -1,5 +1,5 @@
 Eirene feed debug
-Total events: 8
+Total events: 11
 
 [1] Mercado de las Ranas
   id: 0cd88d75feff7979f14018c406759c10708a9c0ed082d92d3a48beffb758e0b7
@@ -78,7 +78,29 @@ Total events: 8
   url: https://www.eventbrite.es/e/entradas-mercado-de-motores-madrid-11-y-12-de-abril-entrada-gratis-1984720303856
   description: El mercadillo más famoso de Madrid: moda vintage, diseño, segunda mano, artesanía, música en vivo y foodtrucks en el Museo del Ferrocarril
 
-[8] Mercado Productores Alcobendas
+[8] Cata de Quesos de Oveja  La Mueda 11 y  12 de abril| Mercado de Motores
+  id: 57fb345fb2481a016e75599f4f74b60e0fb1d16e3669cd08162fa49ba5d326b8
+  start: 2026-04-11T13:00:00+02:00
+  end: 2026-04-12T14:00:00+02:00
+  category: market
+  source: mercado_de_motores
+  location: Mercado de motores - 61 Paseo de las Delicias, Madrid, MD, 28045
+  coordinates: 40.39883739999999, -3.6910858
+  url: https://www.eventbrite.es/e/entradas-cata-de-quesos-de-oveja-la-mueda-11-y-12-de-abril-mercado-de-motores-1985367425414
+  description: Regálate un plan gourmet en Madrid: cata de quesos artesanales de Toledo, vinos manchegos y leche fresca de oveja.
+
+[9] Taller de Jardín Vertical Natural en Mercado de Motores
+  id: df3a2f7ce898818c371afe209a68689cf60229836c381f3139765fc75c73a65a
+  start: 2026-04-11T17:00:00+02:00
+  end: 2026-04-11T18:00:00+02:00
+  category: market
+  source: mercado_de_motores
+  location: Mercado de motores - 61 Paseo de las Delicias, Madrid, MD, 28045
+  coordinates: 40.39883739999999, -3.6910858
+  url: https://www.eventbrite.es/e/entradas-taller-de-jardin-vertical-natural-en-mercado-de-motores-1985366993121
+  description: Crea tu propio jardín vertical natural y aprende paso a paso a diseñar un cuadro vivo para decorar tu
+
+[10] Mercado Productores Alcobendas
   id: 18532c5e9a39ef1d68dba0504389c3079221f4287b1b8d6d7a3304b363e5e301
   start: 2026-04-12T10:00:00+02:00
   end: 2026-04-12T16:00:00+02:00
@@ -88,3 +110,14 @@ Total events: 8
   coordinates: 40.554188, -3.648976
   url: https://mercadoproductores.es/mp-alcobendas/
   description: Mercado de productores locales y artesanos en Alcobendas con alimentos de proximidad y propuestas gastronomicas.
+
+[11] Crea tu Kokedama japonés el  12 de abril en Mercado de Motores
+  id: fb83927e2202c040e3df119d3cdc64b847ff3dce12ddb08cb5990f53c28223d0
+  start: 2026-04-12T11:30:00+02:00
+  end: 2026-04-12T14:00:00+02:00
+  category: market
+  source: mercado_de_motores
+  location: Mercado de motores - 61 Paseo de las Delicias, Madrid, MD, 28045
+  coordinates: 40.39883739999999, -3.6910858
+  url: https://www.eventbrite.es/e/entradas-crea-tu-kokedama-japones-el-12-de-abril-en-mercado-de-motores-1985366140571
+  description: Descubre el arte japonés del Kokedama en un taller creativo, natural y sostenible con Green

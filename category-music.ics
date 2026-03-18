@@ -2,25 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Verde Prato + María Marín + Bruma Organizado por PlanBmusic
-DTSTART;TZID=Europe/Madrid:20260317T200000
-UID:bc107f3d850b5df975ba5776a08e363de652a271a4d895e7e39141ec0d7978d0
-CATEGORIES:music
-DESCRIPTION:Concierto / Electronic / Jazz\n\nhttps://salavillanos.es/event
- o/verde-prato-maria-marin-bruma-organizado-por-plan-b/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ASCO "Symphony of Caos"
-DTSTART;TZID=Europe/Madrid:20260317T210000
-UID:34eaa61f854604ad455d6c19d144e054d52adb531bbfaa86a2889861167cf4cf
-CATEGORIES:music
-DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://www.entradas.com/artist/
- asco/?Affiliate=RIV
-LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
- id
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Juicy Sessions
 DTSTART;TZID=Europe/Madrid:20260318T220000
 UID:23b861b386fb774f5711fbbc6df2b18a327fe0679bd308bbd5f569a93dc011fb
@@ -467,6 +448,15 @@ LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
  id
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:De Estraperlo De Jesus Mañeru
+DTSTART;TZID=Europe/Madrid:20260408T210000
+UID:53cb1e1cd429bf3b8c021f916fdf07144b712a1db389aa6560d58cbecc4a26ca
+CATEGORIES:music
+DESCRIPTION:Concierto / World Music & Folk / Jazz\n\nhttps://salavillanos.
+ es/evento/de-extraperlo-de-jesus-maneru/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Marquitos (fka ODDLIQUOR)
 DTSTART;TZID=Europe/Madrid:20260408T210000
 UID:f23f41f43f2b7040aaf50b778cea6123f937cf8897bd197cabd9152535699f67
@@ -591,5 +581,25 @@ DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://dice.fm/event/2weyb6-tar
  chi-15th-apr-la-riviera-madrid-tickets
 LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
  id
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pajaro Sunrise
+DTSTART;TZID=Europe/Madrid:20260416T203000
+UID:d247fe1f3b89375789c71ea865f160a98939932b1058696cf7d3d75b4c3e76d2
+CATEGORIES:music
+DESCRIPTION:Concierto / Electronic / Pop\n\nhttps://salavillanos.es/evento
+ /pajaro-sunrise/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reggae Workers Of The World (EEUU) + The Bandulus (EEUU)
+DTSTART;TZID=Europe/Madrid:20260416T223000
+UID:d70d1d2a51bae2dd4b35b2f29c6ea8f109af3263063c5ffbce80f606a508e3b3
+CATEGORIES:music
+DESCRIPTION:Precio de las entradas: 15€ Entradas a la venta en movingtic
+ kets Bio/enlaces bandas: Reggae Workers os the Worls_facebook The Bandulus
+ _facebook + The Bandulus_instagram Más información:\n\nhttps://gruta77.c
+ om/events/reggae-workers-of-the-world-the-bandulus/var/ri-0.l-L2
+LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
 END:VEVENT
 END:VCALENDAR
