@@ -2,23 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Los árboles no votan
-DTSTART;TZID=Europe/Madrid:20260318T193000
-UID:9b304fa7431b27c728aa6affc234087873d3dbd8b22c43f66c71e53546e47736
-CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 6 plazas!\n\nhttps://teatrodelbarrio.com/los-
- arboles-no-votan/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A la mierda
-DTSTART;TZID=Europe/Madrid:20260318T220000
-UID:3fb013334b8a974cd2cdea2bd5f991c4853a4fe50a8bc808109726fd77fa0aac
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/a-la-mierda/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:El hambre imposible
 DTSTART;TZID=Europe/Madrid:20260319T193000
 UID:cdafdf784fcf385254642aace09583e5a26ce5124cbe7b31e0a2f31af63e85a8
@@ -118,6 +101,16 @@ UID:31b437b3eda05a1e740335efe80de82fc1a327bdac1badf77b22270e69a4f63c
 CATEGORIES:theater
 DESCRIPTION:¡Ya solo quedan 1 plazas!\n\nhttps://teatrodelbarrio.com/estr
  eno-del-documental-soy-tribulete-7/
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CULTURA CONTRA LA BARBARIE. El cine como instrumento de resistenci
+ a antifascista
+DTSTART;TZID=Europe/Madrid:20260324T190000
+UID:484c8c5b1410e19595d6e44a680be641347d36b7472e4dd83c5c679ccb61b7b9
+CATEGORIES:theater
+DESCRIPTION:Programación en Teatro del Barrio\n\nhttps://teatrodelbarrio.
+ com/el-cine-como-instrumento-de-resistencia-antifascista/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -226,7 +219,7 @@ SUMMARY:La rabia es nuestra
 DTSTART;TZID=Europe/Madrid:20260329T203000
 UID:af8e3891222ef76798d81e539598d0ea8e9fe8aae772834adde22e5216b8cbd8
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 6 plazas!\n\nhttps://teatrodelbarrio.com/la-r
+DESCRIPTION:¡Ya solo quedan 3 plazas!\n\nhttps://teatrodelbarrio.com/la-r
  abia-es-nuestra/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT

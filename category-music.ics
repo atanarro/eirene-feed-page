@@ -2,15 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Juicy Sessions
-DTSTART;TZID=Europe/Madrid:20260318T220000
-UID:23b861b386fb774f5711fbbc6df2b18a327fe0679bd308bbd5f569a93dc011fb
-CATEGORIES:music
-DESCRIPTION:Concierto / Funk & disco / Pop / Urban / Soul & R&B / Hip Hop 
- & Rap\n\nhttps://salavillanos.es/evento/juicy-sessions-3/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Nils Hoffmann
 DTSTART;TZID=Europe/Madrid:20260319T210000
 UID:fbfd7a35c37bbb0f7b19146d38425e6d688eb6425cd40652f1bdf7cba94db9c4
@@ -600,6 +591,37 @@ DESCRIPTION:Precio de las entradas: 15€ Entradas a la venta en movingtic
  kets Bio/enlaces bandas: Reggae Workers os the Worls_facebook The Bandulus
  _facebook + The Bandulus_instagram Más información:\n\nhttps://gruta77.c
  om/events/reggae-workers-of-the-world-the-bandulus/var/ri-0.l-L2
+LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aries
+DTSTART;TZID=Europe/Madrid:20260417T203000
+UID:e9b9bc6256b283886e4d2656cf34aeb86c799725a1d9d3670b4e5847236ee9f7
+CATEGORIES:music
+DESCRIPTION:Concierto / Hip Hop & Rap / Pop / Rock\n\nhttps://salavillanos
+ .es/evento/aries/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arco
+DTSTART;TZID=Europe/Madrid:20260417T210000
+UID:266ba34fd97375689ee9fe10eac4d5787c1b34add845f824ddbfcca6d0ff5c9b
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://www.entradas.com/artist/
+ arco/?affiliate=RIV
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Rezillos (Reino Unido) + Los Bannanos
+DTSTART;TZID=Europe/Madrid:20260417T223000
+UID:6423dafd89a43973cafe201fa52528281d1bf9ca54e9ec38a5f2045a471edbc5
+CATEGORIES:music
+DESCRIPTION:Precio de las entradas: 20€/24€ Entradas a la venta en mov
+ ingtickets Bio/enlaces bandas: THE REZILLOS (Reino Unido) The Rezillos_fac
+ ebook + The Rezillos_X + + The Rezillos_instagram LOS BANNANOS Bannanos_fa
+ cebook + Bannanos_X + Bannanos_youtube\n\nhttps://gruta77.com/events/the-r
+ ezillos-reino-unido/var/ri-0.l-L2
 LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
 END:VEVENT
 END:VCALENDAR
