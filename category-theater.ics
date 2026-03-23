@@ -2,96 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:El hambre imposible
-DTSTART;TZID=Europe/Madrid:20260319T193000
-UID:cdafdf784fcf385254642aace09583e5a26ce5124cbe7b31e0a2f31af63e85a8
+SUMMARY:Mañana más
+DTSTART;TZID=Europe/Madrid:20260323T190000
+UID:92f5d316dd52f756cc8f0ccf98ddca45838cf5ce71a37142a68dc0a005f2cb39
 CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/el-hambre-imposible/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Isa & Javi
-DTSTART;TZID=Europe/Madrid:20260319T221500
-UID:45a7c17dbf4eb3033301e3ea81f9b8f92f634e826ead71a339d954066dc3a995
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/isa-y-javi/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Niebla
-DTSTART;TZID=Europe/Madrid:20260320T193000
-DTEND;TZID=Europe/Madrid:20260412T193000
-UID:f5c1c7ebb968eb8a2029978f386f4763212118ce95d6b31e1e8cb896ee68f191
-CATEGORIES:theater
-DESCRIPTION:Entradas disponibles desde 15.75€ | Tags: JOBO\n\nhttps://ti
- enda.madrid-destino.com/es/nave-10/niebla/
-LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chistes contra Franco
-DTSTART;TZID=Europe/Madrid:20260320T193000
-UID:be441b5b2c70af21a0616beef7536e61d0868f4a1f4e098a30db95f273d8026a
-CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 1 plazas!\n\nhttps://teatrodelbarrio.com/chis
- tes-contra-franco/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ser humana
-DTSTART;TZID=Europe/Madrid:20260321T130000
-UID:3bb935471355bde9c2ffadfe1e0bf82b228544c4128299f0830a7094642ecf4b
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/ser-humana/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Solo quería bailar
-DTSTART;TZID=Europe/Madrid:20260321T193000
-UID:ee3cdc43e9b76f9cd35597336082ac591f358fff87350149eb5eead830183f02
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/solo-queria-bailar/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Piluka y sus internacionales del bolero
-DTSTART;TZID=Europe/Madrid:20260321T221500
-UID:c3f4562ed2af21e6d7d3a03227e8a85e9f1fdf530f04c035cd4591af233f84e6
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/piluka-y-sus-interna
- cionales-del-bolero/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Piccolino. Un cine concierto
-DTSTART;TZID=Europe/Madrid:20260322T110000
-UID:60e228360a95d6e09420fbb11d6df4f77c2a3f61de3a7df4264fb104d38f8c95
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/infantil-piccolino/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Infiltrado en VOX
-DTSTART;TZID=Europe/Madrid:20260322T130000
-UID:c2cc002e355bdb962d6c7c085e0adaa6e059450b695c7c879f445127bef01179
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/infiltrado-en-vox/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gordas\, lisiadas y mamarrachas
-DTSTART;TZID=Europe/Madrid:20260322T180000
-UID:070bbd47d70ecfba121b0268d9f559b918dbcbc6f6a89832fc79356a1bb0bf1d
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/gordas-lisiadas-y-ma
- marrachas/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Solo quería bailar
-DTSTART;TZID=Europe/Madrid:20260322T203000
-UID:51ac575612ff36108dfb2e52d61ad98dfd23f2abb0fd082d0f7967c742df100b
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/solo-queria-bailar/
+DESCRIPTION:¡Ya solo quedan 1 plazas!\n\nhttps://teatrodelbarrio.com/mana
+ na-mas/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -112,6 +28,16 @@ CATEGORIES:theater
 DESCRIPTION:Programación en Teatro del Barrio\n\nhttps://teatrodelbarrio.
  com/el-cine-como-instrumento-de-resistencia-antifascista/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Niebla
+DTSTART;TZID=Europe/Madrid:20260324T193000
+DTEND;TZID=Europe/Madrid:20260412T193000
+UID:f5c1c7ebb968eb8a2029978f386f4763212118ce95d6b31e1e8cb896ee68f191
+CATEGORIES:theater
+DESCRIPTION:Entradas disponibles desde 15.75€ | Tags: JOBO\n\nhttps://ti
+ enda.madrid-destino.com/es/nave-10/niebla/
+LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Un verano por metro cuadrado
@@ -175,14 +101,6 @@ DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/isa-y-javi/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Feishow
-DTSTART;TZID=Europe/Madrid:20260328T130000
-UID:6a9a0f9c67293fa42964c7b89902282c550c040d3dcea45d992c271cf1586a50
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/feishow/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Solo quería bailar
 DTSTART;TZID=Europe/Madrid:20260328T193000
 UID:938cc26c235a4b9c5346ec3f801a278835682fe2430211abacf72d26e83bd3d9
@@ -219,7 +137,7 @@ SUMMARY:La rabia es nuestra
 DTSTART;TZID=Europe/Madrid:20260329T203000
 UID:af8e3891222ef76798d81e539598d0ea8e9fe8aae772834adde22e5216b8cbd8
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 3 plazas!\n\nhttps://teatrodelbarrio.com/la-r
+DESCRIPTION:¡Ya solo quedan 1 plazas!\n\nhttps://teatrodelbarrio.com/la-r
  abia-es-nuestra/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
