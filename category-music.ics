@@ -2,29 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Dora Morelenbaum: Mujeres en Vivo 2026
-DTSTART;TZID=Europe/Madrid:20260323T203000
-UID:86d51897e63af3a9e4c3395d0ce478f50ec9f40d4fbf84f12942939a9134e62b
-CATEGORIES:music
-DESCRIPTION:Concierto / Villanos del Jazz\n\nhttps://salavillanos.es/event
- o/dora-morelenbaum/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Suede + Swim School (Sold Out)
-DTSTART;TZID=Europe/Madrid:20260323T210000
-UID:da8eaac91a7498823a9b93c5cc0db93946300f2d4979bc2bdf5435b7781a95e9
-CATEGORIES:music
-DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://feverup.com/m/394213
-LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
- id
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Maro
 DTSTART;TZID=Europe/Madrid:20260324T203000
 UID:30106e0ba89ecc45873ec169ad3a51f6d3f6ddc21c2669a9ac05414fda053fc9
 CATEGORIES:music
-DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://www.notikumi.com/channel
+DESCRIPTION:Apertura Puertas: 19:00 pm\n\nhttps://www.notikumi.com/channel
  /villanos-de-la-cultura/2026/3/24/maro
 LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
  id
@@ -81,8 +63,8 @@ LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Compota De Manana
-DTSTART;TZID=Europe/Madrid:20260327T203000
-UID:292b14e0a1aa889cda118d9dd62c92593e7375f6e4dd29612b56e2356f7f5339
+DTSTART;TZID=Europe/Madrid:20260327T210000
+UID:b181260aa855287874bf5da4247073d1847a9888e6a1bce1c7fc9b83a878dd65
 CATEGORIES:music
 DESCRIPTION:Concierto / Latin\n\nhttps://salavillanos.es/evento/compota-de
  -manana/
@@ -166,8 +148,8 @@ LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dotan
-DTSTART;TZID=Europe/Madrid:20260330T203000
-UID:9ca9fd8ed164ae043ae0f7dd507c5ff4198cd0992b16d7bdeb93fc199e610ef0
+DTSTART;TZID=Europe/Madrid:20260330T210000
+UID:223f7709b0e2b8fe86f5a0930c3f64c1cb948fc06a8266614c0ffebb5ea1cd60
 CATEGORIES:music
 DESCRIPTION:Concierto / Pop / World Music & Folk\n\nhttps://salavillanos.e
  s/evento/dotan/
@@ -507,5 +489,35 @@ UID:4cf039f772026c15edf6ca02e8d8cf37d7013ad9c8c111a293518a51106af04e
 CATEGORIES:music
 DESCRIPTION:Concierto / Pop\n\nhttps://salavillanos.es/evento/luis-fercan/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Auténticos Decadentes
+DTSTART;TZID=Europe/Madrid:20260422T200000
+UID:880310e0841d952d05150795fb2225b0300ed83b2268d4c121229daad218845d
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:00 pm\n\nhttps://conciertosya.com/Los-Aut
+ enticos-Decadentes-en-Madrid/
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Luis Fercán
+DTSTART;TZID=Europe/Madrid:20260422T203000
+UID:fa7b60520b08c6a0791dce013609ae352a751e8155d3ce481c5880a04320cc31
+CATEGORIES:music
+DESCRIPTION:Concierto / Pop\n\nhttps://salavillanos.es/evento/luis-fercan-
+ 2/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Jimmy Dale Surf Trio (EEUU)
+DTSTART;TZID=Europe/Madrid:20260422T220000
+UID:f289b4ac761cbb663a5d74388aa9b0ad96174fe6db053f2c51cb22c401a63654
+CATEGORIES:music
+DESCRIPTION:Precio de las entradas: 11€/14€ Entradas a la venta en mov
+ ingtickets Bio/enlaces bandas: JIMMY DALE Más información: The Jimmy Dal
+ e Surf Trio\, la banda de Jim Dale\, hijo del rey de la Música\n\nhttps:/
+ /gruta77.com/events/the-jimmy-dale-surf-trio-eeuu/var/ri-0.l-L2
+LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
 END:VEVENT
 END:VCALENDAR
