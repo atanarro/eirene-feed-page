@@ -2,16 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Maro
-DTSTART;TZID=Europe/Madrid:20260324T203000
-UID:30106e0ba89ecc45873ec169ad3a51f6d3f6ddc21c2669a9ac05414fda053fc9
-CATEGORIES:music
-DESCRIPTION:Apertura Puertas: 19:00 pm\n\nhttps://www.notikumi.com/channel
- /villanos-de-la-cultura/2026/3/24/maro
-LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
- id
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Eileen Alister
 DTSTART;TZID=Europe/Madrid:20260325T203000
 UID:3f3be289d94a71ee9ae74491e5c001a7c638827d8f0fc83caa56c91b531d35b4
@@ -44,7 +34,7 @@ SUMMARY:The Dead South
 DTSTART;TZID=Europe/Madrid:20260326T210000
 UID:b6f7e71a4cc74b3d6be9c9272d4b3b73dc339495b22494934290456279b5b895
 CATEGORIES:music
-DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://www.entradas.com/event/t
+DESCRIPTION:Apertura Puertas: 19:00 pm\n\nhttps://www.entradas.com/event/t
  he-dead-south-sala-la-riviera-20310337/?affiliate=RIV
 LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
  id
@@ -518,6 +508,37 @@ DESCRIPTION:Precio de las entradas: 11€/14€ Entradas a la venta en mov
  ingtickets Bio/enlaces bandas: JIMMY DALE Más información: The Jimmy Dal
  e Surf Trio\, la banda de Jim Dale\, hijo del rey de la Música\n\nhttps:/
  /gruta77.com/events/the-jimmy-dale-surf-trio-eeuu/var/ri-0.l-L2
+LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:J. Teixi Band + Bo Dereks
+DTSTART;TZID=Europe/Madrid:20260423T203000
+UID:3f80646eb9aac3793aa68b4322c7864ddabf4dff7a1ae869bdffd02fee89f4c3
+CATEGORIES:music
+DESCRIPTION:Concierto / Rock\n\nhttps://salavillanos.es/evento/j-teixi-ban
+ d-bo-dereks/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nacho Vegas
+DTSTART;TZID=Europe/Madrid:20260423T210000
+UID:7c7ac60db8e0d54afbd2d3738bc12ea57cb77fa6997ceaa71532d78acab3294c
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://feverup.com/m/455942
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:J. Teixi Band + The Bo DEREK´S\; IV Rhythm & Blues Soul Festival 
+ - Sala Villanos -
+DTSTART;TZID=Europe/Madrid:20260423T213000
+UID:e2172c3df755da307ba1f0dbbf0c1bdc604b39eb5fa121fd895311204b1afa06
+CATEGORIES:music
+DESCRIPTION:Precio de las entradas: 18€/22€ Entradas a la venta en mov
+ ingtickets Bio/enlaces bandas: J. Teixi Band_youtube The Bo Derek’s_face
+ book + The Bo Derek’s_instagram Más información: La nueva edición del
+  Festival se oresenta con\n\nhttps://gruta77.com/events/j-teixi-band-the-b
+ o-dereks-iv-rhythm-blues-soul-festival-sala-villanos/var/ri-0.l-L2
 LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
 END:VEVENT
 END:VCALENDAR
