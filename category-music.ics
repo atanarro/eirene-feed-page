@@ -2,25 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Eileen Alister
-DTSTART;TZID=Europe/Madrid:20260325T203000
-UID:3f3be289d94a71ee9ae74491e5c001a7c638827d8f0fc83caa56c91b531d35b4
-CATEGORIES:music
-DESCRIPTION:Concierto / Jazz\n\nhttps://salavillanos.es/evento/eileen-alis
- ter/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Airbourne
-DTSTART;TZID=Europe/Madrid:20260325T210000
-UID:264e061666a5729e3c2406b18313bc8abd11e03b86bea19255f92a00951f71b9
-CATEGORIES:music
-DESCRIPTION:Apertura Puertas: 19:00 pm\n\nhttps://www.madnesslive.es/es/co
- nciertos-en-madrid/1832-comprar-entrada-airbourne-madrid.html
-LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
- id
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Deteresa
 DTSTART;TZID=Europe/Madrid:20260326T203000
 UID:164a5e36b281ead7026821e1a40cae424fefecec37a5d95954f017bddc7fd03e
@@ -163,8 +144,8 @@ LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:El Polaco
-DTSTART;TZID=Europe/Madrid:20260403T203000
-UID:47b02d5f0867cbac465b1a772fbd595cf8bd2b224d13144216a8811df9b22dfc
+DTSTART;TZID=Europe/Madrid:20260403T213000
+UID:bf77f7e79cf53b5d20a8615a827559534a42002b9fed91ae9342cbd86b147286
 CATEGORIES:music
 DESCRIPTION:Concierto / Latin / Urban\n\nhttps://salavillanos.es/evento/el
  -polaco/
@@ -539,6 +520,37 @@ DESCRIPTION:Precio de las entradas: 18€/22€ Entradas a la venta en mov
  book + The Bo Derek’s_instagram Más información: La nueva edición del
   Festival se oresenta con\n\nhttps://gruta77.com/events/j-teixi-band-the-b
  o-dereks-iv-rhythm-blues-soul-festival-sala-villanos/var/ri-0.l-L2
+LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Natalia Doco
+DTSTART;TZID=Europe/Madrid:20260424T210000
+UID:18ca1fc376ef98f10ff9fc7c974992580df922dfbd83c6d40efb9f0e2e771b3c
+CATEGORIES:music
+DESCRIPTION:Concierto / Latin / Pop / Urban / World Music & Folk\n\nhttps:
+ //salavillanos.es/evento/natalia-doco/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Linaje
+DTSTART;TZID=Europe/Madrid:20260424T210000
+UID:26e4b7d6e4fb1a1c794ed36d59ac9e7b40c182e1d895aa04cb0bda269ec20ba7
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://www.entradas.com/artist/
+ linaje/?Affiliate=RIV
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tregua + Fantoches
+DTSTART;TZID=Europe/Madrid:20260424T220000
+UID:c6bbc47204ac2dbca072c96f507f1138e6b79e8fa679cdee293e306872b66aff
+CATEGORIES:music
+DESCRIPTION:Precio de las entradas: 30 primeras 9€/20 primeros 3 x2=10.5
+ 0€/16€ Entradas a la venta en enterticket Bio/enlaces bandas: Tregua_f
+ acebook + Tregua_instagram Más información: Tregua: La banda gallega que
+  se perfila como esencial en el\n\nhttps://gruta77.com/events/tregua-banda
+ -invitada/var/ri-0.l-L2
 LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
 END:VEVENT
 END:VCALENDAR
