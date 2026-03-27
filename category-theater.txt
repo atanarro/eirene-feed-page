@@ -1,9 +1,53 @@
 Eirene feed debug
-Total events: 14
+Total events: 18
 
-[1] Niebla
+[1] Constelaciones
+  id: 93c4e4d7ae6705d0c227557155cc519e701190d3161c898ffd770ed7229b6a00
+  start: 2026-02-06T20:00:00+01:00
+  end: 2026-03-29T20:00:00+02:00
+  category: theater
+  source: dramatico_inaem
+  location: Teatro Valle-Inclán - Plaza de Lavapies, Madrid
+  coordinates: 40.4080471, -3.7003217
+  url: https://dramatico.inaem.gob.es/evento/constelaciones/
+  description: Texto Nick Payne Versión y dirección Sergio Peris-Mencheta
+
+[2] La última noche con mi hermano
+  id: df484f18448dee2449eea922969c3fad7ae78cccea7db5d8b2709d15dea021fd
+  start: 2026-02-13T20:00:00+01:00
+  end: 2026-04-05T20:00:00+02:00
+  category: theater
+  source: dramatico_inaem
+  location: Teatro Maria Guerrero - Calle de Tamayo y Baus, 4, Madrid
+  coordinates: 40.4228646, -3.6928431
+  url: https://dramatico.inaem.gob.es/evento/la-ultima-noche-con-mi-hermano/
+  description: Texto y dirección Alfredo Sanzol
+
+[3] Casi ninguna verdad
+  id: 7bb9229c5406de701333b18c1b45d43cb2daeda7ff87b2d98af381c1eb282154
+  start: 2026-03-06T18:00:00+01:00
+  end: 2026-04-12T18:00:00+02:00
+  category: theater
+  source: dramatico_inaem
+  location: Teatro Valle-Inclán - Plaza de Lavapies, Madrid
+  coordinates: 40.4080471, -3.7003217
+  url: https://dramatico.inaem.gob.es/evento/casi-ninguna-verdad/
+  description: Texto y dirección Cris Blanco Dramaturgia Cris Blanco, Óscar Bueno Rodríguez y Anto Rodríguez
+
+[4] Utopía en llamas
+  id: a2d55cc52793d807a2dc3a7a9b1845d2fab03f29c67826917a62789076be6586
+  start: 2026-03-20T18:00:00+01:00
+  end: 2026-04-26T18:00:00+02:00
+  category: theater
+  source: dramatico_inaem
+  location: Teatro Maria Guerrero - Calle de Tamayo y Baus, 4, Madrid
+  coordinates: 40.4228646, -3.6928431
+  url: https://dramatico.inaem.gob.es/evento/utopia-en-llamas/
+  description: Texto Alda Lozano Dirección Concha Delgado y Sandra Ferrús
+
+[5] Niebla
   id: f5c1c7ebb968eb8a2029978f386f4763212118ce95d6b31e1e8cb896ee68f191
-  start: 2026-03-26T19:30:00+01:00
+  start: 2026-03-27T19:30:00+01:00
   end: 2026-04-12T19:30:00+02:00
   category: theater
   source: nave_10
@@ -12,29 +56,7 @@ Total events: 14
   url: https://tienda.madrid-destino.com/es/nave-10/niebla/
   description: Últimas entradas desde 15.75€ | Tags: JOBO
 
-[2] Un verano por metro cuadrado
-  id: df79a72af200b01a10e19fa1cbf6c1035d70d0d044d96c14c0280aaeaf0d22c4
-  start: 2026-03-26T19:30:00+01:00
-  end: N/A
-  category: theater
-  source: teatro_del_barrio
-  location: Teatro del Barrio - Calle de Zurita, 20, Madrid
-  coordinates: 40.4096081, -3.699174
-  url: https://teatrodelbarrio.com/un-verano-por-metro-cuadrado/
-  description: ¡Ya solo quedan 1 plazas!
-
-[3] Concierto primer aniversario Peña Flamenca de Lavapiés a beneficio de UNRWA España
-  id: 74132497d786ba12955989a9bb906057a7680dcf7c0f56e2f7c1517fd13cfe3c
-  start: 2026-03-26T22:15:00+01:00
-  end: N/A
-  category: theater
-  source: teatro_del_barrio
-  location: Teatro del Barrio - Calle de Zurita, 20, Madrid
-  coordinates: 40.4096081, -3.699174
-  url: https://teatrodelbarrio.com/concierto-primer-aniversario-pena-flamenca-de-lavapies-a-beneficio-de-unrwa/
-  description: Localidades agotadas
-
-[4] Solo quería bailar
+[6] Solo quería bailar
   id: 3fc2832f4da28ed13485fd0d8913773af250005a95940c22b75b1573200ff65a
   start: 2026-03-27T19:30:00+01:00
   end: N/A
@@ -45,7 +67,7 @@ Total events: 14
   url: https://teatrodelbarrio.com/solo-queria-bailar/
   description: Disponible
 
-[5] Noche de fiesta - 15 AÑOS DE CINE LÉSBICO
+[7] Noche de fiesta - 15 AÑOS DE CINE LÉSBICO
   id: f586d58a9f06e8de4a131f79b25fcb02dfac80a3e888d961f853c714f0b29d82
   start: 2026-03-27T22:00:00+01:00
   end: N/A
@@ -56,7 +78,7 @@ Total events: 14
   url: https://teatrodelbarrio.com/noche-de-fiesta-15-anos-de-cine-lesbico/
   description: Programación en Teatro del Barrio
 
-[6] Malas
+[8] Malas
   id: 4ea68fccf8c967c221c8010e3e2d1899791fa26d44cc9361ddf2da7224c647cc
   start: 2026-03-28T13:00:00+01:00
   end: N/A
@@ -67,7 +89,7 @@ Total events: 14
   url: https://teatrodelbarrio.com/malas/
   description: Disponible
 
-[7] Isa & Javi
+[9] Isa & Javi
   id: 2f442b2dfc658b20aa51e2eb36bd757327588cd45bd793e912a550e3dd308d5a
   start: 2026-03-28T13:00:00+01:00
   end: N/A
@@ -78,7 +100,7 @@ Total events: 14
   url: https://teatrodelbarrio.com/isa-y-javi/
   description: Disponible
 
-[8] Solo quería bailar
+[10] Solo quería bailar
   id: 938cc26c235a4b9c5346ec3f801a278835682fe2430211abacf72d26e83bd3d9
   start: 2026-03-28T19:30:00+01:00
   end: N/A
@@ -89,7 +111,7 @@ Total events: 14
   url: https://teatrodelbarrio.com/solo-queria-bailar/
   description: Disponible
 
-[9] Feishow
+[11] Feishow
   id: 1cdbde66789c7de7c5e487cc1f6bc09a032fc5634cbaa5cd94b653a0ff878099
   start: 2026-03-28T22:15:00+01:00
   end: N/A
@@ -100,7 +122,7 @@ Total events: 14
   url: https://teatrodelbarrio.com/feishow/
   description: Disponible
 
-[10] Feishow
+[12] Feishow
   id: fc1f8eb631da85b127f747e4b006e15436b23d36d0503568fa719d3fd18be38b
   start: 2026-03-29T13:00:00+02:00
   end: N/A
@@ -111,7 +133,7 @@ Total events: 14
   url: https://teatrodelbarrio.com/feishow/
   description: Disponible
 
-[11] Solo quería bailar
+[13] Solo quería bailar
   id: 6a4d4295a58e76bd6db78a49a313b4a4740ab220f56ce2d2be66a8bd04b656df
   start: 2026-03-29T18:00:00+02:00
   end: N/A
@@ -122,7 +144,7 @@ Total events: 14
   url: https://teatrodelbarrio.com/solo-queria-bailar/
   description: Disponible
 
-[12] La rabia es nuestra
+[14] La rabia es nuestra
   id: af8e3891222ef76798d81e539598d0ea8e9fe8aae772834adde22e5216b8cbd8
   start: 2026-03-29T20:30:00+02:00
   end: N/A
@@ -133,7 +155,7 @@ Total events: 14
   url: https://teatrodelbarrio.com/la-rabia-es-nuestra/
   description: ¡Ya solo quedan 1 plazas!
 
-[13] Documental “Palestina, una tragedia permanente” + libro “El diario de Laila Azam” (Historias de Gaza)
+[15] Documental “Palestina, una tragedia permanente” + libro “El diario de Laila Azam” (Historias de Gaza)
   id: 176dff024a9265a2a6f6f5d6a5752119a2a56ad5425800655ab617f92d1a1328
   start: 2026-03-31T19:00:00+02:00
   end: N/A
@@ -144,7 +166,18 @@ Total events: 14
   url: https://teatrodelbarrio.com/palestina-una-tragedia-permanente/
   description: Disponible
 
-[14] Guayominí
+[16] The Silence
+  id: 6def926b11fdc0ac637add110f9fe7ccd968b6e6ef46eca412fb639429fbcb4d
+  start: 2026-04-10T20:00:00+02:00
+  end: 2026-04-12T20:00:00+02:00
+  category: theater
+  source: dramatico_inaem
+  location: Teatro Valle-Inclán - Plaza de Lavapies, Madrid
+  coordinates: 40.4080471, -3.7003217
+  url: https://dramatico.inaem.gob.es/evento/the-silence/
+  description: Texto y dirección Falk Richter
+
+[17] Guayominí
   id: fb2dc857668957f5d7d1d47ee18f558122fdd59002bd0dd5cf3e9b964fb195ba
   start: 2026-04-24T19:30:00+02:00
   end: 2026-05-17T18:30:00+02:00
@@ -154,3 +187,14 @@ Total events: 14
   coordinates: 40.3920606, -3.6978319
   url: https://tienda.madrid-destino.com/es/nave-10/guayomini/
   description: Entradas disponibles desde 15.75€
+
+[18] LEXIKON
+  id: 96160284aff37b4e21894727d9155171ad4259d5a269d255980f52baed4c10fd
+  start: 2026-04-24T20:00:00+02:00
+  end: 2026-05-24T20:00:00+02:00
+  category: theater
+  source: dramatico_inaem
+  location: Teatro Maria Guerrero - Calle de Tamayo y Baus, 4, Madrid
+  coordinates: 40.4228646, -3.6928431
+  url: https://dramatico.inaem.gob.es/evento/lexikon/
+  description: Una creación de El Conde de Torrefiel Texto y dirección Tanya Beyeler y Pablo Gisbert

@@ -409,19 +409,6 @@ DESCRIPTION:Obras maestras del Museo del Louvre dialogan por primera vez c
 LOCATION:Museo Arqueológico Nacional - de Serrano\, 13\, Madrid\, 28001
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hoy es un buen día para hablar de derechos digitales
-DTSTART;TZID=Europe/Madrid:20251120T000000
-DTEND;TZID=Europe/Madrid:20260503T000000
-UID:3c58bff717ecf1ab125e0a8b518f620c9b5257fb9035b059c574c2842926dffa
-CATEGORIES:exhibition
-DESCRIPTION:Reflexión crítica sobre la ciudadanía digital\, los derecho
- s fundamentales y el impacto de la tecnología en nuestra vida (Espacio Fu
- ndación Telefónica. Hasta 3 mayo).\n\nhttps://espacio.fundaciontelefonic
- a.com/evento/hoy-es-un-buen-dia-para-hablar-de-derechos-digitales/
-LOCATION:Espacio Fundación Telefónica - de Fuencarral\, 3\, Madrid\, 280
- 04
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Escaparatismos
 DTSTART;TZID=Europe/Madrid:20251121T000000
 DTEND;TZID=Europe/Madrid:20260531T000000
@@ -436,6 +423,19 @@ DESCRIPTION:Exposición colectiva que destaca el papel de los escaparates
  &rm=d6b0744554b6b010
 LOCATION:Museo de Arte Contemporáneo - del Conde Duque\, 9\, Madrid\, 280
  15
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alegorías de un porvenir
+DTSTART;TZID=Europe/Madrid:20251125T000000
+DTEND;TZID=Europe/Madrid:20260530T000000
+UID:3b5453be4f4fe4791337db554ef325d4fe1a8daea656b7f097e57c822d855606
+CATEGORIES:exhibition
+DESCRIPTION:El Banco de España analiza por primera vez el impacto del mov
+ imiento art déco en su sede principal de Cibeles (Sala de Exposiciones Ba
+ nco de España. Hasta 30 mayo).\n\nhttps://coleccion.bde.es/wca/es/seccion
+ es/exposiciones/alegorias-de-un-porvenir.html
+LOCATION:Sala de Exposiciones del Banco de España - de Alcalá\, 48\, Mad
+ rid\, 28012
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avatar: The Experience
@@ -766,6 +766,19 @@ DESCRIPTION:Selcción de piezas de la colección chipriota del MAN fuert
 LOCATION:Museo Arqueológico Nacional - de Serrano\, 13\, Madrid\, 28001
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Momentos. Un proyecto fotográfico de Antonio Liébana
+DTSTART;TZID=Europe/Madrid:20260115T000000
+DTEND;TZID=Europe/Madrid:20260410T000000
+UID:aa558e2f2d99131600c69657230d720a460ed76765cb6fe3542ace6295a6f347
+CATEGORIES:exhibition
+DESCRIPTION:Exposición de Antonio Liébana que reúne 25 fotografías de 
+ gran formato tomadas en distintos rincones del planeta (B the travel brand
+  Xperience Madrid. Hasta 10 abril).\n\nhttps://premium.btravel.com/momento
+ s-un-proyecto-fotografico-de-antonio-liebana/
+LOCATION:B the travel brand Xperience Madrid - de Miguel Ángel\, 33\, Mad
+ rid\, 28010
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Des-caradas
 DTSTART;TZID=Europe/Madrid:20260116T000000
 DTEND;TZID=Europe/Madrid:20260426T000000
@@ -1051,18 +1064,6 @@ DESCRIPTION:La edad de oro del grabado japonés entre finales del siglo XV
  anfernando.com/actividades/exposiciones/bellezas-del-mundo-flotante/
 LOCATION:Real Academia de Bellas Artes de San Fernando - de Alcalá\, 13\,
   Madrid\, 28014
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La casa de las artes. Abierta desde 1926
-DTSTART;TZID=Europe/Madrid:20260212T000000
-DTEND;TZID=Europe/Madrid:20260510T000000
-UID:ee5ed0b89007b2883c9bf9b903f561f71f75e32932b51c1e4a905c62f4ed3042
-CATEGORIES:exhibition
-DESCRIPTION:Un recorrido por el origen\, el diseño y la construcción de 
- una de las arquitecturas más emblemáticas de la Gran Vía madrileña (C
- írculo de Bellas Artes. Hasta 10 may).\n\nhttps://www.circulobellasartes.
- com/exposiciones/la-casa-de-las-artes-abierta-desde-1926/
-LOCATION:Círculo de Bellas Artes - de Alcalá\, 42\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:X Muestra Orfebrería y Joyería Contemporánea

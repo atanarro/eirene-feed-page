@@ -2,33 +2,55 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
+SUMMARY:Constelaciones
+DTSTART;TZID=Europe/Madrid:20260206T200000
+DTEND;TZID=Europe/Madrid:20260329T200000
+UID:93c4e4d7ae6705d0c227557155cc519e701190d3161c898ffd770ed7229b6a00
+CATEGORIES:theater
+DESCRIPTION:Texto Nick Payne Versión y dirección Sergio Peris-Mencheta\n
+ \nhttps://dramatico.inaem.gob.es/evento/constelaciones/
+LOCATION:Teatro Valle-Inclán - Plaza de Lavapies\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La última noche con mi hermano
+DTSTART;TZID=Europe/Madrid:20260213T200000
+DTEND;TZID=Europe/Madrid:20260405T200000
+UID:df484f18448dee2449eea922969c3fad7ae78cccea7db5d8b2709d15dea021fd
+CATEGORIES:theater
+DESCRIPTION:Texto y dirección Alfredo Sanzol\n\nhttps://dramatico.inaem.g
+ ob.es/evento/la-ultima-noche-con-mi-hermano/
+LOCATION:Teatro Maria Guerrero - Calle de Tamayo y Baus\, 4\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Casi ninguna verdad
+DTSTART;TZID=Europe/Madrid:20260306T180000
+DTEND;TZID=Europe/Madrid:20260412T180000
+UID:7bb9229c5406de701333b18c1b45d43cb2daeda7ff87b2d98af381c1eb282154
+CATEGORIES:theater
+DESCRIPTION:Texto y dirección Cris Blanco Dramaturgia Cris Blanco\, Ósca
+ r Bueno Rodríguez y Anto Rodríguez\n\nhttps://dramatico.inaem.gob.es/eve
+ nto/casi-ninguna-verdad/
+LOCATION:Teatro Valle-Inclán - Plaza de Lavapies\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Utopía en llamas
+DTSTART;TZID=Europe/Madrid:20260320T180000
+DTEND;TZID=Europe/Madrid:20260426T180000
+UID:a2d55cc52793d807a2dc3a7a9b1845d2fab03f29c67826917a62789076be6586
+CATEGORIES:theater
+DESCRIPTION:Texto Alda Lozano Dirección Concha Delgado y Sandra Ferrús\n
+ \nhttps://dramatico.inaem.gob.es/evento/utopia-en-llamas/
+LOCATION:Teatro Maria Guerrero - Calle de Tamayo y Baus\, 4\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Niebla
-DTSTART;TZID=Europe/Madrid:20260326T193000
+DTSTART;TZID=Europe/Madrid:20260327T193000
 DTEND;TZID=Europe/Madrid:20260412T193000
 UID:f5c1c7ebb968eb8a2029978f386f4763212118ce95d6b31e1e8cb896ee68f191
 CATEGORIES:theater
 DESCRIPTION:Últimas entradas desde 15.75€ | Tags: JOBO\n\nhttps://tiend
  a.madrid-destino.com/es/nave-10/niebla/
 LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Un verano por metro cuadrado
-DTSTART;TZID=Europe/Madrid:20260326T193000
-UID:df79a72af200b01a10e19fa1cbf6c1035d70d0d044d96c14c0280aaeaf0d22c4
-CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 1 plazas!\n\nhttps://teatrodelbarrio.com/un-v
- erano-por-metro-cuadrado/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Concierto primer aniversario Peña Flamenca de Lavapiés a benefic
- io de UNRWA España
-DTSTART;TZID=Europe/Madrid:20260326T221500
-UID:74132497d786ba12955989a9bb906057a7680dcf7c0f56e2f7c1517fd13cfe3c
-CATEGORIES:theater
-DESCRIPTION:Localidades agotadas\n\nhttps://teatrodelbarrio.com/concierto-
- primer-aniversario-pena-flamenca-de-lavapies-a-beneficio-de-unrwa/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Solo quería bailar
@@ -115,6 +137,16 @@ DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/palestina-una-traged
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Silence
+DTSTART;TZID=Europe/Madrid:20260410T200000
+DTEND;TZID=Europe/Madrid:20260412T200000
+UID:6def926b11fdc0ac637add110f9fe7ccd968b6e6ef46eca412fb639429fbcb4d
+CATEGORIES:theater
+DESCRIPTION:Texto y dirección Falk Richter\n\nhttps://dramatico.inaem.gob
+ .es/evento/the-silence/
+LOCATION:Teatro Valle-Inclán - Plaza de Lavapies\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Guayominí
 DTSTART;TZID=Europe/Madrid:20260424T193000
 DTEND;TZID=Europe/Madrid:20260517T183000
@@ -123,5 +155,16 @@ CATEGORIES:theater
 DESCRIPTION:Entradas disponibles desde 15.75€\n\nhttps://tienda.madrid-d
  estino.com/es/nave-10/guayomini/
 LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LEXIKON
+DTSTART;TZID=Europe/Madrid:20260424T200000
+DTEND;TZID=Europe/Madrid:20260524T200000
+UID:96160284aff37b4e21894727d9155171ad4259d5a269d255980f52baed4c10fd
+CATEGORIES:theater
+DESCRIPTION:Una creación de El Conde de Torrefiel Texto y dirección Tany
+ a Beyeler y Pablo Gisbert\n\nhttps://dramatico.inaem.gob.es/evento/lexikon
+ /
+LOCATION:Teatro Maria Guerrero - Calle de Tamayo y Baus\, 4\, Madrid
 END:VEVENT
 END:VCALENDAR

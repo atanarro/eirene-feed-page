@@ -2,37 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Deteresa
-DTSTART;TZID=Europe/Madrid:20260326T203000
-UID:164a5e36b281ead7026821e1a40cae424fefecec37a5d95954f017bddc7fd03e
-CATEGORIES:music
-DESCRIPTION:Concierto / Pop / Urban / World Music & Folk\n\nhttps://salavi
- llanos.es/evento/deteresa/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Dead South
-DTSTART;TZID=Europe/Madrid:20260326T210000
-UID:b6f7e71a4cc74b3d6be9c9272d4b3b73dc339495b22494934290456279b5b895
-CATEGORIES:music
-DESCRIPTION:Apertura Puertas: 19:00 pm\n\nhttps://www.entradas.com/event/t
- he-dead-south-sala-la-riviera-20310337/?affiliate=RIV
-LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
- id
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dúo Caifás Presenta "Jesucristo Superstar"
-DTSTART;TZID=Europe/Madrid:20260326T210000
-UID:732430b5a69583bc6d71a33c0421e42130461a52d72c8508e03cfd9d2235cc4c
-CATEGORIES:music
-DESCRIPTION:Precio de las entradas: 10€/13€ Entradas a la venta en mov
- ingtickets Bio/enlaces bandas: Más información: JESUCRISTO SUPERSTAR de 
- salón por el DÚO CAIFÁS. Gira Crucis XV Aniversario. Gilberto Aubán y 
- Antonio\n\nhttps://gruta77.com/events/duo-caifas-presenta-jesucristo-super
- star/var/ri-0.l-L2
-LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Compota De Manana
 DTSTART;TZID=Europe/Madrid:20260327T210000
 UID:b181260aa855287874bf5da4247073d1847a9888e6a1bce1c7fc9b83a878dd65
@@ -551,6 +520,37 @@ DESCRIPTION:Precio de las entradas: 30 primeras 9€/20 primeros 3 x2=10.5
  acebook + Tregua_instagram Más información: Tregua: La banda gallega que
   se perfila como esencial en el\n\nhttps://gruta77.com/events/tregua-banda
  -invitada/var/ri-0.l-L2
+LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Iseo & Dodosound
+DTSTART;TZID=Europe/Madrid:20260425T210000
+UID:fb494f3a71f8213ecd8ce0145d8f25d1e2c0876d31bdf1f032b8af69b1a371a9
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://www.iseododosound.com/pa
+ ges/25-04-madrid
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IBEROEXPERIA Sessions presenta a La Muchacha (Colombia)
+DTSTART;TZID=Europe/Madrid:20260425T213000
+UID:1ac558076360935addbed7ae92c4ae978ef5a0d0d5196524f3844bfd978d8e4d
+CATEGORIES:music
+DESCRIPTION:Concierto / Latin / Urban\n\nhttps://salavillanos.es/evento/ib
+ eroexperia-sessions-presenta-a-la-muchacha-colombia/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Subterranean + Anti Idols + Maldita
+DTSTART;TZID=Europe/Madrid:20260425T223000
+UID:999031487267e1c986235828ffd1f27eb13296175c4d33d80a2e179bcd715b69
+CATEGORIES:music
+DESCRIPTION:Precio de las entradas: 15€/17€ Entradas a la venta en hfm
+ n Bio/enlaces bandas: Subterranean_facebook + Subterranean_instagram Anti 
+ Idols_facebook + Anti Idols_bandcamp + Anti Idols_X + Anti Idols_instagram
+  Maldita_instagram Más información:\n\nhttps://gruta77.com/events/subter
+ ranean/var/ri-0.l-L2
 LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
 END:VEVENT
 END:VCALENDAR
