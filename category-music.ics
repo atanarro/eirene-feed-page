@@ -2,33 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Compota De Manana
-DTSTART;TZID=Europe/Madrid:20260327T210000
-UID:b181260aa855287874bf5da4247073d1847a9888e6a1bce1c7fc9b83a878dd65
-CATEGORIES:music
-DESCRIPTION:Concierto / Latin\n\nhttps://salavillanos.es/evento/compota-de
- -manana/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Biznaga
-DTSTART;TZID=Europe/Madrid:20260327T210000
-UID:9ff11d7189859baed14506a8b240cfa0f89450752f2b70d9dadd2ad86e8cae5e
-CATEGORIES:music
-DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://dice.fm/event/2wpp3o-biz
- naga-27th-mar-la-riviera-madrid-tickets
-LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
- id
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dam Swindle DJ SET + RAFA SANTOS
-DTSTART;TZID=Europe/Madrid:20260327T235900
-UID:85331b27d69b00428483b317d9642edf4be545c8599aac708dada37342f7fa08
-CATEGORIES:music
-DESCRIPTION:Club\n\nhttps://salavillanos.es/evento/dam-swindle-dj-set/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Lee Ritenour
 DTSTART;TZID=Europe/Madrid:20260328T210000
 UID:88066b209d188ec4fc91083fc17c90fd1edb30a2aaf82b07b9048b1d132fd3c8
@@ -393,15 +366,6 @@ DESCRIPTION:Concierto / Jazz\n\nhttps://salavillanos.es/evento/swing-party
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:XERACH presentacion de disco
-DTSTART;TZID=Europe/Madrid:20260419T190000
-UID:771fbc5deab6ff19f8e697e11fa97604d2ad6ba855392344c5b553428673f7d0
-CATEGORIES:music
-DESCRIPTION:Concierto / Electronic / Pop / Urban\n\nhttps://salavillanos.e
- s/evento/xerach-presentacion-de-disco/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Hens
 DTSTART;TZID=Europe/Madrid:20260419T203000
 UID:ed6573981c4b13699d22a5446efd77d4dc546da9b45ea173e230109f22b4a03e
@@ -552,5 +516,15 @@ DESCRIPTION:Precio de las entradas: 15€/17€ Entradas a la venta en hfm
   Maldita_instagram Más información:\n\nhttps://gruta77.com/events/subter
  ranean/var/ri-0.l-L2
 LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Saxon
+DTSTART;TZID=Europe/Madrid:20260426T200000
+UID:fb1cd7e1ae1b37f4db06cd0704160190ee5e8196b79b1d34d43925431dbdead5
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:00 pm\n\nhttps://www.madnesslive.es/es/co
+ nciertos-en-madrid/1679-comprar-entrada-saxon-madrid.html
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
 END:VEVENT
 END:VCALENDAR
