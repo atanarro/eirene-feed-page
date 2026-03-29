@@ -1,62 +1,51 @@
 Eirene feed debug
-Total events: 10
+Total events: 12
 
-[1] Malas
-  id: 4ea68fccf8c967c221c8010e3e2d1899791fa26d44cc9361ddf2da7224c647cc
-  start: 2026-03-28T13:00:00+01:00
-  end: N/A
+[1] Constelaciones
+  id: 93c4e4d7ae6705d0c227557155cc519e701190d3161c898ffd770ed7229b6a00
+  start: 2026-02-06T20:00:00+01:00
+  end: 2026-03-29T20:00:00+02:00
   category: theater
-  source: teatro_del_barrio
-  location: Teatro del Barrio - Calle de Zurita, 20, Madrid
-  coordinates: 40.4096081, -3.699174
-  url: https://teatrodelbarrio.com/malas/
-  description: Disponible
+  source: dramatico_inaem
+  location: Teatro Valle-Inclán - Plaza de Lavapies, Madrid
+  coordinates: 40.4080471, -3.7003217
+  url: https://dramatico.inaem.gob.es/evento/constelaciones/
+  description: Texto Nick Payne Versión y dirección Sergio Peris-Mencheta
 
-[2] Isa & Javi
-  id: 2f442b2dfc658b20aa51e2eb36bd757327588cd45bd793e912a550e3dd308d5a
-  start: 2026-03-28T13:00:00+01:00
-  end: N/A
+[2] La última noche con mi hermano
+  id: df484f18448dee2449eea922969c3fad7ae78cccea7db5d8b2709d15dea021fd
+  start: 2026-02-13T20:00:00+01:00
+  end: 2026-04-05T20:00:00+02:00
   category: theater
-  source: teatro_del_barrio
-  location: Teatro del Barrio - Calle de Zurita, 20, Madrid
-  coordinates: 40.4096081, -3.699174
-  url: https://teatrodelbarrio.com/isa-y-javi/
-  description: Disponible
+  source: dramatico_inaem
+  location: Teatro Maria Guerrero - Calle de Tamayo y Baus, 4, Madrid
+  coordinates: 40.4228646, -3.6928431
+  url: https://dramatico.inaem.gob.es/evento/la-ultima-noche-con-mi-hermano/
+  description: Texto y dirección Alfredo Sanzol
 
-[3] Niebla
-  id: f5c1c7ebb968eb8a2029978f386f4763212118ce95d6b31e1e8cb896ee68f191
-  start: 2026-03-28T19:30:00+01:00
-  end: 2026-04-12T19:30:00+02:00
+[3] Casi ninguna verdad
+  id: 7bb9229c5406de701333b18c1b45d43cb2daeda7ff87b2d98af381c1eb282154
+  start: 2026-03-06T18:00:00+01:00
+  end: 2026-04-12T18:00:00+02:00
   category: theater
-  source: nave_10
-  location: Nave 10 - Paseo de la Chopera, 14, Madrid
-  coordinates: 40.3920606, -3.6978319
-  url: https://tienda.madrid-destino.com/es/nave-10/niebla/
-  description: Últimas entradas desde 15.75€ | Tags: JOBO
+  source: dramatico_inaem
+  location: Teatro Valle-Inclán - Plaza de Lavapies, Madrid
+  coordinates: 40.4080471, -3.7003217
+  url: https://dramatico.inaem.gob.es/evento/casi-ninguna-verdad/
+  description: Texto y dirección Cris Blanco Dramaturgia Cris Blanco, Óscar Bueno Rodríguez y Anto Rodríguez
 
-[4] Solo quería bailar
-  id: 938cc26c235a4b9c5346ec3f801a278835682fe2430211abacf72d26e83bd3d9
-  start: 2026-03-28T19:30:00+01:00
-  end: N/A
+[4] Utopía en llamas
+  id: a2d55cc52793d807a2dc3a7a9b1845d2fab03f29c67826917a62789076be6586
+  start: 2026-03-20T18:00:00+01:00
+  end: 2026-04-26T18:00:00+02:00
   category: theater
-  source: teatro_del_barrio
-  location: Teatro del Barrio - Calle de Zurita, 20, Madrid
-  coordinates: 40.4096081, -3.699174
-  url: https://teatrodelbarrio.com/solo-queria-bailar/
-  description: Disponible
+  source: dramatico_inaem
+  location: Teatro Maria Guerrero - Calle de Tamayo y Baus, 4, Madrid
+  coordinates: 40.4228646, -3.6928431
+  url: https://dramatico.inaem.gob.es/evento/utopia-en-llamas/
+  description: Texto Alda Lozano Dirección Concha Delgado y Sandra Ferrús
 
 [5] Feishow
-  id: 1cdbde66789c7de7c5e487cc1f6bc09a032fc5634cbaa5cd94b653a0ff878099
-  start: 2026-03-28T22:15:00+01:00
-  end: N/A
-  category: theater
-  source: teatro_del_barrio
-  location: Teatro del Barrio - Calle de Zurita, 20, Madrid
-  coordinates: 40.4096081, -3.699174
-  url: https://teatrodelbarrio.com/feishow/
-  description: Disponible
-
-[6] Feishow
   id: fc1f8eb631da85b127f747e4b006e15436b23d36d0503568fa719d3fd18be38b
   start: 2026-03-29T13:00:00+02:00
   end: N/A
@@ -67,7 +56,7 @@ Total events: 10
   url: https://teatrodelbarrio.com/feishow/
   description: Disponible
 
-[7] Solo quería bailar
+[6] Solo quería bailar
   id: 6a4d4295a58e76bd6db78a49a313b4a4740ab220f56ce2d2be66a8bd04b656df
   start: 2026-03-29T18:00:00+02:00
   end: N/A
@@ -77,6 +66,17 @@ Total events: 10
   coordinates: 40.4096081, -3.699174
   url: https://teatrodelbarrio.com/solo-queria-bailar/
   description: Disponible
+
+[7] Niebla
+  id: f5c1c7ebb968eb8a2029978f386f4763212118ce95d6b31e1e8cb896ee68f191
+  start: 2026-03-29T19:30:00+02:00
+  end: 2026-04-12T19:30:00+02:00
+  category: theater
+  source: nave_10
+  location: Nave 10 - Paseo de la Chopera, 14, Madrid
+  coordinates: 40.3920606, -3.6978319
+  url: https://tienda.madrid-destino.com/es/nave-10/niebla/
+  description: Últimas entradas desde 15.75€ | Tags: JOBO
 
 [8] La rabia es nuestra
   id: af8e3891222ef76798d81e539598d0ea8e9fe8aae772834adde22e5216b8cbd8
@@ -98,9 +98,20 @@ Total events: 10
   location: Teatro del Barrio - Calle de Zurita, 20, Madrid
   coordinates: 40.4096081, -3.699174
   url: https://teatrodelbarrio.com/palestina-una-tragedia-permanente/
-  description: ¡Ya solo quedan 30 plazas!
+  description: ¡Ya solo quedan 26 plazas!
 
-[10] Guayominí
+[10] The Silence
+  id: 6def926b11fdc0ac637add110f9fe7ccd968b6e6ef46eca412fb639429fbcb4d
+  start: 2026-04-10T20:00:00+02:00
+  end: 2026-04-12T20:00:00+02:00
+  category: theater
+  source: dramatico_inaem
+  location: Teatro Valle-Inclán - Plaza de Lavapies, Madrid
+  coordinates: 40.4080471, -3.7003217
+  url: https://dramatico.inaem.gob.es/evento/the-silence/
+  description: Texto y dirección Falk Richter
+
+[11] Guayominí
   id: fb2dc857668957f5d7d1d47ee18f558122fdd59002bd0dd5cf3e9b964fb195ba
   start: 2026-04-24T19:30:00+02:00
   end: 2026-05-17T18:30:00+02:00
@@ -110,3 +121,14 @@ Total events: 10
   coordinates: 40.3920606, -3.6978319
   url: https://tienda.madrid-destino.com/es/nave-10/guayomini/
   description: Entradas disponibles desde 15.75€
+
+[12] LEXIKON
+  id: 96160284aff37b4e21894727d9155171ad4259d5a269d255980f52baed4c10fd
+  start: 2026-04-24T20:00:00+02:00
+  end: 2026-05-24T20:00:00+02:00
+  category: theater
+  source: dramatico_inaem
+  location: Teatro Maria Guerrero - Calle de Tamayo y Baus, 4, Madrid
+  coordinates: 40.4228646, -3.6928431
+  url: https://dramatico.inaem.gob.es/evento/lexikon/
+  description: Una creación de El Conde de Torrefiel Texto y dirección Tanya Beyeler y Pablo Gisbert

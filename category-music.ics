@@ -2,45 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Lee Ritenour
-DTSTART;TZID=Europe/Madrid:20260328T210000
-UID:88066b209d188ec4fc91083fc17c90fd1edb30a2aaf82b07b9048b1d132fd3c8
-CATEGORIES:music
-DESCRIPTION:Concierto / Villanos del Jazz\n\nhttps://salavillanos.es/event
- o/lee-ritenour/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Biznaga (Sold Out)
-DTSTART;TZID=Europe/Madrid:20260328T210000
-UID:02d976ff5e6f502b3fee2fab42a52922d4784429d4358e33cb2b3b2d0ff60556
-CATEGORIES:music
-DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://dice.fm/event/eo2bq6-biz
- naga-28th-mar-la-riviera-madrid-tickets
-LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
- id
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Zeke (EEUU) + Electric Riot\; En Escenarios Mahou
-DTSTART;TZID=Europe/Madrid:20260328T213000
-UID:f4b0865cae8e42355862a35db117998134f8bfefca45d69b9f9620e0912128fc
-CATEGORIES:music
-DESCRIPTION:Precio de las entradas: 25€/30€ Entradas a la venta en mov
- ingtickets Bio/enlaces bandas: Zeke_facebook + Zeke_youtube + Zeke_instagr
- am Electric Riot_instagram Más información: Zeke\, la banda más bestia 
- del mundo vuelve un año más demostrando\n\nhttps://gruta77.com/events/ze
- ke-eeuu-3/var/ri-0.l-L2
-LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DjRUM + LA IND0
-DTSTART;TZID=Europe/Madrid:20260328T235900
-UID:d50b3de6f2b89f3e15f815a28a22bf60e70784bf6d6fc39f0f48e8500f86d1ac
-CATEGORIES:music
-DESCRIPTION:Club\n\nhttps://salavillanos.es/evento/djrum-la-indo/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Templo Del Baile
 DTSTART;TZID=Europe/Madrid:20260329T173000
 UID:f1f1c95966aef2a85ee8a998c377cf2db3f1f7bad46f184b5646d240a6687f9b
@@ -524,6 +485,25 @@ UID:fb1cd7e1ae1b37f4db06cd0704160190ee5e8196b79b1d34d43925431dbdead5
 CATEGORIES:music
 DESCRIPTION:Apertura Puertas: 19:00 pm\n\nhttps://www.madnesslive.es/es/co
  nciertos-en-madrid/1679-comprar-entrada-saxon-madrid.html
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Snor
+DTSTART;TZID=Europe/Madrid:20260427T203000
+UID:6d65379a638268b045d80ececb0ffc7afef95f530d001d49b9465f98f0522db3
+CATEGORIES:music
+DESCRIPTION:Concierto / Hip Hop & Rap\n\nhttps://salavillanos.es/evento/sn
+ or/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Machine Head
+DTSTART;TZID=Europe/Madrid:20260427T210000
+UID:721a8a0b703e0ece9c8d7168361e52e0604fde1e2ad90389bc7c3ebbd0fafb29
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://www.resurrectionfest.es/
+ route/machine-head-tour-2026/
 LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
  id
 END:VEVENT
