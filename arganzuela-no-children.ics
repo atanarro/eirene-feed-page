@@ -2,19 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Exponencial. De analógicos a digitales
-DTSTART;TZID=Europe/Madrid:20240514T000000
-DTEND;TZID=Europe/Madrid:20271231T000000
-UID:f5757770ba2619f835632f368e9ae1c25e8353ae577ea62f600b1f84611272c3
-CATEGORIES:exhibition
-DESCRIPTION:Exposición permanente que explora el creciente impacto que ha
-  tenido el desarrollo de las telecomunicaciones en todos los ámbitos de n
- uestras vidas (Espacio Fundación Telefónica.\n\nhttp://espacio.fundacio
- ntelefonica.com/
-LOCATION:Espacio Fundación Telefónica - de Fuencarral\, 3\, Madrid\, 280
- 04
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:El martirio de San Andrés
 DTSTART;TZID=Europe/Madrid:20250303T000000
 DTEND;TZID=Europe/Madrid:20260630T000000
@@ -387,19 +374,6 @@ DESCRIPTION:Muestra de imágenes en diversos formatos\, técnicas y soport
 LOCATION:Museo del Prado - del Prado\, s/n\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Migrar. Historias de Movimiento\, Pertenencia y Transformación
-DTSTART;TZID=Europe/Madrid:20260203T000000
-DTEND;TZID=Europe/Madrid:20260329T000000
-UID:6e1533cc29d478d35c20379939a562ae65c156154c9cfe70098e3dedc687ed5b
-CATEGORIES:exhibition
-DESCRIPTION:Muestra que analiza distintas experiencias de migración y des
- plazamiento a través de objetos e imágenes (Museo Nacional de Antropolog
- ía. A partir 3 febrero).\n\nhttps://www.esmadrid.com/agenda/migrar-histor
- ias-movimiento-pertenencia-transformacion-museo-nacional-antropologia
-LOCATION:Museo Nacional de Antropología - de Alfonso XII\, 68\, Madrid\, 
- 28014
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Rauschenberg: Express. En movimiento
 DTSTART;TZID=Europe/Madrid:20260203T000000
 DTEND;TZID=Europe/Madrid:20260524T000000
@@ -452,28 +426,6 @@ LOCATION:Fernán Gómez Centro Cultural de la Villa - de Colón \, 4\, Mad
  rid\, 28001
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Constelaciones
-DTSTART;TZID=Europe/Madrid:20260206T200000
-DTEND;TZID=Europe/Madrid:20260329T200000
-UID:93c4e4d7ae6705d0c227557155cc519e701190d3161c898ffd770ed7229b6a00
-CATEGORIES:theater
-DESCRIPTION:Texto Nick Payne Versión y dirección Sergio Peris-Mencheta\n
- \nhttps://dramatico.inaem.gob.es/evento/constelaciones/
-LOCATION:Teatro Valle-Inclán - Plaza de Lavapies\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Transitar el siglo XX. Dibujo y escultura en las Colecciones ICO
-DTSTART;TZID=Europe/Madrid:20260210T000000
-DTEND;TZID=Europe/Madrid:20260510T000000
-UID:93717ebd5ea4a98c5b28d304f0010176b575de1a7d52196e6765f9d1e15c8bdb
-CATEGORIES:exhibition
-DESCRIPTION:Un recorrido a través de la obra de una treintena de artistas
-  que rinde homenaje a los orígenes de la colección de arte del museo (Mu
- seo ICO. Hasta 10 may).\n\nhttps://www.fundacionico.es/web/guest/pr%C3%B3x
- ima-exposicion
-LOCATION:Museo ICO - de Zorrilla\, 3\, Madrid\, 28014
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Alberto Greco. Viva el arte vivo
 DTSTART;TZID=Europe/Madrid:20260211T000000
 DTEND;TZID=Europe/Madrid:20260608T000000
@@ -499,18 +451,6 @@ LOCATION:Real Academia de Bellas Artes de San Fernando - de Alcalá\, 13\,
   Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:La casa de las artes. Abierta desde 1926
-DTSTART;TZID=Europe/Madrid:20260212T000000
-DTEND;TZID=Europe/Madrid:20260510T000000
-UID:ee5ed0b89007b2883c9bf9b903f561f71f75e32932b51c1e4a905c62f4ed3042
-CATEGORIES:exhibition
-DESCRIPTION:Un recorrido por el origen\, el diseño y la construcción de 
- una de las arquitecturas más emblemáticas de la Gran Vía madrileña (C
- írculo de Bellas Artes. Hasta 10 may).\n\nhttps://www.circulobellasartes.
- com/exposiciones/la-casa-de-las-artes-abierta-desde-1926/
-LOCATION:Círculo de Bellas Artes - de Alcalá\, 42\, Madrid\, 28014
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:X Muestra Orfebrería y Joyería Contemporánea
 DTSTART;TZID=Europe/Madrid:20260212T000000
 DTEND;TZID=Europe/Madrid:20260426T000000
@@ -534,16 +474,6 @@ DESCRIPTION:Exposición que invita a reflexionar sobre la relación entre
  a 17 may).\n\nhttps://rjb.csic.es/evento/exposicion-dia-y-noche-ritmos-del
  -alma/
 LOCATION:Real Jardín Botánico - de Murillo\, 2\, Madrid\, 28014
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La última noche con mi hermano
-DTSTART;TZID=Europe/Madrid:20260213T200000
-DTEND;TZID=Europe/Madrid:20260405T200000
-UID:df484f18448dee2449eea922969c3fad7ae78cccea7db5d8b2709d15dea021fd
-CATEGORIES:theater
-DESCRIPTION:Texto y dirección Alfredo Sanzol\n\nhttps://dramatico.inaem.g
- ob.es/evento/la-ultima-noche-con-mi-hermano/
-LOCATION:Teatro Maria Guerrero - Calle de Tamayo y Baus\, 4\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hammershøi. El ojo que escucha
@@ -746,17 +676,6 @@ DESCRIPTION:La exposición reúne las 38 obras premiadas en la edición 20
 LOCATION:COAM - de Hortaleza\, 63\, Madrid\, 28004
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Casi ninguna verdad
-DTSTART;TZID=Europe/Madrid:20260306T180000
-DTEND;TZID=Europe/Madrid:20260412T180000
-UID:7bb9229c5406de701333b18c1b45d43cb2daeda7ff87b2d98af381c1eb282154
-CATEGORIES:theater
-DESCRIPTION:Texto y dirección Cris Blanco Dramaturgia Cris Blanco\, Ósca
- r Bueno Rodríguez y Anto Rodríguez\n\nhttps://dramatico.inaem.gob.es/eve
- nto/casi-ninguna-verdad/
-LOCATION:Teatro Valle-Inclán - Plaza de Lavapies\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:El cómic belga
 DTSTART;TZID=Europe/Madrid:20260311T000000
 DTEND;TZID=Europe/Madrid:20260409T000000
@@ -792,16 +711,6 @@ DESCRIPTION:Pequeña muestra que presenta un conjunto de obras de Giovanni
  ones/guercino-heroinas-biblicas
 LOCATION:Museo Nacional Thyssen-Bornemisza - del Prado\, 8\, Madrid\, 2801
  4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Utopía en llamas
-DTSTART;TZID=Europe/Madrid:20260320T180000
-DTEND;TZID=Europe/Madrid:20260426T180000
-UID:a2d55cc52793d807a2dc3a7a9b1845d2fab03f29c67826917a62789076be6586
-CATEGORIES:theater
-DESCRIPTION:Texto Alda Lozano Dirección Concha Delgado y Sandra Ferrús\n
- \nhttps://dramatico.inaem.gob.es/evento/utopia-en-llamas/
-LOCATION:Teatro Maria Guerrero - Calle de Tamayo y Baus\, 4\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Feria de Artesanía de Recoletos
@@ -865,794 +774,6 @@ DESCRIPTION:Las esculturas de Federico Gómez Álvarez invitan a reflexion
  n Botánico. 27 mar a 31 may).\n\nhttps://rjb.csic.es/evento/exposicion-br
  otes/
 LOCATION:Real Jardín Botánico - de Murillo\, 2\, Madrid\, 28014
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hoppers
-DTSTART;TZID=Europe/Madrid:20260329T114500
-DTEND;TZID=Europe/Madrid:20260329T132900
-UID:0049111ef00e5ef21c30f25ca33e275462826b35e4f930b327a746b694813eee
-CATEGORIES:cinema
-DESCRIPTION:La historia sigue a una joven\, Mabel\, que puede transferir s
- u mente a un castor robot con el objetivo de infiltrarse en el reino anima
- l. Acaba haciéndose amiga de un castor regio\, el Rey Jorge\, y uniendo a
-  los animales para luchar contra los planes de un promotor inmobiliario.\n
- \nRelease year: 2026\n\nOriginal language: EN\n\nAudio: Doblada ES\n\nhttp
- s://cinesembajadores.es/pelicula/hoppers-doblada-al-espanol/?ciudad=madrid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:María y yo
-DTSTART;TZID=Europe/Madrid:20260329T120000
-UID:ab703cd09a1867bb22dfb8a761c18434012cd6828bc44e0cc24dd28bc535ada2
-CATEGORIES:cinema
-DESCRIPTION:María vive con su madre en Canarias\, a 3000 km de Barcelona\
- , donde vive su padre\, el historietista Miguel Gallardo. A veces\, Miguel
-  y María se van juntos de vacaciones a pasar una semana en un resort del 
- sur de Gran Canaria\, un escenario un tanto inhabitual que no suele acoger
-  entre sus huéspedes a un padre solo con una hija de catorce años que pa
- dece autismo. Esta es la historia de uno de esos viajes y\, sobre todo\, u
- n relato original y lleno de humor\, ironía y sinceridad sobre cómo se c
- onvive con una discapacidad. Documental basado en el cómic homónimo auto
- biográfico de Miguel Gallardo\, fallecido en 2022.\n\nRelease year: 2010\
- n\nOriginal language: ES\n\nhttps://www.cinetecamadrid.com/programacion/ma
- ria-y-yo
-LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Altas capacidades
-DTSTART;TZID=Europe/Madrid:20260329T120000
-DTEND;TZID=Europe/Madrid:20260329T134100
-UID:987c83aea3921bdc4c9b6c3d317c35c677457583ab09722aa161a3084285c26d
-CATEGORIES:cinema
-DESCRIPTION:Alicia y Gonzalo\, una pareja de clase media\, se encuentran c
- on la oportunidad de matricular a su hijo Fer en un colegio laico de élit
- e. Para los padres supone asomar la cabeza en la clase alta\, nuevas amist
- ades\, mayores ingresos\, ventajas incontables. Dicen hacerlo por su hijo.
-  En esta maravillosa contradicción entre los miedos y los principios mora
- les\, las aspiraciones de la pareja se llevarán por delante lo que\, hast
- a entonces\, creían incuestionable.\n\nRelease year: 2026\n\nOriginal lan
- guage: ES\n\nhttps://cinesembajadores.es/pelicula/altas-capacidades/?ciuda
- d=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Domingo de clásicos: En el nombre del padre
-DTSTART;TZID=Europe/Madrid:20260329T120000
-DTEND;TZID=Europe/Madrid:20260329T141500
-UID:c54933a677c77e8dfb380c027607617d097ac1b3cd896d6e98cf4c376a63daf6
-CATEGORIES:cinema
-DESCRIPTION:Belfast\, años 70. Gerry (Day-Lewis) es un gamberro que no ha
- ce nada de provecho\, para disgusto de su padre Giuseppe (Postlethwaite)\,
-  un hombre tranquilo y educado. Cuando Gerry se enfrenta al IRA\, su padre
-  lo manda a Inglaterra. Una vez allí\, por caprichos del azar\, es acusad
- o de participar en un atentado terrorista y condenado a cadena perpetua co
- n "los cuatro de Guildford". También su padre es arrestado y encarcelado.
-  En prisión Gerry descubre que la aparente fragilidad de su padre esconde
-  en realidad una gran fuerza interior. Con la ayuda de una abogada entrega
- da a la causa (Thompson)\, Gerry se propone demostrar su inocencia\, limpi
- ar el nombre de su padre y hacer pública la verdad sobre uno de los más 
- lamentables errores legales de la historia reciente de Reino Unido.\n\nAud
- io: VOSE\n\nhttps://cinesembajadores.es/pelicula/domingo-de-clasicos-en-el
- -nombre-del-padre-vose/?ciudad=madrid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Amarga Navidad
-DTSTART;TZID=Europe/Madrid:20260329T121000
-DTEND;TZID=Europe/Madrid:20260329T140100
-UID:1e16396e40586569672ed88a60a8b3e2f48dc43ebfc6d00ce6a337c3c08218a0
-CATEGORIES:cinema
-DESCRIPTION:Elsa es una directora de publicidad cuya madre muere durante u
- n largo puente del mes de diciembre. Encuentra refugio en el trabajo\, aun
- que es más bien una huida hacia adelante. Trabaja sin parar y\, sin darse
-  cuenta\, no se concede el tiempo necesario para guardar el duelo por la a
- usencia materna. Hasta que una crisis de pánico la obliga a detenerse e i
- mponerse un descanso. Su pareja\, Bonifacio\, es su tabla de salvación en
-  esos momentos de crisis. Elsa decide viajar a la isla de Lanzarote acompa
- ñada por su amiga Patricia\, que también necesita alejarse de Madrid\, m
- ientras que Bonifacio se queda en la ciudad. La historia de estos tres per
- sonajes\, y algunos más\, se narran paralelamente a la del guionista y di
- rector de cine Raúl Durán\, entremezclando ficción y realidad.\n\nRelea
- se year: 2026\n\nOriginal language: ES\n\nhttps://cinesembajadores.es/peli
- cula/amarga-navidad/?ciudad=madrid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Feishow
-DTSTART;TZID=Europe/Madrid:20260329T130000
-UID:fc1f8eb631da85b127f747e4b006e15436b23d36d0503568fa719d3fd18be38b
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/feishow/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Orwell 2+2 = 5
-DTSTART;TZID=Europe/Madrid:20260329T155500
-UID:9330c0f7d954a4537a082b9ba1e0e9dff6568a8ee8527eafeceb7e8d860adc42
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 119 min
- utos | No recomendada para menores de 16 años\n\nRelease year: 2025\n\nOr
- iginal language: EN\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/106156
- 4/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Altas capacidades
-DTSTART;TZID=Europe/Madrid:20260329T160000
-DTEND;TZID=Europe/Madrid:20260329T174100
-UID:9fa08b0edd964d05922e24cd2c25af9879d8feab94088510f4fe113762c429be
-CATEGORIES:cinema
-DESCRIPTION:Alicia y Gonzalo\, una pareja de clase media\, se encuentran c
- on la oportunidad de matricular a su hijo Fer en un colegio laico de élit
- e. Para los padres supone asomar la cabeza en la clase alta\, nuevas amist
- ades\, mayores ingresos\, ventajas incontables. Dicen hacerlo por su hijo.
-  En esta maravillosa contradicción entre los miedos y los principios mora
- les\, las aspiraciones de la pareja se llevarán por delante lo que\, hast
- a entonces\, creían incuestionable.\n\nRelease year: 2026\n\nOriginal lan
- guage: ES\n\nhttps://cinesembajadores.es/pelicula/altas-capacidades/?ciuda
- d=madrid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Amarga Navidad
-DTSTART;TZID=Europe/Madrid:20260329T160000
-DTEND;TZID=Europe/Madrid:20260329T175100
-UID:f80d1f171a2ad4285eb7da8bae5b00cdfd465b79f5ab1e9958d1cd508df56f5d
-CATEGORIES:cinema
-DESCRIPTION:Elsa es una directora de publicidad cuya madre muere durante u
- n largo puente del mes de diciembre. Encuentra refugio en el trabajo\, aun
- que es más bien una huida hacia adelante. Trabaja sin parar y\, sin darse
-  cuenta\, no se concede el tiempo necesario para guardar el duelo por la a
- usencia materna. Hasta que una crisis de pánico la obliga a detenerse e i
- mponerse un descanso. Su pareja\, Bonifacio\, es su tabla de salvación en
-  esos momentos de crisis. Elsa decide viajar a la isla de Lanzarote acompa
- ñada por su amiga Patricia\, que también necesita alejarse de Madrid\, m
- ientras que Bonifacio se queda en la ciudad. La historia de estos tres per
- sonajes\, y algunos más\, se narran paralelamente a la del guionista y di
- rector de cine Raúl Durán\, entremezclando ficción y realidad.\n\nRelea
- se year: 2026\n\nOriginal language: ES\n\nhttps://cinesembajadores.es/peli
- cula/amarga-navidad/?ciudad=madrid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dos fiscales
-DTSTART;TZID=Europe/Madrid:20260329T160000
-DTEND;TZID=Europe/Madrid:20260329T175800
-UID:7f376a1dffacfdabd9f649453613424e1dde23a4e7bbd73feb69d979a285fa56
-CATEGORIES:cinema
-DESCRIPTION:Unión Soviética\, 1937. Miles de cartas de detenidos acusado
- s ​​falsamente por el régimen son quemadas en una celda. Contra todo 
- pronóstico\, una de ellas llega a su destino: el escritorio del recién n
- ombrado fiscal local\, Alexander Kornev. Kornev hace todo lo posible por e
- ncontrar al prisionero\, víctima de agentes corruptos de la policía secr
- eta\, la NKVD. Bolchevique íntegro y dedicado\, el joven fiscal sospecha 
- de algo ilícito. Su búsqueda de justicia lo llevará hasta la Fiscalía 
- General de Moscú. En la época de las grandes purgas estalinistas\, ésta
-  es la zambullida de un hombre en los pasillos de un régimen totalitario 
- que no lleva dicho nombre.\n\nOriginal title: Zwei Staatsanwälte\n\nRelea
- se year: 2025\n\nOriginal language: RU\n\nAudio: VOSE\n\nhttps://cinesemba
- jadores.es/pelicula/dos-fiscales-vose/?ciudad=madrid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tafiti y sus amigos
-DTSTART;TZID=Europe/Madrid:20260329T160000
-DTEND;TZID=Europe/Madrid:20260329T172100
-UID:dcc3f00593e5bf5e613c3fc1c70d1e09b9b927f25ab626e4c0164badcac7240a
-CATEGORIES:cinema
-DESCRIPTION:Cuando Tafiti\, una joven suricata\, conoce a Bristles\, el ce
- rdo salvaje\, sabe que no pueden ser amigos. Pero cuando Bristles es ataca
- do por un águila\, es Tafiti quien corre a rescatarlo. En busca desespera
- da de un amigo\, el divertido cerdo salvaje sigue a Tafiti a su casa\, pro
- vocando sin querer un desafortunado accidente: el abuelo de Tafiti es mord
- ido por una serpiente venenosa mortal. Sólo una mítica flor del desierto
-  podrá salvarlo. Tafiti emprende un peligroso viaje para encontrar la flo
- r\, convencido de que debe hacerlo sola.\n\nAudio: Doblada ES\n\nhttps://c
- inesembajadores.es/pelicula/tafiti-y-sus-amigos-doblada-al-espanol/?ciudad
- =madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Torrente presidente
-DTSTART;TZID=Europe/Madrid:20260329T160000
-DTEND;TZID=Europe/Madrid:20260329T174300
-UID:3b43894d6f4cd800a46eb11544c022a3fc6030ca9df41bc5cf25d22471228879
-CATEGORIES:cinema
-DESCRIPTION:Sexta entrega de Torrente. Como nota informativa\, la películ
- a no tendrá ni tráiler ni póster ni se mostrará en pases de prensa pre
- vios a su estreno en cines\, en una maniobra de marketing de Santiago Segu
- ra con el fin de preservar las sorpresas y cameos hasta que los fans la pu
- edan ver.\n\nRelease year: 2026\n\nOriginal language: ES\n\nhttps://cinese
- mbajadores.es/pelicula/torrente-presidente/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hoppers
-DTSTART;TZID=Europe/Madrid:20260329T160000
-DTEND;TZID=Europe/Madrid:20260329T174400
-UID:198ebb088ef592aa6d1b9aff049714e89a9be62b08cc6a972f8feadfba8b3b4b
-CATEGORIES:cinema
-DESCRIPTION:La historia sigue a una joven\, Mabel\, que puede transferir s
- u mente a un castor robot con el objetivo de infiltrarse en el reino anima
- l. Acaba haciéndose amiga de un castor regio\, el Rey Jorge\, y uniendo a
-  los animales para luchar contra los planes de un promotor inmobiliario.\n
- \nRelease year: 2026\n\nOriginal language: EN\n\nAudio: Doblada ES\n\nhttp
- s://cinesembajadores.es/pelicula/hoppers-doblada-al-espanol/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Valor Sentimental
-DTSTART;TZID=Europe/Madrid:20260329T160000
-UID:5d8362832d699382dd246da7402111e2e69a1c9412f75b3b25e3f93010494bcc
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 133 min
- utos | No recomendada para menores de 12 años\n\nOriginal title: Affeksjo
- nsverdi\n\nRelease year: 2025\n\nOriginal language: NO\n\nAudio: VOSE\n\nh
- ttps://www.pillalas.com/pase/1061429/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Amarga Navidad
-DTSTART;TZID=Europe/Madrid:20260329T160500
-UID:a95ac5b05f45539944587611410a33ee722ee32ccc610128b94da2afb9970123
-CATEGORIES:cinema
-DESCRIPTION:Versión Original Castellano | Duración 111 minutos | No reco
- mendada para menores de 12 años\n\nRelease year: 2026\n\nOriginal languag
- e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1061430/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Yo Te Creo
-DTSTART;TZID=Europe/Madrid:20260329T161000
-UID:3522b20a265103eafb5664aa7ee6d7f6a42a8e53659a087f9b57add3383b7b86
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 78 minu
- tos | No recomendada para menores de 16 años y distintivo especialmente r
- ecomendada para el fomento de la igualdad de género\n\nOriginal title: On
-  vous croit\n\nRelease year: 2025\n\nOriginal language: FR\n\nAudio: VOSE\
- n\nhttps://www.pillalas.com/pase/1061503/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Águilas De El Cairo
-DTSTART;TZID=Europe/Madrid:20260329T161500
-UID:002160ea7de9bfe37039f8a0708c394ce36245b027c9cc05ede3d421ebdfeb56
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 128 min
- utos | No recomendada para menores de 16 años\n\nAudio: VOSE\n\nhttps://w
- ww.pillalas.com/pase/1061544/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Los asesinos de la luna de miel (The Honeymoon Killers\,1970)
-DTSTART;TZID=Europe/Madrid:20260329T173000
-UID:0d3631ccfc79032f28c676042b85169e9a4735b8fd5b23fa37be46c0e38e1a98
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Domingo 29 de Marzo a las 17:30h (Sala 1.Kelly
-  Reichardt. Juego de espejos) *Aunque las entradas aparezcan como agotadas
-  en web\, pueden adquirirse en taquilla entradas para las sesiones del dí
- a (de 17h a 20h)\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/producto
- s/descripcion/los-asesinos-de-la-luna-de-miel
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Templo Del Baile
-DTSTART;TZID=Europe/Madrid:20260329T173000
-UID:f1f1c95966aef2a85ee8a998c377cf2db3f1f7bad46f184b5646d240a6687f9b
-CATEGORIES:music
-DESCRIPTION:Concierto / World Music & Folk\n\nhttps://salavillanos.es/even
- to/templo-del-baile-2/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Torrente presidente
-DTSTART;TZID=Europe/Madrid:20260329T174000
-DTEND;TZID=Europe/Madrid:20260329T192300
-UID:19ebe16734d0c8fc2aef91a01571434526ec1a1c867ececa2510d411680d2626
-CATEGORIES:cinema
-DESCRIPTION:Sexta entrega de Torrente. Como nota informativa\, la películ
- a no tendrá ni tráiler ni póster ni se mostrará en pases de prensa pre
- vios a su estreno en cines\, en una maniobra de marketing de Santiago Segu
- ra con el fin de preservar las sorpresas y cameos hasta que los fans la pu
- edan ver.\n\nRelease year: 2026\n\nOriginal language: ES\n\nhttps://cinese
- mbajadores.es/pelicula/torrente-presidente/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Valor Sentimental
-DTSTART;TZID=Europe/Madrid:20260329T175000
-UID:87af864646bd79e550163025588f4d4f47a3d5a07a4b4a0498588650fdc7c9c6
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 133 min
- utos | No recomendada para menores de 12 años\n\nOriginal title: Affeksjo
- nsverdi\n\nRelease year: 2025\n\nOriginal language: NO\n\nAudio: VOSE\n\nh
- ttps://www.pillalas.com/pase/1061431/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Altas capacidades
-DTSTART;TZID=Europe/Madrid:20260329T180000
-DTEND;TZID=Europe/Madrid:20260329T194100
-UID:1ec3dbfa450e2d09267262d088df35b3d9cccac5162391ac417f83276cd45ec8
-CATEGORIES:cinema
-DESCRIPTION:Alicia y Gonzalo\, una pareja de clase media\, se encuentran c
- on la oportunidad de matricular a su hijo Fer en un colegio laico de élit
- e. Para los padres supone asomar la cabeza en la clase alta\, nuevas amist
- ades\, mayores ingresos\, ventajas incontables. Dicen hacerlo por su hijo.
-  En esta maravillosa contradicción entre los miedos y los principios mora
- les\, las aspiraciones de la pareja se llevarán por delante lo que\, hast
- a entonces\, creían incuestionable.\n\nRelease year: 2026\n\nOriginal lan
- guage: ES\n\nhttps://cinesembajadores.es/pelicula/altas-capacidades/?ciuda
- d=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Solo quería bailar
-DTSTART;TZID=Europe/Madrid:20260329T180000
-UID:6a4d4295a58e76bd6db78a49a313b4a4740ab220f56ce2d2be66a8bd04b656df
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/solo-queria-bailar/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Amarga Navidad
-DTSTART;TZID=Europe/Madrid:20260329T181000
-DTEND;TZID=Europe/Madrid:20260329T200100
-UID:081efff3e18edb70d37a46e07422301201332fd192ce40cddde34512e61bda6a
-CATEGORIES:cinema
-DESCRIPTION:Elsa es una directora de publicidad cuya madre muere durante u
- n largo puente del mes de diciembre. Encuentra refugio en el trabajo\, aun
- que es más bien una huida hacia adelante. Trabaja sin parar y\, sin darse
-  cuenta\, no se concede el tiempo necesario para guardar el duelo por la a
- usencia materna. Hasta que una crisis de pánico la obliga a detenerse e i
- mponerse un descanso. Su pareja\, Bonifacio\, es su tabla de salvación en
-  esos momentos de crisis. Elsa decide viajar a la isla de Lanzarote acompa
- ñada por su amiga Patricia\, que también necesita alejarse de Madrid\, m
- ientras que Bonifacio se queda en la ciudad. La historia de estos tres per
- sonajes\, y algunos más\, se narran paralelamente a la del guionista y di
- rector de cine Raúl Durán\, entremezclando ficción y realidad.\n\nRelea
- se year: 2026\n\nOriginal language: ES\n\nhttps://cinesembajadores.es/peli
- cula/amarga-navidad/?ciudad=madrid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hoppers
-DTSTART;TZID=Europe/Madrid:20260329T181000
-DTEND;TZID=Europe/Madrid:20260329T195400
-UID:c060f7eb43bd42b100cf8389317316e7fb3b127c3282a483e0876c1b1ceeafe5
-CATEGORIES:cinema
-DESCRIPTION:La historia sigue a una joven\, Mabel\, que puede transferir s
- u mente a un castor robot con el objetivo de infiltrarse en el reino anima
- l. Acaba haciéndose amiga de un castor regio\, el Rey Jorge\, y uniendo a
-  los animales para luchar contra los planes de un promotor inmobiliario.\n
- \nRelease year: 2026\n\nOriginal language: EN\n\nAudio: Doblada ES\n\nhttp
- s://cinesembajadores.es/pelicula/hoppers-doblada-al-espanol/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Amarga Navidad
-DTSTART;TZID=Europe/Madrid:20260329T181500
-DTEND;TZID=Europe/Madrid:20260329T200600
-UID:5cc5ba0f592912c58968e265749a19b265cadf6cf95443f69e4df9ff364b7694
-CATEGORIES:cinema
-DESCRIPTION:Elsa es una directora de publicidad cuya madre muere durante u
- n largo puente del mes de diciembre. Encuentra refugio en el trabajo\, aun
- que es más bien una huida hacia adelante. Trabaja sin parar y\, sin darse
-  cuenta\, no se concede el tiempo necesario para guardar el duelo por la a
- usencia materna. Hasta que una crisis de pánico la obliga a detenerse e i
- mponerse un descanso. Su pareja\, Bonifacio\, es su tabla de salvación en
-  esos momentos de crisis. Elsa decide viajar a la isla de Lanzarote acompa
- ñada por su amiga Patricia\, que también necesita alejarse de Madrid\, m
- ientras que Bonifacio se queda en la ciudad. La historia de estos tres per
- sonajes\, y algunos más\, se narran paralelamente a la del guionista y di
- rector de cine Raúl Durán\, entremezclando ficción y realidad.\n\nRelea
- se year: 2026\n\nOriginal language: ES\n\nhttps://cinesembajadores.es/peli
- cula/amarga-navidad/?ciudad=madrid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Amarga Navidad
-DTSTART;TZID=Europe/Madrid:20260329T181500
-UID:d3b08d79b910d0b8b078b7696228b3184c240c0b3ef039c231359ce083afd3c7
-CATEGORIES:cinema
-DESCRIPTION:Versión Original Castellano | Duración 111 minutos | No reco
- mendada para menores de 12 años\n\nRelease year: 2026\n\nOriginal languag
- e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1061432/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El Último Vikingo
-DTSTART;TZID=Europe/Madrid:20260329T181500
-UID:44938d2ce0b5d4a7484e5ab7f27b900097b9f1161b4126996785b4a30b370acf
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 116 min
- utos | No recomendada para menores de 16 años\n\nOriginal title: Den sids
- te viking\n\nRelease year: 2025\n\nOriginal language: DA\n\nAudio: VOSE\n\
- nhttps://www.pillalas.com/pase/1061565/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Altas capacidades
-DTSTART;TZID=Europe/Madrid:20260329T182000
-DTEND;TZID=Europe/Madrid:20260329T200100
-UID:6e499cc0461da635d845916152bea33f4cf4bd24116875634ce483f10ced64ba
-CATEGORIES:cinema
-DESCRIPTION:Alicia y Gonzalo\, una pareja de clase media\, se encuentran c
- on la oportunidad de matricular a su hijo Fer en un colegio laico de élit
- e. Para los padres supone asomar la cabeza en la clase alta\, nuevas amist
- ades\, mayores ingresos\, ventajas incontables. Dicen hacerlo por su hijo.
-  En esta maravillosa contradicción entre los miedos y los principios mora
- les\, las aspiraciones de la pareja se llevarán por delante lo que\, hast
- a entonces\, creían incuestionable.\n\nRelease year: 2026\n\nOriginal lan
- guage: ES\n\nhttps://cinesembajadores.es/pelicula/altas-capacidades/?ciuda
- d=madrid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Yo Te Creo
-DTSTART;TZID=Europe/Madrid:20260329T183000
-UID:2036d37a94c4eb31dce19ad9ab036e8f2a6524e792d1183f49afe30d15682433
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 78 minu
- tos | No recomendada para menores de 16 años y distintivo especialmente r
- ecomendada para el fomento de la igualdad de género\n\nOriginal title: On
-  vous croit\n\nRelease year: 2025\n\nOriginal language: FR\n\nAudio: VOSE\
- n\nhttps://www.pillalas.com/pase/1061433/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Amarga Navidad
-DTSTART;TZID=Europe/Madrid:20260329T190000
-UID:211196eb4d3026bd74fca000b2055e41b3192ec8cb0942fb05f6d0353ea57850
-CATEGORIES:cinema
-DESCRIPTION:Versión Original Castellano | Duración 111 minutos | No reco
- mendada para menores de 12 años\n\nRelease year: 2026\n\nOriginal languag
- e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1061434/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Aquí donde estoy
-DTSTART;TZID=Europe/Madrid:20260329T193000
-UID:97b4976c4d9bb63986ba17e0a44e182d3fff049d49d6ce94e9de22827eb0b1b2
-CATEGORIES:cinema
-DESCRIPTION:El no a la guerra de Gabriel León\, superviviente de la batal
- la del Ebro y miembro de la denominada\, por la juventud de sus integrante
- s\, ‘quinta del biberón’. A través de sus recuerdos y cartas\, remem
- oramos uno de los momentos más cruentos de la Guerra Civil española\, de
-  la que este año se cumple el noventa aniversario de su inicio. Convertid
- o primero en cómic (publicado por Astiberri) y ahora en documental\, el t
- estimonio oral y escrito de Gabriel nos sirve para entender cómo percibi
- ó un chico de tan solo dieciocho años el infierno al que había sido arr
- astrado\, su capacidad de resistencia ante la adversidad y sus estrategias
-  para sobrevivir y mantener a flote su equilibrio mental y el de su famili
- a. Una denuncia del sinsentido de la guerra.\n\nRelease year: 2026\n\nOrig
- inal language: ES\n\nhttps://www.cinetecamadrid.com/programacion/aqui-dond
- e-estoy
-LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Niebla
-DTSTART;TZID=Europe/Madrid:20260329T193000
-DTEND;TZID=Europe/Madrid:20260412T193000
-UID:f5c1c7ebb968eb8a2029978f386f4763212118ce95d6b31e1e8cb896ee68f191
-CATEGORIES:theater
-DESCRIPTION:Últimas entradas desde 15.75€ | Tags: JOBO\n\nhttps://tiend
- a.madrid-destino.com/es/nave-10/niebla/
-LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Altas capacidades
-DTSTART;TZID=Europe/Madrid:20260329T194500
-DTEND;TZID=Europe/Madrid:20260329T212600
-UID:9a9380e2d7d6835c2b0ca6a05efaf846288d5187fabdf80fdc4e8c643d448822
-CATEGORIES:cinema
-DESCRIPTION:Alicia y Gonzalo\, una pareja de clase media\, se encuentran c
- on la oportunidad de matricular a su hijo Fer en un colegio laico de élit
- e. Para los padres supone asomar la cabeza en la clase alta\, nuevas amist
- ades\, mayores ingresos\, ventajas incontables. Dicen hacerlo por su hijo.
-  En esta maravillosa contradicción entre los miedos y los principios mora
- les\, las aspiraciones de la pareja se llevarán por delante lo que\, hast
- a entonces\, creían incuestionable.\n\nRelease year: 2026\n\nOriginal lan
- guage: ES\n\nhttps://cinesembajadores.es/pelicula/altas-capacidades/?ciuda
- d=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Diabolik
-DTSTART;TZID=Europe/Madrid:20260329T200000
-UID:a18d5b927241cddcc09c662ad1bcb6cd41231e644c678d7a83ff6879b3de0293
-CATEGORIES:cinema
-DESCRIPTION:Diabolik\, un atractivo y audaz ladrón de una época muy psic
- odélica\, no está contento con todas las cosas buenas y brillantes que l
- e da la vida. Menos aún cuando existen montañas de dinero que robar\, an
- te las mismísimas narices del inspector Ginko y de sus estirados jefes de
- l gobierno\, y joyas valiosas que sustraer de los cajones de los millonari
- os. Este esquivo canalla enmascarado\, junto a su bella y leal compañera 
- Eva Kant\, siempre encuentra las más diversas maneras de vivir al límite
- ...\n\nAudio: VOSE\n\nhttps://www.cinetecamadrid.com/programacion/diabolik
-LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:River of Grass (1994)
-DTSTART;TZID=Europe/Madrid:20260329T200000
-UID:c8f1fdec22194133d069c662fb105adf4323d6d43bce9437784b911354d35fad
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Domingo 29 de Marzo a las 20:00h (Sala 1.Kelly
-  Reichardt. Retrospectiva) *Aunque las entradas aparezcan como agotadas en
-  web\, pueden adquirirse en taquilla entradas para las sesiones del día (
- de 17h a 20h)\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/productos/d
- escripcion/river-of-grass-ii
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tres adioses
-DTSTART;TZID=Europe/Madrid:20260329T200000
-DTEND;TZID=Europe/Madrid:20260329T220000
-UID:863ee9587168943c4d68c980cf0abfe262767784e09bd4ee61bdd80fbc2b2016
-CATEGORIES:cinema
-DESCRIPTION:Tras lo que parecía una discusión sin importancia\, Marta (A
- lba Rohrwacher) y Antonio (Elio Germano) se separan. Él\, un chef promete
- dor\, se refugia en sus fogones\; ella\, en su silencio\, empieza a notar 
- algo más que tristeza: ha perdido el apetito… y no solo por desamor. Cu
- ando descubre que detrás hay un problema de salud\, todo da un giro inesp
- erado: la comida sabe mejor\, la música le llega como nunca y el deseo de
- spierta sus ganas de vivir sin miedo.\n\nOriginal title: Tre ciotole\n\nRe
- lease year: 2025\n\nOriginal language: IT\n\nAudio: VOSE\n\nhttps://cinese
- mbajadores.es/pelicula/tres-adioses-vose/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Yo Te Creo
-DTSTART;TZID=Europe/Madrid:20260329T201000
-UID:3028f06f8f776d4830e8c3e7d8746b1e9d5eee54e67511bd63bea5880f840559
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 78 minu
- tos | No recomendada para menores de 16 años y distintivo especialmente r
- ecomendada para el fomento de la igualdad de género\n\nOriginal title: On
-  vous croit\n\nRelease year: 2025\n\nOriginal language: FR\n\nAudio: VOSE\
- n\nhttps://www.pillalas.com/pase/1061435/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Torrente presidente
-DTSTART;TZID=Europe/Madrid:20260329T202000
-DTEND;TZID=Europe/Madrid:20260329T220300
-UID:9f3ba28cb8562b6b376b6a8d79d950a82db658fd3198fa76ce8404fee7dfeecc
-CATEGORIES:cinema
-DESCRIPTION:Sexta entrega de Torrente. Como nota informativa\, la películ
- a no tendrá ni tráiler ni póster ni se mostrará en pases de prensa pre
- vios a su estreno en cines\, en una maniobra de marketing de Santiago Segu
- ra con el fin de preservar las sorpresas y cameos hasta que los fans la pu
- edan ver.\n\nRelease year: 2026\n\nOriginal language: ES\n\nhttps://cinese
- mbajadores.es/pelicula/torrente-presidente/?ciudad=madrid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hamnet
-DTSTART;TZID=Europe/Madrid:20260329T202000
-DTEND;TZID=Europe/Madrid:20260329T222500
-UID:0de4bcb38d2d075cb0b287f9490a916f9d2cbcbc9f0f579eb0a9a6cd5d580bc3
-CATEGORIES:cinema
-DESCRIPTION:Narra la historia de Agnes\, la esposa de William Shakespeare\
- , en su lucha por superar la pérdida de su único hijo\, Hamnet. Una hist
- oria humana y desgarradora como telón de fondo para la creación de la ob
- ra de Shakespeare\, Hamlet.\n\nRelease year: 2025\n\nOriginal language: EN
- \n\nAudio: VOSE\n\nhttps://cinesembajadores.es/pelicula/hamnet-vose/?ciuda
- d=madrid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Valor Sentimental
-DTSTART;TZID=Europe/Madrid:20260329T202000
-UID:abaafe887b08ec1be147ec7a7a22d50d37219b5aa0ceab00f80d8fca4110a908
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 133 min
- utos | No recomendada para menores de 12 años\n\nOriginal title: Affeksjo
- nsverdi\n\nRelease year: 2025\n\nOriginal language: NO\n\nAudio: VOSE\n\nh
- ttps://www.pillalas.com/pase/1061436/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Altas capacidades
-DTSTART;TZID=Europe/Madrid:20260329T202500
-DTEND;TZID=Europe/Madrid:20260329T220600
-UID:2a42affa7877ca50c0297df8700556f85c332057242e7115834b5afc63150566
-CATEGORIES:cinema
-DESCRIPTION:Alicia y Gonzalo\, una pareja de clase media\, se encuentran c
- on la oportunidad de matricular a su hijo Fer en un colegio laico de élit
- e. Para los padres supone asomar la cabeza en la clase alta\, nuevas amist
- ades\, mayores ingresos\, ventajas incontables. Dicen hacerlo por su hijo.
-  En esta maravillosa contradicción entre los miedos y los principios mora
- les\, las aspiraciones de la pareja se llevarán por delante lo que\, hast
- a entonces\, creían incuestionable.\n\nRelease year: 2026\n\nOriginal lan
- guage: ES\n\nhttps://cinesembajadores.es/pelicula/altas-capacidades/?ciuda
- d=madrid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Amarga Navidad
-DTSTART;TZID=Europe/Madrid:20260329T202500
-UID:f698324280452021b5f5802aa387c858e1cd60aa5647d1743ff48d5498c38cbe
-CATEGORIES:cinema
-DESCRIPTION:Versión Original Castellano | Duración 111 minutos | No reco
- mendada para menores de 12 años\n\nRelease year: 2026\n\nOriginal languag
- e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1061437/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Todo documento de civilización
-DTSTART;TZID=Europe/Madrid:20260329T203000
-UID:220345c6d2d56dfdd53194f5f71ae3b9506737e5b9fb9a62bd51c9e446e51d7e
-CATEGORIES:cinema
-DESCRIPTION:Un cruce de avenidas que es\, a la vez\, frontera entre la ciu
- dad de Buenos Aires y su conurbano. Cada noche\, miles de personas lo atra
- viesan volviendo del trabajo. Colectivos\, semáforos\, asfalto\, hormigó
- n\, un cartel oxidado. Alguien que va a estudiar\, otro que vende pan. Alu
- mbrado público y propaganda electoral. Publicidad de celulares y hamburgu
- esas. Basura y la señora que vende flores. El relato de una madre que per
- dió a su hijo en manos de la policía se enfrenta a la imagen de la norma
- lidad. Su lucha y su voz dibujan los imaginarios mundos de Julio Verne\, c
- on los que fantaseaban juntos. Esta película es un proceso de excavación
- . O la disección del paisaje donde\, hace quince años\, el Estado hizo d
- esaparecer a Luciano Arruga.\n\nRelease year: 2024\n\nOriginal language: E
- S\n\nhttps://www.cinetecamadrid.com/programacion/todo-documento-de-civiliz
- acion-0
-LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Amarga Navidad
-DTSTART;TZID=Europe/Madrid:20260329T203000
-DTEND;TZID=Europe/Madrid:20260329T222100
-UID:8afc996691cff948176e73922af252a3130997d3c001d353bbfe55268a31b907
-CATEGORIES:cinema
-DESCRIPTION:Elsa es una directora de publicidad cuya madre muere durante u
- n largo puente del mes de diciembre. Encuentra refugio en el trabajo\, aun
- que es más bien una huida hacia adelante. Trabaja sin parar y\, sin darse
-  cuenta\, no se concede el tiempo necesario para guardar el duelo por la a
- usencia materna. Hasta que una crisis de pánico la obliga a detenerse e i
- mponerse un descanso. Su pareja\, Bonifacio\, es su tabla de salvación en
-  esos momentos de crisis. Elsa decide viajar a la isla de Lanzarote acompa
- ñada por su amiga Patricia\, que también necesita alejarse de Madrid\, m
- ientras que Bonifacio se queda en la ciudad. La historia de estos tres per
- sonajes\, y algunos más\, se narran paralelamente a la del guionista y di
- rector de cine Raúl Durán\, entremezclando ficción y realidad.\n\nRelea
- se year: 2026\n\nOriginal language: ES\n\nhttps://cinesembajadores.es/peli
- cula/amarga-navidad/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Orwell 2+2 = 5
-DTSTART;TZID=Europe/Madrid:20260329T203000
-UID:f42fc976300bf8b28b37b1faa61eba4b743be2f35f065fee90a42064a3b8375b
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 119 min
- utos | No recomendada para menores de 16 años\n\nRelease year: 2025\n\nOr
- iginal language: EN\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/106156
- 6/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:J.I.D.
-DTSTART;TZID=Europe/Madrid:20260329T203000
-UID:30a27482f471022bf9deb8583cfdef590ba8e5f6f8449bc9fabd94d62c4332a0
-CATEGORIES:music
-DESCRIPTION:Apertura Puertas: 19:00 pm\n\nhttps://www.entradas.com/artist/
- jid/?affiliate=RIV
-LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
- id
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La rabia es nuestra
-DTSTART;TZID=Europe/Madrid:20260329T203000
-UID:af8e3891222ef76798d81e539598d0ea8e9fe8aae772834adde22e5216b8cbd8
-CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 1 plazas!\n\nhttps://teatrodelbarrio.com/la-r
- abia-es-nuestra/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Águilas De El Cairo
-DTSTART;TZID=Europe/Madrid:20260329T213000
-UID:fa2981aece49c3ef399e20ad6fbab0f472a4fcc4814b9f85c37be2314d548717
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 128 min
- utos | No recomendada para menores de 16 años\n\nAudio: VOSE\n\nhttps://w
- ww.pillalas.com/pase/1061545/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Amarga Navidad
-DTSTART;TZID=Europe/Madrid:20260329T214500
-DTEND;TZID=Europe/Madrid:20260329T233600
-UID:c25c8c6499a105383833c0cf654b2b09054e09bc02f054a938c3ebdea67cfc2c
-CATEGORIES:cinema
-DESCRIPTION:Elsa es una directora de publicidad cuya madre muere durante u
- n largo puente del mes de diciembre. Encuentra refugio en el trabajo\, aun
- que es más bien una huida hacia adelante. Trabaja sin parar y\, sin darse
-  cuenta\, no se concede el tiempo necesario para guardar el duelo por la a
- usencia materna. Hasta que una crisis de pánico la obliga a detenerse e i
- mponerse un descanso. Su pareja\, Bonifacio\, es su tabla de salvación en
-  esos momentos de crisis. Elsa decide viajar a la isla de Lanzarote acompa
- ñada por su amiga Patricia\, que también necesita alejarse de Madrid\, m
- ientras que Bonifacio se queda en la ciudad. La historia de estos tres per
- sonajes\, y algunos más\, se narran paralelamente a la del guionista y di
- rector de cine Raúl Durán\, entremezclando ficción y realidad.\n\nRelea
- se year: 2026\n\nOriginal language: ES\n\nhttps://cinesembajadores.es/peli
- cula/amarga-navidad/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:No Hay Otra Opción
-DTSTART;TZID=Europe/Madrid:20260329T214500
-UID:06ac7c3605b31349a799ffeeb4cfd36af8ee2df77f885c974f50337b409da060
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 139 min
- utos | Pendiente de calificación\n\nOriginal title: 어쩔수가없다\n\
- nRelease year: 2025\n\nOriginal language: KO\n\nAudio: VOSE\n\nhttps://www
- .pillalas.com/pase/1061504/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Torrente presidente
-DTSTART;TZID=Europe/Madrid:20260329T221500
-DTEND;TZID=Europe/Madrid:20260329T235800
-UID:344a0ab12bd564a6a045e440a66bd53bab9a0842ab8bb77bf786d003cbbc9324
-CATEGORIES:cinema
-DESCRIPTION:Sexta entrega de Torrente. Como nota informativa\, la películ
- a no tendrá ni tráiler ni póster ni se mostrará en pases de prensa pre
- vios a su estreno en cines\, en una maniobra de marketing de Santiago Segu
- ra con el fin de preservar las sorpresas y cameos hasta que los fans la pu
- edan ver.\n\nRelease year: 2026\n\nOriginal language: ES\n\nhttps://cinese
- mbajadores.es/pelicula/torrente-presidente/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Amarga Navidad
-DTSTART;TZID=Europe/Madrid:20260329T223500
-UID:9a3d0d8b7d8eb2aa4f6d1d075f976ece7a7748ce6eea66a292aa86553b2b8f9e
-CATEGORIES:cinema
-DESCRIPTION:Versión Original Castellano | Duración 111 minutos | No reco
- mendada para menores de 12 años\n\nRelease year: 2026\n\nOriginal languag
- e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1061438/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pillion
-DTSTART;TZID=Europe/Madrid:20260329T224000
-DTEND;TZID=Europe/Madrid:20260330T002600
-UID:6fb3ab729d3f20dad0b78dfdc51936adeeb9b5d19c08f2c97ef6f8aac0e2f613
-CATEGORIES:cinema
-DESCRIPTION:Colin\, un hombre introvertido\, se queda prendado de Ray\, el
-  carismático y atractivo líder de una banda de moteros que le toma como 
- sumiso\, dinamitando su rutina y cambiándole la vida.\n\nRelease year: 20
- 25\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://cinesembajadores.es/
- pelicula/pillion-vose/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El Último Vikingo
-DTSTART;TZID=Europe/Madrid:20260329T224500
-UID:19970d93e3f81d69cdfeb931eeee0af4db711d6bd54138de911c0ce3f62e75a3
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 116 min
- utos | No recomendada para menores de 16 años\n\nOriginal title: Den sids
- te viking\n\nRelease year: 2025\n\nOriginal language: DA\n\nAudio: VOSE\n\
- nhttps://www.pillalas.com/pase/1061567/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Yo Te Creo
-DTSTART;TZID=Europe/Madrid:20260329T224500
-UID:d5d92d7ee0a0532b55170c026d22e3e6ad0b6d2467e11dd89eafc24c8b7f56c1
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 78 minu
- tos | No recomendada para menores de 16 años y distintivo especialmente r
- ecomendada para el fomento de la igualdad de género\n\nOriginal title: On
-  vous croit\n\nRelease year: 2025\n\nOriginal language: FR\n\nAudio: VOSE\
- n\nhttps://www.pillalas.com/pase/1061505/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hoppers
@@ -2599,7 +1720,7 @@ SUMMARY:Documental “Palestina\, una tragedia permanente” + libro “El
 DTSTART;TZID=Europe/Madrid:20260331T190000
 UID:176dff024a9265a2a6f6f5d6a5752119a2a56ad5425800655ab617f92d1a1328
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 26 plazas!\n\nhttps://teatrodelbarrio.com/pal
+DESCRIPTION:¡Ya solo quedan 23 plazas!\n\nhttps://teatrodelbarrio.com/pal
  estina-una-tragedia-permanente/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
@@ -2635,6 +1756,16 @@ DESCRIPTION:Fecha y Hora: Martes 31 de Marzo a las 19:30h (Sala 1.Univer
  eza-y-decadencia-de-un-pequeño-comercio-de-cine-ii
 LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
  \, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Niebla
+DTSTART;TZID=Europe/Madrid:20260331T193000
+DTEND;TZID=Europe/Madrid:20260412T193000
+UID:f5c1c7ebb968eb8a2029978f386f4763212118ce95d6b31e1e8cb896ee68f191
+CATEGORIES:theater
+DESCRIPTION:Últimas entradas desde 15.75€ | Tags: JOBO\n\nhttps://tiend
+ a.madrid-destino.com/es/nave-10/niebla/
+LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Johnny Guitar
@@ -4501,16 +3632,6 @@ DESCRIPTION:Una reflexión en torno a la invisibilidad a través de las vo
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Silence
-DTSTART;TZID=Europe/Madrid:20260410T200000
-DTEND;TZID=Europe/Madrid:20260412T200000
-UID:6def926b11fdc0ac637add110f9fe7ccd968b6e6ef46eca412fb639429fbcb4d
-CATEGORIES:theater
-DESCRIPTION:Texto y dirección Falk Richter\n\nhttps://dramatico.inaem.gob
- .es/evento/the-silence/
-LOCATION:Teatro Valle-Inclán - Plaza de Lavapies\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Prophecy: The Madame Blavatsky Legend
 DTSTART;TZID=Europe/Madrid:20260410T203000
 UID:41172d3fe87b02201e30e86b8df216560a67998e14c3bb6d41c686633dbd31ec
@@ -4560,8 +3681,8 @@ LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Muck And The Mires (EEUU) + The Moldy Tapes
-DTSTART;TZID=Europe/Madrid:20260410T223000
-UID:ae253e68c7e2fc898d4295cb86b9e85628b194f17814998415a87e8b03f9b7f1
+DTSTART;TZID=Europe/Madrid:20260410T213000
+UID:a4dc203d813aac58b6c731ae86dd8f713a13ab8082918f328aedbfe090282025
 CATEGORIES:music
 DESCRIPTION:Precio de las entradas: 12€/15€ Entradas a la venta en mov
  ingtickets Bio/enlaces bandas: MUCK AND THE MIRES (EEUU) Muck and the Mire
@@ -4850,8 +3971,8 @@ LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Isla Kume + Hafa Afrosweet En Fiesta Presentación Repica Balboa
-DTSTART;TZID=Europe/Madrid:20260411T223000
-UID:4dbd3ad228b841e18962ea885be37b300e1908ca88b3c3d49d013a066573c6eb
+DTSTART;TZID=Europe/Madrid:20260411T213000
+UID:c19d6dde6e1d1bda412e804baf1e6651ad2fdee4f16708c13ba9f4b332a4beee
 CATEGORIES:music
 DESCRIPTION:Precio de las entradas: 17€/21€ Entradas a la venta en ent
  erticket Bio/enlaces bandas: Isla Kume_instagram Hafa Afrosweet_facebook +
@@ -5195,6 +4316,31 @@ DESCRIPTION:El artista gijonés presenta un recorrido por su trabajo en el
 LOCATION:CentroCentro - de Cibeles\, 1\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Súper Zines 2026
+DTSTART;TZID=Europe/Madrid:20260416T160000
+UID:978a96adedcee1361715a64ed5706ed3955b0349a3f6694ce503346dd713a961
+CATEGORIES:other
+DESCRIPTION:La muestra reúne una selección de publicaciones de tirada li
+ mitada que permite acercarse a la diversidad formal\, material y narrativa
+  de un soporte fundamental en las prácticas editoriales independientes. L
+ a exposición subraya la importancia de visibilizar este tipo de soportes 
+ underground\, habitualmente desarrollados al margen de los circuitos de pr
+ oducción y distribución convencionales. En su economía de medios\, su l
+ ibertad formal y su capacidad de circulación reside buena parte de su val
+ or cultural. El fanzine ha constituido\, históricamente\, un medio de exp
+ resión libre y accesible\, capaz de reunir tanto a profesionales como a a
+ mateurs en un mismo espacio de creación\, intercambio y difusión. El rec
+ orrido expositivo pone en valor tanto la dimensión gráfica como la mater
+ ialidad de estas publicaciones\, atendiendo a sus procesos de producción\
+ , sus modos de lectura y su condición de objeto editorial. La muestra pro
+ pone así un acercamiento a la autoedición contemporánea a través de un
+  formato que sigue siendo una herramienta activa para la práctica artíst
+ ica\, la transmisión de ideas y la construcción de comunidad. Organiza: 
+ Súper Gráficas. Público: Jóvenes y adultos.\n\nhttps://www.mataderomad
+ rid.org/programacion/super-zines-2026
+LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Old Joy (2006)
 DTSTART;TZID=Europe/Madrid:20260416T173000
 UID:b9d8c2fbe71d2b44c0f7b4a96498fe1145a3bca221ac874b7c8540e31a3c0576
@@ -5301,8 +4447,8 @@ LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Reggae Workers Of The World (EEUU) + The Bandulus (EEUU)
-DTSTART;TZID=Europe/Madrid:20260416T223000
-UID:d70d1d2a51bae2dd4b35b2f29c6ea8f109af3263063c5ffbce80f606a508e3b3
+DTSTART;TZID=Europe/Madrid:20260416T213000
+UID:247c5747fc11877bc54b27cceece81366583c3e7d9f660930246c37d44e6f112
 CATEGORIES:music
 DESCRIPTION:Precio de las entradas: 15€ Entradas a la venta en movingtic
  kets Bio/enlaces bandas: Reggae Workers os the Worls_facebook The Bandulus
@@ -5411,8 +4557,8 @@ LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Rezillos (Reino Unido) + Los Bannanos
-DTSTART;TZID=Europe/Madrid:20260417T223000
-UID:6423dafd89a43973cafe201fa52528281d1bf9ca54e9ec38a5f2045a471edbc5
+DTSTART;TZID=Europe/Madrid:20260417T213000
+UID:d71fbee62f722647e0d2f43f7e3c24f049a9dbfeef073e7c501cc5a9d44c75f4
 CATEGORIES:music
 DESCRIPTION:Precio de las entradas: 20€/24€ Entradas a la venta en mov
  ingtickets Bio/enlaces bandas: THE REZILLOS (Reino Unido) The Rezillos_fac
@@ -5540,18 +4686,9 @@ LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
  \, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:El Barullo presenta Gitania
-DTSTART;TZID=Europe/Madrid:20260418T220000
-UID:541f0fe998502a1277e5ad52c2925fefeb824839edebb83dbd28122a602078af
-CATEGORIES:music
-DESCRIPTION:Concierto / Flamenco\n\nhttps://salavillanos.es/evento/el-baru
- llo-presenta-gitania-con-israel-fernandez-y-el-maestro-duquende/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Alamedadosoulna
-DTSTART;TZID=Europe/Madrid:20260418T223000
-UID:220a1b71a8ba53419c3475bab2564a4af82cc75ed08a9166b3d28ec225b8bf05
+DTSTART;TZID=Europe/Madrid:20260418T213000
+UID:59440978893769b56b99397ffcba35b4cb0579573ba23ebb8068daed93b43fb6
 CATEGORIES:music
 DESCRIPTION:Precio de las entradas: 18€/21€ Entradas a la venta en fev
  er Bio/enlaces bandas: Alamedadosoulna_facebook + Alamedadosoulna_X + Alam
@@ -5559,6 +4696,15 @@ DESCRIPTION:Precio de las entradas: 18€/21€ Entradas a la venta en fev
  o the Beginning”.\n\nhttps://gruta77.com/events/alamedadosoulna/var/ri-0
  .l-L2
 LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El Barullo presenta Gitania
+DTSTART;TZID=Europe/Madrid:20260418T220000
+UID:541f0fe998502a1277e5ad52c2925fefeb824839edebb83dbd28122a602078af
+CATEGORIES:music
+DESCRIPTION:Concierto / Flamenco\n\nhttps://salavillanos.es/evento/el-baru
+ llo-presenta-gitania-con-israel-fernandez-y-el-maestro-duquende/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mazo Club #14
@@ -5857,8 +5003,8 @@ LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Jimmy Dale Surf Trio (EEUU)
-DTSTART;TZID=Europe/Madrid:20260422T220000
-UID:f289b4ac761cbb663a5d74388aa9b0ad96174fe6db053f2c51cb22c401a63654
+DTSTART;TZID=Europe/Madrid:20260422T210000
+UID:b44c164a03501d9c5f0f3728e786a6d3a6c3481f453a75c0960439a5a1070009
 CATEGORIES:music
 DESCRIPTION:Precio de las entradas: 11€/14€ Entradas a la venta en mov
  ingtickets Bio/enlaces bandas: JIMMY DALE Más información: The Jimmy Dal
@@ -5961,19 +5107,10 @@ DESCRIPTION:Concierto / Rock\n\nhttps://salavillanos.es/evento/j-teixi-ban
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nacho Vegas
-DTSTART;TZID=Europe/Madrid:20260423T210000
-UID:7c7ac60db8e0d54afbd2d3738bc12ea57cb77fa6997ceaa71532d78acab3294c
-CATEGORIES:music
-DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://feverup.com/m/455942
-LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
- id
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:J. Teixi Band + The Bo DEREK´S\; IV Rhythm & Blues Soul Festival 
  - Sala Villanos -
-DTSTART;TZID=Europe/Madrid:20260423T213000
-UID:e2172c3df755da307ba1f0dbbf0c1bdc604b39eb5fa121fd895311204b1afa06
+DTSTART;TZID=Europe/Madrid:20260423T203000
+UID:711661daa4780ba91218b418649d8ce208372086e9c66ea666d3dca2957b3f46
 CATEGORIES:music
 DESCRIPTION:Precio de las entradas: 18€/22€ Entradas a la venta en mov
  ingtickets Bio/enlaces bandas: J. Teixi Band_youtube The Bo Derek’s_face
@@ -5981,6 +5118,15 @@ DESCRIPTION:Precio de las entradas: 18€/22€ Entradas a la venta en mov
   Festival se oresenta con\n\nhttps://gruta77.com/events/j-teixi-band-the-b
  o-dereks-iv-rhythm-blues-soul-festival-sala-villanos/var/ri-0.l-L2
 LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nacho Vegas
+DTSTART;TZID=Europe/Madrid:20260423T210000
+UID:7c7ac60db8e0d54afbd2d3738bc12ea57cb77fa6997ceaa71532d78acab3294c
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://feverup.com/m/455942
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fat City\, ciudad dorada (Fat City\,1972)
@@ -6048,17 +5194,6 @@ LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
  \, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LEXIKON
-DTSTART;TZID=Europe/Madrid:20260424T200000
-DTEND;TZID=Europe/Madrid:20260524T200000
-UID:96160284aff37b4e21894727d9155171ad4259d5a269d255980f52baed4c10fd
-CATEGORIES:theater
-DESCRIPTION:Una creación de El Conde de Torrefiel Texto y dirección Tany
- a Beyeler y Pablo Gisbert\n\nhttps://dramatico.inaem.gob.es/evento/lexikon
- /
-LOCATION:Teatro Maria Guerrero - Calle de Tamayo y Baus\, 4\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Quién vio los templos caer
 DTSTART;TZID=Europe/Madrid:20260424T203000
 UID:046aac41906c466c651658d68015f66c08879bfc435f9037b09f3d4c1af5a9e3
@@ -6094,8 +5229,8 @@ LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tregua + Fantoches
-DTSTART;TZID=Europe/Madrid:20260424T220000
-UID:c6bbc47204ac2dbca072c96f507f1138e6b79e8fa679cdee293e306872b66aff
+DTSTART;TZID=Europe/Madrid:20260424T210000
+UID:ce2820ad64694b4acf6cdd4b17e30dacd990fae98db812b745aeb458aea0ec91
 CATEGORIES:music
 DESCRIPTION:Precio de las entradas: 30 primeras 9€/20 primeros 3 x2=10.5
  0€/16€ Entradas a la venta en enterticket Bio/enlaces bandas: Tregua_f
@@ -6202,8 +5337,8 @@ LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Subterranean + Anti Idols + Maldita
-DTSTART;TZID=Europe/Madrid:20260425T223000
-UID:999031487267e1c986235828ffd1f27eb13296175c4d33d80a2e179bcd715b69
+DTSTART;TZID=Europe/Madrid:20260425T213000
+UID:6382ea5cbbbef2856c68635fc9a1a1ba63a5ae7e6bdeffcca94cb9d338ed3a6f
 CATEGORIES:music
 DESCRIPTION:Precio de las entradas: 15€/17€ Entradas a la venta en hfm
  n Bio/enlaces bandas: Subterranean_facebook + Subterranean_instagram Anti 
@@ -6334,5 +5469,84 @@ DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://www.resurrectionfest.es/
  route/machine-head-tour-2026/
 LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
  id
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quién vio los templos caer
+DTSTART;TZID=Europe/Madrid:20260428T193000
+UID:a1269d5ae09e06dad4812c9e5b47f9f18c4fb02848d5f2adb9e2275a28bb9a35
+CATEGORIES:cinema
+DESCRIPTION:Desde hace dos siglos\, Chorrojumo deambula en silencio por la
+ s calles de Granada. El que un día fue "el Rey de los Jitanos” espera b
+ ajo el sol alguna moneda. El limbo en el que habita es interrumpido por la
+  llegada de Anas\, un joven marroquí en busca de la casa de sus antepasad
+ os\, los últimos moriscos expulsados de Granada\, de la que solo conserva
+  una antigua llave. Juntos inician una búsqueda por las ruinas de una ciu
+ dad en transformación.\n\nRelease year: 2025\n\nOriginal language: ES\n\n
+ https://www.cinetecamadrid.com/programacion/quien-vio-los-templos-caer
+LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cuando el destino nos alcance
+DTSTART;TZID=Europe/Madrid:20260428T200000
+UID:489899b2da5697969c55f8ad6c45e23a385d2c51afc18f9d865096332000e08f
+CATEGORIES:cinema
+DESCRIPTION:En el año 2022\, la población de Nueva York\, unos cuarenta 
+ millones de habitantes\, vive en condiciones miserables. La humanidad ha c
+ ontaminado y calentado el planeta hasta el punto de que las plantas y los 
+ animales prácticamente han desaparecido\, y el único sustento disponible
+  es un alimento sintético a base de plancton\, el 'soylent green'. Un dí
+ a\, un caso de asesinato lleva al duro policía Thorn y a su viejo amigo R
+ oth hasta la empresa que lo fabrica.\n\nOriginal title: Soylent Green\n\nR
+ elease year: 1973\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://www.c
+ inetecamadrid.com/programacion/cuando-el-destino-nos-alcance
+LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elephant
+DTSTART;TZID=Europe/Madrid:20260428T203000
+UID:8950dc0f614cc3f7de4d03c02e0de0428d1f09c01a5c0e0c254aa8cc1ddbf455
+CATEGORIES:cinema
+DESCRIPTION:Recreación de la matanza perpetrada por dos adolescentes en e
+ l instituto Columbine. Es un día cualquiera de otoño\, y todos los estud
+ iantes hacen su vida rutinaria: Eli\, camino de clase\, convence a una par
+ eja de rockeros para hacerles unas fotos. Nate termina su entrenamiento de
+  fútbol y queda con su novia Carrie para comer. John deja las llaves del 
+ coche de su padre en la conserjería del instituto para que las recoja su 
+ hermano. Pero ese día no será como los demás...\n\nRelease year: 2003\n
+ \nOriginal language: EN\n\nAudio: VOSE\n\nhttps://www.cinetecamadrid.com/p
+ rogramacion/elephant-0
+LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Luis Fercan
+DTSTART;TZID=Europe/Madrid:20260428T203000
+UID:d997001696e851b5af6370c59404a085a18ad94e28d5a375a0d60070022d6886
+CATEGORIES:music
+DESCRIPTION:Concierto / Pop\n\nhttps://salavillanos.es/evento/luis-fercan-
+ 3/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Max Pezzali
+DTSTART;TZID=Europe/Madrid:20260428T210000
+UID:37d7ea8bf734900f7e559ddcf11b27678184f73586694b0f03989597d4c320ba
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://www.entradas.com/event/m
+ ax-pezzali-max-forever-goes-to-europe-2026-sala-la-riviera-21107775/?affil
+ iate=ABG
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aurèlia Muñoz. Entes
+DTSTART;TZID=Europe/Madrid:20260429T000000
+DTEND;TZID=Europe/Madrid:20260907T000000
+UID:4854653106f20c6b0713c7f7ee9ee6257a08186bf619db50e15529270c6f96c2
+CATEGORIES:exhibition
+DESCRIPTION:Exposición que invita a recorrer la obra de la artista catala
+ na\, figura destacada en el arte textil contemporáneo (Museo Reina Sofía
+ . 29 abr a 7 sept).\n\nhttps://www.museoreinasofia.es/exposicion/aurelia-m
+ unoz
+LOCATION:Museo Reina Sofía - de Santa Isabel\, 52\, Madrid\, 28012
 END:VEVENT
 END:VCALENDAR
