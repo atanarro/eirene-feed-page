@@ -2,6 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
+SUMMARY:Exponencial. De analógicos a digitales
+DTSTART;TZID=Europe/Madrid:20240514T000000
+DTEND;TZID=Europe/Madrid:20271231T000000
+UID:f5757770ba2619f835632f368e9ae1c25e8353ae577ea62f600b1f84611272c3
+CATEGORIES:exhibition
+DESCRIPTION:Exposición permanente que explora el creciente impacto que ha
+  tenido el desarrollo de las telecomunicaciones en todos los ámbitos de n
+ uestras vidas (Espacio Fundación Telefónica.\n\nhttp://espacio.fundacio
+ ntelefonica.com/
+LOCATION:Espacio Fundación Telefónica - de Fuencarral\, 3\, Madrid\, 280
+ 04
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:El martirio de San Andrés
 DTSTART;TZID=Europe/Madrid:20250303T000000
 DTEND;TZID=Europe/Madrid:20260630T000000
@@ -426,6 +439,18 @@ LOCATION:Fernán Gómez Centro Cultural de la Villa - de Colón \, 4\, Mad
  rid\, 28001
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Transitar el siglo XX. Dibujo y escultura en las Colecciones ICO
+DTSTART;TZID=Europe/Madrid:20260210T000000
+DTEND;TZID=Europe/Madrid:20260510T000000
+UID:93717ebd5ea4a98c5b28d304f0010176b575de1a7d52196e6765f9d1e15c8bdb
+CATEGORIES:exhibition
+DESCRIPTION:Un recorrido a través de la obra de una treintena de artistas
+  que rinde homenaje a los orígenes de la colección de arte del museo (Mu
+ seo ICO. Hasta 10 may).\n\nhttps://www.fundacionico.es/web/guest/pr%C3%B3x
+ ima-exposicion
+LOCATION:Museo ICO - de Zorrilla\, 3\, Madrid\, 28014
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Alberto Greco. Viva el arte vivo
 DTSTART;TZID=Europe/Madrid:20260211T000000
 DTEND;TZID=Europe/Madrid:20260608T000000
@@ -449,6 +474,18 @@ DESCRIPTION:La edad de oro del grabado japonés entre finales del siglo XV
  anfernando.com/actividades/exposiciones/bellezas-del-mundo-flotante/
 LOCATION:Real Academia de Bellas Artes de San Fernando - de Alcalá\, 13\,
   Madrid\, 28014
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La casa de las artes. Abierta desde 1926
+DTSTART;TZID=Europe/Madrid:20260212T000000
+DTEND;TZID=Europe/Madrid:20260510T000000
+UID:ee5ed0b89007b2883c9bf9b903f561f71f75e32932b51c1e4a905c62f4ed3042
+CATEGORIES:exhibition
+DESCRIPTION:Un recorrido por el origen\, el diseño y la construcción de 
+ una de las arquitecturas más emblemáticas de la Gran Vía madrileña (C
+ írculo de Bellas Artes. Hasta 10 may).\n\nhttps://www.circulobellasartes.
+ com/exposiciones/la-casa-de-las-artes-abierta-desde-1926/
+LOCATION:Círculo de Bellas Artes - de Alcalá\, 42\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:X Muestra Orfebrería y Joyería Contemporánea
@@ -713,6 +750,18 @@ LOCATION:Museo Nacional Thyssen-Bornemisza - del Prado\, 8\, Madrid\, 2801
  4
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Libros a la calle para los pequeños y jóvenes lectores
+DTSTART;TZID=Europe/Madrid:20260319T000000
+DTEND;TZID=Europe/Madrid:20260617T000000
+UID:e40908ff9a943fa6cfb89eaccde247605b29b29cb2cdf78ee561915edeb4c229
+CATEGORIES:exhibition
+DESCRIPTION:Exposición al aire libre que destaca la importancia de la lec
+ tura entre el público más joven (Casa del Lector. Hasta 17 junio).\n\nht
+ tps://casalector.fundaciongsr.org/libros-a-la-calle-para-los-pequenos-y-jo
+ venes-lectores/
+LOCATION:Casa del Lector (Matadero) - de la Chopera\, 14\, Madrid\, 28045
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Feria de Artesanía de Recoletos
 DTSTART;TZID=Europe/Madrid:20260323T110000
 DTEND;TZID=Europe/Madrid:20260412T210000
@@ -774,580 +823,6 @@ DESCRIPTION:Las esculturas de Federico Gómez Álvarez invitan a reflexion
  n Botánico. 27 mar a 31 may).\n\nhttps://rjb.csic.es/evento/exposicion-br
  otes/
 LOCATION:Real Jardín Botánico - de Murillo\, 2\, Madrid\, 28014
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hoppers
-DTSTART;TZID=Europe/Madrid:20260330T114500
-DTEND;TZID=Europe/Madrid:20260330T132900
-UID:90d2f4732de9e0cce8fdd356f28ccf8a235314913bc1a5e4cc2a47adfa6e1bc8
-CATEGORIES:cinema
-DESCRIPTION:La historia sigue a una joven\, Mabel\, que puede transferir s
- u mente a un castor robot con el objetivo de infiltrarse en el reino anima
- l. Acaba haciéndose amiga de un castor regio\, el Rey Jorge\, y uniendo a
-  los animales para luchar contra los planes de un promotor inmobiliario.\n
- \nRelease year: 2026\n\nOriginal language: EN\n\nAudio: Doblada ES\n\nhttp
- s://cinesembajadores.es/pelicula/hoppers-doblada-al-espanol/?ciudad=madrid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Como cabras
-DTSTART;TZID=Europe/Madrid:20260330T115000
-DTEND;TZID=Europe/Madrid:20260330T132500
-UID:f36acbb361c930c6de3bf6f46b5520e7f77a7b8a69ca7432b5a2631e6923ae49
-CATEGORIES:cinema
-DESCRIPTION:Will es una pequeña cabra con grandes sueños que recibe una 
- oportunidad única en la vida para unirse a los profesionales y jugar al r
- ugebol\, un deporte de alta intensidad\, mixto y de contacto total dominad
- o por los animales más rápidos y feroces del mundo. A los nuevos compañ
- eros de equipo de Will no les entusiasma tener a una cabrita en su plantil
- la\, pero Will está decidido a revolucionar el deporte y demostrar de una
-  vez por todas que «¡los pequeños saben jugar!».\n\nOriginal title: GO
- AT\n\nRelease year: 2026\n\nOriginal language: EN\n\nAudio: Doblada ES\n\n
- https://cinesembajadores.es/pelicula/como-cabras-doblada-al-espanol/?ciuda
- d=madrid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Amarga Navidad
-DTSTART;TZID=Europe/Madrid:20260330T120000
-DTEND;TZID=Europe/Madrid:20260330T135100
-UID:22caeed470f04ba783231cd8c4290faf548da73f6d3db8d749d060e1f8942d41
-CATEGORIES:cinema
-DESCRIPTION:Elsa es una directora de publicidad cuya madre muere durante u
- n largo puente del mes de diciembre. Encuentra refugio en el trabajo\, aun
- que es más bien una huida hacia adelante. Trabaja sin parar y\, sin darse
-  cuenta\, no se concede el tiempo necesario para guardar el duelo por la a
- usencia materna. Hasta que una crisis de pánico la obliga a detenerse e i
- mponerse un descanso. Su pareja\, Bonifacio\, es su tabla de salvación en
-  esos momentos de crisis. Elsa decide viajar a la isla de Lanzarote acompa
- ñada por su amiga Patricia\, que también necesita alejarse de Madrid\, m
- ientras que Bonifacio se queda en la ciudad. La historia de estos tres per
- sonajes\, y algunos más\, se narran paralelamente a la del guionista y di
- rector de cine Raúl Durán\, entremezclando ficción y realidad.\n\nRelea
- se year: 2026\n\nOriginal language: ES\n\nhttps://cinesembajadores.es/peli
- cula/amarga-navidad/?ciudad=madrid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tafiti y sus amigos
-DTSTART;TZID=Europe/Madrid:20260330T155000
-DTEND;TZID=Europe/Madrid:20260330T171100
-UID:3feb46bd3024c3816cb8e832a2cfeaf7477b48b0863cc712eb3d22fa939ab934
-CATEGORIES:cinema
-DESCRIPTION:Cuando Tafiti\, una joven suricata\, conoce a Bristles\, el ce
- rdo salvaje\, sabe que no pueden ser amigos. Pero cuando Bristles es ataca
- do por un águila\, es Tafiti quien corre a rescatarlo. En busca desespera
- da de un amigo\, el divertido cerdo salvaje sigue a Tafiti a su casa\, pro
- vocando sin querer un desafortunado accidente: el abuelo de Tafiti es mord
- ido por una serpiente venenosa mortal. Sólo una mítica flor del desierto
-  podrá salvarlo. Tafiti emprende un peligroso viaje para encontrar la flo
- r\, convencido de que debe hacerlo sola.\n\nAudio: Doblada ES\n\nhttps://c
- inesembajadores.es/pelicula/tafiti-y-sus-amigos-doblada-al-espanol/?ciudad
- =madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Orwell 2+2 = 5
-DTSTART;TZID=Europe/Madrid:20260330T155500
-UID:cd9df31ba6c9aeb8c9ec861cff3438f379bfa99d5a6accece04c354cc8f54ea4
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 119 min
- utos | No recomendada para menores de 16 años\n\nRelease year: 2025\n\nOr
- iginal language: EN\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/106156
- 8/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Torrente presidente
-DTSTART;TZID=Europe/Madrid:20260330T160000
-DTEND;TZID=Europe/Madrid:20260330T174300
-UID:ad86ca56ffa61a82fd7f4b93bd7a3ee1d2ff7908f468e350fc70131022de40d1
-CATEGORIES:cinema
-DESCRIPTION:Sexta entrega de Torrente. Como nota informativa\, la películ
- a no tendrá ni tráiler ni póster ni se mostrará en pases de prensa pre
- vios a su estreno en cines\, en una maniobra de marketing de Santiago Segu
- ra con el fin de preservar las sorpresas y cameos hasta que los fans la pu
- edan ver.\n\nRelease year: 2026\n\nOriginal language: ES\n\nhttps://cinese
- mbajadores.es/pelicula/torrente-presidente/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hoppers
-DTSTART;TZID=Europe/Madrid:20260330T160000
-DTEND;TZID=Europe/Madrid:20260330T174400
-UID:2c1ee2d433b5b159a9b999fcd8cd5f0a8e41b16cbec668ba0086173e2995c418
-CATEGORIES:cinema
-DESCRIPTION:La historia sigue a una joven\, Mabel\, que puede transferir s
- u mente a un castor robot con el objetivo de infiltrarse en el reino anima
- l. Acaba haciéndose amiga de un castor regio\, el Rey Jorge\, y uniendo a
-  los animales para luchar contra los planes de un promotor inmobiliario.\n
- \nRelease year: 2026\n\nOriginal language: EN\n\nAudio: Doblada ES\n\nhttp
- s://cinesembajadores.es/pelicula/hoppers-doblada-al-espanol/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Valor Sentimental
-DTSTART;TZID=Europe/Madrid:20260330T160000
-UID:716bb3a24fc014d06f0a66224c46580f39bb1f166c5c7d5dde6a7229e0b3ec9d
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 133 min
- utos | No recomendada para menores de 12 años\n\nOriginal title: Affeksjo
- nsverdi\n\nRelease year: 2025\n\nOriginal language: NO\n\nAudio: VOSE\n\nh
- ttps://www.pillalas.com/pase/1061439/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Amarga Navidad
-DTSTART;TZID=Europe/Madrid:20260330T160500
-UID:e0b4c6b03b1016b6ca17d70bee611c7d9ce20caa547440cb0bcbdf30b32ec2ae
-CATEGORIES:cinema
-DESCRIPTION:Versión Original Castellano | Duración 111 minutos | No reco
- mendada para menores de 12 años\n\nRelease year: 2026\n\nOriginal languag
- e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1061440/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Yo Te Creo
-DTSTART;TZID=Europe/Madrid:20260330T161000
-UID:edd262669fd0a68d88f70ab472ad8390efd2b6e67c0867d136423d5d96f6fceb
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 78 minu
- tos | No recomendada para menores de 16 años y distintivo especialmente r
- ecomendada para el fomento de la igualdad de género\n\nOriginal title: On
-  vous croit\n\nRelease year: 2025\n\nOriginal language: FR\n\nAudio: VOSE\
- n\nhttps://www.pillalas.com/pase/1061506/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Águilas De El Cairo
-DTSTART;TZID=Europe/Madrid:20260330T161500
-UID:0f273580081b36e7db8a2fdb67e5b994a7c052197c5e307ffc7ee2e7b59bddb4
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 128 min
- utos | No recomendada para menores de 16 años\n\nAudio: VOSE\n\nhttps://w
- ww.pillalas.com/pase/1061546/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Torrente presidente
-DTSTART;TZID=Europe/Madrid:20260330T173000
-DTEND;TZID=Europe/Madrid:20260330T191300
-UID:16d213f19a7c968a259c3df968c11f0019ce57acc57e73ca31526b23f3fa3580
-CATEGORIES:cinema
-DESCRIPTION:Sexta entrega de Torrente. Como nota informativa\, la películ
- a no tendrá ni tráiler ni póster ni se mostrará en pases de prensa pre
- vios a su estreno en cines\, en una maniobra de marketing de Santiago Segu
- ra con el fin de preservar las sorpresas y cameos hasta que los fans la pu
- edan ver.\n\nRelease year: 2026\n\nOriginal language: ES\n\nhttps://cinese
- mbajadores.es/pelicula/torrente-presidente/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dos fiscales
-DTSTART;TZID=Europe/Madrid:20260330T175000
-DTEND;TZID=Europe/Madrid:20260330T194800
-UID:0d6e293e4ec4ea241ef240cb841364ce59054cea6d46af8d5175af3c10ebaca9
-CATEGORIES:cinema
-DESCRIPTION:Unión Soviética\, 1937. Miles de cartas de detenidos acusado
- s ​​falsamente por el régimen son quemadas en una celda. Contra todo 
- pronóstico\, una de ellas llega a su destino: el escritorio del recién n
- ombrado fiscal local\, Alexander Kornev. Kornev hace todo lo posible por e
- ncontrar al prisionero\, víctima de agentes corruptos de la policía secr
- eta\, la NKVD. Bolchevique íntegro y dedicado\, el joven fiscal sospecha 
- de algo ilícito. Su búsqueda de justicia lo llevará hasta la Fiscalía 
- General de Moscú. En la época de las grandes purgas estalinistas\, ésta
-  es la zambullida de un hombre en los pasillos de un régimen totalitario 
- que no lleva dicho nombre.\n\nOriginal title: Zwei Staatsanwälte\n\nRelea
- se year: 2025\n\nOriginal language: RU\n\nAudio: VOSE\n\nhttps://cinesemba
- jadores.es/pelicula/dos-fiscales-vose/?ciudad=madrid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Valor Sentimental
-DTSTART;TZID=Europe/Madrid:20260330T175000
-UID:917e8f5e7612dafe531861ccca484c0546c273d6ce26e25d34ec8a862c400222
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 133 min
- utos | No recomendada para menores de 12 años\n\nOriginal title: Affeksjo
- nsverdi\n\nRelease year: 2025\n\nOriginal language: NO\n\nAudio: VOSE\n\nh
- ttps://www.pillalas.com/pase/1061441/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Altas capacidades
-DTSTART;TZID=Europe/Madrid:20260330T180000
-DTEND;TZID=Europe/Madrid:20260330T194100
-UID:d5b8a2618cf4275a782c538b5542dbc22ede2f703bf997613849e09f58702a85
-CATEGORIES:cinema
-DESCRIPTION:Alicia y Gonzalo\, una pareja de clase media\, se encuentran c
- on la oportunidad de matricular a su hijo Fer en un colegio laico de élit
- e. Para los padres supone asomar la cabeza en la clase alta\, nuevas amist
- ades\, mayores ingresos\, ventajas incontables. Dicen hacerlo por su hijo.
-  En esta maravillosa contradicción entre los miedos y los principios mora
- les\, las aspiraciones de la pareja se llevarán por delante lo que\, hast
- a entonces\, creían incuestionable.\n\nRelease year: 2026\n\nOriginal lan
- guage: ES\n\nhttps://cinesembajadores.es/pelicula/altas-capacidades/?ciuda
- d=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La invasió dels bàrbars
-DTSTART;TZID=Europe/Madrid:20260330T180000
-DTEND;TZID=Europe/Madrid:20260330T195700
-UID:5cc26bf29b17a17ae7d54ccd8c7a5cb390da9df6236ff74da139efda87a7d1d7
-CATEGORIES:cinema
-DESCRIPTION:En 1939\, Esperanza\, una joven conservadora del Museo del Pra
- do es interrogada por la desaparición de un cuadro que un coronel quiere 
- incautar. Ochenta años después\, su nieta Aurora busca sus restos en una
-  de las fosas comunes del franquismo.\n\nRelease year: 2025\n\nOriginal la
- nguage: CA\n\nAudio: VOSE\n\nhttps://cinesembajadores.es/pelicula/la-invas
- io-dels-barbars-vose/?ciudad=madrid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Amarga Navidad
-DTSTART;TZID=Europe/Madrid:20260330T181000
-DTEND;TZID=Europe/Madrid:20260330T200100
-UID:3b617ee860dfb45cdd70a4f23170fe5958a5c53f6229c28242a860b4143583e0
-CATEGORIES:cinema
-DESCRIPTION:Elsa es una directora de publicidad cuya madre muere durante u
- n largo puente del mes de diciembre. Encuentra refugio en el trabajo\, aun
- que es más bien una huida hacia adelante. Trabaja sin parar y\, sin darse
-  cuenta\, no se concede el tiempo necesario para guardar el duelo por la a
- usencia materna. Hasta que una crisis de pánico la obliga a detenerse e i
- mponerse un descanso. Su pareja\, Bonifacio\, es su tabla de salvación en
-  esos momentos de crisis. Elsa decide viajar a la isla de Lanzarote acompa
- ñada por su amiga Patricia\, que también necesita alejarse de Madrid\, m
- ientras que Bonifacio se queda en la ciudad. La historia de estos tres per
- sonajes\, y algunos más\, se narran paralelamente a la del guionista y di
- rector de cine Raúl Durán\, entremezclando ficción y realidad.\n\nRelea
- se year: 2026\n\nOriginal language: ES\n\nhttps://cinesembajadores.es/peli
- cula/amarga-navidad/?ciudad=madrid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hoppers
-DTSTART;TZID=Europe/Madrid:20260330T181000
-DTEND;TZID=Europe/Madrid:20260330T195400
-UID:f31e3c1346d05dcf5d57941a990437a0a62cd9e5403ecfccbf1201e62774ffeb
-CATEGORIES:cinema
-DESCRIPTION:La historia sigue a una joven\, Mabel\, que puede transferir s
- u mente a un castor robot con el objetivo de infiltrarse en el reino anima
- l. Acaba haciéndose amiga de un castor regio\, el Rey Jorge\, y uniendo a
-  los animales para luchar contra los planes de un promotor inmobiliario.\n
- \nRelease year: 2026\n\nOriginal language: EN\n\nAudio: Doblada ES\n\nhttp
- s://cinesembajadores.es/pelicula/hoppers-doblada-al-espanol/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Amarga Navidad
-DTSTART;TZID=Europe/Madrid:20260330T181500
-UID:53ce8f326bac02ca8a325ff6f9bdaf70471802dfe944c53a21977d126e0c6dc9
-CATEGORIES:cinema
-DESCRIPTION:Versión Original Castellano | Duración 111 minutos | No reco
- mendada para menores de 12 años\n\nRelease year: 2026\n\nOriginal languag
- e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1061442/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El Último Vikingo
-DTSTART;TZID=Europe/Madrid:20260330T181500
-UID:4c6110b0fd471881075f759652bff119ee976fbd2a8371dd698f2b05fbe9b57a
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 116 min
- utos | No recomendada para menores de 16 años\n\nOriginal title: Den sids
- te viking\n\nRelease year: 2025\n\nOriginal language: DA\n\nAudio: VOSE\n\
- nhttps://www.pillalas.com/pase/1061569/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Yo Te Creo
-DTSTART;TZID=Europe/Madrid:20260330T183000
-UID:ad5f0c5152914a2f652257ff15bdd45402ffc4efd2bcc4ff6f80e470cae3b19a
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 78 minu
- tos | No recomendada para menores de 16 años y distintivo especialmente r
- ecomendada para el fomento de la igualdad de género\n\nOriginal title: On
-  vous croit\n\nRelease year: 2025\n\nOriginal language: FR\n\nAudio: VOSE\
- n\nhttps://www.pillalas.com/pase/1061443/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Amarga Navidad
-DTSTART;TZID=Europe/Madrid:20260330T190000
-UID:4224e761633e9350134b5c9f95a880f426d35efa39047907907dce969a61ddd0
-CATEGORIES:cinema
-DESCRIPTION:Versión Original Castellano | Duración 111 minutos | No reco
- mendada para menores de 12 años\n\nRelease year: 2026\n\nOriginal languag
- e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1061444/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Espacio Queer: What a Feeling
-DTSTART;TZID=Europe/Madrid:20260330T193000
-DTEND;TZID=Europe/Madrid:20260330T212000
-UID:d05ec2b68f7fe55bf553d9718214daf8c32bff3cbb3144869ebfa9bd2778c03e
-CATEGORIES:cinema
-DESCRIPTION:Una comedia romántica sincera e inteligente sobre dos mujeres
-  de mediana edad que se niegan a quedarse al margen de la vida.\n\nLa come
- dia gira en torno a dos mujeres que se conocen en un bar de lesbianas y ex
- plora temas como el amor entre culturas\, las convenciones\, la inmigraci
- ón\, la clase social y la sexualidad en Austria.\n\nAudio: VOSE\n\nhttps:
- //cinesembajadores.es/pelicula/espacio-queer-what-a-feeling-vose/?ciudad=m
- adrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Altas capacidades
-DTSTART;TZID=Europe/Madrid:20260330T200000
-DTEND;TZID=Europe/Madrid:20260330T214100
-UID:a3df4802f95f3922669464c14eadf99c86d563d4e733cf8b2eec58c1e3b7558d
-CATEGORIES:cinema
-DESCRIPTION:Alicia y Gonzalo\, una pareja de clase media\, se encuentran c
- on la oportunidad de matricular a su hijo Fer en un colegio laico de élit
- e. Para los padres supone asomar la cabeza en la clase alta\, nuevas amist
- ades\, mayores ingresos\, ventajas incontables. Dicen hacerlo por su hijo.
-  En esta maravillosa contradicción entre los miedos y los principios mora
- les\, las aspiraciones de la pareja se llevarán por delante lo que\, hast
- a entonces\, creían incuestionable.\n\nRelease year: 2026\n\nOriginal lan
- guage: ES\n\nhttps://cinesembajadores.es/pelicula/altas-capacidades/?ciuda
- d=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Amarga Navidad
-DTSTART;TZID=Europe/Madrid:20260330T201000
-DTEND;TZID=Europe/Madrid:20260330T220100
-UID:80c937251f2e6cff92dd7bb5ccd68a0db1f6e7c2add0e700e31670f47a0d04ef
-CATEGORIES:cinema
-DESCRIPTION:Elsa es una directora de publicidad cuya madre muere durante u
- n largo puente del mes de diciembre. Encuentra refugio en el trabajo\, aun
- que es más bien una huida hacia adelante. Trabaja sin parar y\, sin darse
-  cuenta\, no se concede el tiempo necesario para guardar el duelo por la a
- usencia materna. Hasta que una crisis de pánico la obliga a detenerse e i
- mponerse un descanso. Su pareja\, Bonifacio\, es su tabla de salvación en
-  esos momentos de crisis. Elsa decide viajar a la isla de Lanzarote acompa
- ñada por su amiga Patricia\, que también necesita alejarse de Madrid\, m
- ientras que Bonifacio se queda en la ciudad. La historia de estos tres per
- sonajes\, y algunos más\, se narran paralelamente a la del guionista y di
- rector de cine Raúl Durán\, entremezclando ficción y realidad.\n\nRelea
- se year: 2026\n\nOriginal language: ES\n\nhttps://cinesembajadores.es/peli
- cula/amarga-navidad/?ciudad=madrid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Yo Te Creo
-DTSTART;TZID=Europe/Madrid:20260330T201000
-UID:5c26b46c83f484c02ca84c84a041f88f86babcd0ed861ea04078cef6427b5197
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 78 minu
- tos | No recomendada para menores de 16 años y distintivo especialmente r
- ecomendada para el fomento de la igualdad de género\n\nOriginal title: On
-  vous croit\n\nRelease year: 2025\n\nOriginal language: FR\n\nAudio: VOSE\
- n\nhttps://www.pillalas.com/pase/1061445/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dos fiscales
-DTSTART;TZID=Europe/Madrid:20260330T201500
-DTEND;TZID=Europe/Madrid:20260330T221300
-UID:e3fc6fae22980fa457d48de568ea93963e91e97b48a2847f602ecd557d1f5f2e
-CATEGORIES:cinema
-DESCRIPTION:Unión Soviética\, 1937. Miles de cartas de detenidos acusado
- s ​​falsamente por el régimen son quemadas en una celda. Contra todo 
- pronóstico\, una de ellas llega a su destino: el escritorio del recién n
- ombrado fiscal local\, Alexander Kornev. Kornev hace todo lo posible por e
- ncontrar al prisionero\, víctima de agentes corruptos de la policía secr
- eta\, la NKVD. Bolchevique íntegro y dedicado\, el joven fiscal sospecha 
- de algo ilícito. Su búsqueda de justicia lo llevará hasta la Fiscalía 
- General de Moscú. En la época de las grandes purgas estalinistas\, ésta
-  es la zambullida de un hombre en los pasillos de un régimen totalitario 
- que no lleva dicho nombre.\n\nOriginal title: Zwei Staatsanwälte\n\nRelea
- se year: 2025\n\nOriginal language: RU\n\nAudio: VOSE\n\nhttps://cinesemba
- jadores.es/pelicula/dos-fiscales-vose/?ciudad=madrid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Torrente presidente
-DTSTART;TZID=Europe/Madrid:20260330T201500
-DTEND;TZID=Europe/Madrid:20260330T215800
-UID:bdb33bf29e9029b87a47619125a2115ec80ddb53f8c539d7fa5b49e7fe82dfc5
-CATEGORIES:cinema
-DESCRIPTION:Sexta entrega de Torrente. Como nota informativa\, la películ
- a no tendrá ni tráiler ni póster ni se mostrará en pases de prensa pre
- vios a su estreno en cines\, en una maniobra de marketing de Santiago Segu
- ra con el fin de preservar las sorpresas y cameos hasta que los fans la pu
- edan ver.\n\nRelease year: 2026\n\nOriginal language: ES\n\nhttps://cinese
- mbajadores.es/pelicula/torrente-presidente/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Amarga Navidad
-DTSTART;TZID=Europe/Madrid:20260330T202000
-DTEND;TZID=Europe/Madrid:20260330T221100
-UID:8f788c35c1e89a77d4a141c9b0136cdca8fffe42c418a634221902d82988b788
-CATEGORIES:cinema
-DESCRIPTION:Elsa es una directora de publicidad cuya madre muere durante u
- n largo puente del mes de diciembre. Encuentra refugio en el trabajo\, aun
- que es más bien una huida hacia adelante. Trabaja sin parar y\, sin darse
-  cuenta\, no se concede el tiempo necesario para guardar el duelo por la a
- usencia materna. Hasta que una crisis de pánico la obliga a detenerse e i
- mponerse un descanso. Su pareja\, Bonifacio\, es su tabla de salvación en
-  esos momentos de crisis. Elsa decide viajar a la isla de Lanzarote acompa
- ñada por su amiga Patricia\, que también necesita alejarse de Madrid\, m
- ientras que Bonifacio se queda en la ciudad. La historia de estos tres per
- sonajes\, y algunos más\, se narran paralelamente a la del guionista y di
- rector de cine Raúl Durán\, entremezclando ficción y realidad.\n\nRelea
- se year: 2026\n\nOriginal language: ES\n\nhttps://cinesembajadores.es/peli
- cula/amarga-navidad/?ciudad=madrid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Valor Sentimental
-DTSTART;TZID=Europe/Madrid:20260330T202000
-UID:3501fed217ee9a2c64c51130b985a406c190d11a29aec0a05632cefa0bb6ad14
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 133 min
- utos | No recomendada para menores de 12 años\n\nOriginal title: Affeksjo
- nsverdi\n\nRelease year: 2025\n\nOriginal language: NO\n\nAudio: VOSE\n\nh
- ttps://www.pillalas.com/pase/1061446/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Amarga Navidad
-DTSTART;TZID=Europe/Madrid:20260330T202500
-UID:1b2b641bd5cc1599b9071e30e573d010b3091ba3c39fb4ec3cd9216178e145c8
-CATEGORIES:cinema
-DESCRIPTION:Versión Original Castellano | Duración 111 minutos | No reco
- mendada para menores de 12 años\n\nRelease year: 2026\n\nOriginal languag
- e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1061447/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Orwell 2+2 = 5
-DTSTART;TZID=Europe/Madrid:20260330T203000
-UID:b783499283a882c527e574e66d31bae78c6faedc2e0702d226907160ca2599c4
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 119 min
- utos | No recomendada para menores de 16 años\n\nRelease year: 2025\n\nOr
- iginal language: EN\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/106157
- 0/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dotan
-DTSTART;TZID=Europe/Madrid:20260330T210000
-UID:223f7709b0e2b8fe86f5a0930c3f64c1cb948fc06a8266614c0ffebb5ea1cd60
-CATEGORIES:music
-DESCRIPTION:Concierto / Pop / World Music & Folk\n\nhttps://salavillanos.e
- s/evento/dotan/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Águilas De El Cairo
-DTSTART;TZID=Europe/Madrid:20260330T213000
-UID:38eca36fed236342bd5aabb8c28b2f3f8e089631a391fd8f766d2751c530ff3f
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 128 min
- utos | No recomendada para menores de 16 años\n\nAudio: VOSE\n\nhttps://w
- ww.pillalas.com/pase/1061547/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:No Hay Otra Opción
-DTSTART;TZID=Europe/Madrid:20260330T214500
-UID:182602425fab2e22525ca4ce2298c22d8cddab02521def14146d6d2067d544ad
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 139 min
- utos | Pendiente de calificación\n\nOriginal title: 어쩔수가없다\n\
- nRelease year: 2025\n\nOriginal language: KO\n\nAudio: VOSE\n\nhttps://www
- .pillalas.com/pase/1061507/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Amarga Navidad
-DTSTART;TZID=Europe/Madrid:20260330T223000
-DTEND;TZID=Europe/Madrid:20260331T002100
-UID:ec44b880f4891f67745510f953b2e2dfb41c3dba1d388300323b5155c6402012
-CATEGORIES:cinema
-DESCRIPTION:Elsa es una directora de publicidad cuya madre muere durante u
- n largo puente del mes de diciembre. Encuentra refugio en el trabajo\, aun
- que es más bien una huida hacia adelante. Trabaja sin parar y\, sin darse
-  cuenta\, no se concede el tiempo necesario para guardar el duelo por la a
- usencia materna. Hasta que una crisis de pánico la obliga a detenerse e i
- mponerse un descanso. Su pareja\, Bonifacio\, es su tabla de salvación en
-  esos momentos de crisis. Elsa decide viajar a la isla de Lanzarote acompa
- ñada por su amiga Patricia\, que también necesita alejarse de Madrid\, m
- ientras que Bonifacio se queda en la ciudad. La historia de estos tres per
- sonajes\, y algunos más\, se narran paralelamente a la del guionista y di
- rector de cine Raúl Durán\, entremezclando ficción y realidad.\n\nRelea
- se year: 2026\n\nOriginal language: ES\n\nhttps://cinesembajadores.es/peli
- cula/amarga-navidad/?ciudad=madrid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Torrente presidente
-DTSTART;TZID=Europe/Madrid:20260330T223000
-DTEND;TZID=Europe/Madrid:20260331T001300
-UID:997241c32dc6f39023b74a5c01c796a9405616c866edefcd920c14becf093dea
-CATEGORIES:cinema
-DESCRIPTION:Sexta entrega de Torrente. Como nota informativa\, la películ
- a no tendrá ni tráiler ni póster ni se mostrará en pases de prensa pre
- vios a su estreno en cines\, en una maniobra de marketing de Santiago Segu
- ra con el fin de preservar las sorpresas y cameos hasta que los fans la pu
- edan ver.\n\nRelease year: 2026\n\nOriginal language: ES\n\nhttps://cinese
- mbajadores.es/pelicula/torrente-presidente/?ciudad=madrid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tres adioses
-DTSTART;TZID=Europe/Madrid:20260330T223000
-DTEND;TZID=Europe/Madrid:20260331T003000
-UID:9e01ac5ed5e6b6b4851fcda75106b2c90cd462f094924a9682193967eebafc47
-CATEGORIES:cinema
-DESCRIPTION:Tras lo que parecía una discusión sin importancia\, Marta (A
- lba Rohrwacher) y Antonio (Elio Germano) se separan. Él\, un chef promete
- dor\, se refugia en sus fogones\; ella\, en su silencio\, empieza a notar 
- algo más que tristeza: ha perdido el apetito… y no solo por desamor. Cu
- ando descubre que detrás hay un problema de salud\, todo da un giro inesp
- erado: la comida sabe mejor\, la música le llega como nunca y el deseo de
- spierta sus ganas de vivir sin miedo.\n\nOriginal title: Tre ciotole\n\nRe
- lease year: 2025\n\nOriginal language: IT\n\nAudio: VOSE\n\nhttps://cinese
- mbajadores.es/pelicula/tres-adioses-vose/?ciudad=madrid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Amarga Navidad
-DTSTART;TZID=Europe/Madrid:20260330T223500
-UID:9c050a462d13dbc605ef7472276dcfe87ae9831e062b5c89b926f3ed749b5d45
-CATEGORIES:cinema
-DESCRIPTION:Versión Original Castellano | Duración 111 minutos | No reco
- mendada para menores de 12 años\n\nRelease year: 2026\n\nOriginal languag
- e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1061448/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El Último Vikingo
-DTSTART;TZID=Europe/Madrid:20260330T224500
-UID:c122c8110dafdf66cd42d30e0ee361eae5f5ab31d0d70580510bca43fb8944e1
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 116 min
- utos | No recomendada para menores de 16 años\n\nOriginal title: Den sids
- te viking\n\nRelease year: 2025\n\nOriginal language: DA\n\nAudio: VOSE\n\
- nhttps://www.pillalas.com/pase/1061571/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Yo Te Creo
-DTSTART;TZID=Europe/Madrid:20260330T224500
-UID:a697265e88e135e7bc355ecdae68584bde050e9fd2424b1cc48f94c436cd5d88
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 78 minu
- tos | No recomendada para menores de 16 años y distintivo especialmente r
- ecomendada para el fomento de la igualdad de género\n\nOriginal title: On
-  vous croit\n\nRelease year: 2025\n\nOriginal language: FR\n\nAudio: VOSE\
- n\nhttps://www.pillalas.com/pase/1061508/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hoppers
@@ -1720,8 +1195,8 @@ SUMMARY:Documental “Palestina\, una tragedia permanente” + libro “El
 DTSTART;TZID=Europe/Madrid:20260331T190000
 UID:176dff024a9265a2a6f6f5d6a5752119a2a56ad5425800655ab617f92d1a1328
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 23 plazas!\n\nhttps://teatrodelbarrio.com/pal
- estina-una-tragedia-permanente/
+DESCRIPTION:¡Ya solo quedan 4 plazas!\n\nhttps://teatrodelbarrio.com/pale
+ stina-una-tragedia-permanente/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -2070,6 +1545,16 @@ DESCRIPTION:Esta sesión presenta un conjunto de piezas en las que el sile
 LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Calle Málaga
+DTSTART;TZID=Europe/Madrid:20260401T155500
+UID:d94bbb98f43e7f8bb59231e009d7c024b835d1798348cfa4eae9a2320ea95121
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 116 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2025\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062151/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Super Mario Galaxy: La película
 DTSTART;TZID=Europe/Madrid:20260401T160000
 DTEND;TZID=Europe/Madrid:20260401T173800
@@ -2138,6 +1623,27 @@ DESCRIPTION:Sexta entrega de Torrente. Como nota informativa\, la películ
 LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Lapönia
+DTSTART;TZID=Europe/Madrid:20260401T160000
+UID:e7135cd4eeafef409db8b73683f4bc8d094aa0e689d59353309a2233b743373b
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 89 minutos | No recom
+ endada para menores de 12 años\n\nRelease year: 2026\n\nOriginal language
+ : ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062224/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orwell 2+2 = 5
+DTSTART;TZID=Europe/Madrid:20260401T160000
+UID:b829b5e47bf6fdd3c3c64aa43d34d0075f66df5e0f5a9bba3a17d7c18b7698a9
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 119 min
+ utos | No recomendada para menores de 16 años\n\nRelease year: 2025\n\nOr
+ iginal language: EN\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/106222
+ 3/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Altas capacidades
 DTSTART;TZID=Europe/Madrid:20260401T161000
 DTEND;TZID=Europe/Madrid:20260401T175100
@@ -2155,6 +1661,28 @@ DESCRIPTION:Alicia y Gonzalo\, una pareja de clase media\, se encuentran c
 LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Yo Te Creo
+DTSTART;TZID=Europe/Madrid:20260401T161000
+UID:66bb28a34ffb17e552e5d54f9bf0a1bc2eeb46038352a18d6598250da6e7cde1
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 78 minu
+ tos | No recomendada para menores de 16 años y distintivo especialmente r
+ ecomendada para el fomento de la igualdad de género\n\nOriginal title: On
+  vous croit\n\nRelease year: 2025\n\nOriginal language: FR\n\nAudio: VOSE\
+ n\nhttps://www.pillalas.com/pase/1062225/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Amarga Navidad
+DTSTART;TZID=Europe/Madrid:20260401T170000
+UID:e3f5bda6447799432cec0b2557472c7c5f4dfe2a15b2efe45f70d774cd235dd8
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 111 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2026\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062226/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Julia (1977)
 DTSTART;TZID=Europe/Madrid:20260401T173000
 UID:d81c677d1bda278583c73fc3942db1180ae4f1ebedf10f31961d452631d7f416
@@ -2166,6 +1694,28 @@ DESCRIPTION:Fecha y Hora: Miércoles 1 de abril a las 17:30h (Sala 1. Lill
  a.es/es/productos/descripcion/julia-fred-zinnemann-1977-
 LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
  \, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valor Sentimental
+DTSTART;TZID=Europe/Madrid:20260401T175000
+UID:a881d9b13a0f9c65fcaf2f789e30084363324d8dd33cafadbbf62589a62b18aa
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 133 min
+ utos | No recomendada para menores de 12 años\n\nOriginal title: Affeksjo
+ nsverdi\n\nRelease year: 2025\n\nOriginal language: NO\n\nAudio: VOSE\n\nh
+ ttps://www.pillalas.com/pase/1062227/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El Último Vikingo
+DTSTART;TZID=Europe/Madrid:20260401T175500
+UID:8989dc2e5f89a01e11dc77dc8937c699116e72b08da1c0a0608b241bed924b2b
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 116 min
+ utos | No recomendada para menores de 16 años\n\nOriginal title: Den sids
+ te viking\n\nRelease year: 2025\n\nOriginal language: DA\n\nAudio: VOSE\n\
+ nhttps://www.pillalas.com/pase/1062331/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Super Mario Galaxy: La película
@@ -2235,6 +1785,16 @@ DESCRIPTION:Elsa es una directora de publicidad cuya madre muere durante u
 LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Calle Málaga
+DTSTART;TZID=Europe/Madrid:20260401T181000
+UID:3371b9ed8871fafb5770450ba3a53726c87a23a4c60e876e592730f8430ac56b
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 116 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2025\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062152/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Altas capacidades
 DTSTART;TZID=Europe/Madrid:20260401T181500
 DTEND;TZID=Europe/Madrid:20260401T195600
@@ -2273,6 +1833,16 @@ DESCRIPTION:Después de varios años sin celebrar las fiestas juntas\, Nur
 LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Lapönia
+DTSTART;TZID=Europe/Madrid:20260401T181500
+UID:e9f2e3ad11acd4e43469c9476a2e6bf1b056254b50454854facecc40e188240e
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 89 minutos | No recom
+ endada para menores de 12 años\n\nRelease year: 2026\n\nOriginal language
+ : ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062228/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Capítulo XXX: Silencios audibles (sonidos que callan)
 DTSTART;TZID=Europe/Madrid:20260401T190000
 UID:8b16929c6e2e3481543f113d12aeb0bfc213d51f596d877599139abba72ea51a
@@ -2300,6 +1870,16 @@ DESCRIPTION:Fecha y Hora: Miércoles 1 de abril a las 19:00h (Sala 2. Kell
  da.es/es/productos/descripcion/first-cow-kelly-reichardt-2019-
 LOCATION:Filmoteca Espanola - Cine Dore Sala 2 - Calle de Santa Isabel\, 3
  \, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Amarga Navidad
+DTSTART;TZID=Europe/Madrid:20260401T191500
+UID:20566687cf54f9826ede159e43f7a4d28049288c8af04612ff048b3d0aeab0d6
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 111 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2026\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062229/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:L’Atalante
@@ -2332,6 +1912,16 @@ DESCRIPTION:Mariano De Santis\, presidente (ficiticio) de la República it
 LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Lapönia
+DTSTART;TZID=Europe/Madrid:20260401T200000
+UID:62315f69c60ffa5fa4183221a11304e227839457bb28bd4bfd81cdf2e633d74a
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 89 minutos | No recom
+ endada para menores de 12 años\n\nRelease year: 2026\n\nOriginal language
+ : ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062230/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Altas capacidades
 DTSTART;TZID=Europe/Madrid:20260401T201000
 DTEND;TZID=Europe/Madrid:20260401T215100
@@ -2361,6 +1951,18 @@ DESCRIPTION:Sexta entrega de Torrente. Como nota informativa\, la películ
  edan ver.\n\nRelease year: 2026\n\nOriginal language: ES\n\nhttps://cinese
  mbajadores.es/pelicula/torrente-presidente/?ciudad=madrid
 LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yo Te Creo
+DTSTART;TZID=Europe/Madrid:20260401T201000
+UID:3bbf3820e96ce57b45bd4b64ac9bc23bed8ee02ffb0f6bba8b6e7c59c386a3d9
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 78 minu
+ tos | No recomendada para menores de 16 años y distintivo especialmente r
+ ecomendada para el fomento de la igualdad de género\n\nOriginal title: On
+  vous croit\n\nRelease year: 2025\n\nOriginal language: FR\n\nAudio: VOSE\
+ n\nhttps://www.pillalas.com/pase/1062231/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Super Mario Galaxy: La película
@@ -2417,6 +2019,17 @@ DESCRIPTION:Elsa es una directora de publicidad cuya madre muere durante u
 LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Valor Sentimental
+DTSTART;TZID=Europe/Madrid:20260401T202500
+UID:887ba5c5fb3798c6f69e7759e1a992ee1cc359f677d68f5511abff9724f9be5b
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 133 min
+ utos | No recomendada para menores de 12 años\n\nOriginal title: Affeksjo
+ nsverdi\n\nRelease year: 2025\n\nOriginal language: NO\n\nAudio: VOSE\n\nh
+ ttps://www.pillalas.com/pase/1062232/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Carmen (1915)
 DTSTART;TZID=Europe/Madrid:20260401T203000
 UID:845ee605240e529f03519f8f808d273a0a17adc0a49f3543cb391688a28aa619
@@ -2428,6 +2041,47 @@ DESCRIPTION:Fecha y Hora: Miércoles 1 de abril a las 20:30h (Sala 1. Fuer
  da.es/es/productos/descripcion/carmen-9
 LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
  \, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Calle Málaga
+DTSTART;TZID=Europe/Madrid:20260401T203000
+UID:0cc9055feb823be6ecf5b700ba53ae87bacb3c3bfbc2b6f51c3651ae6451dfdf
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 116 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2025\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062153/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Amarga Navidad
+DTSTART;TZID=Europe/Madrid:20260401T213000
+UID:668a5c56166761e0137b27f4708628fa176cba8afc53844c04b6410f898499bf
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 111 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2026\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062233/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Calle Málaga
+DTSTART;TZID=Europe/Madrid:20260401T214500
+UID:7386c6b163618b6fc4d4ee55a0d8dfcddbe9e1a016ee9083dae8ca9c3be279ac
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 116 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2025\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062234/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El Último Vikingo
+DTSTART;TZID=Europe/Madrid:20260401T215000
+UID:c203fdddfe15a5f6c98850351e2201253b55147d677740c95084903cf9936084
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 116 min
+ utos | No recomendada para menores de 16 años\n\nOriginal title: Den sids
+ te viking\n\nRelease year: 2025\n\nOriginal language: DA\n\nAudio: VOSE\n\
+ nhttps://www.pillalas.com/pase/1062332/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Torrente presidente
@@ -2497,24 +2151,17 @@ DESCRIPTION:Elsa es una directora de publicidad cuya madre muere durante u
 LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lapönia
+SUMMARY:Hamnet
 DTSTART;TZID=Europe/Madrid:20260401T223000
-DTEND;TZID=Europe/Madrid:20260401T235900
-UID:d3199c19b7e2adbd131cc61180c27785461ec606e75c78b24281c748617398c5
+DTEND;TZID=Europe/Madrid:20260402T003500
+UID:a008dc6f07a7a67d2ff06ec4a3171b9aa4be1b387bc5bfff767b24e6fff99e32
 CATEGORIES:cinema
-DESCRIPTION:Después de varios años sin celebrar las fiestas juntas\, Nur
- ia (Ángela Cervantes)\, asentada en Laponia junto a su marido Olavi (Vebj
- ørn Enger) y su hija\, decide invitar a su hermana Mónica (Natalia Verbe
- ke)\, a su marido (Julián López) y al hijo de ambos a celebrar una Navid
- ad de ensueño en su casa de Romanievi. El plan se presenta perfecto hasta
-  que la hija de Nuria le cuenta a su primo pequeño la verdad sobre la exi
- stencia de Papá Noel. La que estaba destinada a ser la más especial de l
- as navidades\, se convierte de golpe en una batalla campal entre hermanas\
- , cuñados y primos. Una noche que sacará a relucir secretos inconfesable
- s en medio de un debate sobre qué es más adecuado\, si contar la verdad 
- a toda costa o mantener la ilusión\, aunque sea a base de mentiras.\n\nRe
- lease year: 2026\n\nOriginal language: ES\n\nhttps://cinesembajadores.es/p
- elicula/laponia/?ciudad=madrid
+DESCRIPTION:Narra la historia de Agnes\, la esposa de William Shakespeare\
+ , en su lucha por superar la pérdida de su único hijo\, Hamnet. Una hist
+ oria humana y desgarradora como telón de fondo para la creación de la ob
+ ra de Shakespeare\, Hamlet.\n\nRelease year: 2025\n\nOriginal language: EN
+ \n\nAudio: VOSE\n\nhttps://cinesembajadores.es/pelicula/hamnet-vose/?ciuda
+ d=madrid
 LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
 END:VEVENT
 BEGIN:VEVENT
@@ -2533,6 +2180,16 @@ DESCRIPTION:Mariano De Santis\, presidente (ficiticio) de la República it
 LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Lapönia
+DTSTART;TZID=Europe/Madrid:20260401T224500
+UID:976ecd5d3171dda9ac0f9d131c95fe1abcc0f227be4c77acb0f96c382dcd4d35
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 89 minutos | No recom
+ endada para menores de 12 años\n\nRelease year: 2026\n\nOriginal language
+ : ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062154/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Super Mario Galaxy: La película
 DTSTART;TZID=Europe/Madrid:20260402T114500
 DTEND;TZID=Europe/Madrid:20260402T132300
@@ -2547,6 +2204,16 @@ DESCRIPTION:La película tiene lugar después de los acontecimientos de la
  adores.es/pelicula/super-mario-galaxy-la-pelicula-doblada-al-espanol/?ciud
  ad=madrid
 LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Calle Málaga
+DTSTART;TZID=Europe/Madrid:20260402T155500
+UID:6298719424ba34d2b7b79179b12fcfd599bf3111cd4985f7c34c447619171bf2
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 116 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2025\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062155/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Super Mario Galaxy: La película
@@ -2617,6 +2284,27 @@ DESCRIPTION:Sexta entrega de Torrente. Como nota informativa\, la películ
 LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Lapönia
+DTSTART;TZID=Europe/Madrid:20260402T160000
+UID:3901fb306c636a5c28180a69dd6266cc8fbd47965ad3ee8640f42ed40a4bdd24
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 89 minutos | No recom
+ endada para menores de 12 años\n\nRelease year: 2026\n\nOriginal language
+ : ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062235/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orwell 2+2 = 5
+DTSTART;TZID=Europe/Madrid:20260402T160000
+UID:d22a35421dc83203da5bbc6e203b03ade9654b16bde3d6441bbe411cc914ab14
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 119 min
+ utos | No recomendada para menores de 16 años\n\nRelease year: 2025\n\nOr
+ iginal language: EN\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/106223
+ 6/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Altas capacidades
 DTSTART;TZID=Europe/Madrid:20260402T161000
 DTEND;TZID=Europe/Madrid:20260402T175100
@@ -2632,6 +2320,50 @@ DESCRIPTION:Alicia y Gonzalo\, una pareja de clase media\, se encuentran c
  guage: ES\n\nhttps://cinesembajadores.es/pelicula/altas-capacidades/?ciuda
  d=madrid
 LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yo Te Creo
+DTSTART;TZID=Europe/Madrid:20260402T161000
+UID:03d60ad6a365fc13101f4dcdba8f8f500d117c49170f1d202f8a5ae7bb7beb8f
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 78 minu
+ tos | No recomendada para menores de 16 años y distintivo especialmente r
+ ecomendada para el fomento de la igualdad de género\n\nOriginal title: On
+  vous croit\n\nRelease year: 2025\n\nOriginal language: FR\n\nAudio: VOSE\
+ n\nhttps://www.pillalas.com/pase/1062237/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Amarga Navidad
+DTSTART;TZID=Europe/Madrid:20260402T170000
+UID:8fd13cde25f899600b8e8768a58077c495825b01cf29cf14a8bcdfcbe1cfc815
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 111 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2026\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062238/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valor Sentimental
+DTSTART;TZID=Europe/Madrid:20260402T175000
+UID:241d82d2618dc7d0010c7b0e81702f6b6c7ac28610c028c50b7c026beaf42338
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 133 min
+ utos | No recomendada para menores de 12 años\n\nOriginal title: Affeksjo
+ nsverdi\n\nRelease year: 2025\n\nOriginal language: NO\n\nAudio: VOSE\n\nh
+ ttps://www.pillalas.com/pase/1062239/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El Último Vikingo
+DTSTART;TZID=Europe/Madrid:20260402T175500
+UID:d12fd8da26346daa677ad7e2d616fac9848ae05a04c57edfb6d7ab27b8af3e5b
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 116 min
+ utos | No recomendada para menores de 16 años\n\nOriginal title: Den sids
+ te viking\n\nRelease year: 2025\n\nOriginal language: DA\n\nAudio: VOSE\n\
+ nhttps://www.pillalas.com/pase/1062333/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Super Mario Galaxy: La película
@@ -2701,6 +2433,16 @@ DESCRIPTION:Elsa es una directora de publicidad cuya madre muere durante u
 LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Calle Málaga
+DTSTART;TZID=Europe/Madrid:20260402T181000
+UID:241c15fcbf41a822c01dbb9f5e7855bfb4a2d9873ca9512668335810c529d088
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 116 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2025\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062156/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Altas capacidades
 DTSTART;TZID=Europe/Madrid:20260402T181500
 DTEND;TZID=Europe/Madrid:20260402T195600
@@ -2739,6 +2481,26 @@ DESCRIPTION:Después de varios años sin celebrar las fiestas juntas\, Nur
 LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Lapönia
+DTSTART;TZID=Europe/Madrid:20260402T181500
+UID:cc897569a5de570cc59d7a3611a1900edab210d5f42a590381e6d78b80bf2328
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 89 minutos | No recom
+ endada para menores de 12 años\n\nRelease year: 2026\n\nOriginal language
+ : ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062240/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Amarga Navidad
+DTSTART;TZID=Europe/Madrid:20260402T191500
+UID:fb9fad6bd0a4c0b9039ba82511252bd78128c20169920c9332429b3de6ddde2b
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 111 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2026\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062241/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:La regla del juego
 DTSTART;TZID=Europe/Madrid:20260402T200000
 UID:b6a9884314d2e0aebf965d7815650d23a8a90c73454f559ec5a4d6cfe02d3431
@@ -2765,6 +2527,16 @@ DESCRIPTION:Mariano De Santis\, presidente (ficiticio) de la República it
  n\nAudio: VOSE\n\nhttps://cinesembajadores.es/pelicula/la-grazia-vose/?ciu
  dad=madrid
 LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lapönia
+DTSTART;TZID=Europe/Madrid:20260402T200000
+UID:2c282668a7d5b200250cf08f6bdd13bbf8206c90785a43d5eeb47578d87a1ac6
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 89 minutos | No recom
+ endada para menores de 12 años\n\nRelease year: 2026\n\nOriginal language
+ : ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062242/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Altas capacidades
@@ -2796,6 +2568,18 @@ DESCRIPTION:Sexta entrega de Torrente. Como nota informativa\, la películ
  edan ver.\n\nRelease year: 2026\n\nOriginal language: ES\n\nhttps://cinese
  mbajadores.es/pelicula/torrente-presidente/?ciudad=madrid
 LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yo Te Creo
+DTSTART;TZID=Europe/Madrid:20260402T201000
+UID:dea9822120ba214efa782968898c3968979069c0d64476d9f1e1e93872925dbe
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 78 minu
+ tos | No recomendada para menores de 16 años y distintivo especialmente r
+ ecomendada para el fomento de la igualdad de género\n\nOriginal title: On
+  vous croit\n\nRelease year: 2025\n\nOriginal language: FR\n\nAudio: VOSE\
+ n\nhttps://www.pillalas.com/pase/1062243/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Super Mario Galaxy: La película
@@ -2850,6 +2634,58 @@ DESCRIPTION:Elsa es una directora de publicidad cuya madre muere durante u
  se year: 2026\n\nOriginal language: ES\n\nhttps://cinesembajadores.es/peli
  cula/amarga-navidad/?ciudad=madrid
 LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valor Sentimental
+DTSTART;TZID=Europe/Madrid:20260402T202500
+UID:a7cd607f7d43f87f27543df0c0dad61640bdd0172ac51f35d748dbdc5e4c8f4a
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 133 min
+ utos | No recomendada para menores de 12 años\n\nOriginal title: Affeksjo
+ nsverdi\n\nRelease year: 2025\n\nOriginal language: NO\n\nAudio: VOSE\n\nh
+ ttps://www.pillalas.com/pase/1062244/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Calle Málaga
+DTSTART;TZID=Europe/Madrid:20260402T203000
+UID:3a82048e566c401ec3d90792937b2ec21ad934a2a6f91654663920679e7cbb07
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 116 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2025\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062157/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Amarga Navidad
+DTSTART;TZID=Europe/Madrid:20260402T213000
+UID:9e177255989945bacabab73fdb1a204976e9bad723f5e04a97fdc1899ae79ab7
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 111 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2026\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062245/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Calle Málaga
+DTSTART;TZID=Europe/Madrid:20260402T214500
+UID:b350a4fe061a4812e768b4095d50a1032279f2a6c206d2cadd9a826a96d7eb01
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 116 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2025\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062246/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El Último Vikingo
+DTSTART;TZID=Europe/Madrid:20260402T215000
+UID:366ac56d4e92a9c6fea114a589f9e6751c8b3c9b9f57f6fda18aaf12805eb78d
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 116 min
+ utos | No recomendada para menores de 16 años\n\nOriginal title: Den sids
+ te viking\n\nRelease year: 2025\n\nOriginal language: DA\n\nAudio: VOSE\n\
+ nhttps://www.pillalas.com/pase/1062334/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Torrente presidente
@@ -2919,24 +2755,17 @@ DESCRIPTION:Elsa es una directora de publicidad cuya madre muere durante u
 LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lapönia
+SUMMARY:Hamnet
 DTSTART;TZID=Europe/Madrid:20260402T223000
-DTEND;TZID=Europe/Madrid:20260402T235900
-UID:78073072eadb6053896757683f30e06a18b3da5475c5fc27a14a5dc7e0b061a3
+DTEND;TZID=Europe/Madrid:20260403T003500
+UID:11cba038fadd62dab52d903ef793a228298f509d2c058f30f3d493422827f1d7
 CATEGORIES:cinema
-DESCRIPTION:Después de varios años sin celebrar las fiestas juntas\, Nur
- ia (Ángela Cervantes)\, asentada en Laponia junto a su marido Olavi (Vebj
- ørn Enger) y su hija\, decide invitar a su hermana Mónica (Natalia Verbe
- ke)\, a su marido (Julián López) y al hijo de ambos a celebrar una Navid
- ad de ensueño en su casa de Romanievi. El plan se presenta perfecto hasta
-  que la hija de Nuria le cuenta a su primo pequeño la verdad sobre la exi
- stencia de Papá Noel. La que estaba destinada a ser la más especial de l
- as navidades\, se convierte de golpe en una batalla campal entre hermanas\
- , cuñados y primos. Una noche que sacará a relucir secretos inconfesable
- s en medio de un debate sobre qué es más adecuado\, si contar la verdad 
- a toda costa o mantener la ilusión\, aunque sea a base de mentiras.\n\nRe
- lease year: 2026\n\nOriginal language: ES\n\nhttps://cinesembajadores.es/p
- elicula/laponia/?ciudad=madrid
+DESCRIPTION:Narra la historia de Agnes\, la esposa de William Shakespeare\
+ , en su lucha por superar la pérdida de su único hijo\, Hamnet. Una hist
+ oria humana y desgarradora como telón de fondo para la creación de la ob
+ ra de Shakespeare\, Hamlet.\n\nRelease year: 2025\n\nOriginal language: EN
+ \n\nAudio: VOSE\n\nhttps://cinesembajadores.es/pelicula/hamnet-vose/?ciuda
+ d=madrid
 LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
 END:VEVENT
 BEGIN:VEVENT
@@ -2955,6 +2784,26 @@ DESCRIPTION:Mariano De Santis\, presidente (ficiticio) de la República it
 LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Lapönia
+DTSTART;TZID=Europe/Madrid:20260402T224500
+UID:af6e4a8eb174304da33b3b169e85015411358601e38bc526a0267515f4078d79
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 89 minutos | No recom
+ endada para menores de 12 años\n\nRelease year: 2026\n\nOriginal language
+ : ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062158/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Calle Málaga
+DTSTART;TZID=Europe/Madrid:20260403T155500
+UID:f5e403ff66dfb1ab8ad71bfe17422dc0f1035ef466cb823c318240ba00fed342
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 116 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2025\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062159/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Super Mario Galaxy: La película
 DTSTART;TZID=Europe/Madrid:20260403T160000
 DTEND;TZID=Europe/Madrid:20260403T173800
@@ -2969,6 +2818,71 @@ DESCRIPTION:La película tiene lugar después de los acontecimientos de la
  adores.es/pelicula/super-mario-galaxy-la-pelicula-doblada-al-espanol/?ciud
  ad=madrid
 LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lapönia
+DTSTART;TZID=Europe/Madrid:20260403T160000
+UID:a2d9edbec1acbb1c8c360aeae9593d0de82250e8510debe08545cfa044cbca1b
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 89 minutos | No recom
+ endada para menores de 12 años\n\nRelease year: 2026\n\nOriginal language
+ : ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062247/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orwell 2+2 = 5
+DTSTART;TZID=Europe/Madrid:20260403T160000
+UID:4de83adb5a2c8cc116feeeac7f4f63f34e1b526b78b17c35981d40584cc3de4a
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 119 min
+ utos | No recomendada para menores de 16 años\n\nRelease year: 2025\n\nOr
+ iginal language: EN\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/106224
+ 8/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yo Te Creo
+DTSTART;TZID=Europe/Madrid:20260403T161000
+UID:6fdd474c505e48e004a31c17ab7c08c9159e51fa6da2f4ee749464e9aaa42f71
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 78 minu
+ tos | No recomendada para menores de 16 años y distintivo especialmente r
+ ecomendada para el fomento de la igualdad de género\n\nOriginal title: On
+  vous croit\n\nRelease year: 2025\n\nOriginal language: FR\n\nAudio: VOSE\
+ n\nhttps://www.pillalas.com/pase/1062249/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Amarga Navidad
+DTSTART;TZID=Europe/Madrid:20260403T170000
+UID:0cb2df19cddd66f134d24dbab25929c8117851dab5e6aaa211d4c309d042173b
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 111 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2026\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062250/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valor Sentimental
+DTSTART;TZID=Europe/Madrid:20260403T175000
+UID:3849d175fcd8ce0d162cf8ed9e02d50dabd5fd495c6758d980eb48da993235b3
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 133 min
+ utos | No recomendada para menores de 12 años\n\nOriginal title: Affeksjo
+ nsverdi\n\nRelease year: 2025\n\nOriginal language: NO\n\nAudio: VOSE\n\nh
+ ttps://www.pillalas.com/pase/1062251/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El Último Vikingo
+DTSTART;TZID=Europe/Madrid:20260403T175500
+UID:f7820e500423e071fb894de5e201c908a992acb9b7b62c702dd532d574fc66a6
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 116 min
+ utos | No recomendada para menores de 16 años\n\nOriginal title: Den sids
+ te viking\n\nRelease year: 2025\n\nOriginal language: DA\n\nAudio: VOSE\n\
+ nhttps://www.pillalas.com/pase/1062335/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Super Mario Galaxy: La película
@@ -2987,6 +2901,36 @@ DESCRIPTION:La película tiene lugar después de los acontecimientos de la
 LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Calle Málaga
+DTSTART;TZID=Europe/Madrid:20260403T181000
+UID:570dfed204abf7aec3b31fd0e256cbea4277c3d23e1a87c2d4327320252abe69
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 116 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2025\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062160/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lapönia
+DTSTART;TZID=Europe/Madrid:20260403T181500
+UID:01c06f2ff71a203c6978b40eb6ad17a7ea04c9582d1155329bcceeedc749fec6
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 89 minutos | No recom
+ endada para menores de 12 años\n\nRelease year: 2026\n\nOriginal language
+ : ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062252/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Amarga Navidad
+DTSTART;TZID=Europe/Madrid:20260403T191500
+UID:49684d5524fbac1083332b8958ebf475319ae71abe62898a1a13cc552b973a72
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 111 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2026\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062253/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Te querré siempre
 DTSTART;TZID=Europe/Madrid:20260403T200000
 UID:6e3cd66e48cf76b0150c399219123451d1bb025c8c9e066e499a721f5f985e6d
@@ -3000,6 +2944,59 @@ DESCRIPTION:Un matrimonio inglés viaja a Italia para vender una villa que
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Lapönia
+DTSTART;TZID=Europe/Madrid:20260403T200000
+UID:117ed011122fb6b21bdbecab4115bc029ca5d307401b9e87e99a6465f61fe492
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 89 minutos | No recom
+ endada para menores de 12 años\n\nRelease year: 2026\n\nOriginal language
+ : ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062254/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yo Te Creo
+DTSTART;TZID=Europe/Madrid:20260403T201000
+UID:ca2b2ee62bc7e80b99f20b54c51588ea2729f485af37c5d22da7fc620c244f99
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 78 minu
+ tos | No recomendada para menores de 16 años y distintivo especialmente r
+ ecomendada para el fomento de la igualdad de género\n\nOriginal title: On
+  vous croit\n\nRelease year: 2025\n\nOriginal language: FR\n\nAudio: VOSE\
+ n\nhttps://www.pillalas.com/pase/1062255/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valor Sentimental
+DTSTART;TZID=Europe/Madrid:20260403T202500
+UID:7b1b7f40d7b114be3484c630f9ec29f4a4cf6cefd0d9008505187dbe23d9bbf2
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 133 min
+ utos | No recomendada para menores de 12 años\n\nOriginal title: Affeksjo
+ nsverdi\n\nRelease year: 2025\n\nOriginal language: NO\n\nAudio: VOSE\n\nh
+ ttps://www.pillalas.com/pase/1062256/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Calle Málaga
+DTSTART;TZID=Europe/Madrid:20260403T203000
+UID:2e9659438d5f46677f479f9c9d0df6cf14ca8bc8e3eabb9c321dffd653cead7b
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 116 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2025\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062161/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Amarga Navidad
+DTSTART;TZID=Europe/Madrid:20260403T213000
+UID:0ec802ca1f00e1d879d131d6669c5de10a2eaf70f598c0e4b21edfe678cd3c9c
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 111 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2026\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062257/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:El Polaco
 DTSTART;TZID=Europe/Madrid:20260403T213000
 UID:bf77f7e79cf53b5d20a8615a827559534a42002b9fed91ae9342cbd86b147286
@@ -3007,6 +3004,37 @@ CATEGORIES:music
 DESCRIPTION:Concierto / Latin / Urban\n\nhttps://salavillanos.es/evento/el
  -polaco/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Calle Málaga
+DTSTART;TZID=Europe/Madrid:20260403T214500
+UID:1b49e61db1ac1ea783924d638d88ff3df9e76ea6da866ddcc8021419746ff577
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 116 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2025\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062258/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El Último Vikingo
+DTSTART;TZID=Europe/Madrid:20260403T215000
+UID:3e837466efd7b8e4ddd1452b20fcab647c9d3ba69d26977090894d8e2663d2a6
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 116 min
+ utos | No recomendada para menores de 16 años\n\nOriginal title: Den sids
+ te viking\n\nRelease year: 2025\n\nOriginal language: DA\n\nAudio: VOSE\n\
+ nhttps://www.pillalas.com/pase/1062336/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lapönia
+DTSTART;TZID=Europe/Madrid:20260403T224500
+UID:184ee3ac26683c58676125812f90ecf9672e1c28298a9380e61ebd9dadb88a27
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 89 minutos | No recom
+ endada para menores de 12 años\n\nRelease year: 2026\n\nOriginal language
+ : ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062162/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mercado de las Ranas
@@ -3018,6 +3046,16 @@ DESCRIPTION:Mercado del Barrio de las Letras con puestos de artesanía\, d
  iseño\, moda y gastronomía en la calle Huertas.\n\nhttps://barrioletras.
  com/mercado-de-las-ranas/
 LOCATION:Barrio de las Letras - Calle de las Huertas\, 2-47\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Calle Málaga
+DTSTART;TZID=Europe/Madrid:20260404T155500
+UID:b17aae67ae83bc0940dccf02b4e162badd2ed0524c921245fb559b73c56d9a16
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 116 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2025\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062163/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Super Mario Galaxy: La película
@@ -3036,6 +3074,49 @@ DESCRIPTION:La película tiene lugar después de los acontecimientos de la
 LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Lapönia
+DTSTART;TZID=Europe/Madrid:20260404T160000
+UID:b426bb02b409c619066ba18d37926b496960841f98e1c930c9da6fab73afdccf
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 89 minutos | No recom
+ endada para menores de 12 años\n\nRelease year: 2026\n\nOriginal language
+ : ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062259/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orwell 2+2 = 5
+DTSTART;TZID=Europe/Madrid:20260404T160000
+UID:cc586bac2fe19136188512d3a26401036dc91ca1a819a670585477181bc5b1bb
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 119 min
+ utos | No recomendada para menores de 16 años\n\nRelease year: 2025\n\nOr
+ iginal language: EN\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/106226
+ 0/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yo Te Creo
+DTSTART;TZID=Europe/Madrid:20260404T161000
+UID:259a20e87b5d4683f0eaf0653c64f03880a43c90444669021396a5af7fdc05c1
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 78 minu
+ tos | No recomendada para menores de 16 años y distintivo especialmente r
+ ecomendada para el fomento de la igualdad de género\n\nOriginal title: On
+  vous croit\n\nRelease year: 2025\n\nOriginal language: FR\n\nAudio: VOSE\
+ n\nhttps://www.pillalas.com/pase/1062261/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Amarga Navidad
+DTSTART;TZID=Europe/Madrid:20260404T170000
+UID:56cfb4ca480da680aa3b47e5d78e6c39efa6a64479dd2c3ef13e9d9c51870a94
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 111 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2026\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062262/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:La bella y la bestia (La Belle et la Bête\,1946)
 DTSTART;TZID=Europe/Madrid:20260404T173000
 UID:a760462c03103a378f2899e6b17e00c53f147a0653e8a1e8db3e9ff7f17c87a7
@@ -3047,6 +3128,28 @@ DESCRIPTION:Fecha y Hora: Sábado 4 de abril a las 17:30h (Sala 1. Filmote
  s/descripcion/la-bella-y-la-bestia-12
 LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
  \, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valor Sentimental
+DTSTART;TZID=Europe/Madrid:20260404T175000
+UID:ce8f4feb9a91b94b44df600be12697ac91003778fcbb342fa077aa582e2bf45b
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 133 min
+ utos | No recomendada para menores de 12 años\n\nOriginal title: Affeksjo
+ nsverdi\n\nRelease year: 2025\n\nOriginal language: NO\n\nAudio: VOSE\n\nh
+ ttps://www.pillalas.com/pase/1062263/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El Último Vikingo
+DTSTART;TZID=Europe/Madrid:20260404T175500
+UID:f0c206ee705be22fabcf6ab469a5d4b4d01e0fa37c5d629da517f2481b8bdf46
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 116 min
+ utos | No recomendada para menores de 16 años\n\nOriginal title: Den sids
+ te viking\n\nRelease year: 2025\n\nOriginal language: DA\n\nAudio: VOSE\n\
+ nhttps://www.pillalas.com/pase/1062337/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Super Mario Galaxy: La película
@@ -3063,6 +3166,36 @@ DESCRIPTION:La película tiene lugar después de los acontecimientos de la
  adores.es/pelicula/super-mario-galaxy-la-pelicula-doblada-al-espanol/?ciud
  ad=madrid
 LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Calle Málaga
+DTSTART;TZID=Europe/Madrid:20260404T181000
+UID:972295bed099076d274547d8f9d04570d22da6f7fb749f82812e262a55bfcde4
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 116 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2025\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062164/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lapönia
+DTSTART;TZID=Europe/Madrid:20260404T181500
+UID:3a45221bda8cf80ab593ebb23c2ae367771d1e60728b3da16c7c56d565c3d4c4
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 89 minutos | No recom
+ endada para menores de 12 años\n\nRelease year: 2026\n\nOriginal language
+ : ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062264/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Amarga Navidad
+DTSTART;TZID=Europe/Madrid:20260404T191500
+UID:3ef6997325dc83f0f5b8b035849d89af314f1177750312522e5ff830f2f649bc
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 111 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2026\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062265/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Los chicos con las chicas (1967)
@@ -3096,6 +3229,16 @@ DESCRIPTION:Japón\, siglo XVI. Genjuro es un alfarero confiado en ganar d
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Lapönia
+DTSTART;TZID=Europe/Madrid:20260404T200000
+UID:1e76de1dd9677df648418dd49bcb12341021b0a92c48ac066101bcba6697d972
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 89 minutos | No recom
+ endada para menores de 12 años\n\nRelease year: 2026\n\nOriginal language
+ : ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062266/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Gala Diaspora Teranga
 DTSTART;TZID=Europe/Madrid:20260404T200000
 UID:50b525b121100e27f0ce71494796482dca04f346eced5299343c1ecb9290e8fb
@@ -3103,6 +3246,39 @@ CATEGORIES:music
 DESCRIPTION:Concierto / Afro\n\nhttps://salavillanos.es/evento/gala-diaspo
  ra-teranga-celebracion-de-la-independencia-de-senegal/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yo Te Creo
+DTSTART;TZID=Europe/Madrid:20260404T201000
+UID:3edb3514e180313a4ca0d59219cf6d0e056c7c225e34570d758d354a974607e4
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 78 minu
+ tos | No recomendada para menores de 16 años y distintivo especialmente r
+ ecomendada para el fomento de la igualdad de género\n\nOriginal title: On
+  vous croit\n\nRelease year: 2025\n\nOriginal language: FR\n\nAudio: VOSE\
+ n\nhttps://www.pillalas.com/pase/1062267/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valor Sentimental
+DTSTART;TZID=Europe/Madrid:20260404T202500
+UID:6d6c89a1e8f79e1a2dbad0afcac5c908a307a257d31a7c894f7a15c45e06d5ba
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 133 min
+ utos | No recomendada para menores de 12 años\n\nOriginal title: Affeksjo
+ nsverdi\n\nRelease year: 2025\n\nOriginal language: NO\n\nAudio: VOSE\n\nh
+ ttps://www.pillalas.com/pase/1062268/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Calle Málaga
+DTSTART;TZID=Europe/Madrid:20260404T203000
+UID:f54c213d4735557bdacbaeb1f263468739abd44f9795027adb4e38bdd1fee655
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 116 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2025\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062165/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sin techo ni ley (Sans toit ni loi\,1985)
@@ -3116,6 +3292,47 @@ DESCRIPTION:Fecha y Hora: Sábado 4 de abril a las 21:00h (Sala 1. Kelly R
  ripcion/sin-techo-ni-ley
 LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
  \, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Amarga Navidad
+DTSTART;TZID=Europe/Madrid:20260404T213000
+UID:6620b0df810f75001dbe756d666d7e40f338891232ba6bd86178a3b3dbf4a6a4
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 111 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2026\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062269/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Calle Málaga
+DTSTART;TZID=Europe/Madrid:20260404T214500
+UID:339910ec95ef55f9e537cf5f6cba41280fd89c431d693760895159eea10f0800
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 116 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2025\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062270/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El Último Vikingo
+DTSTART;TZID=Europe/Madrid:20260404T215000
+UID:e70f6ede8240ed93d8baa996c93ce68fb9fb614d56ab50b765ff483b5d9ddf02
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 116 min
+ utos | No recomendada para menores de 16 años\n\nOriginal title: Den sids
+ te viking\n\nRelease year: 2025\n\nOriginal language: DA\n\nAudio: VOSE\n\
+ nhttps://www.pillalas.com/pase/1062338/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lapönia
+DTSTART;TZID=Europe/Madrid:20260404T224500
+UID:fd5ad5e77731c7e6311b41eb2b68c7b9391363b4478514d7fa14303f25e812c9
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 89 minutos | No recom
+ endada para menores de 12 años\n\nRelease year: 2026\n\nOriginal language
+ : ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062166/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Afrojam
@@ -3188,6 +3405,16 @@ DESCRIPTION:Conjunto de episodios que muestran de forma disparatada los mo
 LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Calle Málaga
+DTSTART;TZID=Europe/Madrid:20260405T155500
+UID:2f4f8e53c5c670b90ad59f30a8303512fa9dbcbac2f6efc072dfab5e42db7391
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 116 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2025\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062167/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Super Mario Galaxy: La película
 DTSTART;TZID=Europe/Madrid:20260405T160000
 DTEND;TZID=Europe/Madrid:20260405T173800
@@ -3204,6 +3431,49 @@ DESCRIPTION:La película tiene lugar después de los acontecimientos de la
 LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Lapönia
+DTSTART;TZID=Europe/Madrid:20260405T160000
+UID:d891e4c831d53fb7cced03f843a5e2ffa27e6cad57974eaac9a206441725b7cd
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 89 minutos | No recom
+ endada para menores de 12 años\n\nRelease year: 2026\n\nOriginal language
+ : ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062272/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orwell 2+2 = 5
+DTSTART;TZID=Europe/Madrid:20260405T160000
+UID:f7380e4ef576ada580de157ec0d77fef590afb9b8da9705dd95dc6898dce9268
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 119 min
+ utos | No recomendada para menores de 16 años\n\nRelease year: 2025\n\nOr
+ iginal language: EN\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/106227
+ 1/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yo Te Creo
+DTSTART;TZID=Europe/Madrid:20260405T161000
+UID:d471683115507ee23fac959e0af0016e912db2ba71cdefa14e0ae98027aea027
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 78 minu
+ tos | No recomendada para menores de 16 años y distintivo especialmente r
+ ecomendada para el fomento de la igualdad de género\n\nOriginal title: On
+  vous croit\n\nRelease year: 2025\n\nOriginal language: FR\n\nAudio: VOSE\
+ n\nhttps://www.pillalas.com/pase/1062273/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Amarga Navidad
+DTSTART;TZID=Europe/Madrid:20260405T170000
+UID:0dd5821fa176bf38ba25c181c9ddf7c1ed714690e0969ccbcdbcf689e68f987d
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 111 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2026\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062274/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Dash and Lilly (1999)
 DTSTART;TZID=Europe/Madrid:20260405T173000
 UID:e0a5153bbc1e8bcf315271b3460b749d843fbba22735c413393288e488a35aa8
@@ -3215,6 +3485,28 @@ DESCRIPTION:Fecha y Hora: Domingo 5 de abril a las 17:30h (Sala 1. Lillian
  s/es/productos/descripcion/dash-and-lilly
 LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
  \, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valor Sentimental
+DTSTART;TZID=Europe/Madrid:20260405T175000
+UID:606a7eb5cf68cc82d239de4a2dd8761fb0df35759221d55e41b74e3bf30060ad
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 133 min
+ utos | No recomendada para menores de 12 años\n\nOriginal title: Affeksjo
+ nsverdi\n\nRelease year: 2025\n\nOriginal language: NO\n\nAudio: VOSE\n\nh
+ ttps://www.pillalas.com/pase/1062275/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El Último Vikingo
+DTSTART;TZID=Europe/Madrid:20260405T175500
+UID:3aa31580d5cafd6b116546232496f427f428b340fea003c01acd8a82fd02c558
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 116 min
+ utos | No recomendada para menores de 16 años\n\nOriginal title: Den sids
+ te viking\n\nRelease year: 2025\n\nOriginal language: DA\n\nAudio: VOSE\n\
+ nhttps://www.pillalas.com/pase/1062339/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Super Mario Galaxy: La película
@@ -3231,6 +3523,36 @@ DESCRIPTION:La película tiene lugar después de los acontecimientos de la
  adores.es/pelicula/super-mario-galaxy-la-pelicula-doblada-al-espanol/?ciud
  ad=madrid
 LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Calle Málaga
+DTSTART;TZID=Europe/Madrid:20260405T181000
+UID:73567ea2de07c5d08a88ba6945940f18b5286f4755c56ce29134035044721123
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 116 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2025\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062168/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lapönia
+DTSTART;TZID=Europe/Madrid:20260405T181500
+UID:6bc4a23b6e8882d45e7b6e1d96dd173e1b9464648021e6e730970eac042a3977
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 89 minutos | No recom
+ endada para menores de 12 años\n\nRelease year: 2026\n\nOriginal language
+ : ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062276/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Amarga Navidad
+DTSTART;TZID=Europe/Madrid:20260405T191500
+UID:325075f239399e2da4d44b345c820ca60268ce44a6a0f4bd6c3f16035de40b5f
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 111 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2026\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062277/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:La dama de Shanghái
@@ -3259,6 +3581,238 @@ LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
  \, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Lapönia
+DTSTART;TZID=Europe/Madrid:20260405T200000
+UID:2ee1d796550c609524e1eac46a2be3fd1453ced8a5c61c41cc87e5ed2158af11
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 89 minutos | No recom
+ endada para menores de 12 años\n\nRelease year: 2026\n\nOriginal language
+ : ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062278/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yo Te Creo
+DTSTART;TZID=Europe/Madrid:20260405T201000
+UID:5add802707354f2bc9c5d079d297c924bd7afa79313b978eea76b549e62d663a
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 78 minu
+ tos | No recomendada para menores de 16 años y distintivo especialmente r
+ ecomendada para el fomento de la igualdad de género\n\nOriginal title: On
+  vous croit\n\nRelease year: 2025\n\nOriginal language: FR\n\nAudio: VOSE\
+ n\nhttps://www.pillalas.com/pase/1062279/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valor Sentimental
+DTSTART;TZID=Europe/Madrid:20260405T202500
+UID:6a9b97f8876250ab0bc4185ee251c4c0897281ee034580a38256d9a318474839
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 133 min
+ utos | No recomendada para menores de 12 años\n\nOriginal title: Affeksjo
+ nsverdi\n\nRelease year: 2025\n\nOriginal language: NO\n\nAudio: VOSE\n\nh
+ ttps://www.pillalas.com/pase/1062280/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Calle Málaga
+DTSTART;TZID=Europe/Madrid:20260405T203000
+UID:bffc962bdb92de9ff23ea9ab7eb077743c1b2b9104c2420dc8b7ac91c1d134ca
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 116 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2025\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062169/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Amarga Navidad
+DTSTART;TZID=Europe/Madrid:20260405T213000
+UID:f3465d0d5605fabd3b6a1559389e4477f1a6ba033c14250400976eaeb926cb53
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 111 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2026\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062281/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Calle Málaga
+DTSTART;TZID=Europe/Madrid:20260405T214500
+UID:cfc97c315af8119c94ac4b0097d0851e3e356c0cdbb0766896d5540c8c64c77e
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 116 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2025\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062282/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El Último Vikingo
+DTSTART;TZID=Europe/Madrid:20260405T215000
+UID:90fd5f5691edcbab740cd2e407e8e2ca41806ba1d95005023e602c79d83151ff
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 116 min
+ utos | No recomendada para menores de 16 años\n\nOriginal title: Den sids
+ te viking\n\nRelease year: 2025\n\nOriginal language: DA\n\nAudio: VOSE\n\
+ nhttps://www.pillalas.com/pase/1062340/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lapönia
+DTSTART;TZID=Europe/Madrid:20260405T224500
+UID:da0d80bea9b46d074a626a90bd16fd5f1e038d00dbbf2cf3818fa755f37d3a5b
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 89 minutos | No recom
+ endada para menores de 12 años\n\nRelease year: 2026\n\nOriginal language
+ : ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062170/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Calle Málaga
+DTSTART;TZID=Europe/Madrid:20260406T155500
+UID:2c9e24356c3b863f722e467ea0fbb4d0f7c258267ee911ff88c9e98662eb9931
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 116 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2025\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062171/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lapönia
+DTSTART;TZID=Europe/Madrid:20260406T160000
+UID:49714672687c21d15814af233f75e40fd318179d710a72dda9461601e251fe20
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 89 minutos | No recom
+ endada para menores de 12 años\n\nRelease year: 2026\n\nOriginal language
+ : ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062283/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orwell 2+2 = 5
+DTSTART;TZID=Europe/Madrid:20260406T160000
+UID:5a1f27032b8407a50e3c7e5d76c7686cb645bff198793dcb85b0b8490c1a27ed
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 119 min
+ utos | No recomendada para menores de 16 años\n\nRelease year: 2025\n\nOr
+ iginal language: EN\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/106228
+ 4/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yo Te Creo
+DTSTART;TZID=Europe/Madrid:20260406T161000
+UID:11ff08d2304c13fd67784f0f29ff4395db282ed1a9ac7d6796ba0f2731ab2689
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 78 minu
+ tos | No recomendada para menores de 16 años y distintivo especialmente r
+ ecomendada para el fomento de la igualdad de género\n\nOriginal title: On
+  vous croit\n\nRelease year: 2025\n\nOriginal language: FR\n\nAudio: VOSE\
+ n\nhttps://www.pillalas.com/pase/1062285/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Amarga Navidad
+DTSTART;TZID=Europe/Madrid:20260406T170000
+UID:0b593da15958f634f62f1d16900f252986807a904426a94edf7462e2c5f94a35
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 111 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2026\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062286/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valor Sentimental
+DTSTART;TZID=Europe/Madrid:20260406T175000
+UID:b92cea2f077c81a487a03bdd2d6ff0b107f70fa79d96dbad17f64063494f2455
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 133 min
+ utos | No recomendada para menores de 12 años\n\nOriginal title: Affeksjo
+ nsverdi\n\nRelease year: 2025\n\nOriginal language: NO\n\nAudio: VOSE\n\nh
+ ttps://www.pillalas.com/pase/1062287/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El Último Vikingo
+DTSTART;TZID=Europe/Madrid:20260406T175500
+UID:4c40da30270ee02258fcc5d727aff0e8821644b57702d62d87f7478d0038d40c
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 116 min
+ utos | No recomendada para menores de 16 años\n\nOriginal title: Den sids
+ te viking\n\nRelease year: 2025\n\nOriginal language: DA\n\nAudio: VOSE\n\
+ nhttps://www.pillalas.com/pase/1062341/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Calle Málaga
+DTSTART;TZID=Europe/Madrid:20260406T181000
+UID:f9887e9f47c46d3aef273a29946505eda999a4e31b4742fec698df406463fa7a
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 116 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2025\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062172/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lapönia
+DTSTART;TZID=Europe/Madrid:20260406T181500
+UID:1a5102c1cc701e938ffd8f0c3bbd4580a75b96a9b1b10f76f3a26498f2840adb
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 89 minutos | No recom
+ endada para menores de 12 años\n\nRelease year: 2026\n\nOriginal language
+ : ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062288/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Amarga Navidad
+DTSTART;TZID=Europe/Madrid:20260406T191500
+UID:c281ebb571287b406aea5ae1b844887717426c0244bf95efb507036232cdbe82
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 111 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2026\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062289/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lapönia
+DTSTART;TZID=Europe/Madrid:20260406T200000
+UID:a11025ef6d7cbb25e5164c1e6b6ff5c361d4947d73ac2f269f6b1744bbdd39a5
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 89 minutos | No recom
+ endada para menores de 12 años\n\nRelease year: 2026\n\nOriginal language
+ : ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062290/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yo Te Creo
+DTSTART;TZID=Europe/Madrid:20260406T201000
+UID:7d8fcc2a28f12a0aa37d77d249b777a1cb18063851d3f31305d7b3c564a4da06
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 78 minu
+ tos | No recomendada para menores de 16 años y distintivo especialmente r
+ ecomendada para el fomento de la igualdad de género\n\nOriginal title: On
+  vous croit\n\nRelease year: 2025\n\nOriginal language: FR\n\nAudio: VOSE\
+ n\nhttps://www.pillalas.com/pase/1062291/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valor Sentimental
+DTSTART;TZID=Europe/Madrid:20260406T202500
+UID:971d06335bac3628cb21a77925edfc997ecbe0e707e5c1da632676d49e516774
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 133 min
+ utos | No recomendada para menores de 12 años\n\nOriginal title: Affeksjo
+ nsverdi\n\nRelease year: 2025\n\nOriginal language: NO\n\nAudio: VOSE\n\nh
+ ttps://www.pillalas.com/pase/1062292/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Calle Málaga
+DTSTART;TZID=Europe/Madrid:20260406T203000
+UID:e782311cdf1d84429bce4e991a86a80e8f9f393ec4eee6ecda2ba623d038334f
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 116 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2025\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062173/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Lucas Santtana
 DTSTART;TZID=Europe/Madrid:20260406T203000
 UID:ef6cef7aee0078163ab214f4c2b8a06cf1ba9dc8bbb67a191f2623a09720eb99
@@ -3277,6 +3831,100 @@ LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
  id
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Amarga Navidad
+DTSTART;TZID=Europe/Madrid:20260406T213000
+UID:365a7e8b094f145671db4dab7d6cae6f7f929b179a35442e84555db36f433185
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 111 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2026\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062293/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Calle Málaga
+DTSTART;TZID=Europe/Madrid:20260406T214500
+UID:529cc5ef1b4b8b27bcf2c505f8a34618c11516a50c089cdc058f7eceea9e6910
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 116 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2025\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062294/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El Último Vikingo
+DTSTART;TZID=Europe/Madrid:20260406T215000
+UID:07670c65f400800ba942093a50154e8447aa9664d3b33368df026d8c7c1f83f5
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 116 min
+ utos | No recomendada para menores de 16 años\n\nOriginal title: Den sids
+ te viking\n\nRelease year: 2025\n\nOriginal language: DA\n\nAudio: VOSE\n\
+ nhttps://www.pillalas.com/pase/1062342/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lapönia
+DTSTART;TZID=Europe/Madrid:20260406T224500
+UID:821395ace3f41f2a5fe4875327028b0231793846bbdf515932f94f060c7e8ff1
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 89 minutos | No recom
+ endada para menores de 12 años\n\nRelease year: 2026\n\nOriginal language
+ : ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062174/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Calle Málaga
+DTSTART;TZID=Europe/Madrid:20260407T155500
+UID:6406e5af8481d2a2516f28e4cb3efad5ca9ced7570fee148e95278c99fde5470
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 116 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2025\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062175/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lapönia
+DTSTART;TZID=Europe/Madrid:20260407T160000
+UID:4a1d2236474eda6540948e5d25f750b041347019ffde3a6d9da962536a40c22a
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 89 minutos | No recom
+ endada para menores de 12 años\n\nRelease year: 2026\n\nOriginal language
+ : ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062295/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orwell 2+2 = 5
+DTSTART;TZID=Europe/Madrid:20260407T160000
+UID:16e1bf05195a81a6c6817560544e77083503aa89ee99a5d42bbf669d1c2ac245
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 119 min
+ utos | No recomendada para menores de 16 años\n\nRelease year: 2025\n\nOr
+ iginal language: EN\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/106229
+ 6/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yo Te Creo
+DTSTART;TZID=Europe/Madrid:20260407T161000
+UID:a5c2e7be5361a61a62b2311a5d84c2a124f57d4c18e1af6b2962b3eea9442f97
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 78 minu
+ tos | No recomendada para menores de 16 años y distintivo especialmente r
+ ecomendada para el fomento de la igualdad de género\n\nOriginal title: On
+  vous croit\n\nRelease year: 2025\n\nOriginal language: FR\n\nAudio: VOSE\
+ n\nhttps://www.pillalas.com/pase/1062297/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Amarga Navidad
+DTSTART;TZID=Europe/Madrid:20260407T170000
+UID:07f1d07cef01edce31a6ccf464af126439f23ff723609c8b8377b0cdc01e54f2
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 111 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2026\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062298/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pequeñeces (1950)
 DTSTART;TZID=Europe/Madrid:20260407T173000
 UID:40b0e5d3d1acc987cfdf5ad7853653ab2bebeb0fee27bddab51fd40ebe1958dd
@@ -3288,6 +3936,48 @@ DESCRIPTION:Fecha y Hora: Martes 7 de abril a las 17:30h (Sala 1. Montador
  uctos/descripcion/pequeñeces
 LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
  \, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valor Sentimental
+DTSTART;TZID=Europe/Madrid:20260407T175000
+UID:c25ce2ccd902498f5b6ba558cd15b92c3cb29551f866c56cb24e42df013bc2fa
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 133 min
+ utos | No recomendada para menores de 12 años\n\nOriginal title: Affeksjo
+ nsverdi\n\nRelease year: 2025\n\nOriginal language: NO\n\nAudio: VOSE\n\nh
+ ttps://www.pillalas.com/pase/1062299/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El Último Vikingo
+DTSTART;TZID=Europe/Madrid:20260407T175500
+UID:359099d1080225007818612450fd94239f7512cca69c8f571006248e942a36d5
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 116 min
+ utos | No recomendada para menores de 16 años\n\nOriginal title: Den sids
+ te viking\n\nRelease year: 2025\n\nOriginal language: DA\n\nAudio: VOSE\n\
+ nhttps://www.pillalas.com/pase/1062343/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Calle Málaga
+DTSTART;TZID=Europe/Madrid:20260407T181000
+UID:3c6c7bf215b66c0d0762bcd4b3db5dea51a2104100b5af8550760f3f08338973
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 116 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2025\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062176/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lapönia
+DTSTART;TZID=Europe/Madrid:20260407T181500
+UID:7914197e8d121e465ec6fa153a601a7a292799b568436148634e2a7bf1a5b294
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 89 minutos | No recom
+ endada para menores de 12 años\n\nRelease year: 2026\n\nOriginal language
+ : ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062300/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ciclo de conferencias: Breve historia del blockbuster
@@ -3320,6 +4010,49 @@ DESCRIPTION:Nous\, les gitans (Alberto Spadolini\, Francia\, 1950\, 25') C
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Amarga Navidad
+DTSTART;TZID=Europe/Madrid:20260407T191500
+UID:018408dc843e88e0f818c03a10bba02586f0b241ffa5d0167888312e78c33c95
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 111 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2026\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062301/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lapönia
+DTSTART;TZID=Europe/Madrid:20260407T200000
+UID:e9e87c3923ed05907418447df718a820464388d2129fd0b31f9a4483bb9fabb2
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 89 minutos | No recom
+ endada para menores de 12 años\n\nRelease year: 2026\n\nOriginal language
+ : ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062302/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yo Te Creo
+DTSTART;TZID=Europe/Madrid:20260407T201000
+UID:69f1f72abbc3cfd7912de62b9ac086dfc680386219d9f510a193dee9934cf8a6
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 78 minu
+ tos | No recomendada para menores de 16 años y distintivo especialmente r
+ ecomendada para el fomento de la igualdad de género\n\nOriginal title: On
+  vous croit\n\nRelease year: 2025\n\nOriginal language: FR\n\nAudio: VOSE\
+ n\nhttps://www.pillalas.com/pase/1062303/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valor Sentimental
+DTSTART;TZID=Europe/Madrid:20260407T202500
+UID:04af6f0a6ca0fad1a35d9cca808f4090770bb0de22eba853fb8d7483dd4bc8bd
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 133 min
+ utos | No recomendada para menores de 12 años\n\nOriginal title: Affeksjo
+ nsverdi\n\nRelease year: 2025\n\nOriginal language: NO\n\nAudio: VOSE\n\nh
+ ttps://www.pillalas.com/pase/1062304/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Esos tres (These Three\, 1936)
 DTSTART;TZID=Europe/Madrid:20260407T203000
 UID:33fc8371d6b23ef28cc593bdc4accd71937d3267eae9be89a82fdbd482f4ea96
@@ -3331,6 +4064,16 @@ DESCRIPTION:Fecha y Hora: Martes 7 de abril a las 20:30h (Sala 1. Lillian
  /es/productos/descripcion/esos-tres
 LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
  \, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Calle Málaga
+DTSTART;TZID=Europe/Madrid:20260407T203000
+UID:12c20e0107bab8daab389620464e559439b7af41706e47afff56976fa1cd3398
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 116 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2025\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062177/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:El Gato Con Jotas
@@ -3352,6 +4095,100 @@ LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
  id
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Amarga Navidad
+DTSTART;TZID=Europe/Madrid:20260407T213000
+UID:96376c1e3fbd0a5dfe44073841aa919fb9346b97d2f56ac945b530b86512699f
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 111 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2026\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062305/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Calle Málaga
+DTSTART;TZID=Europe/Madrid:20260407T214500
+UID:f653b15910df866de550bca4d8f3091ca961bd5d4d482786b8e44225999bc053
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 116 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2025\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062306/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El Último Vikingo
+DTSTART;TZID=Europe/Madrid:20260407T215000
+UID:0e6a43666d1ad0a05c0544f69f74b1f53c4449dde37418966a7d415a95c4b6fd
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 116 min
+ utos | No recomendada para menores de 16 años\n\nOriginal title: Den sids
+ te viking\n\nRelease year: 2025\n\nOriginal language: DA\n\nAudio: VOSE\n\
+ nhttps://www.pillalas.com/pase/1062344/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lapönia
+DTSTART;TZID=Europe/Madrid:20260407T224500
+UID:0bddae588507d3b28f757d05c43c63633f9b719411cf14a15d92e6b3059f9630
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 89 minutos | No recom
+ endada para menores de 12 años\n\nRelease year: 2026\n\nOriginal language
+ : ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062178/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Calle Málaga
+DTSTART;TZID=Europe/Madrid:20260408T155500
+UID:8d38502a7295eb7d062524e32454d86e2a8941c68f60cd798265231fc103df05
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 116 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2025\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062179/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lapönia
+DTSTART;TZID=Europe/Madrid:20260408T160000
+UID:dded75b6fb555288ecae8bcea875f22474857c1bba2cf6f2516361f1c9db5a24
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 89 minutos | No recom
+ endada para menores de 12 años\n\nRelease year: 2026\n\nOriginal language
+ : ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062308/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orwell 2+2 = 5
+DTSTART;TZID=Europe/Madrid:20260408T160000
+UID:9691fbfc72f7981c93f24a0f1d6eda8db600dee2009cbee6c7b72ff8511212ae
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 119 min
+ utos | No recomendada para menores de 16 años\n\nRelease year: 2025\n\nOr
+ iginal language: EN\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/106230
+ 7/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yo Te Creo
+DTSTART;TZID=Europe/Madrid:20260408T161000
+UID:0c7e7bee77b4fc22ac107694f5c9461ba6a56ee89d8c5514f5053d6f5e9e51d1
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 78 minu
+ tos | No recomendada para menores de 16 años y distintivo especialmente r
+ ecomendada para el fomento de la igualdad de género\n\nOriginal title: On
+  vous croit\n\nRelease year: 2025\n\nOriginal language: FR\n\nAudio: VOSE\
+ n\nhttps://www.pillalas.com/pase/1062309/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Amarga Navidad
+DTSTART;TZID=Europe/Madrid:20260408T170000
+UID:0af24f0eb2ab9fff85085798d48be4edb634019d1521e7e6a624cd6d37767741
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 111 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2026\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062310/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:El vaquero y la dama (The Cowboy and the Lady\, 1938)
 DTSTART;TZID=Europe/Madrid:20260408T173000
 UID:afe7dc0a55b4dcb121cba56c8150670e7d80396d9203b08f311fcbbeeaf5723c
@@ -3366,6 +4203,48 @@ LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
  \, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Valor Sentimental
+DTSTART;TZID=Europe/Madrid:20260408T175000
+UID:c4b8e2a94da1724d83d7582121c41e526df31eda572fab5b0de5e27766c28971
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 133 min
+ utos | No recomendada para menores de 12 años\n\nOriginal title: Affeksjo
+ nsverdi\n\nRelease year: 2025\n\nOriginal language: NO\n\nAudio: VOSE\n\nh
+ ttps://www.pillalas.com/pase/1062311/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El Último Vikingo
+DTSTART;TZID=Europe/Madrid:20260408T175500
+UID:01f2136ba882b5625f6e8ed7e50fd1df173be4b923f16c12562ee22c27f736f7
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 116 min
+ utos | No recomendada para menores de 16 años\n\nOriginal title: Den sids
+ te viking\n\nRelease year: 2025\n\nOriginal language: DA\n\nAudio: VOSE\n\
+ nhttps://www.pillalas.com/pase/1062345/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Calle Málaga
+DTSTART;TZID=Europe/Madrid:20260408T181000
+UID:75f81f8f7571a2c88e8b0d6c424d4d47dc4d853b4c2761d3c0b88e87e441e60e
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 116 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2025\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062180/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lapönia
+DTSTART;TZID=Europe/Madrid:20260408T181500
+UID:1bfb8564b5721d3249f822cf4391be56be15bcb72eb5373deb77559f3ebb0892
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 89 minutos | No recom
+ endada para menores de 12 años\n\nRelease year: 2026\n\nOriginal language
+ : ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062312/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sesión de cortometrajes II - Flamenco García Lorca
 DTSTART;TZID=Europe/Madrid:20260408T190000
 UID:b29b764894fdc1b8060529cb843f55d704b9c159d8f6457c03eca9860a21f048
@@ -3378,6 +4257,16 @@ DESCRIPTION:Rito y geografía del cante: Lorca y el flamenco (Mario Gómez
   flamenco.\n\nhttps://www.cinetecamadrid.com/programacion/sesion-de-cortom
  etrajes-ii-flamenco-garcia-lorca
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Amarga Navidad
+DTSTART;TZID=Europe/Madrid:20260408T191500
+UID:2145830568dd24c485f00d464097969286bc9065c31b434e10d7f129abb3c556
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 111 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2026\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062313/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Las amistades peligrosas
@@ -3421,6 +4310,49 @@ LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
  \, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Lapönia
+DTSTART;TZID=Europe/Madrid:20260408T200000
+UID:c39eaf7893c5e2af3cddad0ad055c3ed51e6d1f75c1fffa49ecc15deb03fd64f
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 89 minutos | No recom
+ endada para menores de 12 años\n\nRelease year: 2026\n\nOriginal language
+ : ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062314/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yo Te Creo
+DTSTART;TZID=Europe/Madrid:20260408T201000
+UID:a6c68039a02045d995556e9ad15af833dbf3d674fb6ea994442bd74c3cec3224
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 78 minu
+ tos | No recomendada para menores de 16 años y distintivo especialmente r
+ ecomendada para el fomento de la igualdad de género\n\nOriginal title: On
+  vous croit\n\nRelease year: 2025\n\nOriginal language: FR\n\nAudio: VOSE\
+ n\nhttps://www.pillalas.com/pase/1062315/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valor Sentimental
+DTSTART;TZID=Europe/Madrid:20260408T202500
+UID:9ea108ec9ac5da1e58cb2366cf634061fbd155d1e71de0bb8f9b5ffb814e5e15
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 133 min
+ utos | No recomendada para menores de 12 años\n\nOriginal title: Affeksjo
+ nsverdi\n\nRelease year: 2025\n\nOriginal language: NO\n\nAudio: VOSE\n\nh
+ ttps://www.pillalas.com/pase/1062316/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Calle Málaga
+DTSTART;TZID=Europe/Madrid:20260408T203000
+UID:38f2a645c095d7e5a75330125004cda4bad95818659700ef98a412f329b8f1b2
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 116 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2025\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062181/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:De Estraperlo De Jesus Mañeru
 DTSTART;TZID=Europe/Madrid:20260408T210000
 UID:53cb1e1cd429bf3b8c021f916fdf07144b712a1db389aa6560d58cbecc4a26ca
@@ -3439,6 +4371,47 @@ LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
  id
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Amarga Navidad
+DTSTART;TZID=Europe/Madrid:20260408T213000
+UID:83b53c78914604b1b6ef4496568ebd22cb417a2e40226dacad72ca10dc71fe89
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 111 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2026\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062317/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Calle Málaga
+DTSTART;TZID=Europe/Madrid:20260408T214500
+UID:51b5d0efbe91ab0aa3d28e69f223a187cfd277bd2f8792ef9a5ad5525d15835e
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 116 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2025\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062318/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El Último Vikingo
+DTSTART;TZID=Europe/Madrid:20260408T215000
+UID:e7d89bd659af0bb357873910471b4dacca4b98b23e990a0075dd7e2689099e41
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 116 min
+ utos | No recomendada para menores de 16 años\n\nOriginal title: Den sids
+ te viking\n\nRelease year: 2025\n\nOriginal language: DA\n\nAudio: VOSE\n\
+ nhttps://www.pillalas.com/pase/1062346/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lapönia
+DTSTART;TZID=Europe/Madrid:20260408T224500
+UID:0ceea0fe5f58596c1c0c1f27e1a6a76dfd36fd7f57d88723f8e699ff37877557
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 89 minutos | No recom
+ endada para menores de 12 años\n\nRelease year: 2026\n\nOriginal language
+ : ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062182/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Soy Asurbanipal\, rey del mundo\, rey de Asiria
 DTSTART;TZID=Europe/Madrid:20260409T000000
 DTEND;TZID=Europe/Madrid:20261004T000000
@@ -3449,6 +4422,59 @@ DESCRIPTION:Muestra que ofrece un recorrido por la vida e influencia de la
  id. 9 abr a 4 oct 2026).\n\nhttps://caixaforum.org/es/madrid/p/soy-asurban
  ipal_a173667669
 LOCATION:CaixaForum Madrid - del Prado\, 36\, Madrid\, 28014
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Calle Málaga
+DTSTART;TZID=Europe/Madrid:20260409T155500
+UID:4bd168734a8c37a35de45b4188833048e9482ead030bf8d2485343259c608f00
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 116 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2025\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062183/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lapönia
+DTSTART;TZID=Europe/Madrid:20260409T160000
+UID:6f63aaaf9fd2bd70ac1dc064000fbdd3dbba27e34784e9892d6875c48b61bc0a
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 89 minutos | No recom
+ endada para menores de 12 años\n\nRelease year: 2026\n\nOriginal language
+ : ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062319/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orwell 2+2 = 5
+DTSTART;TZID=Europe/Madrid:20260409T160000
+UID:0a1569b2253a68dbd99b4f8a867e2f601478f66020f1e83dec3e293944c5838a
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 119 min
+ utos | No recomendada para menores de 16 años\n\nRelease year: 2025\n\nOr
+ iginal language: EN\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/106232
+ 0/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yo Te Creo
+DTSTART;TZID=Europe/Madrid:20260409T161000
+UID:000cbf93dc7a81bc6a9813a522210fbd40c8dbcb8dc432f3bc121660b53c8676
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 78 minu
+ tos | No recomendada para menores de 16 años y distintivo especialmente r
+ ecomendada para el fomento de la igualdad de género\n\nOriginal title: On
+  vous croit\n\nRelease year: 2025\n\nOriginal language: FR\n\nAudio: VOSE\
+ n\nhttps://www.pillalas.com/pase/1062321/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Amarga Navidad
+DTSTART;TZID=Europe/Madrid:20260409T170000
+UID:82e264b93c8d43deac56224f9e00e6bdcffaa55a74916f35b1be612a89f641b8
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 111 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2026\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062322/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vistas y trucos en el cine de los orígenes (1896-1910)
@@ -3462,6 +4488,48 @@ DESCRIPTION:Fecha y Hora: Jueves 9 de abril a las 17:30h (Sala 1. Archivo
  ctos/descripcion/vistas-y-trucos-en-el-cine-de-los-origenes
 LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
  \, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valor Sentimental
+DTSTART;TZID=Europe/Madrid:20260409T175000
+UID:46e4c112348cb4745649f73d2d3da22702a8ab7f4cfa16cc40b8be8b71e2b2b0
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 133 min
+ utos | No recomendada para menores de 12 años\n\nOriginal title: Affeksjo
+ nsverdi\n\nRelease year: 2025\n\nOriginal language: NO\n\nAudio: VOSE\n\nh
+ ttps://www.pillalas.com/pase/1062323/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El Último Vikingo
+DTSTART;TZID=Europe/Madrid:20260409T175500
+UID:f630e8bb872ab80561faa4af65d7f70a7ab1260a11dda07a8eda139c43bebb39
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 116 min
+ utos | No recomendada para menores de 16 años\n\nOriginal title: Den sids
+ te viking\n\nRelease year: 2025\n\nOriginal language: DA\n\nAudio: VOSE\n\
+ nhttps://www.pillalas.com/pase/1062347/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Calle Málaga
+DTSTART;TZID=Europe/Madrid:20260409T181000
+UID:28b0ca63b7a9e83cc7dbd69ca37979d55d0257468180866067b8caf325e92d4d
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 116 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2025\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062184/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lapönia
+DTSTART;TZID=Europe/Madrid:20260409T181500
+UID:853b06775fc650ee968fc244488f658721192e651d2f83636081011f08b90ec5
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 89 minutos | No recom
+ endada para menores de 12 años\n\nRelease year: 2026\n\nOriginal language
+ : ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062324/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sesión de cortometrajes III - Flamenco García Lorca
@@ -3496,6 +4564,16 @@ LOCATION:Filmoteca Espanola - Cine Dore Sala 2 - Calle de Santa Isabel\, 3
  \, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Amarga Navidad
+DTSTART;TZID=Europe/Madrid:20260409T191500
+UID:30acbca8fbf676356227102519964f2a01fcf37569ecb881c1155ff20a86e531
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 111 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2026\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062325/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Crueles intenciones
 DTSTART;TZID=Europe/Madrid:20260409T193000
 UID:e5f98aff2810c96c74d50e87badb86e30516bc62ca1d0708a29f3969449c034f
@@ -3512,6 +4590,64 @@ DESCRIPTION:Kathryn y su hermanastro Sebastian\, todavía estudiantes de b
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Danish Dance Theatre Company | Marina Mascarell
+DTSTART;TZID=Europe/Madrid:20260409T200000
+UID:e2ea8f7af8577c1d6da83ed6564802e84522b8571c6a2fbb4d558ff6ff783393
+CATEGORIES:other
+DESCRIPTION:Bloody Moon se inspira en la obra de Georges Bataille\, Erotic
+ ism \, y celebra las tres formas de erotismo: el erotismo del cuerpo\, el 
+ erotismo del corazón y el erotismo sagrado. Como en toda buena celebraci
+ ón\, la transgresión es precisamente lo que le confiere un aspecto marav
+ illoso y divino. Asistimos a la depravación\, a la última danza de un gr
+ upo ansioso por vivir la vida en todo su esplendor\, consciente de su fini
+ tud y unido por un sentimiento común de vértigo hacia el abismo. Esta nu
+ eva pieza de la directora artística del Danish Dance Theatre y coreógraf
+ a Marina Mascarell es una creación en colaboración con los bailarines de
+  la compañía\, sobre una música y ritmos compuestos por Yamila Rios y c
+ on el vestuario original de Nina Botkay. Este espectáculo\, la primera cr
+ eación de Mascarell para el Danish Dance Theatre\, se estrenó en agosto 
+ de 2024 en el marco del Festival Copenhagen Summer Dance\, en un recinto a
+ l aire libre situado en Ophelia Square\, frente al icónico edificio Royal
+  Playhouse\, en el corazón de Copenhague. En junio de 2025\, el Danish Da
+ nce Theatre presentó una versión de la pieza para su escenario principal
+  que llega ahora a Centro Danza Matadero.\n\nhttps://www.mataderomadrid.or
+ g/programacion/danish-dance-theatre-company-marina-mascarell
+LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lapönia
+DTSTART;TZID=Europe/Madrid:20260409T200000
+UID:d6bf38c6501790ae0bfc4efde43f60e4feb50df6a35f34c01ecb1ff756da596d
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 89 minutos | No recom
+ endada para menores de 12 años\n\nRelease year: 2026\n\nOriginal language
+ : ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062326/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yo Te Creo
+DTSTART;TZID=Europe/Madrid:20260409T201000
+UID:c3fa2b7a4c7f37473908d34e1cf2380955557993a65f6e5efde52650659f2978
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 78 minu
+ tos | No recomendada para menores de 16 años y distintivo especialmente r
+ ecomendada para el fomento de la igualdad de género\n\nOriginal title: On
+  vous croit\n\nRelease year: 2025\n\nOriginal language: FR\n\nAudio: VOSE\
+ n\nhttps://www.pillalas.com/pase/1062327/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valor Sentimental
+DTSTART;TZID=Europe/Madrid:20260409T202500
+UID:c3acd7ccbaafaead4be55ec929a374c417dfd10e6356a39c85928b7ba0978269
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 133 min
+ utos | No recomendada para menores de 12 años\n\nOriginal title: Affeksjo
+ nsverdi\n\nRelease year: 2025\n\nOriginal language: NO\n\nAudio: VOSE\n\nh
+ ttps://www.pillalas.com/pase/1062328/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:El forastero (The Westerner\,1940)
 DTSTART;TZID=Europe/Madrid:20260409T203000
 UID:91ffc41c1699fbfe6957f289119c2a80193380d06731fcae33eb0bbd35a9f1fa
@@ -3523,6 +4659,16 @@ DESCRIPTION:Fecha y Hora: Jueves 9 de abril a las 20:30h (Sala 1. Lillian
  /es/productos/descripcion/el-forastero
 LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
  \, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Calle Málaga
+DTSTART;TZID=Europe/Madrid:20260409T203000
+UID:d1b488655c956e2a2fbf6cfe3c9c348d101e12a62e32ce735dfe7010fa82f518
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 116 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2025\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062185/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bajocero X
@@ -3542,6 +4688,47 @@ DESCRIPTION:Apertura Puertas: 20:00 Horas\n\nhttps://dice.fm/event/v3gv2v-
  soziedad-alkoholika-en-sound-isidro-9th-apr-la-riviera-madrid-tickets
 LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
  id
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Amarga Navidad
+DTSTART;TZID=Europe/Madrid:20260409T213000
+UID:c1b2c00de787050d20eac403fbbbad6c5102a35b45ba29b49ff660bd8dfe3448
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 111 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2026\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062329/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Calle Málaga
+DTSTART;TZID=Europe/Madrid:20260409T214500
+UID:e8070047383f266d609598323052d1c43f8085fe5fc495bb6bb0da2d2e6b0949
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 116 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2025\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062330/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El Último Vikingo
+DTSTART;TZID=Europe/Madrid:20260409T215000
+UID:215942cb7f603395fca8ed1f75de8b6d90169dbb9abe36f3082b2e46012444f5
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 116 min
+ utos | No recomendada para menores de 16 años\n\nOriginal title: Den sids
+ te viking\n\nRelease year: 2025\n\nOriginal language: DA\n\nAudio: VOSE\n\
+ nhttps://www.pillalas.com/pase/1062348/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lapönia
+DTSTART;TZID=Europe/Madrid:20260409T224500
+UID:aa1fab7619565bdef591c8c1a8c338a8aad7d5e04847e133bd4c6ca56b50f284
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 89 minutos | No recom
+ endada para menores de 12 años\n\nRelease year: 2026\n\nOriginal language
+ : ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1062186/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Exposición Pelo de tormenta - Homenaje a Francisco Nieva
@@ -4316,28 +5503,28 @@ DESCRIPTION:El artista gijonés presenta un recorrido por su trabajo en el
 LOCATION:CentroCentro - de Cibeles\, 1\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Súper Zines 2026
-DTSTART;TZID=Europe/Madrid:20260416T160000
-UID:978a96adedcee1361715a64ed5706ed3955b0349a3f6694ce503346dd713a961
+SUMMARY:Sembradoras de vida
+DTSTART;TZID=Europe/Madrid:20260416T120000
+UID:fdff7d5ec0901435db181140b84f287f28f56a32ad1c471babd7f149eda58f7f
 CATEGORIES:other
-DESCRIPTION:La muestra reúne una selección de publicaciones de tirada li
- mitada que permite acercarse a la diversidad formal\, material y narrativa
-  de un soporte fundamental en las prácticas editoriales independientes. L
- a exposición subraya la importancia de visibilizar este tipo de soportes 
- underground\, habitualmente desarrollados al margen de los circuitos de pr
- oducción y distribución convencionales. En su economía de medios\, su l
- ibertad formal y su capacidad de circulación reside buena parte de su val
- or cultural. El fanzine ha constituido\, históricamente\, un medio de exp
- resión libre y accesible\, capaz de reunir tanto a profesionales como a a
- mateurs en un mismo espacio de creación\, intercambio y difusión. El rec
- orrido expositivo pone en valor tanto la dimensión gráfica como la mater
- ialidad de estas publicaciones\, atendiendo a sus procesos de producción\
- , sus modos de lectura y su condición de objeto editorial. La muestra pro
- pone así un acercamiento a la autoedición contemporánea a través de un
-  formato que sigue siendo una herramienta activa para la práctica artíst
- ica\, la transmisión de ideas y la construcción de comunidad. Organiza: 
- Súper Gráficas. Público: Jóvenes y adultos.\n\nhttps://www.mataderomad
- rid.org/programacion/super-zines-2026
+DESCRIPTION:El documental Sembradoras de vida acompaña a cinco mujeres de
+  los Andes peruanos en su lucha diaria por mantener una forma tradicional 
+ y orgánica de trabajar la tierra. En la cosmovisión andina\, las mujeres
+  y la tierra están fuertemente interrelacionadas. Tanto el cuerpo de la m
+ ujer como la tierra son capaces de dar vida. En un contexto actual de indu
+ strialización de la agricultura\, el uso de pesticidas químicos y semill
+ as genéticamente modificadas\, son las mujeres quienes\, conectadas a la 
+ tierra en sororidad\, asumen el papel de protectoras. La película será i
+ ntroducida por la curadora e investigadora Aurora Carmenate Díaz desde la
+  perspectiva de “todas las vidas”\, como idea o leitmotiv –propuesta
+  en su día por la curadora y poeta Tamara Díaz Bringas– que cuestiona 
+ los límites entre las vidas humanas y no humanas\, reivindica la justicia
+  medioambiental y entiende la vida como interdependencia\, en su condició
+ n precaria y vulnerable. Con la pregunta "cómo contagiar que todas las vi
+ das importan"\, esta perspectiva ha imaginado futuros deseables desde un p
+ resente en que no hacer solas es gesto político cotidiano. > Sesión pres
+ entada por Aurora Carmenate Díaz \, curadora e historiadora del arte.\n\n
+ https://www.mataderomadrid.org/programacion/sembradoras-de-vida
 LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -5548,5 +6735,50 @@ DESCRIPTION:Exposición que invita a recorrer la obra de la artista catala
  . 29 abr a 7 sept).\n\nhttps://www.museoreinasofia.es/exposicion/aurelia-m
  unoz
 LOCATION:Museo Reina Sofía - de Santa Isabel\, 52\, Madrid\, 28012
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A salto de mata
+DTSTART;TZID=Europe/Madrid:20260429T190000
+UID:c60b8cd823054e9efc5e8c764c4c391c2bcd64e282559db61d6e0d20d6911d4e
+CATEGORIES:cinema
+DESCRIPTION:Adaptación libre de A salto de mata \, el libro de diarios de
+ l poeta oriolano José Luis Zerón (finalista de los premios de la crític
+ a valenciana 2025). Una película que explora el paisaje metafísico de la
+  Vega Baja del Segura como germen de creación poética. A través de la e
+ rradica durante el día y la noche\, la palabra se materializa y da forma 
+ a una exploración interior del universo del poeta José Luis Zerón.\n\nh
+ ttps://www.cinetecamadrid.com/programacion/salto-de-mata
+LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CIMA Conversa: Clara Roquet
+DTSTART;TZID=Europe/Madrid:20260429T190000
+UID:f05df1ca65722fc3f86987966c89a05fa57b41f6bfed4057a30f165aeb122ef6
+CATEGORIES:cinema
+DESCRIPTION:CIMA invita a la guionista y directora Clara Roquet a impartir
+  una masterclass sobre la construcción de los personajes y cómo la elecc
+ ión del punto de vista en la película influye a la hora de crear víncul
+ os y empatía. Compartirá ejemplos de su filmografía\, como el cortometr
+ aje El adiós o Libertad \, con la que ganó el Goya a la Mejor Dirección
+  Novel.\n\nhttps://www.cinetecamadrid.com/programacion/cima-conversa-clara
+ -roquet
+LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last Days
+DTSTART;TZID=Europe/Madrid:20260429T193000
+UID:3244912a88368955a4ba18607945ed39d4b08f7c5ab46b30863bb4ebdd5f9949
+CATEGORIES:cinema
+DESCRIPTION:Blake es un artista introspectivo que sufre el peso de la fama
+ \, las obligaciones personales y un profundo sentimiento de aislamiento. U
+ n día\, atraído por unos árboles impresionantes\, se adentra en un dens
+ o bosque\, donde encuentra un manantial de agua. Mucha gente le anda busca
+ ndo: sus amigos\, que solo recurren a él cuando necesitan algo\; los dire
+ ctivos de su casa de discos e incluso un detective privado. Blake busca en
+  el bosque la inspiración para su última canción. Inspirada en los últ
+ imos días de vida de Kurt Cobain\, cantante del grupo Nirvana y abanderad
+ o del movimiento "grunge".\n\nRelease year: 2025\n\nOriginal language: EN\
+ n\nAudio: VOSE\n\nhttps://www.cinetecamadrid.com/programacion/last-days
+LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 END:VCALENDAR
