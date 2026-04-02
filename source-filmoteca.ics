@@ -2,71 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:La ciudad perdida (1955)
-DTSTART;TZID=Europe/Madrid:20260331T173000
-UID:f9feb926f3c9ba618686690e9ac7e46d7bb3d24034c24bff6910e8de5038bd50
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Martes 31 de Marzo a las 17:30h (Sala 1.Montad
- oras del cine español (1942-1967)) *Aunque las entradas aparezcan como ag
- otadas en web\, pueden adquirirse en taquilla entradas para las sesiones d
- el día (de 17h a 20h)\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/pr
- oductos/descripcion/la-ciudad-perdida-14
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Grandeza y decadencia de un pequeño comercio de cine (1986)
-DTSTART;TZID=Europe/Madrid:20260331T193000
-UID:f853063226a9061924d4583079f3e4a04a1bb55351f9364fc428b36674422d42
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Martes 31 de Marzo a las 19:30h (Sala 1.Univer
- so Godard) *Aunque las entradas aparezcan como agotadas en web\, pueden ad
- quirirse en taquilla entradas para las sesiones del día (de 17h a 20h)\n\
- nhttps://entradasfilmoteca.sacatuentrada.es/es/productos/descripcion/grand
- eza-y-decadencia-de-un-pequeño-comercio-de-cine-ii
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Julia (1977)
-DTSTART;TZID=Europe/Madrid:20260401T173000
-UID:d81c677d1bda278583c73fc3942db1180ae4f1ebedf10f31961d452631d7f416
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Miércoles 1 de abril a las 17:30h (Sala 1. Lill
- ian Hellman. Ficción\, memoria y compromiso) *Aunque las entradas aparezc
- an como agotadas en web\, pueden adquirirse en taquilla entradas para las 
- sesiones del día (de 17h a 20h)\n\nhttps://entradasfilmoteca.sacatuentrad
- a.es/es/productos/descripcion/julia-fred-zinnemann-1977-
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:First Cow (2019)
-DTSTART;TZID=Europe/Madrid:20260401T190000
-UID:f19b3774164c6c33c2293fdb19b45d8541fab78cd77b954bd7b46101832aeccb
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Miércoles 1 de abril a las 19:00h (Sala 2. Kell
- y Reichardt. Retrospectiva + Juego de espejos) *Aunque las entradas aparez
- can como agotadas en web\, pueden adquirirse en taquilla entradas para las
-  sesiones del día (de 17h a 20h)\n\nhttps://entradasfilmoteca.sacatuentra
- da.es/es/productos/descripcion/first-cow-kelly-reichardt-2019-
-LOCATION:Filmoteca Espanola - Cine Dore Sala 2 - Calle de Santa Isabel\, 3
- \, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Carmen (1915)
-DTSTART;TZID=Europe/Madrid:20260401T203000
-UID:845ee605240e529f03519f8f808d273a0a17adc0a49f3543cb391688a28aa619
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Miércoles 1 de abril a las 20:30h (Sala 1. Fuer
- a del radar. Hallazgos del cine internacional) *Aunque las entradas aparez
- can como agotadas en web\, pueden adquirirse en taquilla entradas para las
-  sesiones del día (de 17h a 20h)\n\nhttps://entradasfilmoteca.sacatuentra
- da.es/es/productos/descripcion/carmen-9
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:La bella y la bestia (La Belle et la Bête\,1946)
 DTSTART;TZID=Europe/Madrid:20260404T173000
 UID:a760462c03103a378f2899e6b17e00c53f147a0653e8a1e8db3e9ff7f17c87a7
@@ -204,10 +139,11 @@ DTSTART;TZID=Europe/Madrid:20260409T173000
 UID:d9b584dc803e090c4d098369f69387f0b690ea75e3e266a66e95a3678fb3a08c
 CATEGORIES:cinema
 DESCRIPTION:Fecha y Hora: Jueves 9 de abril a las 17:30h (Sala 1. Archivo 
- inquieto. Memoria en movimiento) *Aunque las entradas aparezcan como agota
- das en web\, pueden adquirirse en taquilla entradas para las sesiones del 
- día (de 17h a 20h)\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/produ
- ctos/descripcion/vistas-y-trucos-en-el-cine-de-los-origenes
+ inquieto. Memoria en movimiento) SESIÓN GRATUITA *Aunque las entradas apa
+ rezcan como agotadas en web\, pueden adquirirse en taquilla entradas para 
+ las sesiones del día (de 17h a 20h)\n\nhttps://entradasfilmoteca.sacatuen
+ trada.es/es/productos/descripcion/vistas-y-trucos-en-el-cine-de-los-origen
+ es
 LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
  \, Madrid
 END:VEVENT
@@ -651,10 +587,10 @@ DTSTART;TZID=Europe/Madrid:20260423T203000
 UID:f68ced695ecdd33f3c380ec8607b6f963c5050a9273e14a4222e7e2ee4e33ee8
 CATEGORIES:cinema
 DESCRIPTION:Fecha y Hora: Jueves 23 de abril a las 20:30h (Sala 1. NO-DO. 
- El mundo de ayer / Día del libro) *Aunque las entradas aparezcan como ago
- tadas en web\, pueden adquirirse en taquilla entradas para las sesiones de
- l día (de 17h a 20h)\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/pro
- ductos/descripcion/las-letras-en-el-no-do
+ El mundo de ayer / Día del libro) SESIÓN GRATUITA *Aunque las entradas a
+ parezcan como agotadas en web\, pueden adquirirse en taquilla entradas par
+ a las sesiones del día (de 17h a 20h)\n\nhttps://entradasfilmoteca.sacatu
+ entrada.es/es/productos/descripcion/las-letras-en-el-no-do
 LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
  \, Madrid
 END:VEVENT
@@ -759,6 +695,72 @@ DESCRIPTION:Fecha y Hora: Domingo 26 de abril a las 20:00h (Sala 1. Kelly
  eb\, pueden adquirirse en taquilla entradas para las sesiones del día (de
   17h a 20h)\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/productos/des
  cripcion/wanda-barbara-loden-1970-
+LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
+ \, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los felices sesenta (1963)
+DTSTART;TZID=Europe/Madrid:20260428T173000
+UID:6c6072616e196c16da7f1f1554987a4accb67b13251d610bc71daa0056bb1cb3
+CATEGORIES:cinema
+DESCRIPTION:Fecha y Hora: Martes 28 de abril a las 17:30h (Sala 1. Montado
+ ras del cine español (1942-1967)) *Aunque las entradas aparezcan como ago
+ tadas en web\, pueden adquirirse en taquilla entradas para las sesiones de
+ l día (de 17h a 20h)\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/pro
+ ductos/descripcion/los-felices-sesenta
+LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
+ \, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cariño amargo (Toys in the Attic\,1963)
+DTSTART;TZID=Europe/Madrid:20260428T200000
+UID:0319948bdd445b7fcda43ef1774790d34dd39b5a6400072a9d884b621a5209ab
+CATEGORIES:cinema
+DESCRIPTION:Fecha y Hora: Martes 28 de abril a las 20:00h (Sala 1. Lillian
+  Hellman. Ficción\, memoria y compromiso) *Aunque las entradas aparezcan 
+ como agotadas en web\, pueden adquirirse en taquilla entradas para las ses
+ iones del día (de 17h a 20h)\n\nhttps://entradasfilmoteca.sacatuentrada.e
+ s/es/productos/descripcion/cariño-amargo-toys-in-the-attic-george-roy-hil
+ l-1963-
+LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
+ \, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:We Are The Best! (Vi är bäst!\, 2013)
+DTSTART;TZID=Europe/Madrid:20260429T173000
+UID:dc1319a97e33a7c65104f11a2c33e4f6cc2ca0ad04122cca25718ce43e5a761b
+CATEGORIES:cinema
+DESCRIPTION:Fecha y Hora: Miércoles 29 de abril a las 17:30h (Sala 1. Kel
+ ly Reichardt. Carta blanca) *Aunque las entradas aparezcan como agotadas e
+ n web\, pueden adquirirse en taquilla entradas para las sesiones del día 
+ (de 17h a 20h)\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/productos/
+ descripcion/we-are-the-best-segunda-proyeccion-
+LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
+ \, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Megatón Ye-Ye (1965)
+DTSTART;TZID=Europe/Madrid:20260429T190000
+UID:dd54b568e5805ec747a30ef4598fe22573bf6757b140209cf5e4bc0a16206d80
+CATEGORIES:cinema
+DESCRIPTION:Fecha y Hora: Miércoles 29 de abril a las 19:00h (Sala 2. Mon
+ tadoras del cine español (1942-1967)) *Aunque las entradas aparezcan como
+  agotadas en web\, pueden adquirirse en taquilla entradas para las sesione
+ s del día (de 17h a 20h)\n\nhttps://entradasfilmoteca.sacatuentrada.es/es
+ /productos/descripcion/megaton-ye-ye-jesus-yague-1965-
+LOCATION:Filmoteca Espanola - Cine Dore Sala 2 - Calle de Santa Isabel\, 3
+ \, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alarma en el Rhin (Watch on the Rhine\,1943)
+DTSTART;TZID=Europe/Madrid:20260429T200000
+UID:f9e9967a275bcaba6849dba60e56d0ba5007084187373cdb572aeda3d6cafb69
+CATEGORIES:cinema
+DESCRIPTION:Fecha y Hora: Miércoles 29 de abril a las 20:00h (Sala 1. Lil
+ lian Hellman. Ficción\, memoria y compromiso) *Aunque las entradas aparez
+ can como agotadas en web\, pueden adquirirse en taquilla entradas para las
+  sesiones del día (de 17h a 20h)\n\nhttps://entradasfilmoteca.sacatuentra
+ da.es/es/productos/descripcion/alarma-en-el-rhin-segunda-proyeccion-
 LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
  \, Madrid
 END:VEVENT
