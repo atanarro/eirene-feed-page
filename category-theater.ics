@@ -3,22 +3,13 @@ VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
 SUMMARY:Niebla
-DTSTART;TZID=Europe/Madrid:20260402T193000
+DTSTART;TZID=Europe/Madrid:20260403T193000
 DTEND;TZID=Europe/Madrid:20260412T193000
 UID:f5c1c7ebb968eb8a2029978f386f4763212118ce95d6b31e1e8cb896ee68f191
 CATEGORIES:theater
-DESCRIPTION:Últimas entradas desde 15.75€ | Tags: JOBO\n\nhttps://tiend
+DESCRIPTION:Entradas agotadas desde 15.75€ | Tags: JOBO\n\nhttps://tiend
  a.madrid-destino.com/es/nave-10/niebla/
 LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hoy tengo algo que hacer
-DTSTART;TZID=Europe/Madrid:20260402T193000
-UID:22d5d9601d44e25a5d5570f012d3fcc5b0a5c3330d393eef11816cae8ef6b309
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/hoy-tengo-algo-que-h
- acer/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hoy tengo algo que hacer
@@ -195,7 +186,7 @@ SUMMARY:Presentación de la III Marcha Republicana
 DTSTART;TZID=Europe/Madrid:20260414T190000
 UID:c5eac03d9890f8922b3228cf64365fe1fd51540d80168df093619472a24e7758
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 2 plazas!\n\nhttps://teatrodelbarrio.com/pres
+DESCRIPTION:¡Ya solo quedan 1 plazas!\n\nhttps://teatrodelbarrio.com/pres
  entacion-de-la-iii-marcha-republicana/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
@@ -251,6 +242,15 @@ UID:b4ec59c6c6a614b17053b40ead60e7687a5bdd15a8e1450c2dd64ad7b4c08103
 CATEGORIES:theater
 DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/yo-deseo-recital-ele
  ctronico-de-inconfesiones-femeninas/
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gordas\, lisiadas y mamarrachas
+DTSTART;TZID=Europe/Madrid:20260417T221500
+UID:fe494e253bcebd708a5b41e71583caa0c660aa1146a56508b7deb73cd38d9e0d
+CATEGORIES:theater
+DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/gordas-lisiadas-y-ma
+ marrachas/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -442,8 +442,8 @@ SUMMARY:Encerrona de Pepe Viyuela
 DTSTART;TZID=Europe/Madrid:20260429T213000
 UID:4e7c2d95c9478ff1ce19bdd651693f3671fcc7f156a2b138899bbc1620f9cea0
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 10 plazas!\n\nhttps://teatrodelbarrio.com/pep
- e-viyuela-encerrona/
+DESCRIPTION:¡Ya solo quedan 6 plazas!\n\nhttps://teatrodelbarrio.com/pepe
+ -viyuela-encerrona/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT

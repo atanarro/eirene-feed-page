@@ -1,5 +1,5 @@
 Eirene feed debug
-Total events: 54
+Total events: 56
 
 [1] El Polaco
   id: bf77f7e79cf53b5d20a8615a827559534a42002b9fed91ae9342cbd86b147286
@@ -13,8 +13,8 @@ Total events: 54
   description: Concierto / Latin / Urban
 
 [2] Gala Diaspora Teranga
-  id: 50b525b121100e27f0ce71494796482dca04f346eced5299343c1ecb9290e8fb
-  start: 2026-04-04T20:00:00+02:00
+  id: dc349e43202d6d04197dead5ebf10bf325ebba6a4cfc0dd67dae3aec29add9cd
+  start: 2026-04-04T19:00:00+02:00
   end: N/A
   category: music
   source: sala_villanos
@@ -594,3 +594,25 @@ Total events: 54
   coordinates: 40.4039493, -3.7002239
   url: https://salavillanos.es/evento/fiesta-tropical-del-cine-peruano/
   description: Concierto / Latin
+
+[55] Bulo En Concierto. Presentación Del Primer Disco.
+  id: 15ae5a76099aacd0abdfda354b80816d39f6e07dd161bb649a4ba3bdab752d02
+  start: 2026-05-02T21:00:00+02:00
+  end: N/A
+  category: music
+  source: sala_villanos
+  location: Sala Villanos - Calle de Bernardino Obregon, 18, Madrid
+  coordinates: 40.4039493, -3.7002239
+  url: https://salavillanos.es/evento/bulo-en-concierto-presentacion-del-primer-disco/
+  description: Concierto / Rock
+
+[56] Ligabue
+  id: 79d882b20144f820f4bb16a066ede0e7c48d7754340eba57661ffa6ea6439857
+  start: 2026-05-02T21:00:00+02:00
+  end: N/A
+  category: music
+  source: sala_la_riviera
+  location: Sala La Riviera - Paseo Bajo de la Virgen del Puerto, s/n, Madrid
+  coordinates: 40.4129548, -3.7221336
+  url: https://www.entradas.com/event/ligabue-sala-la-riviera-20391870/?Affiliate=RIV
+  description: Apertura Puertas: 19:30 pm

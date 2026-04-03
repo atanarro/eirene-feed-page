@@ -12,8 +12,8 @@ LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gala Diaspora Teranga
-DTSTART;TZID=Europe/Madrid:20260404T200000
-UID:50b525b121100e27f0ce71494796482dca04f346eced5299343c1ecb9290e8fb
+DTSTART;TZID=Europe/Madrid:20260404T190000
+UID:dc349e43202d6d04197dead5ebf10bf325ebba6a4cfc0dd67dae3aec29add9cd
 CATEGORIES:music
 DESCRIPTION:Concierto / Afro\n\nhttps://salavillanos.es/evento/gala-diaspo
  ra-teranga-celebracion-de-la-independencia-de-senegal/
@@ -577,5 +577,24 @@ CATEGORIES:music
 DESCRIPTION:Concierto / Latin\n\nhttps://salavillanos.es/evento/fiesta-tro
  pical-del-cine-peruano/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bulo En Concierto. Presentación Del Primer Disco.
+DTSTART;TZID=Europe/Madrid:20260502T210000
+UID:15ae5a76099aacd0abdfda354b80816d39f6e07dd161bb649a4ba3bdab752d02
+CATEGORIES:music
+DESCRIPTION:Concierto / Rock\n\nhttps://salavillanos.es/evento/bulo-en-con
+ cierto-presentacion-del-primer-disco/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ligabue
+DTSTART;TZID=Europe/Madrid:20260502T210000
+UID:79d882b20144f820f4bb16a066ede0e7c48d7754340eba57661ffa6ea6439857
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://www.entradas.com/event/l
+ igabue-sala-la-riviera-20391870/?Affiliate=RIV
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
 END:VEVENT
 END:VCALENDAR
