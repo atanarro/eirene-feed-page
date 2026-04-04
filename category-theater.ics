@@ -2,23 +2,45 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
+SUMMARY:La última noche con mi hermano
+DTSTART;TZID=Europe/Madrid:20260213T000000
+DTEND;TZID=Europe/Madrid:20260405T235900
+UID:df484f18448dee2449eea922969c3fad7ae78cccea7db5d8b2709d15dea021fd
+CATEGORIES:theater
+DESCRIPTION:Texto y dirección Alfredo Sanzol\n\nhttps://dramatico.inaem.g
+ ob.es/evento/la-ultima-noche-con-mi-hermano/
+LOCATION:Teatro Maria Guerrero - Calle de Tamayo y Baus\, 4\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Casi ninguna verdad
+DTSTART;TZID=Europe/Madrid:20260306T000000
+DTEND;TZID=Europe/Madrid:20260412T235900
+UID:7bb9229c5406de701333b18c1b45d43cb2daeda7ff87b2d98af381c1eb282154
+CATEGORIES:theater
+DESCRIPTION:Texto y dirección Cris Blanco Dramaturgia Cris Blanco\, Ósca
+ r Bueno Rodríguez y Anto Rodríguez\n\nhttps://dramatico.inaem.gob.es/eve
+ nto/casi-ninguna-verdad/
+LOCATION:Teatro Valle-Inclán - Plaza de Lavapies\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Utopía en llamas
+DTSTART;TZID=Europe/Madrid:20260320T000000
+DTEND;TZID=Europe/Madrid:20260426T235900
+UID:a2d55cc52793d807a2dc3a7a9b1845d2fab03f29c67826917a62789076be6586
+CATEGORIES:theater
+DESCRIPTION:Texto Alda Lozano Dirección Concha Delgado y Sandra Ferrús\n
+ \nhttps://dramatico.inaem.gob.es/evento/utopia-en-llamas/
+LOCATION:Teatro Maria Guerrero - Calle de Tamayo y Baus\, 4\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Niebla
-DTSTART;TZID=Europe/Madrid:20260403T193000
+DTSTART;TZID=Europe/Madrid:20260404T193000
 DTEND;TZID=Europe/Madrid:20260412T193000
 UID:f5c1c7ebb968eb8a2029978f386f4763212118ce95d6b31e1e8cb896ee68f191
 CATEGORIES:theater
 DESCRIPTION:Entradas agotadas desde 15.75€ | Tags: JOBO\n\nhttps://tiend
  a.madrid-destino.com/es/nave-10/niebla/
 LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hoy tengo algo que hacer
-DTSTART;TZID=Europe/Madrid:20260403T193000
-UID:c891a8c1a7a3ad8546dddb5c0dca5f5af842f8d48637f73614d04aa1dde4cf42
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/hoy-tengo-algo-que-h
- acer/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hoy tengo algo que hacer
@@ -62,8 +84,9 @@ SUMMARY:Club de lectura Capitán Barrio: Antifa. El manual Antifascista. C
 DTSTART;TZID=Europe/Madrid:20260407T190000
 UID:a6c1af6a9f5e0ba8fec5e9f910c3a226a3aba79c7a164a7b04f1546040e55c26
 CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/club-de-lectura-capi
- tan-barrio-antifa-el-manual-antifascista-con-mark-bray-y-dario-adanti/
+DESCRIPTION:¡Ya solo quedan 9 plazas!\n\nhttps://teatrodelbarrio.com/club
+ -de-lectura-capitan-barrio-antifa-el-manual-antifascista-con-mark-bray-y-d
+ ario-adanti/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -99,6 +122,16 @@ UID:ffd2f2e63e626b45b6bc6ff738bc3b1b008583ba67ff6e4e181c93dd9b5033d1
 CATEGORIES:theater
 DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/mongoliashow/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Silence
+DTSTART;TZID=Europe/Madrid:20260410T000000
+DTEND;TZID=Europe/Madrid:20260412T235900
+UID:6def926b11fdc0ac637add110f9fe7ccd968b6e6ef46eca412fb639429fbcb4d
+CATEGORIES:theater
+DESCRIPTION:Texto y dirección Falk Richter\n\nhttps://dramatico.inaem.gob
+ .es/evento/the-silence/
+LOCATION:Teatro Valle-Inclán - Plaza de Lavapies\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Animal o la salida humana
@@ -150,8 +183,8 @@ SUMMARY:La diatriba del perro
 DTSTART;TZID=Europe/Madrid:20260412T130000
 UID:f32bb44c2d3e466bea8bf2670fe1f8393345d539df3a39fbcd9193621e2ec5fb
 CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/la-diatriba-del-perr
- o/
+DESCRIPTION:¡Ya solo quedan 27 plazas!\n\nhttps://teatrodelbarrio.com/la-
+ diatriba-del-perro/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -213,7 +246,7 @@ SUMMARY:Jajás en el Barrio
 DTSTART;TZID=Europe/Madrid:20260415T220000
 UID:f8040c056577192cbc5f5b68a9c07221ee9b9e4a4a820cd18a485841aa72bbb0
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 16 plazas!\n\nhttps://teatrodelbarrio.com/jaj
+DESCRIPTION:¡Ya solo quedan 12 plazas!\n\nhttps://teatrodelbarrio.com/jaj
  as-en-el-barrio/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
@@ -316,6 +349,16 @@ DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/isa-y-javi/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Cuestionando el empleo: renta básica incondicional. ¿Me lo dices
+  o me lo cantas?
+DTSTART;TZID=Europe/Madrid:20260421T183000
+UID:49ab43a813c043e9b4752a95d857174b00e25fee6f6a409a66533f3c66d1381d
+CATEGORIES:theater
+DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/cuestionando-el-empl
+ eo-renta-basica-incondicional-me-lo-dices-o-me-lo-cantas/
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Paramnesia. (La vida que recuerdo)
 DTSTART;TZID=Europe/Madrid:20260422T193000
 UID:cb13bfa712ec5d53b84db64e1e460fcc4d88158bca44a5a2c84dc1e59b8d30bd
@@ -331,6 +374,17 @@ UID:1f94ac0262b20f2847ad23d0c25ed7cc1e6901f20d05b2198d970b1e4f900bcd
 CATEGORIES:theater
 DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/bajo-tu-piel/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LEXIKON
+DTSTART;TZID=Europe/Madrid:20260424T000000
+DTEND;TZID=Europe/Madrid:20260524T235900
+UID:96160284aff37b4e21894727d9155171ad4259d5a269d255980f52baed4c10fd
+CATEGORIES:theater
+DESCRIPTION:Una creación de El Conde de Torrefiel Texto y dirección Tany
+ a Beyeler y Pablo Gisbert\n\nhttps://dramatico.inaem.gob.es/evento/lexikon
+ /
+LOCATION:Teatro Maria Guerrero - Calle de Tamayo y Baus\, 4\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Guayominí
@@ -442,9 +496,19 @@ SUMMARY:Encerrona de Pepe Viyuela
 DTSTART;TZID=Europe/Madrid:20260429T213000
 UID:4e7c2d95c9478ff1ce19bdd651693f3671fcc7f156a2b138899bbc1620f9cea0
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 6 plazas!\n\nhttps://teatrodelbarrio.com/pepe
+DESCRIPTION:¡Ya solo quedan 5 plazas!\n\nhttps://teatrodelbarrio.com/pepe
  -viyuela-encerrona/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tinieblas
+DTSTART;TZID=Europe/Madrid:20260430T000000
+DTEND;TZID=Europe/Madrid:20260531T235900
+UID:50198494f525d46a38de78ff56392a38d77326a681dc92053e44c1132d33f90c
+CATEGORIES:theater
+DESCRIPTION:Texto y dirección Edurne Rubio\n\nhttps://dramatico.inaem.gob
+ .es/evento/tinieblas/
+LOCATION:Teatro Valle-Inclán - Plaza de Lavapies\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Preso en la esperanza / Trapped in hope
