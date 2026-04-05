@@ -2,15 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Gala Diaspora Teranga
-DTSTART;TZID=Europe/Madrid:20260404T190000
-UID:dc349e43202d6d04197dead5ebf10bf325ebba6a4cfc0dd67dae3aec29add9cd
-CATEGORIES:music
-DESCRIPTION:Concierto / Afro\n\nhttps://salavillanos.es/evento/gala-diaspo
- ra-teranga-celebracion-de-la-independencia-de-senegal/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Lucas Santtana
 DTSTART;TZID=Europe/Madrid:20260406T203000
 UID:ef6cef7aee0078163ab214f4c2b8a06cf1ba9dc8bbb67a191f2623a09720eb99
@@ -585,6 +576,16 @@ UID:79d882b20144f820f4bb16a066ede0e7c48d7754340eba57661ffa6ea6439857
 CATEGORIES:music
 DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://www.entradas.com/event/l
  igabue-sala-la-riviera-20391870/?Affiliate=RIV
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Miguel - Caos Tour
+DTSTART;TZID=Europe/Madrid:20260504T210000
+UID:0fb848a0391c0f85e161e46a1135b85c277047cb4e65224e4c48bc4c9d20396b
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://www.livenation.es/event/
+ miguel-caos-tour-madrid-tickets-edp1630147
 LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
  id
 END:VEVENT
