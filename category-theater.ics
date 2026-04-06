@@ -2,34 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Hoy tengo algo que hacer
-DTSTART;TZID=Europe/Madrid:20260405T130000
-UID:0807f05098e12964d38bb65c697d88b022d8f8dd0fffc8c7d2b9cc9e7618ee57
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/hoy-tengo-algo-que-h
- acer/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Niebla
-DTSTART;TZID=Europe/Madrid:20260405T193000
-DTEND;TZID=Europe/Madrid:20260412T193000
-UID:f5c1c7ebb968eb8a2029978f386f4763212118ce95d6b31e1e8cb896ee68f191
-CATEGORIES:theater
-DESCRIPTION:Entradas agotadas desde 15.75€ | Tags: JOBO\n\nhttps://tiend
- a.madrid-destino.com/es/nave-10/niebla/
-LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gordas\, lisiadas y mamarrachas
-DTSTART;TZID=Europe/Madrid:20260405T203000
-UID:3c0784ce29bd38fc00da10316fb420cd0e4399f8d471e0109dfea825a92cc3a4
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/gordas-lisiadas-y-ma
- marrachas/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Federico. No hay olvido\, ni sueño: Carne viva
 DTSTART;TZID=Europe/Madrid:20260406T193000
 UID:b2fb37156d25113926802acdca4e8a88e1aa395de629a48e6727fa26289be244
@@ -48,6 +20,16 @@ DESCRIPTION:¡Ya solo quedan 1 plazas!\n\nhttps://teatrodelbarrio.com/club
  -de-lectura-capitan-barrio-antifa-el-manual-antifascista-con-mark-bray-y-d
  ario-adanti/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Niebla
+DTSTART;TZID=Europe/Madrid:20260407T193000
+DTEND;TZID=Europe/Madrid:20260412T193000
+UID:f5c1c7ebb968eb8a2029978f386f4763212118ce95d6b31e1e8cb896ee68f191
+CATEGORIES:theater
+DESCRIPTION:Entradas agotadas desde 15.75€ | Tags: JOBO\n\nhttps://tiend
+ a.madrid-destino.com/es/nave-10/niebla/
+LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Paramnesia. (La vida que recuerdo)
