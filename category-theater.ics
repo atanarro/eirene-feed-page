@@ -2,65 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Casi ninguna verdad
-DTSTART;TZID=Europe/Madrid:20260306T180000
-DTEND;TZID=Europe/Madrid:20260412T180000
-UID:7bb9229c5406de701333b18c1b45d43cb2daeda7ff87b2d98af381c1eb282154
-CATEGORIES:theater
-DESCRIPTION:Texto y dirección Cris Blanco Dramaturgia Cris Blanco\, Ósca
- r Bueno Rodríguez y Anto Rodríguez\n\nhttps://dramatico.inaem.gob.es/eve
- nto/casi-ninguna-verdad/
-LOCATION:Teatro Valle-Inclán - Plaza de Lavapies\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Utopía en llamas
-DTSTART;TZID=Europe/Madrid:20260320T180000
-DTEND;TZID=Europe/Madrid:20260426T180000
-UID:a2d55cc52793d807a2dc3a7a9b1845d2fab03f29c67826917a62789076be6586
-CATEGORIES:theater
-DESCRIPTION:Texto Alda Lozano Dirección Concha Delgado y Sandra Ferrús\n
- \nhttps://dramatico.inaem.gob.es/evento/utopia-en-llamas/
-LOCATION:Teatro Maria Guerrero - Calle de Tamayo y Baus\, 4\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Niebla
-DTSTART;TZID=Europe/Madrid:20260410T193000
-DTEND;TZID=Europe/Madrid:20260412T193000
-UID:f5c1c7ebb968eb8a2029978f386f4763212118ce95d6b31e1e8cb896ee68f191
-CATEGORIES:theater
-DESCRIPTION:Entradas agotadas desde 21.00€ | Tags: JOBO\n\nhttps://tiend
- a.madrid-destino.com/es/nave-10/niebla/
-LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Animal o la salida humana
-DTSTART;TZID=Europe/Madrid:20260410T193000
-UID:b8159a2e0c4b5f711239377942d04263c0d04515e018789009b7cac048d24409
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/animal-o-la-salida-h
- umana/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Silence
-DTSTART;TZID=Europe/Madrid:20260410T200000
-DTEND;TZID=Europe/Madrid:20260412T200000
-UID:6def926b11fdc0ac637add110f9fe7ccd968b6e6ef46eca412fb639429fbcb4d
-CATEGORIES:theater
-DESCRIPTION:Texto y dirección Falk Richter\n\nhttps://dramatico.inaem.gob
- .es/evento/the-silence/
-LOCATION:Teatro Valle-Inclán - Plaza de Lavapies\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Noche de fiesta - CANTI VAGANTI
-DTSTART;TZID=Europe/Madrid:20260410T220000
-UID:9582b6ef60f9f621eed4a362e17b1ace198613b61cca8d7487dbb44bc725adc7
-CATEGORIES:theater
-DESCRIPTION:Programación en Teatro del Barrio\n\nhttps://teatrodelbarrio.
- com/noche-de-fiesta-canti-vaganti/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Federico. No hay olvido\, ni sueño: Carne viva
 DTSTART;TZID=Europe/Madrid:20260411T130000
 UID:04bb4410a5cb47bf3da8167fd7867cc32909779038a68bf9fc9da62cedb90791
@@ -68,6 +9,16 @@ CATEGORIES:theater
 DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/federico-no-hay-olvi
  do-ni-sueno-carne-viva/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Niebla
+DTSTART;TZID=Europe/Madrid:20260411T193000
+DTEND;TZID=Europe/Madrid:20260412T193000
+UID:f5c1c7ebb968eb8a2029978f386f4763212118ce95d6b31e1e8cb896ee68f191
+CATEGORIES:theater
+DESCRIPTION:Entradas agotadas desde 21.00€\n\nhttps://tienda.madrid-dest
+ ino.com/es/nave-10/niebla/
+LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Animal o la salida humana
@@ -155,7 +106,7 @@ SUMMARY:Jajás en el Barrio
 DTSTART;TZID=Europe/Madrid:20260415T220000
 UID:f8040c056577192cbc5f5b68a9c07221ee9b9e4a4a820cd18a485841aa72bbb0
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 8 plazas!\n\nhttps://teatrodelbarrio.com/jaja
+DESCRIPTION:¡Ya solo quedan 6 plazas!\n\nhttps://teatrodelbarrio.com/jaja
  s-en-el-barrio/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
@@ -303,17 +254,6 @@ DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/bajo-tu-piel/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LEXIKON
-DTSTART;TZID=Europe/Madrid:20260424T200000
-DTEND;TZID=Europe/Madrid:20260524T200000
-UID:96160284aff37b4e21894727d9155171ad4259d5a269d255980f52baed4c10fd
-CATEGORIES:theater
-DESCRIPTION:Una creación de El Conde de Torrefiel Texto y dirección Tany
- a Beyeler y Pablo Gisbert\n\nhttps://dramatico.inaem.gob.es/evento/lexikon
- /
-LOCATION:Teatro Maria Guerrero - Calle de Tamayo y Baus\, 4\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Preso en la esperanza / Trapped in hope
 DTSTART;TZID=Europe/Madrid:20260424T221500
 UID:3674dc5dac3d2edd416e35751be127d040ede13b8313a6dbd0a4ed4505444982
@@ -405,19 +345,9 @@ SUMMARY:Encerrona de Pepe Viyuela
 DTSTART;TZID=Europe/Madrid:20260429T213000
 UID:4e7c2d95c9478ff1ce19bdd651693f3671fcc7f156a2b138899bbc1620f9cea0
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 2 plazas!\n\nhttps://teatrodelbarrio.com/pepe
+DESCRIPTION:¡Ya solo quedan 1 plazas!\n\nhttps://teatrodelbarrio.com/pepe
  -viyuela-encerrona/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tinieblas
-DTSTART;TZID=Europe/Madrid:20260430T180000
-DTEND;TZID=Europe/Madrid:20260531T180000
-UID:50198494f525d46a38de78ff56392a38d77326a681dc92053e44c1132d33f90c
-CATEGORIES:theater
-DESCRIPTION:Texto y dirección Edurne Rubio\n\nhttps://dramatico.inaem.gob
- .es/evento/tinieblas/
-LOCATION:Teatro Valle-Inclán - Plaza de Lavapies\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Preso en la esperanza / Trapped in hope
@@ -436,15 +366,5 @@ CATEGORIES:theater
 DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/gordas-lisiadas-y-ma
  marrachas/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Las últimas
-DTSTART;TZID=Europe/Madrid:20260508T200000
-DTEND;TZID=Europe/Madrid:20260621T200000
-UID:34073fdb988203b3a005564529c24966077766bf0f35417ef477414e6ddc51fb
-CATEGORIES:theater
-DESCRIPTION:Una creación de Cross Border Texto y dirección Lucía Mirand
- a\n\nhttps://dramatico.inaem.gob.es/evento/las-ultimas/
-LOCATION:Teatro Valle-Inclán - Plaza de Lavapies\, Madrid
 END:VEVENT
 END:VCALENDAR

@@ -64,12 +64,12 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fui sobre agua edificada
 DTSTART;TZID=Europe/Madrid:20250926T000000
-DTEND;TZID=Europe/Madrid:20260426T000000
+DTEND;TZID=Europe/Madrid:20260419T000000
 UID:72d72a8d8af19b2261fdb74e4b194145ef12d84cb714bb3ea3f63b8507efa520
 CATEGORIES:exhibition
 DESCRIPTION:Muestra que reúne las fotografías ganadoras y finalistas del
   V Concurso de fotografía\, que retrata la presencia del agua en Madrid (
- Museo de Historia. Hasta 26 abril).\n\nhttps://www.madrid.es/portales/muni
+ Museo de Historia. Hasta 19 abril).\n\nhttps://www.madrid.es/portales/muni
  madrid/es/Inicio/Cultura-ocio-y-deporte/Museo-de-Historia-de-Madrid/?vgnex
  tfmt=default&vgnextoid=ab18a1ead63ab010VgnVCM100000d90ca8c0RCRD&vgnextchan
  nel=7911f073808fe410VgnVCM2000000c205a0aRCRD&idCapitulo=50068026&page=1
@@ -101,12 +101,12 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Animals
 DTSTART;TZID=Europe/Madrid:20251029T000000
-DTEND;TZID=Europe/Madrid:20260601T000000
+DTEND;TZID=Europe/Madrid:20260630T000000
 UID:49669b8a86953c84c1ed1336a4efb3bfcb16dbd6cb5877463e370c3345798a68
 CATEGORIES:exhibition
 DESCRIPTION:Una selección de 22 retratos de la fotógrafa y activista Ele
  na de Castro que combinan sensibilidad y compromiso (Matadero Madrid. Hast
- a Junio).\n\nhttps://www.mataderomadrid.org/programacion/animals
+ a 30 Junio).\n\nhttps://www.mataderomadrid.org/programacion/animals
 LOCATION:Matadero Madrid - de Legazpi\, 8\, Madrid\, 28045
 END:VEVENT
 BEGIN:VEVENT
@@ -286,13 +286,13 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:De Babel al último rey de Iraq: una civilización milenaria
 DTSTART;TZID=Europe/Madrid:20260129T000000
-DTEND;TZID=Europe/Madrid:20260503T000000
+DTEND;TZID=Europe/Madrid:20260510T000000
 UID:d6855d91270850bf77368e9ab0b8d94f6e335e2acee53c0a01c93d6c059b2ae9
 CATEGORIES:exhibition
 DESCRIPTION:Las obras del artista iraquí Hanoos Hanoos reflexionan sobre 
- el poder\, la violencia y la fragilidad humana (Casa Árabe. Hasta 3 mayo)
- .\n\nhttps://casaarabe.es/eventos-arabes/show/de-babel-al-ultimo-rey-de-ir
- aq-una-civilizacion-milenaria
+ el poder\, la violencia y la fragilidad humana (Casa Árabe. Hasta 10 mayo
+ ).\n\nhttps://casaarabe.es/eventos-arabes/show/de-babel-al-ultimo-rey-de-i
+ raq-una-civilizacion-milenaria
 LOCATION:Casa Árabe - de Alcalá\, 62\, Madrid\, 28009
 END:VEVENT
 BEGIN:VEVENT
@@ -317,6 +317,18 @@ DESCRIPTION:Instalación escultórica del artista visual brasileño en la
  que el espacio se transforma en un territorio vivo (La Casa Encendida. Has
  ta 27 sept).\n\nhttps://www.lacasaencendida.es/exposiciones/fundacion-marl
  on-de-azambuja
+LOCATION:La Casa Encendida - de Valencia\, 2\, Madrid\, 28012
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Generación 2026
+DTSTART;TZID=Europe/Madrid:20260130T000000
+DTEND;TZID=Europe/Madrid:20260419T000000
+UID:af981f8dbdc2619d0876884d874e762236d880231a1b3b7e84c7e8eff39ffcdf
+CATEGORIES:exhibition
+DESCRIPTION:Una muestra que reúne los proyectos ganadores de la última e
+ dición de Generaciones de la Fundación Montemadrid (La Casa Encendida. H
+ asta 19 abril).\n\nhttps://www.lacasaencendida.es/exposiciones/generacion-
+ 2026
 LOCATION:La Casa Encendida - de Valencia\, 2\, Madrid\, 28012
 END:VEVENT
 BEGIN:VEVENT
@@ -409,6 +421,31 @@ DESCRIPTION:Retrospectiva de la trayectoria del artista\, figura clave de
 LOCATION:Museo Reina Sofía - de Santa Isabel\, 52\, Madrid\, 28012
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bellezas del mundo flotante
+DTSTART;TZID=Europe/Madrid:20260212T000000
+DTEND;TZID=Europe/Madrid:20260531T000000
+UID:3e14f7e30890ffbd91debe51c7a332206d87b39c558a496d4951eb11f6bac798
+CATEGORIES:exhibition
+DESCRIPTION:La edad de oro del grabado japonés entre finales del siglo XV
+ III y mediados del XIX protagoniza esta exposición (Real Academia Bellas 
+ Artes San Fernando. Hasta 31 may).\n\nhttps://www.realacademiabellasartess
+ anfernando.com/actividades/exposiciones/bellezas-del-mundo-flotante/
+LOCATION:Real Academia de Bellas Artes de San Fernando - de Alcalá\, 13\,
+  Madrid\, 28014
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La casa de las artes. Abierta desde 1926
+DTSTART;TZID=Europe/Madrid:20260212T000000
+DTEND;TZID=Europe/Madrid:20260510T000000
+UID:ee5ed0b89007b2883c9bf9b903f561f71f75e32932b51c1e4a905c62f4ed3042
+CATEGORIES:exhibition
+DESCRIPTION:Un recorrido por el origen\, el diseño y la construcción de 
+ una de las arquitecturas más emblemáticas de la Gran Vía madrileña (C
+ írculo de Bellas Artes. Hasta 10 may).\n\nhttps://www.circulobellasartes.
+ com/exposiciones/la-casa-de-las-artes-abierta-desde-1926/
+LOCATION:Círculo de Bellas Artes - de Alcalá\, 42\, Madrid\, 28014
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:X Muestra Orfebrería y Joyería Contemporánea
 DTSTART;TZID=Europe/Madrid:20260212T000000
 DTEND;TZID=Europe/Madrid:20260426T000000
@@ -445,6 +482,19 @@ DESCRIPTION:La primera retrospectiva en España dedicada al artista danés
  o-que-escucha
 LOCATION:Museo Nacional Thyssen-Bornemisza - del Prado\, 8\, Madrid\, 2801
  4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lo que la ciudad esconde: Imágenes de la corte medieval de Toledo
+DTSTART;TZID=Europe/Madrid:20260217T000000
+DTEND;TZID=Europe/Madrid:20260510T000000
+UID:dad69e175de9f4b951a276cf0baf4cbdb709477b19c8661fc3482cc9ce4ba85c
+CATEGORIES:exhibition
+DESCRIPTION:La muestra presenta un excepcional conjunto de tablas policrom
+ adas medievales\, de extraordinaria riqueza iconográfica\, halladas de ma
+ nera casual en Toledo (Museo Arqueológico Nacional.\n\nhttps://www.man.e
+ s/man/exposicion/novedades-arqueologicas/20260217-imagenes-corte-medieval-
+ toledo.html
+LOCATION:Museo Arqueológico Nacional - de Serrano\, 13\, Madrid\, 28001
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Anders Zorn. Recorrer el mundo\, recordar la tierra
@@ -499,6 +549,19 @@ LOCATION:Museo Nacional Thyssen-Bornemisza - del Prado\, 8\, Madrid\, 2801
  4
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Eclosión. El Círculo de Bellas Artes en los 80 y 90
+DTSTART;TZID=Europe/Madrid:20260225T000000
+DTEND;TZID=Europe/Madrid:20260510T000000
+UID:df8843aa27649dc0af2e4f4d0218ba29b3cf53a3e96fcc516a3eef4ad11ded67
+CATEGORIES:exhibition
+DESCRIPTION:Exposición que revisa su periodo de renovación y la volunt
+ ad de convertirse en un centro cultural multidisciplinar\, innovador y con
+ ectado con las necesidades de su tiempo (Círculo de Bell\n\nhttps://www.c
+ irculobellasartes.com/exposiciones/eclosion-el-circulo-de-bellas-artes-en-
+ los-80-y-90/
+LOCATION:Círculo de Bellas Artes - de Alcalá\, 42\, Madrid\, 28014
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Madrid Collects. 50 Contemporary Art Collections
 DTSTART;TZID=Europe/Madrid:20260226T000000
 DTEND;TZID=Europe/Madrid:20260906T000000
@@ -509,6 +572,19 @@ DESCRIPTION:Una selección de 100 obras contemporáneas pone en valor el p
  stica (CentroCentro. Hasta 6 sept).\n\nhttps://www.centrocentro.org/exposi
  cion/madrid-colecciona
 LOCATION:CentroCentro - de Cibeles\, 1\, Madrid\, 28014
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La quema
+DTSTART;TZID=Europe/Madrid:20260227T000000
+DTEND;TZID=Europe/Madrid:20260524T000000
+UID:3e0a419209830f1fc6206f685eda8de77334c08356b0ea390d41d1de6486a776
+CATEGORIES:exhibition
+DESCRIPTION:Una retrospectiva de Elena del Rivero como parte del programa 
+ especial del 150º aniversario y del programa Visiones críticas (Museo Na
+ cional de Antropología. 27 feb a 24 may).\n\nhttps://www.cultura.gob.es/m
+ nantropologia/en/actividades/agenda/2026/expotemporales2026/quema.html
+LOCATION:Museo Nacional de Antropología - de Alfonso XII\, 68\, Madrid\, 
+ 28014
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gloria Fuertes (hoy)
@@ -583,17 +659,6 @@ DESCRIPTION:La exposición reúne las 38 obras premiadas en la edición 20
 LOCATION:COAM - de Hortaleza\, 63\, Madrid\, 28004
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Casi ninguna verdad
-DTSTART;TZID=Europe/Madrid:20260306T180000
-DTEND;TZID=Europe/Madrid:20260412T180000
-UID:7bb9229c5406de701333b18c1b45d43cb2daeda7ff87b2d98af381c1eb282154
-CATEGORIES:theater
-DESCRIPTION:Texto y dirección Cris Blanco Dramaturgia Cris Blanco\, Ósca
- r Bueno Rodríguez y Anto Rodríguez\n\nhttps://dramatico.inaem.gob.es/eve
- nto/casi-ninguna-verdad/
-LOCATION:Teatro Valle-Inclán - Plaza de Lavapies\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Liminal Space. María Oriza
 DTSTART;TZID=Europe/Madrid:20260311T000000
 DTEND;TZID=Europe/Madrid:20260426T000000
@@ -629,16 +694,6 @@ DESCRIPTION:Exposición al aire libre que destaca la importancia de la lec
  tps://casalector.fundaciongsr.org/libros-a-la-calle-para-los-pequenos-y-jo
  venes-lectores/
 LOCATION:Casa del Lector (Matadero) - de la Chopera\, 14\, Madrid\, 28045
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Utopía en llamas
-DTSTART;TZID=Europe/Madrid:20260320T180000
-DTEND;TZID=Europe/Madrid:20260426T180000
-UID:a2d55cc52793d807a2dc3a7a9b1845d2fab03f29c67826917a62789076be6586
-CATEGORIES:theater
-DESCRIPTION:Texto Alda Lozano Dirección Concha Delgado y Sandra Ferrús\n
- \nhttps://dramatico.inaem.gob.es/evento/utopia-en-llamas/
-LOCATION:Teatro Maria Guerrero - Calle de Tamayo y Baus\, 4\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Feria de Artesanía de Recoletos
@@ -727,634 +782,6 @@ DESCRIPTION:Muestra que conmemora los diez años del fallecimiento del au
  z.es/actividades/exposicion-pelo-de-tormenta-homenaje-francisco-nieva
 LOCATION:Fernán Gómez Centro Cultural de la Villa - de Colón \, 4\, Mad
  rid\, 28001
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El Último Vikingo
-DTSTART;TZID=Europe/Madrid:20260410T155000
-UID:0a8e193caa2fd07c9f2b6fcc7fd9585d81583c2fe5911eeff72e611a60c9b138
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 116 min
- utos | No recomendada para menores de 16 años\n\nOriginal title: Den sids
- te viking\n\nRelease year: 2025\n\nOriginal language: DA\n\nAudio: VOSE\n\
- nhttps://www.pillalas.com/pase/1063859/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Incontrolable
-DTSTART;TZID=Europe/Madrid:20260410T155000
-UID:76e55fbe814a241919d578435b0174f771f699f2e865d45b7daed1e742cec289
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 120 min
- utos | No recomendada para menores de 12 años\n\nRelease year: 2006\n\nOr
- iginal language: FR\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/106372
- 1/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Calle Málaga
-DTSTART;TZID=Europe/Madrid:20260410T160000
-UID:e82df92fe06915ecd8ea37c4b2169517c002652ebc56011c059b81c91ffa3d70
-CATEGORIES:cinema
-DESCRIPTION:Versión Original Castellano | Duración 116 minutos | No reco
- mendada para menores de 12 años\n\nRelease year: 2025\n\nOriginal languag
- e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1063627/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Buena Hija
-DTSTART;TZID=Europe/Madrid:20260410T160000
-UID:fc7a3d5e771619a65fc7c1d912f0a89b4372259edb17a49f87f1f703d017ad8d
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 103 min
- utos | No recomendada para menores de 12 años y distintivo especialmente 
- recomendada para el fomento de la igualdad de género\n\nRelease year: 202
- 6\n\nOriginal language: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase
- /1063722/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lapönia
-DTSTART;TZID=Europe/Madrid:20260410T160000
-UID:6f1f2a02d7dbbcd018b729b4a77f40f5158dcea98456281a063403d276c26625
-CATEGORIES:cinema
-DESCRIPTION:Versión Original Castellano | Duración 89 minutos | No recom
- endada para menores de 12 años\n\nRelease year: 2026\n\nOriginal language
- : ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1063723/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Alarma en el Rhin (Watch on the Rhine\,1943)
-DTSTART;TZID=Europe/Madrid:20260410T173000
-UID:04034941169bfb7a1ae5ff5e002005364a60af27763ac1fce1f6b235e32057c0
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Viernes 10 de abril a las 17:30h (Sala 1. Lillia
- n Hellman. Ficción\, memoria y compromiso) *Aunque las entradas aparezcan
-  como agotadas en web\, pueden adquirirse en taquilla entradas para las se
- siones del día (de 17h a 20h)\n\nhttps://entradasfilmoteca.sacatuentrada.
- es/es/productos/descripcion/alarma-en-el-rhin
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La buena hija
-DTSTART;TZID=Europe/Madrid:20260410T173000
-DTEND;TZID=Europe/Madrid:20260410T191100
-UID:1a44be8dbae908400cfa5dae6821ee25c4f9b112360491feb4e38c7fcef9cda2
-CATEGORIES:cinema
-DESCRIPTION:OVIEDO - Sábado 11 de abril - 20:00 - Sesión perteneciente a
- l ciclo "No es lo que parece"\, moderado por Xabier Pérez\, cineasta\, pe
- riodista y divulgador.\n\nTras la separación de sus padres\, Carmela (Kia
- ra Arancibia) y su madre (Janet Novás) se mudan a casa de su abuela (Petr
- a Martínez). Mientras trata de adaptarse a su nueva situación\, Carmela 
- anhela pasar más tiempo en casa de su padre (Julián Villagrán)\, un art
- ista plástico a quien admira e idolatra. La sombra de este llevará a las
-  tres generaciones de mujeres de la familia a decidir el futuro que merece
- n. Adaptación al formato largometraje del corto homónimo de la propia J
- úlia de Paz.\n\nRelease year: 2026\n\nOriginal language: ES\n\nhttps://ci
- nesembajadores.es/pelicula/la-buena-hija/?ciudad=madrid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Super Mario Galaxy: La película
-DTSTART;TZID=Europe/Madrid:20260410T173000
-DTEND;TZID=Europe/Madrid:20260410T190800
-UID:41dc1fa8bf215b7f304fc8cd26a9959c3763398c778548451509de4806c89d50
-CATEGORIES:cinema
-DESCRIPTION:La película tiene lugar después de los acontecimientos de la
-  primera\, en la que dos hermanos\, Mario y Luigi\, y la princesa Peach em
- prenden una aventura hasta los confines del espacio y a través de la gala
- xia. Secuela de "Super Mario Bros: La película"\, basada en la saga "Mari
- o Galaxy".\n\nOriginal title: The Super Mario Galaxy Movie\n\nRelease year
- : 2026\n\nOriginal language: EN\n\nAudio: Doblada ES\n\nhttps://cinesembaj
- adores.es/pelicula/super-mario-galaxy-la-pelicula-doblada-al-espanol/?ciud
- ad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Grazia
-DTSTART;TZID=Europe/Madrid:20260410T173000
-DTEND;TZID=Europe/Madrid:20260410T194200
-UID:84caa4b66c514fc42f96691a0ea8302896a0d77fd87d3aa827360b8d0ecd8c4c
-CATEGORIES:cinema
-DESCRIPTION:Mariano De Santis\, presidente (ficiticio) de la República it
- aliana\, es un veterano político demócrata\, humanista y católico\, que
-  de repente comienza a dudar sobre varias importantes decisiones que debe 
- tomar\, en especial sobre si aprueba o no una ley de eutanasia\, planteán
- dose un gran dilema moral.\n\nRelease year: 2025\n\nOriginal language: IT\
- n\nAudio: VOSE\n\nhttps://cinesembajadores.es/pelicula/la-grazia-vose/?ciu
- dad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Altas capacidades
-DTSTART;TZID=Europe/Madrid:20260410T173000
-DTEND;TZID=Europe/Madrid:20260410T191100
-UID:12ddfc0a0e9f865f79ebfdf4598855150968c15b75aaeddbf9bc33eeaae9910f
-CATEGORIES:cinema
-DESCRIPTION:Alicia y Gonzalo\, una pareja de clase media\, se encuentran c
- on la oportunidad de matricular a su hijo Fer en un colegio laico de élit
- e. Para los padres supone asomar la cabeza en la clase alta\, nuevas amist
- ades\, mayores ingresos\, ventajas incontables. Dicen hacerlo por su hijo.
-  En esta maravillosa contradicción entre los miedos y los principios mora
- les\, las aspiraciones de la pareja se llevarán por delante lo que\, hast
- a entonces\, creían incuestionable.\n\nRelease year: 2026\n\nOriginal lan
- guage: ES\n\nhttps://cinesembajadores.es/pelicula/altas-capacidades/?ciuda
- d=madrid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Calle Málaga
-DTSTART;TZID=Europe/Madrid:20260410T175000
-DTEND;TZID=Europe/Madrid:20260410T194600
-UID:2b7fddcfbb5a8a3b4fc2f2caa68d2da52edf4a9f8fe9f019f1cd81914bcd857b
-CATEGORIES:cinema
-DESCRIPTION:María Ángeles (Carmen Maura) es una española de 79 años qu
- e vive sola en Tánger\, en el norte de Marruecos\, donde disfruta de su c
- iudad y de su vida diaria. Su vida da un giro cuando su hija Clara (Marta 
- Etura) llega desde Madrid para vender el apartamento en el que siempre ha 
- vivido. Decidida a quedarse en la ciudad que la vio crecer\, hará todo lo
-  posible para mantener su hogar y recuperar los objetos de toda una vida. 
- Por el camino\, redescubre\, contra todo pronóstico\, el amor y el deseo.
- \n\nRelease year: 2025\n\nOriginal language: ES\n\nhttps://cinesembajadore
- s.es/pelicula/calle-malaga/?ciudad=madrid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lapönia
-DTSTART;TZID=Europe/Madrid:20260410T175000
-UID:ded9fc8bbc1a24d5787f9a5842acb18b34b77a4d55d037e9bd866ef206a0c3b7
-CATEGORIES:cinema
-DESCRIPTION:Versión Original Castellano | Duración 89 minutos | No recom
- endada para menores de 12 años\n\nRelease year: 2026\n\nOriginal language
- : ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1063724/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Buena Hija
-DTSTART;TZID=Europe/Madrid:20260410T180000
-UID:b099f1a86f7e2579a48d9672db3479c1c4ee4137f721cdbf989009000d674494
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 103 min
- utos | No recomendada para menores de 12 años y distintivo especialmente 
- recomendada para el fomento de la igualdad de género\n\nRelease year: 202
- 6\n\nOriginal language: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase
- /1063725/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tres Adioses
-DTSTART;TZID=Europe/Madrid:20260410T180000
-UID:599b5f6b8025014a724037ffbbb472cd27efe7281643696baf220926dcd2526a
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 122 min
- utos | No recomendada para menores de 12 años\n\nOriginal title: Tre ciot
- ole\n\nRelease year: 2025\n\nOriginal language: IT\n\nAudio: VOSE\n\nhttps
- ://www.pillalas.com/pase/1063860/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Incontrolable
-DTSTART;TZID=Europe/Madrid:20260410T180500
-UID:f3d5e18093ae437c818750fa9db5814c7ccacee2137c918583d0bbd29b3219e7
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 120 min
- utos | No recomendada para menores de 12 años\n\nRelease year: 2006\n\nOr
- iginal language: FR\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/106372
- 6/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Calle Málaga
-DTSTART;TZID=Europe/Madrid:20260410T181500
-UID:1977f174abfaceee7f309fb133940c96a90b84e867bf1c55344bd2b9d54ba9ae
-CATEGORIES:cinema
-DESCRIPTION:Versión Original Castellano | Duración 116 minutos | No reco
- mendada para menores de 12 años\n\nRelease year: 2025\n\nOriginal languag
- e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1063628/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Duende y misterio del flamenco
-DTSTART;TZID=Europe/Madrid:20260410T183000
-UID:b7ef95f472b53da761954585a7e6872cdc5cd929b587fef6b3e2ff7651428741
-CATEGORIES:cinema
-DESCRIPTION:Este documental de Edgar Neville otorga al flamenco la dignida
- d perdida y trata\, de una forma pedagógica y apasionada\, las caracterí
- sticas de un arte universal. Con unas inolvidables actuaciones de Antonio 
- Ruiz\, el bailarín\, Pilar López o Bernarda de Utrera\, esta película e
- s unánimemente considerada la mejor cinta sobre flamenco de la historia\,
-  y una obra admirada en todo el mundo.\n\nRelease year: 1952\n\nOriginal l
- anguage: ES\n\nhttps://www.cinetecamadrid.com/programacion/duende-y-mister
- io-del-flamenco
-LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Corazón verde (A New Leaf\,1971)
-DTSTART;TZID=Europe/Madrid:20260410T190000
-UID:6ec550c62a0b680c9dae0141407ad177e53643571ada66ce761c22bc275d0fd8
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Viernes 10 de abril a las 19:00h (Sala 2. Kelly 
- Reichardt. Carta blanca) *Aunque las entradas aparezcan como agotadas en w
- eb\, pueden adquirirse en taquilla entradas para las sesiones del día (de
-  17h a 20h)\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/productos/des
- cripcion/corazon-verde-a-new-leaf-elaine-may-1971-
-LOCATION:Filmoteca Espanola - Cine Dore Sala 2 - Calle de Santa Isabel\, 3
- \, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tratado de invisibilidad
-DTSTART;TZID=Europe/Madrid:20260410T193000
-UID:d6dc21694d34c2daf1d8ac6b452e3d6cf83f44d326103aacb367d0b5a9786e5d
-CATEGORIES:cinema
-DESCRIPTION:Una reflexión en torno a la invisibilidad a través de las vo
- ces y experiencias de mujeres que limpian los espacios públicos en la Ciu
- dad de México\, con elementos documentales\, de ficción y foto fija. Tra
- tado de invisibilidad narra y cuestiona la precariedad laboral actual en u
- n mundo donde la subcontratación manda.\n\nRelease year: 2024\n\nOriginal
-  language: ES\n\nhttps://www.cinetecamadrid.com/programacion/tratado-de-in
- visibilidad
-LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Amarga Navidad
-DTSTART;TZID=Europe/Madrid:20260410T193000
-DTEND;TZID=Europe/Madrid:20260410T212100
-UID:c535b25f50f599d1eb457c228fa8dbdb6ca88f36fb12ed0df6c1b185f524b066
-CATEGORIES:cinema
-DESCRIPTION:Elsa es una directora de publicidad cuya madre muere durante u
- n largo puente del mes de diciembre. Encuentra refugio en el trabajo\, aun
- que es más bien una huida hacia adelante. Trabaja sin parar y\, sin darse
-  cuenta\, no se concede el tiempo necesario para guardar el duelo por la a
- usencia materna. Hasta que una crisis de pánico la obliga a detenerse e i
- mponerse un descanso. Su pareja\, Bonifacio\, es su tabla de salvación en
-  esos momentos de crisis. Elsa decide viajar a la isla de Lanzarote acompa
- ñada por su amiga Patricia\, que también necesita alejarse de Madrid\, m
- ientras que Bonifacio se queda en la ciudad. La historia de estos tres per
- sonajes\, y algunos más\, se narran paralelamente a la del guionista y di
- rector de cine Raúl Durán\, entremezclando ficción y realidad.\n\nRelea
- se year: 2026\n\nOriginal language: ES\n\nhttps://cinesembajadores.es/peli
- cula/amarga-navidad/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cine y política: La Grazia
-DTSTART;TZID=Europe/Madrid:20260410T193000
-DTEND;TZID=Europe/Madrid:20260410T214300
-UID:13e448274a6ead05dd0a842cec43048b34821ace0587cf5b3df51fa033889a76
-CATEGORIES:cinema
-DESCRIPTION:Mariano De Santis\, presidente (ficiticio) de la República it
- aliana\, es un veterano político demócrata\, humanista y católico\, que
-  de repente comienza a dudar sobre varias importantes decisiones que debe 
- tomar\, en especial sobre si aprueba o no una ley de eutanasia\, planteán
- dose un gran dilema moral.\n\nAudio: VOSE\n\nhttps://cinesembajadores.es/p
- elicula/cine-y-politica-la-grazia-vose/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Espacio Queer: Love me tender
-DTSTART;TZID=Europe/Madrid:20260410T193000
-DTEND;TZID=Europe/Madrid:20260410T214400
-UID:10a2ee792e0aa2026b4106f712998447a2999aabf19dd2da5c6423b42662698f
-CATEGORIES:cinema
-DESCRIPTION:Un final de verano\, Clémence le cuenta a su ex marido que ma
- ntiene relaciones amorosas con mujeres. Su vida da un vuelco cuando él se
-  queda con la custodia del hijo que tienen en común. Clémence deberá lu
- char para seguir siendo madre\, mujer y mujer libre.\n\nAudio: VOSE\n\nhtt
- ps://cinesembajadores.es/pelicula/espacio-queer-love-me-tender-vose/?ciuda
- d=madrid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Niebla
-DTSTART;TZID=Europe/Madrid:20260410T193000
-DTEND;TZID=Europe/Madrid:20260412T193000
-UID:f5c1c7ebb968eb8a2029978f386f4763212118ce95d6b31e1e8cb896ee68f191
-CATEGORIES:theater
-DESCRIPTION:Entradas agotadas desde 21.00€ | Tags: JOBO\n\nhttps://tiend
- a.madrid-destino.com/es/nave-10/niebla/
-LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Animal o la salida humana
-DTSTART;TZID=Europe/Madrid:20260410T193000
-UID:b8159a2e0c4b5f711239377942d04263c0d04515e018789009b7cac048d24409
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/animal-o-la-salida-h
- umana/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Valor Sentimental
-DTSTART;TZID=Europe/Madrid:20260410T195000
-UID:19765eaea68f68aa8992370157b36235dcac683e51dc7f2f588219faf2519209
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 133 min
- utos | No recomendada para menores de 12 años\n\nOriginal title: Affeksjo
- nsverdi\n\nRelease year: 2025\n\nOriginal language: NO\n\nAudio: VOSE\n\nh
- ttps://www.pillalas.com/pase/1063727/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Uyariy (Escuchar)
-DTSTART;TZID=Europe/Madrid:20260410T200000
-DTEND;TZID=Europe/Madrid:20260410T213500
-UID:f9b2ef73ca01f33ff78e9185545ce8633db222aabaa59404e82b1dc5cf7b3fef
-CATEGORIES:cinema
-DESCRIPTION:Después del estallido social en Perú y la matanza del 9 de e
- nero de 2023 en Juliaca\, artistas del ande peruano nos harán viajar con 
- su música por la región de Puno y su historia. Una historia que sucede h
- oy en muchos lugares del mundo.\n\nhttps://cinesembajadores.es/pelicula/uy
- ariy-escuchar/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Buena Hija
-DTSTART;TZID=Europe/Madrid:20260410T200000
-UID:88b7323da1ae960b4e8eb3b9fde8b38f19af953f8dde7a8e710559e2c2a6cb01
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 103 min
- utos | No recomendada para menores de 12 años y distintivo especialmente 
- recomendada para el fomento de la igualdad de género\n\nRelease year: 202
- 6\n\nOriginal language: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase
- /1063728/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Silence
-DTSTART;TZID=Europe/Madrid:20260410T200000
-DTEND;TZID=Europe/Madrid:20260412T200000
-UID:6def926b11fdc0ac637add110f9fe7ccd968b6e6ef46eca412fb639429fbcb4d
-CATEGORIES:theater
-DESCRIPTION:Texto y dirección Falk Richter\n\nhttps://dramatico.inaem.gob
- .es/evento/the-silence/
-LOCATION:Teatro Valle-Inclán - Plaza de Lavapies\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Incontrolable (I swear)
-DTSTART;TZID=Europe/Madrid:20260410T201000
-DTEND;TZID=Europe/Madrid:20260410T221000
-UID:ff545756de632ffdb0cf1361982253e85fe550b25cdb1e6890706a6b7b52897d
-CATEGORIES:cinema
-DESCRIPTION:La historia real de John Davidson. Diagnosticado con Tourette 
- a los 15 años\, señalado como loco por sus compañeros\, luchó con una 
- condición que pocos habían presenciado. Ya adulto\, hizo campaña en fav
- or del síndrome de Tourette .\n\nOriginal title: I Swear\n\nRelease year:
-  2025\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://cinesembajadores.
- es/pelicula/incontrolable-i-swear-vose/?ciudad=madrid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Calle Málaga
-DTSTART;TZID=Europe/Madrid:20260410T201000
-DTEND;TZID=Europe/Madrid:20260410T220600
-UID:1a5d9a7768041e6d2b45be3f55dc6f7925d3fcfd82de5ffa1db77807be58dbde
-CATEGORIES:cinema
-DESCRIPTION:María Ángeles (Carmen Maura) es una española de 79 años qu
- e vive sola en Tánger\, en el norte de Marruecos\, donde disfruta de su c
- iudad y de su vida diaria. Su vida da un giro cuando su hija Clara (Marta 
- Etura) llega desde Madrid para vender el apartamento en el que siempre ha 
- vivido. Decidida a quedarse en la ciudad que la vio crecer\, hará todo lo
-  posible para mantener su hogar y recuperar los objetos de toda una vida. 
- Por el camino\, redescubre\, contra todo pronóstico\, el amor y el deseo.
- \n\nRelease year: 2025\n\nOriginal language: ES\n\nhttps://cinesembajadore
- s.es/pelicula/calle-malaga/?ciudad=madrid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Incontrolable
-DTSTART;TZID=Europe/Madrid:20260410T202000
-UID:52b9a15e5865adeed008ea0832959bb2a5c66de251da1b9d8a162ff85f4b260d
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 120 min
- utos | No recomendada para menores de 12 años\n\nRelease year: 2006\n\nOr
- iginal language: FR\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/106372
- 9/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tres Adioses
-DTSTART;TZID=Europe/Madrid:20260410T202000
-UID:153a1bf28d344d0ee42c42375f2b18b72e8f07f206cb64235e6beb70da739a5e
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 122 min
- utos | No recomendada para menores de 12 años\n\nOriginal title: Tre ciot
- ole\n\nRelease year: 2025\n\nOriginal language: IT\n\nAudio: VOSE\n\nhttps
- ://www.pillalas.com/pase/1063861/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Prophecy: The Madame Blavatsky Legend
-DTSTART;TZID=Europe/Madrid:20260410T203000
-UID:41172d3fe87b02201e30e86b8df216560a67998e14c3bb6d41c686633dbd31ec
-CATEGORIES:cinema
-DESCRIPTION:Helena P. Blavatsky afronta un juicio interpuesto por la Socie
- dad de Estudios Psíquicos londinense en el que se enfrenta al investigado
- r Robert Hodgson\, experto en asuntos esotéricos. A lo largo del juico se
-  desvela la vida de esta misteriosa mujer como personaje histórico envuel
- to en leyenda y controversia\, así como el origen y las actividades de la
-  Theosophical Society\, con sede en la India\, creada por ella en 1875. Un
-  viaje alrededor de uno de los personajes más intrigantes del mundo esot
- érico del s.XIX.\n\nAudio: VOSE\n\nhttps://www.cinetecamadrid.com/program
- acion/prophecy-madame-blavatsky-legend
-LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Calle Málaga
-DTSTART;TZID=Europe/Madrid:20260410T203500
-UID:ace03d6fd967e17802f14285bb222c7233918c185467743f51d26f292bfae4d7
-CATEGORIES:cinema
-DESCRIPTION:Versión Original Castellano | Duración 116 minutos | No reco
- mendada para menores de 12 años\n\nRelease year: 2025\n\nOriginal languag
- e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1063629/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Certain Women (2016)
-DTSTART;TZID=Europe/Madrid:20260410T210000
-UID:32d24214d3fee0cff7681d7ec4cd79c4cf32bfbb4ae13bff9093ad2b06ea383e
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Viernes 10 de abril a las 21:00h (Sala 1. Kelly 
- Reichardt. Retrospectiva) *Aunque las entradas aparezcan como agotadas en 
- web\, pueden adquirirse en taquilla entradas para las sesiones del día (d
- e 17h a 20h)\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/productos/de
- scripcion/certain-women-kelly-reichardt-2016-
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Muck And The Mires (EEUU) + The Moldy Tapes
-DTSTART;TZID=Europe/Madrid:20260410T213000
-UID:a4dc203d813aac58b6c731ae86dd8f713a13ab8082918f328aedbfe090282025
-CATEGORIES:music
-DESCRIPTION:Precio de las entradas: 12€/15€ Entradas a la venta en mov
- ingtickets Bio/enlaces bandas: MUCK AND THE MIRES (EEUU) Muck and the Mire
- s_facebook + Muck and the Mires_youtube + Muck\n\nhttps://gruta77.com/even
- ts/muck-and-the-mires-eeuu/var/ri-0.l-L2
-LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Grazia
-DTSTART;TZID=Europe/Madrid:20260410T214000
-DTEND;TZID=Europe/Madrid:20260410T235200
-UID:2c36ae702b09466e133d7b14af472024a79b03717642487c9defa52e44561c55
-CATEGORIES:cinema
-DESCRIPTION:Mariano De Santis\, presidente (ficiticio) de la República it
- aliana\, es un veterano político demócrata\, humanista y católico\, que
-  de repente comienza a dudar sobre varias importantes decisiones que debe 
- tomar\, en especial sobre si aprueba o no una ley de eutanasia\, planteán
- dose un gran dilema moral.\n\nRelease year: 2025\n\nOriginal language: IT\
- n\nAudio: VOSE\n\nhttps://cinesembajadores.es/pelicula/la-grazia-vose/?ciu
- dad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Buena Hija
-DTSTART;TZID=Europe/Madrid:20260410T220000
-UID:107390e746a52a50618af4bd1f1bda745ba7f8eb17e5f8ec0ffc38eb9c5ad8f2
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 103 min
- utos | No recomendada para menores de 12 años y distintivo especialmente 
- recomendada para el fomento de la igualdad de género\n\nRelease year: 202
- 6\n\nOriginal language: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase
- /1063730/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Noche de fiesta - CANTI VAGANTI
-DTSTART;TZID=Europe/Madrid:20260410T220000
-UID:9582b6ef60f9f621eed4a362e17b1ace198613b61cca8d7487dbb44bc725adc7
-CATEGORIES:theater
-DESCRIPTION:Programación en Teatro del Barrio\n\nhttps://teatrodelbarrio.
- com/noche-de-fiesta-canti-vaganti/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tres Adioses
-DTSTART;TZID=Europe/Madrid:20260410T222000
-UID:9b153834f4e3538dd13de9a97f1bbf28149a63b16a77c0159b34a5c3a6ea142d
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 122 min
- utos | No recomendada para menores de 12 años\n\nOriginal title: Tre ciot
- ole\n\nRelease year: 2025\n\nOriginal language: IT\n\nAudio: VOSE\n\nhttps
- ://www.pillalas.com/pase/1063798/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Incontrolable (I swear)
-DTSTART;TZID=Europe/Madrid:20260410T223000
-DTEND;TZID=Europe/Madrid:20260411T003000
-UID:bfc6d07f5cc4f880e3e4a1a19b11112eb36eeb71289f398c48785477549dbf49
-CATEGORIES:cinema
-DESCRIPTION:La historia real de John Davidson. Diagnosticado con Tourette 
- a los 15 años\, señalado como loco por sus compañeros\, luchó con una 
- condición que pocos habían presenciado. Ya adulto\, hizo campaña en fav
- or del síndrome de Tourette .\n\nOriginal title: I Swear\n\nRelease year:
-  2025\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://cinesembajadores.
- es/pelicula/incontrolable-i-swear-vose/?ciudad=madrid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La buena hija
-DTSTART;TZID=Europe/Madrid:20260410T223000
-DTEND;TZID=Europe/Madrid:20260411T001100
-UID:89617b3ea032144017a4836d8851b78e84ec23b3c2952b9bc823b14d0a8553e4
-CATEGORIES:cinema
-DESCRIPTION:OVIEDO - Sábado 11 de abril - 20:00 - Sesión perteneciente a
- l ciclo "No es lo que parece"\, moderado por Xabier Pérez\, cineasta\, pe
- riodista y divulgador.\n\nTras la separación de sus padres\, Carmela (Kia
- ra Arancibia) y su madre (Janet Novás) se mudan a casa de su abuela (Petr
- a Martínez). Mientras trata de adaptarse a su nueva situación\, Carmela 
- anhela pasar más tiempo en casa de su padre (Julián Villagrán)\, un art
- ista plástico a quien admira e idolatra. La sombra de este llevará a las
-  tres generaciones de mujeres de la familia a decidir el futuro que merece
- n. Adaptación al formato largometraje del corto homónimo de la propia J
- úlia de Paz.\n\nRelease year: 2026\n\nOriginal language: ES\n\nhttps://ci
- nesembajadores.es/pelicula/la-buena-hija/?ciudad=madrid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hamnet
-DTSTART;TZID=Europe/Madrid:20260410T223000
-DTEND;TZID=Europe/Madrid:20260411T003500
-UID:e5d99623ac62d38467b8a1721a210b0ab8f2e31db8d785405dcec45e427d6d00
-CATEGORIES:cinema
-DESCRIPTION:Narra la historia de Agnes\, la esposa de William Shakespeare\
- , en su lucha por superar la pérdida de su único hijo\, Hamnet. Una hist
- oria humana y desgarradora como telón de fondo para la creación de la ob
- ra de Shakespeare\, Hamlet.\n\nRelease year: 2025\n\nOriginal language: EN
- \n\nAudio: VOSE\n\nhttps://cinesembajadores.es/pelicula/hamnet-vose/?ciuda
- d=madrid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tres adioses
-DTSTART;TZID=Europe/Madrid:20260410T223000
-DTEND;TZID=Europe/Madrid:20260411T003000
-UID:8c6852174686421c9c9829b3c342ee385636d64cbe17fa79d26077287c6c80a1
-CATEGORIES:cinema
-DESCRIPTION:Tras lo que parecía una discusión sin importancia\, Marta (A
- lba Rohrwacher) y Antonio (Elio Germano) se separan. Él\, un chef promete
- dor\, se refugia en sus fogones\; ella\, en su silencio\, empieza a notar 
- algo más que tristeza: ha perdido el apetito… y no solo por desamor. Cu
- ando descubre que detrás hay un problema de salud\, todo da un giro inesp
- erado: la comida sabe mejor\, la música le llega como nunca y el deseo de
- spierta sus ganas de vivir sin miedo.\n\nOriginal title: Tre ciotole\n\nRe
- lease year: 2025\n\nOriginal language: IT\n\nAudio: VOSE\n\nhttps://cinese
- mbajadores.es/pelicula/tres-adioses-vose/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Amarga Navidad
-DTSTART;TZID=Europe/Madrid:20260410T223500
-DTEND;TZID=Europe/Madrid:20260411T002600
-UID:24efc6e6c63723fd1f949fa699db2a4d84f67bd19d86d6ef05c0ab3cd350111e
-CATEGORIES:cinema
-DESCRIPTION:Elsa es una directora de publicidad cuya madre muere durante u
- n largo puente del mes de diciembre. Encuentra refugio en el trabajo\, aun
- que es más bien una huida hacia adelante. Trabaja sin parar y\, sin darse
-  cuenta\, no se concede el tiempo necesario para guardar el duelo por la a
- usencia materna. Hasta que una crisis de pánico la obliga a detenerse e i
- mponerse un descanso. Su pareja\, Bonifacio\, es su tabla de salvación en
-  esos momentos de crisis. Elsa decide viajar a la isla de Lanzarote acompa
- ñada por su amiga Patricia\, que también necesita alejarse de Madrid\, m
- ientras que Bonifacio se queda en la ciudad. La historia de estos tres per
- sonajes\, y algunos más\, se narran paralelamente a la del guionista y di
- rector de cine Raúl Durán\, entremezclando ficción y realidad.\n\nRelea
- se year: 2026\n\nOriginal language: ES\n\nhttps://cinesembajadores.es/peli
- cula/amarga-navidad/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Incontrolable
-DTSTART;TZID=Europe/Madrid:20260410T223500
-UID:b5f71a4a021de34a4a021d1fcff1b8f223bdf9a37ffef18bd198872d1355c154
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 120 min
- utos | No recomendada para menores de 12 años\n\nRelease year: 2006\n\nOr
- iginal language: FR\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/106373
- 1/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El Último Vikingo
-DTSTART;TZID=Europe/Madrid:20260410T224000
-UID:2592eb38d547215d2ad6a3499e43c18af115e37a4ed726c3ad89bf27e6a6fe1d
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 116 min
- utos | No recomendada para menores de 16 años\n\nOriginal title: Den sids
- te viking\n\nRelease year: 2025\n\nOriginal language: DA\n\nAudio: VOSE\n\
- nhttps://www.pillalas.com/pase/1063862/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Calle Málaga
-DTSTART;TZID=Europe/Madrid:20260410T224500
-UID:c7f1802394b6cc6adc11116f3d53f87130f18dc1d719b55ca4f138bf314f1150
-CATEGORIES:cinema
-DESCRIPTION:Versión Original Castellano | Duración 116 minutos | No reco
- mendada para menores de 12 años\n\nRelease year: 2025\n\nOriginal languag
- e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1063630/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mercado de Motores Madrid · 11 y  12 de Abril · Entrada GRATIS
@@ -1896,6 +1323,16 @@ LOCATION:Filmoteca Espanola - Cine Dore Sala 2 - Calle de Santa Isabel\, 3
  \, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Niebla
+DTSTART;TZID=Europe/Madrid:20260411T193000
+DTEND;TZID=Europe/Madrid:20260412T193000
+UID:f5c1c7ebb968eb8a2029978f386f4763212118ce95d6b31e1e8cb896ee68f191
+CATEGORIES:theater
+DESCRIPTION:Entradas agotadas desde 21.00€\n\nhttps://tienda.madrid-dest
+ ino.com/es/nave-10/niebla/
+LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Animal o la salida humana
 DTSTART;TZID=Europe/Madrid:20260411T193000
 UID:2d70b27ddea6017bcedb491068b0a50d663d4778f36ca3bd4b3199f53421fa4f
@@ -2038,6 +1475,25 @@ DESCRIPTION:Helena P. Blavatsky afronta un juicio interpuesto por la Socie
  érico del s.XIX.\n\nAudio: VOSE\n\nhttps://www.cinetecamadrid.com/program
  acion/prophecy-madame-blavatsky-legend
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LINZE\, presentacion de disco + SELVAJES
+DTSTART;TZID=Europe/Madrid:20260411T203000
+UID:649371286e6cb4825c8c8362aec5937e166a6fe28ec87e21148b256b111f71a0
+CATEGORIES:music
+DESCRIPTION:Concierto / Rock\n\nhttps://salavillanos.es/evento/linze-prese
+ ntacion-de-disco-selvajes/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rufus T. Firefly
+DTSTART;TZID=Europe/Madrid:20260411T203000
+UID:e85ff01150f9a2411b6967abed15ddfb2b3daa39a468ab9787306d32b51d85f4
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://www.entradas.com/event/r
+ ufus-t-firefly-gira-2025-sala-la-riviera-20644716/?Affiliate=RIV
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Super Mario Galaxy: La película
@@ -2247,6 +1703,14 @@ DESCRIPTION:Versión Original Castellano | Duración 116 minutos | No reco
  mendada para menores de 12 años\n\nRelease year: 2025\n\nOriginal languag
  e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1063634/
 LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Electrónica en el Club
+DTSTART;TZID=Europe/Madrid:20260411T235900
+UID:d809fa47517841813fa9faa0951bd09ab9929c1a57d90c0e2842f46f9e8d11d4
+CATEGORIES:other
+DESCRIPTION:Club\n\nhttps://salavillanos.es/evento/electronica-en-el-club/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Crea tu Kokedama japonés el  12 de abril en Mercado de Motores
@@ -2861,6 +2325,25 @@ DESCRIPTION:Versión Original Castellano | Duración 116 minutos | No reco
  mendada para menores de 12 años\n\nRelease year: 2025\n\nOriginal languag
  e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1063637/
 LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Matt Maltese
+DTSTART;TZID=Europe/Madrid:20260412T210000
+UID:cbe3d021ee618b8dc72ac64ba4352e2802cbc2eec6071bf1834a7f7e4733a228
+CATEGORIES:music
+DESCRIPTION:Concierto / Pop\n\nhttps://salavillanos.es/evento/matt-maltese
+ /
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mafalda Cardenal
+DTSTART;TZID=Europe/Madrid:20260412T210000
+UID:fae848a53801ba44e3daa228064a7068cad7186762198057c5bd0f5bd4fcf840
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://tickets.intromusica.com/
+ mafaldacardenal/es/comprarEvento?idEvento=15018
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:La Buena Hija
@@ -3579,23 +3062,6 @@ DESCRIPTION:Versión Original Castellano | Duración 89 minutos | No recom
 LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Altas capacidades
-DTSTART;TZID=Europe/Madrid:20260414T180000
-DTEND;TZID=Europe/Madrid:20260414T194100
-UID:a5e476c54cf0eb1652b6e627ca1358b4b1be2ebc0992d5230514a65e8092c709
-CATEGORIES:cinema
-DESCRIPTION:Alicia y Gonzalo\, una pareja de clase media\, se encuentran c
- on la oportunidad de matricular a su hijo Fer en un colegio laico de élit
- e. Para los padres supone asomar la cabeza en la clase alta\, nuevas amist
- ades\, mayores ingresos\, ventajas incontables. Dicen hacerlo por su hijo.
-  En esta maravillosa contradicción entre los miedos y los principios mora
- les\, las aspiraciones de la pareja se llevarán por delante lo que\, hast
- a entonces\, creían incuestionable.\n\nRelease year: 2026\n\nOriginal lan
- guage: ES\n\nhttps://cinesembajadores.es/pelicula/altas-capacidades/?ciuda
- d=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Calle Málaga
 DTSTART;TZID=Europe/Madrid:20260414T180000
 DTEND;TZID=Europe/Madrid:20260414T195600
@@ -3611,6 +3077,23 @@ DESCRIPTION:María Ángeles (Carmen Maura) es una española de 79 años qu
  \n\nRelease year: 2025\n\nOriginal language: ES\n\nhttps://cinesembajadore
  s.es/pelicula/calle-malaga/?ciudad=madrid
 LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Altas capacidades
+DTSTART;TZID=Europe/Madrid:20260414T180000
+DTEND;TZID=Europe/Madrid:20260414T194100
+UID:a5e476c54cf0eb1652b6e627ca1358b4b1be2ebc0992d5230514a65e8092c709
+CATEGORIES:cinema
+DESCRIPTION:Alicia y Gonzalo\, una pareja de clase media\, se encuentran c
+ on la oportunidad de matricular a su hijo Fer en un colegio laico de élit
+ e. Para los padres supone asomar la cabeza en la clase alta\, nuevas amist
+ ades\, mayores ingresos\, ventajas incontables. Dicen hacerlo por su hijo.
+  En esta maravillosa contradicción entre los miedos y los principios mora
+ les\, las aspiraciones de la pareja se llevarán por delante lo que\, hast
+ a entonces\, creían incuestionable.\n\nRelease year: 2026\n\nOriginal lan
+ guage: ES\n\nhttps://cinesembajadores.es/pelicula/altas-capacidades/?ciuda
+ d=madrid
+LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:La Buena Hija
@@ -3911,6 +3394,14 @@ DESCRIPTION:OVIEDO - Sábado 11 de abril - 20:00 - Sesión perteneciente a
  úlia de Paz.\n\nRelease year: 2026\n\nOriginal language: ES\n\nhttps://ci
  nesembajadores.es/pelicula/la-buena-hija/?ciudad=madrid
 LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadletter
+DTSTART;TZID=Europe/Madrid:20260414T203000
+UID:e91e60eff8df819914402503efb4e4c9a3283a3506d924243e0c42c6b77e6229
+CATEGORIES:music
+DESCRIPTION:Concierto / Rock\n\nhttps://salavillanos.es/evento/deadletter/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Calle Málaga
@@ -4545,6 +4036,16 @@ DESCRIPTION:Versión Original Castellano | Duración 116 minutos | No reco
 LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Tarchi
+DTSTART;TZID=Europe/Madrid:20260415T210000
+UID:bd78b2dc9529997c5e9a0f02616057010d53b348bede5d200a83df739389d50b
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://dice.fm/event/2weyb6-tar
+ chi-15th-apr-la-riviera-madrid-tickets
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:La Buena Hija
 DTSTART;TZID=Europe/Madrid:20260415T220000
 UID:a1834f74b59ab522605ca64109ddd0a9459a0135d648d9a12c9bc28e50c721e0
@@ -4561,7 +4062,7 @@ SUMMARY:Jajás en el Barrio
 DTSTART;TZID=Europe/Madrid:20260415T220000
 UID:f8040c056577192cbc5f5b68a9c07221ee9b9e4a4a820cd18a485841aa72bbb0
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 8 plazas!\n\nhttps://teatrodelbarrio.com/jaja
+DESCRIPTION:¡Ya solo quedan 6 plazas!\n\nhttps://teatrodelbarrio.com/jaja
  s-en-el-barrio/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
@@ -5156,6 +4657,15 @@ LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
  \, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Pajaro Sunrise
+DTSTART;TZID=Europe/Madrid:20260416T203000
+UID:d247fe1f3b89375789c71ea865f160a98939932b1058696cf7d3d75b4c3e76d2
+CATEGORIES:music
+DESCRIPTION:Concierto / Electronic / Pop\n\nhttps://salavillanos.es/evento
+ /pajaro-sunrise/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Calle Málaga
 DTSTART;TZID=Europe/Madrid:20260416T203500
 UID:1935a00878cc87fcb53310c222cd3e44fd279f67f7d786e6db8f2eecb99e9233
@@ -5489,6 +4999,15 @@ DESCRIPTION:Blaï (43) y Camille (43)\, que forman una pareja artística y
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Aries
+DTSTART;TZID=Europe/Madrid:20260417T203000
+UID:e9b9bc6256b283886e4d2656cf34aeb86c799725a1d9d3670b4e5847236ee9f7
+CATEGORIES:music
+DESCRIPTION:Concierto / Hip Hop & Rap / Pop / Rock\n\nhttps://salavillanos
+ .es/evento/aries/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Night Moves (2013)
 DTSTART;TZID=Europe/Madrid:20260417T210000
 UID:cfeb755685d694db463d19f0c077d16b64620879b50e468e5eae2d164f7b4242
@@ -5500,6 +5019,16 @@ DESCRIPTION:Fecha y Hora: Viernes 17 de abril a las 21:00h (Sala 1. Kelly
  scripcion/night-moves-kelly-reichardt-2013-
 LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
  \, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arco
+DTSTART;TZID=Europe/Madrid:20260417T210000
+UID:266ba34fd97375689ee9fe10eac4d5787c1b34add845f824ddbfcca6d0ff5c9b
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://www.entradas.com/artist/
+ arco/?affiliate=RIV
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Rezillos (Reino Unido) + Los Bannanos
@@ -5521,6 +5050,15 @@ CATEGORIES:theater
 DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/gordas-lisiadas-y-ma
  marrachas/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Floyd Lavine & Kiko Navarro + Acid Hero
+DTSTART;TZID=Europe/Madrid:20260417T235900
+UID:27394dfa77eec3747f3e5675120b763bb21a168a0ac18c55bebb62ada92f3847
+CATEGORIES:other
+DESCRIPTION:Club\n\nhttps://salavillanos.es/evento/floyd-lavine-kiko-navar
+ ro-acid-hero/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Clásicos al detalle: Sorpresa
@@ -5552,6 +5090,26 @@ CATEGORIES:theater
 DESCRIPTION:¡Ya solo quedan 6 plazas!\n\nhttps://teatrodelbarrio.com/infa
  ntil-piccolino/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mi querida señorita
+DTSTART;TZID=Europe/Madrid:20260418T120000
+DTEND;TZID=Europe/Madrid:20260418T135200
+UID:b687689ef02adda5d1e2216162b30dc4cb2e06595a7cdbea0654939b0999ccd3
+CATEGORIES:cinema
+DESCRIPTION:Adela\, solitaria hija única de una familia conservadora\, pa
+ sa sus días entre la tienda de antigüedades familiar y las clases de cat
+ equesis que imparte\, marcada por la protección de su madre y el silencio
+  sobre su intersexualidad\, que desconoce pero condiciona su vida. Una ine
+ sperada y hermosa amistad con un sacerdote recién llegado\, el regreso de
+  un gran amigo de su infancia y la irrupción de una mujer\, Isabel\, prov
+ ocan una reacción en cadena que lleva a Adela a un viaje en busca de sí 
+ misma\, de Pamplona a Madrid\, donde la identidad necesitará del amor y l
+ a ayuda de los demás para revelarse... Adaptación libre de la película 
+ homónima de 1972 que estuvo nominada al Oscar a Mejor película extranjer
+ a.\n\nRelease year: 2026\n\nOriginal language: ES\n\nhttps://cinesembajado
+ res.es/pelicula/mi-querida-senorita/?ciudad=madrid
+LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Embajadores del Arte: Velázquez\, el poder y el arte
@@ -5688,6 +5246,16 @@ DESCRIPTION:Reed (Christopher Abbott) tiene un plan: hacer check-in en un
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Koma
+DTSTART;TZID=Europe/Madrid:20260418T203000
+UID:e0512437d5fc7916002a6cf667f2f9cc99dc46a0c4eb9642096a3b26f5826dd2
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://www.musikaze.net/web/?me
+ nu=138&pagina=entradas&item=56336&siteID=koma1
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Walkabout (1971)
 DTSTART;TZID=Europe/Madrid:20260418T210000
 UID:79325aedf1304b2389177e3749e4dec7c39144ccbe78c6ae6c296e35434aad0c
@@ -5713,6 +5281,15 @@ DESCRIPTION:Precio de las entradas: 18€/21€ Entradas a la venta en fev
 LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:El Barullo presenta Gitania
+DTSTART;TZID=Europe/Madrid:20260418T220000
+UID:541f0fe998502a1277e5ad52c2925fefeb824839edebb83dbd28122a602078af
+CATEGORIES:music
+DESCRIPTION:Concierto / Flamenco\n\nhttps://salavillanos.es/evento/el-baru
+ llo-presenta-gitania-con-israel-fernandez-y-el-maestro-duquende/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Un verano por metro cuadrado
 DTSTART;TZID=Europe/Madrid:20260418T221500
 UID:ec347e83455e13b7091306afa2285ecc1b7e924a486bf885bb04d26f0668544a
@@ -5733,6 +5310,26 @@ DESCRIPTION:Después del estallido social en Perú y la matanza del 9 de e
  oy en muchos lugares del mundo.\n\nhttps://cinesembajadores.es/pelicula/uy
  ariy-escuchar/?ciudad=madrid
 LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mazo Club #14
+DTSTART;TZID=Europe/Madrid:20260418T235900
+UID:ffe15c76516ba5bf57a902d0228402aa092f6ed3deaae4f7e1e7aa3f63d6b31e
+CATEGORIES:other
+DESCRIPTION:Club\n\nhttps://salavillanos.es/evento/mazo-club-14/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mercado Productores Planetario
+DTSTART;TZID=Europe/Madrid:20260419T100000
+DTEND;TZID=Europe/Madrid:20260419T160000
+UID:97df62ce46cfe5e79bf658bdb10d756374fa1323b6765a142eb3ae92a1b0102e
+CATEGORIES:market
+DESCRIPTION:Mercado de productores locales y artesanos en Planetario con a
+ limentacion sostenible\, productos de cercania y actividades al aire libre
+ .\n\nhttps://mercadoproductores.es/mp-planetario/
+LOCATION:Mercado Productores Planetario - Avenida del Planetario esquina C
+ alle Meneses\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sonrisas y lágrimas
@@ -5784,6 +5381,15 @@ DESCRIPTION:Henry Hill\, hijo de padre irlandés y madre siciliana\, vive
  n\nAudio: VOSE\n\nhttps://cinesembajadores.es/pelicula/domingo-de-clasicos
  -uno-de-los-nuestros-vose/?ciudad=madrid
 LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Swing Party – Leganés Big Band feat. Noa Lur
+DTSTART;TZID=Europe/Madrid:20260419T130000
+UID:9ef76dcb60ffa39105d5592df8420ad711b19f44ea801c867f2c2910f2b5ff69
+CATEGORIES:music
+DESCRIPTION:Concierto / Jazz\n\nhttps://salavillanos.es/evento/swing-party
+ -leganes-big-band-feat-noa-lur/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yo deseo (recital electrónico de inconfesiones femeninas)
@@ -5874,12 +5480,33 @@ DESCRIPTION:Después del estallido social en Perú y la matanza del 9 de e
 LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Hens
+DTSTART;TZID=Europe/Madrid:20260419T203000
+UID:ed6573981c4b13699d22a5446efd77d4dc546da9b45ea173e230109f22b4a03e
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://feverup.com/m/455982?utm
+ _source=affiliate&utm_medium=impact&utm_campaign=&utm_content=3875474_conc
+ iertos.club&irclickid=Qy5Vd%3Ax5vxyKTiiV3oTsV0bTUkpRWVQREx8ZRo0&irgwc=1&af
+ src=1
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Isa & Javi
 DTSTART;TZID=Europe/Madrid:20260419T203000
 UID:a3119fde26a6f2a6156c3e503f9a5ee87e401cbd0be5c1963db15a671e36b8b4
 CATEGORIES:theater
 DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/isa-y-javi/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dialektik: The Necks
+DTSTART;TZID=Europe/Madrid:20260420T203000
+UID:45acd19fbe8af9f15e506661ba3ddc1a7d90d76854174ae3fe533799b9202028
+CATEGORIES:music
+DESCRIPTION:Concierto / Villanos del Jazz\n\nhttps://salavillanos.es/event
+ o/the-necks/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vitrina CERO. ¿Verdadero o falso? La ficción de la autenticidad 
@@ -6026,6 +5653,14 @@ LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
  \, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Luis Fercán
+DTSTART;TZID=Europe/Madrid:20260421T203000
+UID:4cf039f772026c15edf6ca02e8d8cf37d7013ad9c8c111a293518a51106af04e
+CATEGORIES:music
+DESCRIPTION:Concierto / Pop\n\nhttps://salavillanos.es/evento/luis-fercan/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Calle sin salida (Dead End\, 1937) + Tierra de España (Spanish Ea
  rth\, 1937)
 DTSTART;TZID=Europe/Madrid:20260422T173000
@@ -6107,6 +5742,16 @@ DESCRIPTION:Cuando una corporación intenta encubrir el incendio en el que
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Los Auténticos Decadentes
+DTSTART;TZID=Europe/Madrid:20260422T200000
+UID:880310e0841d952d05150795fb2225b0300ed83b2268d4c121229daad218845d
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:00 pm\n\nhttps://conciertosya.com/Los-Aut
+ enticos-Decadentes-en-Madrid/
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pedro\, el negro (Cerný Petr\,1964)
 DTSTART;TZID=Europe/Madrid:20260422T203000
 UID:e7711a20412ee5139ff1836135c6a6606236e8272c1d476244d9305ae23e07e4
@@ -6118,6 +5763,15 @@ DESCRIPTION:Fecha y Hora: Miércoles 22 de abril a las 20:30h (Sala 1. Kel
  descripcion/pedro-el-negro-segunda-proyeccion-
 LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
  \, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Luis Fercán
+DTSTART;TZID=Europe/Madrid:20260422T203000
+UID:fa7b60520b08c6a0791dce013609ae352a751e8155d3ce481c5880a04320cc31
+CATEGORIES:music
+DESCRIPTION:Concierto / Pop\n\nhttps://salavillanos.es/evento/luis-fercan-
+ 2/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Jimmy Dale Surf Trio (EEUU) + Ataquen Ahora!
@@ -6242,6 +5896,15 @@ LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
  \, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:J. Teixi Band + Bo Dereks
+DTSTART;TZID=Europe/Madrid:20260423T203000
+UID:3f80646eb9aac3793aa68b4322c7864ddabf4dff7a1ae869bdffd02fee89f4c3
+CATEGORIES:music
+DESCRIPTION:Concierto / Rock\n\nhttps://salavillanos.es/evento/j-teixi-ban
+ d-bo-dereks/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:J. Teixi Band + The Bo DEREK´S\; IV Rhythm & Blues Soul Festival 
  - Sala Villanos -
 DTSTART;TZID=Europe/Madrid:20260423T203000
@@ -6271,6 +5934,15 @@ DESCRIPTION:Todo el mundo le ha dicho que no lo haga\, pero Eduardo Casano
   year: 2026\n\nOriginal language: ES\n\nhttps://cinesembajadores.es/pelicu
  la/sidosa/?ciudad=madrid
 LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nacho Vegas
+DTSTART;TZID=Europe/Madrid:20260423T210000
+UID:7c7ac60db8e0d54afbd2d3738bc12ea57cb77fa6997ceaa71532d78acab3294c
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://feverup.com/m/455942
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fat City\, ciudad dorada (Fat City\,1972)
@@ -6357,17 +6029,6 @@ LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
  \, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LEXIKON
-DTSTART;TZID=Europe/Madrid:20260424T200000
-DTEND;TZID=Europe/Madrid:20260524T200000
-UID:96160284aff37b4e21894727d9155171ad4259d5a269d255980f52baed4c10fd
-CATEGORIES:theater
-DESCRIPTION:Una creación de El Conde de Torrefiel Texto y dirección Tany
- a Beyeler y Pablo Gisbert\n\nhttps://dramatico.inaem.gob.es/evento/lexikon
- /
-LOCATION:Teatro Maria Guerrero - Calle de Tamayo y Baus\, 4\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Quién vio los templos caer
 DTSTART;TZID=Europe/Madrid:20260424T203000
 UID:046aac41906c466c651658d68015f66c08879bfc435f9037b09f3d4c1af5a9e3
@@ -6381,6 +6042,25 @@ DESCRIPTION:Desde hace dos siglos\, Chorrojumo deambula en silencio por la
  dad en transformación.\n\nRelease year: 2025\n\nOriginal language: ES\n\n
  https://www.cinetecamadrid.com/programacion/quien-vio-los-templos-caer
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Natalia Doco
+DTSTART;TZID=Europe/Madrid:20260424T210000
+UID:18ca1fc376ef98f10ff9fc7c974992580df922dfbd83c6d40efb9f0e2e771b3c
+CATEGORIES:music
+DESCRIPTION:Concierto / Latin / Pop / Urban / World Music & Folk\n\nhttps:
+ //salavillanos.es/evento/natalia-doco/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Linaje
+DTSTART;TZID=Europe/Madrid:20260424T210000
+UID:26e4b7d6e4fb1a1c794ed36d59ac9e7b40c182e1d895aa04cb0bda269ec20ba7
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://www.entradas.com/artist/
+ linaje/?Affiliate=RIV
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tregua + Fantoches
@@ -6402,6 +6082,14 @@ CATEGORIES:theater
 DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/preso-en-la-esperanz
  a-trapped-in-hope/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nickodemus + Nacho Marco
+DTSTART;TZID=Europe/Madrid:20260424T235900
+UID:c6133dbb4e7394ef63435b858f52e5569b36c9457c280efc54e4ab9da1388410
+CATEGORIES:other
+DESCRIPTION:Club\n\nhttps://salavillanos.es/evento/nickodemus-nacho-marco/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Embajadores del Arte: Murillo\, el último viaje
@@ -6538,6 +6226,25 @@ LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
  \, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:IBEROEXPERIA Sessions presenta a La Muchacha (Colombia)
+DTSTART;TZID=Europe/Madrid:20260425T203000
+UID:0992ff2bb58368380e9c5542da223d4ec284ad0606f5b30b0e7ffbd14fd2e152
+CATEGORIES:music
+DESCRIPTION:Concierto / Latin / Urban\n\nhttps://salavillanos.es/evento/ib
+ eroexperia-sessions-presenta-a-la-muchacha-colombia/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Iseo & Dodosound
+DTSTART;TZID=Europe/Madrid:20260425T210000
+UID:fb494f3a71f8213ecd8ce0145d8f25d1e2c0876d31bdf1f032b8af69b1a371a9
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://www.iseododosound.com/pa
+ ges/25-04-madrid
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Subterranean + Anti Idols + Maldita
 DTSTART;TZID=Europe/Madrid:20260425T213000
 UID:6382ea5cbbbef2856c68635fc9a1a1ba63a5ae7e6bdeffcca94cb9d338ed3a6f
@@ -6556,6 +6263,15 @@ UID:a65b9514565fcaebfefda3e383d79973a389a3f74f0016ce816ccdc7d605f113
 CATEGORIES:theater
 DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/la-rabia-es-nuestra/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Libros Mutantes Afterparty
+DTSTART;TZID=Europe/Madrid:20260425T235900
+UID:4f2a82ae931371e38ffd856dc978372687b0652314a73f8261886081cc280f11
+CATEGORIES:other
+DESCRIPTION:Club\n\nhttps://salavillanos.es/evento/libros-mutantes-afterpa
+ rty/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:El gobierno de los niños II
@@ -6593,6 +6309,15 @@ DESCRIPTION:Joel (Jim Carrey) recibe un terrible golpe cuando descubre que
  cinesembajadores.es/pelicula/domingo-de-clasicos-olvidate-de-mi-vose/?ciud
  ad=madrid
 LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VILLAMOLINOS matinés musicales
+DTSTART;TZID=Europe/Madrid:20260426T130000
+UID:7c2ba232a132f90185bd4a33ed310bd1d04c2afbb3526a8213fde5f9f085f153
+CATEGORIES:music
+DESCRIPTION:Concierto / Jazz\n\nhttps://salavillanos.es/evento/villamolino
+ s-matines-musicales-7/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:La diatriba del perro
@@ -6686,6 +6411,16 @@ LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
  \, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Saxon
+DTSTART;TZID=Europe/Madrid:20260426T200000
+UID:fb1cd7e1ae1b37f4db06cd0704160190ee5e8196b79b1d34d43925431dbdead5
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:00 pm\n\nhttps://www.madnesslive.es/es/co
+ nciertos-en-madrid/1679-comprar-entrada-saxon-madrid.html
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bajo tu piel
 DTSTART;TZID=Europe/Madrid:20260426T203000
 UID:d9ac3de8bb3e997d555df1a1437b736e718d9e7aafcb66614117b17b949a38db
@@ -6734,6 +6469,25 @@ DESCRIPTION:Gilda padece cáncer de médula espinal. Tras varios suicidios
  nAudio: VOSE\n\nhttps://cinesembajadores.es/pelicula/sonando-con-leones-vo
  se/?ciudad=madrid
 LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Snor
+DTSTART;TZID=Europe/Madrid:20260427T203000
+UID:6d65379a638268b045d80ececb0ffc7afef95f530d001d49b9465f98f0522db3
+CATEGORIES:music
+DESCRIPTION:Concierto / Hip Hop & Rap\n\nhttps://salavillanos.es/evento/sn
+ or/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Machine Head
+DTSTART;TZID=Europe/Madrid:20260427T210000
+UID:721a8a0b703e0ece9c8d7168361e52e0604fde1e2ad90389bc7c3ebbd0fafb29
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://www.resurrectionfest.es/
+ route/machine-head-tour-2026/
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Los felices sesenta (1963)
@@ -6819,6 +6573,26 @@ DESCRIPTION:Recreación de la matanza perpetrada por dos adolescentes en e
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Luis Fercan
+DTSTART;TZID=Europe/Madrid:20260428T203000
+UID:d997001696e851b5af6370c59404a085a18ad94e28d5a375a0d60070022d6886
+CATEGORIES:music
+DESCRIPTION:Concierto / Pop\n\nhttps://salavillanos.es/evento/luis-fercan-
+ 3/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Max Pezzali
+DTSTART;TZID=Europe/Madrid:20260428T210000
+UID:37d7ea8bf734900f7e559ddcf11b27678184f73586694b0f03989597d4c320ba
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://www.entradas.com/event/m
+ ax-pezzali-max-forever-goes-to-europe-2026-sala-la-riviera-21107775/?affil
+ iate=ABG
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Preso en la esperanza / Trapped in hope
 DTSTART;TZID=Europe/Madrid:20260428T213000
 UID:da8878f0cea28cdb28892ed9eba7fd66b0c57ea468e766aef9711cbaa56a0e6b
@@ -6838,6 +6612,19 @@ DESCRIPTION:Exposición que invita a recorrer la obra de la artista catala
  . 29 abr a 7 sept).\n\nhttps://www.museoreinasofia.es/exposicion/aurelia-m
  unoz
 LOCATION:Museo Reina Sofía - de Santa Isabel\, 52\, Madrid\, 28012
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Las ingenieras domésticas y la revolución de la cocina
+DTSTART;TZID=Europe/Madrid:20260429T000000
+DTEND;TZID=Europe/Madrid:20260927T000000
+UID:a910cd7850191de445ffd7ae8e05074d54634a4aaf73997164b652b34f63e39b
+CATEGORIES:exhibition
+DESCRIPTION:Exposición sobre la evolución del espacio doméstico entre l
+ os siglos XIX y XX\, con las mujeres como protagonistas de su diseño (Mus
+ eo Nacional de Artes Decorativas. 29 abr a 27 sept).\n\nhttps://www.cultur
+ a.gob.es/mnartesdecorativas/exposiciones/proximas-exposiciones.html
+LOCATION:Museo Nacional de Artes Decorativas - de Montalbán\, 12\, Madrid
+ \, 28014
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:We Are The Best! (Vi är bäst!\, 2013)
@@ -6906,8 +6693,8 @@ DESCRIPTION:Blake es un artista introspectivo que sufre el peso de la fama
  ctivos de su casa de discos e incluso un detective privado. Blake busca en
   el bosque la inspiración para su última canción. Inspirada en los últ
  imos días de vida de Kurt Cobain\, cantante del grupo Nirvana y abanderad
- o del movimiento "grunge".\n\nRelease year: 2025\n\nOriginal language: EN\
- n\nAudio: VOSE\n\nhttps://www.cinetecamadrid.com/programacion/last-days
+ o del movimiento "grunge".\n\nAudio: VOSE\n\nhttps://www.cinetecamadrid.co
+ m/programacion/last-days
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -6937,7 +6724,7 @@ SUMMARY:Encerrona de Pepe Viyuela
 DTSTART;TZID=Europe/Madrid:20260429T213000
 UID:4e7c2d95c9478ff1ce19bdd651693f3671fcc7f156a2b138899bbc1620f9cea0
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 2 plazas!\n\nhttps://teatrodelbarrio.com/pepe
+DESCRIPTION:¡Ya solo quedan 1 plazas!\n\nhttps://teatrodelbarrio.com/pepe
  -viyuela-encerrona/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
@@ -6953,16 +6740,6 @@ DESCRIPTION:Fecha y Hora: Jueves 30 de abril a las 17:30h (Sala 1. Fuera d
  es/es/productos/descripcion/carmen-cecil-b-demille-1915-
 LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
  \, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tinieblas
-DTSTART;TZID=Europe/Madrid:20260430T180000
-DTEND;TZID=Europe/Madrid:20260531T180000
-UID:50198494f525d46a38de78ff56392a38d77326a681dc92053e44c1132d33f90c
-CATEGORIES:theater
-DESCRIPTION:Texto y dirección Edurne Rubio\n\nhttps://dramatico.inaem.gob
- .es/evento/tinieblas/
-LOCATION:Teatro Valle-Inclán - Plaza de Lavapies\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Calle sin salida (Dead End\, 1937) + Tierra de España (Spanish Ea
@@ -7045,6 +6822,25 @@ LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
  \, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Monstruo Laberinto
+DTSTART;TZID=Europe/Madrid:20260430T210000
+UID:7a3497c01b8920e10b6ce55f07831a0acd107dc0e974dc03f7d424edd882f85c
+CATEGORIES:music
+DESCRIPTION:Concierto / Rock\n\nhttps://salavillanos.es/evento/monstruo-la
+ berinto/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mala Gestión
+DTSTART;TZID=Europe/Madrid:20260430T210000
+UID:10c4dbeb245f6881631326340e83cd5b9140470ec575b9656d6f8379d0ad3760
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 20:00 Horas\n\nhttps://dice.fm/event/xe7p93-
+ mala-gestin-en-sound-isidro-30th-apr-la-riviera-madrid-tickets
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Los Buenos Valedores
 DTSTART;TZID=Europe/Madrid:20260430T210000
 UID:351cf7ace03f9dfec5714d7efd35e711a648832c88a5f75942339b74dfe093ae
@@ -7064,6 +6860,24 @@ CATEGORIES:theater
 DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/gordas-lisiadas-y-ma
  marrachas/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ivan Smagghe + Acid Hero + Luis Demodé
+DTSTART;TZID=Europe/Madrid:20260430T235900
+UID:ff8cf8787da17172d46286260be6bab2950f85a736be498968dbcf644c487c3e
+CATEGORIES:other
+DESCRIPTION:Club\n\nhttps://salavillanos.es/evento/ivan-smagghe-acid-hero-
+ luis-demode/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fiesta Tropical Del Cine Peruano
+DTSTART;TZID=Europe/Madrid:20260501T203000
+UID:d9fe1eef013182882766715ca3de543ecdc7320d534f60900ddfdd641eaabd99
+CATEGORIES:music
+DESCRIPTION:Concierto / Latin\n\nhttps://salavillanos.es/evento/fiesta-tro
+ pical-del-cine-peruano/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Embajadores del Arte: Goya\, el ojo que escucha
@@ -7094,6 +6908,37 @@ DESCRIPTION:Mercado del Barrio de las Letras con puestos de artesanía\, d
 LOCATION:Barrio de las Letras - Calle de las Huertas\, 2-47\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bulo En Concierto. Presentación Del Primer Disco.
+DTSTART;TZID=Europe/Madrid:20260502T210000
+UID:15ae5a76099aacd0abdfda354b80816d39f6e07dd161bb649a4ba3bdab752d02
+CATEGORIES:music
+DESCRIPTION:Concierto / Rock\n\nhttps://salavillanos.es/evento/bulo-en-con
+ cierto-presentacion-del-primer-disco/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ligabue
+DTSTART;TZID=Europe/Madrid:20260502T210000
+UID:79d882b20144f820f4bb16a066ede0e7c48d7754340eba57661ffa6ea6439857
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://www.entradas.com/event/l
+ igabue-sala-la-riviera-20391870/?Affiliate=RIV
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mercado Productores Planetario
+DTSTART;TZID=Europe/Madrid:20260503T100000
+DTEND;TZID=Europe/Madrid:20260503T160000
+UID:74dc829db54c225fb9a4e0a7e573d985433c2c02f9ca397ae46d97ee8245a22d
+CATEGORIES:market
+DESCRIPTION:Mercado de productores locales y artesanos en Planetario con a
+ limentacion sostenible\, productos de cercania y actividades al aire libre
+ .\n\nhttps://mercadoproductores.es/mp-planetario/
+LOCATION:Mercado Productores Planetario - Avenida del Planetario esquina C
+ alle Meneses\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Domingo de clásicos: Hasta que llegó su hora
 DTSTART;TZID=Europe/Madrid:20260503T120000
 DTEND;TZID=Europe/Madrid:20260503T144500
@@ -7107,6 +6952,16 @@ DESCRIPTION:Brett McBain\, un granjero viudo de origen irlandés\, vive co
  dores.es/pelicula/domingo-de-clasicos-hasta-que-llego-su-hora-vose/?ciudad
  =madrid
 LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Miguel - Caos Tour
+DTSTART;TZID=Europe/Madrid:20260504T210000
+UID:0fb848a0391c0f85e161e46a1135b85c277047cb4e65224e4c48bc4c9d20396b
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://www.livenation.es/event/
+ miguel-caos-tour-madrid-tickets-edp1630147
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ciclo de conferencias: Breve historia del blockbuster
@@ -7140,6 +6995,26 @@ DESCRIPTION:Pocas personas han resultado tan influyentes como José Iges (
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Mi Amigo Invencible
+DTSTART;TZID=Europe/Madrid:20260506T210000
+UID:936e86757c9d10eb502fd8b524a64caaa7ab32f007091eae986a274e05def565
+CATEGORIES:music
+DESCRIPTION:Concierto / Pop / Rock\n\nhttps://salavillanos.es/evento/mi-am
+ igo-invencible/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sanguijuelas del Guadiana (Tercera Fecha)
+DTSTART;TZID=Europe/Madrid:20260506T210000
+UID:52fc810613f8cb247abba4839863e7e2c86442b7b7d4e3ef8c9607c8681e9e94
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://www.enterticket.es/event
+ os/concierto-sanguijuelas-del-guadiana-madrid-la-riviera-miercoles-6-de-ma
+ yo-935583
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Revolución cuántica
 DTSTART;TZID=Europe/Madrid:20260507T000000
 DTEND;TZID=Europe/Madrid:20261011T000000
@@ -7151,6 +7026,26 @@ DESCRIPTION:La mecánica y la computación cuánticas protagonizan una exp
  lefonica.com/evento/revolucion-cuantica/
 LOCATION:Espacio Fundación Telefónica - de Fuencarral\, 3\, Madrid\, 280
  04
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MATTEO MANCUSO Route96 Tour
+DTSTART;TZID=Europe/Madrid:20260507T193000
+UID:24c0041f139bad275fed792ae543cf26534116e11381770ab2765b62bdee331a
+CATEGORIES:music
+DESCRIPTION:Concierto / Villanos del Jazz / Jazz / Soul & R&B\n\nhttps://s
+ alavillanos.es/evento/matteo-mancuso-route96-tour/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sanguijuelas del Guadiana (Segunda fecha)
+DTSTART;TZID=Europe/Madrid:20260507T210000
+UID:aa51753494593ff28423de38fad8adc6b9050afa268ba9989d2320a3f1bef38b
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://www.enterticket.es/event
+ os/concierto-sanguijuelas-del-guadiana-madrid-la-riviera-jueves-7-de-mayo-
+ 312101
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Briefs (EEUU) + Plastic Meat
@@ -7165,14 +7060,32 @@ DESCRIPTION:Precio de las entradas: 18€/22€ Entradas a la venta en mov
 LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Las últimas
-DTSTART;TZID=Europe/Madrid:20260508T200000
-DTEND;TZID=Europe/Madrid:20260621T200000
-UID:34073fdb988203b3a005564529c24966077766bf0f35417ef477414e6ddc51fb
-CATEGORIES:theater
-DESCRIPTION:Una creación de Cross Border Texto y dirección Lucía Mirand
- a\n\nhttps://dramatico.inaem.gob.es/evento/las-ultimas/
-LOCATION:Teatro Valle-Inclán - Plaza de Lavapies\, Madrid
+SUMMARY:MATTEO MANCUSO Route96 Tour
+DTSTART;TZID=Europe/Madrid:20260507T220000
+UID:e9741d03fadb1ab22ca1ef67306b133fbfa692098b24ce804d61f8134c19bfd3
+CATEGORIES:music
+DESCRIPTION:Concierto / Villanos del Jazz\n\nhttps://salavillanos.es/event
+ o/matteo-mancuso-route96-tour-2/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Guasones
+DTSTART;TZID=Europe/Madrid:20260508T210000
+UID:cadf838ad41808fc93db346e7fc9842b464b84baf340bd4827a678056d987c85
+CATEGORIES:music
+DESCRIPTION:Concierto / Rock\n\nhttps://salavillanos.es/evento/los-guasone
+ s/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sanguijuelas del Guadiana
+DTSTART;TZID=Europe/Madrid:20260508T210000
+UID:63807459bfff353fa3b84c141f866d03c7b2d2996ce7c6f5e812914c659e74dd
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://www.entradas.com/event/s
+ anguijuelas-del-guadiana-sala-la-riviera-20239604/?Affiliate=RIV
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Lords Of Altamont (EEUU) + Screamin' Witch Doctor
@@ -7187,6 +7100,25 @@ DESCRIPTION:Precio de las entradas: 17€/20€ Entradas a la venta en mov
 LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Celtian
+DTSTART;TZID=Europe/Madrid:20260509T210000
+UID:b0bfc03b49d71838434e5d60241d0c08d35c78259645dc7447d7dfb422dbf06c
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://www.entradas.com/artist/
+ celtian/?Affiliate=RIV
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pastora
+DTSTART;TZID=Europe/Madrid:20260509T213000
+UID:cd8564c4f4a948617cb59575a4ea296dd3fd812b557cdfa012231cdde325d770
+CATEGORIES:music
+DESCRIPTION:Concierto / Electronic / Rock\n\nhttps://salavillanos.es/event
+ o/pastora/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Cristosaurio + Oktopussy
 DTSTART;TZID=Europe/Madrid:20260509T213000
 UID:39c052ae03b11a2e3fd0259c200f804ddfc3fcd4321a39d50f8a05d345d3fc9e
@@ -7197,5 +7129,59 @@ DESCRIPTION:Precio de las entradas: 12€/16€ Entradas a la venta en mov
  imposible del dinosaurio y el pulpo bajando\n\nhttps://gruta77.com/events/
  oktopussy-cristosaurio/var/ri-0.l-L2
 LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Omar S (FXHE) + Acid Hero + Dj F
+DTSTART;TZID=Europe/Madrid:20260509T235900
+UID:8b86541e6e3f1cc172e8a201fc2b0561c114017a7624118664dc77c397430fb4
+CATEGORIES:music
+DESCRIPTION:Club\n\nhttps://salavillanos.es/evento/omar-s-fxhe-acid-hero-d
+ j-f/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Encuentros en la tercera fase
+DTSTART;TZID=Europe/Madrid:20260510T120000
+UID:35dfabb5e80bb49aa350371f095deee4fa3ffb96ef74ad4ef23e5552ec77047f
+CATEGORIES:cinema
+DESCRIPTION:Unos aviones dados por desaparecidos en 1945 aparecen de repen
+ te en el desierto de Mojave. Un vuelo comercial se cruza con un objeto bri
+ llante que el piloto no es capaz de describir. El gobierno de EE UU\, sosp
+ echando de la existencia de fenómenos extraños\, logra averiguar dónde 
+ van a aterrizar los visitantes y desarrollar una operación de encubrimien
+ to para que nadie se entere. Pero un grupo de personas comparte una visió
+ n sobre la vida en otros mundos que les arrastra a ese lugar.\n\nOriginal 
+ title: Close Encounters of the Third Kind\n\nRelease year: 1977\n\nOrigina
+ l language: EN\n\nAudio: VOSE\n\nhttps://www.cinetecamadrid.com/programaci
+ on/encuentros-en-la-tercera-fase-0
+LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tablao flamenco alumnos Escuela El Lucero
+DTSTART;TZID=Europe/Madrid:20260510T173000
+UID:5358f6a36a61164622fa0789c6347f6dc93cd686aeec77397daa7e77438ef246
+CATEGORIES:music
+DESCRIPTION:Concierto / Flamenco\n\nhttps://salavillanos.es/evento/tablao-
+ flamenco-alumnos-escuela-el-lucero-2/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vivencias Flamencas
+DTSTART;TZID=Europe/Madrid:20260510T200000
+UID:41559e052378f41d6a60d75bd5e0155cea7913242c282049268fc75aa9d38408
+CATEGORIES:music
+DESCRIPTION:Concierto / Flamenco\n\nhttps://salavillanos.es/evento/vivenci
+ as-flamencas/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Abel Pintos
+DTSTART;TZID=Europe/Madrid:20260510T200000
+UID:eff3dbbbe4bf83e4eccc7c14c0ea7468d261e5228b9e895b707261414a674e93
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:00 pm\n\nhttps://conciertosya.com/Abel-Pi
+ ntos-en-Madrid/?linkId=693865046b08bdd68d394eb4
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
 END:VEVENT
 END:VCALENDAR
