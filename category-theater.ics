@@ -2,48 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Federico. No hay olvido\, ni sueño: Carne viva
-DTSTART;TZID=Europe/Madrid:20260411T130000
-UID:04bb4410a5cb47bf3da8167fd7867cc32909779038a68bf9fc9da62cedb90791
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/federico-no-hay-olvi
- do-ni-sueno-carne-viva/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Niebla
-DTSTART;TZID=Europe/Madrid:20260411T193000
-DTEND;TZID=Europe/Madrid:20260412T193000
-UID:f5c1c7ebb968eb8a2029978f386f4763212118ce95d6b31e1e8cb896ee68f191
-CATEGORIES:theater
-DESCRIPTION:Entradas agotadas desde 21.00€\n\nhttps://tienda.madrid-dest
- ino.com/es/nave-10/niebla/
-LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Animal o la salida humana
-DTSTART;TZID=Europe/Madrid:20260411T193000
-UID:2d70b27ddea6017bcedb491068b0a50d663d4778f36ca3bd4b3199f53421fa4f
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/animal-o-la-salida-h
- umana/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Un verano por metro cuadrado
-DTSTART;TZID=Europe/Madrid:20260411T221500
-UID:261ff967dd06362bfa7ba7440e391b1edac0c0711be53296f6da0e10a6b17036
-CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 1 plazas!\n\nhttps://teatrodelbarrio.com/un-v
- erano-por-metro-cuadrado/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:La diatriba del perro
 DTSTART;TZID=Europe/Madrid:20260412T130000
 UID:f32bb44c2d3e466bea8bf2670fe1f8393345d539df3a39fbcd9193621e2ec5fb
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 1 plazas!\n\nhttps://teatrodelbarrio.com/la-d
+DESCRIPTION:¡Ya solo quedan 4 plazas!\n\nhttps://teatrodelbarrio.com/la-d
  iatriba-del-perro/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
@@ -55,6 +18,16 @@ CATEGORIES:theater
 DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/la-doble-vida-de-vir
  ginia-woolf/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Niebla
+DTSTART;TZID=Europe/Madrid:20260412T193000
+DTEND;TZID=Europe/Madrid:20260412T193000
+UID:f5c1c7ebb968eb8a2029978f386f4763212118ce95d6b31e1e8cb896ee68f191
+CATEGORIES:theater
+DESCRIPTION:Entradas agotadas desde 21.00€\n\nhttps://tienda.madrid-dest
+ ino.com/es/nave-10/niebla/
+LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:El pensamiento. Los Torreznos
@@ -106,7 +79,7 @@ SUMMARY:Jajás en el Barrio
 DTSTART;TZID=Europe/Madrid:20260415T220000
 UID:f8040c056577192cbc5f5b68a9c07221ee9b9e4a4a820cd18a485841aa72bbb0
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 6 plazas!\n\nhttps://teatrodelbarrio.com/jaja
+DESCRIPTION:¡Ya solo quedan 4 plazas!\n\nhttps://teatrodelbarrio.com/jaja
  s-en-el-barrio/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
@@ -151,7 +124,7 @@ SUMMARY:Piccolino. Un cine concierto
 DTSTART;TZID=Europe/Madrid:20260418T110000
 UID:5cda3befc9acf76196458c2dcf6d7e48a20a165839558e6abaf7a130755bd934
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 6 plazas!\n\nhttps://teatrodelbarrio.com/infa
+DESCRIPTION:¡Ya solo quedan 3 plazas!\n\nhttps://teatrodelbarrio.com/infa
  ntil-piccolino/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT

@@ -1,51 +1,7 @@
 Eirene feed debug
-Total events: 41
+Total events: 38
 
-[1] Federico. No hay olvido, ni sueño: Carne viva
-  id: 04bb4410a5cb47bf3da8167fd7867cc32909779038a68bf9fc9da62cedb90791
-  start: 2026-04-11T13:00:00+02:00
-  end: N/A
-  category: theater
-  source: teatro_del_barrio
-  location: Teatro del Barrio - Calle de Zurita, 20, Madrid
-  coordinates: 40.4096081, -3.699174
-  url: https://teatrodelbarrio.com/federico-no-hay-olvido-ni-sueno-carne-viva/
-  description: Disponible
-
-[2] Niebla
-  id: f5c1c7ebb968eb8a2029978f386f4763212118ce95d6b31e1e8cb896ee68f191
-  start: 2026-04-11T19:30:00+02:00
-  end: 2026-04-12T19:30:00+02:00
-  category: theater
-  source: nave_10
-  location: Nave 10 - Paseo de la Chopera, 14, Madrid
-  coordinates: 40.3920606, -3.6978319
-  url: https://tienda.madrid-destino.com/es/nave-10/niebla/
-  description: Entradas agotadas desde 21.00€
-
-[3] Animal o la salida humana
-  id: 2d70b27ddea6017bcedb491068b0a50d663d4778f36ca3bd4b3199f53421fa4f
-  start: 2026-04-11T19:30:00+02:00
-  end: N/A
-  category: theater
-  source: teatro_del_barrio
-  location: Teatro del Barrio - Calle de Zurita, 20, Madrid
-  coordinates: 40.4096081, -3.699174
-  url: https://teatrodelbarrio.com/animal-o-la-salida-humana/
-  description: Disponible
-
-[4] Un verano por metro cuadrado
-  id: 261ff967dd06362bfa7ba7440e391b1edac0c0711be53296f6da0e10a6b17036
-  start: 2026-04-11T22:15:00+02:00
-  end: N/A
-  category: theater
-  source: teatro_del_barrio
-  location: Teatro del Barrio - Calle de Zurita, 20, Madrid
-  coordinates: 40.4096081, -3.699174
-  url: https://teatrodelbarrio.com/un-verano-por-metro-cuadrado/
-  description: ¡Ya solo quedan 1 plazas!
-
-[5] La diatriba del perro
+[1] La diatriba del perro
   id: f32bb44c2d3e466bea8bf2670fe1f8393345d539df3a39fbcd9193621e2ec5fb
   start: 2026-04-12T13:00:00+02:00
   end: N/A
@@ -54,9 +10,9 @@ Total events: 41
   location: Teatro del Barrio - Calle de Zurita, 20, Madrid
   coordinates: 40.4096081, -3.699174
   url: https://teatrodelbarrio.com/la-diatriba-del-perro/
-  description: ¡Ya solo quedan 1 plazas!
+  description: ¡Ya solo quedan 4 plazas!
 
-[6] La doble vida de Virginia Woolf
+[2] La doble vida de Virginia Woolf
   id: aaf3876d8f749c7a45ef41fa35b66fafa6d5c2c37154f49923d06e943b64b420
   start: 2026-04-12T18:00:00+02:00
   end: N/A
@@ -67,7 +23,18 @@ Total events: 41
   url: https://teatrodelbarrio.com/la-doble-vida-de-virginia-woolf/
   description: Disponible
 
-[7] El pensamiento. Los Torreznos
+[3] Niebla
+  id: f5c1c7ebb968eb8a2029978f386f4763212118ce95d6b31e1e8cb896ee68f191
+  start: 2026-04-12T19:30:00+02:00
+  end: 2026-04-12T19:30:00+02:00
+  category: theater
+  source: nave_10
+  location: Nave 10 - Paseo de la Chopera, 14, Madrid
+  coordinates: 40.3920606, -3.6978319
+  url: https://tienda.madrid-destino.com/es/nave-10/niebla/
+  description: Entradas agotadas desde 21.00€
+
+[4] El pensamiento. Los Torreznos
   id: 696af7096164195c051f7948b44bbaa061265f109ff27a30626648aea0213b44
   start: 2026-04-12T20:30:00+02:00
   end: N/A
@@ -78,7 +45,7 @@ Total events: 41
   url: https://teatrodelbarrio.com/el-pensamiento-los-torreznos/
   description: Disponible
 
-[8] ¡Ay, Carmela!
+[5] ¡Ay, Carmela!
   id: 61d0df16221d2041b2a55ab66a273445633e9665c0ddf400b1466b9eac64e162
   start: 2026-04-13T19:30:00+02:00
   end: N/A
@@ -89,7 +56,7 @@ Total events: 41
   url: https://teatrodelbarrio.com/ay-carmela/
   description: Localidades agotadas
 
-[9] Presentación de la III Marcha Republicana
+[6] Presentación de la III Marcha Republicana
   id: c5eac03d9890f8922b3228cf64365fe1fd51540d80168df093619472a24e7758
   start: 2026-04-14T19:00:00+02:00
   end: N/A
@@ -100,7 +67,7 @@ Total events: 41
   url: https://teatrodelbarrio.com/presentacion-de-la-iii-marcha-republicana/
   description: ¡Ya solo quedan 1 plazas!
 
-[10] Chistes contra Franco
+[7] Chistes contra Franco
   id: 157d5fb3e7271ed225595d7d7aa6536bb282806d536e38abc284ef6f2d49e368
   start: 2026-04-14T21:30:00+02:00
   end: N/A
@@ -111,7 +78,7 @@ Total events: 41
   url: https://teatrodelbarrio.com/chistes-contra-franco/
   description: Disponible
 
-[11] Paramnesia. (La vida que recuerdo)
+[8] Paramnesia. (La vida que recuerdo)
   id: 61b8c7f8fd80a0529592fe4931530bc5dabd64892e0be63d3963bcf74f648632
   start: 2026-04-15T19:30:00+02:00
   end: N/A
@@ -122,7 +89,7 @@ Total events: 41
   url: https://teatrodelbarrio.com/paramnesia-la-vida-que-recuerdo/
   description: Disponible
 
-[12] Jajás en el Barrio
+[9] Jajás en el Barrio
   id: f8040c056577192cbc5f5b68a9c07221ee9b9e4a4a820cd18a485841aa72bbb0
   start: 2026-04-15T22:00:00+02:00
   end: N/A
@@ -131,9 +98,9 @@ Total events: 41
   location: Teatro del Barrio - Calle de Zurita, 20, Madrid
   coordinates: 40.4096081, -3.699174
   url: https://teatrodelbarrio.com/jajas-en-el-barrio/
-  description: ¡Ya solo quedan 6 plazas!
+  description: ¡Ya solo quedan 4 plazas!
 
-[13] Yo deseo (recital electrónico de inconfesiones femeninas)
+[10] Yo deseo (recital electrónico de inconfesiones femeninas)
   id: 59e89d02f3c34ffd6afa752e43879ed41a0a4a4af31d6460243c7daadae34790
   start: 2026-04-16T19:30:00+02:00
   end: N/A
@@ -144,7 +111,7 @@ Total events: 41
   url: https://teatrodelbarrio.com/yo-deseo-recital-electronico-de-inconfesiones-femeninas/
   description: Disponible
 
-[14] REFUGIO EN EL BARRIO
+[11] REFUGIO EN EL BARRIO
   id: 86498f2d0ea519f87f76055b405742c480f118a701bcce7d9cb9b40cc914a7a9
   start: 2026-04-16T22:00:00+02:00
   end: N/A
@@ -155,7 +122,7 @@ Total events: 41
   url: https://teatrodelbarrio.com/refugio-en-el-barrio/
   description: Programación en Teatro del Barrio
 
-[15] Yo deseo (recital electrónico de inconfesiones femeninas)
+[12] Yo deseo (recital electrónico de inconfesiones femeninas)
   id: b4ec59c6c6a614b17053b40ead60e7687a5bdd15a8e1450c2dd64ad7b4c08103
   start: 2026-04-17T19:30:00+02:00
   end: N/A
@@ -166,7 +133,7 @@ Total events: 41
   url: https://teatrodelbarrio.com/yo-deseo-recital-electronico-de-inconfesiones-femeninas/
   description: Disponible
 
-[16] Gordas, lisiadas y mamarrachas
+[13] Gordas, lisiadas y mamarrachas
   id: fe494e253bcebd708a5b41e71583caa0c660aa1146a56508b7deb73cd38d9e0d
   start: 2026-04-17T22:15:00+02:00
   end: N/A
@@ -177,7 +144,7 @@ Total events: 41
   url: https://teatrodelbarrio.com/gordas-lisiadas-y-mamarrachas/
   description: Disponible
 
-[17] Piccolino. Un cine concierto
+[14] Piccolino. Un cine concierto
   id: 5cda3befc9acf76196458c2dcf6d7e48a20a165839558e6abaf7a130755bd934
   start: 2026-04-18T11:00:00+02:00
   end: N/A
@@ -186,9 +153,9 @@ Total events: 41
   location: Teatro del Barrio - Calle de Zurita, 20, Madrid
   coordinates: 40.4096081, -3.699174
   url: https://teatrodelbarrio.com/infantil-piccolino/
-  description: ¡Ya solo quedan 6 plazas!
+  description: ¡Ya solo quedan 3 plazas!
 
-[18] La diatriba del perro
+[15] La diatriba del perro
   id: 8eabd263f4e91e506ebf17d033d898a437ab16855c7592d3cfe2970971f5aa6d
   start: 2026-04-18T13:00:00+02:00
   end: N/A
@@ -199,7 +166,7 @@ Total events: 41
   url: https://teatrodelbarrio.com/la-diatriba-del-perro/
   description: Disponible
 
-[19] Yo deseo (recital electrónico de inconfesiones femeninas)
+[16] Yo deseo (recital electrónico de inconfesiones femeninas)
   id: 7a0e8baea8b72a3d5c1a0e5b736097f0e0d5b4c242110e3fa4b9c232ea0c3aba
   start: 2026-04-18T19:30:00+02:00
   end: N/A
@@ -210,7 +177,7 @@ Total events: 41
   url: https://teatrodelbarrio.com/yo-deseo-recital-electronico-de-inconfesiones-femeninas/
   description: Disponible
 
-[20] Un verano por metro cuadrado
+[17] Un verano por metro cuadrado
   id: ec347e83455e13b7091306afa2285ecc1b7e924a486bf885bb04d26f0668544a
   start: 2026-04-18T22:15:00+02:00
   end: N/A
@@ -221,7 +188,7 @@ Total events: 41
   url: https://teatrodelbarrio.com/un-verano-por-metro-cuadrado/
   description: ¡Ya solo quedan 1 plazas!
 
-[21] Yo deseo (recital electrónico de inconfesiones femeninas)
+[18] Yo deseo (recital electrónico de inconfesiones femeninas)
   id: da69f9163136e988ee8b529a03c5f43c952d6529096d3f8979e91fa57e4da131
   start: 2026-04-19T13:00:00+02:00
   end: N/A
@@ -232,7 +199,7 @@ Total events: 41
   url: https://teatrodelbarrio.com/yo-deseo-recital-electronico-de-inconfesiones-femeninas/
   description: Disponible
 
-[22] La doble vida de Virginia Woolf
+[19] La doble vida de Virginia Woolf
   id: 5ce8b80c3cb61e4039b11413a5d180d9340810f758bcc84ea7021cc5532e926a
   start: 2026-04-19T18:00:00+02:00
   end: N/A
@@ -243,7 +210,7 @@ Total events: 41
   url: https://teatrodelbarrio.com/la-doble-vida-de-virginia-woolf/
   description: Disponible
 
-[23] Isa & Javi
+[20] Isa & Javi
   id: a3119fde26a6f2a6156c3e503f9a5ee87e401cbd0be5c1963db15a671e36b8b4
   start: 2026-04-19T20:30:00+02:00
   end: N/A
@@ -254,7 +221,7 @@ Total events: 41
   url: https://teatrodelbarrio.com/isa-y-javi/
   description: Disponible
 
-[24] Cuestionando el empleo: renta básica incondicional. ¿Me lo dices o me lo cantas?
+[21] Cuestionando el empleo: renta básica incondicional. ¿Me lo dices o me lo cantas?
   id: 49ab43a813c043e9b4752a95d857174b00e25fee6f6a409a66533f3c66d1381d
   start: 2026-04-21T18:30:00+02:00
   end: N/A
@@ -265,7 +232,7 @@ Total events: 41
   url: https://teatrodelbarrio.com/cuestionando-el-empleo-renta-basica-incondicional-me-lo-dices-o-me-lo-cantas/
   description: Disponible
 
-[25] Paramnesia. (La vida que recuerdo)
+[22] Paramnesia. (La vida que recuerdo)
   id: cb13bfa712ec5d53b84db64e1e460fcc4d88158bca44a5a2c84dc1e59b8d30bd
   start: 2026-04-22T19:30:00+02:00
   end: N/A
@@ -276,7 +243,7 @@ Total events: 41
   url: https://teatrodelbarrio.com/paramnesia-la-vida-que-recuerdo/
   description: Disponible
 
-[26] Bajo tu piel
+[23] Bajo tu piel
   id: 1f94ac0262b20f2847ad23d0c25ed7cc1e6901f20d05b2198d970b1e4f900bcd
   start: 2026-04-23T19:30:00+02:00
   end: N/A
@@ -287,7 +254,7 @@ Total events: 41
   url: https://teatrodelbarrio.com/bajo-tu-piel/
   description: Disponible
 
-[27] Guayominí
+[24] Guayominí
   id: fb2dc857668957f5d7d1d47ee18f558122fdd59002bd0dd5cf3e9b964fb195ba
   start: 2026-04-24T19:30:00+02:00
   end: 2026-05-17T18:30:00+02:00
@@ -298,7 +265,7 @@ Total events: 41
   url: https://tienda.madrid-destino.com/es/nave-10/guayomini/
   description: Entradas disponibles desde 15.75€
 
-[28] Bajo tu piel
+[25] Bajo tu piel
   id: 25c2ad3a7e6fb864325743cd93ac24462934aeec3291348524794252687dedf8
   start: 2026-04-24T19:30:00+02:00
   end: N/A
@@ -309,7 +276,7 @@ Total events: 41
   url: https://teatrodelbarrio.com/bajo-tu-piel/
   description: Disponible
 
-[29] Preso en la esperanza / Trapped in hope
+[26] Preso en la esperanza / Trapped in hope
   id: 3674dc5dac3d2edd416e35751be127d040ede13b8313a6dbd0a4ed4505444982
   start: 2026-04-24T22:15:00+02:00
   end: N/A
@@ -320,7 +287,7 @@ Total events: 41
   url: https://teatrodelbarrio.com/preso-en-la-esperanza-trapped-in-hope/
   description: Disponible
 
-[30] La diatriba del perro
+[27] La diatriba del perro
   id: e18b91fdc58b94bf4708f9afc44215faac625c22126a87be9a0d0e20bebaabc3
   start: 2026-04-25T13:00:00+02:00
   end: N/A
@@ -331,7 +298,7 @@ Total events: 41
   url: https://teatrodelbarrio.com/la-diatriba-del-perro/
   description: Disponible
 
-[31] Bajo tu piel
+[28] Bajo tu piel
   id: 3a28000b99a4ae931adbcee7160f25c356d021ee354e1b1ae5b55d78ff72f3d4
   start: 2026-04-25T19:30:00+02:00
   end: N/A
@@ -342,7 +309,7 @@ Total events: 41
   url: https://teatrodelbarrio.com/bajo-tu-piel/
   description: Disponible
 
-[32] La rabia es nuestra
+[29] La rabia es nuestra
   id: a65b9514565fcaebfefda3e383d79973a389a3f74f0016ce816ccdc7d605f113
   start: 2026-04-25T22:15:00+02:00
   end: N/A
@@ -353,7 +320,7 @@ Total events: 41
   url: https://teatrodelbarrio.com/la-rabia-es-nuestra/
   description: Disponible
 
-[33] La diatriba del perro
+[30] La diatriba del perro
   id: b4fdcc6c803224195913c01d7ca419a4958569a0b7a447908107cb81b12873ff
   start: 2026-04-26T13:00:00+02:00
   end: N/A
@@ -364,7 +331,7 @@ Total events: 41
   url: https://teatrodelbarrio.com/la-diatriba-del-perro/
   description: Disponible
 
-[34] La doble vida de Virginia Woolf
+[31] La doble vida de Virginia Woolf
   id: dc21491fec5ffffbe9b0f6c54267bf10c64264b297929b8f7b866c825166df60
   start: 2026-04-26T18:00:00+02:00
   end: N/A
@@ -375,7 +342,7 @@ Total events: 41
   url: https://teatrodelbarrio.com/la-doble-vida-de-virginia-woolf/
   description: Disponible
 
-[35] Bajo tu piel
+[32] Bajo tu piel
   id: d9ac3de8bb3e997d555df1a1437b736e718d9e7aafcb66614117b17b949a38db
   start: 2026-04-26T20:30:00+02:00
   end: N/A
@@ -386,7 +353,7 @@ Total events: 41
   url: https://teatrodelbarrio.com/bajo-tu-piel/
   description: Disponible
 
-[36] Entrega del AMEIS de Plata 2026.
+[33] Entrega del AMEIS de Plata 2026.
   id: 0b8b16271f11dd9d42a176cf4c72722288a2edb229f31afa5a3d3b3872a236fa
   start: 2026-04-28T19:00:00+02:00
   end: N/A
@@ -397,7 +364,7 @@ Total events: 41
   url: https://teatrodelbarrio.com/entrega-del-ameis-de-plata-2026/
   description: Disponible
 
-[37] Preso en la esperanza / Trapped in hope
+[34] Preso en la esperanza / Trapped in hope
   id: da8878f0cea28cdb28892ed9eba7fd66b0c57ea468e766aef9711cbaa56a0e6b
   start: 2026-04-28T21:30:00+02:00
   end: N/A
@@ -408,7 +375,7 @@ Total events: 41
   url: https://teatrodelbarrio.com/preso-en-la-esperanza-trapped-in-hope/
   description: Disponible
 
-[38] Paramnesia. (La vida que recuerdo)
+[35] Paramnesia. (La vida que recuerdo)
   id: f80d43a805d4ea4507c265e6995c58a9e76dbafd0cf77973427d9342687c4a48
   start: 2026-04-29T19:30:00+02:00
   end: N/A
@@ -419,7 +386,7 @@ Total events: 41
   url: https://teatrodelbarrio.com/paramnesia-la-vida-que-recuerdo/
   description: Disponible
 
-[39] Encerrona de Pepe Viyuela
+[36] Encerrona de Pepe Viyuela
   id: 4e7c2d95c9478ff1ce19bdd651693f3671fcc7f156a2b138899bbc1620f9cea0
   start: 2026-04-29T21:30:00+02:00
   end: N/A
@@ -430,7 +397,7 @@ Total events: 41
   url: https://teatrodelbarrio.com/pepe-viyuela-encerrona/
   description: ¡Ya solo quedan 1 plazas!
 
-[40] Preso en la esperanza / Trapped in hope
+[37] Preso en la esperanza / Trapped in hope
   id: 8a7f436fb065734297d8b284230a663ebc46337c64d1495a8a05a7cd7683b3e5
   start: 2026-04-30T19:30:00+02:00
   end: N/A
@@ -441,7 +408,7 @@ Total events: 41
   url: https://teatrodelbarrio.com/preso-en-la-esperanza-trapped-in-hope/
   description: Disponible
 
-[41] Gordas, lisiadas y mamarrachas
+[38] Gordas, lisiadas y mamarrachas
   id: 01a80de55bb88732b1a1ac12204c0d949b8324ad131cc6c80aeda3adec1cc96e
   start: 2026-04-30T22:15:00+02:00
   end: N/A
