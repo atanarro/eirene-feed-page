@@ -2,6 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
+SUMMARY:Exponencial. De analógicos a digitales
+DTSTART;TZID=Europe/Madrid:20240514T000000
+DTEND;TZID=Europe/Madrid:20271231T000000
+UID:f5757770ba2619f835632f368e9ae1c25e8353ae577ea62f600b1f84611272c3
+CATEGORIES:exhibition
+DESCRIPTION:Exposición permanente que explora el creciente impacto que ha
+  tenido el desarrollo de las telecomunicaciones en todos los ámbitos de n
+ uestras vidas (Espacio Fundación Telefónica.\n\nhttp://espacio.fundacio
+ ntelefonica.com/
+LOCATION:Espacio Fundación Telefónica - de Fuencarral\, 3\, Madrid\, 280
+ 04
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:El martirio de San Andrés
 DTSTART;TZID=Europe/Madrid:20250303T000000
 DTEND;TZID=Europe/Madrid:20260630T000000
@@ -36,17 +49,6 @@ DESCRIPTION:Exposición que aporta una mirada crítica para romper con los
  Centro Sefarad-Israel. Hasta 29 mayo).\n\nhttps://www.sefarad-israel.es/ex
  posiciones/la-conspiracion-judeo-masonica/
 LOCATION:Centro Sefarad-Israel - Mayor\, 69\, Madrid\, 28013
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Desenfocado. Otra visión del arte
-DTSTART;TZID=Europe/Madrid:20250917T000000
-DTEND;TZID=Europe/Madrid:20260412T000000
-UID:11b5aeaaf0d2ef1676f26ac44ebd966abf626ec5dec60d4a88ffa1480a3db304
-CATEGORIES:exhibition
-DESCRIPTION:Exposición que explora el concepto de desenfoque en el arte c
- omo nueva manera de comprender el mundo (CaixaForum Madrid. Hasta 12 abr).
- \n\nhttps://caixaforum.org/es/madrid/p/desenfocado_a173668105
-LOCATION:CaixaForum Madrid - del Prado\, 36\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fui sobre agua edificada
@@ -107,19 +109,6 @@ DESCRIPTION:Obras maestras del Museo del Louvre dialogan por primera vez c
  ay).\n\nhttps://www.man.es/man/exposicion/exposiciones-temporales/20251118
  -escultura-iberica-louvre-man.html
 LOCATION:Museo Arqueológico Nacional - de Serrano\, 13\, Madrid\, 28001
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hoy es un buen día para hablar de derechos digitales
-DTSTART;TZID=Europe/Madrid:20251120T000000
-DTEND;TZID=Europe/Madrid:20260503T000000
-UID:3c58bff717ecf1ab125e0a8b518f620c9b5257fb9035b059c574c2842926dffa
-CATEGORIES:exhibition
-DESCRIPTION:Reflexión crítica sobre la ciudadanía digital\, los derecho
- s fundamentales y el impacto de la tecnología en nuestra vida (Espacio Fu
- ndación Telefónica. Hasta 3 mayo).\n\nhttps://espacio.fundaciontelefonic
- a.com/evento/hoy-es-un-buen-dia-para-hablar-de-derechos-digitales/
-LOCATION:Espacio Fundación Telefónica - de Fuencarral\, 3\, Madrid\, 280
- 04
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Juan Uslé. Ese barco en la montaña
@@ -234,18 +223,6 @@ DESCRIPTION:El espacio dialogará con esta gran instalación de pinturas\,
  entro. Hasta 3 may).\n\nhttps://www.centrocentro.org/exposicion/javier-gar
  cera
 LOCATION:CentroCentro - de Cibeles\, 1\, Madrid\, 28014
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Entre Oriente y Occidente. Chipre\, la isla de Afrodita
-DTSTART;TZID=Europe/Madrid:20260113T000000
-DTEND;TZID=Europe/Madrid:20260412T000000
-UID:e86d00f0db809e687cb5e1e7bb78489df614784bbc6c896769b36fafee06aaf8
-CATEGORIES:exhibition
-DESCRIPTION:Selcción de piezas de la colección chipriota del MAN fuertem
- ente ligada al Viaje a Oriente de la Fragata Arapiles (Museo Arqueológico
-  Nacional. Hasta 12 abr).\n\nhttps://www.man.es/man/exposicion/vitrina0/20
- 260113-chipre.html
-LOCATION:Museo Arqueológico Nacional - de Serrano\, 13\, Madrid\, 28001
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Des-caradas
@@ -421,6 +398,18 @@ LOCATION:Real Academia de Bellas Artes de San Fernando - de Alcalá\, 13\,
   Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:La casa de las artes. Abierta desde 1926
+DTSTART;TZID=Europe/Madrid:20260212T000000
+DTEND;TZID=Europe/Madrid:20260510T000000
+UID:ee5ed0b89007b2883c9bf9b903f561f71f75e32932b51c1e4a905c62f4ed3042
+CATEGORIES:exhibition
+DESCRIPTION:Un recorrido por el origen\, el diseño y la construcción de 
+ una de las arquitecturas más emblemáticas de la Gran Vía madrileña (C
+ írculo de Bellas Artes. Hasta 10 may).\n\nhttps://www.circulobellasartes.
+ com/exposiciones/la-casa-de-las-artes-abierta-desde-1926/
+LOCATION:Círculo de Bellas Artes - de Alcalá\, 42\, Madrid\, 28014
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:X Muestra Orfebrería y Joyería Contemporánea
 DTSTART;TZID=Europe/Madrid:20260212T000000
 DTEND;TZID=Europe/Madrid:20260426T000000
@@ -524,19 +513,6 @@ LOCATION:Museo Nacional Thyssen-Bornemisza - del Prado\, 8\, Madrid\, 2801
  4
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eclosión. El Círculo de Bellas Artes en los 80 y 90
-DTSTART;TZID=Europe/Madrid:20260225T000000
-DTEND;TZID=Europe/Madrid:20260510T000000
-UID:df8843aa27649dc0af2e4f4d0218ba29b3cf53a3e96fcc516a3eef4ad11ded67
-CATEGORIES:exhibition
-DESCRIPTION:Exposición que revisa su periodo de renovación y la volunt
- ad de convertirse en un centro cultural multidisciplinar\, innovador y con
- ectado con las necesidades de su tiempo (Círculo de Bell\n\nhttps://www.c
- irculobellasartes.com/exposiciones/eclosion-el-circulo-de-bellas-artes-en-
- los-80-y-90/
-LOCATION:Círculo de Bellas Artes - de Alcalá\, 42\, Madrid\, 28014
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Madrid Collects. 50 Contemporary Art Collections
 DTSTART;TZID=Europe/Madrid:20260226T000000
 DTEND;TZID=Europe/Madrid:20260906T000000
@@ -611,18 +587,6 @@ DESCRIPTION:Retrospectiva escultórica que recorre la evolución de este a
 LOCATION:Casa de América - de Cibeles\, 2\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:La lechuza de Minerva
-DTSTART;TZID=Europe/Madrid:20260304T000000
-DTEND;TZID=Europe/Madrid:20260510T000000
-UID:5751bb495e916d3fa72c7683491798d0cc77c5488c0c05ff684d197aabb81dd5
-CATEGORIES:exhibition
-DESCRIPTION:Varios artistas\, colectivos y activistas participan en divers
- as instalaciones que invitan a repensar el papel y la potencia del arte e
- n la ciudad\, en las instituciones y en la vida colectiva (\n\nhttps://www
- .circulobellasartes.com/exposiciones/la-lechuza-de-minerva/
-LOCATION:Círculo de Bellas Artes - de Alcalá\, 42\, Madrid\, 28014
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Premios COAM 2025
 DTSTART;TZID=Europe/Madrid:20260305T000000
 DTEND;TZID=Europe/Madrid:20260416T000000
@@ -669,16 +633,6 @@ DESCRIPTION:Exposición al aire libre que destaca la importancia de la lec
  tps://casalector.fundaciongsr.org/libros-a-la-calle-para-los-pequenos-y-jo
  venes-lectores/
 LOCATION:Casa del Lector (Matadero) - de la Chopera\, 14\, Madrid\, 28045
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Feria de Artesanía de Recoletos
-DTSTART;TZID=Europe/Madrid:20260323T110000
-DTEND;TZID=Europe/Madrid:20260412T210000
-UID:9b42c2c08e7c2d995ffbcb1ab4539fabb3a799a110428569440a4635183bbede
-CATEGORIES:market
-DESCRIPTION:Feria de artesanía organizada por AMOA en el Paseo de Recolet
- os con puestos de oficios artesanos y diseño.\n\nhttps://amoa.es/
-LOCATION:Paseo de Recoletos - Paseo de Recoletos\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:La historia no se repite\, pero rima. Dumile Feni: Guernica africa
@@ -757,797 +711,6 @@ DESCRIPTION:Muestra que conmemora los diez años del fallecimiento del au
  z.es/actividades/exposicion-pelo-de-tormenta-homenaje-francisco-nieva
 LOCATION:Fernán Gómez Centro Cultural de la Villa - de Colón \, 4\, Mad
  rid\, 28001
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mercado de Motores Madrid · 11 y  12 de Abril · Entrada GRATIS
-DTSTART;TZID=Europe/Madrid:20260411T110000
-DTEND;TZID=Europe/Madrid:20260412T210000
-UID:9b324117354da40b7396fa4d22521e35f53d3cc9f4d95c4207831a51fa798400
-CATEGORIES:market
-DESCRIPTION:El mercadillo más famoso de Madrid: moda vintage\, diseño\, 
- segunda mano\, artesanía\, música en vivo y foodtrucks en el Museo del F
- errocarril\n\nhttps://www.eventbrite.es/e/entradas-mercado-de-motores-madr
- id-11-y-12-de-abril-entrada-gratis-1984720303856
-LOCATION:Mercado de motores - 61 Paseo de las Delicias\, Madrid\, MD\, 280
- 45
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LEGO® Challenge 11 y 12 de abril en Mercado de Motores
-DTSTART;TZID=Europe/Madrid:20260411T113000
-DTEND;TZID=Europe/Madrid:20260412T143000
-UID:d2b648830a89696f514cb10885f1fbdf213f258b1452fc90c12d167c67351df9
-CATEGORIES:market
-DESCRIPTION:¡Prepárate para dar rienda suelta a tu creatividad y constru
- ir increíbles creaciones  en el LEGO® Challenge de este\n\nhttps://www.e
- ventbrite.es/e/entradas-lego-challenge-11-y-12-de-abril-en-mercado-de-moto
- res-1985438763789
-LOCATION:Mercado de motores - 61 Paseo de las Delicias\, Madrid\, MD\, 280
- 45
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Taller de Arte Abstracto con texturas– Mercado de Motores
-DTSTART;TZID=Europe/Madrid:20260411T113000
-DTEND;TZID=Europe/Madrid:20260412T123000
-UID:41b09668c07f59a97ead2e8a1901250a593080b9f630c7f62a6ff386a6195b69
-CATEGORIES:market
-DESCRIPTION:Taller de arte abstracto con textura  Crea sin presión\, cone
- cta con tu creatividad y llévate tu obra. El 11 y12 abril en Mercado de\n
- \nhttps://www.eventbrite.es/e/entradas-taller-de-arte-abstracto-con-textur
- as-mercado-de-motores-1985523621601
-LOCATION:Mercado de motores - 61 Paseo de las Delicias\, Madrid\, MD\, 280
- 45
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Visita guiada a Mercado de Motores y Museo del Ferrocarril
-DTSTART;TZID=Europe/Madrid:20260411T120000
-DTEND;TZID=Europe/Madrid:20260412T143000
-UID:884aa15a86ff24e1bb6a9f43948edecf58de4e529431b19d8317ed4e67b6536a
-CATEGORIES:market
-DESCRIPTION:Ven a disfrutar de una visita guiada a Mercado de Motores y al
-  Museo del Ferrocarril el 11 y 12 de ABRIL\, ¡te\n\nhttps://www.eventbrit
- e.es/e/entradas-visita-guiada-a-mercado-de-motores-y-museo-del-ferrocarril
- -1985439407715
-LOCATION:Mercado de motores - 61 Paseo de las Delicias\, Madrid\, MD\, 280
- 45
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cata de Quesos de Oveja  La Mueda 11 y  12 de abril| Mercado de Mo
- tores
-DTSTART;TZID=Europe/Madrid:20260411T130000
-DTEND;TZID=Europe/Madrid:20260412T140000
-UID:57fb345fb2481a016e75599f4f74b60e0fb1d16e3669cd08162fa49ba5d326b8
-CATEGORIES:market
-DESCRIPTION:Regálate un plan gourmet en Madrid: cata de quesos artesanale
- s de Toledo\, vinos manchegos y leche fresca de oveja.\n\nhttps://www.even
- tbrite.es/e/entradas-cata-de-quesos-de-oveja-la-mueda-11-y-12-de-abril-mer
- cado-de-motores-1985367425414
-LOCATION:Mercado de motores - 61 Paseo de las Delicias\, Madrid\, MD\, 280
- 45
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Taller de cócteles con Pardorán en Mercado de Motores
-DTSTART;TZID=Europe/Madrid:20260411T173000
-DTEND;TZID=Europe/Madrid:20260412T183000
-UID:e1d73d423655b7647bac29a26204ba734be2199ff5d94c2ff9c5e6e8c2eebdc7
-CATEGORIES:market
-DESCRIPTION:Descubre otra forma de disfrutar tus combinados: taller de 1 h
- ora para crear smoothails\, frescos\, equilibrados y fáciles de hacer en\
- n\nhttps://www.eventbrite.es/e/entradas-taller-de-cocteles-con-pardoran-en
- -mercado-de-motores-1985712925815
-LOCATION:Mercado de motores - 61 Paseo de las Delicias\, Madrid\, MD\, 280
- 45
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Crea tu Kokedama japonés el  12 de abril en Mercado de Motores
-DTSTART;TZID=Europe/Madrid:20260412T113000
-DTEND;TZID=Europe/Madrid:20260412T140000
-UID:fb83927e2202c040e3df119d3cdc64b847ff3dce12ddb08cb5990f53c28223d0
-CATEGORIES:market
-DESCRIPTION:Descubre el arte japonés del Kokedama en un taller creativo\,
-  natural y sostenible con Green\n\nhttps://www.eventbrite.es/e/entradas-cr
- ea-tu-kokedama-japones-el-12-de-abril-en-mercado-de-motores-1985366140571
-LOCATION:Mercado de motores - 61 Paseo de las Delicias\, Madrid\, MD\, 280
- 45
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Super Mario Galaxy: La película
-DTSTART;TZID=Europe/Madrid:20260412T114500
-DTEND;TZID=Europe/Madrid:20260412T132300
-UID:d86fe107e29df1ea664576f001c6fdb9c9d8a61a1cb0f6939a6be7aa64e38dda
-CATEGORIES:cinema
-DESCRIPTION:La película tiene lugar después de los acontecimientos de la
-  primera\, en la que dos hermanos\, Mario y Luigi\, y la princesa Peach em
- prenden una aventura hasta los confines del espacio y a través de la gala
- xia. Secuela de "Super Mario Bros: La película"\, basada en la saga "Mari
- o Galaxy".\n\nOriginal title: The Super Mario Galaxy Movie\n\nRelease year
- : 2026\n\nOriginal language: EN\n\nAudio: Doblada ES\n\nhttps://cinesembaj
- adores.es/pelicula/super-mario-galaxy-la-pelicula-doblada-al-espanol/?ciud
- ad=madrid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El mago de Oz
-DTSTART;TZID=Europe/Madrid:20260412T120000
-UID:430e68afe474ea9a82c45eb842aa48befa79645165bb5de1d49c0be165465eeb
-CATEGORIES:cinema
-DESCRIPTION:Dorothy\, que sueña con viajar "más allá del arco iris"\, v
- e su deseo hecho realidad cuando un tornado se la lleva con su perrito al 
- mundo de Oz. Pero la aventura solo acaba de comenzar: tras ofender a la Ma
- lvada Bruja del Oeste\, aconsejada por la Bruja Buena del Norte\, la niña
-  se dirige por el Camino Amarillo hacia la Ciudad Esmeralda\, donde vive e
- l todopoderoso Mago de Oz\, que puede ayudarla a regresar a Kansas. Durant
- e el viaje\, se hace amiga del Espantapájaros\, el Hombre de Hojalata y e
- l León Cobarde. El Espantapájaros desea un cerebro\, el Hombre de Hojala
- ta quiere un corazón\, y el León\, el coraje que le falta\; convencidos 
- de que el Mago también les puede ayudar a ellos\, deciden unirse a Doroth
- y en su odisea hasta la Ciudad Esmeralda.\n\nOriginal title: The Wizard of
-  Oz\n\nRelease year: 1939\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps
- ://www.cinetecamadrid.com/programacion/el-mago-de-oz-1
-LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Caras Locas: ¡Haz que tus dibujos hablen!
-DTSTART;TZID=Europe/Madrid:20260412T120000
-UID:ec94c6469141868862f1b5bd921ccb6f7e9fdd77422d4eb8f548992bb15b32df
-CATEGORIES:family
-DESCRIPTION:¿Sabías que una ceja un poco más alta puede cambiarlo todo?
-  En este taller aprenderemos el lenguaje secreto de los rostros. Dibujarem
- os desde la furia más explosiva hasta la sospecha más divertida. ¡Crear
- emos un catálogo de expresiones para que tus personajes no vuelvan a esta
- r "serios" nunca más! Imparte: Oscar Gordon. Público: de 8 a 12 años (6
-  y 7 años si se les da muy bien el dibujo)\n\nhttps://www.mataderomadrid.
- org/programacion/caras-locas-haz-que-tus-dibujos-hablen
-LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Domingo de clásicos: Apocalypse Now
-DTSTART;TZID=Europe/Madrid:20260412T120000
-DTEND;TZID=Europe/Madrid:20260412T143300
-UID:1faa9cbeda3cfe29daf0387c1520915f93c273162da6f88b93fd0e7292c07f4b
-CATEGORIES:cinema
-DESCRIPTION:Durante la guerra de Vietnam\, al joven Capitán Willard\, un 
- oficial de los servicios de inteligencia del ejército estadounidense\, se
-  le ha encomendado entrar en Camboya con la peligrosa misión de eliminar 
- a Kurtz\, un coronel renegado que se ha vuelto loco. El capitán deberá i
- r navegar por el río hasta el corazón de la selva\, donde parece ser que
-  Kurtz reina como un buda despótico sobre los miembros de la tribu Montag
- nard\, que le adoran como a un dios. (\n\nAudio: VOSE\n\nhttps://cinesemba
- jadores.es/pelicula/domingo-de-clasicos-apocalypse-now-vose/?ciudad=madrid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Altas capacidades
-DTSTART;TZID=Europe/Madrid:20260412T121000
-DTEND;TZID=Europe/Madrid:20260412T135100
-UID:18b635408cd1c80761a38445dcd18a364bf6a55484a2f8aa89a693b902344a2a
-CATEGORIES:cinema
-DESCRIPTION:Alicia y Gonzalo\, una pareja de clase media\, se encuentran c
- on la oportunidad de matricular a su hijo Fer en un colegio laico de élit
- e. Para los padres supone asomar la cabeza en la clase alta\, nuevas amist
- ades\, mayores ingresos\, ventajas incontables. Dicen hacerlo por su hijo.
-  En esta maravillosa contradicción entre los miedos y los principios mora
- les\, las aspiraciones de la pareja se llevarán por delante lo que\, hast
- a entonces\, creían incuestionable.\n\nRelease year: 2026\n\nOriginal lan
- guage: ES\n\nhttps://cinesembajadores.es/pelicula/altas-capacidades/?ciuda
- d=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La diatriba del perro
-DTSTART;TZID=Europe/Madrid:20260412T130000
-UID:f32bb44c2d3e466bea8bf2670fe1f8393345d539df3a39fbcd9193621e2ec5fb
-CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 4 plazas!\n\nhttps://teatrodelbarrio.com/la-d
- iatriba-del-perro/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El Último Vikingo
-DTSTART;TZID=Europe/Madrid:20260412T155000
-UID:f0ef9484aec1b7dfc7004cc930f1821ef08aa1b4b0000d2b5879da3242bde570
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 116 min
- utos | No recomendada para menores de 16 años\n\nOriginal title: Den sids
- te viking\n\nRelease year: 2025\n\nOriginal language: DA\n\nAudio: VOSE\n\
- nhttps://www.pillalas.com/pase/1063867/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Incontrolable
-DTSTART;TZID=Europe/Madrid:20260412T155000
-UID:724db60a9db1ace5a3a54393b6213f3863dcd84c5e57f32313f3ee64d7400942
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 120 min
- utos | No recomendada para menores de 12 años\n\nRelease year: 2006\n\nOr
- iginal language: FR\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/106374
- 3/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La buena hija
-DTSTART;TZID=Europe/Madrid:20260412T160000
-DTEND;TZID=Europe/Madrid:20260412T174100
-UID:9b37822cc23c7b5455fcc9f4b3b2f9b75717fae6476fd1dcd7a0fba9c9299e38
-CATEGORIES:cinema
-DESCRIPTION:OVIEDO - Sábado 11 de abril - 20:00 - Sesión perteneciente a
- l ciclo "No es lo que parece"\, moderado por Xabier Pérez\, cineasta\, pe
- riodista y divulgador.\n\nTras la separación de sus padres\, Carmela (Kia
- ra Arancibia) y su madre (Janet Novás) se mudan a casa de su abuela (Petr
- a Martínez). Mientras trata de adaptarse a su nueva situación\, Carmela 
- anhela pasar más tiempo en casa de su padre (Julián Villagrán)\, un art
- ista plástico a quien admira e idolatra. La sombra de este llevará a las
-  tres generaciones de mujeres de la familia a decidir el futuro que merece
- n. Adaptación al formato largometraje del corto homónimo de la propia J
- úlia de Paz.\n\nRelease year: 2026\n\nOriginal language: ES\n\nhttps://ci
- nesembajadores.es/pelicula/la-buena-hija/?ciudad=madrid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mi robot favorito
-DTSTART;TZID=Europe/Madrid:20260412T160000
-DTEND;TZID=Europe/Madrid:20260412T172600
-UID:ae2e87d160c9afe2c37388366691c7ed529f9d889b4ce5b890c4678d897f3044
-CATEGORIES:cinema
-DESCRIPTION:Cuando la astronauta Celeste despega hacia el espacio en su pr
- imera misión en solitario\, el robot guardián que la ha acompañado dura
- nte toda su infancia se queda solo preguntándose: ¿Y ahora qué? Una nan
- a del mañana sobre cómo encontrar tu lugar en el universo. Film sin diá
- logos y debut como director del DJ\, compositor y autor de novelas gráfic
- as Kid Koala (nombre profesional de Eric San).\n\nOriginal title: Space Ca
- det\n\nRelease year: 2026\n\nOriginal language: EN\n\nAudio: Doblada ES\n\
- nhttps://cinesembajadores.es/pelicula/mi-robot-favorito-doblada-al-espanol
- /?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Super Mario Galaxy: La película
-DTSTART;TZID=Europe/Madrid:20260412T160000
-DTEND;TZID=Europe/Madrid:20260412T173800
-UID:88581947c5151de42d5edf04496188a34e43ca8712808bffa5f609f109fb13e5
-CATEGORIES:cinema
-DESCRIPTION:La película tiene lugar después de los acontecimientos de la
-  primera\, en la que dos hermanos\, Mario y Luigi\, y la princesa Peach em
- prenden una aventura hasta los confines del espacio y a través de la gala
- xia. Secuela de "Super Mario Bros: La película"\, basada en la saga "Mari
- o Galaxy".\n\nOriginal title: The Super Mario Galaxy Movie\n\nRelease year
- : 2026\n\nOriginal language: EN\n\nAudio: Doblada ES\n\nhttps://cinesembaj
- adores.es/pelicula/super-mario-galaxy-la-pelicula-doblada-al-espanol/?ciud
- ad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Calle Málaga
-DTSTART;TZID=Europe/Madrid:20260412T160000
-DTEND;TZID=Europe/Madrid:20260412T175600
-UID:6f42f7faf3c84864a867440294d78ef6345d7000be7028370c7752fd2bfafa32
-CATEGORIES:cinema
-DESCRIPTION:María Ángeles (Carmen Maura) es una española de 79 años qu
- e vive sola en Tánger\, en el norte de Marruecos\, donde disfruta de su c
- iudad y de su vida diaria. Su vida da un giro cuando su hija Clara (Marta 
- Etura) llega desde Madrid para vender el apartamento en el que siempre ha 
- vivido. Decidida a quedarse en la ciudad que la vio crecer\, hará todo lo
-  posible para mantener su hogar y recuperar los objetos de toda una vida. 
- Por el camino\, redescubre\, contra todo pronóstico\, el amor y el deseo.
- \n\nRelease year: 2025\n\nOriginal language: ES\n\nhttps://cinesembajadore
- s.es/pelicula/calle-malaga/?ciudad=madrid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Calle Málaga
-DTSTART;TZID=Europe/Madrid:20260412T160000
-UID:965a7b82f2a32dec18dbd7d7e7446c4909b094f95ea664ed86e3d22ed3bf2068
-CATEGORIES:cinema
-DESCRIPTION:Versión Original Castellano | Duración 116 minutos | No reco
- mendada para menores de 12 años\n\nRelease year: 2025\n\nOriginal languag
- e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1063635/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Buena Hija
-DTSTART;TZID=Europe/Madrid:20260412T160000
-UID:28a2195511cef3fff61eb21aaf3d170ce20ebf7ecde7f75d1542a4766adedf08
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 103 min
- utos | No recomendada para menores de 12 años y distintivo especialmente 
- recomendada para el fomento de la igualdad de género\n\nRelease year: 202
- 6\n\nOriginal language: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase
- /1063745/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lapönia
-DTSTART;TZID=Europe/Madrid:20260412T160000
-UID:797e9d27df71ee0cb898c2e14d26e6f80b946dfbd3e73eb66e821511984fb06f
-CATEGORIES:cinema
-DESCRIPTION:Versión Original Castellano | Duración 89 minutos | No recom
- endada para menores de 12 años\n\nRelease year: 2026\n\nOriginal language
- : ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1063744/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Amarga Navidad
-DTSTART;TZID=Europe/Madrid:20260412T161500
-DTEND;TZID=Europe/Madrid:20260412T180600
-UID:d4aab738dc919b4520967982bbfcc2165003a6c6927dc94c675149eda81e0b74
-CATEGORIES:cinema
-DESCRIPTION:Elsa es una directora de publicidad cuya madre muere durante u
- n largo puente del mes de diciembre. Encuentra refugio en el trabajo\, aun
- que es más bien una huida hacia adelante. Trabaja sin parar y\, sin darse
-  cuenta\, no se concede el tiempo necesario para guardar el duelo por la a
- usencia materna. Hasta que una crisis de pánico la obliga a detenerse e i
- mponerse un descanso. Su pareja\, Bonifacio\, es su tabla de salvación en
-  esos momentos de crisis. Elsa decide viajar a la isla de Lanzarote acompa
- ñada por su amiga Patricia\, que también necesita alejarse de Madrid\, m
- ientras que Bonifacio se queda en la ciudad. La historia de estos tres per
- sonajes\, y algunos más\, se narran paralelamente a la del guionista y di
- rector de cine Raúl Durán\, entremezclando ficción y realidad.\n\nRelea
- se year: 2026\n\nOriginal language: ES\n\nhttps://cinesembajadores.es/peli
- cula/amarga-navidad/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hoppers
-DTSTART;TZID=Europe/Madrid:20260412T161500
-DTEND;TZID=Europe/Madrid:20260412T175900
-UID:cd549f360004663126229b9f33d8619327a8273fb27c18cf578ec1b3af2876c7
-CATEGORIES:cinema
-DESCRIPTION:La historia sigue a una joven\, Mabel\, que puede transferir s
- u mente a un castor robot con el objetivo de infiltrarse en el reino anima
- l. Acaba haciéndose amiga de un castor regio\, el Rey Jorge\, y uniendo a
-  los animales para luchar contra los planes de un promotor inmobiliario.\n
- \nRelease year: 2026\n\nOriginal language: EN\n\nAudio: Doblada ES\n\nhttp
- s://cinesembajadores.es/pelicula/hoppers-doblada-al-espanol/?ciudad=madrid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La loba (The Little Foxes\,1941)
-DTSTART;TZID=Europe/Madrid:20260412T173000
-UID:196312c6b5dacbe03696484fed701d6263e731c45f49babf673e3378d1980e5b
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Domingo 12 de abril a las 17:30h (Sala 1. Lillia
- n Hellman. Ficción\, memoria y compromiso) *Aunque las entradas aparezcan
-  como agotadas en web\, pueden adquirirse en taquilla entradas para las se
- siones del día (de 17h a 20h)\n\nhttps://entradasfilmoteca.sacatuentrada.
- es/es/productos/descripcion/la-loba
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Grazia
-DTSTART;TZID=Europe/Madrid:20260412T174500
-DTEND;TZID=Europe/Madrid:20260412T195700
-UID:22774263de1718f3ede2ccc03b8953e39e10f7967f61a6d7d18b6f907474248d
-CATEGORIES:cinema
-DESCRIPTION:Mariano De Santis\, presidente (ficiticio) de la República it
- aliana\, es un veterano político demócrata\, humanista y católico\, que
-  de repente comienza a dudar sobre varias importantes decisiones que debe 
- tomar\, en especial sobre si aprueba o no una ley de eutanasia\, planteán
- dose un gran dilema moral.\n\nRelease year: 2025\n\nOriginal language: IT\
- n\nAudio: VOSE\n\nhttps://cinesembajadores.es/pelicula/la-grazia-vose/?ciu
- dad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lapönia
-DTSTART;TZID=Europe/Madrid:20260412T175000
-UID:e9b24fa0a8e3e89172f7454713cba18241cdcccfd987b4d2607c3e1648359065
-CATEGORIES:cinema
-DESCRIPTION:Versión Original Castellano | Duración 89 minutos | No recom
- endada para menores de 12 años\n\nRelease year: 2026\n\nOriginal language
- : ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1063746/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Incontrolable (I swear)
-DTSTART;TZID=Europe/Madrid:20260412T180000
-DTEND;TZID=Europe/Madrid:20260412T200000
-UID:d04e7fdf21ce7110171399bbbb9a8b0fc9644a2e0374301ab6e6bcd4878456a6
-CATEGORIES:cinema
-DESCRIPTION:La historia real de John Davidson. Diagnosticado con Tourette 
- a los 15 años\, señalado como loco por sus compañeros\, luchó con una 
- condición que pocos habían presenciado. Ya adulto\, hizo campaña en fav
- or del síndrome de Tourette .\n\nOriginal title: I Swear\n\nRelease year:
-  2025\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://cinesembajadores.
- es/pelicula/incontrolable-i-swear-vose/?ciudad=madrid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Super Mario Galaxy: La película
-DTSTART;TZID=Europe/Madrid:20260412T180000
-DTEND;TZID=Europe/Madrid:20260412T193800
-UID:1e93a55002686c555ec8ed8372e7037765d3e7ca35fe6388a3defb2c7275a44d
-CATEGORIES:cinema
-DESCRIPTION:La película tiene lugar después de los acontecimientos de la
-  primera\, en la que dos hermanos\, Mario y Luigi\, y la princesa Peach em
- prenden una aventura hasta los confines del espacio y a través de la gala
- xia. Secuela de "Super Mario Bros: La película"\, basada en la saga "Mari
- o Galaxy".\n\nOriginal title: The Super Mario Galaxy Movie\n\nRelease year
- : 2026\n\nOriginal language: EN\n\nAudio: Doblada ES\n\nhttps://cinesembaj
- adores.es/pelicula/super-mario-galaxy-la-pelicula-doblada-al-espanol/?ciud
- ad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tres Adioses
-DTSTART;TZID=Europe/Madrid:20260412T180000
-UID:de384097820d3b870e8379262443b63bb365dd2369758cbee01305b861041399
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 122 min
- utos | No recomendada para menores de 12 años\n\nOriginal title: Tre ciot
- ole\n\nRelease year: 2025\n\nOriginal language: IT\n\nAudio: VOSE\n\nhttps
- ://www.pillalas.com/pase/1063868/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La doble vida de Virginia Woolf
-DTSTART;TZID=Europe/Madrid:20260412T180000
-UID:aaf3876d8f749c7a45ef41fa35b66fafa6d5c2c37154f49923d06e943b64b420
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/la-doble-vida-de-vir
- ginia-woolf/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Incontrolable
-DTSTART;TZID=Europe/Madrid:20260412T180500
-UID:5a2ad466e4de13eb99288bd767e0f3dc23ece7eaf63a71fe4069ae3646d87f21
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 120 min
- utos | No recomendada para menores de 12 años\n\nRelease year: 2006\n\nOr
- iginal language: FR\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/106374
- 8/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Calle Málaga
-DTSTART;TZID=Europe/Madrid:20260412T181500
-DTEND;TZID=Europe/Madrid:20260412T201100
-UID:232fde54f7600c10e4292904a0e5d737e19cf9bbf009dfd73bf8ae9665247641
-CATEGORIES:cinema
-DESCRIPTION:María Ángeles (Carmen Maura) es una española de 79 años qu
- e vive sola en Tánger\, en el norte de Marruecos\, donde disfruta de su c
- iudad y de su vida diaria. Su vida da un giro cuando su hija Clara (Marta 
- Etura) llega desde Madrid para vender el apartamento en el que siempre ha 
- vivido. Decidida a quedarse en la ciudad que la vio crecer\, hará todo lo
-  posible para mantener su hogar y recuperar los objetos de toda una vida. 
- Por el camino\, redescubre\, contra todo pronóstico\, el amor y el deseo.
- \n\nRelease year: 2025\n\nOriginal language: ES\n\nhttps://cinesembajadore
- s.es/pelicula/calle-malaga/?ciudad=madrid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Calle Málaga
-DTSTART;TZID=Europe/Madrid:20260412T181500
-UID:05fca692bcbbdb5a28db79f917d6ca8c526319bb01cfa1569b1a26ee61d6c765
-CATEGORIES:cinema
-DESCRIPTION:Versión Original Castellano | Duración 116 minutos | No reco
- mendada para menores de 12 años\n\nRelease year: 2025\n\nOriginal languag
- e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1063636/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Super Mario Galaxy: La película
-DTSTART;TZID=Europe/Madrid:20260412T183000
-DTEND;TZID=Europe/Madrid:20260412T200800
-UID:ee9d3a0aa2484c0618b9b5e0d701560b52f91b24b12bc9b8b6c6794836b4468b
-CATEGORIES:cinema
-DESCRIPTION:La película tiene lugar después de los acontecimientos de la
-  primera\, en la que dos hermanos\, Mario y Luigi\, y la princesa Peach em
- prenden una aventura hasta los confines del espacio y a través de la gala
- xia. Secuela de "Super Mario Bros: La película"\, basada en la saga "Mari
- o Galaxy".\n\nOriginal title: The Super Mario Galaxy Movie\n\nRelease year
- : 2026\n\nOriginal language: EN\n\nAudio: Doblada ES\n\nhttps://cinesembaj
- adores.es/pelicula/super-mario-galaxy-la-pelicula-doblada-al-espanol/?ciud
- ad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Altas capacidades
-DTSTART;TZID=Europe/Madrid:20260412T183000
-DTEND;TZID=Europe/Madrid:20260412T201100
-UID:caa13a045ec391a307bfb9217fe4083a5bc69bfb397e9eaad100c8db162134b0
-CATEGORIES:cinema
-DESCRIPTION:Alicia y Gonzalo\, una pareja de clase media\, se encuentran c
- on la oportunidad de matricular a su hijo Fer en un colegio laico de élit
- e. Para los padres supone asomar la cabeza en la clase alta\, nuevas amist
- ades\, mayores ingresos\, ventajas incontables. Dicen hacerlo por su hijo.
-  En esta maravillosa contradicción entre los miedos y los principios mora
- les\, las aspiraciones de la pareja se llevarán por delante lo que\, hast
- a entonces\, creían incuestionable.\n\nRelease year: 2026\n\nOriginal lan
- guage: ES\n\nhttps://cinesembajadores.es/pelicula/altas-capacidades/?ciuda
- d=madrid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Niebla
-DTSTART;TZID=Europe/Madrid:20260412T193000
-DTEND;TZID=Europe/Madrid:20260412T193000
-UID:f5c1c7ebb968eb8a2029978f386f4763212118ce95d6b31e1e8cb896ee68f191
-CATEGORIES:theater
-DESCRIPTION:Entradas agotadas desde 21.00€\n\nhttps://tienda.madrid-dest
- ino.com/es/nave-10/niebla/
-LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Valor Sentimental
-DTSTART;TZID=Europe/Madrid:20260412T195000
-UID:72fa47b3d07966c754ef948ea30778654c155a45bee3e50311bb2ccb83f55f3c
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 133 min
- utos | No recomendada para menores de 12 años\n\nOriginal title: Affeksjo
- nsverdi\n\nRelease year: 2025\n\nOriginal language: NO\n\nAudio: VOSE\n\nh
- ttps://www.pillalas.com/pase/1063749/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Prophecy: The Madame Blavatsky Legend
-DTSTART;TZID=Europe/Madrid:20260412T200000
-UID:ad53194841c72cb018aa3fe6e6adb1c5957b4aa299650e536ef040e4b5533cf7
-CATEGORIES:cinema
-DESCRIPTION:Helena P. Blavatsky afronta un juicio interpuesto por la Socie
- dad de Estudios Psíquicos londinense en el que se enfrenta al investigado
- r Robert Hodgson\, experto en asuntos esotéricos. A lo largo del juico se
-  desvela la vida de esta misteriosa mujer como personaje histórico envuel
- to en leyenda y controversia\, así como el origen y las actividades de la
-  Theosophical Society\, con sede en la India\, creada por ella en 1875. Un
-  viaje alrededor de uno de los personajes más intrigantes del mundo esot
- érico del s.XIX.\n\nAudio: VOSE\n\nhttps://www.cinetecamadrid.com/program
- acion/prophecy-madame-blavatsky-legend
-LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Saqueo en la ciudad (Mise à sac\,1967)
-DTSTART;TZID=Europe/Madrid:20260412T200000
-UID:d6aa24a4485250e2b3c384933e89319be1b750c0dc6b6962c6b742c0d0b21e14
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Domingo 12 de abril a las 20:00h (Sala 1. Kelly 
- Reichardt. Carta Blanca) *Aunque las entradas aparezcan como agotadas en w
- eb\, pueden adquirirse en taquilla entradas para las sesiones del día (de
-  17h a 20h)\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/productos/des
- cripcion/saqueo-en-la-ciudad
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Buena Hija
-DTSTART;TZID=Europe/Madrid:20260412T200000
-UID:f5bf4c2e93d0cfcdb253918c201e5c511242194947c1bb2a7c779c4f0c30fc0b
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 103 min
- utos | No recomendada para menores de 12 años y distintivo especialmente 
- recomendada para el fomento de la igualdad de género\n\nRelease year: 202
- 6\n\nOriginal language: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase
- /1063750/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Grazia
-DTSTART;TZID=Europe/Madrid:20260412T201000
-DTEND;TZID=Europe/Madrid:20260412T222200
-UID:9358f7042d443812d0598fcc364c585a389e6e5595864967df999455ac5342d4
-CATEGORIES:cinema
-DESCRIPTION:Mariano De Santis\, presidente (ficiticio) de la República it
- aliana\, es un veterano político demócrata\, humanista y católico\, que
-  de repente comienza a dudar sobre varias importantes decisiones que debe 
- tomar\, en especial sobre si aprueba o no una ley de eutanasia\, planteán
- dose un gran dilema moral.\n\nRelease year: 2025\n\nOriginal language: IT\
- n\nAudio: VOSE\n\nhttps://cinesembajadores.es/pelicula/la-grazia-vose/?ciu
- dad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La buena hija
-DTSTART;TZID=Europe/Madrid:20260412T202000
-DTEND;TZID=Europe/Madrid:20260412T220100
-UID:cb2da90f8654b813b65d2971f1353ae02b340d216deb4a318bcc3952ca99460d
-CATEGORIES:cinema
-DESCRIPTION:OVIEDO - Sábado 11 de abril - 20:00 - Sesión perteneciente a
- l ciclo "No es lo que parece"\, moderado por Xabier Pérez\, cineasta\, pe
- riodista y divulgador.\n\nTras la separación de sus padres\, Carmela (Kia
- ra Arancibia) y su madre (Janet Novás) se mudan a casa de su abuela (Petr
- a Martínez). Mientras trata de adaptarse a su nueva situación\, Carmela 
- anhela pasar más tiempo en casa de su padre (Julián Villagrán)\, un art
- ista plástico a quien admira e idolatra. La sombra de este llevará a las
-  tres generaciones de mujeres de la familia a decidir el futuro que merece
- n. Adaptación al formato largometraje del corto homónimo de la propia J
- úlia de Paz.\n\nRelease year: 2026\n\nOriginal language: ES\n\nhttps://ci
- nesembajadores.es/pelicula/la-buena-hija/?ciudad=madrid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Amarga Navidad
-DTSTART;TZID=Europe/Madrid:20260412T202000
-DTEND;TZID=Europe/Madrid:20260412T221100
-UID:8b41ea73f86fab5e8344a0921ff209639af5d842f6f7b9fce1629d7b416e0070
-CATEGORIES:cinema
-DESCRIPTION:Elsa es una directora de publicidad cuya madre muere durante u
- n largo puente del mes de diciembre. Encuentra refugio en el trabajo\, aun
- que es más bien una huida hacia adelante. Trabaja sin parar y\, sin darse
-  cuenta\, no se concede el tiempo necesario para guardar el duelo por la a
- usencia materna. Hasta que una crisis de pánico la obliga a detenerse e i
- mponerse un descanso. Su pareja\, Bonifacio\, es su tabla de salvación en
-  esos momentos de crisis. Elsa decide viajar a la isla de Lanzarote acompa
- ñada por su amiga Patricia\, que también necesita alejarse de Madrid\, m
- ientras que Bonifacio se queda en la ciudad. La historia de estos tres per
- sonajes\, y algunos más\, se narran paralelamente a la del guionista y di
- rector de cine Raúl Durán\, entremezclando ficción y realidad.\n\nRelea
- se year: 2026\n\nOriginal language: ES\n\nhttps://cinesembajadores.es/peli
- cula/amarga-navidad/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Incontrolable
-DTSTART;TZID=Europe/Madrid:20260412T202000
-UID:9b0ad2c96a90c82d4be56dcac7152c5dd62f2e1b24ccd59ac4079bd3f6f18ca4
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 120 min
- utos | No recomendada para menores de 12 años\n\nRelease year: 2006\n\nOr
- iginal language: FR\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/106375
- 1/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tres Adioses
-DTSTART;TZID=Europe/Madrid:20260412T202000
-UID:0241ab518332616f08344ad56e7ca0f605a297be5c7c6fddab25e55f0e69e48b
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 122 min
- utos | No recomendada para menores de 12 años\n\nOriginal title: Tre ciot
- ole\n\nRelease year: 2025\n\nOriginal language: IT\n\nAudio: VOSE\n\nhttps
- ://www.pillalas.com/pase/1063869/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La chica zurda
-DTSTART;TZID=Europe/Madrid:20260412T203000
-UID:1511e0643046d8aa8749aa45cccc6f4c5f34c9e4761759ae08babd3fbfac2d3c
-CATEGORIES:cinema
-DESCRIPTION:Una madre soltera y sus dos hijas regresan a Taipei tras vario
- s años viviendo en el campo para abrir un puesto en un bullicioso mercado
-  nocturno. Cada una a su manera\, tendrán que adaptarse a este nuevo ento
- rno para llegar a fin de mes y conseguir mantener la unidad familiar. Tres
-  generaciones de secretos familiares empiezan a desvelarse después de que
-  su abuelo le diga a la hija menor\, que es zurda\, que nunca use su "mano
-  del diablo". Película coescrita y coproducida por Sean Baker ( The Flori
- da Project\, Anora )\n\nOriginal title: 左撇子女孩\n\nRelease year: 2
- 025\n\nOriginal language: ZH\n\nAudio: VOSE\n\nhttps://www.cinetecamadrid.
- com/programacion/la-chica-zurda
-LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Incontrolable (I swear)
-DTSTART;TZID=Europe/Madrid:20260412T203000
-DTEND;TZID=Europe/Madrid:20260412T223000
-UID:c590b0d8d0282f76f4bf701f4d2961f7b9bcee99cde965c332c44b8882d64d05
-CATEGORIES:cinema
-DESCRIPTION:La historia real de John Davidson. Diagnosticado con Tourette 
- a los 15 años\, señalado como loco por sus compañeros\, luchó con una 
- condición que pocos habían presenciado. Ya adulto\, hizo campaña en fav
- or del síndrome de Tourette .\n\nOriginal title: I Swear\n\nRelease year:
-  2025\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://cinesembajadores.
- es/pelicula/incontrolable-i-swear-vose/?ciudad=madrid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Uyariy (Escuchar)
-DTSTART;TZID=Europe/Madrid:20260412T203000
-DTEND;TZID=Europe/Madrid:20260412T220500
-UID:05c8e2a9ff9414dcf0a581bcc4e6311e922f8d23f7bab4254f5753b4edb7b7a4
-CATEGORIES:cinema
-DESCRIPTION:Después del estallido social en Perú y la matanza del 9 de e
- nero de 2023 en Juliaca\, artistas del ande peruano nos harán viajar con 
- su música por la región de Puno y su historia. Una historia que sucede h
- oy en muchos lugares del mundo.\n\nhttps://cinesembajadores.es/pelicula/uy
- ariy-escuchar/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Designer is Dead
-DTSTART;TZID=Europe/Madrid:20260412T203000
-DTEND;TZID=Europe/Madrid:20260412T215600
-UID:b83e4350c7fc518541580b4f6af4cdba25cd7b794a1bd0ce5ee54a45682e8f0e
-CATEGORIES:cinema
-DESCRIPTION:Documental sobre el diseñador de moda Miguel Adrover. Mediant
- e materiales de archivo inéditos y testimonios clave\, reconstruye su his
- toria desde su fulgurante ascenso en la escena neoyorquina —donde fue ac
- lamado por figuras como Anna Wintour y galardonado con el CFDA Award— ha
- sta su desaparición gradual del foco mediático tras su polémico show Ut
- opia.\n\nRelease year: 2026\n\nOriginal language: ES\n\nhttps://cinesembaj
- adores.es/pelicula/the-designer-is-dead/?ciudad=madrid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El pensamiento. Los Torreznos
-DTSTART;TZID=Europe/Madrid:20260412T203000
-UID:696af7096164195c051f7948b44bbaa061265f109ff27a30626648aea0213b44
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/el-pensamiento-los-t
- orreznos/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Calle Málaga
-DTSTART;TZID=Europe/Madrid:20260412T203500
-UID:588fcf880a3a2181d81267270d4a6d7fb006214d1b6386d5db33e075b7349809
-CATEGORIES:cinema
-DESCRIPTION:Versión Original Castellano | Duración 116 minutos | No reco
- mendada para menores de 12 años\n\nRelease year: 2025\n\nOriginal languag
- e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1063637/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Matt Maltese
-DTSTART;TZID=Europe/Madrid:20260412T210000
-UID:cbe3d021ee618b8dc72ac64ba4352e2802cbc2eec6071bf1834a7f7e4733a228
-CATEGORIES:music
-DESCRIPTION:Concierto / Pop\n\nhttps://salavillanos.es/evento/matt-maltese
- /
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mafalda Cardenal
-DTSTART;TZID=Europe/Madrid:20260412T210000
-UID:fae848a53801ba44e3daa228064a7068cad7186762198057c5bd0f5bd4fcf840
-CATEGORIES:music
-DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://tickets.intromusica.com/
- mafaldacardenal/es/comprarEvento?idEvento=15018
-LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
- id
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Buena Hija
-DTSTART;TZID=Europe/Madrid:20260412T220000
-UID:8838c6dc9e0a6a87f519d00ad1b4eb0511b12ebf81fa4f3c861830a5bb39bbb9
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 103 min
- utos | No recomendada para menores de 12 años y distintivo especialmente 
- recomendada para el fomento de la igualdad de género\n\nRelease year: 202
- 6\n\nOriginal language: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase
- /1063752/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tres Adioses
-DTSTART;TZID=Europe/Madrid:20260412T222000
-UID:5ea1ee98bc08a7f3724e51e4aa533250146e6219eecc833199861346a42a2d33
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 122 min
- utos | No recomendada para menores de 12 años\n\nOriginal title: Tre ciot
- ole\n\nRelease year: 2025\n\nOriginal language: IT\n\nAudio: VOSE\n\nhttps
- ://www.pillalas.com/pase/1063800/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Incontrolable
-DTSTART;TZID=Europe/Madrid:20260412T223500
-UID:2d182c992657fb84bd8e3453add005b23b7dbf3491b9ff8920b9328cd107a96d
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 120 min
- utos | No recomendada para menores de 12 años\n\nRelease year: 2006\n\nOr
- iginal language: FR\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/106375
- 3/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El Último Vikingo
-DTSTART;TZID=Europe/Madrid:20260412T224000
-UID:97a779d9c305a5131339a28c48da19b5905dbf221566a1b8d8275f7ada53d883
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 116 min
- utos | No recomendada para menores de 16 años\n\nOriginal title: Den sids
- te viking\n\nRelease year: 2025\n\nOriginal language: DA\n\nAudio: VOSE\n\
- nhttps://www.pillalas.com/pase/1063870/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Calle Málaga
-DTSTART;TZID=Europe/Madrid:20260412T224500
-UID:4e8908cd0b57d1fb71a735c070d6ec4856a9ba4bf5f89b6b2a69dc640b7350da
-CATEGORIES:cinema
-DESCRIPTION:Versión Original Castellano | Duración 116 minutos | No reco
- mendada para menores de 12 años\n\nRelease year: 2025\n\nOriginal languag
- e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1063638/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:El universo del artista ante la cámara
@@ -2418,7 +1581,7 @@ SUMMARY:Presentación de la III Marcha Republicana
 DTSTART;TZID=Europe/Madrid:20260414T190000
 UID:c5eac03d9890f8922b3228cf64365fe1fd51540d80168df093619472a24e7758
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 1 plazas!\n\nhttps://teatrodelbarrio.com/pres
+DESCRIPTION:¡Ya solo quedan 5 plazas!\n\nhttps://teatrodelbarrio.com/pres
  entacion-de-la-iii-marcha-republicana/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
@@ -4000,14 +3163,16 @@ DESCRIPTION:La historia real de John Davidson. Diagnosticado con Tourette
 LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Reggae Workers Of The World (EEUU) + The Bandulus (EEUU)
+SUMMARY:Reggae Workers Of The World (EEUU) + The Bandulus (EEUU) + Leah Fa
+ rmer (EEUU)
 DTSTART;TZID=Europe/Madrid:20260416T213000
-UID:247c5747fc11877bc54b27cceece81366583c3e7d9f660930246c37d44e6f112
+UID:325fffa3660504eb41098fc9d468831bf9ea4b3c710d90a1a4725b00f0924bcc
 CATEGORIES:music
 DESCRIPTION:Precio de las entradas: 15€ Entradas a la venta en movingtic
  kets Bio/enlaces bandas: Reggae Workers os the Worls_facebook The Bandulus
- _facebook + The Bandulus_instagram Más información:\n\nhttps://gruta77.c
- om/events/reggae-workers-of-the-world-the-bandulus/var/ri-0.l-L2
+ _facebook + The Bandulus_instagram Leah Farmer_intagram Más información:
+ \n\nhttps://gruta77.com/events/reggae-workers-of-the-world-the-bandulus/va
+ r/ri-0.l-L2
 LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -4216,6 +3381,47 @@ DESCRIPTION:La instalación Photosynthesis –creada específicamente para
  políticas. Esta actividad forma parte de la segunda edición del Festival
   Biophest 2026\, consulta el programa completo aquí.\n\nhttps://www.mata
  deromadrid.org/programacion/instalacion-photosynthesis
+LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exposición de variedades de lechugas. ¿Qué cosechamos?
+DTSTART;TZID=Europe/Madrid:20260417T170000
+UID:ddc5107bebcaed6751f3f234edb0cb4fec8e30e2292dd0569e262d24d0d998e5
+CATEGORIES:exhibition
+DESCRIPTION:Organizada por Ecosecha Esta pequeña exposición de lechugas 
+ locales es una muestra de la diversidad de variedades que podemos disfruta
+ r en nuestras huertas y\, por qué no\, también en nuestra mesa. La recup
+ eración de todas estas variedades es fundamental para mejorar la calidad 
+ de nuestra alimentación y para no depender exclusivamente de lo que unas 
+ pocas corporaciones deciden poner en el mercado. En España se cultivan 
+ —o se cultivaban— cerca de 10.000 variedades de tomate\, de las aproxi
+ madamente 100.000 que existen en todo el mundo. Sin embargo\, en la actual
+ idad solo se mantiene en producción una pequeña parte de esa riqueza gen
+ ética\, y el número se reduce aún más cuando hablamos de los tomates q
+ ue llegan a nuestras mesas. Apenas unos cientos de variedades concentran l
+ a mayor parte de la producción mundial. Lo mismo ocurre con las lechugas\
+ , acelgas\, repollos\, calabacines\, patatas y con la gran mayoría de las
+  especies hortícolas conocidas. La Soberanía Alimentaria pasa necesariam
+ ente por conocer\, conservar y aprovechar esta diversidad. Consumidores y 
+ agricultores avanzan de la mano\, explorando variedades y generando sinerg
+ ias que fortalecen el sistema alimentario. En este modelo\, la producción
+  local y de proximidad ocupa un lugar central\, haciendo el proceso más e
+ cológico\, justo y resiliente. ECOSECHA es el nombre bajo el que Gneis So
+ ciedad Cooperativa Madrileña desarrolla su línea de producción ecológi
+ ca certificada\, que ofrece productos hortícolas de temporada. Apuesta po
+ r el respeto al medio ambiente en el desarrollo de su actividad\, compatib
+ ilizando con la calidad de los puestos de trabajo\, y una agricultura ecol
+ ógica que respete la salud de los ecosistemas y\, por tanto\, la del ser 
+ humano. Desde 2010 es promotora del proyecto Banco de Intercambio de Semil
+ las (BIS) en Intermediae Matadero\, una iniciativa que apuesta por la desc
+ entralización del control de las semillas y propone cuestionar los modelo
+ s de gestión que generamos o de los que formamos parte en la cultura y en
+  la sociedad contemporánea. El Banco de Intercambio de Semillas\, junto c
+ on las actividades que impulsa\, se erige como símbolo y herramienta de l
+ ucha por la transformación del actual sistema agroindustrial. Esta activi
+ dad forma parte de la segunda edición del Festival Biophest 2026\, consu
+ lta el programa completo aquí .\n\nhttps://www.mataderomadrid.org/program
+ acion/exposicion-de-variedades-de-lechugas-que-cosechamos
 LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -7224,6 +6430,16 @@ LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
  \, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Dramas\, risas y culos: Homenaje a la más Divertristisima\, Marta
+  Plaza.
+DTSTART;TZID=Europe/Madrid:20260430T183000
+UID:5d1b692aaecfbd95ab95e48a19a20eef56e3a782f5a69ebf670603bfe51620d8
+CATEGORIES:theater
+DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/dramas-risas-y-culos
+ -homenaje-a-la-mas-divertristisima-marta-plaza/
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Calle sin salida (Dead End\, 1937) + Tierra de España (Spanish Ea
  rth\, Joris Ivens\, 1937)
 DTSTART;TZID=Europe/Madrid:20260430T190000
@@ -7723,5 +6939,22 @@ CATEGORIES:music
 DESCRIPTION:Concierto\n\nhttps://salavillanos.es/evento/serena-brancale-sa
  cro-tour-delia-sicilia-bedda-tour/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ciclo de conferencias: Breve historia del blockbuster
+DTSTART;TZID=Europe/Madrid:20260512T183000
+UID:b96752d6169a057ac8b9338caecac3b31304f7d67edee91980f9d4e93a60be31
+CATEGORIES:cinema
+DESCRIPTION:El cine de gran espectáculo\, conocido como blockbuster a par
+ tir de Tiburón (1975)\, tiene un enorme atractivo popular. Sin embargo\, 
+ aún en nuestros días es un gran desconocido por lo que se refiere a sus 
+ cualidades artísticas y sus características de producción y recepción.
+  Elisa McCausland y Diego Salgado\, autores del ensayo El cine como espect
+ áculo: 50 blockbusters esenciales de ayer y hoy (Editorial UOC\, 2025) pr
+ esentan este ciclo de conferencias y proyecciones que pone en valor este r
+ egistro desde los primeros pasos del medio hasta hoy.\n\nhttps://www.cinet
+ ecamadrid.com/programacion/ciclo-de-conferencias-breve-historia-del-blockb
+ uster
+LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 END:VCALENDAR

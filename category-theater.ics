@@ -2,43 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:La diatriba del perro
-DTSTART;TZID=Europe/Madrid:20260412T130000
-UID:f32bb44c2d3e466bea8bf2670fe1f8393345d539df3a39fbcd9193621e2ec5fb
-CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 4 plazas!\n\nhttps://teatrodelbarrio.com/la-d
- iatriba-del-perro/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La doble vida de Virginia Woolf
-DTSTART;TZID=Europe/Madrid:20260412T180000
-UID:aaf3876d8f749c7a45ef41fa35b66fafa6d5c2c37154f49923d06e943b64b420
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/la-doble-vida-de-vir
- ginia-woolf/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Niebla
-DTSTART;TZID=Europe/Madrid:20260412T193000
-DTEND;TZID=Europe/Madrid:20260412T193000
-UID:f5c1c7ebb968eb8a2029978f386f4763212118ce95d6b31e1e8cb896ee68f191
-CATEGORIES:theater
-DESCRIPTION:Entradas agotadas desde 21.00€\n\nhttps://tienda.madrid-dest
- ino.com/es/nave-10/niebla/
-LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El pensamiento. Los Torreznos
-DTSTART;TZID=Europe/Madrid:20260412T203000
-UID:696af7096164195c051f7948b44bbaa061265f109ff27a30626648aea0213b44
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/el-pensamiento-los-t
- orreznos/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:¡Ay\, Carmela!
 DTSTART;TZID=Europe/Madrid:20260413T193000
 UID:61d0df16221d2041b2a55ab66a273445633e9665c0ddf400b1466b9eac64e162
@@ -52,7 +15,7 @@ SUMMARY:Presentación de la III Marcha Republicana
 DTSTART;TZID=Europe/Madrid:20260414T190000
 UID:c5eac03d9890f8922b3228cf64365fe1fd51540d80168df093619472a24e7758
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 1 plazas!\n\nhttps://teatrodelbarrio.com/pres
+DESCRIPTION:¡Ya solo quedan 5 plazas!\n\nhttps://teatrodelbarrio.com/pres
  entacion-de-la-iii-marcha-republicana/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
@@ -320,6 +283,16 @@ UID:4e7c2d95c9478ff1ce19bdd651693f3671fcc7f156a2b138899bbc1620f9cea0
 CATEGORIES:theater
 DESCRIPTION:¡Ya solo quedan 1 plazas!\n\nhttps://teatrodelbarrio.com/pepe
  -viyuela-encerrona/
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dramas\, risas y culos: Homenaje a la más Divertristisima\, Marta
+  Plaza.
+DTSTART;TZID=Europe/Madrid:20260430T183000
+UID:5d1b692aaecfbd95ab95e48a19a20eef56e3a782f5a69ebf670603bfe51620d8
+CATEGORIES:theater
+DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/dramas-risas-y-culos
+ -homenaje-a-la-mas-divertristisima-marta-plaza/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT

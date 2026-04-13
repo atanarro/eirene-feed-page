@@ -2,25 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Matt Maltese
-DTSTART;TZID=Europe/Madrid:20260412T210000
-UID:cbe3d021ee618b8dc72ac64ba4352e2802cbc2eec6071bf1834a7f7e4733a228
-CATEGORIES:music
-DESCRIPTION:Concierto / Pop\n\nhttps://salavillanos.es/evento/matt-maltese
- /
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mafalda Cardenal
-DTSTART;TZID=Europe/Madrid:20260412T210000
-UID:fae848a53801ba44e3daa228064a7068cad7186762198057c5bd0f5bd4fcf840
-CATEGORIES:music
-DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://tickets.intromusica.com/
- mafaldacardenal/es/comprarEvento?idEvento=15018
-LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
- id
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Deadletter
 DTSTART;TZID=Europe/Madrid:20260414T203000
 UID:e91e60eff8df819914402503efb4e4c9a3283a3506d924243e0c42c6b77e6229
@@ -48,14 +29,16 @@ DESCRIPTION:Concierto / Electronic / Pop\n\nhttps://salavillanos.es/evento
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Reggae Workers Of The World (EEUU) + The Bandulus (EEUU)
+SUMMARY:Reggae Workers Of The World (EEUU) + The Bandulus (EEUU) + Leah Fa
+ rmer (EEUU)
 DTSTART;TZID=Europe/Madrid:20260416T213000
-UID:247c5747fc11877bc54b27cceece81366583c3e7d9f660930246c37d44e6f112
+UID:325fffa3660504eb41098fc9d468831bf9ea4b3c710d90a1a4725b00f0924bcc
 CATEGORIES:music
 DESCRIPTION:Precio de las entradas: 15€ Entradas a la venta en movingtic
  kets Bio/enlaces bandas: Reggae Workers os the Worls_facebook The Bandulus
- _facebook + The Bandulus_instagram Más información:\n\nhttps://gruta77.c
- om/events/reggae-workers-of-the-world-the-bandulus/var/ri-0.l-L2
+ _facebook + The Bandulus_instagram Leah Farmer_intagram Más información:
+ \n\nhttps://gruta77.com/events/reggae-workers-of-the-world-the-bandulus/va
+ r/ri-0.l-L2
 LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
