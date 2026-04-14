@@ -1,5 +1,5 @@
 Eirene feed debug
-Total events: 7
+Total events: 8
 
 [1] Mercado de las Ranas
   id: 80aa724c582765357f301b15c162b66deec2b47017d60f2aacdcdb898df7243e
@@ -67,7 +67,18 @@ Total events: 7
   url: https://www.esmadrid.com/agenda/mercadillo-minerales-madrid-escuela-superior-ingenieros-minas
   description: Mercadillo de minerales, fosiles, gemas y conchas en la Escuela Superior de Ingenieros de Minas (primer domingo de cada mes, excepto agosto).
 
-[7] Mercado Productores Alcobendas
+[7] Mercado de Motores Madrid · 9 y  10 de Mayo · Entrada GRATIS
+  id: 7e53a59db2f8041b3a9f61a6a49f5797b1a66c40ca0ffda3d90d7cef218f2123
+  start: 2026-05-09T11:00:00+02:00
+  end: 2026-05-10T21:00:00+02:00
+  category: market
+  source: mercado_de_motores
+  location: Mercado de motores - 61 Paseo de las Delicias, Madrid, MD, 28045
+  coordinates: 40.39883739999999, -3.6910858
+  url: https://www.eventbrite.es/e/entradas-mercado-de-motores-madrid-9-y-10-de-mayo-entrada-gratis-1987309958583
+  description: El mercadillo más famoso de Madrid: moda vintage, diseño, segunda mano, artesanía, música en vivo y foodtrucks en el Museo del Ferrocarril
+
+[8] Mercado Productores Alcobendas
   id: 5851e0cb10fd3883abd6eedb255da8079f5f6d08594c896dd8631eec43c17600
   start: 2026-05-10T10:00:00+02:00
   end: 2026-05-10T16:00:00+02:00
