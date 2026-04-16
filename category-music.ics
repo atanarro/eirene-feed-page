@@ -2,16 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Tarchi
-DTSTART;TZID=Europe/Madrid:20260415T210000
-UID:bd78b2dc9529997c5e9a0f02616057010d53b348bede5d200a83df739389d50b
-CATEGORIES:music
-DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://dice.fm/event/2weyb6-tar
- chi-15th-apr-la-riviera-madrid-tickets
-LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
- id
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Pajaro Sunrise
 DTSTART;TZID=Europe/Madrid:20260416T203000
 UID:d247fe1f3b89375789c71ea865f160a98939932b1058696cf7d3d75b4c3e76d2
@@ -118,6 +108,15 @@ DESCRIPTION:Precio de las entradas: 20€/24€ Entradas a la venta en mov
  cebook + Bannanos_X + Bannanos_youtube\n\nhttps://gruta77.com/events/the-r
  ezillos-reino-unido/var/ri-0.l-L2
 LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Floyd Lavine & Kiko Navarro + Dj Mois
+DTSTART;TZID=Europe/Madrid:20260417T235900
+UID:d683ad134919681b3efaa45e86179083f46293d89d83932e1724a6f0c58e86b9
+CATEGORIES:music
+DESCRIPTION:Club\n\nhttps://salavillanos.es/evento/floyd-lavine-kiko-navar
+ ro-acid-hero/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sesión musical. Reimaginación del disco Stevie Wonder's Journey 
@@ -764,5 +763,36 @@ CATEGORIES:music
 DESCRIPTION:Concierto / Electronic / Flamenco\n\nhttps://salavillanos.es/e
  vento/lela-soto/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zé Ibarra
+DTSTART;TZID=Europe/Madrid:20260515T203000
+UID:429f32db37592d9199251c5ab35035c0dea1a24b5a2df4b5d3e681001ba876b3
+CATEGORIES:music
+DESCRIPTION:Concierto / Villanos del Jazz\n\nhttps://salavillanos.es/event
+ o/ze-ibarra/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El Drogas (Segunda fecha)
+DTSTART;TZID=Europe/Madrid:20260515T203000
+UID:90c4113326fba12274fc3b913449a43e9776bd6c0f0657b2fcf4bb0684352d3a
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:00 pm\n\nhttps://entradas.eldrogas.com/we
+ b/?menu=1162&pagina=entradas&item=60346&siteID=eldrogas
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Pandoras (EEUU) + Antimums\; En Escenarios Mahou
+DTSTART;TZID=Europe/Madrid:20260515T213000
+UID:069811e412c284670db6d1c53999ca1dde9d59c48d846d6458166aace0af335d
+CATEGORIES:music
+DESCRIPTION:Precio de las entradas: 21€/25€ Entradas a la venta en mov
+ ingtickets Bio/enlaces bandas: The Pandoras_facebook + The Pandoras_instag
+ ram AntiMums_facebook + AntiMums_instagram Más información: The Pandoras
+  es una banda de mujeres de culto de garage\n\nhttps://gruta77.com/events/
+ the-pandoras-eeuu/var/ri-0.l-L2
+LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
 END:VEVENT
 END:VCALENDAR
