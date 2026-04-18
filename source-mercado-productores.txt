@@ -1,5 +1,5 @@
 Eirene feed debug
-Total events: 4
+Total events: 5
 
 [1] Mercado Productores Planetario
   id: 97df62ce46cfe5e79bf658bdb10d756374fa1323b6765a142eb3ae92a1b0102e
@@ -44,3 +44,14 @@ Total events: 4
   coordinates: 40.554188, -3.648976
   url: https://mercadoproductores.es/mp-alcobendas/
   description: Mercado de productores locales y artesanos en Alcobendas con alimentos de proximidad y propuestas gastronomicas.
+
+[5] Mercado Productores Planetario
+  id: 182e0f28190809325a4ed91d5ba114266ec1b3722ab70a5274fed64d11b62ff5
+  start: 2026-05-17T10:00:00+02:00
+  end: 2026-05-17T16:00:00+02:00
+  category: market
+  source: mercado_productores
+  location: Mercado Productores Planetario - Avenida del Planetario esquina Calle Meneses, Madrid
+  coordinates: 40.392053, -3.679427
+  url: https://mercadoproductores.es/mp-planetario/
+  description: Mercado de productores locales y artesanos en Planetario con alimentacion sostenible, productos de cercania y actividades al aire libre.
