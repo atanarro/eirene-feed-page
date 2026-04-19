@@ -2,6 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
+SUMMARY:Exponencial. De analógicos a digitales
+DTSTART;TZID=Europe/Madrid:20240514T000000
+DTEND;TZID=Europe/Madrid:20271231T000000
+UID:f5757770ba2619f835632f368e9ae1c25e8353ae577ea62f600b1f84611272c3
+CATEGORIES:exhibition
+DESCRIPTION:Exposición permanente que explora el creciente impacto que ha
+  tenido el desarrollo de las telecomunicaciones en todos los ámbitos de n
+ uestras vidas (Espacio Fundación Telefónica.\n\nhttp://espacio.fundacio
+ ntelefonica.com/
+LOCATION:Espacio Fundación Telefónica - de Fuencarral\, 3\, Madrid\, 280
+ 04
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:El martirio de San Andrés
 DTSTART;TZID=Europe/Madrid:20250303T000000
 DTEND;TZID=Europe/Madrid:20260630T000000
@@ -526,6 +539,19 @@ LOCATION:Museo Nacional Thyssen-Bornemisza - del Prado\, 8\, Madrid\, 2801
  4
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Eclosión. El Círculo de Bellas Artes en los 80 y 90
+DTSTART;TZID=Europe/Madrid:20260225T000000
+DTEND;TZID=Europe/Madrid:20260510T000000
+UID:df8843aa27649dc0af2e4f4d0218ba29b3cf53a3e96fcc516a3eef4ad11ded67
+CATEGORIES:exhibition
+DESCRIPTION:Exposición que revisa su periodo de renovación y la volunt
+ ad de convertirse en un centro cultural multidisciplinar\, innovador y con
+ ectado con las necesidades de su tiempo (Círculo de Bell\n\nhttps://www.c
+ irculobellasartes.com/exposiciones/eclosion-el-circulo-de-bellas-artes-en-
+ los-80-y-90/
+LOCATION:Círculo de Bellas Artes - de Alcalá\, 42\, Madrid\, 28014
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Madrid Collects. 50 Contemporary Art Collections
 DTSTART;TZID=Europe/Madrid:20260226T000000
 DTEND;TZID=Europe/Madrid:20260906T000000
@@ -647,16 +673,6 @@ DESCRIPTION:Exposición al aire libre que destaca la importancia de la lec
  tps://casalector.fundaciongsr.org/libros-a-la-calle-para-los-pequenos-y-jo
  venes-lectores/
 LOCATION:Casa del Lector (Matadero) - de la Chopera\, 14\, Madrid\, 28045
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Utopía en llamas
-DTSTART;TZID=Europe/Madrid:20260320T180000
-DTEND;TZID=Europe/Madrid:20260426T180000
-UID:a2d55cc52793d807a2dc3a7a9b1845d2fab03f29c67826917a62789076be6586
-CATEGORIES:theater
-DESCRIPTION:Texto Alda Lozano Dirección Concha Delgado y Sandra Ferrús\n
- \nhttps://dramatico.inaem.gob.es/evento/utopia-en-llamas/
-LOCATION:Teatro Maria Guerrero - Calle de Tamayo y Baus\, 4\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Un instante atrapado en bronce: patrimonio recuperado
@@ -824,1447 +840,6 @@ DESCRIPTION:La fotoperiodista venezolana muestra varias fotografías tomad
  30 may).\n\nhttps://www.casamerica.es/exposiciones/todo-empieza-con-ausenc
  ia
 LOCATION:Casa de América - de Cibeles\, 2\, Madrid\, 28014
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TALLER Infantil / El desafío del bosque
-DTSTART;TZID=Europe/Madrid:20260418T100000
-UID:ce2cef6d519073f5a31a594b648b22d4a520cb60b42b156b652f97c9a4709ba5
-CATEGORIES:family
-DESCRIPTION:Sábado 18 de abril 2026 de 10 a 11 h. en Taller Matadero Impa
- rtido por la Asociación para la Certificación Española Forestal (PEFC E
- spaña) y dirigido a público infantil a partir de 6 años. Actividad grat
- uita con aforo limitado previa descarga de entrada a partir del 8 de abril
-  de 2026 a las 12 h. (máximo 15 personas). Juego infantil en el que los n
- iños\, organizados en equipos\, participan activamente a través de una r
- uleta que plantea preguntas y desafíos relacionados con la naturaleza\, l
- a biofilia y los productos de origen forestal. Las respuestas pueden expre
- sarse de forma verbal o mediante mímica\, lo que fomenta la creatividad\,
-  la comunicación y el trabajo en equipo. Esta actividad educativa combina
-  diversión y aprendizaje\, ayudando a los niños a comprender el valor de
-  la naturaleza\, su vínculo con nuestro bienestar y la importancia de cui
- darla y protegerla. Esta actividad del Festival Biophest 2026 cuenta con e
- l patrocinio de la Asociación para la Certificación Española Forestal (
- PEFC España). PEFC España es una organización no gubernamental sin áni
- mo de lucro que promueve y divulga la Gestión Forestal Sostenible\, a tra
- vés de la certificación forestal y de la cadena de custodia de los produ
- ctos del bosque. Esto contribuye a la conservación ambiental y de la biod
- iversidad y promueve la economía social\, la circularidad y el desarrollo
-  sostenible.\n\nhttps://www.mataderomadrid.org/programacion/taller-infanti
- l-el-desafio-del-bosque
-LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clásicos al detalle: Sorpresa
-DTSTART;TZID=Europe/Madrid:20260418T100000
-DTEND;TZID=Europe/Madrid:20260418T143000
-UID:a502335166e13ac3ee19b7cc0f95dadad6424b834816c911922d4e188c8588a5
-CATEGORIES:cinema
-DESCRIPTION:En colaboración con JL & BEA organizamos estos talleres matin
- ales sobre análisis fílmico en los que poder analizar\, diseccionar y co
- mentar algunos clásicos de la historia del cine de forma innovadora y o
- riginal..En esta ocasión\, excepcionalmente\, será sorpresa el contenido
-  y la película a analizar.\n\n\nLa idea es que durante la mañana (de 10
-  a 14:30 h aproximadamente) se pueda analizar entre todos las diversas pa
- rtes y secuencias de una película. Se aprenderán detalles del rodaje\, s
- e analizarán las diversas partes del guión y se comentarán las diferent
- es interpretaciones del argumento... y de la vida 🙂     \n      
-  \nSe trata de hacer una inmersión en el cine\, analizando y diseccionan
- do de forma participativa. Ideal para cinéfilos y cinéfilas que quieran 
- conocer y analizar cine al detalle\, disfrutando y aprendiendo del cine de
- sde el propio cine.\n\nhttps://cinesembajadores.es/pelicula/clasicos-al-de
- talle-sorpresa/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cuentacuentos infantil de 0 a 6 años
-DTSTART;TZID=Europe/Madrid:20260418T110000
-UID:35423025621ba5b776a39cdf58bef217e4a85fe9c928867982473f6a26c0deba
-CATEGORIES:family
-DESCRIPTION:18 Abril 2026 CUENTACUENTOS INFANTIL ¡Ven a disfrutar de nues
- tro cuentacuentos infantil de 0 a 6 años en La Anónima Librería ! Selec
- cionaremos una variedad de cuentos con historias elaboradas y llenas de im
- ágenes coloridas.  Vamos a fomentar la participación de los niños\, co
- n preguntas y animándoles a compartir ideas. Habrá actividades relaciona
- das para reforzar la comprensión y estimular su creatividad. Te ofrecemos
-  una experiencia divertida y grupal donde crear un ambiente acogedor para 
- todos. Cuándo : sábado 18 de abril a las 11:00 h. Entrada : Niño + adul
- to : 6 euros Niño extra : 3 euros Adulto extra : 2 euros Es imprescindibl
- e reservar a través de la web o escribiéndonos un correo a hola@laanonim
- alibreria.com\n\nhttps://laanonimalibreria.com/evento/169/cuentacuentos-in
- fantil-de-0-a-6-anos/
-LOCATION:La Anonima Libreria - C/ Embajadores\, 166 - Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Piccolino. Un cine concierto
-DTSTART;TZID=Europe/Madrid:20260418T110000
-UID:5cda3befc9acf76196458c2dcf6d7e48a20a165839558e6abaf7a130755bd934
-CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 4 plazas!\n\nhttps://teatrodelbarrio.com/infa
- ntil-piccolino/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Primera jornada de charlas. Bienestar\, naturaleza y mente conecta
- da
-DTSTART;TZID=Europe/Madrid:20260418T113000
-UID:070dd649bbb2e1464a1ab780e67f15e5dc34297ebd1faff8e78bf366cdd0f19f
-CATEGORIES:talk
-DESCRIPTION:Bienestar\, naturaleza y mente conectada Ciclo de charlas en S
- ala Plató de Cineteca (Primera parte) 18 de abril de 11.30 a 14.15 h. en 
- Sala Plató de Cineteca Actividades con acceso gratuito hasta completar af
- oro. Apertura de puertas a las 11.15 h. Vivimos en una época que nos invi
- ta a repensar nuestras conexiones: con nuestro cuerpo\, con el entorno y c
- on las redes visibles e invisibles que sostienen la vida. Esta primera jor
- nada del ciclo de charlas del II Festival Biophest propone un recorrido qu
- e va desde la respiración como puente entre cuerpo y cerebro\, hasta la n
- aturaleza como fuente de equilibrio emocional y compromiso ecológico\, pa
- ra culminar en el micelio como materia y metáfora de interdependencia. A 
- través del diálogo entre ciencia\, psicología ambiental y arte\, explor
- aremos modos más conscientes y conectados de habitar el mundo. La respira
- ción\, una puerta al cerebro Conferencia de Nazareth Castellanos De 11.30
-  a 12.15h. en Sala Plató de Cineteca La respiración no es solo un proces
- o de oxigenación de la sangre\, como habíamos entendido. Según investig
- aciones recientes\, la respiración modula la actividad del cerebro\, favo
- reciendo o dificultando los procesos cognitivos y emocionales. En esta cha
- rla\, la prestigiosa neurocientífica y divulgadora Nazareth Castellanos n
- os guiará para descubrir cómo la respiración puede convertirse en una h
- erramienta eficaz para el cuidado y la prevención de la salud mental. Nat
- uraleza y emoción. Una explicación del Eco-Bienestar desde la Psicologí
- a Ambiental Conferencia de José Antonio Corraliza De 12.30 a 13.15 h. en 
- Sala Plató de Cineteca La tecnología agiliza muchas de las tareas de la 
- vida cotidiana. Sin embargo\, su uso excesivo puede generar experiencias s
- uperficiales que nos alejan del entorno natural. Frente a ello\, la natura
- leza permanece como una fuente inagotable de bienestar emocional y como un
-  recurso estratégico esencial. Reconectar con ella no solo contribuye a r
- estaurar el equilibrio personal y el bienestar psicológico\, sino que tam
- bién fortalece el compromiso activo con la preservación del medioambient
- e. Es en la naturaleza donde surgen las emociones que nos reconfortan y do
- nde se cultiva un auténtico compromiso proambiental. Los hongos y el mice
- lio como materia y como metáfora Conferencia de Helen Torres De 13.30 a 1
- 4.15 h. en Sala Plató de Cineteca ¿Cómo pueden los hongos ayudarnos a p
- ensar en otras formas de vivir y morir? ¿Podemos cambiar nuestra forma de
-  relacionarnos\, entre humanos y con no humanos\, inspirándonos en el mic
- elio? ¿Qué podemos aprender de esa red subterránea que entrelaza organi
- smos y sostiene la vida en el planeta? ¿Y qué tiene que ver el arte en t
- odo esto? Estas preguntas serán las guías que nos lleven por los caminos
-  enredados entre arte y ciencia para pensar a los hongos y al micelio como
-  materia y como metáfora para pensar en otros mundos posibles. NAZARETH C
- ASTELLANOS es licenciada en Física Teórica y doctora en Neurociencia por
-  la Universidad Autónoma de Madrid. Lleva más de veinte años dedicada a
-  la investigación científica\, y ha empleado la última década en estud
- iar el impacto de la respiración sobre la dinámica neuronal. Ha trabajad
- o en universidades europeas como el King’s College británico o el Insti
- tuto Max Planck alemán. Dirige un laboratorio que investiga la neurocienc
- ia de la meditación\, y la relación entre el cerebro y el resto del cuer
- po. Compagina esta labor de investigación con la comunicación científic
- a\, y ha publicado recientemente el ensayo ‘El puente donde habitan las 
- mariposas’ (Siruela)\, que ha superado los 100.000 ejemplares vendidos. 
- @nazareth.castellanos JOSÉ ANTONIO CORRALIZA es una referencia en el ámb
- ito de la Psicología Ambiental\, en cuya labor académica y científica h
- a explorado profundamente la relación entre las personas y su entorno. Su
-  investigación se ha centrado en comprender cómo las emociones trascende
- ntales y la empatía hacia la naturaleza moldean nuestra percepción y com
- portamiento ambiental\, contribuyendo así a un diálogo esencial entre el
-  ser humano y el mundo natural. HELEN TORRES es socióloga\, traductora y 
- profesora. Su trabajo se centra en las articulaciones entre lenguaje\, art
- es y política desde perspectivas feministas y anticoloniales. Facilita ta
- lleres de fabulación especulativa y seminarios sobre las propuestas de Do
- nna Haraway\, de quien ha traducido la mayoría de sus obras. Es profesora
-  de pensamiento crítico\, teoría queer y teorías feministas. Actualment
- e es doctoranda en el Departamento de Historia del Arte de la Universidad 
- de Barcelona con una tesis sobre el micelio como materia y como metáfora\
- , y está traduciendo ‘Cuando se encuentran las especies’\, de Donna H
- araway\, para Alianza editorial. @helenlafloresta Esta actividad forma par
- te de la segunda edición del Festival Biophest 2026\, consulta el progra
- ma completo aquí .\n\nhttps://www.mataderomadrid.org/programacion/primera
- -jornada-de-charlas-bienestar-naturaleza-y-mente-conectada
-LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TALLER Infantil / La Naturaleza de los Objetos
-DTSTART;TZID=Europe/Madrid:20260418T113000
-UID:b1c17fc22d7592d234354c1c40ac317a3ebd20354c6e5b626442a9673c90b4ab
-CATEGORIES:family
-DESCRIPTION:Sábado 18 de abril 2026 de 11.30 a 12.30 h. en Taller Matader
- o Impartido por la Asociación para la Certificación Española Forestal (
- PEFC España) y dirigido a público infantil a partir de 6 años. Activida
- d gratuita con aforo limitado previa descarga de entrada a partir del 8 de
-  abril de 2026 a las 12 h.(máximo 15 personas). Taller infantil en el que
- \, a través de tres paneles interactivos\, los niños trabajan en equipo 
- para identificar distintas especies de árboles presentes en los bosques y
-  relacionarlas con objetos de su vida cotidiana. Mediante esta dinámica\,
-  se refuerza la conciencia sobre el origen forestal de muchos productos qu
- e utilizamos a diario y se promueve la reflexión sobre la importancia de 
- que su producción se lleve a cabo de forma sostenible y respetuosa con el
-  medioambiente. Esta actividad del Festival Biophest 2026 cuenta con el pa
- trocinio de la Asociación para la Certificación Española Forestal (PEFC
-  España). PEFC España es una organización no gubernamental sin ánimo d
- e lucro que promueve y divulga la Gestión Forestal Sostenible\, a través
-  de la certificación forestal y de la cadena de custodia de los productos
-  del bosque. Esto contribuye a la conservación ambiental y de la biodiver
- sidad y promueve la economía social\, la circularidad y el desarrollo sos
- tenible.\n\nhttps://www.mataderomadrid.org/programacion/taller-infantil-la
- -naturaleza-de-los-objetos
-LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RUTA / Cuando el río habla. Segundo movimiento.
-DTSTART;TZID=Europe/Madrid:20260418T113000
-UID:9629d9c6cebd78d5189c63e863644746e600fdc08b2d17c7dc63275b5c3f93d8
-CATEGORIES:walk
-DESCRIPTION:Ruta bio botánica por Madrid Río con Carmen Haro y Laura Mil
- ena Ramírez Benavides Sábado 18 de abril de 11.30 a 13.30 h. Actividad g
- ratuita con aforo limitado previa descarga de entrada a partir del 8 de ab
- ril de 2026 a las 12 h. Lugar de encuentro\, punto de información de Mata
- dero Madrid\, Paseo de la Chopera nº 14 Hace un año nos encontramos para
-  escuchar al río . No como paisaje\, no como recurso\, sino como presenci
- a viva. En aquel primer encuentro\, frente a un tribunal simbólico\, un c
- oro de voces defendió el derecho del río Manzanares y su cuenca a ser re
- conocidos como sujetos. Ese gesto fue la semilla de la Declaración de los
-  Derechos del río Manzanares \, un acto común que descentralizó lo huma
- no y nos situó dentro de una trama fluvial compartida. Desde entonces\, l
- a pregunta no ha dejado de fluir. Esta nueva acción es otro tramo de ese 
- recorrido. Si antes el gesto fue fundacional y después expansivo\, hoy no
- s convoca la práctica sostenida: ¿Cómo se encarna una declaración?\, 
- ¿Qué implica asumir una ética del agua en la vida cotidiana de la ciuda
- d?\, ¿Qué transformaciones exige mirar Madrid desde su cuenca y no al re
- vés? Volveremos al Manzanares para dejarnos afectar por su ritmo. Caminar
- emos sus orillas como quien recorre un archivo vivo: aguas visibles e invi
- sibles\, infraestructuras que lo contienen y memorias que lo desbordan\, e
- species que persisten y otras que anuncian fragilidades. Atenderemos a su 
- vulnerabilidad —inseparable de la nuestra— y a su capacidad de autorre
- generación. La acción propone un tiempo desacelerado: escucha\, deriva\,
-  lectura situada del territorio. Un ejercicio de imaginación política y 
- sensibilidad ecocéntrica. No se trata de hablar por el río\, sino de pre
- guntarnos qué cambia cuando aceptamos que no somos el centro del relato. 
- Y de ensayar\, juntas\, otras formas de habitar el territorio compartido. 
- Puedes leer\, firmar y difundir la Declaración del Río Manzanares y su c
- uenca aquí . CARMEN HARO Impulsora de Derechos de la Naturaleza y Acción
-  Climática Ciudadana. Es doctora en Comunicación y Ciencias Sociales y p
- rofesora e investigadora en la Universidad Rey Juan Carlos\, donde obtuvo 
- el Premio Extraordinario de Doctorado. Es experta del Programa Armonía co
- n la Naturaleza de Naciones Unidas\, desde donde contribuye al impulso de 
- marcos internacionales que integren Derechos de la Naturaleza. En España\
- , coordina Redes por el Clima \, una organización que articula actores so
- ciales\, culturales y científicos frente a la emergencia climática. Su t
- rabajo conecta tecnopolítica\, ecología y cultura crítica en proyectos 
- como Agrolab\, Cine No Industrial\, Grupo de Estudios Críticos o Proyecto
-  Ecosistemas en colaboración con instituciones como Intermediae Matadero\
- , Medialab Prado\, la Casa Encendida\, la Comunidad de Madrid y el Museo N
- acional Centro de Arte Reina Sofía. LAURA MILENA RAMÍREZ BENAVIDES estud
- ió Ciencias Ambientales por convicción y no por obligación\, además de
-  trabajar para la cooperación internacional y el desarrollo humano sosten
- ible. Poder educar para la protección de la naturaleza y del medio ambien
- te\, a la vez que la descubre\, es lo que más ama. Esta actividad forma p
- arte de la segunda edición del Festival Biophest 2026\, consulta el prog
- rama completo aquí.\n\nhttps://www.mataderomadrid.org/programacion/ruta-c
- uando-el-rio-habla-segundo-movimiento
-LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Super Mario Galaxy: La película
-DTSTART;TZID=Europe/Madrid:20260418T114500
-DTEND;TZID=Europe/Madrid:20260418T132300
-UID:e8ae2cd927ba9578ea4db6ef0ca59f1887ff238c952d6aa86d3793f3e6745828
-CATEGORIES:cinema
-DESCRIPTION:La película tiene lugar después de los acontecimientos de la
-  primera\, en la que dos hermanos\, Mario y Luigi\, y la princesa Peach em
- prenden una aventura hasta los confines del espacio y a través de la gala
- xia. Secuela de "Super Mario Bros: La película"\, basada en la saga "Mari
- o Galaxy".\n\nOriginal title: The Super Mario Galaxy Movie\n\nRelease year
- : 2026\n\nOriginal language: EN\n\nAudio: Doblada ES\n\nhttps://cinesembaj
- adores.es/pelicula/super-mario-galaxy-la-pelicula-doblada-al-espanol/?ciud
- ad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Un poeta
-DTSTART;TZID=Europe/Madrid:20260418T120000
-DTEND;TZID=Europe/Madrid:20260418T140000
-UID:d3d814f6a222329c546bd7062f28eec1e81e3add3258ba9d2df8830ed8fd7588
-CATEGORIES:cinema
-DESCRIPTION:La obsesión de Óscar Restrepo por la poesía no le ha report
- ado ninguna gloria. Envejecido y errático\, ha sucumbido al tópico del p
- oeta en la sombra. Conocer a Yurlady\, una adolescente de origen humilde\,
-  y ayudarla a cultivar su talento trae algo de luz a sus días\, pero arra
- strarla al mundo de la poesía quizá no sea el camino.\n\nRelease year: 2
- 025\n\nOriginal language: ES\n\nhttps://cinesembajadores.es/pelicula/un-po
- eta/?ciudad=madrid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mi querida señorita
-DTSTART;TZID=Europe/Madrid:20260418T120000
-DTEND;TZID=Europe/Madrid:20260418T135200
-UID:b687689ef02adda5d1e2216162b30dc4cb2e06595a7cdbea0654939b0999ccd3
-CATEGORIES:cinema
-DESCRIPTION:Adela\, solitaria hija única de una familia conservadora\, pa
- sa sus días entre la tienda de antigüedades familiar y las clases de cat
- equesis que imparte\, marcada por la protección de su madre y el silencio
-  sobre su intersexualidad\, que desconoce pero condiciona su vida. Una ine
- sperada y hermosa amistad con un sacerdote recién llegado\, el regreso de
-  un gran amigo de su infancia y la irrupción de una mujer\, Isabel\, prov
- ocan una reacción en cadena que lleva a Adela a un viaje en busca de sí 
- misma\, de Pamplona a Madrid\, donde la identidad necesitará del amor y l
- a ayuda de los demás para revelarse... Adaptación libre de la película 
- homónima de 1972 que estuvo nominada al Oscar a Mejor película extranjer
- a.\n\nRelease year: 2026\n\nOriginal language: ES\n\nhttps://cinesembajado
- res.es/pelicula/mi-querida-senorita/?ciudad=madrid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Embajadores del Arte: Velázquez\, el poder y el arte
-DTSTART;TZID=Europe/Madrid:20260418T120000
-DTEND;TZID=Europe/Madrid:20260418T131100
-UID:15888414836acfde7b37470247cfe0646ec5f3e7fcf08eae45a0c9ce761949cc
-CATEGORIES:cinema
-DESCRIPTION:Una de las constantes en la vida de Velázquez fue la búsqued
- a del favor del poder: primero en su Sevilla natal frecuentando los cenác
- ulos de poder y más tarde en la Corte\, donde al servicio al rey Felipe I
- V aprendió que la gloria del pintor dependía del contacto con los podero
- sos. ¿Pero por qué esa obsesión en convertirse en noble? ¿Era su pintu
- ra un fin o un instrumento? Y sobre todo: ¿Por qué se encargó de oculta
- r su vida personal?\n\nhttps://cinesembajadores.es/pelicula/embajadores-de
- l-arte-velazquez-el-poder-y-el-arte/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mercado de las Ranas
-DTSTART;TZID=Europe/Madrid:20260418T120000
-DTEND;TZID=Europe/Madrid:20260418T200000
-UID:80aa724c582765357f301b15c162b66deec2b47017d60f2aacdcdb898df7243e
-CATEGORIES:market
-DESCRIPTION:Mercado del Barrio de las Letras con puestos de artesanía\, d
- iseño\, moda y gastronomía en la calle Huertas.\n\nhttps://barrioletras.
- com/mercado-de-las-ranas/
-LOCATION:Barrio de las Letras - Calle de las Huertas\, 2-47\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La invasió dels bàrbars
-DTSTART;TZID=Europe/Madrid:20260418T121000
-DTEND;TZID=Europe/Madrid:20260418T140700
-UID:e16162044cd96b814fb073a3e0698feb5ec310a5fa5c585ecdc35c3a8e7bc227
-CATEGORIES:cinema
-DESCRIPTION:En 1939\, Esperanza\, una joven conservadora del Museo del Pra
- do es interrogada por la desaparición de un cuadro que un coronel quiere 
- incautar. Ochenta años después\, su nieta Aurora busca sus restos en una
-  de las fosas comunes del franquismo.\n\nRelease year: 2025\n\nOriginal la
- nguage: CA\n\nAudio: VOSE\n\nhttps://cinesembajadores.es/pelicula/la-invas
- io-dels-barbars-vose/?ciudad=madrid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Presentación del proyecto. Custodia de variedades locales
-DTSTART;TZID=Europe/Madrid:20260418T123000
-UID:a0b051a15279fdd6fed67d998bbde92af6c907de61a967f74c1f0701785721f1
-CATEGORIES:talk
-DESCRIPTION:Con Ecosecha Las variedades hortícolas acompañan al ser huma
- no desde hace miles de años. La domesticación de plantas silvestres supu
- so una transformación revolucionaria que contribuyó decisivamente a conv
- ertirnos en lo que hoy somos: permitió la sedentarización de los grupos 
- humanos\, el surgimiento de civilizaciones ligadas a los cultivos y su ada
- ptación a las condiciones ambientales locales\, así como el desarrollo d
- e técnicas agrícolas de selección y producción. Puede decirse que esta
- s plantas han sido nuestras compañeras de viaje en nuestro propio proceso
-  de domesticación. La diversidad de culturas\, climas y continentes ha da
- do lugar a una biodiversidad cultivada inmensa. Sin embargo\, a nuestras t
- iendas llegan apenas unas pocas decenas de frutas y hortalizas\, cuando en
-  realidad existen miles —decenas de miles— de variedades. Con los camb
- ios introducidos en el último siglo\, la responsabilidad de mantener la d
- iversidad genética ha dejado de recaer principalmente en los agricultores
-  para concentrarse en un reducido número de multinacionales\, cuyos catá
- logos tienden a simplificarse. Como consecuencia\, numerosas variedades ha
- n dejado de cultivarse y muchas se enfrentan hoy al riesgo de desaparecer.
-  El proyecto de Custodia de Variedades Locales nace con el propósito de r
- ecuperar parte de ese patrimonio\, contando con la colaboración de hortel
- anos madrileños\, tanto profesionales como aficionados\, para reintroduci
- r en nuestras huertas la savia antigua que las nutría hace apenas unas d
- écadas. Ciencia ciudadana al rescate de una biodiversidad que nunca debim
- os relegar. ECOSECHA es el nombre bajo el que Gneis Sociedad Cooperativa M
- adrileña desarrolla su línea de producción ecológica certificada\, que
-  ofrece productos hortícolas de temporada. Apuesta por el respeto al medi
- o ambiente en el desarrollo de su actividad\, compatibilizando con la cali
- dad de los puestos de trabajo\, y una agricultura ecológica que respete l
- a salud de los ecosistemas y\, por tanto\, la del ser humano. Desde 2010 e
- s promotora del proyecto Banco de Intercambio de Semillas (BIS) en Interme
- diae Matadero\, una iniciativa que apuesta por la descentralización del c
- ontrol de las semillas y propone cuestionar los modelos de gestión que ge
- neramos o de los que formamos parte en la cultura y en la sociedad contemp
- oránea. El Banco de Intercambio de Semillas \, junto con las actividades 
- que impulsa\, se erige como símbolo y herramienta de lucha por la transfo
- rmación del actual sistema agroindustrial. Esta actividad forma parte de 
- la segunda edición del Festival Biophest 2026\, consulta el programa com
- pleto aquí.\n\nhttps://www.mataderomadrid.org/programacion/presentacion-d
- el-proyecto-custodia-de-variedades-locales
-LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Presentación "La diosa silenciada.Una invitación al misterio de 
- Perséfone"
-DTSTART;TZID=Europe/Madrid:20260418T123000
-UID:9f828ff3ba29b849675fec6e8321ff2e9882b4e1bbb252cc2cd2619a34eef100
-CATEGORIES:talk
-DESCRIPTION:18 Abril 2026 Queridas anónimas: El próximo 18 de abril pres
- entamos el primer ensayo de Silvia Tarragó \, La diosa silenciada. Una in
- vitación al misterio de Perséfone \, ( Editorial Anima 2026). La diosa P
- erséfone\, hija de Deméter\, queda incomprensiblemente muda después de 
- ser raptada por Hades\, dios del inframundo. Cuando vuelve a la superficie
-  de la tierra\, habla de su impactante experiencia. Este silencio explica\
- , arquetípicamente\, la negación y el desconocimiento del Hades y sus mi
- sterios\, al que siempre se han atribuido cualidades terroríficas\, pero 
- que\, como toda caverna\, esconde un gran tesoro: el que se oculta en la p
- rofundidad\, el hogar del alma. Silvia Tarragó\, psicoanalista junguiana 
- de larga y reconocida trayectoria\, nos lleva de la mano en este viaje hac
- ia el arquetipo de la koré\, el descenso a los infiernos personales y las
-  múltiples criaturas que los habitan\, para traernos de vuelta hacia un l
- ugar más consciente\, completo y libre. Junto a la autora conversará Eva
-  Mª Navarro Navalón \, licenciada en Ciencias Químicas y especialista e
- n caracterización radiológica de Centrales Nucleares en Desmantelamiento
- . Investigadora entusiasta del mundo onírico desde la Psicología Arqueti
- pal\, La Divina Comedia y la Qabbaláh. ¡Os esperamos! Cuándo: sábado 1
- 8 de abril a las 12:30 h. Dónde: La Anónima Librería (C/Embajadores\, 1
- 66 - Metro Delicias / Legazpi) Entrada libre hasta completar aforo.\n\nhtt
- ps://laanonimalibreria.com/evento/177/presentacion-la-diosa-silenciadauna-
- invitacion-al-misterio-de-persefone/
-LOCATION:La Anonima Libreria - C/ Embajadores\, 166 - Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TALLER. Cultivar biofilia. Siembra y conexión con las plantas
-DTSTART;TZID=Europe/Madrid:20260418T130000
-UID:79dbd171768d48677c387d4973437f4e096867e4110e972672a8ab6fb9d96ab6
-CATEGORIES:other
-DESCRIPTION:Taller impartido por Rojomenta . Este no es un taller solo sob
- re semillas. Es un espacio para detenernos y observar lo que nos mueve\, l
- o que crece en nuestro interior cuando estamos en contacto con algo vivo\,
-  sencillo y silencioso. A partir del concepto de biofilia\, exploraremos c
- ómo el contacto consciente con las plantas puede convertirse en un acto d
- e autocuidado\, presencia y reflexión. Se explicará cómo hacer semiller
- os\, y cómo cuidarlos para conseguir plantas desde el inicio: la semilla.
-  A través de esta actividad práctica\, estableceremos un vínculo simbó
- lico y real con las plantas gracias a un diario de brotes que se les entre
- gará a los participantes junto a otras semillas que podrán cultivar con 
- los conocimientos adquiridos en el taller. ROJOMENTA es una cooperativa qu
- e promueve la jardinería ecológica y el fomento de la biodiversidad\, na
- cida en 2012. Especializada en formación profesional y de ocio\, impulsa 
- y desarrolla también iniciativas sociales que fortalecen el vínculo entr
- e la vegetación y la  comunidad. La  creatividad\, la sostenibilidad am
- biental\, la pedagogía y la transformación que generan las plantas son s
- us referentes en cada trabajo. Esta actividad forma parte de la segunda ed
- ición del Festival Biophest 2026\, consulta el programa completo aquí.\
- n\nhttps://www.mataderomadrid.org/programacion/taller-cultivar-biofilia-si
- embra-y-conexion-con-las-plantas
-LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La diatriba del perro
-DTSTART;TZID=Europe/Madrid:20260418T130000
-UID:8eabd263f4e91e506ebf17d033d898a437ab16855c7592d3cfe2970971f5aa6d
-CATEGORIES:theater
-DESCRIPTION:Localidades agotadas\n\nhttps://teatrodelbarrio.com/la-diatrib
- a-del-perro/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TALLER. Hilos de flores y sombras con bordado fotográfico
-DTSTART;TZID=Europe/Madrid:20260418T150000
-UID:30dc2fbbe0d26efa8f975b788c04547914371eed5e173f31fdab248466171abd
-CATEGORIES:other
-DESCRIPTION:Taller impartido por Garbi Galatea . Actividad con aforo limi
- tado\, compra de entradas aquí (máximo 15 personas)\, dirigido a públic
- o adulto (mayor de 18 años). Taller de bordado-fotográfico con flores na
- turales. Bordaremos las sombras que habitan en fotografías antiguas con f
- lores naturales y exploraremos la intersección entre el relato fotográfi
- co y la naturaleza. Además\, trabajaremos sobre retratos antiguos\, utili
- zando hilos y flores naturales para intervenir las imágenes y rescatar la
- s sombras de las fotografías de otro tiempo. GARBI GALATEA es artista vis
- ual y bordadora. Su trabajo explora la memoria familiar y colectiva a part
- ir de archivos fotográficos —anónimos y propios— intervenidos median
- te el bordado y la palabra. Su práctica se centra en visibilizar violenci
- as y silencios heredados\, transformando lo íntimo en un espacio de refle
- xión compartida. Su investigación artística se materializa en proyectos
-  donde la fotografía familiar constituye el eje del diálogo. Entre ellos
-  destaca ‘Borrado Bordado’\, en el que\, a partir de testimonios reale
- s de mujeres\, elimina con aguja e hilo rosa los rostros de quienes ejerci
- eron violencia. Coordina el club de lectura ‘Métrica Bordada’\, un es
- pacio en el que poesía\, bordado y fotografía se entrelazan mediante la 
- escritura bordada sobre imágenes antiguas. Desde hace más de cinco años
-  imparte talleres de bordado fotográfico en distintas ciudades\, así com
- o en instituciones y entidades como el Festival de Teatro Clásico de Alma
- gro\, IN SITU ArtFestival\, Herstóricas\, Editorial Comisura y Back to th
- e Book Festival. Ha colaborado también con editoriales como Ediciones en 
- el Mar\, Comisura\, Graviola o Seix Barral\, en proyectos de bordado fotog
- ráfico para publicaciones como ‘Cartografías del deseo amoroso’\, 
- ‘Querida Theresa’\, ‘Esto es un cuerpo’\, ‘Ombligo’\, ‘Árbo
- l de familia’ y ‘Los diarios de Rosa Chacel’. Esta actividad forma p
- arte de la segunda edición del Festival Biophest 2026\, consulta el prog
- rama completo aquí.\n\nhttps://www.mataderomadrid.org/programacion/taller
- -hilos-de-flores-y-sombras-con-bordado-fotografico
-LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La mujer más rica del mundo
-DTSTART;TZID=Europe/Madrid:20260418T155000
-DTEND;TZID=Europe/Madrid:20260418T174700
-UID:a71765570dd7cfdb2dca24a5052072547e4af95542751868a1ae505b8fb86f05
-CATEGORIES:cinema
-DESCRIPTION:OVIEDO - Domingo 19 de abril - 19:30 - Sesión perteneciente a
- l ciclo "No es lo que parece"\, moderado por Xabier Pérez\, cineasta\, pe
- riodista y divulgador.\n\n\nLa donación millonaria de una nonagenaria a u
- n joven artista desata un escándalo que lleva a su hija a destapar una pr
- esunta corrupción política en la que está implicado un ex presidente. P
- elícula inspirada en la figura de Liliane Bettencourt\, la que fue la muj
- er más rica del mundo como heredera de L'Oréal y protagonista de uno de 
- los escándalos más célebres de Francia.\n\nOriginal title: La Femme la 
- plus riche du monde\n\nRelease year: 2025\n\nOriginal language: FR\n\nAudi
- o: VOSE\n\nhttps://cinesembajadores.es/pelicula/la-mujer-mas-rica-del-mund
- o-vose/?ciudad=madrid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hoppers
-DTSTART;TZID=Europe/Madrid:20260418T155000
-DTEND;TZID=Europe/Madrid:20260418T173400
-UID:ecac9037b0a172eeb96053d5817d114135dd400f540e220fdd2ba421e2b599af
-CATEGORIES:cinema
-DESCRIPTION:La historia sigue a una joven\, Mabel\, que puede transferir s
- u mente a un castor robot con el objetivo de infiltrarse en el reino anima
- l. Acaba haciéndose amiga de un castor regio\, el Rey Jorge\, y uniendo a
-  los animales para luchar contra los planes de un promotor inmobiliario.\n
- \nRelease year: 2026\n\nOriginal language: EN\n\nAudio: Doblada ES\n\nhttp
- s://cinesembajadores.es/pelicula/hoppers-doblada-al-espanol/?ciudad=madrid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El Chico De Los Pantalones Rosas
-DTSTART;TZID=Europe/Madrid:20260418T155000
-UID:6b972cded208beeed3cc55896843918fdedc3e70d7cd568ff3856bedf961b4ad
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 115 min
- utos | No recomendada para menores de 12 años\n\nOriginal title: Il ragaz
- zo dai pantaloni rosa\n\nRelease year: 2024\n\nOriginal language: IT\n\nAu
- dio: VOSE\n\nhttps://www.pillalas.com/pase/1064854/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Incontrolable
-DTSTART;TZID=Europe/Madrid:20260418T155000
-UID:a23b5ca4d1cde540b2b864674e5cfac0429855386497bb06bdfb7e90c7be4600
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 120 min
- utos | No recomendada para menores de 12 años\n\nRelease year: 2006\n\nOr
- iginal language: FR\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/106481
- 4/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Renoir
-DTSTART;TZID=Europe/Madrid:20260418T155000
-UID:b51ebc324a9439c5181c9fe951d7decceaa3009093ba68b8c172873f87a74c0a
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 119 min
- utos | No recomendada para menores de 16 años\n\nRelease year: 2012\n\nOr
- iginal language: FR\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/106481
- 5/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Buena Hija
-DTSTART;TZID=Europe/Madrid:20260418T155500
-UID:948a0ce642d2b7bdbab6bde8d0bd0c14ef3b36eb1bcb297087089cce932f90be
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 103 min
- utos | No recomendada para menores de 12 años y distintivo especialmente 
- recomendada para el fomento de la igualdad de género\n\nRelease year: 202
- 6\n\nOriginal language: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase
- /1064855/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La habitación de Mariana
-DTSTART;TZID=Europe/Madrid:20260418T160000
-DTEND;TZID=Europe/Madrid:20260418T180200
-UID:f83a9761b60e49db247aa5b56795260a071711a21dda3459663c38a98eb7a5ba
-CATEGORIES:cinema
-DESCRIPTION:1942\, Ucrania. Hugo tiene 12 años cuando el nazismo ocupa su
-  tierra. Para salvarlo de la deportación\, su madre lo confía a su amiga
-  de la infancia\, Mariana\, una prostituta que vive en un burdel en las af
- ueras de la ciudad. Escondido en el armario de la habitación de Mariana\,
-  toda su existencia está suspendida de los ruidos que lo rodean y de las 
- escenas que adivina a través del armario. Mientras la guerra continúa fu
- era Hugo y Mariana forjan un vínculo íntimo y complejo de amor\, lealtad
-  y devoción mutua\, que cambiará sus vidas para siempre.\n\nOriginal tit
- le: La Chambre de Mariana\n\nRelease year: 2025\n\nOriginal language: UK\n
- \nAudio: VOSE\n\nhttps://cinesembajadores.es/pelicula/la-habitacion-de-mar
- iana-vose/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La buena hija
-DTSTART;TZID=Europe/Madrid:20260418T160000
-DTEND;TZID=Europe/Madrid:20260418T174100
-UID:1590d94c40c0c56f633b99d7f1e19703450be78556b0da5414b9cca5167e18ab
-CATEGORIES:cinema
-DESCRIPTION:OVIEDO - Sábado 11 de abril - 20:00 - Sesión perteneciente a
- l ciclo "No es lo que parece"\, moderado por Xabier Pérez\, cineasta\, pe
- riodista y divulgador.\n\nTras la separación de sus padres\, Carmela (Kia
- ra Arancibia) y su madre (Janet Novás) se mudan a casa de su abuela (Petr
- a Martínez). Mientras trata de adaptarse a su nueva situación\, Carmela 
- anhela pasar más tiempo en casa de su padre (Julián Villagrán)\, un art
- ista plástico a quien admira e idolatra. La sombra de este llevará a las
-  tres generaciones de mujeres de la familia a decidir el futuro que merece
- n. Adaptación al formato largometraje del corto homónimo de la propia J
- úlia de Paz.\n\nRelease year: 2026\n\nOriginal language: ES\n\nhttps://ci
- nesembajadores.es/pelicula/la-buena-hija/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Super Mario Galaxy: La película
-DTSTART;TZID=Europe/Madrid:20260418T160000
-DTEND;TZID=Europe/Madrid:20260418T173800
-UID:0b5a556226b682a4f72fb80ce9332a816d4f138a953a4d0a1d612c2a6802f922
-CATEGORIES:cinema
-DESCRIPTION:La película tiene lugar después de los acontecimientos de la
-  primera\, en la que dos hermanos\, Mario y Luigi\, y la princesa Peach em
- prenden una aventura hasta los confines del espacio y a través de la gala
- xia. Secuela de "Super Mario Bros: La película"\, basada en la saga "Mari
- o Galaxy".\n\nOriginal title: The Super Mario Galaxy Movie\n\nRelease year
- : 2026\n\nOriginal language: EN\n\nAudio: Doblada ES\n\nhttps://cinesembaj
- adores.es/pelicula/super-mario-galaxy-la-pelicula-doblada-al-espanol/?ciud
- ad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mi robot favorito
-DTSTART;TZID=Europe/Madrid:20260418T160000
-DTEND;TZID=Europe/Madrid:20260418T172600
-UID:dc9135c33af50db5fa1c3addcdd39a47aedac30e19ab2d3e3af3213507707356
-CATEGORIES:cinema
-DESCRIPTION:Cuando la astronauta Celeste despega hacia el espacio en su pr
- imera misión en solitario\, el robot guardián que la ha acompañado dura
- nte toda su infancia se queda solo preguntándose: ¿Y ahora qué? Una nan
- a del mañana sobre cómo encontrar tu lugar en el universo. Film sin diá
- logos y debut como director del DJ\, compositor y autor de novelas gráfic
- as Kid Koala (nombre profesional de Eric San).\n\nOriginal title: Space Ca
- det\n\nRelease year: 2026\n\nOriginal language: EN\n\nAudio: Doblada ES\n\
- nhttps://cinesembajadores.es/pelicula/mi-robot-favorito-doblada-al-espanol
- /?ciudad=madrid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Calle Málaga
-DTSTART;TZID=Europe/Madrid:20260418T160000
-UID:2febea2a99f2fcd3e457afd8146ac627d47dbb6deca8160b63076b178164f684
-CATEGORIES:cinema
-DESCRIPTION:Versión Original Castellano | Duración 116 minutos | No reco
- mendada para menores de 12 años\n\nRelease year: 2025\n\nOriginal languag
- e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1064790/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RUTA / Pasear en compañía vegetal
-DTSTART;TZID=Europe/Madrid:20260418T170000
-UID:24939f0b5b12202bd6177185c016bc5347f93e896612e1d4125e85027a26b3cb
-CATEGORIES:walk
-DESCRIPTION:Ruta con Rojomenta Sábado 18 de abril de 17 a 19 h. Actividad
-  gratuita con aforo limitado previa descarga de entrada a partir del 8 de 
- abril de 2026 a las 12 h. Lugar de encuentro\, punto de información de Ma
- tadero Madrid\, Acceso por Paseo de la Chopera nº 14. En un entorno urban
- o nunca paseamos solos. Aunque a menudo pase desapercibido\, caminar por l
- a ciudad implica la compañía de las plantas que habitan jardines y acera
- s\, así como de aquellas que crecen de forma espontánea. No solo están
-  ahí\, sino que podemos relacionarnos con ellas\, observarlas y conversar
-  sobre cómo estamos y sobre lo que cambia y permanece. Pasear por el par
- que de Madrid Río es hacerlo en continua compañía vegetal\, junto a ár
- boles\, arbustos y herbáceas que nos acompañan a cada paso. En este reco
- rrido prestaremos atención a nuestras compañeras vegetales y descubrirem
- os qué nos cuentan y qué nos aportan. Porque muchos de los buenos moment
- os al pasear se deben a su presencia\, como la sombra que ofrecen\, las se
- nsaciones que despiertan\, los recuerdos que evocan y los hábitats llenos
-  de vida que generan. ROJOMENTA es una cooperativa que promueve la jardine
- ría ecológica y el fomento de la biodiversidad\, nacida en 2012. Especia
- lizada en formación profesional y de ocio\, impulsa y desarrolla también
-  iniciativas sociales que fortalecen el vínculo entre la vegetación y la
-   comunidad. La  creatividad\, la sostenibilidad ambiental\, la pedagog
- ía y la transformación que generan las plantas son sus referentes en cad
- a trabajo. Esta actividad forma parte de la segunda edición del Festival
-  Biophest 2026\, consulta el programa completo aquí.\n\nhttps://www.mata
- deromadrid.org/programacion/ruta-pasear-en-compania-vegetal
-LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Piel de asno (Peau d'âne\,1970)
-DTSTART;TZID=Europe/Madrid:20260418T173000
-UID:6c4c9b32ec225ea680fcd590acdee1fc8aa8d6c72eb4557b6302255aa543db63
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Sábado 18 de abril a las 17:30h (Sala 1. Filmot
- eca Junior. Érase una vez...) *Aunque las entradas aparezcan como agotada
- s en web\, pueden adquirirse en taquilla entradas para las sesiones del d
- ía (de 17h a 20h)\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/produc
- tos/descripcion/piel-de-asno
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Orgullo y prejuicio: el romance se salta las normas
-DTSTART;TZID=Europe/Madrid:20260418T173000
-UID:79f06a69dbfc3a785d3431915c6857bd07132f3cfe9e607636d8bca8eb84432e
-CATEGORIES:other
-DESCRIPTION:Os damos la bienvenida a la tercera sesión del Club Literario
-  de Casa del Lector. Un espacio donde reunirnos una vez al mes para hablar
-  de lecturas\, escritura\, gustos\, preferencias y todo aquello que narrat
- ivamente nos resulte atractivo de la mano de nuestros mejores especialista
- s en literatura clásica y contemporánea. Fotografía\, cine\, teatro\, d
- anza\; todas aquellas formas de expresión que nos vinculen con un texto l
- iterario podrán ser exploradas. En esta tercera sesión del mes de abril 
- con Orgullo y prejuicio y Jane Austen entraremos en un mundo donde se cues
- tiona lo establecido como forma de continuidad\, así como las bases que s
- ostienen a esa sociedad. ¿Reconocimiento o juicio? ¿Apariencia o realida
- d? ¿Rebeldía o curiosidad? La novela nos propone un diálogo íntimo y p
- ropicia otro externo con el que podemos debatir\, gracias a estos personaj
- es provistos de capas y transformaciones\, cuestiones actuales: ¿cómo ha
- n ido evolucionando las sociedades? ¿Qué caracteriza a la actual? ¿Cuá
- les son nuestros roles en ella? ¿Cuál es el de la mujer? ¿Y el del homb
- re? ¿Coinciden con nuestro ser? Los orígenes\, el estatus\, el mundo fem
- enino\, los rituales\, ceremonias\, las costumbres.  Una autora cuya infl
- uencia perdura en el cine\, la literatura y cultura popular\; clave para l
- a novela moderna y el realismo del S. XIX. No te pierdas nuestro sorteo en
-  Instagram y consigue esta edición especial de Penguin Random House. Orga
- niza: Casa del Lector y Penguin Random House. Público: Jóvenes y adultos
-  a partir de 13 años.\n\nhttps://www.mataderomadrid.org/programacion/orgu
- llo-y-prejuicio-el-romance-se-salta-las-normas
-LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Leer juntas para que crezcan flores
-DTSTART;TZID=Europe/Madrid:20260418T173000
-UID:d6c38170c3daab9243541319dc9303b5d93d7a79b92915b2dedf9ece8843fa22
-CATEGORIES:other
-DESCRIPTION:Dinamiza: Javier Pérez Iglesias Sábado 18 a las 17.30 h. en 
- Nave Una / Nave 17 Acceso libre hasta completar aforo Las bibliotecas son 
- un jardín porque se crean pensando en el futuro\, en la sombra que darán
-  sus colecciones y los paisajes que dibujarán sus documentos cuando crezc
- an y sus salas a medida que cambien cuando nosotras ya no estemos aquí. A
- demás\, pasa en la bibliotecas como en los jardines que puedes ir sin que
-  tengas una tarea\, una obligación\, o sí. Lo mismo puedes mirar sin bus
- car\,  escuchar a los pájaros\, escarbar la tierra (o el catálogo) o to
- mar esquejes (o citas). Lo útil y lo placentero juntos. En esta sesión o
- s invitamos a leer en comunidad Naturaleza moderna (1990) de Derek Jarman\
- , un libro que piensa el jardín como nosotras pensamos la biblioteca —t
- raducido al castellano por Caja Negra—. Un poco silvestre. Con el oído 
- puesto en lo que susurran las condiciones materiales y nos cuenta el silen
- cio. Vente con tu ejemplar de Naturaleza moderna \, si lo tienes\, o ven s
- in más y utiliza algunos de los que tendremos aquí para leer juntas. Hab
- rá una biblioteca pop-up que nos acoja dentro de un oasis improbable. Jav
- ier Pérez Iglesias ejercerá de medium bibliotecaria en esta pieza coral 
- en la que los protagonistas serán los documentos y nosotras bailaremos a 
- su son. El espíritu de Derek Jarman\, junto con su profundo amor por la n
- aturaleza\, recorrerá diversos espacios del II Festival Biophest. Entre l
- as propuestas destacan la instalación Oasis improbable de María Eugenia 
- Diego (KOKON)\, que fusiona lo escultural con lo botánico e inspira su cr
- eación en el jardín de Jarman –visitable en la Nave Una desde el viern
- es 17–\, y la proyección de The Garden \, el día 14 de abril las 19 h.
- \, dentro del Ciclo Docu natura por Água das Pedras . Con la colaboraci
- ón de Caja Negra . Esta actividad forma parte de la segunda edición del 
- Festival Biophest 2026\, consulta el programa completo aquí. https://ww
- w.intermediae.es/proyectos/festival-biophest-2026 JAVIER PÉREZ IGLESIAS p
- lanta textos\, imágenes\, glosas\, bibliografías\, citas\, letras de can
- ciones y notas al pie de las que a veces crecen libros\, fanzines\, cartel
- es\, flyers\, octavillas y otras hierbas campestres. Desde 2013 vive asilv
- estrado en la Biblioteca de la Facultad de Bellas Artes de la UCM. Esa loc
- alización ha propiciado que entienda la biblioteca como una obra de arte 
- colectiva e inacabada. Esta actividad forma parte de la segunda edición d
- el Festival Biophest 2026\, consulta el programa completo aquí.\n\nhttps
- ://www.mataderomadrid.org/programacion/leer-juntas-para-que-crezcan-flores
-LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Presentación: «Carbonara con nata»\, de Javier Brandoli Manzano
-DTSTART;TZID=Europe/Madrid:20260418T173000
-UID:7bd3fd70e66bad8a825e4d590e4c73f98b3df5fa3e92dec01ff23d62a60d512a
-CATEGORIES:talk
-DESCRIPTION:Javier Brandoli Manzano visita la librería Desnivel para pres
- entarnos su último libro\, Carbonara con nata \, editado por Viajes al Pa
- sado (VaP) . El evento será el próximo sábado 18 de abril a las 17:30 h
-  de la tarde . Entrada libre hasta completar aforo. ¡Ven a acompañarnos!
- \n\nhttps://www.libreriadesnivel.com/agenda/carbonara-con-nata-de-javier-b
- randoli-manzano/429/
-LOCATION:Libreria Desnivel - Plaza de Matute\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La mujer más rica del mundo
-DTSTART;TZID=Europe/Madrid:20260418T175000
-DTEND;TZID=Europe/Madrid:20260418T194700
-UID:b38e677f3352963f48f8bb792e5c289e24381645c1b758458bdf57a6c7bf82d6
-CATEGORIES:cinema
-DESCRIPTION:OVIEDO - Domingo 19 de abril - 19:30 - Sesión perteneciente a
- l ciclo "No es lo que parece"\, moderado por Xabier Pérez\, cineasta\, pe
- riodista y divulgador.\n\n\nLa donación millonaria de una nonagenaria a u
- n joven artista desata un escándalo que lleva a su hija a destapar una pr
- esunta corrupción política en la que está implicado un ex presidente. P
- elícula inspirada en la figura de Liliane Bettencourt\, la que fue la muj
- er más rica del mundo como heredera de L'Oréal y protagonista de uno de 
- los escándalos más célebres de Francia.\n\nOriginal title: La Femme la 
- plus riche du monde\n\nRelease year: 2025\n\nOriginal language: FR\n\nAudi
- o: VOSE\n\nhttps://cinesembajadores.es/pelicula/la-mujer-mas-rica-del-mund
- o-vose/?ciudad=madrid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lapönia
-DTSTART;TZID=Europe/Madrid:20260418T175500
-UID:315f4976488c1a601f14a8ccf8ff66b59a03c980c37b832a05904e2dd02696e7
-CATEGORIES:cinema
-DESCRIPTION:Versión Original Castellano | Duración 89 minutos | No recom
- endada para menores de 12 años\n\nRelease year: 2026\n\nOriginal language
- : ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1064856/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Una tarde en el circo
-DTSTART;TZID=Europe/Madrid:20260418T180000
-UID:2e1a2f0813233f5440323cb7d57429a9d9add5e4f1a0142785c97fbb31ad2512
-CATEGORIES:cinema
-DESCRIPTION:Un joven abandona la fortuna que ha heredado de su tía para e
- nrolarse en el circo donde trabaja su novia. Cuando el propietario roba el
-  dinero\, el joven recurre a los hermanos Marx.\n\nOriginal title: At the 
- Circus\n\nRelease year: 1939\n\nOriginal language: EN\n\nAudio: VOSE\n\nht
- tps://www.cinetecamadrid.com/programacion/una-tarde-en-el-circo
-LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TALLER / Cianotipia de un herbario local
-DTSTART;TZID=Europe/Madrid:20260418T180000
-UID:3db7f6793781d1d40730d645c542afe85dfb127c6693965afc1c357f16b3fe99
-CATEGORIES:other
-DESCRIPTION:Taller impartido por Coco Esteve. Sábado 18 de abril de 18 a
-  19.30 h. en Taller Matadero. Actividad con aforo limitado\, compra de ent
- radas aquí (máximo 15 personas)\, dirigido a público adulto (mayor de 1
- 8 años). El taller invita a los participantes a explorar la creatividad a
-  través del registro botánico del entorno de Matadero Madrid utilizando 
- la técnica del cianotipo. También es una invitación a repensar y debati
- r sobre nuestro entorno natural\, las plantas que nos acompañan en nuestr
- a vida cotidiana\, y a cartografiar el territorio que habitamos\, identifi
- cando la naturaleza que nos rodea. La participación en el taller incluye 
- todos los materiales necesarios (papel cianotípico Nature Print o similar
- \, papel de cocina\, pinzas\, cordel de yute y referencias). Podrás lleva
- rte a casa tu propia impresión cianotípica de hierbas. COCO ESTEVE / Coc
- oEsteveLab es especializada en arte y educación. En los últimos años su
-  investigación artística se centra en la experimentación textil\, crean
- do su propio lenguaje desde el bordado\, el collage bordado sobre papel y 
- fotografía\, el telar y el tufting. Es creadora de la residencia artísti
- ca ‘Residencia Artesana’. Motivada por conocer mundo y culturas\, busc
- a en ello la conexión con la identidad de los lugares\, las personas y su
- s prácticas artísticas y artesanales. Crea enlazando su origen y vivenci
- as\, desarrollando simbología sobre el cotidiano\, el hogar\, la familia 
- o la memoria\, generando mapas y cartografías desde el ejercicio de sínt
- esis . Esta actividad forma parte de la segunda edición del Festival Biop
- hest 2026\, consulta el programa completo aquí.\n\nhttps://www.mataderom
- adrid.org/programacion/taller-cianotipia-de-un-herbario-local
-LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Incontrolable (I swear)
-DTSTART;TZID=Europe/Madrid:20260418T180000
-DTEND;TZID=Europe/Madrid:20260418T200000
-UID:cb44a207a9cc99d0e80a62a100c274d9cba584bd62aa2a67138463bee127a46a
-CATEGORIES:cinema
-DESCRIPTION:La historia real de John Davidson. Diagnosticado con Tourette 
- a los 15 años\, señalado como loco por sus compañeros\, luchó con una 
- condición que pocos habían presenciado. Ya adulto\, hizo campaña en fav
- or del síndrome de Tourette .\n\nOriginal title: I Swear\n\nRelease year:
-  2025\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://cinesembajadores.
- es/pelicula/incontrolable-i-swear-vose/?ciudad=madrid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Super Mario Galaxy: La película
-DTSTART;TZID=Europe/Madrid:20260418T180000
-DTEND;TZID=Europe/Madrid:20260418T193800
-UID:e9b5947cb235c1f1f2670193618354ceffb9f94f5749196c9ed84ff0feac3510
-CATEGORIES:cinema
-DESCRIPTION:La película tiene lugar después de los acontecimientos de la
-  primera\, en la que dos hermanos\, Mario y Luigi\, y la princesa Peach em
- prenden una aventura hasta los confines del espacio y a través de la gala
- xia. Secuela de "Super Mario Bros: La película"\, basada en la saga "Mari
- o Galaxy".\n\nOriginal title: The Super Mario Galaxy Movie\n\nRelease year
- : 2026\n\nOriginal language: EN\n\nAudio: Doblada ES\n\nhttps://cinesembaj
- adores.es/pelicula/super-mario-galaxy-la-pelicula-doblada-al-espanol/?ciud
- ad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tres Adioses
-DTSTART;TZID=Europe/Madrid:20260418T180000
-UID:880bb7ce31cdc6b86cd16ef98faf7e52d4b063abe17acde9e68fad1b5ba6e8df
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 122 min
- utos | No recomendada para menores de 12 años\n\nOriginal title: Tre ciot
- ole\n\nRelease year: 2025\n\nOriginal language: IT\n\nAudio: VOSE\n\nhttps
- ://www.pillalas.com/pase/1064857/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Calle Málaga
-DTSTART;TZID=Europe/Madrid:20260418T180500
-DTEND;TZID=Europe/Madrid:20260418T200100
-UID:d2635440f95fe0e9ffbdc42720b2beee57af806bf88f87826dbfa1e68d33f4a4
-CATEGORIES:cinema
-DESCRIPTION:María Ángeles (Carmen Maura) es una española de 79 años qu
- e vive sola en Tánger\, en el norte de Marruecos\, donde disfruta de su c
- iudad y de su vida diaria. Su vida da un giro cuando su hija Clara (Marta 
- Etura) llega desde Madrid para vender el apartamento en el que siempre ha 
- vivido. Decidida a quedarse en la ciudad que la vio crecer\, hará todo lo
-  posible para mantener su hogar y recuperar los objetos de toda una vida. 
- Por el camino\, redescubre\, contra todo pronóstico\, el amor y el deseo.
- \n\nRelease year: 2025\n\nOriginal language: ES\n\nhttps://cinesembajadore
- s.es/pelicula/calle-malaga/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El Chico De Los Pantalones Rosas
-DTSTART;TZID=Europe/Madrid:20260418T180500
-UID:8278ab96fd84c2db12c6d18d6a6ace46d1f2675f738813352872dbe905253c14
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 115 min
- utos | No recomendada para menores de 12 años\n\nOriginal title: Il ragaz
- zo dai pantaloni rosa\n\nRelease year: 2024\n\nOriginal language: IT\n\nAu
- dio: VOSE\n\nhttps://www.pillalas.com/pase/1064816/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Incontrolable
-DTSTART;TZID=Europe/Madrid:20260418T180500
-UID:886b57a94bfe33ac868b7f482d4ba983143ca9d37268fc3fdbaa3353cc3dd3a1
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 120 min
- utos | No recomendada para menores de 12 años\n\nRelease year: 2006\n\nOr
- iginal language: FR\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/106481
- 7/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Amarga Navidad
-DTSTART;TZID=Europe/Madrid:20260418T181000
-DTEND;TZID=Europe/Madrid:20260418T200100
-UID:06dc99b374fc581e740826b5b4c5fe91c3c59b6cfa715f6dfcc3856ddf9353a9
-CATEGORIES:cinema
-DESCRIPTION:Elsa es una directora de publicidad cuya madre muere durante u
- n largo puente del mes de diciembre. Encuentra refugio en el trabajo\, aun
- que es más bien una huida hacia adelante. Trabaja sin parar y\, sin darse
-  cuenta\, no se concede el tiempo necesario para guardar el duelo por la a
- usencia materna. Hasta que una crisis de pánico la obliga a detenerse e i
- mponerse un descanso. Su pareja\, Bonifacio\, es su tabla de salvación en
-  esos momentos de crisis. Elsa decide viajar a la isla de Lanzarote acompa
- ñada por su amiga Patricia\, que también necesita alejarse de Madrid\, m
- ientras que Bonifacio se queda en la ciudad. La historia de estos tres per
- sonajes\, y algunos más\, se narran paralelamente a la del guionista y di
- rector de cine Raúl Durán\, entremezclando ficción y realidad.\n\nRelea
- se year: 2026\n\nOriginal language: ES\n\nhttps://cinesembajadores.es/peli
- cula/amarga-navidad/?ciudad=madrid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Altas capacidades
-DTSTART;TZID=Europe/Madrid:20260418T181500
-DTEND;TZID=Europe/Madrid:20260418T195600
-UID:04c702915ba9aab8234ab0d296d54a2f9d2ef648ed7f7efbee1f098dd992ce45
-CATEGORIES:cinema
-DESCRIPTION:Alicia y Gonzalo\, una pareja de clase media\, se encuentran c
- on la oportunidad de matricular a su hijo Fer en un colegio laico de élit
- e. Para los padres supone asomar la cabeza en la clase alta\, nuevas amist
- ades\, mayores ingresos\, ventajas incontables. Dicen hacerlo por su hijo.
-  En esta maravillosa contradicción entre los miedos y los principios mora
- les\, las aspiraciones de la pareja se llevarán por delante lo que\, hast
- a entonces\, creían incuestionable.\n\nRelease year: 2026\n\nOriginal lan
- guage: ES\n\nhttps://cinesembajadores.es/pelicula/altas-capacidades/?ciuda
- d=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Calle Málaga
-DTSTART;TZID=Europe/Madrid:20260418T181500
-UID:ad282e3f08373d2dfc9b6ba9177112149e07f6526d8d5ee446de7bba4a140dcd
-CATEGORIES:cinema
-DESCRIPTION:Versión Original Castellano | Duración 116 minutos | No reco
- mendada para menores de 12 años\n\nRelease year: 2025\n\nOriginal languag
- e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1064791/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agustina de Aragón (1950)
-DTSTART;TZID=Europe/Madrid:20260418T190000
-UID:c30fe8b5c43bbe2f26bd35053e156e0250ddc4a97e93c481483e0db1d6eca78e
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Sábado 18 de abril a las 19:00h (Sala 2. Montad
- oras del cine español (1942-1967)) *Aunque las entradas aparezcan como ag
- otadas en web\, pueden adquirirse en taquilla entradas para las sesiones d
- el día (de 17h a 20h)\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/pr
- oductos/descripcion/agustina-de-aragon-juan-de-orduña-1950-
-LOCATION:Filmoteca Espanola - Cine Dore Sala 2 - Calle de Santa Isabel\, 3
- \, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Qui som
-DTSTART;TZID=Europe/Madrid:20260418T193000
-UID:1ecba71b278d678d44b97d54bbdb0a811e0d7511eb54edb805f4e41633f90499
-CATEGORIES:cinema
-DESCRIPTION:Blaï (43) y Camille (43)\, que forman una pareja artística y
-  sentimental\, se han ganado la admiración de la escena europea gracias a
-  los inclasificables espectáculos de su compañía de circo\, Baro d’ev
- el. Cuando el Festival de Avignon\, uno de los más importantes del mundo\
- , les encarga una nueva obra\, la pareja siente la necesidad de encontrar 
- un sentido renovado a su existencia como artistas\, pareja y padres para d
- ar respuestas renovadas a las preocupaciones y miedos que nos atenazan.\n\
- nRelease year: 2026\n\nOriginal language: CA\n\nAudio: VOSE\n\nhttps://www
- .cinetecamadrid.com/programacion/qui-som
-LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Yo deseo (recital electrónico de inconfesiones femeninas)
-DTSTART;TZID=Europe/Madrid:20260418T193000
-UID:7a0e8baea8b72a3d5c1a0e5b736097f0e0d5b4c242110e3fa4b9c232ea0c3aba
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/yo-deseo-recital-ele
- ctronico-de-inconfesiones-femeninas/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Buena Hija
-DTSTART;TZID=Europe/Madrid:20260418T195000
-UID:a6e1382e78d885c35233e32546ae333190edc9e484e9996c134014aba88951cb
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 103 min
- utos | No recomendada para menores de 12 años y distintivo especialmente 
- recomendada para el fomento de la igualdad de género\n\nRelease year: 202
- 6\n\nOriginal language: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase
- /1064858/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kontinental '25
-DTSTART;TZID=Europe/Madrid:20260418T200000
-UID:f02956e4e903bb4c4e7836848889a97e7de96110b7447ac2fac0ffa08804786e
-CATEGORIES:cinema
-DESCRIPTION:Orsolya es alguacila en la ciudad de Cluj\, en Transilvania. F
- iel a su cargo\, debe ejecutar el desahucio de un hombre sin techo que viv
- e en el sótano de un edificio del centro destinado a convertirse en un ho
- tel de lujo. Pero un suceso inesperado la confronta de pronto con sus prop
- ias contradicciones desencadenando en ella una profunda crisis moral.\n\nR
- elease year: 2025\n\nOriginal language: RO\n\nAudio: VOSE\n\nhttps://www.c
- inetecamadrid.com/programacion/kontinental-25-0
-LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sesión musical. Reimaginación del disco Stevie Wonder's Journey 
- Through 'The Secret Life of Plants'\, con Teo Lucadamo.
-DTSTART;TZID=Europe/Madrid:20260418T200000
-UID:40367251741363c9944b8afa480deab7c2dcdb0e792b4f4103198577b6549302
-CATEGORIES:music
-DESCRIPTION:Para su participación en Biophest\, Teo Lucadamo presentará 
- una reimaginación libre de Journey Through the Secret Life of Plants de S
- tevie Wonder\, en formato live con banda\, el sábado 18 de abril en Matad
- ero. La propuesta toma el icónico álbum como punto de partida para const
- ruir una pieza completamente nueva\, reinterpretada desde su propio lengua
- je musical. La aproximación puede ser parcial\, completa o conceptual: el
-  objetivo no es reproducir la obra original\, sino expandir su espíritu y
-  trasladarlo a un territorio propio\, sin restricciones estéticas. El res
- ultado será un recorrido sonoro que dialoga con la sensibilidad de Wonder
-  mientras explora nuevas formas\, texturas y narrativas contemporáneas. T
- eo Lucadamo es una de las voces más singulares y carismáticas de la nuev
- a escena nacional. Su energía en directo y su visión artística —a med
- io camino entre el humor\, la introspección y la experimentación sonora
- — lo han convertido en un creador inclasificable. Su álbum debut\, ‘E
- l dilema del rapero blanco’\, despliega un sonido retro y minimalista in
- fluenciado por el hip hop de los 90 y 2000\, con referentes como Pharrell 
- Williams\, Q-Tip u Outkast\, sin perder de vista el pulso contemporáneo d
- e artistas como Kendrick Lamar o Tyler\, the Creator. Ha colaborado con fi
- guras históricas del rap como DJ Yoda o Mucho Muchacho\, así como con vo
- ces emergentes del indie y la electrónica como Ciutat o DJ Brava\, amplia
- ndo un universo sonoro libre y en constante mutación. Su propuesta visual
-  —inspirada en la obra de Michel Gondry— acompaña cada una de las can
- ciones del disco\, conformando un proyecto artístico global marcado por e
- l DIY y la experimentación plástica. Esta actividad forma parte de la se
- gunda edición del Festival Biophest 2026\, consulta el programa completo
-  aquí.\n\nhttps://www.mataderomadrid.org/programacion/sesion-musical-reim
- aginacion-del-disco-stevie-wonders-journey-through-secret-life
-LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Grazia
-DTSTART;TZID=Europe/Madrid:20260418T200000
-DTEND;TZID=Europe/Madrid:20260418T221200
-UID:7b45df3f4eecaaa86f95adab49c5f644741f3283b0b64dabb23811b596969c99
-CATEGORIES:cinema
-DESCRIPTION:Mariano De Santis\, presidente (ficiticio) de la República it
- aliana\, es un veterano político demócrata\, humanista y católico\, que
-  de repente comienza a dudar sobre varias importantes decisiones que debe 
- tomar\, en especial sobre si aprueba o no una ley de eutanasia\, planteán
- dose un gran dilema moral.\n\nRelease year: 2025\n\nOriginal language: IT\
- n\nAudio: VOSE\n\nhttps://cinesembajadores.es/pelicula/la-grazia-vose/?ciu
- dad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Incontrolable (I swear)
-DTSTART;TZID=Europe/Madrid:20260418T201000
-DTEND;TZID=Europe/Madrid:20260418T221000
-UID:81621d662504d6d5fb7420d1832f8ad69ac91c1e5648df2fe87fa9a1445df837
-CATEGORIES:cinema
-DESCRIPTION:La historia real de John Davidson. Diagnosticado con Tourette 
- a los 15 años\, señalado como loco por sus compañeros\, luchó con una 
- condición que pocos habían presenciado. Ya adulto\, hizo campaña en fav
- or del síndrome de Tourette .\n\nOriginal title: I Swear\n\nRelease year:
-  2025\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://cinesembajadores.
- es/pelicula/incontrolable-i-swear-vose/?ciudad=madrid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La habitación de Mariana
-DTSTART;TZID=Europe/Madrid:20260418T201500
-DTEND;TZID=Europe/Madrid:20260418T221700
-UID:0fab89ad238b23c5ddd04c38798c483430b797fab22bfe5a182e90e088e3f64d
-CATEGORIES:cinema
-DESCRIPTION:1942\, Ucrania. Hugo tiene 12 años cuando el nazismo ocupa su
-  tierra. Para salvarlo de la deportación\, su madre lo confía a su amiga
-  de la infancia\, Mariana\, una prostituta que vive en un burdel en las af
- ueras de la ciudad. Escondido en el armario de la habitación de Mariana\,
-  toda su existencia está suspendida de los ruidos que lo rodean y de las 
- escenas que adivina a través del armario. Mientras la guerra continúa fu
- era Hugo y Mariana forjan un vínculo íntimo y complejo de amor\, lealtad
-  y devoción mutua\, que cambiará sus vidas para siempre.\n\nOriginal tit
- le: La Chambre de Mariana\n\nRelease year: 2025\n\nOriginal language: UK\n
- \nAudio: VOSE\n\nhttps://cinesembajadores.es/pelicula/la-habitacion-de-mar
- iana-vose/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Renoir
-DTSTART;TZID=Europe/Madrid:20260418T201500
-UID:ecd71580615326c5297aeaa5965abe4a5899aa40832c46b18914e87f2d72d1c4
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 119 min
- utos | No recomendada para menores de 16 años\n\nRelease year: 2012\n\nOr
- iginal language: FR\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/106481
- 8/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Un poeta
-DTSTART;TZID=Europe/Madrid:20260418T202000
-DTEND;TZID=Europe/Madrid:20260418T222000
-UID:240a5e14904e70bb61a645fcf0a4c975dca69b884f89bf7e339c79ed31c62812
-CATEGORIES:cinema
-DESCRIPTION:La obsesión de Óscar Restrepo por la poesía no le ha report
- ado ninguna gloria. Envejecido y errático\, ha sucumbido al tópico del p
- oeta en la sombra. Conocer a Yurlady\, una adolescente de origen humilde\,
-  y ayudarla a cultivar su talento trae algo de luz a sus días\, pero arra
- strarla al mundo de la poesía quizá no sea el camino.\n\nRelease year: 2
- 025\n\nOriginal language: ES\n\nhttps://cinesembajadores.es/pelicula/un-po
- eta/?ciudad=madrid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Amarga Navidad
-DTSTART;TZID=Europe/Madrid:20260418T202000
-DTEND;TZID=Europe/Madrid:20260418T221100
-UID:7e05748164042f3515d176651428cb87d6cc22c272c4ae26ce422e020d7976f4
-CATEGORIES:cinema
-DESCRIPTION:Elsa es una directora de publicidad cuya madre muere durante u
- n largo puente del mes de diciembre. Encuentra refugio en el trabajo\, aun
- que es más bien una huida hacia adelante. Trabaja sin parar y\, sin darse
-  cuenta\, no se concede el tiempo necesario para guardar el duelo por la a
- usencia materna. Hasta que una crisis de pánico la obliga a detenerse e i
- mponerse un descanso. Su pareja\, Bonifacio\, es su tabla de salvación en
-  esos momentos de crisis. Elsa decide viajar a la isla de Lanzarote acompa
- ñada por su amiga Patricia\, que también necesita alejarse de Madrid\, m
- ientras que Bonifacio se queda en la ciudad. La historia de estos tres per
- sonajes\, y algunos más\, se narran paralelamente a la del guionista y di
- rector de cine Raúl Durán\, entremezclando ficción y realidad.\n\nRelea
- se year: 2026\n\nOriginal language: ES\n\nhttps://cinesembajadores.es/peli
- cula/amarga-navidad/?ciudad=madrid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Calle Málaga
-DTSTART;TZID=Europe/Madrid:20260418T202000
-DTEND;TZID=Europe/Madrid:20260418T221600
-UID:46d47536e406eab9152a693c14afb657d668036720a8187136e16edbfec97b81
-CATEGORIES:cinema
-DESCRIPTION:María Ángeles (Carmen Maura) es una española de 79 años qu
- e vive sola en Tánger\, en el norte de Marruecos\, donde disfruta de su c
- iudad y de su vida diaria. Su vida da un giro cuando su hija Clara (Marta 
- Etura) llega desde Madrid para vender el apartamento en el que siempre ha 
- vivido. Decidida a quedarse en la ciudad que la vio crecer\, hará todo lo
-  posible para mantener su hogar y recuperar los objetos de toda una vida. 
- Por el camino\, redescubre\, contra todo pronóstico\, el amor y el deseo.
- \n\nRelease year: 2025\n\nOriginal language: ES\n\nhttps://cinesembajadore
- s.es/pelicula/calle-malaga/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Incontrolable
-DTSTART;TZID=Europe/Madrid:20260418T202000
-UID:ffb8083892c6fdb6de5cd30f3e864f97a13138f7f566fa8258228a1b52e493f9
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 120 min
- utos | No recomendada para menores de 12 años\n\nRelease year: 2006\n\nOr
- iginal language: FR\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/106481
- 9/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tres Adioses
-DTSTART;TZID=Europe/Madrid:20260418T202000
-UID:b1831150bbb7384a68ae1f8204c47a5b3faf58ff274fbe1225beef50aa71816d
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 122 min
- utos | No recomendada para menores de 12 años\n\nOriginal title: Tre ciot
- ole\n\nRelease year: 2025\n\nOriginal language: IT\n\nAudio: VOSE\n\nhttps
- ://www.pillalas.com/pase/1064859/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Piercing
-DTSTART;TZID=Europe/Madrid:20260418T203000
-UID:c4cd97a6c41c662031e46cd6227ab312147868fd224c7e0c63a51c6a1ff01c80
-CATEGORIES:cinema
-DESCRIPTION:Reed (Christopher Abbott) tiene un plan: hacer check-in en un 
- hotel\, llamar a una prostituta y asesinarla sin que ésta sea consciente 
- de lo que está ocurriendo. Antes de salir de su casa\, supuestamente para
-  acudir a una reunión de trabajo\, se despide tiernamente de su mujer y b
- esa a su hijo. No hay nada fuera de lo normal salvo su maletín\, que en v
- ez de llevar ropa y unos pijamas contiene un cepillo de dientes y distinta
- s armas para cometer un asesinato. Todo parece ir según lo previsto hasta
-  que conoce a Jackie (Mia Wasikowska)\, la prostituta que acude a la habit
- ación de su hotel. Aunque Reed necesita liberar sus impulsos asesinos par
- a continuar siendo un buen marido y un padre ejemplar\, Jackie parece ser 
- consciente de sus intenciones\, por lo que se produce una extraña y onír
- ica situación que cambiará la vida de Reed para siempre.\n\nRelease year
- : 2019\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://www.cinetecamadr
- id.com/programacion/piercing
-LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Koma
-DTSTART;TZID=Europe/Madrid:20260418T203000
-UID:e0512437d5fc7916002a6cf667f2f9cc99dc46a0c4eb9642096a3b26f5826dd2
-CATEGORIES:music
-DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://www.musikaze.net/web/?me
- nu=138&pagina=entradas&item=56336&siteID=koma1
-LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
- id
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Calle Málaga
-DTSTART;TZID=Europe/Madrid:20260418T203500
-UID:e017f1fd669c4ca83636d0afeaa26467bb2905bfa4306bd568bd9f59b540e4b4
-CATEGORIES:cinema
-DESCRIPTION:Versión Original Castellano | Duración 116 minutos | No reco
- mendada para menores de 12 años\n\nRelease year: 2025\n\nOriginal languag
- e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1064792/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Walkabout (1971)
-DTSTART;TZID=Europe/Madrid:20260418T210000
-UID:79325aedf1304b2389177e3749e4dec7c39144ccbe78c6ae6c296e35434aad0c
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Sábado 18 de abril a las 21:00h (Sala 1. Kelly 
- Reichardt. Carta blanca) *Aunque las entradas aparezcan como agotadas en w
- eb\, pueden adquirirse en taquilla entradas para las sesiones del día (de
-  17h a 20h)\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/productos/des
- cripcion/walkabout-nicolas-roeg-1971-
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Alamedadosoulna
-DTSTART;TZID=Europe/Madrid:20260418T213000
-UID:59440978893769b56b99397ffcba35b4cb0579573ba23ebb8068daed93b43fb6
-CATEGORIES:music
-DESCRIPTION:Precio de las entradas: 18€/21€ Entradas a la venta en fev
- er Bio/enlaces bandas: Alamedadosoulna_facebook + Alamedadosoulna_X + Alam
- edasoulna_instagram Más información: Alamedadosoulna presenta: “Back t
- o the Beginning”.\n\nhttps://gruta77.com/events/alamedadosoulna/var/ri-0
- .l-L2
-LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Valor Sentimental
-DTSTART;TZID=Europe/Madrid:20260418T215000
-UID:e3fb1446260003615b8d6edbe280406bf6c60c8e21384c04bb2456933639ca14
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 133 min
- utos | No recomendada para menores de 12 años\n\nOriginal title: Affeksjo
- nsverdi\n\nRelease year: 2025\n\nOriginal language: NO\n\nAudio: VOSE\n\nh
- ttps://www.pillalas.com/pase/1064860/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El Barullo presenta Gitania
-DTSTART;TZID=Europe/Madrid:20260418T220000
-UID:541f0fe998502a1277e5ad52c2925fefeb824839edebb83dbd28122a602078af
-CATEGORIES:music
-DESCRIPTION:Concierto / Flamenco\n\nhttps://salavillanos.es/evento/el-baru
- llo-presenta-gitania-con-israel-fernandez-y-el-maestro-duquende/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Un verano por metro cuadrado
-DTSTART;TZID=Europe/Madrid:20260418T221500
-UID:ec347e83455e13b7091306afa2285ecc1b7e924a486bf885bb04d26f0668544a
-CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 1 plazas!\n\nhttps://teatrodelbarrio.com/un-v
- erano-por-metro-cuadrado/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mi querida señorita
-DTSTART;TZID=Europe/Madrid:20260418T223000
-DTEND;TZID=Europe/Madrid:20260419T002200
-UID:e86f8c5d187ccb81c04351574926f6c6c4570939704103d67bb221f8863e8c4f
-CATEGORIES:cinema
-DESCRIPTION:Adela\, solitaria hija única de una familia conservadora\, pa
- sa sus días entre la tienda de antigüedades familiar y las clases de cat
- equesis que imparte\, marcada por la protección de su madre y el silencio
-  sobre su intersexualidad\, que desconoce pero condiciona su vida. Una ine
- sperada y hermosa amistad con un sacerdote recién llegado\, el regreso de
-  un gran amigo de su infancia y la irrupción de una mujer\, Isabel\, prov
- ocan una reacción en cadena que lleva a Adela a un viaje en busca de sí 
- misma\, de Pamplona a Madrid\, donde la identidad necesitará del amor y l
- a ayuda de los demás para revelarse... Adaptación libre de la película 
- homónima de 1972 que estuvo nominada al Oscar a Mejor película extranjer
- a.\n\nRelease year: 2026\n\nOriginal language: ES\n\nhttps://cinesembajado
- res.es/pelicula/mi-querida-senorita/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Amarga Navidad
-DTSTART;TZID=Europe/Madrid:20260418T223000
-DTEND;TZID=Europe/Madrid:20260419T002100
-UID:50a108e933424c3dc386aea1ba285c660590b144645588e2d29b229f8336a3b4
-CATEGORIES:cinema
-DESCRIPTION:Elsa es una directora de publicidad cuya madre muere durante u
- n largo puente del mes de diciembre. Encuentra refugio en el trabajo\, aun
- que es más bien una huida hacia adelante. Trabaja sin parar y\, sin darse
-  cuenta\, no se concede el tiempo necesario para guardar el duelo por la a
- usencia materna. Hasta que una crisis de pánico la obliga a detenerse e i
- mponerse un descanso. Su pareja\, Bonifacio\, es su tabla de salvación en
-  esos momentos de crisis. Elsa decide viajar a la isla de Lanzarote acompa
- ñada por su amiga Patricia\, que también necesita alejarse de Madrid\, m
- ientras que Bonifacio se queda en la ciudad. La historia de estos tres per
- sonajes\, y algunos más\, se narran paralelamente a la del guionista y di
- rector de cine Raúl Durán\, entremezclando ficción y realidad.\n\nRelea
- se year: 2026\n\nOriginal language: ES\n\nhttps://cinesembajadores.es/peli
- cula/amarga-navidad/?ciudad=madrid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Grazia
-DTSTART;TZID=Europe/Madrid:20260418T223000
-DTEND;TZID=Europe/Madrid:20260419T004200
-UID:a3b98abd1fb4ca8f6c42c728b2eb3062d4e364ba9d2a4d2c3190f49e7727f986
-CATEGORIES:cinema
-DESCRIPTION:Mariano De Santis\, presidente (ficiticio) de la República it
- aliana\, es un veterano político demócrata\, humanista y católico\, que
-  de repente comienza a dudar sobre varias importantes decisiones que debe 
- tomar\, en especial sobre si aprueba o no una ley de eutanasia\, planteán
- dose un gran dilema moral.\n\nRelease year: 2025\n\nOriginal language: IT\
- n\nAudio: VOSE\n\nhttps://cinesembajadores.es/pelicula/la-grazia-vose/?ciu
- dad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hamnet
-DTSTART;TZID=Europe/Madrid:20260418T223000
-DTEND;TZID=Europe/Madrid:20260419T003500
-UID:df78e7c7ecbebcd786049d0610f56647068f9bb842ec8dd8774bee1ae3f26064
-CATEGORIES:cinema
-DESCRIPTION:Narra la historia de Agnes\, la esposa de William Shakespeare\
- , en su lucha por superar la pérdida de su único hijo\, Hamnet. Una hist
- oria humana y desgarradora como telón de fondo para la creación de la ob
- ra de Shakespeare\, Hamlet.\n\nRelease year: 2025\n\nOriginal language: EN
- \n\nAudio: VOSE\n\nhttps://cinesembajadores.es/pelicula/hamnet-vose/?ciuda
- d=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Uyariy (Escuchar)
-DTSTART;TZID=Europe/Madrid:20260418T223000
-DTEND;TZID=Europe/Madrid:20260419T000500
-UID:845961612ee0a18aaf25dd49e6fb848c979c000d5877e8b2955157d4e15fccf9
-CATEGORIES:cinema
-DESCRIPTION:Después del estallido social en Perú y la matanza del 9 de e
- nero de 2023 en Juliaca\, artistas del ande peruano nos harán viajar con 
- su música por la región de Puno y su historia. Una historia que sucede h
- oy en muchos lugares del mundo.\n\nhttps://cinesembajadores.es/pelicula/uy
- ariy-escuchar/?ciudad=madrid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El Chico De Los Pantalones Rosas
-DTSTART;TZID=Europe/Madrid:20260418T223000
-UID:2c95916697491960bac0a2ae5ee2d3b2794efff6bece4235264e31dd9869cdaf
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 115 min
- utos | No recomendada para menores de 12 años\n\nOriginal title: Il ragaz
- zo dai pantaloni rosa\n\nRelease year: 2024\n\nOriginal language: IT\n\nAu
- dio: VOSE\n\nhttps://www.pillalas.com/pase/1064820/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Incontrolable (I swear)
-DTSTART;TZID=Europe/Madrid:20260418T223500
-DTEND;TZID=Europe/Madrid:20260419T003500
-UID:fd1d6de8c4dfffbe3a1326b18b95bbaf5f8c0be1a496f430cd902d14b1bfd5dd
-CATEGORIES:cinema
-DESCRIPTION:La historia real de John Davidson. Diagnosticado con Tourette 
- a los 15 años\, señalado como loco por sus compañeros\, luchó con una 
- condición que pocos habían presenciado. Ya adulto\, hizo campaña en fav
- or del síndrome de Tourette .\n\nOriginal title: I Swear\n\nRelease year:
-  2025\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://cinesembajadores.
- es/pelicula/incontrolable-i-swear-vose/?ciudad=madrid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Incontrolable
-DTSTART;TZID=Europe/Madrid:20260418T223500
-UID:ad76e7102f250e9f62620da4923c014ee8b3a7da4a5f0ff391cbc20e54b767d6
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 120 min
- utos | No recomendada para menores de 12 años\n\nRelease year: 2006\n\nOr
- iginal language: FR\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/106482
- 1/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Renoir
-DTSTART;TZID=Europe/Madrid:20260418T224000
-UID:087d814d3df44f1c6631127d7b2d7c04d2ded9544d00a0d68902d1104966a00a
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 119 min
- utos | No recomendada para menores de 16 años\n\nRelease year: 2012\n\nOr
- iginal language: FR\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/106486
- 1/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Calle Málaga
-DTSTART;TZID=Europe/Madrid:20260418T224500
-UID:2c25729d42c5834b20bfa989fdd7fbf4191432b2d9e9a9b01cccd65f5e2f6b3f
-CATEGORIES:cinema
-DESCRIPTION:Versión Original Castellano | Duración 116 minutos | No reco
- mendada para menores de 12 años\n\nRelease year: 2025\n\nOriginal languag
- e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1064793/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mazo Club #14
-DTSTART;TZID=Europe/Madrid:20260418T235900
-UID:ffe15c76516ba5bf57a902d0228402aa092f6ed3deaae4f7e1e7aa3f63d6b31e
-CATEGORIES:other
-DESCRIPTION:Club\n\nhttps://salavillanos.es/evento/mazo-club-14/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Monster-zine Bestiario Imposible\, es así como lo ves ahora
@@ -2647,34 +1222,37 @@ DESCRIPTION:El DJ y selector John Gómez (Reino Unido) presentará un DJ s
 LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TALLER. Creación de sellos botánicos con la técnica del 'block 
- printing'
+SUMMARY:TALLER / Creación de sellos botánicos con la técnica del "block
+  printing"
 DTSTART;TZID=Europe/Madrid:20260419T130000
-UID:73ac08abb8ac4d4d7063a9d91126ed7942b772988f381d01526d36c2256aabbc
+UID:642ced98396a05289af611fba4cf3dc355cd6259969be83f8ad951ce5ad85c4d
 CATEGORIES:other
-DESCRIPTION:Taller impartido por Xiana Cobo. Durante este taller aprender
- ás a crear tus propios sellos para estampar de manera manual sobre cualqu
- ier superficie\, utilizando la técnica de block printing o estampación p
- or bloques. Exploraremos diferentes materiales y métodos de vaciado\, y t
- e enseñaremos cómo transformar un dibujo en un sello para obtener el res
- ultado que deseas. Se presentarán múltiples ejemplos de motivos para ins
- pirarte\, pero también podrás incorporar tus propias ilustraciones o ide
- as al taller. No se requieren conocimientos previos. La participación inc
- luye una plancha de vinilo de 15 x 9 cm\, una breve guía de estampación 
- para que puedas llevártela a casa\, y acceso a un set de gubias\, lápice
- s y folios para trabajar durante la sesión. Xiana Cobo trabaja desde el e
- ncuentro entre la imagen y el tejido. Es diseñadora textil con formación
-  en Historia del Arte y Diseño de Moda\, y ha desarrollado estampados par
- a reconocidas marcas del sector. En 2018 fundó su propia firma de accesor
- ios\, un espacio donde explorar un enfoque más artístico y personal del 
- diseño textil. Le interesa especialmente la imagen aplicada al tejido\, y
- a sea a través de técnicas contemporáneas como la estampación digital 
- o mediante procesos  manuales como la estampación por bloques. Su trabaj
- o se sitúa entre el arte y el diseño\, donde el objeto se construye a tr
- avés de una narrativa visual sobre el textil. Esta actividad forma parte 
- de la segunda edición del Festival Biophest 2026\, consulta el programa
-  completo aquí.\n\nhttps://www.mataderomadrid.org/programacion/taller-cre
- acion-de-sellos-botanicos-con-la-tecnica-del-block-printing
+DESCRIPTION:Taller impartido por Xiana Cobo. Domingo 19 de abril de 13.00
+   a 14.30 h. en Taller Matad ero. Actividad con aforo limitado\, compra d
+ e entradas aquí (máximo 15 personas)\, dirigido a público adulto (mayor
+  de 18 años). Durante este taller aprenderás a crear tus propios sellos 
+ para estampar de manera manual sobre cualquier superficie\, utilizando la 
+ técnica de block printing o estampación por bloques. Exploraremos difere
+ ntes materiales y métodos de vaciado\, y te enseñaremos cómo transforma
+ r un dibujo en un sello para obtener el resultado que deseas. Se presentar
+ án múltiples ejemplos de motivos para inspirarte\, pero también podrás
+  incorporar tus propias ilustraciones o ideas al taller. No se requieren c
+ onocimientos previos. La participación incluye una plancha de vinilo de 1
+ 5 x 9 cm\, una breve guía de estampación para que puedas llevártela a c
+ asa\, y acceso a un set de gubias\, lápices y folios para trabajar durant
+ e la sesión. Xiana Cobo trabaja desde el encuentro entre la imagen y el t
+ ejido. Es diseñadora textil con formación en Historia del Arte y Diseño
+  de Moda\, y ha desarrollado estampados para reconocidas marcas del sector
+ . En 2018 fundó su propia firma de accesorios\, un espacio donde explorar
+  un enfoque más artístico y personal del diseño textil. Le interesa esp
+ ecialmente la imagen aplicada al tejido\, ya sea a través de técnicas co
+ ntemporáneas como la estampación digital o mediante procesos  manuales 
+ como la estampación por bloques. Su trabajo se sitúa entre el arte y el 
+ diseño\, donde el objeto se construye a través de una narrativa visual s
+ obre el textil. Esta actividad forma parte de la segunda edición del Fes
+ tival Biophest 2026\, consulta el programa completo aquí. Foto de Ana P
+ aes\n\nhttps://www.mataderomadrid.org/programacion/taller-creacion-de-sell
+ os-botanicos-con-la-tecnica-del-block-printing
 LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -2696,32 +1274,34 @@ DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/yo-deseo-recital-ele
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TALLER. Cuidado de esquejes
+SUMMARY:TALLER / Cuidado de esquejes
 DTSTART;TZID=Europe/Madrid:20260419T150000
-UID:32773409a17d4259461f2fb1b1b1fb361eb91668a1832fc3e46672a237a9bdfa
+UID:10478446d57a91f8d6667ff47d35eacae03649ee81886fdec1eb3e37f6925daf
 CATEGORIES:other
-DESCRIPTION:Taller impartido por NENA PLANTS FLOW En este taller de esquej
- es\, propagaremos nuestra felicidad a través de las plantas y aprenderemo
- s a multiplicarlas de manera efectiva\, comprendiendo los procesos y aplic
- ando la técnica adecuada para ganar confianza en su cuidado y reproducci
- ón. Será un espacio para aprender\, conectar y practicar. Además\, cada
-  participante se llevará a casa una base de propagación artesanal\, llen
- a de nuevos esquejes para ampliar su colección. NENA PLANTS FLOW es la me
- nte creativa detrás de Instinto Planternal\, un proyecto que invita a rec
- onectar con la naturaleza desde un enfoque íntimo\, creativo y profundame
- nte consciente. A través de su comunidad en Instagram — @nenaplantsflow
-  — inspira a cultivar plantas\, creatividad y bienestar\, transformando 
- lo cotidiano en una experiencia botánica llena de intención. Con años d
- e experiencia en talleres y proyectos formativos\, Nena sostiene que cuida
- r plantas es también cuidar de uno mismo. Autora del libro ‘Cuida tus p
- lantas para que ellas cuiden de ti’\, donde se combina jardinería\, cre
- atividad y reflexión personal para fomentar una conexión consciente con 
- lo vegetal. En sus talleres invita a bajar el ritmo\, observar\, cultivar 
- y dejar que las plantas —junto con nuestra propia creatividad— transfo
- rmen nuestros espacios y nuestra manera de habitar la vida. Esta actividad
-  forma parte de la segunda edición del Festival Biophest 2026\, consult
- a el programa completo aquí.\n\nhttps://www.mataderomadrid.org/programaci
- on/taller-cuidado-de-esquejes
+DESCRIPTION:Taller impartido por NENA PLANTS FLOW Domingo 19 de de 15 a 16
+ .30 h. en Taller Matadero. Actividad con aforo limitado\, compra de entrad
+ as aquí (máximo 15 personas)\, dirigido a público adulto (mayor de 18 a
+ ños). En este taller de esquejes\, propagaremos nuestra felicidad a trav
+ és de las plantas y aprenderemos a multiplicarlas de manera efectiva\, co
+ mprendiendo los procesos y aplicando la técnica adecuada para ganar confi
+ anza en su cuidado y reproducción. Será un espacio para aprender\, conec
+ tar y practicar. Además\, cada participante se llevará a casa una base d
+ e propagación artesanal\, llena de nuevos esquejes para ampliar su colecc
+ ión. NENA PLANTS FLOW es la mente creativa detrás de Instinto Planternal
+ \, un proyecto que invita a reconectar con la naturaleza desde un enfoque 
+ íntimo\, creativo y profundamente consciente. A través de su comunidad e
+ n Instagram — @nenaplantsflow — inspira a cultivar plantas\, creativid
+ ad y bienestar\, transformando lo cotidiano en una experiencia botánica l
+ lena de intención. Con años de experiencia en talleres y proyectos forma
+ tivos\, Nena sostiene que cuidar plantas es también cuidar de uno mismo. 
+ Autora del libro ‘Cuida tus plantas para que ellas cuiden de ti’\, don
+ de se combina jardinería\, creatividad y reflexión personal para fomenta
+ r una conexión consciente con lo vegetal. En sus talleres invita a bajar 
+ el ritmo\, observar\, cultivar y dejar que las plantas —junto con nuestr
+ a propia creatividad— transformen nuestros espacios y nuestra manera de 
+ habitar la vida. Esta actividad forma parte de la segunda edición del Fe
+ stival Biophest 2026\, consulta el programa completo aquí.\n\nhttps://ww
+ w.mataderomadrid.org/programacion/taller-cuidado-de-esquejes
 LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -3005,31 +1585,32 @@ DESCRIPTION:Versión Original Castellano | Duración 89 minutos | No recom
 LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TALLER. El poder de las plantas aromáticas
+SUMMARY:TALLER / El poder de las plantas aromáticas
 DTSTART;TZID=Europe/Madrid:20260419T180000
-UID:2c36a3b4434aef92f299212ed7ddeb4a09e17e2421ec5204077c75843e3803b7
+UID:d18eaad90bbb02bf15251c691ee4669cd21b8e31f5b96133c185673cb756f969
 CATEGORIES:other
-DESCRIPTION:Impartido por Caroline Heredia de blueyellow. Actividad con af
- oro limitado\, compra de entradas aquí (máximo 15 personas)\, dirigido a
-  público adulto (mayor de 18 años). En este taller exploraremos el fasci
- nante mundo de las plantas aromáticas\, descubriendo sus propiedades y lo
- s múltiples usos que pueden tener en nuestra vida cotidiana. Aprenderemos
-  a elegir la forma más adecuada según su aplicación culinaria o medicin
- al. Para finalizar\, cada participante elaborará su propio preparado pers
- onalizado\, escogiendo las plantas y propiedades que mejor se adapten a su
- s gustos y necesidades\, para llevarse a casa un producto único y poderos
- o. Caroline Heredia Abernethy ·  blueyellow Durante más de una década 
- ha investigado y cultivado variedades agrícolas\, más de 50 especies de 
- plantas aromáticas descubriendo numerosas variedades y nuevas formas de d
- isfrutar de sus beneficios. Fruto de este camino fundó bluyellow.co\, una
-  marca de conservas de plantas aromáticas cultivadas de manera agroecoló
- gica y respetando los ciclos naturales. Actualmente desarrolla proyectos d
- e paisajismo regenerativo y renaturalización urbana\, integrando solucion
- es basadas en la naturaleza para revitalizar entornos urbanos y promover l
- a biodiversidad. Esta actividad forma parte de la segunda edición del Fes
- tival Biophest 2026\, consulta el programa completo aquí . Foto de Diego
-  Diez\n\nhttps://www.mataderomadrid.org/programacion/taller-el-poder-de-la
- s-plantas-aromaticas
+DESCRIPTION:Impartido por Caroline Heredia de blueyellow. Domingo 19 de ab
+ ril de 18.00 a 19.30 h. en el Taller Matadero. Actividad con aforo limita
+ do\, compra de entradas aquí (máximo 15 personas)\, dirigido a público 
+ adulto (mayor de 18 años). En este taller exploraremos el fascinante mund
+ o de las plantas aromáticas\, descubriendo sus propiedades y los múltipl
+ es usos que pueden tener en nuestra vida cotidiana. Aprenderemos a elegir 
+ la forma más adecuada según su aplicación culinaria o medicinal. Para f
+ inalizar\, cada participante elaborará su propio preparado personalizado\
+ , escogiendo las plantas y propiedades que mejor se adapten a sus gustos y
+  necesidades\, para llevarse a casa un producto único y poderoso. Carolin
+ e Heredia Abernethy ·  blueyellow Durante más de una década ha investi
+ gado y cultivado variedades agrícolas\, más de 50 especies de plantas ar
+ omáticas descubriendo numerosas variedades y nuevas formas de disfrutar d
+ e sus beneficios. Fruto de este camino fundó bluyellow.co\, una marca de 
+ conservas de plantas aromáticas cultivadas de manera agroecológica y res
+ petando los ciclos naturales. Actualmente desarrolla proyectos de paisajis
+ mo regenerativo y renaturalización urbana\, integrando soluciones basadas
+  en la naturaleza para revitalizar entornos urbanos y promover la biodiver
+ sidad. Esta actividad forma parte de la segunda edición del Festival Biop
+ hest 2026\, consulta el programa completo aquí . Foto de Diego Diez\n\nh
+ ttps://www.mataderomadrid.org/programacion/taller-el-poder-de-las-plantas-
+ aromaticas
 LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -3253,18 +1834,24 @@ DESCRIPTION:Versión Original subtitulada a Castellano | Duración 119 min
 LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Un poeta
+SUMMARY:Amarga Navidad
 DTSTART;TZID=Europe/Madrid:20260419T202000
-DTEND;TZID=Europe/Madrid:20260419T222000
-UID:99215479b6ce194b94b470d476f13cd31b3f330e8533a5ceec55817699ef71a9
+DTEND;TZID=Europe/Madrid:20260419T221100
+UID:465378e66f8573b9e9627ce3209850c8d23ce3748c54d5eaa1cd22c4a2855aec
 CATEGORIES:cinema
-DESCRIPTION:La obsesión de Óscar Restrepo por la poesía no le ha report
- ado ninguna gloria. Envejecido y errático\, ha sucumbido al tópico del p
- oeta en la sombra. Conocer a Yurlady\, una adolescente de origen humilde\,
-  y ayudarla a cultivar su talento trae algo de luz a sus días\, pero arra
- strarla al mundo de la poesía quizá no sea el camino.\n\nRelease year: 2
- 025\n\nOriginal language: ES\n\nhttps://cinesembajadores.es/pelicula/un-po
- eta/?ciudad=madrid
+DESCRIPTION:Elsa es una directora de publicidad cuya madre muere durante u
+ n largo puente del mes de diciembre. Encuentra refugio en el trabajo\, aun
+ que es más bien una huida hacia adelante. Trabaja sin parar y\, sin darse
+  cuenta\, no se concede el tiempo necesario para guardar el duelo por la a
+ usencia materna. Hasta que una crisis de pánico la obliga a detenerse e i
+ mponerse un descanso. Su pareja\, Bonifacio\, es su tabla de salvación en
+  esos momentos de crisis. Elsa decide viajar a la isla de Lanzarote acompa
+ ñada por su amiga Patricia\, que también necesita alejarse de Madrid\, m
+ ientras que Bonifacio se queda en la ciudad. La historia de estos tres per
+ sonajes\, y algunos más\, se narran paralelamente a la del guionista y di
+ rector de cine Raúl Durán\, entremezclando ficción y realidad.\n\nRelea
+ se year: 2026\n\nOriginal language: ES\n\nhttps://cinesembajadores.es/peli
+ cula/amarga-navidad/?ciudad=madrid
 LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
 END:VEVENT
 BEGIN:VEVENT
@@ -3306,44 +1893,33 @@ DESCRIPTION:Blaï (43) y Camille (43)\, que forman una pareja artística y
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:La habitación de Mariana
+SUMMARY:Un poeta
 DTSTART;TZID=Europe/Madrid:20260419T203000
-DTEND;TZID=Europe/Madrid:20260419T223200
-UID:2adcd46e5eeabce74eddb3e78b9749ef13881cdc8f74867d5be6481f25258c8b
+DTEND;TZID=Europe/Madrid:20260419T223000
+UID:44422e715deb1ef9268e1c32d25a54b99cb02fdd6075e542012153a6394de863
 CATEGORIES:cinema
-DESCRIPTION:1942\, Ucrania. Hugo tiene 12 años cuando el nazismo ocupa su
-  tierra. Para salvarlo de la deportación\, su madre lo confía a su amiga
-  de la infancia\, Mariana\, una prostituta que vive en un burdel en las af
- ueras de la ciudad. Escondido en el armario de la habitación de Mariana\,
-  toda su existencia está suspendida de los ruidos que lo rodean y de las 
- escenas que adivina a través del armario. Mientras la guerra continúa fu
- era Hugo y Mariana forjan un vínculo íntimo y complejo de amor\, lealtad
-  y devoción mutua\, que cambiará sus vidas para siempre.\n\nOriginal tit
- le: La Chambre de Mariana\n\nRelease year: 2025\n\nOriginal language: UK\n
- \nAudio: VOSE\n\nhttps://cinesembajadores.es/pelicula/la-habitacion-de-mar
- iana-vose/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
+DESCRIPTION:La obsesión de Óscar Restrepo por la poesía no le ha report
+ ado ninguna gloria. Envejecido y errático\, ha sucumbido al tópico del p
+ oeta en la sombra. Conocer a Yurlady\, una adolescente de origen humilde\,
+  y ayudarla a cultivar su talento trae algo de luz a sus días\, pero arra
+ strarla al mundo de la poesía quizá no sea el camino.\n\nRelease year: 2
+ 025\n\nOriginal language: ES\n\nhttps://cinesembajadores.es/pelicula/un-po
+ eta/?ciudad=madrid
+LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Amarga Navidad
+SUMMARY:Incontrolable (I swear)
 DTSTART;TZID=Europe/Madrid:20260419T203000
-DTEND;TZID=Europe/Madrid:20260419T222100
-UID:d0934d797718c96b5560ee5df1c9aecdf663e5b9e4486ec01f5e2ca909e0fd85
+DTEND;TZID=Europe/Madrid:20260419T223000
+UID:edeb688228f3a81aa59e380c39b4ce900aaacc53d4ac972a20465e4d313f745d
 CATEGORIES:cinema
-DESCRIPTION:Elsa es una directora de publicidad cuya madre muere durante u
- n largo puente del mes de diciembre. Encuentra refugio en el trabajo\, aun
- que es más bien una huida hacia adelante. Trabaja sin parar y\, sin darse
-  cuenta\, no se concede el tiempo necesario para guardar el duelo por la a
- usencia materna. Hasta que una crisis de pánico la obliga a detenerse e i
- mponerse un descanso. Su pareja\, Bonifacio\, es su tabla de salvación en
-  esos momentos de crisis. Elsa decide viajar a la isla de Lanzarote acompa
- ñada por su amiga Patricia\, que también necesita alejarse de Madrid\, m
- ientras que Bonifacio se queda en la ciudad. La historia de estos tres per
- sonajes\, y algunos más\, se narran paralelamente a la del guionista y di
- rector de cine Raúl Durán\, entremezclando ficción y realidad.\n\nRelea
- se year: 2026\n\nOriginal language: ES\n\nhttps://cinesembajadores.es/peli
- cula/amarga-navidad/?ciudad=madrid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
+DESCRIPTION:La historia real de John Davidson. Diagnosticado con Tourette 
+ a los 15 años\, señalado como loco por sus compañeros\, luchó con una 
+ condición que pocos habían presenciado. Ya adulto\, hizo campaña en fav
+ or del síndrome de Tourette .\n\nOriginal title: I Swear\n\nRelease year:
+  2025\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://cinesembajadores.
+ es/pelicula/incontrolable-i-swear-vose/?ciudad=madrid
+LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Uyariy (Escuchar)
@@ -3698,22 +2274,16 @@ DESCRIPTION:Mariano De Santis\, presidente (ficiticio) de la República it
 LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:La habitación de Mariana
+SUMMARY:Uyariy (Escuchar)
 DTSTART;TZID=Europe/Madrid:20260420T195000
-DTEND;TZID=Europe/Madrid:20260420T215200
-UID:de5e1ba8496e5b12ab419dfbe3450683283bac212cd09515478feafb0108aec1
+DTEND;TZID=Europe/Madrid:20260420T212500
+UID:c8e128d03001077e60fac78f6d1cf51bfa642a1aa93bad4a7ff4847d20123233
 CATEGORIES:cinema
-DESCRIPTION:1942\, Ucrania. Hugo tiene 12 años cuando el nazismo ocupa su
-  tierra. Para salvarlo de la deportación\, su madre lo confía a su amiga
-  de la infancia\, Mariana\, una prostituta que vive en un burdel en las af
- ueras de la ciudad. Escondido en el armario de la habitación de Mariana\,
-  toda su existencia está suspendida de los ruidos que lo rodean y de las 
- escenas que adivina a través del armario. Mientras la guerra continúa fu
- era Hugo y Mariana forjan un vínculo íntimo y complejo de amor\, lealtad
-  y devoción mutua\, que cambiará sus vidas para siempre.\n\nOriginal tit
- le: La Chambre de Mariana\n\nRelease year: 2025\n\nOriginal language: UK\n
- \nAudio: VOSE\n\nhttps://cinesembajadores.es/pelicula/la-habitacion-de-mar
- iana-vose/?ciudad=madrid
+DESCRIPTION:Después del estallido social en Perú y la matanza del 9 de e
+ nero de 2023 en Juliaca\, artistas del ande peruano nos harán viajar con 
+ su música por la región de Puno y su historia. Una historia que sucede h
+ oy en muchos lugares del mundo.\n\nhttps://cinesembajadores.es/pelicula/uy
+ ariy-escuchar/?ciudad=madrid
 LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
 END:VEVENT
 BEGIN:VEVENT
@@ -5495,26 +4065,6 @@ DESCRIPTION:Muestra el viaje de Michael Jackson más allá de la música\,
 LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mi querida señorita
-DTSTART;TZID=Europe/Madrid:20260423T223000
-DTEND;TZID=Europe/Madrid:20260424T002200
-UID:f6ca338331d913dec6f771fa3406937c440a8147d9987f9de31d889965ceae65
-CATEGORIES:cinema
-DESCRIPTION:Adela\, solitaria hija única de una familia conservadora\, pa
- sa sus días entre la tienda de antigüedades familiar y las clases de cat
- equesis que imparte\, marcada por la protección de su madre y el silencio
-  sobre su intersexualidad\, que desconoce pero condiciona su vida. Una ine
- sperada y hermosa amistad con un sacerdote recién llegado\, el regreso de
-  un gran amigo de su infancia y la irrupción de una mujer\, Isabel\, prov
- ocan una reacción en cadena que lleva a Adela a un viaje en busca de sí 
- misma\, de Pamplona a Madrid\, donde la identidad necesitará del amor y l
- a ayuda de los demás para revelarse... Adaptación libre de la película 
- homónima de 1972 que estuvo nominada al Oscar a Mejor película extranjer
- a.\n\nRelease year: 2026\n\nOriginal language: ES\n\nhttps://cinesembajado
- res.es/pelicula/mi-querida-senorita/?ciudad=madrid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Incontrolable (I swear)
 DTSTART;TZID=Europe/Madrid:20260423T223000
 DTEND;TZID=Europe/Madrid:20260424T003000
@@ -5542,6 +4092,19 @@ DESCRIPTION:Mariano De Santis\, presidente (ficiticio) de la República it
  n\nAudio: VOSE\n\nhttps://cinesembajadores.es/pelicula/la-grazia-vose/?ciu
  dad=madrid
 LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Uyariy (Escuchar)
+DTSTART;TZID=Europe/Madrid:20260423T223000
+DTEND;TZID=Europe/Madrid:20260424T000500
+UID:9f78d4546065d6a84800f1bba560215ad12a5911a3f59cf69f98559044c3b300
+CATEGORIES:cinema
+DESCRIPTION:Después del estallido social en Perú y la matanza del 9 de e
+ nero de 2023 en Juliaca\, artistas del ande peruano nos harán viajar con 
+ su música por la región de Puno y su historia. Una historia que sucede h
+ oy en muchos lugares del mundo.\n\nhttps://cinesembajadores.es/pelicula/uy
+ ariy-escuchar/?ciudad=madrid
+LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cuerpo Molécula: I Jornada sobre Mediación en Artes Escénicas
@@ -5683,17 +4246,6 @@ LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
  \, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LEXIKON
-DTSTART;TZID=Europe/Madrid:20260424T200000
-DTEND;TZID=Europe/Madrid:20260524T200000
-UID:96160284aff37b4e21894727d9155171ad4259d5a269d255980f52baed4c10fd
-CATEGORIES:theater
-DESCRIPTION:Una creación de El Conde de Torrefiel Texto y dirección Tany
- a Beyeler y Pablo Gisbert\n\nhttps://dramatico.inaem.gob.es/evento/lexikon
- /
-LOCATION:Teatro Maria Guerrero - Calle de Tamayo y Baus\, 4\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Michael
 DTSTART;TZID=Europe/Madrid:20260424T200500
 DTEND;TZID=Europe/Madrid:20260424T221200
@@ -5787,23 +4339,6 @@ DESCRIPTION:Club\n\nhttps://salavillanos.es/evento/nickodemus-nacho-marco/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Embajadores del Arte: Murillo\, el último viaje
-DTSTART;TZID=Europe/Madrid:20260425T120000
-DTEND;TZID=Europe/Madrid:20260425T131000
-UID:edc7b48291b93c3310f22b64253ab81bd85f7384e0f2eaac89d2548708434773
-CATEGORIES:cinema
-DESCRIPTION:El pintor Bartolomé Esteban Murillo sufrió un premeditado ex
- polio que ha hecho que hoy su obra se encuentre dispersa por los más impo
- rtantes museos de todo el mundo. Enrique Valdivieso\, especialista en pint
- ura sevillana del siglo XVII\, Guillaume Kientz\, conservador del Museo de
- l Louvre y Gabriele Finaldi\, director de la National Gallery de Londres\,
-  serán testigos del viaje de ida y vuelta desde París a Sevilla que sufr
- ió una de sus pinturas más célebres: “El joven mendigo”.\n\nhttps:/
- /cinesembajadores.es/pelicula/embajadores-del-arte-murillo-el-ultimo-viaje
- /?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Laca y Palomitas: Sidosa
 DTSTART;TZID=Europe/Madrid:20260425T120000
 DTEND;TZID=Europe/Madrid:20260425T133400
@@ -5821,6 +4356,23 @@ DESCRIPTION:Todo el mundo le ha dicho que no lo haga\, pero Eduardo Casano
 LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Embajadores del Arte: Murillo\, el último viaje
+DTSTART;TZID=Europe/Madrid:20260425T120000
+DTEND;TZID=Europe/Madrid:20260425T131000
+UID:edc7b48291b93c3310f22b64253ab81bd85f7384e0f2eaac89d2548708434773
+CATEGORIES:cinema
+DESCRIPTION:El pintor Bartolomé Esteban Murillo sufrió un premeditado ex
+ polio que ha hecho que hoy su obra se encuentre dispersa por los más impo
+ rtantes museos de todo el mundo. Enrique Valdivieso\, especialista en pint
+ ura sevillana del siglo XVII\, Guillaume Kientz\, conservador del Museo de
+ l Louvre y Gabriele Finaldi\, director de la National Gallery de Londres\,
+  serán testigos del viaje de ida y vuelta desde París a Sevilla que sufr
+ ió una de sus pinturas más célebres: “El joven mendigo”.\n\nhttps:/
+ /cinesembajadores.es/pelicula/embajadores-del-arte-murillo-el-ultimo-viaje
+ /?ciudad=madrid
+LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:La diatriba del perro
 DTSTART;TZID=Europe/Madrid:20260425T130000
 UID:e18b91fdc58b94bf4708f9afc44215faac625c22126a87be9a0d0e20bebaabc3
@@ -5828,6 +4380,23 @@ CATEGORIES:theater
 DESCRIPTION:¡Ya solo quedan 1 plazas!\n\nhttps://teatrodelbarrio.com/la-d
  iatriba-del-perro/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cuando sea mayor o muy mayor\, no olvidaré esta canción
+DTSTART;TZID=Europe/Madrid:20260425T170000
+UID:6fc2df493bbdcc4fd6769121b083ebec15152e70bcadf3dbf4c892fbf573483d
+CATEGORIES:family
+DESCRIPTION:¡De qué manera tan singular se expresaba Gloria Fuertes! ¡P
+ articipando en este taller\, tú también puedes formar parte de ese unive
+ rso tan original y fabuloso! Leeremos juntos la obra de la autora y nos su
+ mergiremos en sus rimas y fantasías\, en sus adivinanzas y en su imaginac
+ ión. Sus poemas servirán de inspiración para los jóvenes creadores que
+  ilustrarán sus poesías y darán sus primeros pasos en el mágico mundo 
+ de la escritura poética. Imparte: Nacho Custodio. 12 pingüinos. Público
+  familiar de 11 a 12 años. Solo pagan los niños/as.\n\nhttps://www.matad
+ eromadrid.org/programacion/cuando-sea-mayor-o-muy-mayor-no-olvidare-esta-c
+ ancion
+LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Alice (Neco z Alenky\,1988)
@@ -6034,6 +4603,22 @@ DESCRIPTION:Documental innovador que invita al público a descubrir una so
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:El laboratorio de los investigacuentos
+DTSTART;TZID=Europe/Madrid:20260426T120000
+UID:466dee7454b5ab727f6e8d9f8d960e0e85734a1d643dabac308c6812f7bca7b3
+CATEGORIES:family
+DESCRIPTION:Una científica bastante curiosa investiga el porqué de los c
+ uentos\, cómo se hacen\, por qué emocionan\, divierten… y por qué tod
+ o el mundo quiere uno antes de ir a dormir. Cuando descubre que ni la tecn
+ ología es capaz de hacerlo por sí misma… y solo es posible hacerlo con
+  la imaginación de las personas\, creará una preciosa historia\, un dive
+ rtido cuento para los niños\, las niñas\, los padres\, las madres\, los 
+ abuelos\, las abuelas y todo el mundo en general. Imparte: Con Causa. Púb
+ lico: de 5 a 8 años. Solo se inscribe a los niños/as.\n\nhttps://www.mat
+ aderomadrid.org/programacion/el-laboratorio-de-los-investigacuentos
+LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Domingo de clásicos: ¡Olvídate de mí!
 DTSTART;TZID=Europe/Madrid:20260426T120000
 DTEND;TZID=Europe/Madrid:20260426T134800
@@ -6086,7 +4671,7 @@ SUMMARY:La diatriba del perro
 DTSTART;TZID=Europe/Madrid:20260426T130000
 UID:b4fdcc6c803224195913c01d7ca419a4958569a0b7a447908107cb81b12873ff
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 16 plazas!\n\nhttps://teatrodelbarrio.com/la-
+DESCRIPTION:¡Ya solo quedan 11 plazas!\n\nhttps://teatrodelbarrio.com/la-
  diatriba-del-perro/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
@@ -6421,6 +5006,43 @@ LOCATION:Museo Nacional de Artes Decorativas - de Montalbán\, 12\, Madrid
  \, 28014
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Celebra26: Bailar más allá de los 60
+DTSTART;TZID=Europe/Madrid:20260429T120000
+UID:d75801dd1c91d1844c6c30adff16882f56f3cb58fc64da5b1686ae097fdf1a39
+CATEGORIES:other
+DESCRIPTION:En tiempos de exaltación de la juventud\, seguir bailando sob
+ re los escenarios cuando se ha superado la barrera de las seis décadas pu
+ ede parecer un milagro que se anuncia como la excepción que confirma la r
+ egla\, carne de fútiles titulares que ni siquiera arañan la superficie d
+ e una realidad más común de lo que parece. En Centro de Danza Matadero\,
+  para celebrar el Día Internacional de la Danza\, se dan cita grandes de 
+ la danza como Carmen Werner\, Cesc Gelabert\, La Ribot y Mónica Runde par
+ a recordarnos que aún se puede seguir en la “trinchera” a pesar del e
+ dadismo que corroe el pensamiento actual. Y también de cómo el paso del 
+ tiempo cambia la manera de estar sobre el escenario\, de las necesidades a
+ ctuales que se imponen de manera irremediable\, de las ideas olvidadas y y
+ a no esenciales y de la liberación que implica cumplir años. Invitacione
+ s disponibles a partir del 23 de abril\n\nhttps://www.mataderomadrid.org/p
+ rogramacion/celebra26-bailar-mas-alla-de-los-60
+LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CIMA Conversa: Clara Roquet
+DTSTART;TZID=Europe/Madrid:20260429T120000
+UID:37ed1b112b90264e3bf8e86ca85ae2ebed3e45acae576c91d68fb8ada41436e1
+CATEGORIES:other
+DESCRIPTION:CIMA invita a la guionista y directora Clara Roquet a impartir
+  una masterclass sobre la construcción de los personajes y cómo la elecc
+ ión del punto de vista en la película influye a la hora de crear víncul
+ os y empatía. Compartirá ejemplos de su filmografía\, como el cortometr
+ aje El adiós o Libertad \, con la que ganó el Goya a la Mejor Dirección
+  Novel. Esta sesión se enmarca dentro del proyecto Foro CIMA impulsado po
+ r CIMA\, Asociación de Mujeres Cineastas y de Medios Audiovisuales\, y cu
+ enta con la colaboración de Cineteca Madrid.\n\nhttps://www.mataderomadri
+ d.org/programacion/cima-conversa-clara-roquet
+LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:We Are The Best! (Vi är bäst!\, 2013)
 DTSTART;TZID=Europe/Madrid:20260429T173000
 UID:dc1319a97e33a7c65104f11a2c33e4f6cc2ca0ad04122cca25718ce43e5a761b
@@ -6475,6 +5097,30 @@ LOCATION:Filmoteca Espanola - Cine Dore Sala 2 - Calle de Santa Isabel\, 3
  \, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Taller 'Construye tu propio GPT para cubrir tus propias necesidade
+ s'
+DTSTART;TZID=Europe/Madrid:20260429T190000
+UID:2b0e588d25781ec06747abf8312020614b661250b75a40faace26476ab4c98fb
+CATEGORIES:other
+DESCRIPTION:En esta sesión vamos a ver qué son los GPTs personalizados d
+ e chatGPT\, cómo se crean y publican\, cómo configurarlos para conseguir
+  el mejor rendimiento y mantener tus datos privados y cómo se pueden usar
+  de las formas más creativas o para resolver asuntos cotidianos. Todo est
+ o\, además\, se puede llegar a hacer fácilmente sin conocimientos técni
+ cos\, lo que pone esta tecnología al alcance prácticamente de todos para
+  agilizar y automatizar tareas muy concretas. Para finalizar\, veremos có
+ mo lo está usando un periodista que edita la publicación líder en gesto
+ res de contenidos web (CMS) tanto para mejorar los contenidos de su web co
+ mo para otros propósitos más creativos y centrados en ventas. Jorge Medi
+ avilla es en la actualidad el dueño de CMS MAG\, publicación líder en g
+ estores de contenidos (CMS) y DXP en España desde 2018. Jorge además col
+ abora con el máster de periodismo de la Universidad Rey Juan Carlos. Trab
+ ajó en ya.com\, Yahoo! o PRISA\, entre otros.\n\nhttps://www.mataderomadr
+ id.org/programacion/taller-construye-tu-propio-gpt-para-cubrir-tus-propias
+ -necesidades
+LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Last Days
 DTSTART;TZID=Europe/Madrid:20260429T193000
 UID:3244912a88368955a4ba18607945ed39d4b08f7c5ab46b30863bb4ebdd5f9949
@@ -6490,6 +5136,37 @@ DESCRIPTION:Blake es un artista introspectivo que sufre el peso de la fama
  o del movimiento "grunge".\n\nRelease year: 2025\n\nOriginal language: EN\
  n\nAudio: VOSE\n\nhttps://www.cinetecamadrid.com/programacion/last-days
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Celebra26: Porque yo lo bailo
+DTSTART;TZID=Europe/Madrid:20260429T193000
+UID:b10d6534fcc1424bf0ceb60946373feacf97db4790b6dce5131aa692a4ab18b1
+CATEGORIES:other
+DESCRIPTION:La danza como viaje compartido ¿Quién no ha bailado alguna v
+ ez? En soledad o en compañía. Para celebrar\, enamorar\, desfogarse\, li
+ berarse… Un chotis\, un pasodoble\, incluso un vals. Una pieza con músi
+ ca pop\, rock\, rap y trap \, hip-hop \, reguetón\, electrónica… Danza
+ s tradicionales o del mundo. Ballet\, moderno\, contemporáneo. A lo suelt
+ o o a lo agarrado. En una boda\, una discoteca o en la playa. En las plaza
+ s públicas o sobre un escenario. Y ahora\, en Centro Danza Matadero\, el 
+ lugar perfecto para bailar. Porque yo lo bailo es una invitación a despre
+ nderse de la vergüenza\, de los prejuicios y de los miedos para así comp
+ artir pasos\, ritmos y coreografías. Una fiesta a la que estamos todos in
+ vitados. No es cuestión de técnica. Solo de energía. Incitación a comp
+ artir y mezclarse con profesionales de la danza. A participar en compañí
+ a y en comunión. A divertirse. A desmelenarse. A entrar en trance. Bajo l
+ a dirección de Enrique Cabrera y junto a creadores como Elisa Sanz (plás
+ tica escénica)\, Pedro Yagüe y Eduardo Berja (diseño de iluminación) y
+  Luis Miguel Cobo (músico y DJ en esta ocasión)\, Aracaladanza aporta a 
+ esta celebración del Día Internacional de la Danza su reconocida trayect
+ oria en el campo de la danza contemporánea. Su sello característico —e
+ l juego visual\, la poesía escénica y la imaginación como motor de encu
+ entro— impregna toda la fiesta\, convirtiéndola en un acto artístico q
+ ue es\, al mismo tiempo\, festivo\, inclusivo y transformador. Ahora\, sol
+ o quedas tú. ¿Aceptas el reto? ¿Te animas a participar? Invitaciones di
+ sponibles a partir del 23 de abril.\n\nhttps://www.mataderomadrid.org/prog
+ ramacion/celebra26-porque-yo-lo-bailo
+LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Paramnesia. (La vida que recuerdo)
@@ -6542,16 +5219,6 @@ DESCRIPTION:Fecha y Hora: Jueves 30 de abril a las 17:30h (Sala 1. Fuera d
  es/es/productos/descripcion/carmen-cecil-b-demille-1915-
 LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
  \, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tinieblas
-DTSTART;TZID=Europe/Madrid:20260430T180000
-DTEND;TZID=Europe/Madrid:20260531T180000
-UID:50198494f525d46a38de78ff56392a38d77326a681dc92053e44c1132d33f90c
-CATEGORIES:theater
-DESCRIPTION:Texto y dirección Edurne Rubio\n\nhttps://dramatico.inaem.gob
- .es/evento/tinieblas/
-LOCATION:Teatro Valle-Inclán - Plaza de Lavapies\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dramas\, risas y culos: Homenaje a la más Divertristisima\, Marta
@@ -6705,7 +5372,7 @@ DESCRIPTION:Nueve miembros de un jurado popular deliberan aislados un pol
  si cambia su voto de culpable a inocente. Pero si quieren entrar en el jue
  go\, deberán alcanzar la unanimidad\; algo que sacará a la luz las verda
  deras causas pendientes de cada uno de los miembros del jurado.\n\nRelease
-  year: 2026\n\nOriginal language: ES\n\nhttps://cinesembajadores.es/pelicu
+  year: 2024\n\nOriginal language: ES\n\nhttps://cinesembajadores.es/pelicu
  la/los-justos/?ciudad=madrid
 LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
 END:VEVENT
@@ -7040,16 +5707,6 @@ DESCRIPTION:High School fue filmada en un gran instituto urbano de Filadel
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Las últimas
-DTSTART;TZID=Europe/Madrid:20260508T200000
-DTEND;TZID=Europe/Madrid:20260621T200000
-UID:34073fdb988203b3a005564529c24966077766bf0f35417ef477414e6ddc51fb
-CATEGORIES:theater
-DESCRIPTION:Una creación de Cross Border Texto y dirección Lucía Mirand
- a\n\nhttps://dramatico.inaem.gob.es/evento/las-ultimas/
-LOCATION:Teatro Valle-Inclán - Plaza de Lavapies\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Los Guasones
 DTSTART;TZID=Europe/Madrid:20260508T210000
 UID:cadf838ad41808fc93db346e7fc9842b464b84baf340bd4827a678056d987c85
@@ -7234,16 +5891,6 @@ DESCRIPTION:El cine de gran espectáculo\, conocido como blockbuster a par
  ecamadrid.com/programacion/ciclo-de-conferencias-breve-historia-del-blockb
  uster
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Una buena vida
-DTSTART;TZID=Europe/Madrid:20260513T180000
-DTEND;TZID=Europe/Madrid:20260621T180000
-UID:086d449e5fecb5c4f577020bd6df49e9111926e9f62e7c7a6ff99af6773ed168
-CATEGORIES:theater
-DESCRIPTION:Texto y dirección Carolina África\n\nhttps://dramatico.inaem
- .gob.es/evento/una-buena-vida/
-LOCATION:Teatro Maria Guerrero - Calle de Tamayo y Baus\, 4\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Presentación "Casilla vacía"
