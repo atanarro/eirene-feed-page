@@ -2,37 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Yo deseo (recital electrónico de inconfesiones femeninas)
-DTSTART;TZID=Europe/Madrid:20260419T130000
-UID:da69f9163136e988ee8b529a03c5f43c952d6529096d3f8979e91fa57e4da131
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/yo-deseo-recital-ele
- ctronico-de-inconfesiones-femeninas/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La doble vida de Virginia Woolf
-DTSTART;TZID=Europe/Madrid:20260419T180000
-UID:5ce8b80c3cb61e4039b11413a5d180d9340810f758bcc84ea7021cc5532e926a
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/la-doble-vida-de-vir
- ginia-woolf/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Isa & Javi
-DTSTART;TZID=Europe/Madrid:20260419T203000
-UID:a3119fde26a6f2a6156c3e503f9a5ee87e401cbd0be5c1963db15a671e36b8b4
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/isa-y-javi/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bajo tu piel. Ensayo general (solo socias)
 DTSTART;TZID=Europe/Madrid:20260420T190000
 UID:f7414d0d88cf10813b3459472e42099f2d26c572dbcbf46dbf97735b9ec16c0e
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 1 plazas!\n\nhttps://teatrodelbarrio.com/bajo
+DESCRIPTION:¡Ya solo quedan 7 plazas!\n\nhttps://teatrodelbarrio.com/bajo
  -tu-piel-ensayo-general-solo-socias/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
@@ -87,6 +61,31 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Guayominí
 DTSTART;TZID=Europe/Madrid:20260424T193000
+UID:4f506a2d37614c32fac6fa54cbe5b3a6b608a2b68441ba25f76401940e62c24e
+CATEGORIES:theater
+DESCRIPTION:Según la ley de la gravedad de Newton un cuerpo tarda más en
+  subir que en bajar. Roi\, que está cantando en la final de un importante
+  concurso europeo de canciones\, porque ganó otro concurso nacional tres 
+ meses atrás\, se queda en blanco en plena actuación. Las consecuencias d
+ e este error son inevitables y no tardan en llegar. Laura Garmo nos propon
+ e una historia fresca y optimista sobre la identidad y el fracaso. Guayomi
+ ní es el proyecto de dirección y autoría novel de Nave 10. Un espacio p
+ ara el descubrimiento de nuevas voces. Laura Garmo y Pablo Martínez Bravo
+  ponen en pie una historia sobre la importancia de cuidar lo que tienes ce
+ rca. Roi\, un joven cantautor\, consigue la oportunidad única de particip
+ ar en un concurso que le dará mucha visibilidad. Pero esta oportunidad r
+ ápidamente se le vuelve en contra: Cuando está en pleno ascenso\, ya deb
+ e prepararse para la bajada. Igual que Roi\, vivimos en un sistema fagocit
+ ante basado en el éxito y en la opinión de los demás\, en el que la val
+ ía personal se reduce a lo que podemos producir\, pero Guayominí viene a
+  recodarnos que la vida no es solo un concurso de talentos. Rocío Bello D
+ ramaturgista de la temporada 25/26 de Nave 10 Matadero\n\nhttps://www.mata
+ deromadrid.org/programacion/guayomini
+LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Guayominí
+DTSTART;TZID=Europe/Madrid:20260424T193000
 DTEND;TZID=Europe/Madrid:20260517T183000
 UID:fb2dc857668957f5d7d1d47ee18f558122fdd59002bd0dd5cf3e9b964fb195ba
 CATEGORIES:theater
@@ -125,7 +124,8 @@ SUMMARY:Bajo tu piel
 DTSTART;TZID=Europe/Madrid:20260425T193000
 UID:3a28000b99a4ae931adbcee7160f25c356d021ee354e1b1ae5b55d78ff72f3d4
 CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/bajo-tu-piel/
+DESCRIPTION:¡Ya solo quedan 20 plazas!\n\nhttps://teatrodelbarrio.com/baj
+ o-tu-piel/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -141,8 +141,8 @@ SUMMARY:La diatriba del perro
 DTSTART;TZID=Europe/Madrid:20260426T130000
 UID:b4fdcc6c803224195913c01d7ca419a4958569a0b7a447908107cb81b12873ff
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 11 plazas!\n\nhttps://teatrodelbarrio.com/la-
- diatriba-del-perro/
+DESCRIPTION:¡Ya solo quedan 6 plazas!\n\nhttps://teatrodelbarrio.com/la-d
+ iatriba-del-perro/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
