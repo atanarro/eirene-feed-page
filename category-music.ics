@@ -2,15 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Dialektik: The Necks
-DTSTART;TZID=Europe/Madrid:20260420T203000
-UID:45acd19fbe8af9f15e506661ba3ddc1a7d90d76854174ae3fe533799b9202028
-CATEGORIES:music
-DESCRIPTION:Concierto / Villanos del Jazz\n\nhttps://salavillanos.es/event
- o/the-necks/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Luis Fercán
 DTSTART;TZID=Europe/Madrid:20260421T203000
 UID:4cf039f772026c15edf6ca02e8d8cf37d7013ad9c8c111a293518a51106af04e
@@ -162,15 +153,6 @@ LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
  id
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Snor
-DTSTART;TZID=Europe/Madrid:20260427T203000
-UID:6d65379a638268b045d80ececb0ffc7afef95f530d001d49b9465f98f0522db3
-CATEGORIES:music
-DESCRIPTION:Concierto / Hip Hop & Rap\n\nhttps://salavillanos.es/evento/sn
- or/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Machine Head
 DTSTART;TZID=Europe/Madrid:20260427T210000
 UID:721a8a0b703e0ece9c8d7168361e52e0604fde1e2ad90389bc7c3ebbd0fafb29
@@ -258,6 +240,15 @@ DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://www.entradas.com/event/l
  igabue-sala-la-riviera-20391870/?Affiliate=RIV
 LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
  id
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Orquesta Quirimbombo: Homenaje A La Salsa Dura
+DTSTART;TZID=Europe/Madrid:20260503T200000
+UID:5a1894648c35e827c90a48470b685c844b624781f68a4dac5be0b69eff23146e
+CATEGORIES:music
+DESCRIPTION:Concierto / Latin\n\nhttps://salavillanos.es/evento/la-orquest
+ a-quirimbombo-homenaje-a-la-salsa-dura/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Miguel - Caos Tour
@@ -539,5 +530,14 @@ DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://www.entradas.com/artist/
  grecas/?affiliate=RIV
 LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
  id
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ginel Presenta Borde Vivo + Mauro Samaniego
+DTSTART;TZID=Europe/Madrid:20260520T213000
+UID:1b3ac12de6487bb4ddb5c2fafd91c3ad970ac73024b8bac5e573e165dd969e10
+CATEGORIES:music
+DESCRIPTION:Concierto / Funk & disco / Soul & R&B / Pop\n\nhttps://salavil
+ lanos.es/evento/ginel-presenta-borde-vivo-mauro-samaniego/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 END:VCALENDAR
