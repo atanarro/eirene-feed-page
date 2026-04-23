@@ -2,20 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Paramnesia. (La vida que recuerdo)
-DTSTART;TZID=Europe/Madrid:20260422T193000
-UID:cb13bfa712ec5d53b84db64e1e460fcc4d88158bca44a5a2c84dc1e59b8d30bd
-CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 28 plazas!\n\nhttps://teatrodelbarrio.com/par
- amnesia-la-vida-que-recuerdo/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bajo tu piel
 DTSTART;TZID=Europe/Madrid:20260423T193000
 UID:1f94ac0262b20f2847ad23d0c25ed7cc1e6901f20d05b2198d970b1e4f900bcd
 CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/bajo-tu-piel/
+DESCRIPTION:¡Ya solo quedan 22 plazas!\n\nhttps://teatrodelbarrio.com/baj
+ o-tu-piel/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -105,7 +97,7 @@ SUMMARY:Bajo tu piel
 DTSTART;TZID=Europe/Madrid:20260425T193000
 UID:3a28000b99a4ae931adbcee7160f25c356d021ee354e1b1ae5b55d78ff72f3d4
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 14 plazas!\n\nhttps://teatrodelbarrio.com/baj
+DESCRIPTION:¡Ya solo quedan 11 plazas!\n\nhttps://teatrodelbarrio.com/baj
  o-tu-piel/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
@@ -206,5 +198,22 @@ CATEGORIES:theater
 DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/gordas-lisiadas-y-ma
  marrachas/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jane Austen a través de sus cartas 250 aniversario de su nacimien
+ to
+DTSTART;TZID=Europe/Madrid:20260510T120000
+UID:682fefa2ebb329be6bf7c8f94d035a2845bcbbf9d841a1d81520996c0584f61f
+CATEGORIES:theater
+DESCRIPTION:Varias voces del panorama cultural actual español interpretar
+ án a la escritora británica a lo largo de las diversas etapas de su vida
+ . Gracias a las cartas que se intercambiaba con su hermana Cassandra podem
+ os conocer mejor a la autora de Emma\, Sentido y sensibilidad u Orgullo y 
+ prejuicio. Coordinado por su editora y traductora\, Amparo Llanos\, conoce
+ remos la vida de Jane Austen por una selección epistolar de la autora ing
+ lesa en el 250 aniversario de su nacimiento. Organiza: Editorial Renacimie
+ nto. Público: Jóvenes y adultos.\n\nhttps://www.mataderomadrid.org/progr
+ amacion/jane-austen-traves-de-sus-cartas-250-aniversario-de-su-nacimiento
+LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 END:VCALENDAR

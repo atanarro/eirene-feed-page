@@ -357,19 +357,6 @@ DESCRIPTION:Experiencia que reúne los movimientos artísticos más inf
 LOCATION:Nomad Museo Inmersivo - Gran Vía\, 78\, Madrid\, 28013
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Trenes históricos
-DTSTART;TZID=Europe/Madrid:20251205T000000
-DTEND;TZID=Europe/Madrid:20271231T000000
-UID:9d0621e6c17839e3d5f40fd5b71b539d7e21581dfd79ffc32f8986d347ea8bb0
-CATEGORIES:exhibition
-DESCRIPTION:Exposición permanente sobre los primeros trenes que circularo
- n por las vías del suburbano madrileño para conmemorar sus 100 años de 
- vida (Estación de Chamartín).\n\nhttps://museosmetromadrid.es/museos/est
- acion-de-chamartin/
-LOCATION:Estación de Madrid - Chamartín - Clara Campoamor - Agustín de 
- Foxa\, s/n\, Madrid\, 28036
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Interludio. El sonido de Oceanía. Un pahu de las Islas Marquesas 
  en el Museo Cerralbo
 DTSTART;TZID=Europe/Madrid:20251216T000000
@@ -931,19 +918,6 @@ DESCRIPTION:Más de 130 obras y 68 artistas proponen un recorrido por la l
  a Neomudéjar. Hasta 27 abr).\n\nhttps://www.laneomudejar.com/30-anos-de-i
  rreverencia-y-vision-en-la-coleccion-fuentes-angarita/
 LOCATION:La Neomudéjar - Antonio Nebrija\, s/n\, Madrid\, 28007
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Eclosión. El Círculo de Bellas Artes en los 80 y 90
-DTSTART;TZID=Europe/Madrid:20260225T000000
-DTEND;TZID=Europe/Madrid:20260510T000000
-UID:df8843aa27649dc0af2e4f4d0218ba29b3cf53a3e96fcc516a3eef4ad11ded67
-CATEGORIES:exhibition
-DESCRIPTION:Exposición que revisa su periodo de renovación y la volunt
- ad de convertirse en un centro cultural multidisciplinar\, innovador y con
- ectado con las necesidades de su tiempo (Círculo de Bell\n\nhttps://www.c
- irculobellasartes.com/exposiciones/eclosion-el-circulo-de-bellas-artes-en-
- los-80-y-90/
-LOCATION:Círculo de Bellas Artes - de Alcalá\, 42\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Una resistencia indetectable
@@ -1668,15 +1642,15 @@ DESCRIPTION:Exposición dedicada al mundo del fanzine\, destacando su impo
 LOCATION:Casa del Lector (Matadero) - de la Chopera\, 14\, Madrid\, 28045
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Tempest. The Garden of Forking Paths. Avelino Sala
+SUMMARY:La tempestad. El jardín de los senderos que se bifurcan. Avelino 
+ Sala
 DTSTART;TZID=Europe/Madrid:20260416T000000
 DTEND;TZID=Europe/Madrid:20260920T000000
-UID:32e7ee841df8bb4622db77131b601066ecae69c5177f320bc5278ec9859bc3b1
+UID:86c90be3a6d9d77c7b2eee79d2494ac28f8998cf13dadd3c2e820e09722fb47c
 CATEGORIES:exhibition
 DESCRIPTION:El artista gijonés presenta un recorrido por su trabajo en el
   que la resistencia crítica y poética son las protagonistas (CentroCentr
- o. 16 abr a 20 sept).\n\nhttps://www.centrocentro.org/exposicion/avelino-s
- ala
+ o. Hasta 20 sept).\n\nhttps://www.centrocentro.org/exposicion/avelino-sala
 LOCATION:CentroCentro - de Cibeles\, 1\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
@@ -1753,6 +1727,22 @@ DESCRIPTION:El artista Eduardo Chillida Belzunce presenta una propuesta qu
 LOCATION:Madrid - de Belén 2\, Madrid\, Madrid\, 28004
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:La Oca de Toledo
+DTSTART;TZID=Europe/Madrid:20260421T000000
+DTEND;TZID=Europe/Madrid:20260517T000000
+UID:2e14e794518ce39abb6d0f5f740c25a57ba6ab5e383cf3983ffa06e967bc7b50
+CATEGORIES:exhibition
+DESCRIPTION:El colectivo NuKleo5 presenta una exposición que reinterpreta
+  el patrimonio histórico toledano a través del formato del juego de la o
+ ca (El silo de Hortaleza. Hasta 17 mayo).\n\nhttps://www.madrid.es/portale
+ s/munimadrid/es/Inicio/Cultura-ocio-y-deporte/Cultura-y-ocio/Direcciones-y
+ -telefonos/Silo-de-Hortaleza/?vgnextfmt=default&vgnextoid=e929f45de818a910
+ VgnVCM200000f921e388RCRD&vgnextchannel=76f3efff228fe410VgnVCM2000000c205a0
+ aRCR
+LOCATION:El silo de Hortaleza - del Mar de las Antillas\, 8 (Parque Huerta
+  de la Salud)\, Madrid\, 28033
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Vitrina CERO. ¿Verdadero o falso? La ficción de la autenticidad 
  en las falsificaciones del siglo XIX
 DTSTART;TZID=Europe/Madrid:20260421T000000
@@ -1764,6 +1754,32 @@ DESCRIPTION:Pequeña muestra de varias piezas falsas o de dudosa autentici
  nal. 21 abr a 12 jul).\n\nhttps://www.man.es/man/exposiciones/vitrina0/202
  60414-vitrina0-verdadero-o-falso.html
 LOCATION:Museo Arqueológico Nacional - de Serrano\, 13\, Madrid\, 28001
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:América. Visiones nuevas desde el viejo mundo. Demián Flores
+DTSTART;TZID=Europe/Madrid:20260422T000000
+DTEND;TZID=Europe/Madrid:20260605T000000
+UID:0b4af1752944bc545933cfb99102149fb0e0859b1a97b7c89686fc581b84d6fd
+CATEGORIES:exhibition
+DESCRIPTION:El artista mexicano reinterpreta las ilustraciones de Theodor 
+ De Bry sobre el continente americano para denunciar la violencia que asola
+  México en su historia reciente (Instituto Cultural de México\n\nhttps:/
+ /icm.sre.gob.mx/espana/index.php/otros/953-exposicion-america-visiones-nue
+ vas-desde-el-viejo-mundo-de-demian-flores
+LOCATION:Instituto Cultural de México en España - de San Jerónimo\, 46\
+ , Madrid\, 28014
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:María Elena Walsh y Sara Facio\, la palabra y la mirada
+DTSTART;TZID=Europe/Madrid:20260422T000000
+DTEND;TZID=Europe/Madrid:20260626T000000
+UID:3a6a014145109175bee823320cca86c69181f123125babc3077434d060a448ff
+CATEGORIES:exhibition
+DESCRIPTION:Recorrido por la obra de las artistas argentinas\, figuras des
+ tacadas de la cultura latinoamericana del siglo XX (Instituto Cervantes. H
+ asta 26 junio).\n\nhttps://cultura.cervantes.es/espanya/es/mar%C3%ADa-elen
+ a-walsh-y-sara-facio%3A-la-palabra-y-la-mirada/188828
+LOCATION:Instituto Cervantes - de Alcalá\, 49\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Las mejores letras en español
@@ -1907,6 +1923,25 @@ DESCRIPTION:Primera exposición en España de la obra del escultor britán
 LOCATION:Madrid - de Castelló\, 75\, Madrid\, Madrid\, 28006
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:vos a nos a otras: 2 diálogos
+DTSTART;TZID=Europe/Madrid:20260505T183000
+UID:8dffc638244c558348efe1f62b918a59d4710b9aa499870db7e5f653154919b5
+CATEGORIES:exhibition
+DESCRIPTION:En el marco de su residencia\, la artista propone una activida
+ d que se articula en dos momentos en los que el diálogo toma forma: a tra
+ vés de una performance en la que una partida de ping pong se convierte en
+  mesa de debate\, salón de belleza e intercambio de saberes y un conversa
+ torio entre artista y comisaria acerca de cómo se construyen las genealog
+ ías femeninas en el arte y los vínculos que generan. Participarán en la
+  performance Irene Claveles y Allison Caicedo y la comisaria y asesora de 
+ las residencias Bea Espejo acompañará a la artista en la posterior conve
+ rsación. Hodei Herreros Rodríguez es beneficiaria de las Ayudas pública
+ s para proyectos artísticos en residencia del Ministerio de Cultura. > Ac
+ tividad recomendada para público adulto.\n\nhttps://www.mataderomadrid.or
+ g/programacion/vos-nos-otras-2-dialogos
+LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:El Imperio Fan Contraataca
 DTSTART;TZID=Europe/Madrid:20260506T000000
 DTEND;TZID=Europe/Madrid:20260705T000000
@@ -1931,6 +1966,19 @@ LOCATION:Espacio Fundación Telefónica - de Fuencarral\, 3\, Madrid\, 280
  04
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Lidó Rico. L'anima non finita
+DTSTART;TZID=Europe/Madrid:20260508T000000
+DTEND;TZID=Europe/Madrid:20260531T000000
+UID:4e7379f186ac933c802ba7af3ada86dfa122b0581a61eb9e736acdfea2594748
+CATEGORIES:exhibition
+DESCRIPTION:Un recorrido evolutivo por la obra del artista contemporáneo 
+ Lidó Rico (Sala Alcalá 31 de la Comunidad de Madrid. 8 a 31 mayo).\n\nht
+ tps://www.comunidad.madrid/actividades/2026/exposicion-lido-rico-lanima-no
+ n-finita
+LOCATION:Sala Alcalá 31 de la Comunidad de Madrid - de Alcalá\, 31\, Mad
+ rid\, 28014
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:PHotoESPAÑA 2026
 DTSTART;TZID=Europe/Madrid:20260513T000000
 DTEND;TZID=Europe/Madrid:20260913T000000
@@ -1941,5 +1989,18 @@ DESCRIPTION:El Festival Internacional de Fotografía y Artes Visuales cele
  rtistas visuales (Varios espacios. 13 may a 13 sept).\n\nhttp://www.phe.es
  /
 LOCATION:Madrid - Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Azkarate vs Azkarate. Isabel Azkarate (PHotoESPAÑA 2026)
+DTSTART;TZID=Europe/Madrid:20260514T000000
+DTEND;TZID=Europe/Madrid:20260628T000000
+UID:63991b52b4970402d663e0acc5889d7c2eb640aa730f86febdb2c66de3308546
+CATEGORIES:exhibition
+DESCRIPTION:La artista confronta su archivo fotográfico con nuevas imáge
+ nes en una exposición que une pasado y presente de su mirada como fotoper
+ iodista (Espacio Cultural Serrería Belga. 14 may a 28 jun).\n\nhttps://ph
+ e.es/exposicion/azkarate-vs-azkarate/
+LOCATION:Espacio Cultural Serrería Belga - de la Alameda\, 15\, Madrid\, 
+ 28014
 END:VEVENT
 END:VCALENDAR
