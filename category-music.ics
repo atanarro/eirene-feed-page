@@ -2,37 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:J. Teixi Band + The Bo DEREK´S\; IV Rhythm & Blues Soul Festival 
- - Sala Villanos -
-DTSTART;TZID=Europe/Madrid:20260423T203000
-UID:711661daa4780ba91218b418649d8ce208372086e9c66ea666d3dca2957b3f46
-CATEGORIES:music
-DESCRIPTION:Precio de las entradas: 18€/22€ Entradas a la venta en mov
- ingtickets Bio/enlaces bandas: J. Teixi Band_youtube The Bo Derek’s_face
- book + The Bo Derek’s_instagram Más información: La nueva edición del
-  Festival se presenta con\n\nhttps://gruta77.com/events/j-teixi-band-the-b
- o-dereks-iv-rhythm-blues-soul-festival-sala-villanos/var/ri-0.l-L2
-LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nacho Vegas
-DTSTART;TZID=Europe/Madrid:20260423T210000
-UID:7c7ac60db8e0d54afbd2d3738bc12ea57cb77fa6997ceaa71532d78acab3294c
-CATEGORIES:music
-DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://feverup.com/m/455942
-LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
- id
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:J. Teixi Band + Bo Dereks
-DTSTART;TZID=Europe/Madrid:20260423T221500
-UID:3dcc2dba14cab7b4e570503fc2b18cf32191a8281f391156d0daf7a34ee5dd10
-CATEGORIES:music
-DESCRIPTION:Concierto / Rock\n\nhttps://salavillanos.es/evento/j-teixi-ban
- d-bo-dereks/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Natalia Doco
 DTSTART;TZID=Europe/Madrid:20260424T210000
 UID:18ca1fc376ef98f10ff9fc7c974992580df922dfbd83c6d40efb9f0e2e771b3c
@@ -115,11 +84,11 @@ LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Machine Head
-DTSTART;TZID=Europe/Madrid:20260427T210000
-UID:721a8a0b703e0ece9c8d7168361e52e0604fde1e2ad90389bc7c3ebbd0fafb29
+DTSTART;TZID=Europe/Madrid:20260427T190000
+UID:88608a9dce19caa9cb20efad21ab31d258950cfe1f664ef796bc517d2e838073
 CATEGORIES:music
-DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://www.resurrectionfest.es/
- route/machine-head-tour-2026/
+DESCRIPTION:Apertura Puertas: 18:00\n\nhttps://www.resurrectionfest.es/rou
+ te/machine-head-tour-2026/
 LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
  id
 END:VEVENT
@@ -396,6 +365,25 @@ LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
  id
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:La Solana. Concierto de presentación
+DTSTART;TZID=Europe/Madrid:20260511T200000
+UID:712c02e2b9a2b50687a52bcf4a816a885d9515fc47b18ed740a31617b868af31
+CATEGORIES:music
+DESCRIPTION:La Solana. Concierto de presentación\n\nCreemos que existe un
+  lugar donde conviven la música\, la poesía y el teatro\, un lugar donde
+  sin urgenciasm\, suceden las cosas importantes.\n\nLa Solana es ese lugar
+  de la casa donde calienta el sol y se tumba el perro\, donde se ponen a s
+ ecar las semillas\, donde tejen las mujeres.\n\nLa Solana es algo de ayer 
+ que vemos hoy\, algo del sur y del norte\, herencia\, memoria y presente\,
+  dos mundos diferentes que comparten un espacio común\, nuevo\, pero cono
+ cido.\n\nLa Solana es una colección de textos y canciones contemporáneas
+  escritas por Laura Porras y Alejandro Pelayo con alma antigua\, que nacen
+  en el piano con una fuerte influencia lorquiana.\n\nEl 11 de mayo se estr
+ ena La Solana.\n\nSíguenos en @lasolanamusica\n\nhttps://lamirador.com/fu
+ ncion?nombre=la-solana-concierto-de-presentacion-2026
+LOCATION:Sala Mirador - Calle Doctor Fourquet\, 31\, 28012 Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SERENA BRANCALE Sacro Tour DELIA SICILIA Bedda Tour
 DTSTART;TZID=Europe/Madrid:20260511T210000
 UID:f893a1e4a8fe758357def236e0761e2f8c56863b86d8e2a7a34b440a46ffc04e
@@ -574,5 +562,46 @@ DESCRIPTION:Precio de las entradas: 17€/19€ Entradas a la venta en hfm
  vil Protection_youtube\n\nhttps://gruta77.com/events/crim-the-civil-protec
  tion/var/ri-0.l-L2
 LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hammond York
+DTSTART;TZID=Europe/Madrid:20260523T203000
+UID:2da9263c5d31ba3d49a80f9c61603dbecdd2a543b15a21d2f45ccd6a9ce143e7
+CATEGORIES:music
+DESCRIPTION:Concierto / Soul & R&B / Pop / Funk & disco\n\nhttps://salavil
+ lanos.es/evento/hammond-york/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Pegatina
+DTSTART;TZID=Europe/Madrid:20260523T210000
+UID:6c9bbc11f95a2f19cf55e23de34cf29dab59c2ab61ab102f55a5f5c7aec7c282
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://feverup.com/m/527537?utm
+ _source=affiliate&utm_medium=impact&utm_campaign=476483&utm_content=379560
+ _Bandsintown+concerts&irclickid=Qy5Vd%3Ax5vxyKTiiV3oTsV0bTUkpXl7TxEx8ZRo0&
+ irgwc=1&afsrc=1
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Petersellers
+DTSTART;TZID=Europe/Madrid:20260523T213000
+UID:2efdc910709d3d9ef31dd3744b268ed1dc72eb16f1ec4e75ad0e5d230f2eb3b2
+CATEGORIES:music
+DESCRIPTION:Precio de las entradas: 13€/16€ Entradas a la venta en mov
+ ingtickets Bio/enlaces bandas: Los Petersellers_facebook + Los Peterseller
+ s_X + Los Petersellers_youtube + Los Petersellers_instagram Más informaci
+ ón:\n\nhttps://gruta77.com/events/los-petersellers-9/var/ri-0.l-L2
+LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DJ Deep & Tarzsa + Nacho Marco
+DTSTART;TZID=Europe/Madrid:20260523T235900
+UID:3635df83291410ef739eb79df07fe7039b088958d851ccb77857e1ce5d65a757
+CATEGORIES:music
+DESCRIPTION:Club\n\nhttps://salavillanos.es/evento/dj-deep-tarzsa-nacho-ma
+ rco/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 END:VCALENDAR

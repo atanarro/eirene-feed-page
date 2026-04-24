@@ -28,19 +28,6 @@ LOCATION:MAD (Madrid Artes Digitales) Centro de Experiencias Inmersivas -
  de Legazpi\, 8\, Madrid\, 28045
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Exponencial. De analógicos a digitales
-DTSTART;TZID=Europe/Madrid:20240514T000000
-DTEND;TZID=Europe/Madrid:20271231T000000
-UID:f5757770ba2619f835632f368e9ae1c25e8353ae577ea62f600b1f84611272c3
-CATEGORIES:exhibition
-DESCRIPTION:Exposición permanente que explora el creciente impacto que ha
-  tenido el desarrollo de las telecomunicaciones en todos los ámbitos de n
- uestras vidas (Espacio Fundación Telefónica.\n\nhttp://espacio.fundacio
- ntelefonica.com/
-LOCATION:Espacio Fundación Telefónica - de Fuencarral\, 3\, Madrid\, 280
- 04
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Colección Masaveu. Arte español del siglo XX. De Picasso a Barce
  ló
 DTSTART;TZID=Europe/Madrid:20241009T000000
@@ -206,12 +193,12 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Disney: The Exhibition. 100 Años de Magia
 DTSTART;TZID=Europe/Madrid:20251001T000000
-DTEND;TZID=Europe/Madrid:20260531T000000
+DTEND;TZID=Europe/Madrid:20260705T000000
 UID:b5ae34b2ff245143f0929d2705c823edba259237a5c1bbf8a835794172e75cee
 CATEGORIES:exhibition
 DESCRIPTION:Gran experiencia interactiva que incluye desde clásicos de Di
  sney hasta los lanzamientos recientes de Marvel\, Pixar y Star Wars (Funda
- ción Canal Sala Castellana 214. Hasta 31 mayo).\n\nhttps://disney100exhib
+ ción Canal Sala Castellana 214. Hasta 5 julio).\n\nhttps://disney100exhib
  it.com/es/madrid/
 LOCATION:Fundación Canal Sala Castellana 214 - de la Castellana\, 214\, M
  adrid\, 28046
@@ -355,6 +342,19 @@ DESCRIPTION:Experiencia que reúne los movimientos artísticos más inf
  tillismo\, posimpresionismo\, cubismo y expresionismo (Nomad Museo\n\nhttp
  s://www.nomadmuseo.es/
 LOCATION:Nomad Museo Inmersivo - Gran Vía\, 78\, Madrid\, 28013
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trenes históricos
+DTSTART;TZID=Europe/Madrid:20251205T000000
+DTEND;TZID=Europe/Madrid:20271231T000000
+UID:9d0621e6c17839e3d5f40fd5b71b539d7e21581dfd79ffc32f8986d347ea8bb0
+CATEGORIES:exhibition
+DESCRIPTION:Exposición permanente sobre los primeros trenes que circularo
+ n por las vías del suburbano madrileño para conmemorar sus 100 años de 
+ vida (Estación de Chamartín).\n\nhttps://museosmetromadrid.es/museos/est
+ acion-de-chamartin/
+LOCATION:Estación de Madrid - Chamartín - Clara Campoamor - Agustín de 
+ Foxa\, s/n\, Madrid\, 28036
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Interludio. El sonido de Oceanía. Un pahu de las Islas Marquesas 
@@ -607,13 +607,13 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Arte urbano. De los orígenes a Banksy
 DTSTART;TZID=Europe/Madrid:20260204T000000
-DTEND;TZID=Europe/Madrid:20260503T000000
+DTEND;TZID=Europe/Madrid:20260726T000000
 UID:4a56dd35353116e27eabc5034c64c0f630bf11ffec863c8a518ba6df007f3b37
 CATEGORIES:exhibition
 DESCRIPTION:La historia del arte callejero a través de las obras de desta
  cados artistas nacionales e internacionales (Fundación Canal. Sala Mateo 
- Inurria. Hasta 3 may).\n\nhttps://www.fundacioncanal.com/exposiciones/arte
- -urbano-de-los-origenes-a-banksy/
+ Inurria. Hasta 26 julio).\n\nhttps://www.fundacioncanal.com/exposiciones/a
+ rte-urbano-de-los-origenes-a-banksy/
 LOCATION:Fundación Canal. Sala Mateo Inurria - de Mateo Inurria\, 2\, Mad
  rid\, 28036
 END:VEVENT
@@ -918,6 +918,19 @@ DESCRIPTION:Más de 130 obras y 68 artistas proponen un recorrido por la l
  a Neomudéjar. Hasta 27 abr).\n\nhttps://www.laneomudejar.com/30-anos-de-i
  rreverencia-y-vision-en-la-coleccion-fuentes-angarita/
 LOCATION:La Neomudéjar - Antonio Nebrija\, s/n\, Madrid\, 28007
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eclosión. El Círculo de Bellas Artes en los 80 y 90
+DTSTART;TZID=Europe/Madrid:20260225T000000
+DTEND;TZID=Europe/Madrid:20260510T000000
+UID:df8843aa27649dc0af2e4f4d0218ba29b3cf53a3e96fcc516a3eef4ad11ded67
+CATEGORIES:exhibition
+DESCRIPTION:Exposición que revisa su periodo de renovación y la volunt
+ ad de convertirse en un centro cultural multidisciplinar\, innovador y con
+ ectado con las necesidades de su tiempo (Círculo de Bell\n\nhttps://www.c
+ irculobellasartes.com/exposiciones/eclosion-el-circulo-de-bellas-artes-en-
+ los-80-y-90/
+LOCATION:Círculo de Bellas Artes - de Alcalá\, 42\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Una resistencia indetectable
@@ -1363,6 +1376,67 @@ DESCRIPTION:Exposición que invita a reflexionar sobre las semejanzas y di
 LOCATION:Museo Reina Sofía - de Santa Isabel\, 52\, Madrid\, 28012
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:El Banquete Quemado de Rosalía Banet
+DTSTART;TZID=Europe/Madrid:20260325T090000
+DTEND;TZID=Europe/Madrid:20260526T000000
+UID:6f59bb5de55ca06ae87eb7531b42cbcf1bd2ca5b2d18d6dd735b489812f9acfd
+CATEGORIES:exhibition
+DESCRIPTION:Del 25 de marzo al 26 de mayo\n\n‘El banquete quemado’ o 
+ ‘El gran banquete’ es una instalación que representa un triclinio con
+ temporáneo de alimentos calcinados\, reflejo de la decadencia de la socie
+ dad actual.\n\nEste festín\, acogido en Infinito Delicias por su capacida
+ d para abrir interrogantes acerca de nuestros hábitos de consumo alimenta
+ rio\, está compuesto exclusivamente por comida dulce: alimentos-icono con
+  una fuerte carga simbólica\, que\, a pesar de haber perdido su color\, a
+ hora reducidos a negros y grises\, continúan resultando atractivos. Son a
+ limentos que\, a la vez\, aluden a recuerdos de reuniones festivas y nos r
+ emiten al concepto de fin: normalmente servidos al final de una comida\, a
+ hondan en la posible idea de un banquete fúnebre. La muerte como momento 
+ de cambio\, de extinción del sistema anterior.\n\nEl proyecto\, adaptado 
+ hoy al espacio de Infinito\, es el resultado de la residencia de Rosalía 
+ Banet en la Real Academia de España en Roma\, durante los años 2016 y 20
+ 17. Allí\, la artista llevó a cabo una investigación sobre los opulento
+ s banquetes del Imperio Romano\, en diferentes puntos de la ciudad: en el 
+ café Cánovas (antiguo taller de Cánovas)\, la piel autorretrato de Migu
+ el Ángel de la Capilla Sixtina\, huesos rescatados de viejos libros de me
+ dicina  de la Universidad de la Sapienza o simplemente pedazos de carne e
+ xpuestos en los escaparates de los  restaurantes.\n\nRosalía Banet es ar
+ tista multidisciplinar\, cuya práctica parte siempre del dibujo\, para de
+ sarrollar proyectos que toman diferentes formas y formatos\, desde pintura
+ s o esculturas a instalaciones y piezas audiovisuales. Es licenciada en Be
+ llas Artes por la Universidad de Vigo (facultad de BB. AA. de Pontevedra 1
+ 997) y doctora en Bellas Artes por la misma universidad (Pontevedra 2003).
+  En su tesis doctoral bajo el título “Arte y SIDA en España” investi
+ gó sobre el impacto de la crisis social y sanitaria provocada por el viru
+ s del sida y se acercaba a la huella dejada por la enfermedad en el arte e
+ spañol a través del cuerpo herido.\n\nDesde su trabajo analiza y reflexi
+ ona sobre los sistemas y patrones que habitamos. Retrata la sociedad actua
+ l con sus excesos y desequilibrios\, sacando a la luz los monstruos que pu
+ eblan la civilización contemporánea. Los tres ejes que vertebran su prá
+ ctica son el cuerpo y sus enfermedades\, el alimento\, y el territorio. Re
+ flexiona sobre los límites del cuerpo y con él\, sobre las sociedades ac
+ tuales\, percibidas como sistemas agotados\, rotos\, que necesitan ser rep
+ ensados y reconstruidos.  También\, a través del cuerpo nos hablan de i
+ dentidad y diversidad\, de simbiosis entre especies y de la necesidad de r
+ ecuperar el concepto de comunidad y resituarnos en la tierra.\n\nEn los ú
+ ltimos años su práctica artística busca formas de producción sostenibl
+ e\, repensando el hecho artístico en su totalidad\, desde su producción\
+ , tanto en lo relativo a las técnicas y los materiales como a los tiempos
+  y cantidad de producción\; además de tener en cuenta la logística de l
+ a obra\, su montaje\, transporte y almacenaje.\n\nHa trabajado en galería
+ s como Marta Cervera\, Espacio Mínimo o Catherine Clark Gallery (San Fran
+ cisco)\, y en instituciones como el Centro de arte contemporáneo La Conse
+ rvera\, MAS (Museo de arte contemporáneo de Santander) o el Centro de art
+ e de Alcobendas. En los últimos años ha recibido diversos premios y beca
+ s internacionales como la beca de la Real Academia de España en Roma (201
+ 6/17)\, artista en residencia en Casa de Velázquez (Academia de Francia e
+ n Madrid\, 2018)\, artista en residencia en HIAP (Helsinki International A
+ rtist Programme\, 2019) y premio a la excelencia artística de la Universi
+ dad Nebrija (2024).\n\nhttps://www.infinitodelicias.com/es/agenda/banquete
+ -quemado-de-rosalia-banet
+LOCATION:Espacio Gradas - C. de Juana Dona\, 5\, Arganzuela\, 28045 Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Por los caminos del mapa de la espiritualidad: el arte manuscrito 
  armenio
 DTSTART;TZID=Europe/Madrid:20260326T000000
@@ -1685,10 +1759,9 @@ DTSTART;TZID=Europe/Madrid:20260417T000000
 DTEND;TZID=Europe/Madrid:20260621T000000
 UID:2e8b846737eab8f2b63751e9353eb1f742394a9931ea713d6e80cd198571a6f5
 CATEGORIES:exhibition
-DESCRIPTION:La primera arcade comercial de la historia forma parte de esta
-  exposición que recorre la historia del videojuego\, desde sus inicios ha
- sta la actualidad (OXO. Museo del Videjuego en Madrid.\n\nhttps://oxomuseo
- madrid.com/exposicion-arcade-origins/
+DESCRIPTION:Exposición que recorre la historia del videojuego\, desde sus
+  inicios hasta la actualidad (OXO. Museo del Videjuego en Madrid. Hasta 21
+  junio).\n\nhttps://oxomuseomadrid.com/exposicion-arcade-origins/
 LOCATION:OXO. Museo del Videojuego en Madrid - del Postigo de San Martín\
  , 8\, Madrid\, 28013
 END:VEVENT
@@ -1794,6 +1867,17 @@ DESCRIPTION:Esta exposición proponer buscar el punto de vista literario e
  3NjYzMDEkbzEkZzEkdDE3NzY3NjYzOTkkajU1JGwwJGgw*glob_ga*ODIxMDY0Mjg2LjE3NzY3
  NjYzMDE.*glob_ga_57JPCLFY9Z*czE3NzY3NjYzMDEkbzEkZzEkdD
 LOCATION:Instituto Cervantes - de Alcalá\, 49\, Madrid\, 28014
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tonga Soa\, Madagascar
+DTSTART;TZID=Europe/Madrid:20260423T000000
+DTEND;TZID=Europe/Madrid:20260605T000000
+UID:5284a1c72a405c75dd0a0ba61c5e351045d7592a045e54c19c3dcd0f79ee3608
+CATEGORIES:exhibition
+DESCRIPTION:Una exposición que muestra el proyecto fotográfico de la art
+ ista Katy Gómez Catalina (B Travel & CATAI. 23 abr a 5 jun).\n\nhttps://p
+ remium.btravel.com/evento/inauguracion-exposicion-madagascar/
+LOCATION:B travel & CATAI - de Miguel Ángel\, 33\, Madrid\, 28010
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mariela Scafati. Nombrar el mundo

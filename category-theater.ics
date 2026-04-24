@@ -2,15 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Bajo tu piel
-DTSTART;TZID=Europe/Madrid:20260423T193000
-UID:1f94ac0262b20f2847ad23d0c25ed7cc1e6901f20d05b2198d970b1e4f900bcd
-CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 22 plazas!\n\nhttps://teatrodelbarrio.com/baj
- o-tu-piel/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Cuerpo Molécula: I Jornada sobre Mediación en Artes Escénicas
 DTSTART;TZID=Europe/Madrid:20260424T110000
 UID:17218831888f7a75f5c3da269f9e1feb3bef077a23a9602c2ef735652894795c
@@ -33,7 +24,7 @@ LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Guayominí
-DTSTART;TZID=Europe/Madrid:20260424T193000
+DTSTART;TZID=Europe/Madrid:20260424T120000
 UID:4f506a2d37614c32fac6fa54cbe5b3a6b608a2b68441ba25f76401940e62c24e
 CATEGORIES:theater
 DESCRIPTION:Según la ley de la gravedad de Newton un cuerpo tarda más en
@@ -97,8 +88,8 @@ SUMMARY:Bajo tu piel
 DTSTART;TZID=Europe/Madrid:20260425T193000
 UID:3a28000b99a4ae931adbcee7160f25c356d021ee354e1b1ae5b55d78ff72f3d4
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 11 plazas!\n\nhttps://teatrodelbarrio.com/baj
- o-tu-piel/
+DESCRIPTION:Localidades agotadas\n\nhttps://teatrodelbarrio.com/bajo-tu-pi
+ el/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -114,8 +105,8 @@ SUMMARY:La diatriba del perro
 DTSTART;TZID=Europe/Madrid:20260426T130000
 UID:b4fdcc6c803224195913c01d7ca419a4958569a0b7a447908107cb81b12873ff
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 1 plazas!\n\nhttps://teatrodelbarrio.com/la-d
- iatriba-del-perro/
+DESCRIPTION:Localidades agotadas\n\nhttps://teatrodelbarrio.com/la-diatrib
+ a-del-perro/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -152,6 +143,39 @@ CATEGORIES:theater
 DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/preso-en-la-esperanz
  a-trapped-in-hope/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:eSCena x Migra la food – Hallacas: Ritual y Memoria
+DTSTART;TZID=Europe/Madrid:20260429T190000
+DTEND;TZID=Europe/Madrid:20260429T203000
+UID:422df8c78a10bf77959202bd9f5e404e149a1aed8c7440a3453298c7a66cc251
+CATEGORIES:theater
+DESCRIPTION:eSCena x Migra la food\n\n\, es un encuentro performático don
+ de el alimento es el eje conductor de un relato de migración. En este for
+ mato\, lxs invitadxs comparten su historia a través de una propuesta que 
+ entrelaza ritual\, arte y música.\n\nLa conversación se sostiene desde e
+ l cuidado\, así como desde lo social\, político y ambiental\, permitiend
+ o además que el público forme parte activa de la experiencia.\n\nDurante
+  el encuentro\, se activa el archivo personal de lxs invitadxs: un desplie
+ gue de fotografías\, vídeos\, objetos y recetas que\n\nemanan de su prop
+ ia vivencia.\n\nSon\n\nhuellas\n\nde arraigo y desarraigo que\, a través 
+ del alimento\, reivindican y honran su origen.\n\neSCena es una ofrenda vi
+ va que invita a lxs asistentes no solo a presenciar\, sino a implicarse\, 
+ sentir y\, finalmente\, custodiar el conocimiento compartido.\n\n​EN EST
+ A SEGUNDA SESIÓN:\n\n​Invitadas: Sofía y Rosalba\, madre e hija (Venez
+ uela).\n\nSofía y Rosalba se especializan en realizar trabajos artístico
+ -culinarios de archivo y conversación en torno a una mesa tradicional de 
+ elaboración de hallacas\, donde se recrean y activan las conversaciones d
+ el pasado\, traídas al presente migrante a través del diálogo entre mad
+ re e hija.\n\nMigra la food es una plataforma creativa\, experimental de c
+ ocinas migrantes\n\nque investiga\, conecta y activa la relación entre el
+  alimento\, el arte\, la cultura y la migración.\n\nDesde el acompañamie
+ nto y el cuidado\, abraza los saberes de las guardianas de la memoria: las
+  cocineras y activistas culturales. Migra la food es nieta\, madre e hija\
+ ; es creativa\, estratega\, productora\, artista e investigadora. Es\, ant
+ e todo\, migrante.\n\nhttps://www.infinitodelicias.com/es/agenda/escena-x-
+ migra-la-food-todas-vuelven
+LOCATION:Sala Marina - C. de Juana Dona\, 5\, Arganzuela\, 28045 Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Paramnesia. (La vida que recuerdo)
@@ -200,6 +224,24 @@ DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/gordas-lisiadas-y-ma
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Esto no es culpa de nadie\, con Facu Díaz
+DTSTART;TZID=Europe/Madrid:20260507T213000
+UID:f17d31d9ae15a5a23a3c152a65119fd43083d84a32759b9fa28e23491748c021
+CATEGORIES:theater
+DESCRIPTION:Esto no es culpa de nadie\, con Facu Díaz\n\nEl nuevo mundo s
+ e derrumba ante nuestros ojos y nadie quiere hacerse cargo. Mientras tant
+ o\, Facu Díaz ha decidido volver al stand up para entretener a los seres 
+ humanos mientras todo arde a su alrededor.\n\nUna suerte de violinista del
+  Titanic que\, micrófono en mano\, analiza de manera escandalosamente ses
+ gada lo que sucede en el planeta.\n\nLo que está pasando es culpa de todo
+ s y a la vez culpa de nadie\, o esa es la confusa teoría que pretende des
+ arrollar el comediante uruguayo con este nuevo texto plagado de autorefere
+ ncias\, proclamas políticas propias del siglo pasado y chistes vilmente u
+ surpados a su compañero murciano.\n\nhttps://lamirador.com/funcion?nombre
+ =esto-no-es-culpa-de-nadie-con-facu-diaz-2026
+LOCATION:Sala Mirador - Calle Doctor Fourquet\, 31\, 28012 Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Jane Austen a través de sus cartas 250 aniversario de su nacimien
  to
 DTSTART;TZID=Europe/Madrid:20260510T120000
@@ -215,5 +257,27 @@ DESCRIPTION:Varias voces del panorama cultural actual español interpretar
  nto. Público: Jóvenes y adultos.\n\nhttps://www.mataderomadrid.org/progr
  amacion/jane-austen-traves-de-sus-cartas-250-aniversario-de-su-nacimiento
 LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:¿Por qué\, Shonda?
+DTSTART;TZID=Europe/Madrid:20260510T120000
+UID:da84b6044c24c7a0985ea913d4a9da289c3e8039afa72e2c6654e0bdf60dfdd2
+CATEGORIES:theater
+DESCRIPTION:¿Por qué\, Shonda?\n\nSomos Sheila\, Zinnia y Beatriz. Tres 
+ amigas obsesionadas con el feminismo\, con las series y con las pelis. En 
+ concreto las series de Shonda Rhimes (desde\n\nAnatomía de Grey\n\nhasta\
+ n\nLos Bridgerton\n\n\, pasando por\n\nScandal\n\n)\, y otras muchas\, nos
+  ayudan a pensar el feminismo desde un sitio más “sencillo” y a enten
+ der y explicar mejor las cosas que nos preocupan\, nos importan y nos pare
+ cen fundamentales para seguir avanzando. Empezamos en el sofá de Mujeres 
+ & Compañía\, seguimos en un hilo de twitter comentado el mítico capítu
+ lo de El pasillo\, decidimos que siempre hay hueco para un podcast más y 
+ que tampoco hay tantos feministas.\n\nDespués de habernos estrenado con a
+ lgunos directos en la Sala Mirador en nuestra segunda temporada\, regresar
+ emos con una tercera temporada donde volveremos a grabar algunos de nuestr
+ os episodios desde La Mirador. Nos encantaría que os unieseis a nosotras 
+ en esta nueva locura del feminismo pop.\n\nhttps://lamirador.com/funcion?n
+ ombre=-por-que-shonda--2024
+LOCATION:Sala Mirador - Calle Doctor Fourquet\, 31\, 28012 Madrid
 END:VEVENT
 END:VCALENDAR
