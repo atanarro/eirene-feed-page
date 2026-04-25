@@ -28,6 +28,19 @@ LOCATION:MAD (Madrid Artes Digitales) Centro de Experiencias Inmersivas -
  de Legazpi\, 8\, Madrid\, 28045
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Exponencial. De analógicos a digitales
+DTSTART;TZID=Europe/Madrid:20240514T000000
+DTEND;TZID=Europe/Madrid:20271231T000000
+UID:f5757770ba2619f835632f368e9ae1c25e8353ae577ea62f600b1f84611272c3
+CATEGORIES:exhibition
+DESCRIPTION:Exposición permanente que explora el creciente impacto que ha
+  tenido el desarrollo de las telecomunicaciones en todos los ámbitos de n
+ uestras vidas (Espacio Fundación Telefónica.\n\nhttp://espacio.fundacio
+ ntelefonica.com/
+LOCATION:Espacio Fundación Telefónica - de Fuencarral\, 3\, Madrid\, 280
+ 04
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Colección Masaveu. Arte español del siglo XX. De Picasso a Barce
  ló
 DTSTART;TZID=Europe/Madrid:20241009T000000
@@ -307,11 +320,11 @@ LOCATION:Museo Nacional de Ciencias Naturales - de José Gutierrez Abascal
  \, 2\, Madrid\, 28006
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:“El Prado en femenino III”. Promotoras artísticas de las cole
- cciones del Museo (1701-1819)
+SUMMARY:“El Prado en femenino III”. La reina Isabel de Farnesio (1692-
+ 1766)
 DTSTART;TZID=Europe/Madrid:20251201T000000
 DTEND;TZID=Europe/Madrid:20260524T000000
-UID:372b32e86de0139aca0f333c75d996f0ab75515e6d6e6e063190b9412c65f338
+UID:5f494435546e471f60464c8d823f708391fa32543954eda486a0b83d7ab7f32c
 CATEGORIES:exhibition
 DESCRIPTION:Un recorrido por la decisiva huella de las mujeres en la forma
  ción del Prado durante el siglo XVIII (Museo del Prado. Hasta 24 may).\n\
@@ -1132,18 +1145,6 @@ DESCRIPTION:Exposición que rinde homenaje al primer alcalde democrático
 LOCATION:Conde Duque - del Conde Duque\, 11\, Madrid\, 28015
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nuevo Almanaque Nacional de Resistencias\, Juventud y Memoria
-DTSTART;TZID=Europe/Madrid:20260305T000000
-DTEND;TZID=Europe/Madrid:20260424T000000
-UID:25fe6ec75ab6774ef89f5239152dfaa5a16bb73f97c0a3282add1f6d851a8674
-CATEGORIES:exhibition
-DESCRIPTION:Exposición sobre el papel de los almanaques en el retrato del
-  exilio antifascista en España (Fundación Ortega - Marañón. Hasta 24 a
- bril).\n\nhttps://ortegaygasset.edu/exposiciones/nuevo-almanaque-nacional-
- de-resistencias-juventud-y-memoria/
-LOCATION:Fundación Ortega - Marañón - de Fortuny\, 53\, Madrid\, 28010
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Pim Pam Pop
 DTSTART;TZID=Europe/Madrid:20260305T000000
 DTEND;TZID=Europe/Madrid:20260425T000000
@@ -1845,12 +1846,12 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:María Elena Walsh y Sara Facio\, la palabra y la mirada
 DTSTART;TZID=Europe/Madrid:20260422T000000
-DTEND;TZID=Europe/Madrid:20260626T000000
+DTEND;TZID=Europe/Madrid:20260726T000000
 UID:3a6a014145109175bee823320cca86c69181f123125babc3077434d060a448ff
 CATEGORIES:exhibition
 DESCRIPTION:Recorrido por la obra de las artistas argentinas\, figuras des
  tacadas de la cultura latinoamericana del siglo XX (Instituto Cervantes. H
- asta 26 junio).\n\nhttps://cultura.cervantes.es/espanya/es/mar%C3%ADa-elen
+ asta 26 julio).\n\nhttps://cultura.cervantes.es/espanya/es/mar%C3%ADa-elen
  a-walsh-y-sara-facio%3A-la-palabra-y-la-mirada/188828
 LOCATION:Instituto Cervantes - de Alcalá\, 49\, Madrid\, 28014
 END:VEVENT
@@ -1862,10 +1863,10 @@ UID:dbddbfc5060e67bf527ebf19d812e6dc9d608fe303d7a9d9b1273cc1a2ec54a3
 CATEGORIES:exhibition
 DESCRIPTION:Esta exposición proponer buscar el punto de vista literario e
  n varias letras de canciones de artistas españoles (Instituto Cervantes. 
- 23 abr a 21 jun).\n\nhttps://cultura.cervantes.es/ESPANYA/es/id/188979?_gl
- =1*1ntdg3a*port_ga*ODIxMDY0Mjg2LjE3NzY3NjYzMDE.*port_ga_Z9V7YFW9ZK*czE3NzY
- 3NjYzMDEkbzEkZzEkdDE3NzY3NjYzOTkkajU1JGwwJGgw*glob_ga*ODIxMDY0Mjg2LjE3NzY3
- NjYzMDE.*glob_ga_57JPCLFY9Z*czE3NzY3NjYzMDEkbzEkZzEkdD
+ Hasta 21 jun).\n\nhttps://cultura.cervantes.es/ESPANYA/es/id/188979?_gl=1*
+ 1ntdg3a*port_ga*ODIxMDY0Mjg2LjE3NzY3NjYzMDE.*port_ga_Z9V7YFW9ZK*czE3NzY3Nj
+ YzMDEkbzEkZzEkdDE3NzY3NjYzOTkkajU1JGwwJGgw*glob_ga*ODIxMDY0Mjg2LjE3NzY3NjY
+ zMDE.*glob_ga_57JPCLFY9Z*czE3NzY3NjYzMDEkbzEkZzEkdD
 LOCATION:Instituto Cervantes - de Alcalá\, 49\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
@@ -1926,6 +1927,32 @@ DESCRIPTION:Una exposición fotográfica con más de 30 imágenes tomadas
  en distintos contextos del mundo (Sede de Acción contra el Hambre. A part
  ir 28 abril).\n\nhttps://accioncontraelhambre.org/es
 LOCATION:Madrid - Calle Aravaca\, 22\, Madrid\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Presentación del libro 'Cazadores de Vientos'\, de Javi Crespo
+DTSTART;TZID=Europe/Madrid:20260428T190000
+UID:2dfaf39c90962ae36c655abc12525b934b2cb33b466124544a78cda15cea626d
+CATEGORIES:exhibition
+DESCRIPTION:Cazadores de Vientos es un ensayo que aborda la creatividad co
+ mo un fenómeno relacional y sistémico\, alejándose de enfoques individu
+ alistas para situarla en el contexto del intercambio\, la colaboración y 
+ el entorno. El libro plantea que las ideas no solo se generan\, sino que s
+ e desarrollan y adquieren sentido cuando encuentran las condiciones adecua
+ das para evolucionar hacia el conocimiento y la innovación. Mediante un e
+ nfoque original que combina reflexión teórica y lenguaje visual\, el tex
+ to explora el proceso creativo a través de la metáfora del molino de vie
+ nto\, una herramienta conceptual que permite comprender de manera clara y 
+ estructurada las dinámicas que activan la creatividad. Esta aproximación
+  facilita al lector identificar su propio potencial creativo y los factore
+ s que influyen en su máximo desarrollo. Dirigido a estudiantes\, docentes
+ \, investigadores y profesionales de la innovación\, Cazadores de Vientos
+  ofrece un marco de reflexión útil para el ámbito académico y\, al mis
+ mo tiempo\, accesible para quienes trabajan en emprendimiento\, diseño y 
+ gestión de la creatividad. El ensayo subraya la importancia de compartir\
+ , intercambiar ideas y construir ecosistemas creativos como base para gene
+ rar impacto y transformación.\n\nhttps://www.mataderomadrid.org/programac
+ ion/presentacion-del-libro-cazadores-de-vientos-de-javi-crespo
+LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Aurèlia Muñoz. Entes
@@ -2037,6 +2064,18 @@ DESCRIPTION:Llega a Madrid la mayor exposición del mundo hecha por y para
 LOCATION:Espacio Delicias - de las Delicias\, 61\, Madrid\, 28045
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:El jardín revelado. José Quintanilla (PHotoESPAÑA 2026)
+DTSTART;TZID=Europe/Madrid:20260506T000000
+DTEND;TZID=Europe/Madrid:20260628T000000
+UID:86b725cfe14b57189989492d4c4e4202ff66b76c404651bf51959352681df811
+CATEGORIES:exhibition
+DESCRIPTION:El artista presenta un proyecto que explora los límites de la
+  fotografía fuera de su esencia documental (CentroCentro. 6 may a 28 jun)
+ .\n\nhttps://www.centrocentro.org/exposicion/jose-quintanilla-el-jardin-re
+ velado
+LOCATION:CentroCentro - de Cibeles\, 1\, Madrid\, 28014
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Revolución cuántica
 DTSTART;TZID=Europe/Madrid:20260507T000000
 DTEND;TZID=Europe/Madrid:20261011T000000
@@ -2061,6 +2100,63 @@ DESCRIPTION:Un recorrido evolutivo por la obra del artista contemporáneo
  n-finita
 LOCATION:Sala Alcalá 31 de la Comunidad de Madrid - de Alcalá\, 31\, Mad
  rid\, 28014
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anatomía de un no-hecho | Taller con Martyna Marciniak
+DTSTART;TZID=Europe/Madrid:20260509T203000
+UID:1ebf9d524613ff8f9dc9ae9fdff4183230541568aedb08b0d7bf59dd3f490ce5
+CATEGORIES:exhibition
+DESCRIPTION:Jueves 7 de mayo\, de 19 a 20.30h Conferencia de Martyna Mar
+ ciniak Presentación del LAB 5 La Mecánica de la Verdad (actividad abier
+ ta al público) Viernes 8 de mayo\, de 16 a 20h Sábado 9 de mayo\, de 12 
+ a 20h Taller (con inscripción previa) Anatomía de un no-hecho es una 
+ introducción a los métodos de alfabetización visual necesarios para abo
+ rdar el tema de la desinformación visual. Partiendo de su experiencia co
+ mo artista\, modeladora 3D e investigadora forense\, Martyna Marciniak pre
+ senta a los participantes una serie de técnicas para identificar imágene
+ s sintéticas y sus características: desde estrategias básicas de verifi
+ cación de imágenes hasta teoría crítica de los medios y análisis visu
+ al forense. Estas habilidades se aplican a estudios de caso seleccionados\
+ , lo que permite desarrollar un vocabulario de “tropos” visuales y atr
+ ibutos estéticos asociados con las evidencias visuales y que\, al mismo t
+ iempo\, se utilizan para generar confianza. En la etapa final del taller\,
+  los participantes aplican las habilidades y observaciones adquiridas para
+  generar su propia forma de desinformación de la manera más elaborada po
+ sible. Anatomía de un no-hecho es la primera sesión del programa de for
+ mación y creación Estudio de Sistemas \, una serie periódica de tallere
+ s\, charlas y seminarios con el objetivo de fomentar la intuición creativ
+ a y la experimentación metodológica en torno a tecnologías emergentes e
+  inestables. Sobre Martyna Marciniak Martyna Marciniak es una artista\, 
+ investigadora y diseñadora 3D polaca afincada en Berlín. Su trabajo es u
+ na exploración de la narración visual e incluye animación\, cine\, escr
+ itura y creación de maquetas digitales. En su faceta de investigadora\, u
+ tiliza la narración visual para llamar la atención sobre la violencia si
+ stémica y los abusos contra los derechos humanos. Su práctica artística
+  se basa en ficciones especulativas y alegorías para exponer los sesgos t
+ ecnológicos y visuales\, al tiempo que tiende puentes entre los ámbitos 
+ de la estética\, el derecho\, la política y la teoría de las tecnologí
+ as de comunicación. Martyna ha trabajado con Forensic Architecture\, A
+ mnistía Internacional y Human Rights Watch\, entre otras ONG. El grupo 
+ de investigación Border Emergency Collective\, del que es cofundadora\
+ , investigó y documentó historias de personas migrantes en la frontera e
+ ntre Polonia y Bielorrusia. Además\, ha sido artista residente en la Fund
+ ación Bauhaus Dessau en 2018 y en la Akademie Schloss Solitude en 202
+ 4 y será residente de transmediale (Berlín) en 2026. Su trabajo se ha 
+ expuesto en el festival Ars Electronica\, la Fundación Onassis (Atenas)
+ \, la Bienal de Varsovia\, Kinema ICON en Bucarest\, Haus Gropius en D
+ essau y el festival deTour en Hong Kong\, entre otros. Información prá
+ ctica Taller gratuito con inscripción obligatoria Máximo 16 participant
+ es más oyentes Idioma principal: inglés Todas las sesiones tienen lugar 
+ en la sala Aulario (Nave 17) de Matadero Madrid Es imprescindible la asist
+ encia durante toda la duración del taller ambos días Recomendamos traer 
+ un dispositivo personal (móvil\, tableta o portátil) Inscripción al tal
+ ler Formulario de inscripción Las inscripciones están abiertas hasta el 
+ día 7 de mayo. La selección de los participantes será por orden de insc
+ ripción. En el caso de que algunas de las personas inscritas no se presen
+ ten\, los oyentes pasarán a ser participantes según el mismo orden de so
+ licitud de inscripción.\n\nhttps://www.mataderomadrid.org/programacion/an
+ atomia-de-un-no-hecho-taller-con-martyna-marciniak
+LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PHotoESPAÑA 2026

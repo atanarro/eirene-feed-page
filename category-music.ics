@@ -2,37 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Natalia Doco
-DTSTART;TZID=Europe/Madrid:20260424T210000
-UID:18ca1fc376ef98f10ff9fc7c974992580df922dfbd83c6d40efb9f0e2e771b3c
-CATEGORIES:music
-DESCRIPTION:Concierto / Latin / Pop / Urban / World Music & Folk\n\nhttps:
- //salavillanos.es/evento/natalia-doco/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Linaje
-DTSTART;TZID=Europe/Madrid:20260424T210000
-UID:26e4b7d6e4fb1a1c794ed36d59ac9e7b40c182e1d895aa04cb0bda269ec20ba7
-CATEGORIES:music
-DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://www.entradas.com/artist/
- linaje/?Affiliate=RIV
-LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
- id
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tregua + Fantoches
-DTSTART;TZID=Europe/Madrid:20260424T210000
-UID:ce2820ad64694b4acf6cdd4b17e30dacd990fae98db812b745aeb458aea0ec91
-CATEGORIES:music
-DESCRIPTION:Precio de las entradas: 30 primeras 9€/20 primeros 3 x2=10.5
- 0€/16€ Entradas a la venta en enterticket Bio/enlaces bandas: Tregua_f
- acebook + Tregua_instagram Más información: Tregua: La banda gallega que
-  se perfila como esencial en el\n\nhttps://gruta77.com/events/tregua-banda
- -invitada/var/ri-0.l-L2
-LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:IBEROEXPERIA Sessions presenta a La Muchacha (Colombia)
 DTSTART;TZID=Europe/Madrid:20260425T203000
 UID:0992ff2bb58368380e9c5542da223d4ec284ad0606f5b30b0e7ffbd14fd2e152
@@ -602,6 +571,34 @@ UID:3635df83291410ef739eb79df07fe7039b088958d851ccb77857e1ce5d65a757
 CATEGORIES:music
 DESCRIPTION:Club\n\nhttps://salavillanos.es/evento/dj-deep-tarzsa-nacho-ma
  rco/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Potaje Lab + Arrejuntadas Madrigueira
+DTSTART;TZID=Europe/Madrid:20260524T130000
+UID:434512d18bf2eedaf0aab1e9978d4e3d5319454e82817684cc1f1b7d472df6bc
+CATEGORIES:music
+DESCRIPTION:Concierto / World Music & Folk\n\nhttps://salavillanos.es/even
+ to/potaje-lab-arrejuntadas-madrigueira/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Iñigo Quintero
+DTSTART;TZID=Europe/Madrid:20260524T200000
+UID:4da89603bd464a6708922c1fd7b5e10cd5015b163dd352cbeef6bd4823416229
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:00 pm\n\nhttps://www.entradas.com/artist/
+ inigo-quintero/?Affiliate=RIV
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stereo Madness
+DTSTART;TZID=Europe/Madrid:20260524T210000
+UID:7ffc391375211f2d91249e16db51bcf402eeb526daa5cf8fe76dd514fa81a287
+CATEGORIES:music
+DESCRIPTION:Concierto / Funk & disco\n\nhttps://salavillanos.es/evento/ste
+ reo-madness/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 END:VCALENDAR

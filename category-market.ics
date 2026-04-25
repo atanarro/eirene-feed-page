@@ -84,4 +84,26 @@ DESCRIPTION:Mercado de productores locales y artesanos en Planetario con a
 LOCATION:Mercado Productores Planetario - Avenida del Planetario esquina C
  alle Meneses\, Madrid
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mercado Productores Valdebebas
+DTSTART;TZID=Europe/Madrid:20260524T100000
+DTEND;TZID=Europe/Madrid:20260524T160000
+UID:6e27f71b40080ba0b798eef4eea2f21be5d17080647fbfad1f6d34c67fe507fd
+CATEGORIES:market
+DESCRIPTION:Mercado de productores locales y artesanos en Valdebebas con p
+ roductos frescos\, gourmet y actividades para todos los publicos.\n\nhttps
+ ://mercadoproductores.es/mercado-valdebebas/
+LOCATION:Mercado Productores Valdebebas - Plaza Francisco de Asis Cabrero\
+ , Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Feria de Artesanía de Recoletos
+DTSTART;TZID=Europe/Madrid:20260524T110000
+DTEND;TZID=Europe/Madrid:20260614T210000
+UID:865c01494f4835eea4fb8d36573e9e3517a598b4a90d631a6e7514c2b032fac5
+CATEGORIES:market
+DESCRIPTION:Feria de artesanía organizada por AMOA en el Paseo de Recolet
+ os con puestos de oficios artesanos y diseño.\n\nhttps://amoa.es/
+LOCATION:Paseo de Recoletos - Paseo de Recoletos\, Madrid
+END:VEVENT
 END:VCALENDAR

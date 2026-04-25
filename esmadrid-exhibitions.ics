@@ -28,6 +28,19 @@ LOCATION:MAD (Madrid Artes Digitales) Centro de Experiencias Inmersivas -
  de Legazpi\, 8\, Madrid\, 28045
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Exponencial. De analógicos a digitales
+DTSTART;TZID=Europe/Madrid:20240514T000000
+DTEND;TZID=Europe/Madrid:20271231T000000
+UID:f5757770ba2619f835632f368e9ae1c25e8353ae577ea62f600b1f84611272c3
+CATEGORIES:exhibition
+DESCRIPTION:Exposición permanente que explora el creciente impacto que ha
+  tenido el desarrollo de las telecomunicaciones en todos los ámbitos de n
+ uestras vidas (Espacio Fundación Telefónica.\n\nhttp://espacio.fundacio
+ ntelefonica.com/
+LOCATION:Espacio Fundación Telefónica - de Fuencarral\, 3\, Madrid\, 280
+ 04
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Colección Masaveu. Arte español del siglo XX. De Picasso a Barce
  ló
 DTSTART;TZID=Europe/Madrid:20241009T000000
@@ -307,11 +320,11 @@ LOCATION:Museo Nacional de Ciencias Naturales - de José Gutierrez Abascal
  \, 2\, Madrid\, 28006
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:“El Prado en femenino III”. Promotoras artísticas de las cole
- cciones del Museo (1701-1819)
+SUMMARY:“El Prado en femenino III”. La reina Isabel de Farnesio (1692-
+ 1766)
 DTSTART;TZID=Europe/Madrid:20251201T000000
 DTEND;TZID=Europe/Madrid:20260524T000000
-UID:372b32e86de0139aca0f333c75d996f0ab75515e6d6e6e063190b9412c65f338
+UID:5f494435546e471f60464c8d823f708391fa32543954eda486a0b83d7ab7f32c
 CATEGORIES:exhibition
 DESCRIPTION:Un recorrido por la decisiva huella de las mujeres en la forma
  ción del Prado durante el siglo XVIII (Museo del Prado. Hasta 24 may).\n\
@@ -1132,18 +1145,6 @@ DESCRIPTION:Exposición que rinde homenaje al primer alcalde democrático
 LOCATION:Conde Duque - del Conde Duque\, 11\, Madrid\, 28015
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nuevo Almanaque Nacional de Resistencias\, Juventud y Memoria
-DTSTART;TZID=Europe/Madrid:20260305T000000
-DTEND;TZID=Europe/Madrid:20260424T000000
-UID:25fe6ec75ab6774ef89f5239152dfaa5a16bb73f97c0a3282add1f6d851a8674
-CATEGORIES:exhibition
-DESCRIPTION:Exposición sobre el papel de los almanaques en el retrato del
-  exilio antifascista en España (Fundación Ortega - Marañón. Hasta 24 a
- bril).\n\nhttps://ortegaygasset.edu/exposiciones/nuevo-almanaque-nacional-
- de-resistencias-juventud-y-memoria/
-LOCATION:Fundación Ortega - Marañón - de Fortuny\, 53\, Madrid\, 28010
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Pim Pam Pop
 DTSTART;TZID=Europe/Madrid:20260305T000000
 DTEND;TZID=Europe/Madrid:20260425T000000
@@ -1784,12 +1785,12 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:María Elena Walsh y Sara Facio\, la palabra y la mirada
 DTSTART;TZID=Europe/Madrid:20260422T000000
-DTEND;TZID=Europe/Madrid:20260626T000000
+DTEND;TZID=Europe/Madrid:20260726T000000
 UID:3a6a014145109175bee823320cca86c69181f123125babc3077434d060a448ff
 CATEGORIES:exhibition
 DESCRIPTION:Recorrido por la obra de las artistas argentinas\, figuras des
  tacadas de la cultura latinoamericana del siglo XX (Instituto Cervantes. H
- asta 26 junio).\n\nhttps://cultura.cervantes.es/espanya/es/mar%C3%ADa-elen
+ asta 26 julio).\n\nhttps://cultura.cervantes.es/espanya/es/mar%C3%ADa-elen
  a-walsh-y-sara-facio%3A-la-palabra-y-la-mirada/188828
 LOCATION:Instituto Cervantes - de Alcalá\, 49\, Madrid\, 28014
 END:VEVENT
@@ -1801,10 +1802,10 @@ UID:dbddbfc5060e67bf527ebf19d812e6dc9d608fe303d7a9d9b1273cc1a2ec54a3
 CATEGORIES:exhibition
 DESCRIPTION:Esta exposición proponer buscar el punto de vista literario e
  n varias letras de canciones de artistas españoles (Instituto Cervantes. 
- 23 abr a 21 jun).\n\nhttps://cultura.cervantes.es/ESPANYA/es/id/188979?_gl
- =1*1ntdg3a*port_ga*ODIxMDY0Mjg2LjE3NzY3NjYzMDE.*port_ga_Z9V7YFW9ZK*czE3NzY
- 3NjYzMDEkbzEkZzEkdDE3NzY3NjYzOTkkajU1JGwwJGgw*glob_ga*ODIxMDY0Mjg2LjE3NzY3
- NjYzMDE.*glob_ga_57JPCLFY9Z*czE3NzY3NjYzMDEkbzEkZzEkdD
+ Hasta 21 jun).\n\nhttps://cultura.cervantes.es/ESPANYA/es/id/188979?_gl=1*
+ 1ntdg3a*port_ga*ODIxMDY0Mjg2LjE3NzY3NjYzMDE.*port_ga_Z9V7YFW9ZK*czE3NzY3Nj
+ YzMDEkbzEkZzEkdDE3NzY3NjYzOTkkajU1JGwwJGgw*glob_ga*ODIxMDY0Mjg2LjE3NzY3NjY
+ zMDE.*glob_ga_57JPCLFY9Z*czE3NzY3NjYzMDEkbzEkZzEkdD
 LOCATION:Instituto Cervantes - de Alcalá\, 49\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
@@ -1927,6 +1928,18 @@ DESCRIPTION:Llega a Madrid la mayor exposición del mundo hecha por y para
   fans de la saga más emblemática (Espacio Ibercaja Delicias. 6 may a 5 j
  ul).\n\nhttps://imperiofancontraataca.com/
 LOCATION:Espacio Delicias - de las Delicias\, 61\, Madrid\, 28045
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El jardín revelado. José Quintanilla (PHotoESPAÑA 2026)
+DTSTART;TZID=Europe/Madrid:20260506T000000
+DTEND;TZID=Europe/Madrid:20260628T000000
+UID:86b725cfe14b57189989492d4c4e4202ff66b76c404651bf51959352681df811
+CATEGORIES:exhibition
+DESCRIPTION:El artista presenta un proyecto que explora los límites de la
+  fotografía fuera de su esencia documental (CentroCentro. 6 may a 28 jun)
+ .\n\nhttps://www.centrocentro.org/exposicion/jose-quintanilla-el-jardin-re
+ velado
+LOCATION:CentroCentro - de Cibeles\, 1\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Revolución cuántica
