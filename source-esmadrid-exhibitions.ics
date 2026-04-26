@@ -770,17 +770,6 @@ DESCRIPTION:Exposición que invita a reflexionar sobre la relación entre
 LOCATION:Real Jardín Botánico - de Murillo\, 2\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dinoverse: viaje a la era de los dinosaurios
-DTSTART;TZID=Europe/Madrid:20260213T000000
-DTEND;TZID=Europe/Madrid:20260425T000000
-UID:26e86bb388fcccfae92a21b664c6a1b96854d710905a04677287d6f7186addc6
-CATEGORIES:exhibition
-DESCRIPTION:Exposición inmersiva que permite adentrarse en la fascinante 
- era de los dinosaurios (Nomad Museo Inmersivo. Hasta 25 abr).\n\nhttps://w
- ww.nomadmuseo.es/
-LOCATION:Nomad Museo Inmersivo - Gran Vía\, 78\, Madrid\, 28013
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Dorothy Iannone. Una y otra vez
 DTSTART;TZID=Europe/Madrid:20260214T000000
 DTEND;TZID=Europe/Madrid:20260830T000000
@@ -1143,18 +1132,6 @@ DESCRIPTION:Exposición que rinde homenaje al primer alcalde democrático
  de Madrid en el 40 aniversario de su fallecimiento (Conde Duque - Archivo 
  de la Villa. Hasta 4 mayo).\n\nhttps://www.condeduquemadrid.es/
 LOCATION:Conde Duque - del Conde Duque\, 11\, Madrid\, 28015
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pim Pam Pop
-DTSTART;TZID=Europe/Madrid:20260305T000000
-DTEND;TZID=Europe/Madrid:20260425T000000
-UID:07444f029d8b2c08243972288b277260490eecddeccf833a68827278163c61c5
-CATEGORIES:exhibition
-DESCRIPTION:Exposición dedicada al Pop Art con una cuidada selección de 
- obras de arte y creaciones de algunos de los representantes más reconocid
- os (Opera Gallery Madrid. Hasta 25 abril).\n\nhttps://www.operagallery.com
- /event/pim-pam-pop-art-exhibition
-LOCATION:Opera Gallery Madrid - de Serrano\, 56\, Madrid\, 28004
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Plaza Mayor de Madrid: miradas que habitan
@@ -1991,5 +1968,32 @@ DESCRIPTION:La artista confronta su archivo fotográfico con nuevas imáge
  e.es/exposicion/azkarate-vs-azkarate/
 LOCATION:Espacio Cultural Serrería Belga - de la Alameda\, 15\, Madrid\, 
  28014
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ewa Juszkiewicz
+DTSTART;TZID=Europe/Madrid:20260526T000000
+DTEND;TZID=Europe/Madrid:20260906T000000
+UID:d50e869426ba46da044681e7621f58fb9e377f662cc8e9a637c7e21b08930f87
+CATEGORIES:exhibition
+DESCRIPTION:Una monográfica dedicada a la artista polaca cuyo trabajo co
+ mbina una técnica pictórica minuciosa con un contenido provocador y sub
+ versivo (Museo Nacional Thyssen-Bornemisza.\n\nhttps://www.museothyssen.or
+ g/exposiciones/ewa-juszkiewicz
+LOCATION:Museo Nacional Thyssen-Bornemisza - del Prado\, 8\, Madrid\, 2801
+ 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A la manera de Italia. España y el gótico mediterráneo (1320-14
+ 20)
+DTSTART;TZID=Europe/Madrid:20260526T000000
+DTEND;TZID=Europe/Madrid:20260920T000000
+UID:990061e054160f2af567d06d2e9968e3ef1ecea95a0bd6b5d930641b2a3476a8
+CATEGORIES:exhibition
+DESCRIPTION:Exposición que tiene como objetivo acercar un fascinante peri
+ odo artístico a través de una selección de más de un centenar de obras
+  (Museo del Prado. 26 may a 20 sept).\n\nhttps://www.museodelprado.es/actu
+ alidad/exposicion/a-la-manera-de-italia-espaa-y-el-gotico/ba6db59c-501f-65
+ 0b-583a-b9587ded7e47
+LOCATION:Museo del Prado - del Prado\, s/n\, Madrid\, 28014
 END:VEVENT
 END:VCALENDAR
