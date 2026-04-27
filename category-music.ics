@@ -2,25 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:VILLAMOLINOS matinés musicales
-DTSTART;TZID=Europe/Madrid:20260426T130000
-UID:7c2ba232a132f90185bd4a33ed310bd1d04c2afbb3526a8213fde5f9f085f153
-CATEGORIES:music
-DESCRIPTION:Concierto / Jazz\n\nhttps://salavillanos.es/evento/villamolino
- s-matines-musicales-7/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Saxon
-DTSTART;TZID=Europe/Madrid:20260426T200000
-UID:fb1cd7e1ae1b37f4db06cd0704160190ee5e8196b79b1d34d43925431dbdead5
-CATEGORIES:music
-DESCRIPTION:Apertura Puertas: 19:00 pm\n\nhttps://www.madnesslive.es/es/co
- nciertos-en-madrid/1679-comprar-entrada-saxon-madrid.html
-LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
- id
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Machine Head
 DTSTART;TZID=Europe/Madrid:20260427T190000
 UID:88608a9dce19caa9cb20efad21ab31d258950cfe1f664ef796bc517d2e838073
@@ -569,5 +550,15 @@ CATEGORIES:music
 DESCRIPTION:Concierto / Funk & disco\n\nhttps://salavillanos.es/evento/ste
  reo-madness/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lany
+DTSTART;TZID=Europe/Madrid:20260526T210000
+UID:737be8f3d2767966695669ab6668dc82dc5f9f0e8b0456eb102b79c514f72762
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://www.ticketmaster.es/arti
+ st/lany-entradas/959258
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
 END:VEVENT
 END:VCALENDAR

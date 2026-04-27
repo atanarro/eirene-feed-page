@@ -2,43 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:La diatriba del perro
-DTSTART;TZID=Europe/Madrid:20260426T130000
-UID:b4fdcc6c803224195913c01d7ca419a4958569a0b7a447908107cb81b12873ff
-CATEGORIES:theater
-DESCRIPTION:Localidades agotadas\n\nhttps://teatrodelbarrio.com/la-diatrib
- a-del-perro/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La doble vida de Virginia Woolf
-DTSTART;TZID=Europe/Madrid:20260426T180000
-UID:dc21491fec5ffffbe9b0f6c54267bf10c64264b297929b8f7b866c825166df60
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/la-doble-vida-de-vir
- ginia-woolf/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Guayominí
-DTSTART;TZID=Europe/Madrid:20260426T193000
-DTEND;TZID=Europe/Madrid:20260517T183000
-UID:fb2dc857668957f5d7d1d47ee18f558122fdd59002bd0dd5cf3e9b964fb195ba
-CATEGORIES:theater
-DESCRIPTION:Entradas disponibles desde 15.75€ | Tags: JOBO\n\nhttps://ti
- enda.madrid-destino.com/es/nave-10/guayomini/
-LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bajo tu piel
-DTSTART;TZID=Europe/Madrid:20260426T203000
-UID:d9ac3de8bb3e997d555df1a1437b736e718d9e7aafcb66614117b17b949a38db
-CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 11 plazas!\n\nhttps://teatrodelbarrio.com/baj
- o-tu-piel/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Entrega del AMEIS de Plata 2026.
 DTSTART;TZID=Europe/Madrid:20260428T190000
 UID:0b8b16271f11dd9d42a176cf4c72722288a2edb229f31afa5a3d3b3872a236fa
@@ -46,6 +9,16 @@ CATEGORIES:theater
 DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/entrega-del-ameis-de
  -plata-2026/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Guayominí
+DTSTART;TZID=Europe/Madrid:20260428T193000
+DTEND;TZID=Europe/Madrid:20260517T183000
+UID:fb2dc857668957f5d7d1d47ee18f558122fdd59002bd0dd5cf3e9b964fb195ba
+CATEGORIES:theater
+DESCRIPTION:Entradas disponibles desde 15.75€ | Tags: JOBO\n\nhttps://ti
+ enda.madrid-destino.com/es/nave-10/guayomini/
+LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Preso en la esperanza / Trapped in hope
