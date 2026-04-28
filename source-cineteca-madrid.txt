@@ -1,5 +1,5 @@
 Eirene feed debug
-Total events: 63
+Total events: 64
 
 [1] Quién vio los templos caer
   id: a1269d5ae09e06dad4812c9e5b47f9f18c4fb02848d5f2adb9e2275a28bb9a35
@@ -335,7 +335,7 @@ Total events: 63
   location: Cineteca Madrid - Plaza de Legazpi, 8, Madrid
   coordinates: 40.392398, -3.697762
   url: https://www.cinetecamadrid.com/programacion/cinco-documentales-de-augusto-m-torres
-  description: div#sliding-popup, div#sliding-popup .eu-cookie-withdraw-banner, .eu-cookie-withdraw-tab {background: #d9d9d9} div#sliding-popup.eu-cookie-withdraw-wrapper { background: transparent; } #sliding-popup h1, #sliding-popup h2, #sliding-popup h3, #sliding-popup p, #sliding-popup label, #sliding-popup div, .eu-cookie-compliance-more-button, .eu-cookie-compliance-secondary-button, .eu-cookie-withdraw-tab { color: #333333;} .eu-cookie-withdraw-tab { border-color: #333333;} Cinco documentales de Augusto M. Torres | Cineteca
+  description: El cineasta Augusto M. Torres muestra cinco formas diferentes de hacer documentales.
 
 [30] Pepe el andaluz
   id: dc302003b171892476edae78bb2a6408c0fa06216accd9842ef3619a1f412782
@@ -601,7 +601,7 @@ Total events: 63
   location: Cineteca Madrid - Plaza de Legazpi, 8, Madrid
   coordinates: 40.392398, -3.697762
   url: https://www.cinetecamadrid.com/programacion/la-casa-de-mi-abuela
-  description: div#sliding-popup, div#sliding-popup .eu-cookie-withdraw-banner, .eu-cookie-withdraw-tab {background: #d9d9d9} div#sliding-popup.eu-cookie-withdraw-wrapper { background: transparent; } #sliding-popup h1, #sliding-popup h2, #sliding-popup h3, #sliding-popup p, #sliding-popup label, #sliding-popup div, .eu-cookie-compliance-more-button, .eu-cookie-compliance-secondary-button, .eu-cookie-withdraw-tab { color: #333333;} .eu-cookie-withdraw-tab { border-color: #333333;}
+  description: Narra la relación que Marina, una niña de 6 años, impulsiva e irreverente, tiene con Marita, su abuela de 75 años. La rancia educación a la que la abuela somete a la niña provoca que esta se rebele no solo contra ella, sino contra todo aquel que intente corregir su comportamiento. A lo largo de varias etapas se reconstruye la vida y costumbres de una familia dejando al descubierto emociones y conflictos.
 
 [53] La buena hija
   id: 44c2cd361d52ba19c4d911541938ab796c701c88eac7dda7269b1a180b2106dd
@@ -647,7 +647,18 @@ Total events: 63
   url: https://www.cinetecamadrid.com/programacion/la-buena-hija
   description: Tras la separación de sus padres, Carmela y su madre se mudan a casa de la abuela. Mientras trata de adaptarse a su nueva situación, Carmela anhela pasar más tiempo en casa de su padre, un artista plástico a quién admira e idolatra. La sombra de este llevará a las tres generaciones de mujeres de la familia a decidir el futuro que merecen.
 
-[57] Ulysses Plebeyo
+[57] Los ilusos 13+13
+  id: d095113572a697a28a69cb400daf7db500ec8d054744d5e41e302235112aca33
+  start: 2026-05-22T20:30:00+02:00
+  end: N/A
+  category: cinema
+  source: cineteca_madrid
+  location: Cineteca Madrid - Plaza de Legazpi, 8, Madrid
+  coordinates: 40.392398, -3.697762
+  url: https://www.cinetecamadrid.com/programacion/los-ilusos-1313
+  description: Los ilusos 13+13 es una película sobre el deseo de hacer cine, o sobre lo que hacen algunos cineastas cuando no hacen cine; sobre perder el tiempo y el tiempo perdido; sobre conversaciones, borracheras, comidas y rutinas; sobre los paseos al salir del cine; sobre estar enamorado; sobre estar solo y estar con amigos, construyendo futuros recuerdos para una película futura.
+
+[58] Ulysses Plebeyo
   id: d188b724d521217ce84e23d2fc40a379790bcce149c23b61aeb17bafc36b394b
   start: 2026-05-23T18:00:00+02:00
   end: N/A
@@ -658,7 +669,7 @@ Total events: 63
   url: https://www.cinetecamadrid.com/programacion/ulysses-plebeyo
   description: La realidad resplandeciendo de ansiedad es desmenuzada y reconstruida desde el montaje para generar bloques de imágenes-sonido en estado puro: una cámara precaria que durante varios años viaja incesantemente desde los confines del subdesarrollo hasta la cima del bienestar europeo. Desde un barrio popular en Buenos Aires a la plaza San Marco en Venecia. Se refleja la cotidianeidad en toda su belleza y abyección. Amor y violencia, silencio y ruido.
 
-[58] Hoy partido a las tres
+[59] Hoy partido a las tres
   id: 752014c5dc0dad6902c60cca53605c754a2e54b54b400e5547ba18fd8a72359e
   start: 2026-05-23T19:30:00+02:00
   end: N/A
@@ -669,7 +680,7 @@ Total events: 63
   url: https://www.cinetecamadrid.com/programacion/hoy-partido-las-tres
   description: En plena siesta litoraleña, el equipo de fútbol femenino Las Indomables aguarda con ansiedad el comienzo de un torneo deportivo vecinal. Durante la espera suceden amores, conflictos, política y hasta una lluvia que acecha a la pasión por la que están ahí: jugar al fútbol cueste lo que cueste.
 
-[59] La buena hija
+[60] La buena hija
   id: 7ba14f315d5459af5211ba4e8cb8fc58ef56bb5bf7a5f72f26bf54367e08481a
   start: 2026-05-23T20:00:00+02:00
   end: N/A
@@ -680,7 +691,7 @@ Total events: 63
   url: https://www.cinetecamadrid.com/programacion/la-buena-hija
   description: Tras la separación de sus padres, Carmela y su madre se mudan a casa de la abuela. Mientras trata de adaptarse a su nueva situación, Carmela anhela pasar más tiempo en casa de su padre, un artista plástico a quién admira e idolatra. La sombra de este llevará a las tres generaciones de mujeres de la familia a decidir el futuro que merecen.
 
-[60] Los tipos malos
+[61] Los tipos malos
   id: 1f4d2ae4fd1045942619e21331964375e9cf3dc795956e231cd1841bb2ec97d3
   start: 2026-05-24T12:00:00+02:00
   end: N/A
@@ -692,7 +703,7 @@ Total events: 63
   url: https://www.cinetecamadrid.com/programacion/los-tipos-malos
   description: Después de varios años dando exitosos golpes y ser los malos más buscados del planeta, la pandilla de Los Tipos Malos, compuesta por el Sr. Lobo, el Sr. Serpiente, el Sr. Piraña, el Sr. Tiburón y la Sra. Tarántula, son al fin pillados. El Sr. Lobo consigue entonces llegar a un acuerdo para impedir que les metan a todos en la cárcel: Los Tipos Malos serán buenos. Pero el Sr. Lobo no tiene la más mínima intención de respetarlo...
 
-[61] La buena hija
+[62] La buena hija
   id: 9fc5b63e72eab82cc957011ebb6555b387037456770ef33fd736267b3b744351
   start: 2026-05-24T18:30:00+02:00
   end: N/A
@@ -703,7 +714,7 @@ Total events: 63
   url: https://www.cinetecamadrid.com/programacion/la-buena-hija
   description: Tras la separación de sus padres, Carmela y su madre se mudan a casa de la abuela. Mientras trata de adaptarse a su nueva situación, Carmela anhela pasar más tiempo en casa de su padre, un artista plástico a quién admira e idolatra. La sombra de este llevará a las tres generaciones de mujeres de la familia a decidir el futuro que merecen.
 
-[62] Yo canto a la diferencia: Sesión de cortometrajes
+[63] Yo canto a la diferencia: Sesión de cortometrajes
   id: 2d91a4de288b257839b2a5aba79b1f1580feaf39051875caa2965406e3fa5a34
   start: 2026-05-24T19:00:00+02:00
   end: N/A
@@ -714,7 +725,7 @@ Total events: 63
   url: https://www.cinetecamadrid.com/programacion/yo-canto-la-diferencia-sesion-de-cortometrajes
   description: Los puros (Carla Valdés León, Cuba, 2021, 18') Ellos son los amigos de mis padres. La última despedida fue en Minsk, año 1984. Regresaban a Cuba después de terminar los cinco años de la carrera de Filosofía Marxista Leninista. Venían con las dudas de la Perestroika, con los cuentos rusos y el té. Preveían un futuro que no fue. El tiempo los puso en lugares diferentes del mapa. Ahora que pueden volver a encontrarse, se preguntan: ¿cuál es el hilo que aún los hermana?
 
-[63] Ulysses Plebeyo
+[64] Ulysses Plebeyo
   id: 1dc78915cbe40fe1fc26160add590d20fa843fc9ac207a9ae16b04505d313655
   start: 2026-05-24T20:30:00+02:00
   end: N/A

@@ -2,16 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Machine Head
-DTSTART;TZID=Europe/Madrid:20260427T190000
-UID:88608a9dce19caa9cb20efad21ab31d258950cfe1f664ef796bc517d2e838073
-CATEGORIES:music
-DESCRIPTION:Apertura Puertas: 18:00\n\nhttps://www.resurrectionfest.es/rou
- te/machine-head-tour-2026/
-LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
- id
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Luis Fercan
 DTSTART;TZID=Europe/Madrid:20260428T203000
 UID:d997001696e851b5af6370c59404a085a18ad94e28d5a375a0d60070022d6886
@@ -45,8 +35,8 @@ SUMMARY:Mala Gestión
 DTSTART;TZID=Europe/Madrid:20260430T210000
 UID:10c4dbeb245f6881631326340e83cd5b9140470ec575b9656d6f8379d0ad3760
 CATEGORIES:music
-DESCRIPTION:Apertura Puertas: 20:00 Horas\n\nhttps://dice.fm/event/xe7p93-
- mala-gestin-en-sound-isidro-30th-apr-la-riviera-madrid-tickets
+DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://dice.fm/event/xe7p93-mal
+ a-gestin-en-sound-isidro-30th-apr-la-riviera-madrid-tickets
 LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
  id
 END:VEVENT
@@ -412,8 +402,8 @@ LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ginel Presenta Borde Vivo + Mauro Samaniego
-DTSTART;TZID=Europe/Madrid:20260520T213000
-UID:1b3ac12de6487bb4ddb5c2fafd91c3ad970ac73024b8bac5e573e165dd969e10
+DTSTART;TZID=Europe/Madrid:20260520T201500
+UID:7c71760114eba0ff8e89f0586fbbd8771763bd1cc91146caeafd136c55883347
 CATEGORIES:music
 DESCRIPTION:Concierto / Funk & disco / Soul & R&B / Pop\n\nhttps://salavil
  lanos.es/evento/ginel-presenta-borde-vivo-mauro-samaniego/
@@ -558,6 +548,25 @@ UID:737be8f3d2767966695669ab6668dc82dc5f9f0e8b0456eb102b79c514f72762
 CATEGORIES:music
 DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://www.ticketmaster.es/arti
  st/lany-entradas/959258
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ombligo
+DTSTART;TZID=Europe/Madrid:20260527T210000
+UID:f3a7c4219d301bcd3a89ef6be2bbc3948f9dce54501a1f03c2595eefa0dbcfb4
+CATEGORIES:music
+DESCRIPTION:Concierto / Pop / World Music & Folk\n\nhttps://salavillanos.e
+ s/evento/ombligo/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Molchat Doma
+DTSTART;TZID=Europe/Madrid:20260527T210000
+UID:1084603d708ace93952ede9df690f9480ff1876cd7879deab9b3f3f61a3111fc
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://www.ticketmaster.es/even
+ t/molchat-doma-entradas/434961262?language=en-us
 LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
  id
 END:VEVENT
