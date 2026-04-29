@@ -2,25 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Entrega del AMEIS de Plata 2026.
-DTSTART;TZID=Europe/Madrid:20260428T190000
-UID:0b8b16271f11dd9d42a176cf4c72722288a2edb229f31afa5a3d3b3872a236fa
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/entrega-del-ameis-de
- -plata-2026/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Guayominí
-DTSTART;TZID=Europe/Madrid:20260428T193000
-DTEND;TZID=Europe/Madrid:20260517T183000
-UID:fb2dc857668957f5d7d1d47ee18f558122fdd59002bd0dd5cf3e9b964fb195ba
-CATEGORIES:theater
-DESCRIPTION:Entradas disponibles desde 15.75€ | Tags: JOBO\n\nhttps://ti
- enda.madrid-destino.com/es/nave-10/guayomini/
-LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:eSCena x Migra la food – Hallacas: Ritual y Memoria
 DTSTART;TZID=Europe/Madrid:20260429T190000
 DTEND;TZID=Europe/Madrid:20260429T203000
@@ -54,11 +35,21 @@ DESCRIPTION:eSCena x Migra la food\n\n\, es un encuentro performático don
 LOCATION:Sala Marina - C. de Juana Dona\, 5\, Arganzuela\, 28045 Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Guayominí
+DTSTART;TZID=Europe/Madrid:20260429T193000
+DTEND;TZID=Europe/Madrid:20260517T183000
+UID:fb2dc857668957f5d7d1d47ee18f558122fdd59002bd0dd5cf3e9b964fb195ba
+CATEGORIES:theater
+DESCRIPTION:Entradas disponibles desde 15.75€ | Tags: JOBO\n\nhttps://ti
+ enda.madrid-destino.com/es/nave-10/guayomini/
+LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Paramnesia. (La vida que recuerdo)
 DTSTART;TZID=Europe/Madrid:20260429T193000
 UID:f80d43a805d4ea4507c265e6995c58a9e76dbafd0cf77973427d9342687c4a48
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 27 plazas!\n\nhttps://teatrodelbarrio.com/par
+DESCRIPTION:¡Ya solo quedan 18 plazas!\n\nhttps://teatrodelbarrio.com/par
  amnesia-la-vida-que-recuerdo/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
@@ -171,5 +162,15 @@ DESCRIPTION:Según la ley de la gravedad de Newton un cuerpo tarda más en
  ramaturgista de la temporada 25/26 de Nave 10 Matadero\n\nhttps://www.mata
  deromadrid.org/programacion/guayomini
 LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ubú
+DTSTART;TZID=Europe/Madrid:20260528T193000
+DTEND;TZID=Europe/Madrid:20260621T193000
+UID:a56573e15b36299498f04f228d668b599f378b13af45661ba6edc325bb0216ff
+CATEGORIES:theater
+DESCRIPTION:Entradas disponibles desde 15.75€\n\nhttps://tienda.madrid-d
+ estino.com/es/nave-10/ubu/
+LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
 END:VEVENT
 END:VCALENDAR
