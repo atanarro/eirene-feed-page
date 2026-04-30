@@ -1,79 +1,7 @@
 Eirene feed debug
-Total events: 11
+Total events: 8
 
-[1] eSCena x Migra la food – Hallacas: Ritual y Memoria
-  id: 422df8c78a10bf77959202bd9f5e404e149a1aed8c7440a3453298c7a66cc251
-  start: 2026-04-29T19:00:00+02:00
-  end: 2026-04-29T20:30:00+02:00
-  category: theater
-  source: infinito_delicias
-  location: Sala Marina - C. de Juana Dona, 5, Arganzuela, 28045 Madrid
-  coordinates: 40.3967998, -3.6926356
-  url: https://www.infinitodelicias.com/es/agenda/escena-x-migra-la-food-todas-vuelven
-  description: eSCena x Migra la food
-
-, es un encuentro performático donde el alimento es el eje conductor de un relato de migración. En este formato, lxs invitadxs comparten su historia a través de una propuesta que entrelaza ritual, arte y música.
-
-La conversación se sostiene desde el cuidado, así como desde lo social, político y ambiental, permitiendo además que el público forme parte activa de la experiencia.
-
-Durante el encuentro, se activa el archivo personal de lxs invitadxs: un despliegue de fotografías, vídeos, objetos y recetas que
-
-emanan de su propia vivencia.
-
-Son
-
-huellas
-
-de arraigo y desarraigo que, a través del alimento, reivindican y honran su origen.
-
-eSCena es una ofrenda viva que invita a lxs asistentes no solo a presenciar, sino a implicarse, sentir y, finalmente, custodiar el conocimiento compartido.
-
-​EN ESTA SEGUNDA SESIÓN:
-
-​Invitadas: Sofía y Rosalba, madre e hija (Venezuela).
-
-Sofía y Rosalba se especializan en realizar trabajos artístico-culinarios de archivo y conversación en torno a una mesa tradicional de elaboración de hallacas, donde se recrean y activan las conversaciones del pasado, traídas al presente migrante a través del diálogo entre madre e hija.
-
-Migra la food es una plataforma creativa, experimental de cocinas migrantes
-
-que investiga, conecta y activa la relación entre el alimento, el arte, la cultura y la migración.
-
-Desde el acompañamiento y el cuidado, abraza los saberes de las guardianas de la memoria: las cocineras y activistas culturales. Migra la food es nieta, madre e hija; es creativa, estratega, productora, artista e investigadora. Es, ante todo, migrante.
-
-[2] Guayominí
-  id: fb2dc857668957f5d7d1d47ee18f558122fdd59002bd0dd5cf3e9b964fb195ba
-  start: 2026-04-29T19:30:00+02:00
-  end: 2026-05-17T18:30:00+02:00
-  category: theater
-  source: nave_10
-  location: Nave 10 - Paseo de la Chopera, 14, Madrid
-  coordinates: 40.3920606, -3.6978319
-  url: https://tienda.madrid-destino.com/es/nave-10/guayomini/
-  description: Entradas disponibles desde 15.75€ | Tags: JOBO
-
-[3] Paramnesia. (La vida que recuerdo)
-  id: f80d43a805d4ea4507c265e6995c58a9e76dbafd0cf77973427d9342687c4a48
-  start: 2026-04-29T19:30:00+02:00
-  end: N/A
-  category: theater
-  source: teatro_del_barrio
-  location: Teatro del Barrio - Calle de Zurita, 20, Madrid
-  coordinates: 40.4096081, -3.699174
-  url: https://teatrodelbarrio.com/paramnesia-la-vida-que-recuerdo/
-  description: ¡Ya solo quedan 18 plazas!
-
-[4] Encerrona de Pepe Viyuela
-  id: 4e7c2d95c9478ff1ce19bdd651693f3671fcc7f156a2b138899bbc1620f9cea0
-  start: 2026-04-29T21:30:00+02:00
-  end: N/A
-  category: theater
-  source: teatro_del_barrio
-  location: Teatro del Barrio - Calle de Zurita, 20, Madrid
-  coordinates: 40.4096081, -3.699174
-  url: https://teatrodelbarrio.com/pepe-viyuela-encerrona/
-  description: ¡Ya solo quedan 1 plazas!
-
-[5] Dramas, risas y culos: Homenaje a la más Divertristisima, Marta Plaza.
+[1] Dramas, risas y culos: Homenaje a la más Divertristisima, Marta Plaza.
   id: 5d1b692aaecfbd95ab95e48a19a20eef56e3a782f5a69ebf670603bfe51620d8
   start: 2026-04-30T18:30:00+02:00
   end: N/A
@@ -84,7 +12,18 @@ Desde el acompañamiento y el cuidado, abraza los saberes de las guardianas de l
   url: https://teatrodelbarrio.com/dramas-risas-y-culos-homenaje-a-la-mas-divertristisima-marta-plaza/
   description: Localidades agotadas
 
-[6] Gordas, lisiadas y mamarrachas
+[2] Guayominí
+  id: fb2dc857668957f5d7d1d47ee18f558122fdd59002bd0dd5cf3e9b964fb195ba
+  start: 2026-04-30T19:30:00+02:00
+  end: 2026-05-17T18:30:00+02:00
+  category: theater
+  source: nave_10
+  location: Nave 10 - Paseo de la Chopera, 14, Madrid
+  coordinates: 40.3920606, -3.6978319
+  url: https://tienda.madrid-destino.com/es/nave-10/guayomini/
+  description: Entradas disponibles desde 15.75€ | Tags: JOBO
+
+[3] Gordas, lisiadas y mamarrachas
   id: 01a80de55bb88732b1a1ac12204c0d949b8324ad131cc6c80aeda3adec1cc96e
   start: 2026-04-30T22:15:00+02:00
   end: N/A
@@ -95,7 +34,7 @@ Desde el acompañamiento y el cuidado, abraza los saberes de las guardianas de l
   url: https://teatrodelbarrio.com/gordas-lisiadas-y-mamarrachas/
   description: Disponible
 
-[7] Esto no es culpa de nadie, con Facu Díaz
+[4] Esto no es culpa de nadie, con Facu Díaz
   id: f17d31d9ae15a5a23a3c152a65119fd43083d84a32759b9fa28e23491748c021
   start: 2026-05-07T21:30:00+02:00
   end: N/A
@@ -112,7 +51,7 @@ Una suerte de violinista del Titanic que, micrófono en mano, analiza de manera 
 
 Lo que está pasando es culpa de todos y a la vez culpa de nadie, o esa es la confusa teoría que pretende desarrollar el comediante uruguayo con este nuevo texto plagado de autoreferencias, proclamas políticas propias del siglo pasado y chistes vilmente usurpados a su compañero murciano.
 
-[8] Jane Austen a través de sus cartas 250 aniversario de su nacimiento
+[5] Jane Austen a través de sus cartas 250 aniversario de su nacimiento
   id: 682fefa2ebb329be6bf7c8f94d035a2845bcbbf9d841a1d81520996c0584f61f
   start: 2026-05-10T12:00:00+02:00
   end: N/A
@@ -123,7 +62,7 @@ Lo que está pasando es culpa de todos y a la vez culpa de nadie, o esa es la co
   url: https://www.mataderomadrid.org/programacion/jane-austen-traves-de-sus-cartas-250-aniversario-de-su-nacimiento
   description: Varias voces del panorama cultural actual español interpretarán a la escritora británica a lo largo de las diversas etapas de su vida. Gracias a las cartas que se intercambiaba con su hermana Cassandra podemos conocer mejor a la autora de Emma, Sentido y sensibilidad u Orgullo y prejuicio. Coordinado por su editora y traductora, Amparo Llanos, conoceremos la vida de Jane Austen por una selección epistolar de la autora inglesa en el 250 aniversario de su nacimiento. Organiza: Editorial Renacimiento. Público: Jóvenes y adultos.
 
-[9] ¿Por qué, Shonda?
+[6] ¿Por qué, Shonda?
   id: da84b6044c24c7a0985ea913d4a9da289c3e8039afa72e2c6654e0bdf60dfdd2
   start: 2026-05-10T12:00:00+02:00
   end: N/A
@@ -150,7 +89,7 @@ Scandal
 
 Después de habernos estrenado con algunos directos en la Sala Mirador en nuestra segunda temporada, regresaremos con una tercera temporada donde volveremos a grabar algunos de nuestros episodios desde La Mirador. Nos encantaría que os unieseis a nosotras en esta nueva locura del feminismo pop.
 
-[10] Guayominí
+[7] Guayominí
   id: 91b987a1c48153e63373e2c09fe59fd656e8bbbc7789c64b723020d45d570da2
   start: 2026-05-17T12:00:00+02:00
   end: N/A
@@ -161,7 +100,7 @@ Después de habernos estrenado con algunos directos en la Sala Mirador en nuestr
   url: https://www.mataderomadrid.org/programacion/guayomini
   description: Según la ley de la gravedad de Newton un cuerpo tarda más en subir que en bajar. Roi, que está cantando en la final de un importante concurso europeo de canciones, porque ganó otro concurso nacional tres meses atrás, se queda en blanco en plena actuación. Las consecuencias de este error son inevitables y no tardan en llegar. Laura Garmo nos propone una historia fresca y optimista sobre la identidad y el fracaso. Guayominí es el proyecto de dirección y autoría novel de Nave 10. Un espacio para el descubrimiento de nuevas voces. Laura Garmo y Pablo Martínez Bravo ponen en pie una historia sobre la importancia de cuidar lo que tienes cerca. Roi, un joven cantautor, consigue la oportunidad única de participar en un concurso que le dará mucha visibilidad. Pero esta oportunidad rápidamente se le vuelve en contra: Cuando está en pleno ascenso, ya debe prepararse para la bajada. Igual que Roi, vivimos en un sistema fagocitante basado en el éxito y en la opinión de los demás, en el que la valía personal se reduce a lo que podemos producir, pero Guayominí viene a recodarnos que la vida no es solo un concurso de talentos. Rocío Bello Dramaturgista de la temporada 25/26 de Nave 10 Matadero
 
-[11] Ubú
+[8] Ubú
   id: a56573e15b36299498f04f228d668b599f378b13af45661ba6edc325bb0216ff
   start: 2026-05-28T19:30:00+02:00
   end: 2026-06-21T19:30:00+02:00

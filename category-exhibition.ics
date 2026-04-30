@@ -345,18 +345,6 @@ DESCRIPTION:Muestra que se centra en los noticiarios y documentales NO-DO
 LOCATION:Filmoteca Española - de la Magdalena\, 10\, Madrid\, 28012
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:De Monet a Kandinski. Arte revolucionario
-DTSTART;TZID=Europe/Madrid:20251205T000000
-DTEND;TZID=Europe/Madrid:20260429T000000
-UID:f7333d0a5233605941b71ed80b356531d5f74eedbc2cf88377e1cb18970f6da4
-CATEGORIES:exhibition
-DESCRIPTION:Experiencia que reúne los movimientos artísticos más inf
- luyentes de finales del siglo XIX y principios del XX: impresionismo\, pun
- tillismo\, posimpresionismo\, cubismo y expresionismo (Nomad Museo\n\nhttp
- s://www.nomadmuseo.es/
-LOCATION:Nomad Museo Inmersivo - Gran Vía\, 78\, Madrid\, 28013
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Trenes históricos
 DTSTART;TZID=Europe/Madrid:20251205T000000
 DTEND;TZID=Europe/Madrid:20271231T000000
@@ -382,6 +370,19 @@ DESCRIPTION:El artista aragonés expone varias pinturas\, esculturas y dib
  tfmt=default&vgnextoid=ab18a1ead63ab010VgnVCM100000d90ca8c0RCRD&vgnextchan
  nel=8ef1bbef60841810VgnVCM1000001d4a900aRCRD&idCapitul
 LOCATION:Museo de Historia - de Fuencarral\, 78\, Madrid\, 28004
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oriol Maspons
+DTSTART;TZID=Europe/Madrid:20251217T000000
+DTEND;TZID=Europe/Madrid:20260614T000000
+UID:86a14a38cc9379110a6f480e1e95754a0ddd89d1a39bcbf60980decb1815a708
+CATEGORIES:exhibition
+DESCRIPTION:Selección de obras del fotógrafo español considerado uno d
+ e los más activos e influyentes fotógrafos de la Escuela de Barcelona (
+ Real Academia de Bellas Artes de San Fernando.\n\nhttps://www.realacademia
+ bellasartessanfernando.com/actividades/exposiciones/oriol-maspons/
+LOCATION:Real Academia de Bellas Artes de San Fernando - de Alcalá\, 13\,
+  Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:75 años de la Colección Marañón: el origen del Fondo Antiguo d
@@ -1392,17 +1393,6 @@ LOCATION:Espacio Cultural Serrería Belga - de la Alameda\, 15\, Madrid\,
  28014
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Moby Dick. The Dream of Captain Ahab
-DTSTART;TZID=Europe/Madrid:20260402T000000
-DTEND;TZID=Europe/Madrid:20260429T000000
-UID:873d82899cd90ca0b1656851046865bfc80929e642d1031d3eac802abcf1726c
-CATEGORIES:exhibition
-DESCRIPTION:Muestra del artista Esteban Ruiz inspirada en la novela de He
- rman Melville\, que reúne obras que reinterpretan el universo simbólico
-  de la ballena blanca (Centro Cultural\n\nhttps://mobydicksite.com/
-LOCATION:Centro Cultural Casa de Vacas - de Colombia\, 1\, Madrid\, 28009
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Te regalo una guerra
 DTSTART;TZID=Europe/Madrid:20260402T000000
 DTEND;TZID=Europe/Madrid:20260507T000000
@@ -1430,18 +1420,6 @@ DESCRIPTION:Muestra que rinde homenaje al poeta madrileño\, una de las vo
  on-y-diversas-actividades/
 LOCATION:Centro Cultural Casa del Reloj - de la Chopera\, 6\, Madrid\, 280
  45
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nieve
-DTSTART;TZID=Europe/Madrid:20260408T000000
-DTEND;TZID=Europe/Madrid:20260429T000000
-UID:9a1f015b4af973aa248da2e5a6d00879a7027248468f9c4d4a3e53bc842c8b17
-CATEGORIES:exhibition
-DESCRIPTION:Muestra formada por 41 obras que recrean la nieve utilizando a
- cuarela\, escultura o técnicas mixtas (Salas de Exposiciones Juana Franc
- és y Pablo Serrano. Hasta 29 abril).\n\nhttps://apintoresyescultores.es/i
- naugurada-la-exposicion-del-certamen-nieve/
-LOCATION:Madrid - Bravo Murillo\, 357\, Madrid\, 28020
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:La casa del agua. Ángel Marcos
@@ -1757,6 +1735,20 @@ DESCRIPTION:Recorrido por la obra de las artistas argentinas\, figuras des
 LOCATION:Instituto Cervantes - de Alcalá\, 49\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bienestar en la ciudad
+DTSTART;TZID=Europe/Madrid:20260423T000000
+DTEND;TZID=Europe/Madrid:20260920T000000
+UID:7690a1433a3b3a4028197b7d8b4001d378e72d7840f1cdefefcb174676af1c41
+CATEGORIES:exhibition
+DESCRIPTION:Exposición que propone una reflexión crítica acerca de las 
+ bases sobre las que se ha construido históricamente el bienestar urbano (
+ La Casa de la Arquitectura. Hasta 20 septiembre).\n\nhttps://lacasadelaarq
+ uitectura.es/recurso/bienestar-en-la-ciudad-bienestar-en-la-ciudad/62b3eeb
+ 6-68bf-4c30-bf60-e0a7f2c9cd64
+LOCATION:La Casa de la Arquitectura (Arquería de Nuevos Ministerios) - de
+  la Castellana\, 67\, Madrid\, 28046
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Fins ací (hasta aquí)
 DTSTART;TZID=Europe/Madrid:20260423T000000
 DTEND;TZID=Europe/Madrid:20260920T000000
@@ -1868,18 +1860,6 @@ DESCRIPTION:Una exposición fotográfica con más de 30 imágenes tomadas
 LOCATION:Madrid - Calle Aravaca\, 22\, Madrid\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Aurèlia Muñoz. Entes
-DTSTART;TZID=Europe/Madrid:20260429T000000
-DTEND;TZID=Europe/Madrid:20260907T000000
-UID:4854653106f20c6b0713c7f7ee9ee6257a08186bf619db50e15529270c6f96c2
-CATEGORIES:exhibition
-DESCRIPTION:Exposición que invita a recorrer la obra de la artista catala
- na\, figura destacada en el arte textil contemporáneo (Museo Reina Sofía
- . 29 abr a 7 sept).\n\nhttps://www.museoreinasofia.es/exposicion/aurelia-m
- unoz
-LOCATION:Museo Reina Sofía - de Santa Isabel\, 52\, Madrid\, 28012
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Las ingenieras domésticas y la revolución de la cocina
 DTSTART;TZID=Europe/Madrid:20260429T000000
 DTEND;TZID=Europe/Madrid:20260927T000000
@@ -1917,34 +1897,6 @@ DESCRIPTION:Rosa Muñoz presenta una videoinstalación enmarcada en la cel
  anal.com/intervenciones-artisticas/volver-a-mirar/
 LOCATION:Depósito elevado de Plaza de Castilla - de Castilla\, 9\, Madrid
  \, 28036
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Se abre el telón: En boca de artista 2
-DTSTART;TZID=Europe/Madrid:20260429T180000
-UID:a4ad06b65dae1a978fd1edfaf72b7803f737c80cf499bb3a8f3c4e9813f86fbb
-CATEGORIES:exhibition
-DESCRIPTION:Participan esta segunda entrega de En boca de artista Julia Ll
- erena \, Simón Sepúlveda \, Antonio Fernández Alvira y Elisa Pardo Puch
-  \, residentes de seis meses de la convocatoria de Artes Visuales de Madri
- d\, en conversación con el comisario Andrea Fontana y la responsable del 
- Centro de residencias Luisa Espino. La sesión comenzará con una conversa
- ción entre los artistas Julia Llerena y Simón Sepúlveda\, que compartir
- án con el comisario Andrea Fontana sus aproximaciones a la pintura\, refl
- exionando sobre vulnerabilidad y el lienzo como espacio compartido. A cont
- inuación\, Antonio Fernández Alvira y Elisa Pardo Puch hablarán de las 
- investigaciones desarrolladas en estos meses en Matadero en los que han da
- do nuevos pasos en la manera de producir sus trabajos\, investigando con m
- edios digitales\, en el caso de Antonio\, y aumentando la escala de los tr
- abajos y el alcance colaborativo de los mismos\, en el caso de Elisa. Ambo
- s ilustran con sus proyectos cómo el espacio y el contexto en el que trab
- ajan los artistas\, en este caso el de una residencia\, marca también las
-  piezas que se realizan. Bio Andrea Fontana (Italia) es curador independie
- nte. Egresado del Máster en Historia del Arte Contemporáneo y Cultura Vi
- sual del MNCARS\, ha sido codirector y curador del espacio de arte indepen
- diente La Papelería hasta finales de 2025. Su trabajo se sitúa entre la 
- crítica institucional y un posicionamiento s ite-specific .\n\nhttps://ww
- w.mataderomadrid.org/programacion/se-abre-el-telon-en-boca-de-artista-2
-LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Thomas Houseago. Esculturas. Jardín Banca March
@@ -2015,6 +1967,96 @@ LOCATION:Espacio Fundación Telefónica - de Fuencarral\, 3\, Madrid\, 280
  04
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Anatomía de un no-hecho
+DTSTART;TZID=Europe/Madrid:20260507T070000
+UID:d49f6f249d7dbe32f7f07d3d354ae18a2e6f169c571fe470c9a4acddb8b2c78a
+CATEGORIES:exhibition
+DESCRIPTION:Jueves 7 de mayo\, de 19 a 20.30h Conferencia de Martyna Mar
+ ciniak Presentación del LAB 5 La Mecánica de la Verdad (actividad abie
+ rta al público) Viernes 8 de mayo\, de 16 a 20h Sábado 9 de mayo\, de 12
+  a 20h Taller (con inscripción previa) Anatomía de un no-hecho es una 
+ introducción a los métodos de alfabetización visual necesarios para abo
+ rdar el tema de la desinformación visual. Partiendo de su experiencia co
+ mo artista\, modeladora 3D e investigadora forense\, Martyna Marciniak pre
+ senta a los participantes una serie de técnicas para identificar imágene
+ s sintéticas y sus características: desde estrategias básicas de verifi
+ cación de imágenes hasta teoría crítica de los medios y análisis visu
+ al forense. Estas habilidades se aplican a estudios de caso seleccionados\
+ , lo que permite desarrollar un vocabulario de “tropos” visuales y atr
+ ibutos estéticos asociados con las evidencias visuales y que\, al mismo t
+ iempo\, se utilizan para generar confianza. En la fase final del taller\, 
+ los participantes convertirán determinados 'deepfakes' en 'deep realities
+ ' mediante la creación de una red de nuevas imágenes que validan la fals
+ ificación original. Este ejercicio utilizará principalmente herramientas
+  analógicas en el proceso de creación de imágenes\, con el fin de resal
+ tar de forma más evidente los componentes visuales de la estética de lo 
+ (no) real: los sesgos visuales\, los errores de los medios de comunicació
+ n y las manipulaciones estilísticas. Anatomía de un no-hecho es la prime
+ ra sesión del programa de formación y creación Estudio de Sistemas \, u
+ na serie periódica de talleres\, charlas y seminarios con el objetivo de 
+ fomentar la intuición creativa y la experimentación metodológica en tor
+ no a tecnologías emergentes e inestables. Sobre Martyna Marciniak Marty
+ na Marciniak es una artista\, investigadora y diseñadora 3D polaca afinca
+ da en Berlín. Su trabajo es una exploración de la narración visual e in
+ cluye animación\, cine\, escritura y creación de maquetas digitales. En 
+ su faceta de investigadora\, utiliza la narración visual para llamar la a
+ tención sobre la violencia sistémica y los abusos contra los derechos hu
+ manos. Su práctica artística se basa en ficciones especulativas y alegor
+ ías para exponer los sesgos tecnológicos y visuales\, al tiempo que tien
+ de puentes entre los ámbitos de la estética\, el derecho\, la política 
+ y la teoría de las tecnologías de comunicación. Martyna ha trabajado c
+ on Forensic Architecture\, Amnistía Internacional y Human Rights Watc
+ h\, entre otras ONG. El grupo de investigación Border Emergency Collec
+ tive\, del que es cofundadora\, investigó y documentó historias de perso
+ nas migrantes en la frontera entre Polonia y Bielorrusia. Además\, ha sid
+ o artista residente en la Fundación Bauhaus Dessau en 2018 y en la Akade
+ mie Schloss Solitude en 2024 y será residente de transmediale (Berl
+ ín) en 2026. Su trabajo se ha expuesto en el festival Ars Electronica\,
+  la Fundación Onassis (Atenas)\, la Bienal de Varsovia\, Kinema ICON en
+  Bucarest\, Haus Gropius en Dessau y el festival deTour en Hong Kong\,
+  entre otros. Información práctica Taller gratuito con inscripción obli
+ gatoria Máximo 16 participantes más oyentes Idioma principal: inglés T
+ odas las sesiones tienen lugar en la sala Aulario (Nave 17) de Matadero Ma
+ drid Es imprescindible la asistencia durante toda la duración del taller 
+ ambos días Recomendamos traer un dispositivo personal (móvil\, tableta o
+  portátil) Inscripción al taller Formulario de inscripción Las inscripc
+ iones están abiertas hasta el día 7 de mayo. La selección de los partic
+ ipantes será por orden de inscripción. En el caso de que algunas de las 
+ personas inscritas no se presenten\, los oyentes pasarán a ser participan
+ tes según el mismo orden de solicitud de inscripción.\n\nhttps://www.mat
+ aderomadrid.org/programacion/anatomia-de-un-no-hecho
+LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ya no te da miedo\, ¿verdad?
+DTSTART;TZID=Europe/Madrid:20260507T180000
+UID:8c67f44aa64be20b15a27b1c07908a3575e4fa7b20e89dcaab8b41c6b2fa8fb0
+CATEGORIES:exhibition
+DESCRIPTION:Desde su proyecto\, Antes de que el susurro desaparezca \, Oum
+ aima Manchit Laroussi propone un espacio de lectura\, escucha y reflexión
+  a partir de leyendas de miedo que cambian con el tiempo\, memorias fragme
+ ntadas y narraciones que se transforman cada vez que se cuentan. En ese pr
+ oceso surge una pregunta central: ¿dónde termina la ficción y dónde em
+ pieza lo real? A través de estas lecturas de miedo\, protagonizadas por c
+ uerpos femeninos en territorios norafricanos\, se explorará cómo estos r
+ elatos han sido construidos y transmitidos\, muchas veces atravesados por 
+ miradas coloniales que han contribuido a generar imaginarios de miedo\, al
+ teridad y exclusión. Lejos de ser solo historias\, estas leyendas influye
+ n en la forma en que percibimos ciertos cuerpos y relaciones sociales\, ma
+ rcando límites entre lo aceptado y lo señalado. El miedo no aparece solo
+  en lo fantástico\, sino también en lo que ha sido socialmente construid
+ o como amenaza. Serán  dos sesiones en las que se combinan lectura y con
+ versación. Por un lado\, se activarán estas leyendas desde una dimensió
+ n performática\; por otro\, se abrirá un espacio de diálogo para pensar
+  qué relatos similares siguen presentes en nuestra vida cotidiana. El pro
+ yecto busca habitar ese espacio ambiguo entre memoria e invención\, enten
+ diendo el relato como un archivo vivo que no se fija\, sino que se transfo
+ rma con cada nueva escucha. > Es posible asistir solamente a una de las se
+ siones. > Actividad recomendada para público adulto.\n\nhttps://www.matad
+ eromadrid.org/programacion/ya-no-te-da-miedo-verdad
+LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Lidó Rico. L'anima non finita
 DTSTART;TZID=Europe/Madrid:20260508T000000
 DTEND;TZID=Europe/Madrid:20260531T000000
@@ -2026,6 +2068,17 @@ DESCRIPTION:Un recorrido evolutivo por la obra del artista contemporáneo
  n-finita
 LOCATION:Sala Alcalá 31 de la Comunidad de Madrid - de Alcalá\, 31\, Mad
  rid\, 28014
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tupumpum. Genealogía del reguetón
+DTSTART;TZID=Europe/Madrid:20260508T000000
+DTEND;TZID=Europe/Madrid:20260531T000000
+UID:cfac7eb8c78377bc3ba71f17e33dc6a11d2a06dd6c5c810243df147b0a22b79e
+CATEGORIES:exhibition
+DESCRIPTION:Un recorrido expositivo sobre este género musical\, desde sus
+  orígenes hasta la actualidad (La Casa Encendida. 8 a 31 mayo).\n\nhttps:
+ //www.lacasaencendida.es/exposiciones/tupumpum-genealogia-del-regueton
+LOCATION:La Casa Encendida - de Valencia\, 2\, Madrid\, 28012
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PHotoESPAÑA 2026
@@ -2040,6 +2093,235 @@ DESCRIPTION:El Festival Internacional de Fotografía y Artes Visuales cele
 LOCATION:Madrid - Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:La danza\, ¿el arte olvidado de la medicina?
+DTSTART;TZID=Europe/Madrid:20260513T100000
+UID:4a94f1dc2f87c5de8051af9b63a7d03088b6fe25514e0c903f0a376f17c2d9a0
+CATEGORIES:exhibition
+DESCRIPTION:En comparación con el deporte\, un breve buceo en internet no
+ s muestra con claridad que la medicina presta poca atención a la danza. A
+  pesar de todos los avances y las transformaciones sociales\, la mirada so
+ cial encorsetada sigue viva y es hora de alentar un nuevo cambio de perspe
+ ctiva. Por el tiempo que los profesionales del baile someten su cuerpo al 
+ ejercicio y por la tensión exigente que la competitividad inherente a su 
+ profesión les obliga\, la danza necesita una mirada y una atención nueva
+ s. Invitar a Centro Danza Matadero\, la casa de la danza en Madrid\, a hab
+ lar de danza a profesionales de la medicina y la neurociencia\, conocedore
+ s de los cuerpos de los deportistas y sus males y deficiencias\, es una ex
+ igencia ética. Porque es más que necesario y sano llamar la atención so
+ bre una realidad que afecta a miles de profesionales que necesitan un camb
+ io de visión sobre su arte y una medicina orgánica que les cuide\, como 
+ cuida a los deportistas\, porque los bailarines son deportistas y también
+  arquitectos de la belleza y de la emoción. Programa 10:00h - Un cuerpo i
+ nfinito \, por Juan Berlanga 10:10h - Presentación del encuentro: · Mart
+ a Rivera de la Cruz \, Delegada de Cultura\, Turismo y Deporte del Ayuntam
+ iento de Madrid · María Pagés y El Arbi El Harti \, Dirección Artísti
+ ca de Centro Danza Matadero 10:30h - Mesa 1: · Manuel Leyes \, médico es
+ pecializado en traumatología y cirugía ortopédica · Nazareth Castellan
+ os \, física teórica\, doctora en neurociencia e investigadora en el Dep
+ artamento de Física Médica del Hospital Clínico San Carlos · Florent C
+ heymol \, doctor en psicología clínica y psicopatología · Joaquín de 
+ Luz\, bailarín\, coreógrafo y director artístico de Veranos de la Villa
+  · Daniel Vizcayo \, docente y exbailarín · María Pagés \, bailarina\
+ , coreógrafa y directora artística de Centro Danza Matadero Modera: Arna
+ ud Mahouy \, bailarín y secretario general del Centro Coreográfico Nacio
+ nal de Biarritz 12:00h - Mesa 2: · Raúl Torres \, médico cirujano · Ar
+ naud Mahouy \, bailarín y secretario general de Centro Coreográfico Naci
+ onal de Biarritz · Àngels Margarit \, bailarina\, coreógrafa\, pedagoga
+  y curadora · Sabine Oxandaburu \, coordinadora del Institut Danse Santé
+  · Nieves Portas \, bailarina\, coreógrafa\, directora artística\, gest
+ ora cultural y docente · Juan Berlanga \, bailarín\, coreógrafo e inves
+ tigador en artes escénicas Modera: Roger Salas\, periodista especializado
+  en danza de ELPAÍS y Revista Scherzo 14:00h - Vino de despedida Sobre lo
+ s ponentes Manuel Leyes Médico con vocación de raíces familiares\, espe
+ cializado en traumatología y cirugía ortopédica. Se formó en la Univer
+ sidad de Navarra\, donde obtuvo la licenciatura y el doctorado. Su interé
+ s por el deporte lo llevó a especializarse en traumatología deportiva du
+ rante tres años en la Cleveland Clinic Foundation\, en Estados Unidos\, d
+ onde colaboró con equipos profesionales como los Cleveland Cavaliers de l
+ a NBA\, Browns de la NFL e Indians de la NBL. Además\, completó su forma
+ ción en prestigiosos hospitales de Reino Unido y EE. UU.\, incluyendo la 
+ Mayo Clinic y centros vinculados a universidades como Oxford y Cambridge. 
+ A su regreso a España\, desarrolló su carrera en instituciones como el I
+ nstitut Dexeus\, el Instituto Arriaza\, el Hospital FREMAP\, la Clínica C
+ EMTRO y actualmente lidera servicios en Olympia Quirónsalud y el Hospital
+  Universitario La Luz. Su actividad se centra en lesiones deportivas\, sie
+ ndo consultor de equipos y federaciones de alto nivel\, incluyendo el Real
+  Madrid y varias selecciones nacionales. Ha tratado a numerosos deportista
+ s de élite. También participa en sociedades científicas y ha recibido i
+ mportantes premios por su labor clínica e investigadora\, entre ellos\, e
+ l Premio Médico Interno Residente del Año\, el Premio Nacional de Invest
+ igación Clínica en Cirugía Ortopédica y Traumatología y la Antena de 
+ Oro en la categoría de ciencia concedida por la Federación de Asociacion
+ es de Radio y Televisión de España. Nazareth Castellanos Licenciada en F
+ ísica Teórica y Doctora en neurociencia por la Facultad de Medicina de l
+ a Universidad Autónoma de Madrid. Máster en Matemáticas Aplicadas a la 
+ Biología y en Neurociencias por la misma universidad. Investigadora en el
+  Departamento de Física Médica del Hospital Clínico San Carlos de Madri
+ d. Ha trabajado como investigadora en el Instituto de investigaciones cere
+ brales Max Planck de Frankfurt (Alemania)\, en el Instituto de Psiquiatrí
+ a del Kings College de Londres (Reino Unido)\, en el Centro de Tecnología
+  Biomédica de la Universidad Politécnica de Madrid\, en el centro de Neu
+ rociencia Cognitiva y Computacional de la Universidad Complutense de Madri
+ d y en la cátedra extraordinaria de mindfulness y ciencias cognitivas de 
+ la misma universidad. En 2025 co-funda la Fundación Hygeia Biomedicina de
+  la que es presidenta. Su trabajo se ha centrado en desarrollar e implemen
+ tar herramientas matemáticas para estudiar las redes cerebrales y cómo s
+ e reorganizan en casos de daño cerebral y enfermedades como el Alzheimer.
+  También investiga la relación entre el cerebro y otros órganos para en
+ tender los procesos biológicos que intervienen en la regulación emociona
+ l\, así como los efectos de la meditación y los estilos de vida sobre la
+  salud mental. Tiene más de 70 publicaciones científicas\, ha dirigido v
+ arias tesis doctorales y liderado proyectos de investigación tanto nacion
+ al como internacional. Florent Cheymol Florent Cheymol es doctor en psicol
+ ogía clínica y psicopatología y profesor universitario. Antiguo bailar
+ ín profesional formado en el Conservatorio Nacional Superior de Música y
+  Danza de París\, es actualmente psicólogo del Ballet de la Ópera de Pa
+ rís y psicólogo federal nacional de la Federación Francesa de Gimnasia.
+  Joaquín de Luz Joaquín De Luz (Madrid\, 1976) es uno de los bailarines 
+ y directores españoles más destacados del ballet internacional. Inició 
+ su formación en la escuela de Víctor Ullate y se incorporó a su compañ
+ ía entre 1992 y 1995. Fue primer bailarín en el Ballet Mediterráneo\, s
+ olista en el Pennsylvania Ballet y formó parte del American Ballet Theatr
+ e. En 2003 se incorporó al New York City Ballet. En 2019 regresó a Espa
+ ña para asumir la dirección de la Compañía Nacional de Danza y giró p
+ or China\, Francia\, Canadá y Estados Unidos. Además\, desarrolló su fa
+ ceta como coreógrafo. A lo largo de su carrera\, De Luz ha participado co
+ mo artista invitado en compañías de prestigio como el Ballet Nacional de
+  Cuba\, el San Francisco Ballet y el Teatro Stanislavsky de Moscú. Ha rec
+ ibido numerosos premios\, entre ellos la Medalla de Oro en el Concurso Nur
+ eyev\, el Benois de la Danse al mejor bailarín masculino y el Premio Naci
+ onal de Danza de España. Además\, ha participado en programas de televis
+ ión\, teatro musical\, cine y artes visuales. En la actualidad\, desarrol
+ la su labor como maestro\, coreógrafo y director a nivel internacional y 
+ recientemente ha sido nombrado director artístico de Veranos de la Villa 
+ \, uno de los festivales culturales más importantes de Madrid. Daniel Viz
+ cayo Daniel Vizcayo es docente y exbailarín formado en el Conservatorio
+  Profesional de Danza Mariemma de Madrid. Dentro de su trayectoria interna
+ cional\, ha bailado en la Ópera de Viena\, junto al Malandain Ballet Biar
+ ritz y en el Ballet Am Rhein. Está diplomado en Pedagogía de la Danza po
+ r el Conservatorio Superior de Danza  María de Ávila y postgraduado por
+  la Universidad Online a Distancia (UNIR). Actualmente\, compagina su labo
+ r profesional con su trabajo en el Conservatorio Comandante Fortea. Su enf
+ oque pedagógico trasciende la técnica académica para centrarse en la ex
+ presividad del movimiento y el gesto presente\, integrando la conciencia p
+ ersonal\, la respiración y la visualización como herramientas clave para
+  habitar la danza desde una autenticidad física y emocional. Sabine Oxand
+ aburu Sabine Oxandaburu coordina los proyectos del Institut Danse Santé\,
+  donde diseña y desarrolla sus iniciativas. El instituto se basa en una c
+ onvicción fuerte: la danza y la salud son indisociables. Por un lado\, lo
+ s bailarines tanto amateurs como profesionales\, deben beneficiarse de una
+  atención adecuada para preservar su cuerpo y su trayectoria artística. 
+ Por otro\, la danza constituye una herramienta excepcional de bienestar y 
+ prevención para la salud física y mental. Oxandaburu contribuye activame
+ nte al desarrollo del Institut Danse Santé\, convencida de que el diálog
+ o entre investigación\, creación artística y ciencias de la salud abre 
+ nuevas perspectivas para el bienestar y la práctica de la danza. Arnaud M
+ ahouy Formado en el Conservatorio Nacional de Danza de París\, inició su
+  carrera como bailarín intérprete en el Malandain Ballet Biarritz en 200
+ 5. Tras casi quince años como bailarín solista de la compañía\, ingres
+ ó en el Instituto de Estudios Políticos de París\, donde siguió una fo
+ rmación dirigida a deportistas de alto nivel en proceso de reconversión 
+ profesional. Actualmente\, Arnaud Mahouy es el Secretario General del Cent
+ ro Coreográfico Nacional – Malandain Ballet Biarritz. En el marco de su
+ s funciones dentro de este espacio\, se encarga de implementar la polític
+ a de proyección de la institución y del proyecto artístico de la direcc
+ ión. Asimismo\, desarrolla alianzas y colaboraciones con actores nacional
+ es e internacionales\, asesora a la dirección y participa en la definici
+ ón y ejecución de la estrategia de programación artística. Àngels Mar
+ garit Artista dedicada a la danza como bailarina\, coreógrafa\, pedagoga 
+ y curadora. En 1985 el espectáculo MUDANCES dio nombre a la estructura co
+ n la que desarrolló sus proyectos\, incluyendo espectáculos\, sites\, im
+ provisación\, videodanza\, instalaciones e investigación en diferentes 
+ ámbitos y formatos. Àngels Margarit/cia. MUDANCES gozó de muy buena pr
+ oyección internacional y sus creaciones estuvieron coproducidas y present
+ adas en más de 25 países. Ha sido\, además\, una de las referentes de l
+ a danza en nuestro país desde mediados de los 80. Ha colaborado con numer
+ osos artistas y ha impulsado distintos proyectos en torno a la creación\,
+  la pedagogía\, la transmisión y la difusión de la danza. Como pedagoga
+  ha contribuido a formar nuevas generaciones de bailarines en España y Eu
+ ropa\, y a introducir la danza en ámbitos educativos\, con colaboraciones
+  para diferentes instituciones. Como curadora entre otros impulsó y dirig
+ ió el TENSDANSA de 2023 al 2007 y paró temporalmente la creación para d
+ irigir el Mercat de les Flors de 2017 a 2025. Ha recibido numerosos recono
+ cimientos\, como el Premio Nacional de Danza del Ministerio de Cultura en 
+ la categoría de creación o el Chevalier des Arts et des lettres\, Minist
+ erio de Cultura de Francia. Nieves Portas Nacida en Ibiza (1983)\, es bail
+ arina\, coreógrafa\, directora artística\, gestora cultural y docente. S
+ e forma oficialmente en el Real Conservatorio Profesional de Danza Mariemm
+ a\, en el Conservatorio Superior de Danza María de Avila y en la Universi
+ dad Rey Juan. Es Premio Art Jove de Danza Española 2007 (Govern de les Il
+ les Balears) y 2º Premio en el XV Certamen de Coreografía de Danza Espa
+ ñola y Flamenco. En el plano artístico ha sido bailarina de múltiples c
+ ompañías\, producciones teatrales y de zarzuela\, y programas de televis
+ ión\, así como coreógrafa y directora artística de diversos espectácu
+ los propios o independientes. En el plano docente ha sido profesora del Co
+ nservatori Professional de Música i Dansa d'Eivissa i Formentera Catalina
+  Bufí\, y en la actualidad es profesora del Conservatori Professional de 
+ Música i Dansa de Mallorca. En el área de la gestión cultural ha sido C
+ oordinadora de Danza del Consell Insular d’Eivissa y promotora del DID a
+  Eivissa. Actualmente\, es directora de la Fundació Teatre Principal de M
+ aó donde lidera la gestión del teatro de ópera en activo más antiguo d
+ e España. Es\, además\, miembro de la Academia de las Artes Escénicas d
+ e España. Juan Berlanga Martos Juan Berlanga (Úbeda\, 1990) es bailarín
+ \, coreógrafo e investigador en artes escénicas. Su trayectoria se sitú
+ a en la intersección entre la danza\, las artes visuales y la investigaci
+ ón escénica. Se formó en el Conservatorio Profesional de Danza Mariemma
+  de Madrid y amplió su formación con una Licenciatura en Bellas Artes y 
+ un Máster en Diseño por la Universidad Complutense de Madrid. En 2025 ob
+ tuvo el Doctorado en Bellas Artes con Sobresaliente Cum Laude\, con una in
+ vestigación centrada en Ezio Frigerio que ha influido profundamente en su
+  visión del espacio\, la imagen y el cuerpo en escena. Desde 2019 forma p
+ arte del Ballet Nacional de España\, donde ha desarrollado una destacada 
+ carrera como solista y primer bailarín. En 2023 fundó la Cía. Juan Berl
+ anga\, impulsando un lenguaje propio que combina danza española\, contemp
+ oraneidad y una fuerte dimensión visual. Entre sus obras recientes destac
+ an EZ: Más allá del Renacimiento y JUANCABALLO . En 2025 recibió la Bec
+ a Leonardo de la Fundación BBVA para desarrollar El salto de Butes \, pro
+ yecto seleccionado en 2026 en la I Convocatoria de Residencias Artísticas
+  de Centro Danza Matadero. María Pagés María Pagés es coreógrafa\, di
+ rectora de escena y directora artística de Centro Danza Matadero. De orig
+ en catalán\, sevillana de nacimiento y madrileña de adopción\, esta cre
+ adora iconoclasta ha llevado la cultura española a los mejores teatros de
+ l mundo\, aunando danza y compromiso social. Es reconocida internacionalme
+ nte por su personal concepto estético de la danza flamenca\, que la entie
+ nde como el paradigma cultura orgánico que mejor expresa la contemporanei
+ dad artística española. Ha conquistado un lugar propio en el panorama de
+  la danza mundial\, utilizando los códigos fundamentales del lenguaje fla
+ menco e investigando dentro y fuera del mismo. Si hay algo que defina su 
+ creatividad poliédrica es su arraigado sentido ético de la cultura. Pag
+ és es Premio Princesa de Asturias de las Artes 2022\, Premio Nacional de 
+ Danza (Creación)\, Medalla de Oro al Mérito en las Bellas Artes\, Premio
+  Cultura de la Comunidad de Madrid\, Medalla de la Ciudad de Sevilla. Los 
+ diez premios Giraldillo de la Bienal de Flamenco de Sevilla la confirman c
+ omo una coreógrafa española imprescindible. Sus obras coreográficas sup
+ eran los estereotipos y las diferencias culturales y fomentan el diálogo 
+ entre los lenguajes. Ha creado más de 30 obras escénicas\, entre las que
+  cabe mencionar El perro andaluz. Burlerías \, La tirana \, Flamenco Repu
+ blic \, Autorretrato \, Flamenco Republik \, Sevilla\, Dunas \, Utopía \,
+  Yo \, Carmen \, Óyeme con los ojos \, Una oda al tiempo \, Paraíso de l
+ os negros y De Scheherazade . Roger Salas Roger Salas Pascual (Cuba\, 1950
+ )\, reside en Europa desde 1982\, primero en Milán y después en Madrid. 
+ Tras sus primeros estudios en instituciones religiosas\, siguió una forma
+ ción básicamente autodidacta en La Habana. Recibió enseñanzas de piano
+ \, diseño industrial\, pintura y escultura. Es crítico de danza y ballet
+  del periódico El País\, donde ejerce desde hace 42 años\; corresponsal
+  en España de la revista internacional trilingüe Ballet2000\; ocupa la s
+ ección Danza de la revista musical Scherzo y escribe estudios coréuticos
+  para la publicación musical Excelentia. Es\, además\, profesor-fundador
+  del Máster del Instituto Complutense de Ciencias Musicales. Fue Asesor E
+ jecutivo de Danza del Ministerio de Cultura\; codirigió el Festival Madri
+ d en Danza y por el 250º aniversario de Francisco de Goya escribió el li
+ breto y diseñó Goya Divertissement\, coreografiada por José Antonio Rui
+ z en el Ballet del Teatro Mariinski (San Petersburgo). En el Teatro de La 
+ Zarzuela\, participó en la idea de Goya en la Danza\, con músicas de Gra
+ nados\, Albéniz y Nieto. Fue director Artístico de Danza del Auditórium
+  de Roma y del Festival Equilibrio\, y ha realizado trabajos de escenograf
+ ía y vestuario para teatros y compañías de Europa y América.\n\nhttps:
+ //www.mataderomadrid.org/programacion/la-danza-el-arte-olvidado-de-la-medi
+ cina
+LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Azkarate vs Azkarate. Isabel Azkarate (PHotoESPAÑA 2026)
 DTSTART;TZID=Europe/Madrid:20260514T000000
 DTEND;TZID=Europe/Madrid:20260628T000000
@@ -2051,6 +2333,57 @@ DESCRIPTION:La artista confronta su archivo fotográfico con nuevas imáge
  e.es/exposicion/azkarate-vs-azkarate/
 LOCATION:Espacio Cultural Serrería Belga - de la Alameda\, 15\, Madrid\, 
  28014
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EXPOSICIÓN ‘PULGAR’ de Mónica Mays
+DTSTART;TZID=Europe/Madrid:20260524T170000
+UID:357b236b21424b7306aae8875210bf467aec2f46003574be149e030da5dc06fc
+CATEGORIES:exhibition
+DESCRIPTION:Pulgar es la primera muestra individual de Mónica Mays en una
+  institución española. Concebida para la Nave 0 de Matadero Madrid\, la 
+ exposición se articula como un ensamblaje de objetos e historias que acti
+ va relaciones entre resto y transmisión. Mays investiga cómo afecto\, vi
+ olencia y deseo circulan a través del mito y la materia. Sus obras no bus
+ can representar ni explicar\, sino sostener formas de contacto con aquello
+  que resiste ser traducido. Componentes industriales conviven con fragment
+ os domésticos\, materiales orgánicos y elementos ligados a lo ritual. Es
+ tas combinaciones encarnan tensiones entre economía material y vida afect
+ iva en configuraciones exuberantes e inquietantes. El antiguo Matadero res
+ uena con esta lógica. Fue infraestructura de gestión de cuerpos y residu
+ os\; los recorridos de las reses hacia las curtidurías dejaron rastros de
+  sangre que dieron nombre a El Rastro\, mercado de objetos usados. Ese tr
+ ánsito entre sacrificio\, resto y circulación material atraviesa la expo
+ sición. Un trasfondo de catolicismo material aparece como tecnología del
+  cuerpo. Mays incorpora bancos y reclinatorios de iglesias vaciadas: super
+ ficies desgastadas por fricción repetida que funcionan como archivos tác
+ tiles. Dialogan con prácticas medievales de devoción descritas por Elvia
+  Wilk\, centradas en la contemplación de heridas y la proximidad imaginar
+ ia al cuerpo sangrante. En Mays\, la herida ya no es divina\, pero si estr
+ uctural. Las esculturas surgen de tensiones físicas: gravedad\, presión\
+ , combustión. Pieles\, ceras y resinas se extienden sobre intercambiadore
+ s de calor\, introduciendo una imagen de relación sin fusión. Siguiendo 
+ la idea de ensamblaje\, las partes conservan identidad mientras producen j
+ untas una situación común. Estructuras de cartón\, pallets y espejos so
+ stienen las piezas\, evidenciando operaciones de clasificación y valor. L
+ a luz de farolas de sodio retiradas del espacio urbano genera una atmósfe
+ ra entre lo industrial y lo devocional\, donde la visibilidad se vuelve pa
+ rcial. Algunas obras se encapsulan en jaulas de Faraday\, donde protecció
+ n y encierro se confunden. Pulgar funciona como una máquina escénico-mat
+ erial. No narra\; produce una situación perceptiva. Las formas se sostien
+ en en equilibrios precarios\, entre atracción y repulsión. La apertura c
+ omo herida\, como lugar de paso\, insiste en que lo interior y lo exterior
+  nunca estuvieron realmente separados. Lo que está dentro ya está fuera\
+ , y lo que está fuera ya ha penetrado. Mónica Mays (1990\, España) vive
+  y trabaja en Madrid. Su práctica artística abarca la escultura y la ins
+ talación\, entrelazando la autobiografía\, el proceso material y el arch
+ ivo histórico. Sus piezas se componen de ensamblajes que adoptan la forma
+  de objetos domésticos animados que se desbordan\, se distorsionan o se e
+ ncuentran en proceso de transmutación. Inspirándose en el horror corpora
+ l católico y la iconografía barroca\, ha trabajado con el exceso\, la or
+ namentación y la exuberancia como estados en los que pueden existir el in
+ termedio y la opacidad del significad\n\nhttps://www.mataderomadrid.org/pr
+ ogramacion/exposicion-pulgar-de-monica-mays
+LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ewa Juszkiewicz

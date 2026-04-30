@@ -2,67 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:eSCena x Migra la food – Hallacas: Ritual y Memoria
-DTSTART;TZID=Europe/Madrid:20260429T190000
-DTEND;TZID=Europe/Madrid:20260429T203000
-UID:422df8c78a10bf77959202bd9f5e404e149a1aed8c7440a3453298c7a66cc251
-CATEGORIES:theater
-DESCRIPTION:eSCena x Migra la food\n\n\, es un encuentro performático don
- de el alimento es el eje conductor de un relato de migración. En este for
- mato\, lxs invitadxs comparten su historia a través de una propuesta que 
- entrelaza ritual\, arte y música.\n\nLa conversación se sostiene desde e
- l cuidado\, así como desde lo social\, político y ambiental\, permitiend
- o además que el público forme parte activa de la experiencia.\n\nDurante
-  el encuentro\, se activa el archivo personal de lxs invitadxs: un desplie
- gue de fotografías\, vídeos\, objetos y recetas que\n\nemanan de su prop
- ia vivencia.\n\nSon\n\nhuellas\n\nde arraigo y desarraigo que\, a través 
- del alimento\, reivindican y honran su origen.\n\neSCena es una ofrenda vi
- va que invita a lxs asistentes no solo a presenciar\, sino a implicarse\, 
- sentir y\, finalmente\, custodiar el conocimiento compartido.\n\n​EN EST
- A SEGUNDA SESIÓN:\n\n​Invitadas: Sofía y Rosalba\, madre e hija (Venez
- uela).\n\nSofía y Rosalba se especializan en realizar trabajos artístico
- -culinarios de archivo y conversación en torno a una mesa tradicional de 
- elaboración de hallacas\, donde se recrean y activan las conversaciones d
- el pasado\, traídas al presente migrante a través del diálogo entre mad
- re e hija.\n\nMigra la food es una plataforma creativa\, experimental de c
- ocinas migrantes\n\nque investiga\, conecta y activa la relación entre el
-  alimento\, el arte\, la cultura y la migración.\n\nDesde el acompañamie
- nto y el cuidado\, abraza los saberes de las guardianas de la memoria: las
-  cocineras y activistas culturales. Migra la food es nieta\, madre e hija\
- ; es creativa\, estratega\, productora\, artista e investigadora. Es\, ant
- e todo\, migrante.\n\nhttps://www.infinitodelicias.com/es/agenda/escena-x-
- migra-la-food-todas-vuelven
-LOCATION:Sala Marina - C. de Juana Dona\, 5\, Arganzuela\, 28045 Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Guayominí
-DTSTART;TZID=Europe/Madrid:20260429T193000
-DTEND;TZID=Europe/Madrid:20260517T183000
-UID:fb2dc857668957f5d7d1d47ee18f558122fdd59002bd0dd5cf3e9b964fb195ba
-CATEGORIES:theater
-DESCRIPTION:Entradas disponibles desde 15.75€ | Tags: JOBO\n\nhttps://ti
- enda.madrid-destino.com/es/nave-10/guayomini/
-LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Paramnesia. (La vida que recuerdo)
-DTSTART;TZID=Europe/Madrid:20260429T193000
-UID:f80d43a805d4ea4507c265e6995c58a9e76dbafd0cf77973427d9342687c4a48
-CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 18 plazas!\n\nhttps://teatrodelbarrio.com/par
- amnesia-la-vida-que-recuerdo/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Encerrona de Pepe Viyuela
-DTSTART;TZID=Europe/Madrid:20260429T213000
-UID:4e7c2d95c9478ff1ce19bdd651693f3671fcc7f156a2b138899bbc1620f9cea0
-CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 1 plazas!\n\nhttps://teatrodelbarrio.com/pepe
- -viyuela-encerrona/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Dramas\, risas y culos: Homenaje a la más Divertristisima\, Marta
   Plaza.
 DTSTART;TZID=Europe/Madrid:20260430T183000
@@ -71,6 +10,16 @@ CATEGORIES:theater
 DESCRIPTION:Localidades agotadas\n\nhttps://teatrodelbarrio.com/dramas-ris
  as-y-culos-homenaje-a-la-mas-divertristisima-marta-plaza/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Guayominí
+DTSTART;TZID=Europe/Madrid:20260430T193000
+DTEND;TZID=Europe/Madrid:20260517T183000
+UID:fb2dc857668957f5d7d1d47ee18f558122fdd59002bd0dd5cf3e9b964fb195ba
+CATEGORIES:theater
+DESCRIPTION:Entradas disponibles desde 15.75€ | Tags: JOBO\n\nhttps://ti
+ enda.madrid-destino.com/es/nave-10/guayomini/
+LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gordas\, lisiadas y mamarrachas

@@ -345,18 +345,6 @@ DESCRIPTION:Muestra que se centra en los noticiarios y documentales NO-DO
 LOCATION:Filmoteca Española - de la Magdalena\, 10\, Madrid\, 28012
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:De Monet a Kandinski. Arte revolucionario
-DTSTART;TZID=Europe/Madrid:20251205T000000
-DTEND;TZID=Europe/Madrid:20260429T000000
-UID:f7333d0a5233605941b71ed80b356531d5f74eedbc2cf88377e1cb18970f6da4
-CATEGORIES:exhibition
-DESCRIPTION:Experiencia que reúne los movimientos artísticos más inf
- luyentes de finales del siglo XIX y principios del XX: impresionismo\, pun
- tillismo\, posimpresionismo\, cubismo y expresionismo (Nomad Museo\n\nhttp
- s://www.nomadmuseo.es/
-LOCATION:Nomad Museo Inmersivo - Gran Vía\, 78\, Madrid\, 28013
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Trenes históricos
 DTSTART;TZID=Europe/Madrid:20251205T000000
 DTEND;TZID=Europe/Madrid:20271231T000000
@@ -382,6 +370,19 @@ DESCRIPTION:El artista aragonés expone varias pinturas\, esculturas y dib
  tfmt=default&vgnextoid=ab18a1ead63ab010VgnVCM100000d90ca8c0RCRD&vgnextchan
  nel=8ef1bbef60841810VgnVCM1000001d4a900aRCRD&idCapitul
 LOCATION:Museo de Historia - de Fuencarral\, 78\, Madrid\, 28004
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oriol Maspons
+DTSTART;TZID=Europe/Madrid:20251217T000000
+DTEND;TZID=Europe/Madrid:20260614T000000
+UID:86a14a38cc9379110a6f480e1e95754a0ddd89d1a39bcbf60980decb1815a708
+CATEGORIES:exhibition
+DESCRIPTION:Selección de obras del fotógrafo español considerado uno d
+ e los más activos e influyentes fotógrafos de la Escuela de Barcelona (
+ Real Academia de Bellas Artes de San Fernando.\n\nhttps://www.realacademia
+ bellasartessanfernando.com/actividades/exposiciones/oriol-maspons/
+LOCATION:Real Academia de Bellas Artes de San Fernando - de Alcalá\, 13\,
+  Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:75 años de la Colección Marañón: el origen del Fondo Antiguo d
@@ -1331,17 +1332,6 @@ LOCATION:Espacio Cultural Serrería Belga - de la Alameda\, 15\, Madrid\,
  28014
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Moby Dick. The Dream of Captain Ahab
-DTSTART;TZID=Europe/Madrid:20260402T000000
-DTEND;TZID=Europe/Madrid:20260429T000000
-UID:873d82899cd90ca0b1656851046865bfc80929e642d1031d3eac802abcf1726c
-CATEGORIES:exhibition
-DESCRIPTION:Muestra del artista Esteban Ruiz inspirada en la novela de He
- rman Melville\, que reúne obras que reinterpretan el universo simbólico
-  de la ballena blanca (Centro Cultural\n\nhttps://mobydicksite.com/
-LOCATION:Centro Cultural Casa de Vacas - de Colombia\, 1\, Madrid\, 28009
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Te regalo una guerra
 DTSTART;TZID=Europe/Madrid:20260402T000000
 DTEND;TZID=Europe/Madrid:20260507T000000
@@ -1369,18 +1359,6 @@ DESCRIPTION:Muestra que rinde homenaje al poeta madrileño\, una de las vo
  on-y-diversas-actividades/
 LOCATION:Centro Cultural Casa del Reloj - de la Chopera\, 6\, Madrid\, 280
  45
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nieve
-DTSTART;TZID=Europe/Madrid:20260408T000000
-DTEND;TZID=Europe/Madrid:20260429T000000
-UID:9a1f015b4af973aa248da2e5a6d00879a7027248468f9c4d4a3e53bc842c8b17
-CATEGORIES:exhibition
-DESCRIPTION:Muestra formada por 41 obras que recrean la nieve utilizando a
- cuarela\, escultura o técnicas mixtas (Salas de Exposiciones Juana Franc
- és y Pablo Serrano. Hasta 29 abril).\n\nhttps://apintoresyescultores.es/i
- naugurada-la-exposicion-del-certamen-nieve/
-LOCATION:Madrid - Bravo Murillo\, 357\, Madrid\, 28020
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:La casa del agua. Ángel Marcos
@@ -1696,6 +1674,20 @@ DESCRIPTION:Recorrido por la obra de las artistas argentinas\, figuras des
 LOCATION:Instituto Cervantes - de Alcalá\, 49\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bienestar en la ciudad
+DTSTART;TZID=Europe/Madrid:20260423T000000
+DTEND;TZID=Europe/Madrid:20260920T000000
+UID:7690a1433a3b3a4028197b7d8b4001d378e72d7840f1cdefefcb174676af1c41
+CATEGORIES:exhibition
+DESCRIPTION:Exposición que propone una reflexión crítica acerca de las 
+ bases sobre las que se ha construido históricamente el bienestar urbano (
+ La Casa de la Arquitectura. Hasta 20 septiembre).\n\nhttps://lacasadelaarq
+ uitectura.es/recurso/bienestar-en-la-ciudad-bienestar-en-la-ciudad/62b3eeb
+ 6-68bf-4c30-bf60-e0a7f2c9cd64
+LOCATION:La Casa de la Arquitectura (Arquería de Nuevos Ministerios) - de
+  la Castellana\, 67\, Madrid\, 28046
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Fins ací (hasta aquí)
 DTSTART;TZID=Europe/Madrid:20260423T000000
 DTEND;TZID=Europe/Madrid:20260920T000000
@@ -1807,18 +1799,6 @@ DESCRIPTION:Una exposición fotográfica con más de 30 imágenes tomadas
 LOCATION:Madrid - Calle Aravaca\, 22\, Madrid\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Aurèlia Muñoz. Entes
-DTSTART;TZID=Europe/Madrid:20260429T000000
-DTEND;TZID=Europe/Madrid:20260907T000000
-UID:4854653106f20c6b0713c7f7ee9ee6257a08186bf619db50e15529270c6f96c2
-CATEGORIES:exhibition
-DESCRIPTION:Exposición que invita a recorrer la obra de la artista catala
- na\, figura destacada en el arte textil contemporáneo (Museo Reina Sofía
- . 29 abr a 7 sept).\n\nhttps://www.museoreinasofia.es/exposicion/aurelia-m
- unoz
-LOCATION:Museo Reina Sofía - de Santa Isabel\, 52\, Madrid\, 28012
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Las ingenieras domésticas y la revolución de la cocina
 DTSTART;TZID=Europe/Madrid:20260429T000000
 DTEND;TZID=Europe/Madrid:20260927T000000
@@ -1918,6 +1898,17 @@ DESCRIPTION:Un recorrido evolutivo por la obra del artista contemporáneo
  n-finita
 LOCATION:Sala Alcalá 31 de la Comunidad de Madrid - de Alcalá\, 31\, Mad
  rid\, 28014
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tupumpum. Genealogía del reguetón
+DTSTART;TZID=Europe/Madrid:20260508T000000
+DTEND;TZID=Europe/Madrid:20260531T000000
+UID:cfac7eb8c78377bc3ba71f17e33dc6a11d2a06dd6c5c810243df147b0a22b79e
+CATEGORIES:exhibition
+DESCRIPTION:Un recorrido expositivo sobre este género musical\, desde sus
+  orígenes hasta la actualidad (La Casa Encendida. 8 a 31 mayo).\n\nhttps:
+ //www.lacasaencendida.es/exposiciones/tupumpum-genealogia-del-regueton
+LOCATION:La Casa Encendida - de Valencia\, 2\, Madrid\, 28012
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PHotoESPAÑA 2026
