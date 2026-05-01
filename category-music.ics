@@ -2,37 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Monstruo Laberinto
-DTSTART;TZID=Europe/Madrid:20260430T210000
-UID:7a3497c01b8920e10b6ce55f07831a0acd107dc0e974dc03f7d424edd882f85c
-CATEGORIES:music
-DESCRIPTION:Concierto / Rock\n\nhttps://salavillanos.es/evento/monstruo-la
- berinto/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mala Gestión
-DTSTART;TZID=Europe/Madrid:20260430T210000
-UID:10c4dbeb245f6881631326340e83cd5b9140470ec575b9656d6f8379d0ad3760
-CATEGORIES:music
-DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://dice.fm/event/xe7p93-mal
- a-gestin-en-sound-isidro-30th-apr-la-riviera-madrid-tickets
-LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
- id
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Los Buenos Valedores + Santi Cañete
-DTSTART;TZID=Europe/Madrid:20260430T210000
-UID:8c57229b6d8358b475562c7f2d95f2e84df68b6bc79cfd68770bc298f4a209d7
-CATEGORIES:music
-DESCRIPTION:Precio de las entradas: 12€/15€ Entradas a la venta en mov
- ingtickets Bio/enlaces bandas: Los Buenos Valedores_instagram SANTI CAÑET
- E Santi Cañete_facebook + Santi Cañete_instagram Más información: Los 
- Buenos Valedores son Kevin Sabariego voz y\n\nhttps://gruta77.com/events/l
- os-buenos-valedores/var/ri-0.l-L2
-LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Fiesta Tropical Del Cine Peruano
 DTSTART;TZID=Europe/Madrid:20260501T203000
 UID:d9fe1eef013182882766715ca3de543ecdc7320d534f60900ddfdd641eaabd99
@@ -620,6 +589,35 @@ DESCRIPTION:Precio de las entradas: 13€/15€ Entradas a la venta en ent
  be + Poetas Puestos_spotify + Poetas Puestos_X Terapia Colectiva_intagram 
  Más información: Poetas Puestos: El grupo más maldito\n\nhttps://gruta7
  7.com/events/poetas-puestos-terapia-colectiva/var/ri-0.l-L2
+LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ryan Harris
+DTSTART;TZID=Europe/Madrid:20260530T210000
+UID:28943b7557ad11c74548573667c1c47eccca78b0f2cd6f0b14e532ebcf671459
+CATEGORIES:music
+DESCRIPTION:Concierto / Pop / World Music & Folk\n\nhttps://salavillanos.e
+ s/evento/ryan-harris/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dewolff + Israel Nash
+DTSTART;TZID=Europe/Madrid:20260530T210000
+UID:2a252f22ae809dbb9c9c74f9d51a15b6533a76cb5e12baa6e8e7733e142e6972
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://feverup.com/m/519683
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zig Zags (EEUU) + Stainless Madness
+DTSTART;TZID=Europe/Madrid:20260530T213000
+UID:974233041c8b77b204a7cf5b8cda8c419d6560782a377d20681ab52e2c12a47f
+CATEGORIES:music
+DESCRIPTION:Precio de las entradas: 18€/23€ Entradas a la venta en ent
+ radium Bio/enlaces bandas: Zig Zags_facebook + Zig Zags_instagram Stainles
+ s Madness_instagram Más información: Zig\n\nhttps://gruta77.com/events/z
+ ig-zags-eeuu-stainless-madness/var/ri-0.l-L2
 LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
 END:VEVENT
 END:VCALENDAR
