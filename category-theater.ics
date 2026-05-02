@@ -2,22 +2,22 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Guayominí
-DTSTART;TZID=Europe/Madrid:20260501T193000
-DTEND;TZID=Europe/Madrid:20260517T183000
-UID:fb2dc857668957f5d7d1d47ee18f558122fdd59002bd0dd5cf3e9b964fb195ba
-CATEGORIES:theater
-DESCRIPTION:Entradas disponibles desde 15.75€ | Tags: JOBO\n\nhttps://ti
- enda.madrid-destino.com/es/nave-10/guayomini/
-LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:La rabia es nuestra
 DTSTART;TZID=Europe/Madrid:20260502T130000
 UID:f33e607c20d70a3569de4629b22f6d3e333303eaa95dfeb0cf8f0ce60edf5880
 CATEGORIES:theater
 DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/la-rabia-es-nuestra/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Guayominí
+DTSTART;TZID=Europe/Madrid:20260502T193000
+DTEND;TZID=Europe/Madrid:20260517T183000
+UID:fb2dc857668957f5d7d1d47ee18f558122fdd59002bd0dd5cf3e9b964fb195ba
+CATEGORIES:theater
+DESCRIPTION:Entradas disponibles desde 15.75€ | Tags: JOBO\n\nhttps://ti
+ enda.madrid-destino.com/es/nave-10/guayomini/
+LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LÖTÒ. Un ritual de emancipación corporal
@@ -53,8 +53,8 @@ SUMMARY:¡Ay\, Carmela!
 DTSTART;TZID=Europe/Madrid:20260504T193000
 UID:791a0b819d77aba2ad3819959c8785bd9473124a9889807e22600820e1c1d658
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 1 plazas!\n\nhttps://teatrodelbarrio.com/ay-c
- armela/
+DESCRIPTION:Localidades agotadas\n\nhttps://teatrodelbarrio.com/ay-carmela
+ /
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -158,7 +158,8 @@ SUMMARY:Saúl y la noche
 DTSTART;TZID=Europe/Madrid:20260509T193000
 UID:531474ce13735752d2a2375861f3019f25861398a889bbe2184eca75b83ed09b
 CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/saul-y-la-noche/
+DESCRIPTION:¡Ya solo quedan 23 plazas!\n\nhttps://teatrodelbarrio.com/sau
+ l-y-la-noche/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -522,6 +523,30 @@ BEGIN:VEVENT
 SUMMARY:La Ferni
 DTSTART;TZID=Europe/Madrid:20260530T221500
 UID:53e6cddcbf35880b975d97b0f52aed761d0c90b3cd328a6d7a2416386fe7d203
+CATEGORIES:theater
+DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/la-ferni/
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mi madre muerta
+DTSTART;TZID=Europe/Madrid:20260531T130000
+UID:e28afba626fc1145d4d738a2bf2c7f3c909a53d34133e6d7827f197589062910
+CATEGORIES:theater
+DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/mi-madre-muerta/
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Miss cosas y yo
+DTSTART;TZID=Europe/Madrid:20260531T180000
+UID:9ff75ee3e745915034671fcc45a74729d987e968f60e919203ce77f28a092888
+CATEGORIES:theater
+DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/miss-cosas-y-yo/
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Ferni
+DTSTART;TZID=Europe/Madrid:20260531T203000
+UID:e5bb5027efa41910b2449382ece99aaffc6a762fe6495cf4426cd5c116778239
 CATEGORIES:theater
 DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/la-ferni/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
