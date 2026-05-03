@@ -2,33 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:La rabia es nuestra
-DTSTART;TZID=Europe/Madrid:20260502T130000
-UID:f33e607c20d70a3569de4629b22f6d3e333303eaa95dfeb0cf8f0ce60edf5880
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/la-rabia-es-nuestra/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Guayominí
-DTSTART;TZID=Europe/Madrid:20260502T193000
-DTEND;TZID=Europe/Madrid:20260517T183000
-UID:fb2dc857668957f5d7d1d47ee18f558122fdd59002bd0dd5cf3e9b964fb195ba
-CATEGORIES:theater
-DESCRIPTION:Entradas disponibles desde 15.75€ | Tags: JOBO\n\nhttps://ti
- enda.madrid-destino.com/es/nave-10/guayomini/
-LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LÖTÒ. Un ritual de emancipación corporal
-DTSTART;TZID=Europe/Madrid:20260502T193000
-UID:60a5fe6bf1d970a426ec7a89f6962873b41683dbd3e03fd4deb97ab004804980
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/loto-un-ritual-de-em
- ancipacion-corporal/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:LÖTÒ. Un ritual de emancipación corporal
 DTSTART;TZID=Europe/Madrid:20260503T180000
 UID:b03a767c8ac8acbf3c2c40dcb37cf74b997ab993f595e587e3fbda67133463fc
@@ -36,6 +9,16 @@ CATEGORIES:theater
 DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/loto-un-ritual-de-em
  ancipacion-corporal/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Guayominí
+DTSTART;TZID=Europe/Madrid:20260503T193000
+DTEND;TZID=Europe/Madrid:20260517T183000
+UID:fb2dc857668957f5d7d1d47ee18f558122fdd59002bd0dd5cf3e9b964fb195ba
+CATEGORIES:theater
+DESCRIPTION:Entradas disponibles desde 15.75€ | Tags: JOBO\n\nhttps://ti
+ enda.madrid-destino.com/es/nave-10/guayomini/
+LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lectura Capitán Barrio: Los trabajos de las mujeres\, de 
@@ -250,6 +233,15 @@ UID:e7f2ba165142a698ebb67914ae1a59aa3a069cda4f262017fbd43a605e0ad5d4
 CATEGORIES:theater
 DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/los-arboles-no-votan
  /
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VideoForum #15años15M. Lo que quedó abierto tras el 15M
+DTSTART;TZID=Europe/Madrid:20260512T190000
+UID:bef71720666e70a1defe5767a837fd77f1da4b6bade1a25b6af766c0cfcf0b48
+CATEGORIES:theater
+DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/videoforum-15anos15m
+ -lo-que-quedo-abierto-tras-el-15m/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
