@@ -2,15 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:La Orquesta Quirimbombo: Homenaje A La Salsa Dura
-DTSTART;TZID=Europe/Madrid:20260503T200000
-UID:5a1894648c35e827c90a48470b685c844b624781f68a4dac5be0b69eff23146e
-CATEGORIES:music
-DESCRIPTION:Concierto / Latin\n\nhttps://salavillanos.es/evento/la-orquest
- a-quirimbombo-homenaje-a-la-salsa-dura/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Miguel - Caos Tour
 DTSTART;TZID=Europe/Madrid:20260504T210000
 UID:0fb848a0391c0f85e161e46a1135b85c277047cb4e65224e4c48bc4c9d20396b
@@ -610,5 +601,14 @@ DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://www.entradas.com/event/r
  ata-blanca-gira-espana-2026-sala-la-riviera-20771997/?affiliate=RIV
 LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
  id
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Dip
+DTSTART;TZID=Europe/Madrid:20260602T203000
+UID:67a5c68c098bf631fff2235961bac86613f6284b2088b44a1742ead870e97566
+CATEGORIES:music
+DESCRIPTION:Concierto / Villanos del Jazz\n\nhttps://salavillanos.es/event
+ o/the-dip/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 END:VCALENDAR

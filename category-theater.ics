@@ -2,25 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:LÖTÒ. Un ritual de emancipación corporal
-DTSTART;TZID=Europe/Madrid:20260503T180000
-UID:b03a767c8ac8acbf3c2c40dcb37cf74b997ab993f595e587e3fbda67133463fc
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/loto-un-ritual-de-em
- ancipacion-corporal/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Guayominí
-DTSTART;TZID=Europe/Madrid:20260503T193000
-DTEND;TZID=Europe/Madrid:20260517T183000
-UID:fb2dc857668957f5d7d1d47ee18f558122fdd59002bd0dd5cf3e9b964fb195ba
-CATEGORIES:theater
-DESCRIPTION:Entradas disponibles desde 15.75€ | Tags: JOBO\n\nhttps://ti
- enda.madrid-destino.com/es/nave-10/guayomini/
-LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Club de lectura Capitán Barrio: Los trabajos de las mujeres\, de 
  Elisabeth Wayland Barber
 DTSTART;TZID=Europe/Madrid:20260504T190000
@@ -49,6 +30,16 @@ CATEGORIES:theater
 DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/pederastas-dejemos-d
  e-mirar-para-otro-lado-presentacion-del-dossier-especial-de-la-marea/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Guayominí
+DTSTART;TZID=Europe/Madrid:20260505T193000
+DTEND;TZID=Europe/Madrid:20260517T183000
+UID:fb2dc857668957f5d7d1d47ee18f558122fdd59002bd0dd5cf3e9b964fb195ba
+CATEGORIES:theater
+DESCRIPTION:Entradas disponibles desde 15.75€ | Tags: JOBO\n\nhttps://ti
+ enda.madrid-destino.com/es/nave-10/guayomini/
+LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Saúl y la noche
@@ -141,8 +132,8 @@ SUMMARY:Saúl y la noche
 DTSTART;TZID=Europe/Madrid:20260509T193000
 UID:531474ce13735752d2a2375861f3019f25861398a889bbe2184eca75b83ed09b
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 23 plazas!\n\nhttps://teatrodelbarrio.com/sau
- l-y-la-noche/
+DESCRIPTION:¡Ya solo quedan 8 plazas!\n\nhttps://teatrodelbarrio.com/saul
+ -y-la-noche/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
