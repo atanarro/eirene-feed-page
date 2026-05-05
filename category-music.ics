@@ -2,16 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Miguel - Caos Tour
-DTSTART;TZID=Europe/Madrid:20260504T210000
-UID:0fb848a0391c0f85e161e46a1135b85c277047cb4e65224e4c48bc4c9d20396b
-CATEGORIES:music
-DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://www.livenation.es/event/
- miguel-caos-tour-madrid-tickets-edp1630147
-LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
- id
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Melendi
 DTSTART;TZID=Europe/Madrid:20260505T200000
 UID:dafc48677fbb7fcfddda3ef3539b816443f6c1647d000a8226b933dd362cab26
@@ -37,15 +27,6 @@ DESCRIPTION:Pocas personas han resultado tan influyentes como José Iges (
 LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mi Amigo Invencible
-DTSTART;TZID=Europe/Madrid:20260506T210000
-UID:936e86757c9d10eb502fd8b524a64caaa7ab32f007091eae986a274e05def565
-CATEGORIES:music
-DESCRIPTION:Concierto / Pop / Rock\n\nhttps://salavillanos.es/evento/mi-am
- igo-invencible/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Sanguijuelas del Guadiana (Tercera Fecha)
 DTSTART;TZID=Europe/Madrid:20260506T210000
 UID:52fc810613f8cb247abba4839863e7e2c86442b7b7d4e3ef8c9607c8681e9e94
@@ -55,6 +36,15 @@ DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://www.enterticket.es/event
  yo-935583
 LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
  id
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mi Amigo Invencible
+DTSTART;TZID=Europe/Madrid:20260506T213000
+UID:06e1b97be7b038d03f8ddda2495979289fcb697852fcdaa20d6bd99bdadd51c3
+CATEGORIES:music
+DESCRIPTION:Concierto / Pop / Rock\n\nhttps://salavillanos.es/evento/mi-am
+ igo-invencible/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MATTEO MANCUSO Route96 Tour
@@ -333,6 +323,16 @@ DESCRIPTION:Concierto / Jazz\n\nhttps://salavillanos.es/evento/festival-de
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Cultura Viva x Palestina y UNRWA
+DTSTART;TZID=Europe/Madrid:20260520T200000
+UID:9668466941206be582b58064cb0a34fd6886c0e57d8af0ea85373ab29bb3e98d
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 18:30 Horas\n\nhttps://www.entradas.com/arti
+ st/cultura-viva/?affiliate=ADE
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ginel Presenta Borde Vivo + Mauro Samaniego
 DTSTART;TZID=Europe/Madrid:20260520T201500
 UID:7c71760114eba0ff8e89f0586fbbd8771763bd1cc91146caeafd136c55883347
@@ -509,6 +509,22 @@ UID:b76a5bf3b45a8de347bfbf7befb049a5c0ffe718aff6f2c31124c5883763d09c
 CATEGORIES:music
 DESCRIPTION:Concierto / Rock\n\nhttps://salavillanos.es/evento/luback/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rap en La Mirador Vol.3
+DTSTART;TZID=Europe/Madrid:20260528T203000
+UID:09958a88efd1d59421bb8c8a0b2e95dbb5bb5dd74c71530e6366b7ac7f9e9471
+CATEGORIES:music
+DESCRIPTION:Rap en La Mirador Vol.3\n\nLa Sala Mirador acoge la tercera e
+ dición de "Rap en la Mirador"\, un encuentro donde tres poderosas artista
+ s del panorama nacional del rap compartirán flow y rimas:\n\nCarolina Tre
+ boada\, Lashe\, Ángela Tiriri Dj Soro. Presentada por\n\nCelia Bsoul\n\n\
+ , la velada acercará al público a estas tres propuestas donde el rap tom
+ a una mirada escénica. Como cierre\, habrá un breve micro abierto donde 
+ se dará espacio a otras voces\, viajando de lo íntimo a lo colectivo par
+ a celebrar la música y la palabra.\n\nhttps://lamirador.com/funcion?nombr
+ e=rap-en-la-mirador-vol-3-2026
+LOCATION:Sala Mirador - Calle Doctor Fourquet\, 31\, 28012 Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Enol

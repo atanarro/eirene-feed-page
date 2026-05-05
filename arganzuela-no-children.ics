@@ -74,6 +74,17 @@ DESCRIPTION:Exposición que reúne en formato audiovisual una selección d
 LOCATION:CentroCentro - de Cibeles\, 1\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Animals
+DTSTART;TZID=Europe/Madrid:20251029T000000
+DTEND;TZID=Europe/Madrid:20260630T000000
+UID:49669b8a86953c84c1ed1336a4efb3bfcb16dbd6cb5877463e370c3345798a68
+CATEGORIES:exhibition
+DESCRIPTION:Una selección de 22 retratos de la fotógrafa y activista Ele
+ na de Castro que combinan sensibilidad y compromiso (Matadero Madrid. Hast
+ a 30 Junio).\n\nhttps://www.mataderomadrid.org/programacion/animals
+LOCATION:Matadero Madrid - de Legazpi\, 8\, Madrid\, 28045
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Diálogos de escultura ibérica. El Museo del Louvre en el MAN
 DTSTART;TZID=Europe/Madrid:20251118T000000
 DTEND;TZID=Europe/Madrid:20260510T000000
@@ -84,6 +95,19 @@ DESCRIPTION:Obras maestras del Museo del Louvre dialogan por primera vez c
  ay).\n\nhttps://www.man.es/man/exposicion/exposiciones-temporales/20251118
  -escultura-iberica-louvre-man.html
 LOCATION:Museo Arqueológico Nacional - de Serrano\, 13\, Madrid\, 28001
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:“El Prado en femenino III”. La reina Isabel de Farnesio (1692-
+ 1766)
+DTSTART;TZID=Europe/Madrid:20251201T000000
+DTEND;TZID=Europe/Madrid:20260524T000000
+UID:5f494435546e471f60464c8d823f708391fa32543954eda486a0b83d7ab7f32c
+CATEGORIES:exhibition
+DESCRIPTION:Un recorrido por la decisiva huella de las mujeres en la forma
+ ción del Prado durante el siglo XVIII (Museo del Prado. Hasta 24 may).\n\
+ nhttps://www.museodelprado.es/actualidad/exposicion/el-prado-en-femenino-i
+ ii-promotoras-artisticas-de/3f7ed688-956b-487f-957b-6a377fbeffd1
+LOCATION:Museo del Prado - del Prado\, s/n\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Naturaleza de asfalto. Madrid hiperrealista. José Miguel Palacio
@@ -162,6 +186,18 @@ DESCRIPTION:Un espacio de reflexión de C. S. Leyva donde arte e historia
 LOCATION:Real Jardín Botánico - de Murillo\, 2\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:De Babel al último rey de Iraq: una civilización milenaria
+DTSTART;TZID=Europe/Madrid:20260129T000000
+DTEND;TZID=Europe/Madrid:20260510T000000
+UID:d6855d91270850bf77368e9ab0b8d94f6e335e2acee53c0a01c93d6c059b2ae9
+CATEGORIES:exhibition
+DESCRIPTION:Las obras del artista iraquí Hanoos Hanoos reflexionan sobre 
+ el poder\, la violencia y la fragilidad humana (Casa Árabe. Hasta 10 mayo
+ ).\n\nhttps://casaarabe.es/eventos-arabes/show/de-babel-al-ultimo-rey-de-i
+ raq-una-civilizacion-milenaria
+LOCATION:Casa Árabe - de Alcalá\, 62\, Madrid\, 28009
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Fundación. Marlon de Azambuja
 DTSTART;TZID=Europe/Madrid:20260130T000000
 DTEND;TZID=Europe/Madrid:20260927T000000
@@ -172,6 +208,19 @@ DESCRIPTION:Instalación escultórica del artista visual brasileño en la
  ta 27 sept).\n\nhttps://www.lacasaencendida.es/exposiciones/fundacion-marl
  on-de-azambuja
 LOCATION:La Casa Encendida - de Valencia\, 2\, Madrid\, 28012
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Migrar. Historias de Movimiento\, Pertenencia y Transformación
+DTSTART;TZID=Europe/Madrid:20260203T000000
+DTEND;TZID=Europe/Madrid:20260901T000000
+UID:6e1533cc29d478d35c20379939a562ae65c156154c9cfe70098e3dedc687ed5b
+CATEGORIES:exhibition
+DESCRIPTION:Muestra que analiza distintas experiencias de migración y des
+ plazamiento a través de objetos e imágenes (Museo Nacional de Antropolog
+ ía. A partir 3 febrero).\n\nhttps://www.esmadrid.com/agenda/migrar-histor
+ ias-movimiento-pertenencia-transformacion-museo-nacional-antropologia
+LOCATION:Museo Nacional de Antropología - de Alfonso XII\, 68\, Madrid\, 
+ 28014
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rauschenberg: Express. En movimiento
@@ -222,6 +271,19 @@ DESCRIPTION:Retrospectiva de la trayectoria del artista\, figura clave de
  ofía. Hasta 8 jun).\n\nhttps://www.museoreinasofia.es/exposicion/alberto-
  greco
 LOCATION:Museo Reina Sofía - de Santa Isabel\, 52\, Madrid\, 28012
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bellezas del mundo flotante
+DTSTART;TZID=Europe/Madrid:20260212T000000
+DTEND;TZID=Europe/Madrid:20260531T000000
+UID:3e14f7e30890ffbd91debe51c7a332206d87b39c558a496d4951eb11f6bac798
+CATEGORIES:exhibition
+DESCRIPTION:La edad de oro del grabado japonés entre finales del siglo XV
+ III y mediados del XIX protagoniza esta exposición (Real Academia Bellas 
+ Artes San Fernando. Hasta 31 mayo).\n\nhttps://www.realacademiabellasartes
+ sanfernando.com/actividades/exposiciones/bellezas-del-mundo-flotante/
+LOCATION:Real Academia de Bellas Artes de San Fernando - de Alcalá\, 13\,
+  Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:La casa de las artes. Abierta desde 1926
@@ -349,19 +411,6 @@ DESCRIPTION:Exposición que presenta un recorrido por la obra y vida de la
 LOCATION:Casa del Lector (Matadero) - de la Chopera\, 14\, Madrid\, 28045
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pedagogías de guerra. Roman Khimei & Yarema Malashchuk
-DTSTART;TZID=Europe/Madrid:20260303T000000
-DTEND;TZID=Europe/Madrid:20260621T000000
-UID:62b5cec47fa66eade5e20ff17d288c89e374e0fc4e571ac0dbb516e1f21e8560
-CATEGORIES:exhibition
-DESCRIPTION:Los jóvenes artistas ucranianos exploran con sus fotografía
- s cómo la invasión rusa a gran escala de Ucrania ha reorganizado el espa
- cio público (Museo Nacional Thyssen-Bornemisza.\n\nhttps://www.museothys
- sen.org/exposiciones/khimei-malashchuk-pedagogias-guerra
-LOCATION:Museo Nacional Thyssen-Bornemisza - del Prado\, 8\, Madrid\, 2801
- 4
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ecos de la moda romántica
 DTSTART;TZID=Europe/Madrid:20260304T000000
 DTEND;TZID=Europe/Madrid:20260607T000000
@@ -397,6 +446,57 @@ DESCRIPTION:Varios artistas\, colectivos y activistas participan en divers
  n la ciudad\, en las instituciones y en la vida colectiva (\n\nhttps://www
  .circulobellasartes.com/exposiciones/la-lechuza-de-minerva/
 LOCATION:Círculo de Bellas Artes - de Alcalá\, 42\, Madrid\, 28014
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Guercino y sus heroínas bíblicas
+DTSTART;TZID=Europe/Madrid:20260316T000000
+DTEND;TZID=Europe/Madrid:20260614T000000
+UID:3e9a3ab4dc5ca83af24c15b8fa0189271af5516df95addfa10c4cc25749e9bcc
+CATEGORIES:exhibition
+DESCRIPTION:Pequeña muestra que presenta un conjunto de obras de Giovanni
+  Francesco Barbieri\, figura clave de la pintura barroca (Museo Nacional T
+ hyssen-Bornemisza. Hasta 14 jun).\n\nhttps://www.museothyssen.org/exposici
+ ones/guercino-heroinas-biblicas
+LOCATION:Museo Nacional Thyssen-Bornemisza - del Prado\, 8\, Madrid\, 2801
+ 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Libros a la calle para los pequeños y jóvenes lectores
+DTSTART;TZID=Europe/Madrid:20260319T000000
+DTEND;TZID=Europe/Madrid:20260617T000000
+UID:e40908ff9a943fa6cfb89eaccde247605b29b29cb2cdf78ee561915edeb4c229
+CATEGORIES:exhibition
+DESCRIPTION:Exposición al aire libre que destaca la importancia de la lec
+ tura entre el público más joven (Casa del Lector. Hasta 17 junio).\n\nht
+ tps://casalector.fundaciongsr.org/libros-a-la-calle-para-los-pequenos-y-jo
+ venes-lectores/
+LOCATION:Casa del Lector (Matadero) - de la Chopera\, 14\, Madrid\, 28045
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Un instante atrapado en bronce: patrimonio recuperado
+DTSTART;TZID=Europe/Madrid:20260324T000000
+DTEND;TZID=Europe/Madrid:20261025T000000
+UID:e17142fd5b6bf10be8f2b9b67a6ef31abca1b9e25093331e91611ea6fea3c3a2
+CATEGORIES:exhibition
+DESCRIPTION:Dos excepcioales grupos escultóricos elaborados en bronce vue
+ lven al patrimonio arqueológico español y se pueden conocer en esta mues
+ tra (Museo Arqueológico Nacional. Hasta 25 octubre).\n\nhttps://www.man.e
+ s/man/exposiciones/exposiciones-temporales-en-exposicion-permanente/202604
+ 24-instante-atrapado-bronce.html
+LOCATION:Museo Arqueológico Nacional - de Serrano\, 13\, Madrid\, 28001
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La historia no se repite\, pero rima. Dumile Feni: Guernica africa
+ no
+DTSTART;TZID=Europe/Madrid:20260325T000000
+DTEND;TZID=Europe/Madrid:20260922T000000
+UID:b50b3b7e80bb1039536feaf1082f54ea2cd4edecc5dfd8d6666c2487679f697a
+CATEGORIES:exhibition
+DESCRIPTION:Exposición que invita a reflexionar sobre las semejanzas y di
+ ferencias del Guernica de Picasso con esta obra sudafricana (Museo Reina S
+ ofía. Hasta 22 sept).\n\nhttps://www.museoreinasofia.es/exposicion/la-his
+ toria-no-se-repite-pero-rima-dumile-feni-guernica-africano
+LOCATION:Museo Reina Sofía - de Santa Isabel\, 52\, Madrid\, 28012
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:El Banquete Quemado de Rosalía Banet
@@ -460,6 +560,96 @@ DESCRIPTION:Del 25 de marzo al 26 de mayo\n\n‘El banquete quemado’ o
 LOCATION:Espacio Gradas - C. de Juana Dona\, 5\, Arganzuela\, 28045 Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Por los caminos del mapa de la espiritualidad: el arte manuscrito 
+ armenio
+DTSTART;TZID=Europe/Madrid:20260326T000000
+DTEND;TZID=Europe/Madrid:20260621T000000
+UID:380907c76a0147498a74c926e642633c185a21ec2660393fa278794968f0df38
+CATEGORIES:exhibition
+DESCRIPTION:Aproximación a la cultura\, historia y creencias armenias a t
+ ravés de estas pinturas en miniatura de incalculable valor y belleza (Bib
+ lioteca Nacional. Hasta 21 jun).\n\nhttps://www.bne.es/es/agenda/caminos-m
+ apa-espiritualidad-arte-manuscrito-armenio
+LOCATION:Biblioteca Nacional - de Recoletos\, 20 - 22\, Madrid\, 28071
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La precisión del tiempo. Relojes del siglo XIX en las Colecciones
+  Reales
+DTSTART;TZID=Europe/Madrid:20260326T000000
+DTEND;TZID=Europe/Madrid:20260920T000000
+UID:6a7b3d9c87ec67e2a3b7ae2c5797ab05aedbe6787aa2868c6666aed8e201750f
+CATEGORIES:exhibition
+DESCRIPTION:Pequeña muestra compuesta por algunos de los relojes adquirid
+ os por Isabel II y Fernando VII a lo largo de sus reinados (Galería de la
+ s Colecciones Reales. Hasta 20 sept).\n\nhttps://www.galeriadelascoleccion
+ esreales.es/exposicion/la-precision-del-tiempo-relojes-del-siglo-xix-en/f4
+ 89013a-1a5f-e3d3-4791-345d41ad626f
+LOCATION:Galería de las Colecciones Reales - de Bailén\, 8\, Madrid\, 28
+ 013
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brotes
+DTSTART;TZID=Europe/Madrid:20260327T000000
+DTEND;TZID=Europe/Madrid:20260531T000000
+UID:f0a1ff64b06ef764719af18785f5cf3ddb38155c59f64f2918acce881752be97
+CATEGORIES:exhibition
+DESCRIPTION:Las esculturas de Federico Gómez Álvarez invitan a reflexion
+ ar sobre la relación entre el ser humano y el mundo arbóreo (Real Jardí
+ n Botánico. Hasta 31 may).\n\nhttps://rjb.csic.es/evento/exposicion-brote
+ s/
+LOCATION:Real Jardín Botánico - de Murillo\, 2\, Madrid\, 28014
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Soy Asurbanipal\, rey del mundo\, rey de Asiria
+DTSTART;TZID=Europe/Madrid:20260409T000000
+DTEND;TZID=Europe/Madrid:20261004T000000
+UID:9701576afa9dd5348303dc3312e139df32d740b2aa98756739538f39ae00f993
+CATEGORIES:exhibition
+DESCRIPTION:Muestra que ofrece un recorrido por la vida e influencia de la
+  figura de uno de los hombres más poderosos de su época (CaixaForum Madr
+ id. 9 abr a 4 oct).\n\nhttps://caixaforum.org/es/madrid/p/soy-asurbanipal_
+ a173667669
+LOCATION:CaixaForum Madrid - del Prado\, 36\, Madrid\, 28014
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exposición Pelo de tormenta - Homenaje a Francisco Nieva
+DTSTART;TZID=Europe/Madrid:20260410T000000
+DTEND;TZID=Europe/Madrid:20260719T000000
+UID:8cb26d0864cc3ea5889daf2c65b89e800e45cce0f529368d6aa4a3f76b54a30d
+CATEGORIES:exhibition
+DESCRIPTION:Muestra que conmemora los diez años del fallecimiento del au
+ tor y los 29 años del estreno de una de sus obras más emblemáticas (F
+ ernán Gómez Centro Cultural de la Villa.\n\nhttps://www.teatrofernangome
+ z.es/actividades/exposicion-pelo-de-tormenta-homenaje-francisco-nieva
+LOCATION:Fernán Gómez Centro Cultural de la Villa - de Colón \, 4\, Mad
+ rid\, 28001
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El universo del artista ante la cámara
+DTSTART;TZID=Europe/Madrid:20260413T000000
+DTEND;TZID=Europe/Madrid:20260705T000000
+UID:42c862cba63d01bbb4a7a1601a46fc9eab5dd91d18cb864caea90a6696dd9cdf
+CATEGORIES:exhibition
+DESCRIPTION:Exposición que analiza el impacto de la fotografía desde su 
+ aparición en el siglo XIX como una nueva disciplina artística (Museo del
+  Prado. Hasta 5 jul).\n\nhttps://www.museodelprado.es/actualidad/exposicio
+ n/el-universo-del-artista-ante-la-camara/b581a759-4ab0-b459-f3d4-8168c8492
+ 3f2
+LOCATION:Museo del Prado - del Prado\, s/n\, Madrid\, 28014
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Clima\, cuerpo\, placer. Arquitectura y tipologías climáticas
+DTSTART;TZID=Europe/Madrid:20260416T000000
+DTEND;TZID=Europe/Madrid:20260528T000000
+UID:06db31fee65d39b1067dc45fa1e3dffe57e9295ea545893d82771ab403994e54
+CATEGORIES:exhibition
+DESCRIPTION:Exposición que incide en la interacción entre los edificios 
+ y el entorno\, para fomentar el bienestar en su interior\, sin ceder al he
+ rmetismo (COAM. Hasta 28 mayo).\n\nhttps://www.coam.org/actualidad-agenda-
+ coam-clima-cuerpo-placer-arquitectura-y-tipologias-climaticas/
+LOCATION:COAM - de Hortaleza\, 63\, Madrid\, 28004
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Súper Zines 2026
 DTSTART;TZID=Europe/Madrid:20260416T000000
 DTEND;TZID=Europe/Madrid:20260531T000000
@@ -509,468 +699,54 @@ DESCRIPTION:La fotoperiodista venezolana muestra varias fotografías tomad
 LOCATION:Casa de América - de Cibeles\, 2\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Incontrolable
-DTSTART;TZID=Europe/Madrid:20260504T155000
-UID:f635e3049e3864ce0230b154724eb7cf5d36472f541525fbed8229fda90019c1
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 120 min
- utos | No recomendada para menores de 12 años\n\nRelease year: 2006\n\nOr
- iginal language: FR\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/106676
- 5/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+SUMMARY:Vitrina CERO. ¿Verdadero o falso? La ficción de la autenticidad 
+ en las falsificaciones del siglo XIX
+DTSTART;TZID=Europe/Madrid:20260421T000000
+DTEND;TZID=Europe/Madrid:20260712T000000
+UID:c436f41e75df8c1a214aeeb7aa371cde532091e1ec06c5e9757a068cea19c7fd
+CATEGORIES:exhibition
+DESCRIPTION:Pequeña muestra de varias piezas falsas o de dudosa autentici
+ dad que forman parte de la colección del museo (Museo Arqueológico Nacio
+ nal. Hasta 12 jul).\n\nhttps://www.man.es/man/exposiciones/vitrina0/202604
+ 14-vitrina0-verdadero-o-falso.html
+LOCATION:Museo Arqueológico Nacional - de Serrano\, 13\, Madrid\, 28001
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Todo Lo Que Fuimos
-DTSTART;TZID=Europe/Madrid:20260504T155000
-UID:5a077932283068541d6387f9171b2dacb9069847bd7d4a603c2dce24faa39ef2
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 145 min
- utos | No recomendada para menores de 16 años\n\nOriginal title: اللي
-  باقي منك\n\nRelease year: 2025\n\nOriginal language: AR\n\nAudio: 
- VOSE\n\nhttps://www.pillalas.com/pase/1066764/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+SUMMARY:El cuadro del hambre
+DTSTART;TZID=Europe/Madrid:20260427T000000
+DTEND;TZID=Europe/Madrid:20260913T000000
+UID:e82da132ca3fc4ba0a59a067bac73efab474c1efc265a2222332b2fdc6cfac21
+CATEGORIES:exhibition
+DESCRIPTION:Muestra que analiza la historia y el significado de la obra El
+  año del hambre de Madrid (1818) de José Aparicio (Museo del Prado. Hast
+ a 13 sept).\n\nhttps://www.museodelprado.es/actualidad/exposicion/el-cuadr
+ o-del-hambre/ae843d4d-f554-b78d-c990-6ccfbff81871
+LOCATION:Museo del Prado - del Prado\, s/n\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Calle Málaga
-DTSTART;TZID=Europe/Madrid:20260504T160000
-UID:fb834cdab00968dfc5070727a7c87f20a1c741bc1e5c2cd7e487b7e2f6e5979b
-CATEGORIES:cinema
-DESCRIPTION:Versión Original Castellano | Duración 116 minutos | No reco
- mendada para menores de 12 años\n\nRelease year: 2025\n\nOriginal languag
- e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1066704/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+SUMMARY:Aurèlia Muñoz. Entes
+DTSTART;TZID=Europe/Madrid:20260429T000000
+DTEND;TZID=Europe/Madrid:20260907T000000
+UID:4854653106f20c6b0713c7f7ee9ee6257a08186bf619db50e15529270c6f96c2
+CATEGORIES:exhibition
+DESCRIPTION:Exposición que invita a recorrer la obra de la artista catala
+ na\, figura destacada en el arte textil contemporáneo (Museo Reina Sofía
+ . 29 abr a 7 sept).\n\nhttps://www.museoreinasofia.es/exposicion/aurelia-m
+ unoz
+LOCATION:Museo Reina Sofía - de Santa Isabel\, 52\, Madrid\, 28012
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:La Isla De Amrum
-DTSTART;TZID=Europe/Madrid:20260504T160000
-UID:3acff1c20b74f85d6566739fcd1f1cba2ac4a881a4e388d081d9cd4782657edc
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 93 minu
- tos | No recomendada para menores de 12 años\n\nOriginal title: Amrum\n\n
- Release year: 2025\n\nOriginal language: DE\n\nAudio: VOSE\n\nhttps://www.
- pillalas.com/pase/1066820/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El Sonido De La Caída
-DTSTART;TZID=Europe/Madrid:20260504T161000
-UID:a5db130bc37a9ae96503fffd198946b74f4ecf29572e40cc6c67369710516f6e
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 154 min
- utos | No recomendada para menores de 16 años\n\nOriginal title: In die S
- onne schauen\n\nRelease year: 2025\n\nOriginal language: DE\n\nAudio: VOSE
- \n\nhttps://www.pillalas.com/pase/1066766/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Michael
-DTSTART;TZID=Europe/Madrid:20260504T173000
-DTEND;TZID=Europe/Madrid:20260504T193700
-UID:4d088746e5b50e60c754b1e6220bca05ed0f47c39e6d6124300db983473ab231
-CATEGORIES:cinema
-DESCRIPTION:Muestra el viaje de Michael Jackson más allá de la música\,
-  desde el descubrimiento de su extraordinario talento como líder de los J
- ackson Five hasta convertirse en una visionaria estrella cuya ambición cr
- eativa despertó un incansable afán por consagrarse como el mayor icono d
- e la industria del entretenimiento.\n\nRelease year: 2026\n\nOriginal lang
- uage: EN\n\nAudio: Doblada ES\n\nhttps://cinesembajadores.es/pelicula/mich
- ael-doblada-al-espanol/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Un poeta
-DTSTART;TZID=Europe/Madrid:20260504T173000
-DTEND;TZID=Europe/Madrid:20260504T193000
-UID:95c18368de720148f8e921ae21ab97c5bb66b38957912655805d3737bd021f13
-CATEGORIES:cinema
-DESCRIPTION:La obsesión de Óscar Restrepo por la poesía no le ha report
- ado ninguna gloria. Envejecido y errático\, ha sucumbido al tópico del p
- oeta en la sombra. Conocer a Yurlady\, una adolescente de origen humilde\,
-  y ayudarla a cultivar su talento trae algo de luz a sus días\, pero arra
- strarla al mundo de la poesía quizá no sea el camino.\n\nRelease year: 2
- 025\n\nOriginal language: ES\n\nhttps://cinesembajadores.es/pelicula/un-po
- eta/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El diablo viste de Prada 2
-DTSTART;TZID=Europe/Madrid:20260504T175000
-DTEND;TZID=Europe/Madrid:20260504T195000
-UID:e77948ceb74882668f5d37a267adc26bd9018b7050423c98f12c8cd4199428b4
-CATEGORIES:cinema
-DESCRIPTION:Sigue la lucha de Miranda Priestly contra Emily Charlton\, su 
- ex asistente convertida en ejecutiva rival\, mientras compiten por los ing
- resos por publicidad en medio de la decadencia de los medios impresos y Mi
- randa se acerca a la jubilación.\n\nOriginal title: The Devil Wears Prada
-  2\n\nRelease year: 2026\n\nOriginal language: EN\n\nAudio: Doblada ES\n\n
- https://cinesembajadores.es/pelicula/el-diablo-viste-de-prada-2-doblada-al
- -espanol/?ciudad=madrid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Los justos
-DTSTART;TZID=Europe/Madrid:20260504T175000
-DTEND;TZID=Europe/Madrid:20260504T192000
-UID:ccd3ce0c4358e904b22f3705b9e40e02bac96a65e403f4a3aaca93825b9c7c33
-CATEGORIES:cinema
-DESCRIPTION:Nueve miembros de un jurado popular deliberan aislados un pol
- émico caso de corrupción. Las pruebas son irrefutables\, la opinión pú
- blica ya ha emitido su veredicto\, nadie parece tener dudas... Hasta que r
- eciben una oferta en secreto: cada integrante ganará un millón de euros 
- si cambia su voto de culpable a inocente. Pero si quieren entrar en el jue
- go\, deberán alcanzar la unanimidad\; algo que sacará a la luz las verda
- deras causas pendientes de cada uno de los miembros del jurado.\n\nRelease
-  year: 2026\n\nOriginal language: ES\n\nhttps://cinesembajadores.es/pelicu
- la/los-justos/?ciudad=madrid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Calle Málaga
-DTSTART;TZID=Europe/Madrid:20260504T175000
-DTEND;TZID=Europe/Madrid:20260504T194600
-UID:063af2448bdcf913186a751375cb70f7af35ff6fdf55f89eb7914db6412e33f1
-CATEGORIES:cinema
-DESCRIPTION:María Ángeles (Carmen Maura) es una española de 79 años qu
- e vive sola en Tánger\, en el norte de Marruecos\, donde disfruta de su c
- iudad y de su vida diaria. Su vida da un giro cuando su hija Clara (Marta 
- Etura) llega desde Madrid para vender el apartamento en el que siempre ha 
- vivido. Decidida a quedarse en la ciudad que la vio crecer\, hará todo lo
-  posible para mantener su hogar y recuperar los objetos de toda una vida. 
- Por el camino\, redescubre\, contra todo pronóstico\, el amor y el deseo.
- \n\nRelease year: 2025\n\nOriginal language: ES\n\nhttps://cinesembajadore
- s.es/pelicula/calle-malaga/?ciudad=madrid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Todo Lo Que Fuimos
-DTSTART;TZID=Europe/Madrid:20260504T175000
-UID:0c4ff01099463616ddb33a52188a3e892a89fb5ccb785ec27678810617954e4e
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 145 min
- utos | No recomendada para menores de 16 años\n\nOriginal title: اللي
-  باقي منك\n\nRelease year: 2025\n\nOriginal language: AR\n\nAudio: 
- VOSE\n\nhttps://www.pillalas.com/pase/1066821/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Altas capacidades
-DTSTART;TZID=Europe/Madrid:20260504T180000
-DTEND;TZID=Europe/Madrid:20260504T194100
-UID:4f0b67823186100d7c7de7168865856bee0b17e03256c544450e58105e23ea4e
-CATEGORIES:cinema
-DESCRIPTION:Alicia y Gonzalo\, una pareja de clase media\, se encuentran c
- on la oportunidad de matricular a su hijo Fer en un colegio laico de élit
- e. Para los padres supone asomar la cabeza en la clase alta\, nuevas amist
- ades\, mayores ingresos\, ventajas incontables. Dicen hacerlo por su hijo.
-  En esta maravillosa contradicción entre los miedos y los principios mora
- les\, las aspiraciones de la pareja se llevarán por delante lo que\, hast
- a entonces\, creían incuestionable.\n\nRelease year: 2026\n\nOriginal lan
- guage: ES\n\nhttps://cinesembajadores.es/pelicula/altas-capacidades/?ciuda
- d=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Incontrolable
-DTSTART;TZID=Europe/Madrid:20260504T180500
-UID:f2024373761acc133720e93e7c10d864162b7b4d380dbc4e7b10f566771241d7
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 120 min
- utos | No recomendada para menores de 12 años\n\nRelease year: 2006\n\nOr
- iginal language: FR\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/106676
- 7/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Calle Málaga
-DTSTART;TZID=Europe/Madrid:20260504T181500
-UID:e6432ddded60f618a7ee15bf790b6540ad72c1cf74f71457e10395459ae581fe
-CATEGORIES:cinema
-DESCRIPTION:Versión Original Castellano | Duración 116 minutos | No reco
- mendada para menores de 12 años\n\nRelease year: 2025\n\nOriginal languag
- e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1066705/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Isla De Amrum
-DTSTART;TZID=Europe/Madrid:20260504T183000
-UID:764f3b282bacfa4415ff20a8d2fbc505cc80b652b2aabe5730067f92190ed09b
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 93 minu
- tos | No recomendada para menores de 12 años\n\nOriginal title: Amrum\n\n
- Release year: 2025\n\nOriginal language: DE\n\nAudio: VOSE\n\nhttps://www.
- pillalas.com/pase/1066768/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Club de lectura Capitán Barrio: Los trabajos de las mujeres\, de 
- Elisabeth Wayland Barber
-DTSTART;TZID=Europe/Madrid:20260504T190000
-UID:aea24e90f762081d476550098396057ca4a4ec314319b4e0ff44c8671bd5a4e0
-CATEGORIES:theater
-DESCRIPTION:Programación en Teatro del Barrio\n\nhttps://teatrodelbarrio.
- com/club-de-lectura-capitan-barrio-los-trabajos-de-las-mujeres-de-elisabet
- h-wayland-barber/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El Sonido De La Caída
-DTSTART;TZID=Europe/Madrid:20260504T190500
-UID:513329c03f0ae7a4f83deb74681e18537a4044330c11136da9a1869893c18836
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 154 min
- utos | No recomendada para menores de 16 años\n\nOriginal title: In die S
- onne schauen\n\nRelease year: 2025\n\nOriginal language: DE\n\nAudio: VOSE
- \n\nhttps://www.pillalas.com/pase/1066769/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:¡Ay\, Carmela!
-DTSTART;TZID=Europe/Madrid:20260504T193000
-UID:791a0b819d77aba2ad3819959c8785bd9473124a9889807e22600820e1c1d658
-CATEGORIES:theater
-DESCRIPTION:Localidades agotadas\n\nhttps://teatrodelbarrio.com/ay-carmela
- /
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Resurrection
-DTSTART;TZID=Europe/Madrid:20260504T194000
-DTEND;TZID=Europe/Madrid:20260504T222000
-UID:16ab7bd8ceeebb8bae0e88bd01785a96cdda7b4ccf5a367a17fa3d2dc58d375a
-CATEGORIES:cinema
-DESCRIPTION:En un mundo donde la humanidad ha perdido la capacidad de soñ
- ar\, una criatura sigue fascinada por las ilusiones que se desvanecen del 
- mundo onírico. Este monstruo\, a la deriva en la ensoñación\, se aferra
-  a visiones que nadie más puede ver… hasta que aparece una mujer. Dotad
- a del raro poder de percibir estas ilusiones tal como son\, decide adentra
- rse en los sueños del monstruo\, decidida a descubrir la verdad que se oc
- ulta en su interior.\n\nOriginal title: 狂野时代\n\nRelease year: 2025
- \n\nOriginal language: ZH\n\nAudio: VOSE\n\nhttps://cinesembajadores.es/pe
- licula/resurrection-vose/?ciudad=madrid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Michael
-DTSTART;TZID=Europe/Madrid:20260504T195000
-DTEND;TZID=Europe/Madrid:20260504T215700
-UID:d37d0483a956b9f9b04c33e7b3fa9efaecfdf80e309cf9b3f052ffb58d9f83d0
-CATEGORIES:cinema
-DESCRIPTION:Muestra el viaje de Michael Jackson más allá de la música\,
-  desde el descubrimiento de su extraordinario talento como líder de los J
- ackson Five hasta convertirse en una visionaria estrella cuya ambición cr
- eativa despertó un incansable afán por consagrarse como el mayor icono d
- e la industria del entretenimiento.\n\nRelease year: 2026\n\nOriginal lang
- uage: EN\n\nAudio: VOSE\n\nhttps://cinesembajadores.es/pelicula/michael-vo
- se/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Grazia
-DTSTART;TZID=Europe/Madrid:20260504T200000
-DTEND;TZID=Europe/Madrid:20260504T221200
-UID:073f69480a98242d69c3f0a51a2e13dec2862ff7599bbe568c3f96abc7bd3753
-CATEGORIES:cinema
-DESCRIPTION:Mariano De Santis\, presidente (ficiticio) de la República it
- aliana\, es un veterano político demócrata\, humanista y católico\, que
-  de repente comienza a dudar sobre varias importantes decisiones que debe 
- tomar\, en especial sobre si aprueba o no una ley de eutanasia\, planteán
- dose un gran dilema moral.\n\nRelease year: 2025\n\nOriginal language: IT\
- n\nAudio: VOSE\n\nhttps://cinesembajadores.es/pelicula/la-grazia-vose/?ciu
- dad=madrid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Un poeta
-DTSTART;TZID=Europe/Madrid:20260504T200000
-DTEND;TZID=Europe/Madrid:20260504T220000
-UID:5d8b5f538ad0e8700a4dfffc0b54f0bb22a5310d77e2973b2c53fc221beeb1e4
-CATEGORIES:cinema
-DESCRIPTION:La obsesión de Óscar Restrepo por la poesía no le ha report
- ado ninguna gloria. Envejecido y errático\, ha sucumbido al tópico del p
- oeta en la sombra. Conocer a Yurlady\, una adolescente de origen humilde\,
-  y ayudarla a cultivar su talento trae algo de luz a sus días\, pero arra
- strarla al mundo de la poesía quizá no sea el camino.\n\nRelease year: 2
- 025\n\nOriginal language: ES\n\nhttps://cinesembajadores.es/pelicula/un-po
- eta/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Incontrolable (I swear)
-DTSTART;TZID=Europe/Madrid:20260504T200000
-DTEND;TZID=Europe/Madrid:20260504T220000
-UID:b42635d2ba25fdc5d27963fe50f3a9966373057e21127e64795d357354dcea9d
-CATEGORIES:cinema
-DESCRIPTION:La historia real de John Davidson. Diagnosticado con Tourette 
- a los 15 años\, señalado como loco por sus compañeros\, luchó con una 
- condición que pocos habían presenciado. Ya adulto\, hizo campaña en fav
- or del síndrome de Tourette .\n\nOriginal title: I Swear\n\nRelease year:
-  2025\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://cinesembajadores.
- es/pelicula/incontrolable-i-swear-vose/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El diablo viste de Prada 2
-DTSTART;TZID=Europe/Madrid:20260504T201000
-DTEND;TZID=Europe/Madrid:20260504T221000
-UID:0b0cadd065e28de42f7e35d8d9601dad1bbb77d5bc4b36d77700320040847410
-CATEGORIES:cinema
-DESCRIPTION:Sigue la lucha de Miranda Priestly contra Emily Charlton\, su 
- ex asistente convertida en ejecutiva rival\, mientras compiten por los ing
- resos por publicidad en medio de la decadencia de los medios impresos y Mi
- randa se acerca a la jubilación.\n\nOriginal title: The Devil Wears Prada
-  2\n\nRelease year: 2026\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps:
- //cinesembajadores.es/pelicula/el-diablo-viste-de-prada-2-vose/?ciudad=mad
- rid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Incontrolable
-DTSTART;TZID=Europe/Madrid:20260504T202000
-UID:1e8bda2eb1538129be84781e4ecc18ab6249a2916a302122c72ebe71e931e258
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 120 min
- utos | No recomendada para menores de 12 años\n\nRelease year: 2006\n\nOr
- iginal language: FR\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/106677
- 0/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Isla De Amrum
-DTSTART;TZID=Europe/Madrid:20260504T202500
-UID:cf8936fc4514e6687c34f839c92f3b6bd15fa975d8c207b9fbf4033f03ce8476
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 93 minu
- tos | No recomendada para menores de 12 años\n\nOriginal title: Amrum\n\n
- Release year: 2025\n\nOriginal language: DE\n\nAudio: VOSE\n\nhttps://www.
- pillalas.com/pase/1066771/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Calle Málaga
-DTSTART;TZID=Europe/Madrid:20260504T203500
-UID:b2930ffb9efb1f6c8aae61095e9b24b24257cd72f0636842d9e994317f6e5bea
-CATEGORIES:cinema
-DESCRIPTION:Versión Original Castellano | Duración 116 minutos | No reco
- mendada para menores de 12 años\n\nRelease year: 2025\n\nOriginal languag
- e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1066706/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Todo Lo Que Fuimos
-DTSTART;TZID=Europe/Madrid:20260504T203500
-UID:f459840703326d89a9c3c5a6b2fa379665db8e62982f133d0c715e84e81fa5b9
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 145 min
- utos | No recomendada para menores de 16 años\n\nOriginal title: اللي
-  باقي منك\n\nRelease year: 2025\n\nOriginal language: AR\n\nAudio: 
- VOSE\n\nhttps://www.pillalas.com/pase/1066822/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Miguel - Caos Tour
-DTSTART;TZID=Europe/Madrid:20260504T210000
-UID:0fb848a0391c0f85e161e46a1135b85c277047cb4e65224e4c48bc4c9d20396b
-CATEGORIES:music
-DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://www.livenation.es/event/
- miguel-caos-tour-madrid-tickets-edp1630147
-LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
- id
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Todo Lo Que Fuimos
-DTSTART;TZID=Europe/Madrid:20260504T220000
-UID:6f15c6f28b55fe8536f934d3eda5e95831a9c9264a4526f75a5425cf7fd41438
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 145 min
- utos | No recomendada para menores de 16 años\n\nOriginal title: اللي
-  باقي منك\n\nRelease year: 2025\n\nOriginal language: AR\n\nAudio: 
- VOSE\n\nhttps://www.pillalas.com/pase/1066772/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tres Adioses
-DTSTART;TZID=Europe/Madrid:20260504T221500
-UID:bac913a1811c4ea2a37ea1ccfbb7c4bf79cdf4ad23fc3ec12ef90d65b1d8eafd
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 122 min
- utos | No recomendada para menores de 12 años\n\nOriginal title: Tre ciot
- ole\n\nRelease year: 2025\n\nOriginal language: IT\n\nAudio: VOSE\n\nhttps
- ://www.pillalas.com/pase/1066773/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El diablo viste de Prada 2
-DTSTART;TZID=Europe/Madrid:20260504T223000
-DTEND;TZID=Europe/Madrid:20260505T003000
-UID:abc90a6d276e526ea9133e783f8f7d8bd18e9d083594371d6484e5dc1067c24f
-CATEGORIES:cinema
-DESCRIPTION:Sigue la lucha de Miranda Priestly contra Emily Charlton\, su 
- ex asistente convertida en ejecutiva rival\, mientras compiten por los ing
- resos por publicidad en medio de la decadencia de los medios impresos y Mi
- randa se acerca a la jubilación.\n\nOriginal title: The Devil Wears Prada
-  2\n\nRelease year: 2026\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps:
- //cinesembajadores.es/pelicula/el-diablo-viste-de-prada-2-vose/?ciudad=mad
- rid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Los justos
-DTSTART;TZID=Europe/Madrid:20260504T223000
-DTEND;TZID=Europe/Madrid:20260505T000000
-UID:e24fe8e594c80d321d1b335330849043153712547c2816ec9a4ce97df9e5fc01
-CATEGORIES:cinema
-DESCRIPTION:Nueve miembros de un jurado popular deliberan aislados un pol
- émico caso de corrupción. Las pruebas son irrefutables\, la opinión pú
- blica ya ha emitido su veredicto\, nadie parece tener dudas... Hasta que r
- eciben una oferta en secreto: cada integrante ganará un millón de euros 
- si cambia su voto de culpable a inocente. Pero si quieren entrar en el jue
- go\, deberán alcanzar la unanimidad\; algo que sacará a la luz las verda
- deras causas pendientes de cada uno de los miembros del jurado.\n\nRelease
-  year: 2026\n\nOriginal language: ES\n\nhttps://cinesembajadores.es/pelicu
- la/los-justos/?ciudad=madrid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Amarga Navidad
-DTSTART;TZID=Europe/Madrid:20260504T223000
-DTEND;TZID=Europe/Madrid:20260505T002100
-UID:7f8538c73861b6f6b3e067ae7a2420fb86da8be865d7420ffff96e06b9f3f320
-CATEGORIES:cinema
-DESCRIPTION:Elsa es una directora de publicidad cuya madre muere durante u
- n largo puente del mes de diciembre. Encuentra refugio en el trabajo\, aun
- que es más bien una huida hacia adelante. Trabaja sin parar y\, sin darse
-  cuenta\, no se concede el tiempo necesario para guardar el duelo por la a
- usencia materna. Hasta que una crisis de pánico la obliga a detenerse e i
- mponerse un descanso. Su pareja\, Bonifacio\, es su tabla de salvación en
-  esos momentos de crisis. Elsa decide viajar a la isla de Lanzarote acompa
- ñada por su amiga Patricia\, que también necesita alejarse de Madrid\, m
- ientras que Bonifacio se queda en la ciudad. La historia de estos tres per
- sonajes\, y algunos más\, se narran paralelamente a la del guionista y di
- rector de cine Raúl Durán\, entremezclando ficción y realidad.\n\nRelea
- se year: 2026\n\nOriginal language: ES\n\nhttps://cinesembajadores.es/peli
- cula/amarga-navidad/?ciudad=madrid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Incontrolable
-DTSTART;TZID=Europe/Madrid:20260504T223500
-UID:316bb34cddf4a7fd25296262bf7090946aba0d2fc4c08d5c658eed8fc58a8688
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 120 min
- utos | No recomendada para menores de 12 años\n\nRelease year: 2006\n\nOr
- iginal language: FR\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/106677
- 4/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Calle Málaga
-DTSTART;TZID=Europe/Madrid:20260504T224500
-UID:39529e0b9b5f98a6be3ca8b1fcd012001e19dcc05ff7bd6ca5115351e3a3433c
-CATEGORIES:cinema
-DESCRIPTION:Versión Original Castellano | Duración 116 minutos | No reco
- mendada para menores de 12 años\n\nRelease year: 2025\n\nOriginal languag
- e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1066707/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+SUMMARY:Las ingenieras domésticas y la revolución de la cocina
+DTSTART;TZID=Europe/Madrid:20260429T000000
+DTEND;TZID=Europe/Madrid:20260927T000000
+UID:a910cd7850191de445ffd7ae8e05074d54634a4aaf73997164b652b34f63e39b
+CATEGORIES:exhibition
+DESCRIPTION:Exposición sobre la evolución del espacio doméstico entre l
+ os siglos XIX y XX\, con las mujeres como protagonistas de su diseño (Mus
+ eo Nacional de Artes Decorativas. 29 abr a 27 sept).\n\nhttps://www.cultur
+ a.gob.es/mnartesdecorativas/exposiciones/proximas-exposiciones.html
+LOCATION:Museo Nacional de Artes Decorativas - de Montalbán\, 12\, Madrid
+ \, 28014
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Incontrolable
@@ -1071,51 +847,6 @@ DESCRIPTION:Versión Original subtitulada a Castellano | Duración 154 min
  onne schauen\n\nRelease year: 2025\n\nOriginal language: DE\n\nAudio: VOSE
  \n\nhttps://www.pillalas.com/pase/1066777/
 LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Todo comienzo es un ensayo. Sesión 11 del grupo de estudio con Va
- lentina Desideri. Political Therapy: Versión Enjambre
-DTSTART;TZID=Europe/Madrid:20260505T170000
-DTEND;TZID=Europe/Madrid:20260505T200000
-UID:f9b489cf31c3ab7da7fc5f49bd0f15778e89ffb299d29c267c6e1f5fd84ba769
-CATEGORIES:other
-DESCRIPTION:El grupo de estudio de Todo comienzo es un ensayo acompaña al
-  programa de residencias de Arte por venir de la Fundación Daniel y Nina 
- Carasso en las reflexiones que\, a lo largo de este año\, están girando 
- en torno a qué puede ser una residencia y cómo se configuran sus diferen
- tes condiciones: espaciales\, afectivas y políticas. Durante su estancia\
- , la artista Valentina Desideri trabajará en dos capítulos\, dedicados r
- espectivamente a la Political Therapy [Terapia política] y a la performan
- ce\, interrogando qué significa pensar y aprender colectivamente desde la
-  residencia misma.\n\nEn esta sesión\, Valentina Desideri se centrará co
- ncretamente en la Political Therapy\, una práctica artística que toma el
- ementos del dispositivo terapéutico y que busca abordar\, a través del t
- acto\, cualquier problema político que estemos enfrentando o al que quera
- mos dedicar cierto tiempo. Una actividad que Valentina comenzó en 2010 y 
- que\, desde entonces\, ha llevado a cabo tanto en sesiones individuales co
- mo en pequeños grupos.\n\nAhora\, en este grupo de estudio\, contará con
-  Vito Gil-Delgado para proponer una Versión Enjambre\, esto es\, una moda
- lidad grupal de la práctica. Tomando como base su amplia experiencia y el
-  placer que ambas encuentran en el trabajo colectivo\, experimentarán con
-  formatos que puedan inspirarnos a articular nuestras preocupaciones\, enc
- ontrar preguntas comunes y avanzar en procesos de estudio colectivos.\n\nV
- alentina Desideri explora la creación artística como una forma de estudi
- o y el estudio como una forma de creación artística. Es artista y actual
- mente es investigadora en el Centre for the Arts and the Political Imagina
- ry (CAPIm) de la Royal Academy of the Arts & HDK-Valand en Suecia. Está r
- eescribiendo su tesis doctoral “Studio Practice: Experiments in Objectle
- ss and Objectiveless Artmaking” para su publicación\, mientras sigue ce
- ntrándose en el estudio como práctica colaborativa de la imaginación po
- lítica.\n\nVito Gil-Delgado es educadora de museos\, artista y escritora.
-  Desde 2009 a 2025 trabajó en el Departamento de Educación del Museo Cen
- tro de Arte Dos de Mayo de Madrid. Fue responsable de programas educativos
-  y realizó talleres y actividades con públicos diversos. Su investigaci
- ón (tanto artística y literaria como educativa) se enfoca en la potencia
-  de la performance\, el arte amateur y los procesos colectivos y en cómo 
- hacer del arte un lugar de encuentro capaz de abrir y multiplicar las posi
- bilidades del mundo.\n\nhttps://www.infinitodelicias.com/es/agenda/todo-co
- mienzo-es-un-ensayo-sesion-11-valentina-desideri
-LOCATION:El Estudio - C. de Juana Dona\, 5\, Arganzuela\, 28045 Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Un hombre va por el camino (1949)
@@ -1991,15 +1722,13 @@ SUMMARY:Yo no moriré de amor
 DTSTART;TZID=Europe/Madrid:20260506T200000
 UID:285eb528b39dd017373ee87f7446cfa73acf340f91839fac0539b8a50e5ff8e0
 CATEGORIES:cinema
-DESCRIPTION:div#sliding-popup\, div#sliding-popup .eu-cookie-withdraw-bann
- er\, .eu-cookie-withdraw-tab {background: #d9d9d9} div#sliding-popup.eu-co
- okie-withdraw-wrapper { background: transparent\; } #sliding-popup h1\, #s
- liding-popup h2\, #sliding-popup h3\, #sliding-popup p\, #sliding-popup la
- bel\, #sliding-popup div\, .eu-cookie-compliance-more-button\, .eu-cookie-
- compliance-secondary-button\, .eu-cookie-withdraw-tab { color: #333333\;} 
- .eu-cookie-withdraw-tab { border-color: #333333\;}\n\nRelease year: 2026\n
- \nOriginal language: ES\n\nhttps://www.cinetecamadrid.com/programacion/yo-
- no-morire-de-amor
+DESCRIPTION:A sus 18 años\, Claudia no quiere ser la heroína de su famil
+ ia. La enfermedad de su madre irrumpe en su casa como una tormenta silenci
+ osa. Sin embargo\, Claudia solo quiere vivir como cualquier persona de su 
+ edad. Entre el deber familiar y el anhelo de explotar su juventud\, Claudi
+ a tendrá que elegir cómo amar sin renunciar a sí misma.\n\nRelease year
+ : 2026\n\nOriginal language: ES\n\nhttps://www.cinetecamadrid.com/programa
+ cion/yo-no-morire-de-amor
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -2104,15 +1833,6 @@ DESCRIPTION:Versión Original subtitulada a Castellano | Duración 145 min
 LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mi Amigo Invencible
-DTSTART;TZID=Europe/Madrid:20260506T210000
-UID:936e86757c9d10eb502fd8b524a64caaa7ab32f007091eae986a274e05def565
-CATEGORIES:music
-DESCRIPTION:Concierto / Pop / Rock\n\nhttps://salavillanos.es/evento/mi-am
- igo-invencible/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Sanguijuelas del Guadiana (Tercera Fecha)
 DTSTART;TZID=Europe/Madrid:20260506T210000
 UID:52fc810613f8cb247abba4839863e7e2c86442b7b7d4e3ef8c9607c8681e9e94
@@ -2122,6 +1842,15 @@ DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://www.enterticket.es/event
  yo-935583
 LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
  id
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mi Amigo Invencible
+DTSTART;TZID=Europe/Madrid:20260506T213000
+UID:06e1b97be7b038d03f8ddda2495979289fcb697852fcdaa20d6bd99bdadd51c3
+CATEGORIES:music
+DESCRIPTION:Concierto / Pop / Rock\n\nhttps://salavillanos.es/evento/mi-am
+ igo-invencible/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Todo Lo Que Fuimos
@@ -2274,6 +2003,19 @@ DESCRIPTION:Versión Original Castellano | Duración 116 minutos | No reco
  mendada para menores de 12 años\n\nRelease year: 2025\n\nOriginal languag
  e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1066715/
 LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Revolución cuántica
+DTSTART;TZID=Europe/Madrid:20260507T000000
+DTEND;TZID=Europe/Madrid:20261011T000000
+UID:9c74178cc870a7b93e31dc8b9439690ba345ec8b3717c25926b945e0f4c90473
+CATEGORIES:exhibition
+DESCRIPTION:La mecánica y la computación cuánticas protagonizan una exp
+ osición que desentraña su funcionamiento y los retos que plantean (Espac
+ io Fundación Telefónica. 7 may a 11 oct).\n\nhttps://espacio.fundacionte
+ lefonica.com/evento/revolucion-cuantica/
+LOCATION:Espacio Fundación Telefónica - de Fuencarral\, 3\, Madrid\, 280
+ 04
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Anatomía de un no-hecho
@@ -2436,15 +2178,15 @@ BEGIN:VEVENT
 SUMMARY:El diablo viste de Prada 2
 DTSTART;TZID=Europe/Madrid:20260507T171000
 DTEND;TZID=Europe/Madrid:20260507T191000
-UID:b4f54806019cc946d5b001b2dbbd7acc629a6f1186550f55586d3dd12f21c639
+UID:2c4e89d6a571642a65d4e1505c72885379d0eeeff3142be19fa4cd5bdb1239ba
 CATEGORIES:cinema
 DESCRIPTION:Sigue la lucha de Miranda Priestly contra Emily Charlton\, su 
  ex asistente convertida en ejecutiva rival\, mientras compiten por los ing
  resos por publicidad en medio de la decadencia de los medios impresos y Mi
  randa se acerca a la jubilación.\n\nOriginal title: The Devil Wears Prada
-  2\n\nRelease year: 2026\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps:
- //cinesembajadores.es/pelicula/el-diablo-viste-de-prada-2-vose/?ciudad=mad
- rid
+  2\n\nRelease year: 2026\n\nOriginal language: EN\n\nAudio: Doblada ES\n\n
+ https://cinesembajadores.es/pelicula/el-diablo-viste-de-prada-2-doblada-al
+ -espanol/?ciudad=madrid
 LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
 END:VEVENT
 BEGIN:VEVENT
@@ -2922,7 +2664,7 @@ SUMMARY:Jajás en el Barrio
 DTSTART;TZID=Europe/Madrid:20260507T220000
 UID:dfa446aef4709283b339060cb898753b5a2fadb441d4c40506eae57181d45c57
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 3 plazas!\n\nhttps://teatrodelbarrio.com/jaja
+DESCRIPTION:¡Ya solo quedan 1 plazas!\n\nhttps://teatrodelbarrio.com/jaja
  s-en-el-barrio/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
@@ -3041,6 +2783,19 @@ DESCRIPTION:Versión Original Castellano | Duración 116 minutos | No reco
 LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Lidó Rico. L'anima non finita
+DTSTART;TZID=Europe/Madrid:20260508T000000
+DTEND;TZID=Europe/Madrid:20260531T000000
+UID:4e7379f186ac933c802ba7af3ada86dfa122b0581a61eb9e736acdfea2594748
+CATEGORIES:exhibition
+DESCRIPTION:Un recorrido evolutivo por la obra del artista contemporáneo 
+ Lidó Rico (Sala Alcalá 31 de la Comunidad de Madrid. 8 a 31 mayo).\n\nht
+ tps://www.comunidad.madrid/actividades/2026/exposicion-lido-rico-lanima-no
+ n-finita
+LOCATION:Sala Alcalá 31 de la Comunidad de Madrid - de Alcalá\, 31\, Mad
+ rid\, 28014
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Tupumpum. Genealogía del reguetón
 DTSTART;TZID=Europe/Madrid:20260508T000000
 DTEND;TZID=Europe/Madrid:20260531T000000
@@ -3067,6 +2822,59 @@ DESCRIPTION:En el contexto de las funciones del Staatsballett Hannover en
 LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Incontrolable
+DTSTART;TZID=Europe/Madrid:20260508T155000
+UID:7b4d970bd2b0de878fb249a5c4590b96af09e156011a8a6a2e6440fc3d4c839a
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 120 min
+ utos | No recomendada para menores de 12 años\n\nRelease year: 2006\n\nOr
+ iginal language: FR\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/106773
+ 2/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Todo Lo Que Fuimos
+DTSTART;TZID=Europe/Madrid:20260508T155000
+UID:e126022ba70046428532604f4df29091e6e8d94dec4bc53934ee094e1935919d
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 145 min
+ utos | No recomendada para menores de 16 años\n\nOriginal title: اللي
+  باقي منك\n\nRelease year: 2025\n\nOriginal language: AR\n\nAudio: 
+ VOSE\n\nhttps://www.pillalas.com/pase/1067733/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Calle Málaga
+DTSTART;TZID=Europe/Madrid:20260508T160000
+UID:81017a45684ef1540afdcf74331598467358106e6707b17e199c07b4961a9501
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 116 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2025\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1067704/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Isla De Amrum
+DTSTART;TZID=Europe/Madrid:20260508T160000
+UID:a3d398ded5304c5e35198ff0fd908f933ed5df87c7d9d000cb1013b21f25980a
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 93 minu
+ tos | No recomendada para menores de 12 años\n\nOriginal title: Amrum\n\n
+ Release year: 2025\n\nOriginal language: DE\n\nAudio: VOSE\n\nhttps://www.
+ pillalas.com/pase/1067734/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yo No Moriré De Amor
+DTSTART;TZID=Europe/Madrid:20260508T161000
+UID:e5531f8876b8b185a080f4feb481922e912ee202818350a35ee2bc613e3d1a00
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 94 minutos | No recom
+ endada para menores de 12 años\n\nRelease year: 2026\n\nOriginal language
+ : ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1067735/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:La hora de los valientes (1998)
 DTSTART;TZID=Europe/Madrid:20260508T173000
 UID:3db66a1013630a626c5842e7c041ab25831106a21c5e6c19face7447ef0cba42
@@ -3078,6 +2886,59 @@ DESCRIPTION:Fecha y Hora: Viernes 8 de mayo a las 17:30h (Sala 1. El museo
  a-hora-de-los-valientes
 LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
  \, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Todo Lo Que Fuimos
+DTSTART;TZID=Europe/Madrid:20260508T175000
+UID:005ad3e098b40b9fb12f80604f65b63e02825b6d701be3a6dac7e88feacb2cd4
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 145 min
+ utos | No recomendada para menores de 16 años\n\nOriginal title: اللي
+  باقي منك\n\nRelease year: 2025\n\nOriginal language: AR\n\nAudio: 
+ VOSE\n\nhttps://www.pillalas.com/pase/1067736/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Incontrolable
+DTSTART;TZID=Europe/Madrid:20260508T180500
+UID:f74fb1be862037a71cb168e9e4edc9d32ccd87c245c6ed1bcdc57781350e5738
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 120 min
+ utos | No recomendada para menores de 12 años\n\nRelease year: 2006\n\nOr
+ iginal language: FR\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/106773
+ 8/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yo No Moriré De Amor
+DTSTART;TZID=Europe/Madrid:20260508T180500
+UID:5bb9464ee810fa108057006324143624a2f492a87e46d49da009608e165edf8a
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 94 minutos | No recom
+ endada para menores de 12 años\n\nRelease year: 2026\n\nOriginal language
+ : ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1067737/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Calle Málaga
+DTSTART;TZID=Europe/Madrid:20260508T181500
+UID:5ac4f02618ed8886cf62f851125dab10ba81a6f77a2614387979eb951e83b34a
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 116 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2025\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1067705/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Isla De Amrum
+DTSTART;TZID=Europe/Madrid:20260508T183000
+UID:a27f3f2c5cf2408af6b81c972735099499672e2d42b36f249a7726a12d4f518b
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 93 minu
+ tos | No recomendada para menores de 12 años\n\nOriginal title: Amrum\n\n
+ Release year: 2025\n\nOriginal language: DE\n\nAudio: VOSE\n\nhttps://www.
+ pillalas.com/pase/1067739/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Monikondee
@@ -3158,6 +3019,59 @@ DESCRIPTION:Dakota Riley es un jugador estrella de fútbol americano de in
 LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Yo No Moriré De Amor
+DTSTART;TZID=Europe/Madrid:20260508T200000
+UID:b1b3ca4154f0e475b6605dbd43c01482c138c22fd1ca84e96d9e7ccf21a2b4d1
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 94 minutos | No recom
+ endada para menores de 12 años\n\nRelease year: 2026\n\nOriginal language
+ : ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1067740/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Incontrolable
+DTSTART;TZID=Europe/Madrid:20260508T202000
+UID:b4cbd7e73a51fd40d37666aa53fc63cbc53c748f4a14879f13b93c14ce14b5cc
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 120 min
+ utos | No recomendada para menores de 12 años\n\nRelease year: 2006\n\nOr
+ iginal language: FR\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/106774
+ 1/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Isla De Amrum
+DTSTART;TZID=Europe/Madrid:20260508T202500
+UID:a8009d72ea6425d9d9be0fee11e1f255d353a4134564275764558ad4d336a40e
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 93 minu
+ tos | No recomendada para menores de 12 años\n\nOriginal title: Amrum\n\n
+ Release year: 2025\n\nOriginal language: DE\n\nAudio: VOSE\n\nhttps://www.
+ pillalas.com/pase/1067742/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Calle Málaga
+DTSTART;TZID=Europe/Madrid:20260508T203500
+UID:2da5f8f317b7b379d9cf3e8540acc23f4b7087e5c18e685267b586ae3e79d330
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 116 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2025\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1067706/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Todo Lo Que Fuimos
+DTSTART;TZID=Europe/Madrid:20260508T203500
+UID:da7ed35af31aad566225cb872dc2502b3c092eb1c5613509270227b21fc80722
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 145 min
+ utos | No recomendada para menores de 16 años\n\nOriginal title: اللي
+  باقي منك\n\nRelease year: 2025\n\nOriginal language: AR\n\nAudio: 
+ VOSE\n\nhttps://www.pillalas.com/pase/1067743/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Kes (1969)
 DTSTART;TZID=Europe/Madrid:20260508T210000
 UID:3fca210fd00df68b06dde50581ba1cb2926dc5299b7ead77f5d88179102b24f1
@@ -3202,6 +3116,27 @@ DESCRIPTION:Precio de las entradas: 17€/20€ Entradas a la venta en mov
 LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Yo No Moriré De Amor
+DTSTART;TZID=Europe/Madrid:20260508T215500
+UID:86e427eb9a5230c97cb622e7fa6dd4ed9f32589c0fd2726c083b3114fa87c5ad
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 94 minutos | No recom
+ endada para menores de 12 años\n\nRelease year: 2026\n\nOriginal language
+ : ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1067744/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Todo Lo Que Fuimos
+DTSTART;TZID=Europe/Madrid:20260508T221500
+UID:f47f7ee81f79ec880ded5ed399d392a30981527baba650d0b0064e6e202e5be2
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 145 min
+ utos | No recomendada para menores de 16 años\n\nOriginal title: اللي
+  باقي منك\n\nRelease year: 2025\n\nOriginal language: AR\n\nAudio: 
+ VOSE\n\nhttps://www.pillalas.com/pase/1067745/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:El Nuevo Show de Mongolia\, también conocido como el Nuevo Mongol
  ia Show
 DTSTART;TZID=Europe/Madrid:20260508T221500
@@ -3209,6 +3144,36 @@ UID:a74492d8a2eca93cf7049e21383a5410fac5cf55a7e83ca2561cfac7f6c81a0a
 CATEGORIES:theater
 DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/mongoliashow/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Incontrolable
+DTSTART;TZID=Europe/Madrid:20260508T223500
+UID:2a669b6311e15f0bb00c2a97c78ed70420fd0de98750306cf2b51fc268a90b30
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 120 min
+ utos | No recomendada para menores de 12 años\n\nRelease year: 2006\n\nOr
+ iginal language: FR\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/106774
+ 6/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Calle Málaga
+DTSTART;TZID=Europe/Madrid:20260508T224500
+UID:e704e2e0ffbc2f4a94e9c60f23daab2c8e812a966b0bc25579e51df356bfda66
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 116 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2025\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1067707/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mazo Club # 15 Powered By Jägermeister
+DTSTART;TZID=Europe/Madrid:20260508T235900
+UID:ef654c556b9dd38157e9b612d346c5be417de8d7c83526e7d19d4b0bc03ebfad
+CATEGORIES:other
+DESCRIPTION:Club\n\nhttps://salavillanos.es/evento/mazo-club-15-powered-by
+ -jagermeister/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Editatona de mujeres en la ciencia ficción\, con Cristina Jurado
@@ -3283,6 +3248,59 @@ DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/no-solo-duelen-los-g
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Incontrolable
+DTSTART;TZID=Europe/Madrid:20260509T155000
+UID:d5f1c7d066d40902957e9079383e653160e2781f89fc124bb65d1ba967a0fb62
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 120 min
+ utos | No recomendada para menores de 12 años\n\nRelease year: 2006\n\nOr
+ iginal language: FR\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/106774
+ 7/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Todo Lo Que Fuimos
+DTSTART;TZID=Europe/Madrid:20260509T155000
+UID:4cc36d44c928e3b197ec8ee0f63ab089b364f39eac500f1f82e123db07636ea3
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 145 min
+ utos | No recomendada para menores de 16 años\n\nOriginal title: اللي
+  باقي منك\n\nRelease year: 2025\n\nOriginal language: AR\n\nAudio: 
+ VOSE\n\nhttps://www.pillalas.com/pase/1067748/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Calle Málaga
+DTSTART;TZID=Europe/Madrid:20260509T160000
+UID:647abaf928de99b63ce33ef5a5b79bf340d000f674d9d20d579f595b66dda05d
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 116 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2025\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1067708/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Isla De Amrum
+DTSTART;TZID=Europe/Madrid:20260509T160000
+UID:bfc891b44683551f6fd51138fe8163803084f4970b05355411b943bca48d1ddb
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 93 minu
+ tos | No recomendada para menores de 12 años\n\nOriginal title: Amrum\n\n
+ Release year: 2025\n\nOriginal language: DE\n\nAudio: VOSE\n\nhttps://www.
+ pillalas.com/pase/1067749/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yo No Moriré De Amor
+DTSTART;TZID=Europe/Madrid:20260509T161000
+UID:f8c2a0ce4fce00abf635bb737218c14e56ed06a4f589a7fe33fc20c9db73d2b1
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 94 minutos | No recom
+ endada para menores de 12 años\n\nRelease year: 2026\n\nOriginal language
+ : ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1067750/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:La pantera rosa (The Pink Panther\, 1963)
 DTSTART;TZID=Europe/Madrid:20260509T173000
 UID:4edd523cad4dab440fa2411ddbae29d9262a8d73924d476b09e8a962047a7e23
@@ -3294,6 +3312,59 @@ DESCRIPTION:Fecha y Hora: Sábado 9 de mayo a las 17:30h (Sala 1. Filmotec
  tera-rosa
 LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
  \, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Todo Lo Que Fuimos
+DTSTART;TZID=Europe/Madrid:20260509T175000
+UID:1e0e06f0d626568d154cf46b0febdd10c0c7462871e6bbf1b933b4797fb24e03
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 145 min
+ utos | No recomendada para menores de 16 años\n\nOriginal title: اللي
+  باقي منك\n\nRelease year: 2025\n\nOriginal language: AR\n\nAudio: 
+ VOSE\n\nhttps://www.pillalas.com/pase/1067751/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Incontrolable
+DTSTART;TZID=Europe/Madrid:20260509T180500
+UID:c59bc5f0f7565a66e68079a06356236907381f8f41ca2dc67d2e76d8f2879080
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 120 min
+ utos | No recomendada para menores de 12 años\n\nRelease year: 2006\n\nOr
+ iginal language: FR\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/106775
+ 2/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yo No Moriré De Amor
+DTSTART;TZID=Europe/Madrid:20260509T180500
+UID:b7676c3a48a8585bb64c357084f69337057bce5869db2df5c165ae7bab287706
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 94 minutos | No recom
+ endada para menores de 12 años\n\nRelease year: 2026\n\nOriginal language
+ : ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1067753/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Calle Málaga
+DTSTART;TZID=Europe/Madrid:20260509T181500
+UID:08038f2800f402dbb1fa83d6afb4a58cc3a2876d1c8324de514a18a0e8b2d676
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 116 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2025\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1067709/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Isla De Amrum
+DTSTART;TZID=Europe/Madrid:20260509T183000
+UID:d8df008c3c26a630973bcbc549a0d879a8018b3ae32edd4cdc279bbc61c8314c
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 93 minu
+ tos | No recomendada para menores de 12 años\n\nOriginal title: Amrum\n\n
+ Release year: 2025\n\nOriginal language: DE\n\nAudio: VOSE\n\nhttps://www.
+ pillalas.com/pase/1067754/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Central Park
@@ -3344,7 +3415,7 @@ SUMMARY:Saúl y la noche
 DTSTART;TZID=Europe/Madrid:20260509T193000
 UID:531474ce13735752d2a2375861f3019f25861398a889bbe2184eca75b83ed09b
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 8 plazas!\n\nhttps://teatrodelbarrio.com/saul
+DESCRIPTION:¡Ya solo quedan 1 plazas!\n\nhttps://teatrodelbarrio.com/saul
  -y-la-noche/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
@@ -3361,6 +3432,59 @@ DESCRIPTION:El asalto al Capitolio acontecido en 2021\, documentado por su
  n\nRelease year: 2025\n\nOriginal language: ES\n\nAudio: VOSE\n\nhttps://w
  ww.cinetecamadrid.com/programacion/capitolio-vs-capitolio-0
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yo No Moriré De Amor
+DTSTART;TZID=Europe/Madrid:20260509T200000
+UID:3b68e9a7449c81f40723b94e1f85d683e91dec81235999ca2627cc40c6c31a88
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 94 minutos | No recom
+ endada para menores de 12 años\n\nRelease year: 2026\n\nOriginal language
+ : ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1067755/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Incontrolable
+DTSTART;TZID=Europe/Madrid:20260509T202000
+UID:f817a7ed0055b191a7541300715fd7d8be5ac7288fd7f2361a9852349867fa4e
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 120 min
+ utos | No recomendada para menores de 12 años\n\nRelease year: 2006\n\nOr
+ iginal language: FR\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/106775
+ 6/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Isla De Amrum
+DTSTART;TZID=Europe/Madrid:20260509T202500
+UID:c30ed8e1ac6a2b42d90f94777380efa2a5f6bc76285dc5506701d903c1e3a18c
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 93 minu
+ tos | No recomendada para menores de 12 años\n\nOriginal title: Amrum\n\n
+ Release year: 2025\n\nOriginal language: DE\n\nAudio: VOSE\n\nhttps://www.
+ pillalas.com/pase/1067757/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Calle Málaga
+DTSTART;TZID=Europe/Madrid:20260509T203500
+UID:fa9431a469b06c11a113a453260661bedc604d4820f28ef90093fa15fa2fd4ec
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 116 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2025\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1067710/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Todo Lo Que Fuimos
+DTSTART;TZID=Europe/Madrid:20260509T203500
+UID:1be49bb0248b4eafee819c8c4c312b995fd5eb9eea4a8acd920065414b67baf5
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 145 min
+ utos | No recomendada para menores de 16 años\n\nOriginal title: اللي
+  باقي منك\n\nRelease year: 2025\n\nOriginal language: AR\n\nAudio: 
+ VOSE\n\nhttps://www.pillalas.com/pase/1067758/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Celtian
@@ -3407,12 +3531,46 @@ DESCRIPTION:Precio de las entradas: 12€/16€ Entradas a la venta en mov
 LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:No ni ná. Una copla diçidente p´acompañâh un guen puxero
+SUMMARY:Yo No Moriré De Amor
+DTSTART;TZID=Europe/Madrid:20260509T215500
+UID:13e6b12da8d0f733f42919b3d75f222d04f4ec9b9149c99ac4401bdf5755ec89
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 94 minutos | No recom
+ endada para menores de 12 años\n\nRelease year: 2026\n\nOriginal language
+ : ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1067759/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Todo Lo Que Fuimos
 DTSTART;TZID=Europe/Madrid:20260509T221500
-UID:4ec1ed2ccc29eaef84f2b70fc75d69f69eb6850a481be1315dbdb14b3942be3b
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/no-ni-na/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+UID:9e5afcbc054ea2ece5adc129352883704fc58df08ca7a938c071f8315ae28e27
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 145 min
+ utos | No recomendada para menores de 16 años\n\nOriginal title: اللي
+  باقي منك\n\nRelease year: 2025\n\nOriginal language: AR\n\nAudio: 
+ VOSE\n\nhttps://www.pillalas.com/pase/1067760/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Incontrolable
+DTSTART;TZID=Europe/Madrid:20260509T223500
+UID:927698112e69bd1c75bd783d2280e9dd3717f990e36e171166dbc91f3b8e0629
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 120 min
+ utos | No recomendada para menores de 12 años\n\nRelease year: 2006\n\nOr
+ iginal language: FR\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/106776
+ 1/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Calle Málaga
+DTSTART;TZID=Europe/Madrid:20260509T224500
+UID:cc699f459b97d88c41bd10fecab94b5cefa6b0b029f5ab8cd3cfd9b033d23d38
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 116 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2025\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1067711/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Omar S (FXHE) + Acid Hero + Dj F
@@ -3497,22 +3655,6 @@ DESCRIPTION:Varias voces del panorama cultural actual español interpretar
 LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Domingo de clásicos: Con la muerte en los talones
-DTSTART;TZID=Europe/Madrid:20260510T120000
-DTEND;TZID=Europe/Madrid:20260510T141600
-UID:438f98627c35fff1cbdf8f9c751a708ffc3f242e03b9830369b33e5a63a2aba9
-CATEGORIES:cinema
-DESCRIPTION:Debido a un malentendido\, a Roger O. Thornhill\, un ejecutivo
-  del mundo de la publicidad\, unos espías lo confunden con un agente del 
- gobierno llamado George Kaplan. Secuestrado por tres individuos y llevado 
- a una mansión en la que es interrogado\, consigue huir antes de que lo ma
- ten. Pero cuando al día siguiente regresa a la casa acompañado de la pol
- icía\, le espera una sorpresa.\n\nAudio: VOSE\n\nhttps://cinesembajadores
- .es/pelicula/domingo-de-clasicos-con-la-muerte-en-los-talones-vose/?ciudad
- =madrid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ganas de vivir
 DTSTART;TZID=Europe/Madrid:20260510T120000
 DTEND;TZID=Europe/Madrid:20260510T131100
@@ -3533,6 +3675,22 @@ DESCRIPTION:«Ganas de vivir» narra la extraordinaria historia de Desiré
  al language: ES\n\nhttps://cinesembajadores.es/pelicula/ganas-de-vivir/?ci
  udad=madrid
 LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Domingo de clásicos: Con la muerte en los talones
+DTSTART;TZID=Europe/Madrid:20260510T120000
+DTEND;TZID=Europe/Madrid:20260510T141600
+UID:438f98627c35fff1cbdf8f9c751a708ffc3f242e03b9830369b33e5a63a2aba9
+CATEGORIES:cinema
+DESCRIPTION:Debido a un malentendido\, a Roger O. Thornhill\, un ejecutivo
+  del mundo de la publicidad\, unos espías lo confunden con un agente del 
+ gobierno llamado George Kaplan. Secuestrado por tres individuos y llevado 
+ a una mansión en la que es interrogado\, consigue huir antes de que lo ma
+ ten. Pero cuando al día siguiente regresa a la casa acompañado de la pol
+ icía\, le espera una sorpresa.\n\nAudio: VOSE\n\nhttps://cinesembajadores
+ .es/pelicula/domingo-de-clasicos-con-la-muerte-en-los-talones-vose/?ciudad
+ =madrid
+LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:¿Por qué\, Shonda?
@@ -3566,6 +3724,59 @@ DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/miercoles-que-parece
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Incontrolable
+DTSTART;TZID=Europe/Madrid:20260510T155000
+UID:b1d23d64b54b7ecc62179b5ab322c3b382781c65ef056795994c2d20f52608f4
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 120 min
+ utos | No recomendada para menores de 12 años\n\nRelease year: 2006\n\nOr
+ iginal language: FR\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/106776
+ 2/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Todo Lo Que Fuimos
+DTSTART;TZID=Europe/Madrid:20260510T155000
+UID:9cbcadf6ddcad5450e0e4782c05157922a357d4c872f610d95d4d504e5858e19
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 145 min
+ utos | No recomendada para menores de 16 años\n\nOriginal title: اللي
+  باقي منك\n\nRelease year: 2025\n\nOriginal language: AR\n\nAudio: 
+ VOSE\n\nhttps://www.pillalas.com/pase/1067763/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Calle Málaga
+DTSTART;TZID=Europe/Madrid:20260510T160000
+UID:f2b88f8268ab7516ac199bb9903b851f7855721a44b42a4a72ecae25c35f2416
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 116 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2025\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1067712/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Isla De Amrum
+DTSTART;TZID=Europe/Madrid:20260510T160000
+UID:1c043bde9890c4af68d1c8d6706614846c2f72c7765627126c1ae83006584e62
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 93 minu
+ tos | No recomendada para menores de 12 años\n\nOriginal title: Amrum\n\n
+ Release year: 2025\n\nOriginal language: DE\n\nAudio: VOSE\n\nhttps://www.
+ pillalas.com/pase/1067764/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yo No Moriré De Amor
+DTSTART;TZID=Europe/Madrid:20260510T161000
+UID:eebafe5c143372f5edffa3b9a26a038683a3c7a7430886fcb8621c720e20c942
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 94 minutos | No recom
+ endada para menores de 12 años\n\nRelease year: 2026\n\nOriginal language
+ : ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1067765/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:La ville Louvre (1990)
 DTSTART;TZID=Europe/Madrid:20260510T173000
 UID:448c31693e49790193b6ed650a2737f4363e5d04b79861cebe521c258ba39e5e
@@ -3586,6 +3797,17 @@ CATEGORIES:music
 DESCRIPTION:Concierto / Flamenco\n\nhttps://salavillanos.es/evento/tablao-
  flamenco-alumnos-escuela-el-lucero-2/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Todo Lo Que Fuimos
+DTSTART;TZID=Europe/Madrid:20260510T175000
+UID:3f8da7af11f475a2dbd1411c7669301a2518b2eb417f95b7f6972adc91e36d68
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 145 min
+ utos | No recomendada para menores de 16 años\n\nOriginal title: اللي
+  باقي منك\n\nRelease year: 2025\n\nOriginal language: AR\n\nAudio: 
+ VOSE\n\nhttps://www.pillalas.com/pase/1067766/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:At Berkeley
@@ -3610,6 +3832,48 @@ UID:e46b136180fa0dcbb240de8fb40b39f271013f2f6c022bed3e63a2b5e3b1f218
 CATEGORIES:theater
 DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/saul-y-la-noche/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Incontrolable
+DTSTART;TZID=Europe/Madrid:20260510T180500
+UID:52d5267ce04132c7e8c9df4698c71858ebcfcfdc8746ddf517f26f8d4ad4f859
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 120 min
+ utos | No recomendada para menores de 12 años\n\nRelease year: 2006\n\nOr
+ iginal language: FR\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/106776
+ 8/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yo No Moriré De Amor
+DTSTART;TZID=Europe/Madrid:20260510T180500
+UID:5241d3e58e34ced17ff2197229c847eaebf14db33bfc0cb915301130c56b9e55
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 94 minutos | No recom
+ endada para menores de 12 años\n\nRelease year: 2026\n\nOriginal language
+ : ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1067767/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Calle Málaga
+DTSTART;TZID=Europe/Madrid:20260510T181500
+UID:ba8e7849075ec745b845c2ca55c076ba7a82c52e8c07026497c94643c326b208
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 116 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2025\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1067713/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Isla De Amrum
+DTSTART;TZID=Europe/Madrid:20260510T183000
+UID:fbc6e556e69d8a3fc4aec2c44cf3d5805735555add3425b6fcb6c8a53f9eec0e
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 93 minu
+ tos | No recomendada para menores de 12 años\n\nOriginal title: Amrum\n\n
+ Release year: 2025\n\nOriginal language: DE\n\nAudio: VOSE\n\nhttps://www.
+ pillalas.com/pase/1067769/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Shinjuku Boys
@@ -3657,6 +3921,16 @@ LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
  \, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Yo No Moriré De Amor
+DTSTART;TZID=Europe/Madrid:20260510T200000
+UID:5935d28d153af8d11b55d64fc0726c32b96a18d0b028dc59364c6093f83f1b7b
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 94 minutos | No recom
+ endada para menores de 12 años\n\nRelease year: 2026\n\nOriginal language
+ : ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1067770/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Vivencias Flamencas
 DTSTART;TZID=Europe/Madrid:20260510T200000
 UID:41559e052378f41d6a60d75bd5e0155cea7913242c282049268fc75aa9d38408
@@ -3691,12 +3965,217 @@ DESCRIPTION:A sus 18 años\, Claudia no quiere ser una heroína. La enferm
 LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Incontrolable
+DTSTART;TZID=Europe/Madrid:20260510T202000
+UID:b7fefa8c43edaae4deff8835c27232f7b273dafbffd48e80e39eef7624c97385
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 120 min
+ utos | No recomendada para menores de 12 años\n\nRelease year: 2006\n\nOr
+ iginal language: FR\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/106777
+ 1/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Isla De Amrum
+DTSTART;TZID=Europe/Madrid:20260510T202500
+UID:9b1f5b19b6b2c9b19408871cef1f05a60febf4a59a05246f7bf0d6dc4b79fcc9
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 93 minu
+ tos | No recomendada para menores de 12 años\n\nOriginal title: Amrum\n\n
+ Release year: 2025\n\nOriginal language: DE\n\nAudio: VOSE\n\nhttps://www.
+ pillalas.com/pase/1067772/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Arrancamiento
 DTSTART;TZID=Europe/Madrid:20260510T203000
 UID:59cef44f48b1cf39ccf6fe70b018b3dd289892d6e63d9bc3d1123bf40351912f
 CATEGORIES:theater
 DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/arrancamiento/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Calle Málaga
+DTSTART;TZID=Europe/Madrid:20260510T203500
+UID:b76ae3af0df66416e491a69993a0f25c9360489d90c5fc573937f45936278438
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 116 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2025\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1067714/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Todo Lo Que Fuimos
+DTSTART;TZID=Europe/Madrid:20260510T203500
+UID:c475cecdc53c98991a0723284bfc455b0398eac48bd4145d664274a450e0ecc3
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 145 min
+ utos | No recomendada para menores de 16 años\n\nOriginal title: اللي
+  باقي منك\n\nRelease year: 2025\n\nOriginal language: AR\n\nAudio: 
+ VOSE\n\nhttps://www.pillalas.com/pase/1067773/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yo No Moriré De Amor
+DTSTART;TZID=Europe/Madrid:20260510T215500
+UID:9a9d368eeab35dcf2358dc88436cbb3285a7ab92c61f2ce89dc45d67ceb11372
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 94 minutos | No recom
+ endada para menores de 12 años\n\nRelease year: 2026\n\nOriginal language
+ : ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1067774/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Todo Lo Que Fuimos
+DTSTART;TZID=Europe/Madrid:20260510T221500
+UID:c710b85ffe459a6ca471df4a685343961cd678dff1ed4a4cbaa117b41e795e1f
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 145 min
+ utos | No recomendada para menores de 16 años\n\nOriginal title: اللي
+  باقي منك\n\nRelease year: 2025\n\nOriginal language: AR\n\nAudio: 
+ VOSE\n\nhttps://www.pillalas.com/pase/1067775/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Incontrolable
+DTSTART;TZID=Europe/Madrid:20260510T223500
+UID:f18598d86dd09a416f8f246eeb4e0385e34f8952a43489902c0e95a6a65f1e1a
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 120 min
+ utos | No recomendada para menores de 12 años\n\nRelease year: 2006\n\nOr
+ iginal language: FR\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/106777
+ 6/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Calle Málaga
+DTSTART;TZID=Europe/Madrid:20260510T224500
+UID:dcae818deda712a8b9364c094f3988e98b5430a3cd74397696b559d2aaf56f45
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 116 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2025\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1067715/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Incontrolable
+DTSTART;TZID=Europe/Madrid:20260511T155000
+UID:4de082fcb9903d2f7c4e3ceefc4c8019a1ba28ddd2fcfb7638d8f752bb95ff74
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 120 min
+ utos | No recomendada para menores de 12 años\n\nRelease year: 2006\n\nOr
+ iginal language: FR\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/106777
+ 8/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Todo Lo Que Fuimos
+DTSTART;TZID=Europe/Madrid:20260511T155000
+UID:bf2ba669f06d8f9c060e613777b1c691c2f9c3f077cd5bbbec7d00d067aaf0d8
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 145 min
+ utos | No recomendada para menores de 16 años\n\nOriginal title: اللي
+  باقي منك\n\nRelease year: 2025\n\nOriginal language: AR\n\nAudio: 
+ VOSE\n\nhttps://www.pillalas.com/pase/1067777/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Calle Málaga
+DTSTART;TZID=Europe/Madrid:20260511T160000
+UID:316469cb204e33b6aa9e5b1e74e08722dfe34263ca171b8f355f5d8418a81657
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 116 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2025\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1067716/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Isla De Amrum
+DTSTART;TZID=Europe/Madrid:20260511T160000
+UID:0b42897f8b57af24ccad60adfff758681d52a414b2d22e2c5101462a995ced74
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 93 minu
+ tos | No recomendada para menores de 12 años\n\nOriginal title: Amrum\n\n
+ Release year: 2025\n\nOriginal language: DE\n\nAudio: VOSE\n\nhttps://www.
+ pillalas.com/pase/1067779/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yo No Moriré De Amor
+DTSTART;TZID=Europe/Madrid:20260511T161000
+UID:2c41f98e9471da13d14bda3aa5536d2f42d1d5c8fff001d8094dcbc4d71135fe
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 94 minutos | No recom
+ endada para menores de 12 años\n\nRelease year: 2026\n\nOriginal language
+ : ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1067780/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Todo Lo Que Fuimos
+DTSTART;TZID=Europe/Madrid:20260511T175000
+UID:5a8f1a93fb0f426ee5e81d5ca64b23065b91b7112b860e6bbda0f199ad533fab
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 145 min
+ utos | No recomendada para menores de 16 años\n\nOriginal title: اللي
+  باقي منك\n\nRelease year: 2025\n\nOriginal language: AR\n\nAudio: 
+ VOSE\n\nhttps://www.pillalas.com/pase/1067781/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Incontrolable
+DTSTART;TZID=Europe/Madrid:20260511T180500
+UID:0b93942c6016221e72ad10e407f370c3a16a08567ef753bbb75fc44e43a1c0d5
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 120 min
+ utos | No recomendada para menores de 12 años\n\nRelease year: 2006\n\nOr
+ iginal language: FR\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/106778
+ 3/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yo No Moriré De Amor
+DTSTART;TZID=Europe/Madrid:20260511T180500
+UID:07107dabc588deadb0560bba96bccb1b7ae3a13bb1eec02402c61994936a9667
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 94 minutos | No recom
+ endada para menores de 12 años\n\nRelease year: 2026\n\nOriginal language
+ : ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1067782/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Calle Málaga
+DTSTART;TZID=Europe/Madrid:20260511T181500
+UID:9b82a75c36d9970b52937b715cbf35588fa47316c4bd32315d90f9571e8b80a9
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 116 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2025\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1067717/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Isla De Amrum
+DTSTART;TZID=Europe/Madrid:20260511T183000
+UID:d09b4e0ad32c80f8d6e3110339e84133987068b08f87fbd3fd3d44879265f2e6
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 93 minu
+ tos | No recomendada para menores de 12 años\n\nOriginal title: Amrum\n\n
+ Release year: 2025\n\nOriginal language: DE\n\nAudio: VOSE\n\nhttps://www.
+ pillalas.com/pase/1067784/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cine a ciegas
+DTSTART;TZID=Europe/Madrid:20260511T193000
+UID:73948fcb1cc879329c579586ed8a7491a9bb7da7fafcecbc4315e08eea553ef0
+CATEGORIES:cinema
+DESCRIPTION:¿Recuerdas aquel día que fuiste al cine sin saber qué pelí
+ cula ibas a ver? Al final resultó ser una que jamás has podido olvidar.\
+ nQueremos proponerte una cita a ciegas con el cine\, una película de la q
+ ue no sepas nada de nada\, ni siquiera su título.\nUna experiencia en la 
+ que vas a depositar tu confianza en nosotrxs viendo una película de próx
+ imo estreno o un gran clásico contemporáneo o antiguo.¿Te atreves?\n\n
+ https://cinesembajadores.es/pelicula/cine-a-ciegas/?ciudad=madrid
+LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Los árboles no votan
@@ -3706,6 +4185,16 @@ CATEGORIES:theater
 DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/los-arboles-no-votan
  /
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yo No Moriré De Amor
+DTSTART;TZID=Europe/Madrid:20260511T200000
+UID:19128c5b03d40b5a58fefe4898445a79ec5e576cefe94fe482fbd059ef85149a
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 94 minutos | No recom
+ endada para menores de 12 años\n\nRelease year: 2026\n\nOriginal language
+ : ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1067785/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:La Solana. Concierto de presentación
@@ -3727,6 +4216,49 @@ DESCRIPTION:La Solana. Concierto de presentación\n\nCreemos que existe un
 LOCATION:Sala Mirador - Calle Doctor Fourquet\, 31\, 28012 Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Incontrolable
+DTSTART;TZID=Europe/Madrid:20260511T202000
+UID:4ab4a27917877236494e2b2e0e1d8fa86ba4a00b897ec7f72cdc97d9904b9399
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 120 min
+ utos | No recomendada para menores de 12 años\n\nRelease year: 2006\n\nOr
+ iginal language: FR\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/106778
+ 6/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Isla De Amrum
+DTSTART;TZID=Europe/Madrid:20260511T202500
+UID:d03b785e9e7f898d55de829ae10342ae2e190184aa5930ffa1003c1267ec2e71
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 93 minu
+ tos | No recomendada para menores de 12 años\n\nOriginal title: Amrum\n\n
+ Release year: 2025\n\nOriginal language: DE\n\nAudio: VOSE\n\nhttps://www.
+ pillalas.com/pase/1067787/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Calle Málaga
+DTSTART;TZID=Europe/Madrid:20260511T203500
+UID:b4e5c3b422cb2bf3ba4af16cb10261f6c470f9c571e1c84ddfc1b16f279db95b
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 116 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2025\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1067718/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Todo Lo Que Fuimos
+DTSTART;TZID=Europe/Madrid:20260511T203500
+UID:202e66bb6c63924108af5185a12d270e604e79cd8d51a0e9f091d86ccbc31446
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 145 min
+ utos | No recomendada para menores de 16 años\n\nOriginal title: اللي
+  باقي منك\n\nRelease year: 2025\n\nOriginal language: AR\n\nAudio: 
+ VOSE\n\nhttps://www.pillalas.com/pase/1067788/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SERENA BRANCALE Sacro Tour DELIA SICILIA Bedda Tour
 DTSTART;TZID=Europe/Madrid:20260511T210000
 UID:f893a1e4a8fe758357def236e0761e2f8c56863b86d8e2a7a34b440a46ffc04e
@@ -3734,6 +4266,101 @@ CATEGORIES:music
 DESCRIPTION:Concierto\n\nhttps://salavillanos.es/evento/serena-brancale-sa
  cro-tour-delia-sicilia-bedda-tour/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yo No Moriré De Amor
+DTSTART;TZID=Europe/Madrid:20260511T215500
+UID:dcbad73b9deb1ee09d2b5cf640c8b66e75682642d9db312fc4a4fc1e65ba83ca
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 94 minutos | No recom
+ endada para menores de 12 años\n\nRelease year: 2026\n\nOriginal language
+ : ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1067789/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Todo Lo Que Fuimos
+DTSTART;TZID=Europe/Madrid:20260511T221500
+UID:0d5edce49a6fc7bd9eb53e68edb36db658ddb12c942d2f8b6a6fb56584ff4ffe
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 145 min
+ utos | No recomendada para menores de 16 años\n\nOriginal title: اللي
+  باقي منك\n\nRelease year: 2025\n\nOriginal language: AR\n\nAudio: 
+ VOSE\n\nhttps://www.pillalas.com/pase/1067790/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Incontrolable
+DTSTART;TZID=Europe/Madrid:20260511T223500
+UID:adb78a82df9358574e0076287199ed9b119d4610b4a3340cb4ed896234ea4d42
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 120 min
+ utos | No recomendada para menores de 12 años\n\nRelease year: 2006\n\nOr
+ iginal language: FR\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/106779
+ 1/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Calle Málaga
+DTSTART;TZID=Europe/Madrid:20260511T224500
+UID:5dd12bcd12eb6fcb6418ea076d1cd32ef24d23acf1d88871e142cf1f446ae62a
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 116 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2025\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1067719/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Incontrolable
+DTSTART;TZID=Europe/Madrid:20260512T155000
+UID:ba87580b08fed9ce87e3088d19d2b6cfd02a183eadbca5a6674c11b9a627d5dd
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 120 min
+ utos | No recomendada para menores de 12 años\n\nRelease year: 2006\n\nOr
+ iginal language: FR\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/106779
+ 3/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Todo Lo Que Fuimos
+DTSTART;TZID=Europe/Madrid:20260512T155000
+UID:32a383e1ff78c5fc0f5541d869bd11d37cbb5284b4b62487a52cea4249004587
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 145 min
+ utos | No recomendada para menores de 16 años\n\nOriginal title: اللي
+  باقي منك\n\nRelease year: 2025\n\nOriginal language: AR\n\nAudio: 
+ VOSE\n\nhttps://www.pillalas.com/pase/1067792/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Calle Málaga
+DTSTART;TZID=Europe/Madrid:20260512T160000
+UID:242b2ee6543ced9935fdc83b8b60145583258e1fd31d25899fc440b250930a82
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 116 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2025\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1067720/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Isla De Amrum
+DTSTART;TZID=Europe/Madrid:20260512T160000
+UID:dd856c44eeb8e79527b318fb74c3602711b34c55d9b6626f2a937bcd306811e8
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 93 minu
+ tos | No recomendada para menores de 12 años\n\nOriginal title: Amrum\n\n
+ Release year: 2025\n\nOriginal language: DE\n\nAudio: VOSE\n\nhttps://www.
+ pillalas.com/pase/1067794/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yo No Moriré De Amor
+DTSTART;TZID=Europe/Madrid:20260512T161000
+UID:393533289f2fc8f81453ac839b1e6aafe14a13be9252e4c3a311a0743071af36
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 94 minutos | No recom
+ endada para menores de 12 años\n\nRelease year: 2026\n\nOriginal language
+ : ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1067795/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Zarzuela: Doña Francisquita (San Isidro 2026)
@@ -3755,6 +4382,93 @@ DESCRIPTION:La obra maestra absoluta de Amadeu Vives regresa al Gran Teatr
 LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Todo comienzo es un ensayo. Sesión 11 del grupo de estudio con Va
+ lentina Desideri. Political Therapy: Versión Enjambre
+DTSTART;TZID=Europe/Madrid:20260512T170000
+DTEND;TZID=Europe/Madrid:20260512T200000
+UID:082d4902204b1c576f2cc6092e2513603b7dbfe74b0aebf1aac3f28eb1977072
+CATEGORIES:other
+DESCRIPTION:El grupo de estudio de Todo comienzo es un ensayo acompaña al
+  programa de residencias de Arte por venir de la Fundación Daniel y Nina 
+ Carasso en las reflexiones que\, a lo largo de este año\, están girando 
+ en torno a qué puede ser una residencia y cómo se configuran sus diferen
+ tes condiciones: espaciales\, afectivas y políticas. Durante su estancia\
+ , la artista Valentina Desideri trabajará en dos capítulos\, dedicados r
+ espectivamente a la Political Therapy [Terapia política] y a la performan
+ ce\, interrogando qué significa pensar y aprender colectivamente desde la
+  residencia misma.\n\nEn esta sesión\, Valentina Desideri se centrará co
+ ncretamente en la Political Therapy\, una práctica artística que toma el
+ ementos del dispositivo terapéutico y que busca abordar\, a través del t
+ acto\, cualquier problema político que estemos enfrentando o al que quera
+ mos dedicar cierto tiempo. Una actividad que Valentina comenzó en 2010 y 
+ que\, desde entonces\, ha llevado a cabo tanto en sesiones individuales co
+ mo en pequeños grupos.\n\nAhora\, en este grupo de estudio\, contará con
+  Vito Gil-Delgado para proponer una Versión Enjambre\, esto es\, una moda
+ lidad grupal de la práctica. Tomando como base su amplia experiencia y el
+  placer que ambas encuentran en el trabajo colectivo\, experimentarán con
+  formatos que puedan inspirarnos a articular nuestras preocupaciones\, enc
+ ontrar preguntas comunes y avanzar en procesos de estudio colectivos.\n\nV
+ alentina Desideri explora la creación artística como una forma de estudi
+ o y el estudio como una forma de creación artística. Es artista y actual
+ mente es investigadora en el Centre for the Arts and the Political Imagina
+ ry (CAPIm) de la Royal Academy of the Arts & HDK-Valand en Suecia. Está r
+ eescribiendo su tesis doctoral “Studio Practice: Experiments in Objectle
+ ss and Objectiveless Artmaking” para su publicación\, mientras sigue ce
+ ntrándose en el estudio como práctica colaborativa de la imaginación po
+ lítica.\n\nVito Gil-Delgado es educadora de museos\, artista y escritora.
+  Desde 2009 a 2025 trabajó en el Departamento de Educación del Museo Cen
+ tro de Arte Dos de Mayo de Madrid. Fue responsable de programas educativos
+  y realizó talleres y actividades con públicos diversos. Su investigaci
+ ón (tanto artística y literaria como educativa) se enfoca en la potencia
+  de la performance\, el arte amateur y los procesos colectivos y en cómo 
+ hacer del arte un lugar de encuentro capaz de abrir y multiplicar las posi
+ bilidades del mundo.\n\nhttps://www.infinitodelicias.com/es/agenda/todo-co
+ mienzo-es-un-ensayo-sesion-11-valentina-desideri
+LOCATION:El Estudio - C. de Juana Dona\, 5\, Arganzuela\, 28045 Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Todo Lo Que Fuimos
+DTSTART;TZID=Europe/Madrid:20260512T175000
+UID:fd99d1e7af3d217705b63b816e74fb92d826701360f054379948ed49a50c464d
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 145 min
+ utos | No recomendada para menores de 16 años\n\nOriginal title: اللي
+  باقي منك\n\nRelease year: 2025\n\nOriginal language: AR\n\nAudio: 
+ VOSE\n\nhttps://www.pillalas.com/pase/1067796/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Incontrolable
+DTSTART;TZID=Europe/Madrid:20260512T180500
+UID:c5b2626669f4083e26f99c3f8f381463178c59bc9853300c4e0821240ac9cad4
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 120 min
+ utos | No recomendada para menores de 12 años\n\nRelease year: 2006\n\nOr
+ iginal language: FR\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/106779
+ 7/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yo No Moriré De Amor
+DTSTART;TZID=Europe/Madrid:20260512T180500
+UID:ea381adec5ec4f1579e53c97b2b523c18844042ad64630bc7bf6c5e19e619a65
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 94 minutos | No recom
+ endada para menores de 12 años\n\nRelease year: 2026\n\nOriginal language
+ : ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1067798/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Calle Málaga
+DTSTART;TZID=Europe/Madrid:20260512T181500
+UID:e23ef923678ef9ab531d530c3892a450c17728a6a29cc5c591fe132d2d4734dc
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 116 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2025\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1067721/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ciclo de conferencias: Breve historia del blockbuster
 DTSTART;TZID=Europe/Madrid:20260512T183000
 UID:b96752d6169a057ac8b9338caecac3b31304f7d67edee91980f9d4e93a60be31
@@ -3772,19 +4486,24 @@ DESCRIPTION:El cine de gran espectáculo\, conocido como blockbuster a par
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:La Isla De Amrum
+DTSTART;TZID=Europe/Madrid:20260512T183000
+UID:471b9e440b1b1898bf7c5646ba7cd80cdf0967ed12f067a93cc0b1e5e2586847
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 93 minu
+ tos | No recomendada para menores de 12 años\n\nOriginal title: Amrum\n\n
+ Release year: 2025\n\nOriginal language: DE\n\nAudio: VOSE\n\nhttps://www.
+ pillalas.com/pase/1067799/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Cinco documentales de Augusto M. Torres
 DTSTART;TZID=Europe/Madrid:20260512T190000
 UID:92ea1d190c483afc116ca94e992d1769e7045a30382cfe8dd89e11deafcb29e5
 CATEGORIES:cinema
-DESCRIPTION:div#sliding-popup\, div#sliding-popup .eu-cookie-withdraw-bann
- er\, .eu-cookie-withdraw-tab {background: #d9d9d9} div#sliding-popup.eu-co
- okie-withdraw-wrapper { background: transparent\; } #sliding-popup h1\, #s
- liding-popup h2\, #sliding-popup h3\, #sliding-popup p\, #sliding-popup la
- bel\, #sliding-popup div\, .eu-cookie-compliance-more-button\, .eu-cookie-
- compliance-secondary-button\, .eu-cookie-withdraw-tab { color: #333333\;} 
- .eu-cookie-withdraw-tab { border-color: #333333\;} Cinco documentales de A
- ugusto M. Torres | Cineteca\n\nhttps://www.cinetecamadrid.com/programacion
- /cinco-documentales-de-augusto-m-torres
+DESCRIPTION:El cineasta Augusto M. Torres muestra cinco formas diferentes 
+ de hacer documentales.\n\nhttps://www.cinetecamadrid.com/programacion/cinc
+ o-documentales-de-augusto-m-torres
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -3807,6 +4526,101 @@ DESCRIPTION:Mesa redonda previa a la proyección con la presencia de Aleja
  : 2012\n\nOriginal language: EN\n\nhttps://www.cinetecamadrid.com/programa
  cion/pepe-el-andaluz-0
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yo No Moriré De Amor
+DTSTART;TZID=Europe/Madrid:20260512T200000
+UID:e0c8569bed7df8b7ca4c4057c5fe4a20da82388f6ed396653e2c2e10fe50764f
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 94 minutos | No recom
+ endada para menores de 12 años\n\nRelease year: 2026\n\nOriginal language
+ : ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1067800/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Incontrolable
+DTSTART;TZID=Europe/Madrid:20260512T202000
+UID:790f77ad300bf391d32079e898777f07cd63f5f1cafe411e257100127a850daa
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 120 min
+ utos | No recomendada para menores de 12 años\n\nRelease year: 2006\n\nOr
+ iginal language: FR\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/106780
+ 1/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Isla De Amrum
+DTSTART;TZID=Europe/Madrid:20260512T202500
+UID:e3ceea0bb0b95cf9abbd98849b3e7d45be48edb117394ccba7ee1d3fd59a9edc
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 93 minu
+ tos | No recomendada para menores de 12 años\n\nOriginal title: Amrum\n\n
+ Release year: 2025\n\nOriginal language: DE\n\nAudio: VOSE\n\nhttps://www.
+ pillalas.com/pase/1067802/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Calle Málaga
+DTSTART;TZID=Europe/Madrid:20260512T203500
+UID:a87c2c6456e0493df566e05470d85dd652af47bd8cba01c9d7dbe5ad7e49934f
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 116 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2025\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1067722/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Todo Lo Que Fuimos
+DTSTART;TZID=Europe/Madrid:20260512T203500
+UID:85eaaea7eafd42e60416429af4531b62dcea7948572569ff892b5f49f7902faf
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 145 min
+ utos | No recomendada para menores de 16 años\n\nOriginal title: اللي
+  باقي منك\n\nRelease year: 2025\n\nOriginal language: AR\n\nAudio: 
+ VOSE\n\nhttps://www.pillalas.com/pase/1067803/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yo No Moriré De Amor
+DTSTART;TZID=Europe/Madrid:20260512T215500
+UID:50a0dc90e6852f8d8a1dad4231feae0f97358abfd37791f9012d8ca8c61d2c29
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 94 minutos | No recom
+ endada para menores de 12 años\n\nRelease year: 2026\n\nOriginal language
+ : ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1067804/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Todo Lo Que Fuimos
+DTSTART;TZID=Europe/Madrid:20260512T221500
+UID:1bc70f77638d6c32cc8c0c71a60e423cbfaa3a9b7e70c7a8903baebee2f3ba5c
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 145 min
+ utos | No recomendada para menores de 16 años\n\nOriginal title: اللي
+  باقي منك\n\nRelease year: 2025\n\nOriginal language: AR\n\nAudio: 
+ VOSE\n\nhttps://www.pillalas.com/pase/1067805/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Incontrolable
+DTSTART;TZID=Europe/Madrid:20260512T223500
+UID:743aff820e48a2a9cddab88ecd6a626e8806dfb61daa998fb3b5c5c9e7cb80ee
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 120 min
+ utos | No recomendada para menores de 12 años\n\nRelease year: 2006\n\nOr
+ iginal language: FR\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/106780
+ 6/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Calle Málaga
+DTSTART;TZID=Europe/Madrid:20260512T224500
+UID:5a3ac632ff117bb427c44ae0c19539cff508dfa7f6ee866553c3b3b794f72f80
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 116 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2025\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1067723/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:La danza\, ¿el arte olvidado de la medicina?
@@ -4061,6 +4875,112 @@ DESCRIPTION:Conoce de la mano de Rocío Mena\, abogada del despacho Gabeir
 LOCATION:Cocina Plató - C. de Juana Dona\, 5\, Arganzuela\, 28045 Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Incontrolable
+DTSTART;TZID=Europe/Madrid:20260513T155000
+UID:2353f7fb16653f0d8c19ad9f742d9e9e814d8a4b0d3f536210946991afa72b60
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 120 min
+ utos | No recomendada para menores de 12 años\n\nRelease year: 2006\n\nOr
+ iginal language: FR\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/106780
+ 7/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Todo Lo Que Fuimos
+DTSTART;TZID=Europe/Madrid:20260513T155000
+UID:7911cec48963331c4a438acd420c3b98aa60d9d90472ef4c40710e81a3b3b8db
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 145 min
+ utos | No recomendada para menores de 16 años\n\nOriginal title: اللي
+  باقي منك\n\nRelease year: 2025\n\nOriginal language: AR\n\nAudio: 
+ VOSE\n\nhttps://www.pillalas.com/pase/1067808/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Calle Málaga
+DTSTART;TZID=Europe/Madrid:20260513T160000
+UID:427be5788e14631ac8dd41a140a1d10823cc0483b25313207e02983669e19feb
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 116 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2025\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1067724/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Isla De Amrum
+DTSTART;TZID=Europe/Madrid:20260513T160000
+UID:e411c094594cb5dbde93be83e2bffe1edb3a1a0a5d3bf641195535df5da20160
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 93 minu
+ tos | No recomendada para menores de 12 años\n\nOriginal title: Amrum\n\n
+ Release year: 2025\n\nOriginal language: DE\n\nAudio: VOSE\n\nhttps://www.
+ pillalas.com/pase/1067809/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yo No Moriré De Amor
+DTSTART;TZID=Europe/Madrid:20260513T161000
+UID:cd29f685dad68be3f0854aa65d2503433bef91f373f6e9604f73d6e2059ac51b
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 94 minutos | No recom
+ endada para menores de 12 años\n\nRelease year: 2026\n\nOriginal language
+ : ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1067810/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Todo Lo Que Fuimos
+DTSTART;TZID=Europe/Madrid:20260513T175000
+UID:6841c49990f5da7d59af22ae1fbb1f9005bf9dc76fcd651cd8c5fb5ff7afcf39
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 145 min
+ utos | No recomendada para menores de 16 años\n\nOriginal title: اللي
+  باقي منك\n\nRelease year: 2025\n\nOriginal language: AR\n\nAudio: 
+ VOSE\n\nhttps://www.pillalas.com/pase/1067811/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Incontrolable
+DTSTART;TZID=Europe/Madrid:20260513T180500
+UID:c9d66fa836cc4ed0cebc5d9bb49f860b563ae9e73ed6d442458e01a3f81b1a4f
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 120 min
+ utos | No recomendada para menores de 12 años\n\nRelease year: 2006\n\nOr
+ iginal language: FR\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/106781
+ 3/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yo No Moriré De Amor
+DTSTART;TZID=Europe/Madrid:20260513T180500
+UID:787bbfdf4eefecf0becc2eaab444adaf5ea0592882c033acc3fa53ae4c662157
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 94 minutos | No recom
+ endada para menores de 12 años\n\nRelease year: 2026\n\nOriginal language
+ : ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1067812/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Calle Málaga
+DTSTART;TZID=Europe/Madrid:20260513T181500
+UID:308dcec0127305f621a40d7168be9f2f1e04e72c77d9b17dcb0e372cc589cf2b
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 116 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2025\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1067725/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Isla De Amrum
+DTSTART;TZID=Europe/Madrid:20260513T183000
+UID:4c5294de7f053c2cbbe48695a8612c61249cf72e8c962ad32fdcec284a2ec3f1
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 93 minu
+ tos | No recomendada para menores de 12 años\n\nOriginal title: Amrum\n\n
+ Release year: 2025\n\nOriginal language: DE\n\nAudio: VOSE\n\nhttps://www.
+ pillalas.com/pase/1067814/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Los Super 80
 DTSTART;TZID=Europe/Madrid:20260513T190000
 UID:0bd6448f0703472566bd0eef7e7ab66d6c89e2dd908d97fc41c8b0b42bb94b81
@@ -4074,6 +4994,25 @@ DESCRIPTION:Definido por el crítico J. Hoberman como el underground del u
  istas en España con una de las obras maestras de Luther Price/Tom Rhoads.
  \n\nhttps://www.cinetecamadrid.com/programacion/los-super-80
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El amigo inesperado
+DTSTART;TZID=Europe/Madrid:20260513T193000
+DTEND;TZID=Europe/Madrid:20260513T211200
+UID:04c110a3828571927f8165957897e3e52aea4e63c112f8105ae3a8dcc3dfd075
+CATEGORIES:cinema
+DESCRIPTION:Baptiste es un brillante imitador de famosos\, pero no consigu
+ e vivir de su oficio. Un día conoce a Pierre Chozène\, un famoso escrito
+ r cuya vida diaria se ve constantemente interrumpida por las llamadas de s
+ u editor\, de su hija\, de su ex mujer... Pierre\, que necesita paz y tran
+ quilidad para escribir su nueva novela\, propone a Baptiste que se convier
+ ta en su "contestador automático"\, haciéndose pasar por él al teléfon
+ o... Pero las cosas se complican cuando Baptiste se mete demasiado en el p
+ ersonaje y empieza a tomar sus propias decisiones.\n\nOriginal title: Le R
+ épondeur\n\nRelease year: 2025\n\nOriginal language: FR\n\nAudio: VOSE\n\
+ nhttps://cinesembajadores.es/pelicula/el-amigo-inesperado-vose/?ciudad=mad
+ rid
+LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Federico. No hay olvido\, ni sueño: Carne viva
@@ -4099,6 +5038,38 @@ DESCRIPTION:El asalto al Capitolio acontecido en 2021\, documentado por su
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Yo No Moriré De Amor
+DTSTART;TZID=Europe/Madrid:20260513T200000
+UID:085eb83ccf89150852f31eabda608cb095e5b9054db598435e2f44e175d6d727
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 94 minutos | No recom
+ endada para menores de 12 años\n\nRelease year: 2026\n\nOriginal language
+ : ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1067815/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Incontrolable
+DTSTART;TZID=Europe/Madrid:20260513T202000
+UID:ca3e3748d598485d27353ba2cfe3c3d3dbdb7167a61a2694548ec90339e0d20f
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 120 min
+ utos | No recomendada para menores de 12 años\n\nRelease year: 2006\n\nOr
+ iginal language: FR\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/106781
+ 6/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Isla De Amrum
+DTSTART;TZID=Europe/Madrid:20260513T202500
+UID:40d8fee9efa8a18016e80aade00c08ca270766b23273573b50c5907ae2afa60d
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 93 minu
+ tos | No recomendada para menores de 12 años\n\nOriginal title: Amrum\n\n
+ Release year: 2025\n\nOriginal language: DE\n\nAudio: VOSE\n\nhttps://www.
+ pillalas.com/pase/1067817/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Caja de resistencia + Descartes
 DTSTART;TZID=Europe/Madrid:20260513T203000
 UID:d08ff8c84edf8031310d7281815289562ee4b568b1c4ab29649560fdc51f5fdc
@@ -4108,6 +5079,175 @@ DESCRIPTION:Mesa redonda previa a la proyección con la presencia de Aleja
  rectora de fotografía) (Duración aproximada: 30’).\n\nhttps://www.cine
  tecamadrid.com/programacion/caja-de-resistencia-descartes
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Calle Málaga
+DTSTART;TZID=Europe/Madrid:20260513T203500
+UID:5e8e505c639e328b86582a018b381bf7d0bc3dd98ce6d4d019c022449929e813
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 116 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2025\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1067726/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Todo Lo Que Fuimos
+DTSTART;TZID=Europe/Madrid:20260513T203500
+UID:7a4ed85980cca4b9d3d0de7256365fe479245d6a958fd35dba2edc7feaa40164
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 145 min
+ utos | No recomendada para menores de 16 años\n\nOriginal title: اللي
+  باقي منك\n\nRelease year: 2025\n\nOriginal language: AR\n\nAudio: 
+ VOSE\n\nhttps://www.pillalas.com/pase/1067818/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yo No Moriré De Amor
+DTSTART;TZID=Europe/Madrid:20260513T215500
+UID:99df5feba0fe719126d2ed6d1a148359b2fe9be4046ccfd34278e13d0a01aeb5
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 94 minutos | No recom
+ endada para menores de 12 años\n\nRelease year: 2026\n\nOriginal language
+ : ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1067819/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Todo Lo Que Fuimos
+DTSTART;TZID=Europe/Madrid:20260513T221500
+UID:96fd47e07e5f350bbe691bc7be9bec7eacb8a9c237ba21d5d85c7a1f4c8aa175
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 145 min
+ utos | No recomendada para menores de 16 años\n\nOriginal title: اللي
+  باقي منك\n\nRelease year: 2025\n\nOriginal language: AR\n\nAudio: 
+ VOSE\n\nhttps://www.pillalas.com/pase/1067820/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Incontrolable
+DTSTART;TZID=Europe/Madrid:20260513T223500
+UID:6416087cfed7fa8f9c3783367e102e595c3dd2816fbf6a84dcbf6d0a622671d6
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 120 min
+ utos | No recomendada para menores de 12 años\n\nRelease year: 2006\n\nOr
+ iginal language: FR\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/106782
+ 1/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Calle Málaga
+DTSTART;TZID=Europe/Madrid:20260513T224500
+UID:245b12eae962816c175c20c43eee72d96387e78e0512a9d3b88a328076cea0f5
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 116 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2025\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1067727/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Incontrolable
+DTSTART;TZID=Europe/Madrid:20260514T155000
+UID:e32e95a822f8d6f29d1508d6f15ddbfb7f5a08e1632ecfbb7947065199596039
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 120 min
+ utos | No recomendada para menores de 12 años\n\nRelease year: 2006\n\nOr
+ iginal language: FR\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/106782
+ 2/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Todo Lo Que Fuimos
+DTSTART;TZID=Europe/Madrid:20260514T155000
+UID:33b53e6205afc129baba51ae74a78f488ccd851d2b0b9807fd6c2d4e9cf46ac4
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 145 min
+ utos | No recomendada para menores de 16 años\n\nOriginal title: اللي
+  باقي منك\n\nRelease year: 2025\n\nOriginal language: AR\n\nAudio: 
+ VOSE\n\nhttps://www.pillalas.com/pase/1067823/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Calle Málaga
+DTSTART;TZID=Europe/Madrid:20260514T160000
+UID:1e66a6b0151b9316374971a3938fa20fdd279d88b5ecff4eb6789cbe5964451e
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 116 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2025\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1067728/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Isla De Amrum
+DTSTART;TZID=Europe/Madrid:20260514T160000
+UID:7072bc9a67a08b5f0e3071ec693845dc7d577342fc817284e996f001054c16bc
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 93 minu
+ tos | No recomendada para menores de 12 años\n\nOriginal title: Amrum\n\n
+ Release year: 2025\n\nOriginal language: DE\n\nAudio: VOSE\n\nhttps://www.
+ pillalas.com/pase/1067824/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yo No Moriré De Amor
+DTSTART;TZID=Europe/Madrid:20260514T161000
+UID:1c3b6384a90b092cc92c21a09783efca8403215a5e6813f812cb2066e2ec01cd
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 94 minutos | No recom
+ endada para menores de 12 años\n\nRelease year: 2026\n\nOriginal language
+ : ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1067825/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Todo Lo Que Fuimos
+DTSTART;TZID=Europe/Madrid:20260514T175000
+UID:218fb5ee2e16fcd1681ec0e8fe5e1f05a1e085f57e393837ac7be48dd9cf9c9a
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 145 min
+ utos | No recomendada para menores de 16 años\n\nOriginal title: اللي
+  باقي منك\n\nRelease year: 2025\n\nOriginal language: AR\n\nAudio: 
+ VOSE\n\nhttps://www.pillalas.com/pase/1067826/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Incontrolable
+DTSTART;TZID=Europe/Madrid:20260514T180500
+UID:2370c080f74e5917b7c1e12b3b896c7fec551af2aadd6cc07a89debc1915da4c
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 120 min
+ utos | No recomendada para menores de 12 años\n\nRelease year: 2006\n\nOr
+ iginal language: FR\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/106782
+ 8/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yo No Moriré De Amor
+DTSTART;TZID=Europe/Madrid:20260514T180500
+UID:6fa502b3f513bf5bd38ed294c0b754a001bc0842bf05516938717d784e9b47b6
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 94 minutos | No recom
+ endada para menores de 12 años\n\nRelease year: 2026\n\nOriginal language
+ : ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1067827/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Calle Málaga
+DTSTART;TZID=Europe/Madrid:20260514T181500
+UID:e955de2a7a6387830d428f7731608801d9071d1bbbbf73fd788d70f0a311a755
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 116 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2025\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1067729/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Isla De Amrum
+DTSTART;TZID=Europe/Madrid:20260514T183000
+UID:9788fa241539b120f81c9a104bd1a0733dbbc3b87ce64e8ea1331d47b8e7ec00
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 93 minu
+ tos | No recomendada para menores de 12 años\n\nOriginal title: Amrum\n\n
+ Release year: 2025\n\nOriginal language: DE\n\nAudio: VOSE\n\nhttps://www.
+ pillalas.com/pase/1067829/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ballet
@@ -4194,6 +5334,38 @@ DESCRIPTION:Trail Running Film Festival 2026: Estreno absoluto en Madrid\n
 LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Yo No Moriré De Amor
+DTSTART;TZID=Europe/Madrid:20260514T200000
+UID:9353fcade57d116ab6e8ec49c3fb6ba165e8358611e07c6160bf44d61ef87940
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 94 minutos | No recom
+ endada para menores de 12 años\n\nRelease year: 2026\n\nOriginal language
+ : ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1067830/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Incontrolable
+DTSTART;TZID=Europe/Madrid:20260514T202000
+UID:3b5d8df69d17c08d6f865583a0ff3212efc4b011edc31a5d06fc53cc854b8685
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 120 min
+ utos | No recomendada para menores de 12 años\n\nRelease year: 2006\n\nOr
+ iginal language: FR\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/106783
+ 1/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Isla De Amrum
+DTSTART;TZID=Europe/Madrid:20260514T202500
+UID:82b7fa7153f1b4ea2476fac3a4dc0b2fdc3e00285906b6b7055ed98bb23c0b6a
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 93 minu
+ tos | No recomendada para menores de 12 años\n\nOriginal title: Amrum\n\n
+ Release year: 2025\n\nOriginal language: DE\n\nAudio: VOSE\n\nhttps://www.
+ pillalas.com/pase/1067832/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Lela Soto
 DTSTART;TZID=Europe/Madrid:20260514T203000
 UID:8316f0c79f2ab5d62db670fb0ff15ba8f2a4b404783968e652604a41844a4f44
@@ -4201,6 +5373,27 @@ CATEGORIES:music
 DESCRIPTION:Concierto / Electronic / Flamenco\n\nhttps://salavillanos.es/e
  vento/lela-soto/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Calle Málaga
+DTSTART;TZID=Europe/Madrid:20260514T203500
+UID:6817fcc3b49eb28fbd119afbcd5fdc3928ae751acc1947d4698c3a7a806847d5
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 116 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2025\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1067730/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Todo Lo Que Fuimos
+DTSTART;TZID=Europe/Madrid:20260514T203500
+UID:dca568688071eecfd9d9574033816d6bda026d7b4ba8c6a828f50426e097d2c2
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 145 min
+ utos | No recomendada para menores de 16 años\n\nOriginal title: اللي
+  باقي منك\n\nRelease year: 2025\n\nOriginal language: AR\n\nAudio: 
+ VOSE\n\nhttps://www.pillalas.com/pase/1067833/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:La Leñera (tributo a Leño)
@@ -4212,6 +5405,48 @@ DESCRIPTION:Precio de las entradas: 12€/15€ Entradas a la venta en mov
  leno San Isidro\, La Leñera\, lo\n\nhttps://gruta77.com/events/la-lenera-
  tributo-a-leno-7/var/ri-0.l-L2
 LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yo No Moriré De Amor
+DTSTART;TZID=Europe/Madrid:20260514T215500
+UID:185ef703a3371d57547d7423d6ac16e8e331b36665c45f00a7e505b1438c4e37
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 94 minutos | No recom
+ endada para menores de 12 años\n\nRelease year: 2026\n\nOriginal language
+ : ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1067834/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Todo Lo Que Fuimos
+DTSTART;TZID=Europe/Madrid:20260514T221500
+UID:7d60e47c8f02d5e7abb62bfb1133d6af64495c8249b2191cdc826bc51b99bec1
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 145 min
+ utos | No recomendada para menores de 16 años\n\nOriginal title: اللي
+  باقي منك\n\nRelease year: 2025\n\nOriginal language: AR\n\nAudio: 
+ VOSE\n\nhttps://www.pillalas.com/pase/1067835/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Incontrolable
+DTSTART;TZID=Europe/Madrid:20260514T223500
+UID:a7e02b7f4a7e338392a365af308809c26083941cfa8bd6dbcbbc73080d29f18c
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 120 min
+ utos | No recomendada para menores de 12 años\n\nRelease year: 2006\n\nOr
+ iginal language: FR\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/106783
+ 6/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Calle Málaga
+DTSTART;TZID=Europe/Madrid:20260514T224500
+UID:f5aaf281b2949afbb948ce64ce1131e75a9ad1591392eeb7578dfd36b07805e5
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 116 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2025\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1067731/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Alnidal Halal حالل النضال
@@ -4652,24 +5887,25 @@ DESCRIPTION:La audiodescripción es una herramienta de accesibilidad que p
  gia de aprendizaje\, y beneficiarse de recursos literarios que exploraremo
  s mediante ejercicios prácticos. "Esta actividad está dirigida a person
  as con o sin discapacidad\, diagnosticadas o dentro de las identidades cri
- p\, loque\, diska\, enferme\, psiquiatrizade\, neurodivergente y afines."\
- , Maite Barrera Villarías. Comisaria e investigadora y ha centrado toda 
- su práctica en los vínculos entre arte y discapacidad. Comisarió las ed
- iciones VII y VIII de la Bienal de Arte Contemporáneo de la Fundación ON
- CE. Ha participado con un artículo en el volumen Curating Access. Disabi
- lity Art Activism and Creative Accommodation (2023)\, primera publicació
- n dedicada a la accesibilidad creativa. Su último proyecto ha sido la pro
- ducción y presentación de la versión en español de "Blue Description P
- roject"\, un acercamiento desde la accesibilidad creativa a la película d
- e Derek Jarman\, Blue. En la actualidad\, pertenece al grupo de investigac
- ión Ekotonos\, sobre. espacios makers transversalmente inclusivos\, de la
-  Universidad Autónoma de Madrid. Esta actividad forma parte del proyecto 
- Spasticus Artisticus \, que se enmarca en "Metodologías experimentales"\,
-  la línea de trabajo de Intermediae para la innovación metodológica\, q
- ue en la edición 2025-2026 se desarrolla en colaboración con el Departam
- ento de Educación y Públicos\, en su objetivo común de diversificar per
- files de público y fomentar los derechos culturales.\n\nhttps://www.matad
- eromadrid.org/programacion/volver-ver-pero-como-si-ver-fuese-un-pais
+ p\, loque\, diska\, enferme\, psiquiatrizade\, neurodivergente y afines." 
+ Maite Barrera Villarías. Comisaria e investigadora y ha centrado toda su
+  práctica en los vínculos entre arte y discapacidad. Comisarió las edic
+ iones VII y VIII de la Bienal de Arte Contemporáneo de la Fundación ONCE
+ . Ha participado con un artículo en el volumen Curating Access. Disabili
+ ty Art Activism and Creative Accommodation (2023)\, primera publicación 
+ dedicada a la accesibilidad creativa. Su último proyecto ha sido la produ
+ cción y presentación de la versión en español de "Blue Description Pro
+ ject"\, un acercamiento desde la accesibilidad creativa a la película de 
+ Derek Jarman\, Blue. En la actualidad\, pertenece al grupo de investigaci
+ ón Ekotonos\, sobre. espacios makers transversalmente inclusivos\, de la 
+ Universidad Autónoma de Madrid. Esta actividad forma parte del proyecto 
+ “ Spasticus Artisticus ”\, que se enmarca en "Metodologías experiment
+ ales"\, la línea de trabajo de Intermediae para la innovación metodológ
+ ica\, que en la edición 2025-2026 se desarrolla en colaboración con el D
+ epartamento de Educación y Públicos\, en su objetivo común de diversifi
+ car perfiles de público y fomentar los derechos culturales.\n\nhttps://ww
+ w.mataderomadrid.org/programacion/volver-ver-pero-como-si-ver-fuese-un-pai
+ s
 LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -4728,6 +5964,53 @@ DESCRIPTION:Un escultor establece su taller en una apartada zona rural de
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Escenificación\, tecnología y magia. Visita guiada a Amazon
+DTSTART;TZID=Europe/Madrid:20260520T140000
+UID:b4938703b0d44f85828aae0ed11376fae9854a2cdbd5945d7f7485b3be7aed5f
+CATEGORIES:other
+DESCRIPTION:¿Qué tienen en común un autómata del siglo XVII y un robot
+  de un centro logístico avanzado? El proyecto de investigación pública 
+ El Gesto Digital de Andrea Muniáin y Paula Ramos Mollá \, proyecto en re
+ sidencia en Medialab en el programa Investigación Situada 2026 \, parte d
+ e esta pregunta para explorar las relaciones históricas y contemporáneas
+  entre tecnología y magia\, entendiendo lo mágico como una continua luch
+ a entre ocultamiento y revelación a lo largo de la historia de la tecnolo
+ gía. Andrea Muniáin y Paula Ramos Mollá abordan estas cuestiones en la 
+ serie de actividades "Escenificación\, tecnología y magia" que comienza 
+ con una visita al centro logístico de Amazon en Illescas\, uno de los ent
+ ornos de automatización industrial más avanzados de la actualidad. En es
+ te espacio\, donde humanos y robots conviven en una coreografía altamente
+  optimizada\, se despliega una visión contemporánea de la eficiencia\, l
+ a predicción y el control del movimiento\, sostenida por sistemas algorí
+ tmicos y robóticos de última generación. Lejos de quedarse en un acerca
+ miento técnico o corporativo\, la actividad propone una lectura crítica 
+ que conecta estos avances con una genealogía más larga de los automatism
+ os. Desde los autómatas del siglo XVII —concebidos como espectáculos d
+ e ingenio\, maravilla y demostración de poder técnico— hasta los actua
+ les sistemas robotizados\, la automatización ha estado siempre ligada a u
+ na dimensión escénica: mostrar que la máquina "cobra vida"\, que el mov
+ imiento puede programarse\, repetirse y optimizarse. En este sentido\, los
+  robots de Amazon pueden leerse como herederos contemporáneos de los teat
+ ros de autómatas: dispositivos que\, bajo la promesa de eficiencia y neut
+ ralidad técnica\, esconden complejas decisiones políticas\, económicas 
+ y sociales. La visita nos permitirá reflexionar sobre cómo estos sistema
+ s transforman la relación entre gesto\, trabajo y cuerpo\, y cómo el esp
+ ectáculo de la automatización contribuye a naturalizar modelos productiv
+ os cada vez más opacos e inaccesibles. La visita funcionará también com
+ o preparación conceptual y espacio de reflexión compartida entre todos l
+ os participantes. Durante la visita\, Andrea y Paula presentarán el traba
+ jo de investigación actualmente en desarrollo y trazarán las líneas de 
+ las próximas actividades públicas\, compartiendo ideas\, preguntas y est
+ rategias de investigación. Información práctica Actividad gratuita  co
+ n inscripción previa\, se asignarán las plazas por orden de registro y p
+ revia confirmación. Punto de encuentro en Matadero (entrada Paseo de la C
+ hopera 14) el miércoles 20 de mayo a las 14:00h. Salida del autobús a la
+ s 14:15h en punto sin excepciones. Regreso alrededor de las 18:00h en el m
+ ismo lugar. Formulario de inscripción\n\nhttps://www.mataderomadrid.org/p
+ rogramacion/escenificacion-tecnologia-y-magia-visita-guiada-amazon
+LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ricky on Leacock
 DTSTART;TZID=Europe/Madrid:20260520T190000
 UID:a9cb37508b3bf8d1737b2bd1af06aa6fafa86e73462d08c2746b33322899cc64
@@ -4766,6 +6049,16 @@ CATEGORIES:theater
 DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/gordas-lisiadas-y-ma
  marrachas/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cultura Viva x Palestina y UNRWA
+DTSTART;TZID=Europe/Madrid:20260520T200000
+UID:9668466941206be582b58064cb0a34fd6886c0e57d8af0ea85373ab29bb3e98d
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 18:30 Horas\n\nhttps://www.entradas.com/arti
+ st/cultura-viva/?affiliate=ADE
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ginel Presenta Borde Vivo + Mauro Samaniego
@@ -4841,15 +6134,14 @@ SUMMARY:La casa de mi abuela
 DTSTART;TZID=Europe/Madrid:20260521T200000
 UID:7eb905f1e0cb4dac51b32fad9c2e445ed265bcb88782e9d36bd3a3421ba01943
 CATEGORIES:cinema
-DESCRIPTION:div#sliding-popup\, div#sliding-popup .eu-cookie-withdraw-bann
- er\, .eu-cookie-withdraw-tab {background: #d9d9d9} div#sliding-popup.eu-co
- okie-withdraw-wrapper { background: transparent\; } #sliding-popup h1\, #s
- liding-popup h2\, #sliding-popup h3\, #sliding-popup p\, #sliding-popup la
- bel\, #sliding-popup div\, .eu-cookie-compliance-more-button\, .eu-cookie-
- compliance-secondary-button\, .eu-cookie-withdraw-tab { color: #333333\;} 
- .eu-cookie-withdraw-tab { border-color: #333333\;}\n\nRelease year: 2005\n
- \nOriginal language: ES\n\nhttps://www.cinetecamadrid.com/programacion/la-
- casa-de-mi-abuela
+DESCRIPTION:Narra la relación que Marina\, una niña de 6 años\, impulsi
+ va e irreverente\, tiene con Marita\, su abuela de 75 años. La rancia edu
+ cación a la que la abuela somete a la niña provoca que esta se rebele no
+  solo contra ella\, sino contra todo aquel que intente corregir su comport
+ amiento. A lo largo de varias etapas se reconstruye la vida y costumbres d
+ e una familia dejando al descubierto emociones y conflictos.\n\nRelease ye
+ ar: 2005\n\nOriginal language: ES\n\nhttps://www.cinetecamadrid.com/progra
+ macion/la-casa-de-mi-abuela
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -5053,14 +6345,13 @@ SUMMARY:Los ilusos 13+13
 DTSTART;TZID=Europe/Madrid:20260522T203000
 UID:d095113572a697a28a69cb400daf7db500ec8d054744d5e41e302235112aca33
 CATEGORIES:cinema
-DESCRIPTION:div#sliding-popup\, div#sliding-popup .eu-cookie-withdraw-bann
- er\, .eu-cookie-withdraw-tab {background: #d9d9d9} div#sliding-popup.eu-co
- okie-withdraw-wrapper { background: transparent\; } #sliding-popup h1\, #s
- liding-popup h2\, #sliding-popup h3\, #sliding-popup p\, #sliding-popup la
- bel\, #sliding-popup div\, .eu-cookie-compliance-more-button\, .eu-cookie-
- compliance-secondary-button\, .eu-cookie-withdraw-tab { color: #333333\;} 
- .eu-cookie-withdraw-tab { border-color: #333333\;}\n\nhttps://www.cineteca
- madrid.com/programacion/los-ilusos-1313
+DESCRIPTION:Los ilusos 13+13 es una película sobre el deseo de hacer cine
+ \, o sobre lo que hacen algunos cineastas cuando no hacen cine\; sobre per
+ der el tiempo y el tiempo perdido\; sobre conversaciones\, borracheras\, c
+ omidas y rutinas\; sobre los paseos al salir del cine\; sobre estar enamor
+ ado\; sobre estar solo y estar con amigos\, construyendo futuros recuerdos
+  para una película futura.\n\nhttps://www.cinetecamadrid.com/programacion
+ /los-ilusos-1313
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -5591,6 +6882,19 @@ DESCRIPTION:Continuación de la serie "The Mandalorian" en forma de pelíc
 LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ewa Juszkiewicz
+DTSTART;TZID=Europe/Madrid:20260526T000000
+DTEND;TZID=Europe/Madrid:20260906T000000
+UID:d50e869426ba46da044681e7621f58fb9e377f662cc8e9a637c7e21b08930f87
+CATEGORIES:exhibition
+DESCRIPTION:Una monográfica dedicada a la artista polaca cuyo trabajo co
+ mbina una técnica pictórica minuciosa con un contenido provocador y sub
+ versivo (Museo Nacional Thyssen-Bornemisza.\n\nhttps://www.museothyssen.or
+ g/exposiciones/ewa-juszkiewicz
+LOCATION:Museo Nacional Thyssen-Bornemisza - del Prado\, 8\, Madrid\, 2801
+ 4
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:A la manera de Italia. España y el gótico mediterráneo (1320-14
  20)
 DTSTART;TZID=Europe/Madrid:20260526T000000
@@ -5874,6 +7178,22 @@ DESCRIPTION:Concierto / Rock\n\nhttps://salavillanos.es/evento/luback/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Rap en La Mirador Vol.3
+DTSTART;TZID=Europe/Madrid:20260528T203000
+UID:09958a88efd1d59421bb8c8a0b2e95dbb5bb5dd74c71530e6366b7ac7f9e9471
+CATEGORIES:music
+DESCRIPTION:Rap en La Mirador Vol.3\n\nLa Sala Mirador acoge la tercera e
+ dición de "Rap en la Mirador"\, un encuentro donde tres poderosas artista
+ s del panorama nacional del rap compartirán flow y rimas:\n\nCarolina Tre
+ boada\, Lashe\, Ángela Tiriri Dj Soro. Presentada por\n\nCelia Bsoul\n\n\
+ , la velada acercará al público a estas tres propuestas donde el rap tom
+ a una mirada escénica. Como cierre\, habrá un breve micro abierto donde 
+ se dará espacio a otras voces\, viajando de lo íntimo a lo colectivo par
+ a celebrar la música y la palabra.\n\nhttps://lamirador.com/funcion?nombr
+ e=rap-en-la-mirador-vol-3-2026
+LOCATION:Sala Mirador - Calle Doctor Fourquet\, 31\, 28012 Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Recce + Afterlives
 DTSTART;TZID=Europe/Madrid:20260528T210000
 UID:9b61cab42d6b156610f32a4b37330e1d7599df1536a1bbea485de78797b99a68
@@ -6047,7 +7367,7 @@ DESCRIPTION:A lo largo de su filmografía\, Ross McElwee ha explorado dive
  , introduce una dimensión elegíaca que tensiona aún más la película: 
  filmar ya no garantiza la preservación\, sino que expone la fragilidad de
   la experiencia que se intenta retener. (Irene Castro)\n\nRelease year: 20
- 03\n\nOriginal language: BS\n\nAudio: VOSE\n\nhttps://www.cinetecamadrid.c
+ 26\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://www.cinetecamadrid.c
  om/programacion/remake
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
@@ -6413,6 +7733,17 @@ LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
  id
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Endometriosis. Laia Abril (PHotoESPAÑA 2026)
+DTSTART;TZID=Europe/Madrid:20260602T000000
+DTEND;TZID=Europe/Madrid:20260913T000000
+UID:3a7ee24afc60bec4a5d711d277f14326f581eea45cc7cc7b5ca171cbb113d27c
+CATEGORIES:exhibition
+DESCRIPTION:Exposición donde la artista presenta una instalación sobre l
+ a endometriosis y la deslegitimación del dolor (Museo del Romanticismo. 2
+  jun a 13 sept).\n\nhttps://phe.es/exposicion/endometriosis/
+LOCATION:Museo del Romanticismo - de San Mateo\, 13\, Madrid\, 28004
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Dip
 DTSTART;TZID=Europe/Madrid:20260602T203000
 UID:67a5c68c098bf631fff2235961bac86613f6284b2088b44a1742ead870e97566
@@ -6420,6 +7751,18 @@ CATEGORIES:music
 DESCRIPTION:Concierto / Villanos del Jazz\n\nhttps://salavillanos.es/event
  o/the-dip/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lux & Umbra. Viviane Sassen (PHotoESPAÑA 2026)
+DTSTART;TZID=Europe/Madrid:20260603T000000
+DTEND;TZID=Europe/Madrid:20260726T000000
+UID:feb73c9c5d2f79923fa4961b5a7306bff39d66d40867c9d793aa3fbc4399f91f
+CATEGORIES:exhibition
+DESCRIPTION:La fotógrafa neerlandesa protagoniza una de las grandes expos
+ iciones del festival PHotoESPAÑA 2026 (Fernán Gómez Centro Cultural de 
+ La Villa. 3 jun a 26 jul).\n\nhttps://phe.es/exposicion/lux-umbra/
+LOCATION:Fernán Gómez Centro Cultural de la Villa - de Colón \, 4\, Mad
+ rid\, 28001
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Somos Naturaleza
@@ -6431,5 +7774,17 @@ DESCRIPTION:Experiencia audiovisual inmersiva que muestra la biodiversidad
   de forma innovadora (CaixaForum Madrid. 3 jun a 7 mar).\n\nhttps://caixaf
  orum.org/es/madrid/p/somos-naturaleza-madrid
 LOCATION:CaixaForum Madrid - del Prado\, 36\, Madrid\, 28014
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los mismos lugares. Jorge Yeregui (PHotoESPAÑA 2026)
+DTSTART;TZID=Europe/Madrid:20260604T000000
+DTEND;TZID=Europe/Madrid:20260906T000000
+UID:ea4126f928acf1c74b6f5c4b9038603a2aea8e36a2df65df6466110b31e886e6
+CATEGORIES:exhibition
+DESCRIPTION:Muestra que analiza la transformación del territorio mediante
+  fotografía\, vídeo e instalación\, abordando dinámicas sociales\, urb
+ anas y ambientales contemporáneas (Museo ICO. 4 jun a 6 sept).\n\nhttps:/
+ /phe.es/exposicion/los-mismos-lugares/
+LOCATION:Museo ICO - de Zorrilla\, 3\, Madrid\, 28014
 END:VEVENT
 END:VCALENDAR
