@@ -359,19 +359,6 @@ DESCRIPTION:El artista aragonés expone varias pinturas\, esculturas y dib
 LOCATION:Museo de Historia - de Fuencarral\, 78\, Madrid\, 28004
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Oriol Maspons
-DTSTART;TZID=Europe/Madrid:20251217T000000
-DTEND;TZID=Europe/Madrid:20260614T000000
-UID:86a14a38cc9379110a6f480e1e95754a0ddd89d1a39bcbf60980decb1815a708
-CATEGORIES:exhibition
-DESCRIPTION:Selección de obras del fotógrafo español considerado uno d
- e los más activos e influyentes fotógrafos de la Escuela de Barcelona (
- Real Academia de Bellas Artes de San Fernando.\n\nhttps://www.realacademia
- bellasartessanfernando.com/actividades/exposiciones/oriol-maspons/
-LOCATION:Real Academia de Bellas Artes de San Fernando - de Alcalá\, 13\,
-  Madrid\, 28014
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:75 años de la Colección Marañón: el origen del Fondo Antiguo d
  e la Biblioteca COAM
 DTSTART;TZID=Europe/Madrid:20251218T000000
@@ -419,6 +406,18 @@ DESCRIPTION:Exposición organizada por Renfe que muestra un viaje por 85 a
  ños de memoria visual (Museo del Ferrocarril. Hasta 31 mayo).\n\nhttps://
  www.museodelferrocarril.org/exposiciones/viajar-en-el-tiempo/
 LOCATION:Museo del Ferrocarril - de las Delicias\, 61\, Madrid\, 28045
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Julia\, de Jaume Plensa
+DTSTART;TZID=Europe/Madrid:20251221T000000
+DTEND;TZID=Europe/Madrid:20271231T000000
+UID:7171f6f50b0beab2efb6aa0071ff19f668c52e8be99bf2701e8ecdc14a1dd592
+CATEGORIES:exhibition
+DESCRIPTION:Una escultura de 12 metros del artista barcelonés se ubica so
+ bre el pedestal donde estaba la estatua del navegante genovés (Plaza de C
+ olón. Hasta diciembre 2027).\n\nhttps://www.fundacioncristinamasaveu.com/
+ portfolio/julia-de-jaume-plensa/
+LOCATION:Plaza de Colón - de Colón\, Madrid\, 28004
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fardo. Andrea Canepa
@@ -739,19 +738,6 @@ DESCRIPTION:El artista José María Sicilia instala obras creadas ex profe
  so en las estancias más emblemáticas del palacio (Palacio de Liria. Hast
  a 31 may).\n\nhttps://www.palaciodeliria.com/
 LOCATION:Palacio de Liria - de la Princesa\, 20\, Madrid\, 28008
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Eclosión. El Círculo de Bellas Artes en los 80 y 90
-DTSTART;TZID=Europe/Madrid:20260225T000000
-DTEND;TZID=Europe/Madrid:20260510T000000
-UID:df8843aa27649dc0af2e4f4d0218ba29b3cf53a3e96fcc516a3eef4ad11ded67
-CATEGORIES:exhibition
-DESCRIPTION:Exposición que revisa su periodo de renovación y la volunt
- ad de convertirse en un centro cultural multidisciplinar\, innovador y con
- ectado con las necesidades de su tiempo (Círculo de Bell\n\nhttps://www.c
- irculobellasartes.com/exposiciones/eclosion-el-circulo-de-bellas-artes-en-
- los-80-y-90/
-LOCATION:Círculo de Bellas Artes - de Alcalá\, 42\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Abierto x Obras - Pulgar. Mónica Mays
@@ -1616,6 +1602,18 @@ DESCRIPTION:La artista argentina da voz a las mujeres que han sido invisib
 LOCATION:Museo de América - de los Reyes Católicos\, 6\, Madrid\, 28040
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:(Super)Models - Mayrit 2026
+DTSTART;TZID=Europe/Madrid:20260430T000000
+DTEND;TZID=Europe/Madrid:20260621T000000
+UID:0939f2e7b00d5b185e5d9e4b36263d77cf9820f14f8a3264b747d27849590372
+CATEGORIES:exhibition
+DESCRIPTION:Exposición sobre estos mecanismos utilizados en múltiples fa
+ cetas de la sociedad\, en el marco de la Bienal de Diseño y Arquitectura 
+ de Madrid (Intermediae. Matadero Madrid. Hasta 21 junio).\n\nhttps://www.m
+ ataderomadrid.org/programacion/exposicion-supermodels
+LOCATION:Intermediæ (Matadero) - de la Chopera\, 14\, Madrid\, 28045
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Thomas Houseago. Esculturas. Jardín Banca March
 DTSTART;TZID=Europe/Madrid:20260501T000000
 DTEND;TZID=Europe/Madrid:20261030T000000
@@ -1639,6 +1637,18 @@ DESCRIPTION:Experiencia que reúne los movimientos artísticos más inf
  tillismo\, posimpresionismo\, cubismo y expresionismo (Nomad Museo\n\nhttp
  s://www.nomadmuseo.es/
 LOCATION:Nomad Museo Inmersivo - Gran Vía\, 78\, Madrid\, 28013
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chema Madoz (PHotoESPAÑA 2026)
+DTSTART;TZID=Europe/Madrid:20260505T000000
+DTEND;TZID=Europe/Madrid:20260710T000000
+UID:d2af89e8a2e8c05ebbe4163bc345b74cc8611b83d21b432a993af002eb476e52
+CATEGORIES:exhibition
+DESCRIPTION:Nueva exposición individual en la galería del fotógrafo que
+  reúne su obra reciente realizada entre 2024 y 2025 (Galería Elvira Gonz
+ ález. Hasta 10 julio).\n\nhttps://phe.es/exposicion/chema-madoz/
+LOCATION:Galería Elvira González - de los Hermanos Alvárez Quintero \, 
+ 1\, Madrid\, 28004
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:El Imperio Fan Contraataca
@@ -1752,6 +1762,31 @@ LOCATION:Espacio Cultural Serrería Belga - de la Alameda\, 15\, Madrid\,
  28014
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Espacio Fotolibros (PHotoESPAÑA 2026)
+DTSTART;TZID=Europe/Madrid:20260514T000000
+DTEND;TZID=Europe/Madrid:20260628T000000
+UID:96641347723ccc83a3c905785a38137b8f702fa2d79e6804f07806f4fa166e27
+CATEGORIES:exhibition
+DESCRIPTION:Exposición que realiza un recorrido por el mundo del fotolibr
+ o contemporáneo\, en el marco del festival PHotoESPAÑA (Espacio Cultural
+  Serrería Belga. 14 may a 28 jun).\n\nhttps://phe.es/exposicion/espacio-f
+ otolibros/
+LOCATION:Espacio Cultural Serrería Belga - de la Alameda\, 15\, Madrid\, 
+ 28014
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FUJIKINA 2026. Festival Europeo de Fotografía de Fujifilm
+DTSTART;TZID=Europe/Madrid:20260523T000000
+DTEND;TZID=Europe/Madrid:20260524T000000
+UID:9873b7c59d0d1bd6860a73d76b78c84fac8ebcf68f82330d49f050b4bcac2a2e
+CATEGORIES:exhibition
+DESCRIPTION:Un programa con conferencias magistrales\, charlas en directo\
+ , exposiciones\, talleres\, demostraciones\, préstamos de equipos\, paseo
+ s fotográficos y otras actividades (COAM. 23 y 24 mayo).\n\nhttps://www.f
+ ujifilm-x.com/es-es/events/fujikina-madrid-2026/
+LOCATION:COAM - de Hortaleza\, 63\, Madrid\, 28004
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ewa Juszkiewicz
 DTSTART;TZID=Europe/Madrid:20260526T000000
 DTEND;TZID=Europe/Madrid:20260906T000000
@@ -1848,5 +1883,28 @@ DESCRIPTION:Muestra que explora el paso de lo ritual a los actuales sistem
   la materia (Nave 0 - Matadero. 4 jun a 31 jul).\n\nhttps://phe.es/exposic
  ion/ofertorio/
 LOCATION:Nave 0 (Matadero) - de Legazpi \, 8\, Madrid\, 28045
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Refusal. Second Fracture. Rafael Milach (PHotoESPAÑA 2026)
+DTSTART;TZID=Europe/Madrid:20260605T000000
+DTEND;TZID=Europe/Madrid:20260927T000000
+UID:b0460599081cf889bf277b7a494df4445c6d1da25223c870673efd3d0d9598f9
+CATEGORIES:exhibition
+DESCRIPTION:Un análisis sobre poder\, propaganda y acción colectiva en E
+ uropa del Este a través de la fotografía contemporánea (Círculo de Bel
+ las Artes - Sala Goya. 5 jun a 27 sept).\n\nhttps://phe.es/exposicion/refu
+ sal-second-fracture/
+LOCATION:Círculo de Bellas Artes - de Alcalá\, 42\, Madrid\, 28014
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ruina Montium. Raphaëlle Peria (PHotoESPAÑA 2026)
+DTSTART;TZID=Europe/Madrid:20260605T000000
+DTEND;TZID=Europe/Madrid:20260927T000000
+UID:39498a0b8a75d71d7ebd70bec9a7a3d25b697d2e5161064175e637151c0e1ffd
+CATEGORIES:exhibition
+DESCRIPTION:La artista reinterpreta el paisaje de Las Médulas mediante fo
+ tografía intervenida y materia mineral (Círculo de Bellas Artes - Sala M
+ inerva. 5 jun a 27 sept).\n\nhttps://phe.es/exposicion/ruina-montium/
+LOCATION:Círculo de Bellas Artes - de Alcalá\, 42\, Madrid\, 28014
 END:VEVENT
 END:VCALENDAR

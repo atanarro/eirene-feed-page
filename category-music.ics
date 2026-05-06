@@ -2,31 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Melendi
-DTSTART;TZID=Europe/Madrid:20260505T200000
-UID:dafc48677fbb7fcfddda3ef3539b816443f6c1647d000a8226b933dd362cab26
-CATEGORIES:music
-DESCRIPTION:Apertura Puertas: 18:30 Horas\n\nhttps://www.cadenadial.com/20
- 26/melendi-en-concierto-con-cadena-dial-presentando-en-primicia-su-disco-p
- op-rock-fecha-lugar-e-invitaciones-449974.html
-LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
- id
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Capítulo XXXI: José Iges\, 75 años (músicas indisciplinadas)
-DTSTART;TZID=Europe/Madrid:20260506T120000
-UID:4b5a6857d36eaf6e71df66b6c116daf22ba187ef3dd6c37a720b89b0d82bb0fb
-CATEGORIES:music
-DESCRIPTION:Pocas personas han resultado tan influyentes como José Iges (
- Madrid\, 1951) en la historia de las músicas experimentales y el arte son
- oro en España durante los últimos cincuenta años. En esta sesión de es
- cucha celebramos su labor como artista\, su trabajo en el ámbito del comi
- sariado y la producción radiofónica y\, más ampliamente\, su vida. Migu
- el Álvarez-Fernández\, comisario del ciclo\n\nhttps://www.mataderomadrid
- .org/programacion/capitulo-xxxi-jose-iges-75-anos-musicas-indisciplinadas
-LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Sanguijuelas del Guadiana (Tercera Fecha)
 DTSTART;TZID=Europe/Madrid:20260506T210000
 UID:52fc810613f8cb247abba4839863e7e2c86442b7b7d4e3ef8c9607c8681e9e94
@@ -212,6 +187,15 @@ UID:f893a1e4a8fe758357def236e0761e2f8c56863b86d8e2a7a34b440a46ffc04e
 CATEGORIES:music
 DESCRIPTION:Concierto\n\nhttps://salavillanos.es/evento/serena-brancale-sa
  cro-tour-delia-sicilia-bedda-tour/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Juicy Sessions
+DTSTART;TZID=Europe/Madrid:20260513T220000
+UID:e0fe7c90fd28b991debbb89000e48b68e9b66f875b52657558632f644533085b
+CATEGORIES:music
+DESCRIPTION:Concierto / Urban / Hip Hop & Rap / Soul & R&B / Pop\n\nhttps:
+ //salavillanos.es/evento/juicy-sessions-5/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -559,6 +543,14 @@ LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
  id
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Dharmacide
+DTSTART;TZID=Europe/Madrid:20260529T211500
+UID:fbf749d0dac9c6c43b039a9128993ef373a33885e73d676f20ca05c023b41378
+CATEGORIES:music
+DESCRIPTION:Concierto / Rock\n\nhttps://salavillanos.es/evento/dharmadice/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Poetas Puestos + Terapia Colectiva
 DTSTART;TZID=Europe/Madrid:20260529T213000
 UID:3a3df77d0abeaaee056a39752841f2f1ae2a2d41425c57474ac26a67c1b94cba
@@ -600,6 +592,15 @@ DESCRIPTION:Precio de las entradas: 18€/23€ Entradas a la venta en ent
 LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:VILLAMOLINOS matinés musicales
+DTSTART;TZID=Europe/Madrid:20260531T130000
+UID:8180f40a06bc5272d70a3980c4c879337d17c0f2a8b7cedfb4bd3b4238a65e07
+CATEGORIES:music
+DESCRIPTION:Concierto / Jazz\n\nhttps://salavillanos.es/evento/villamolino
+ s-matines-musicales-8/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:R01 – Dime Si Vas A Venir Tour
 DTSTART;TZID=Europe/Madrid:20260531T210000
 UID:e64e7faf08086b9bc291ac2287499392b257f3e360b07025de605a0d3e994eac
@@ -625,6 +626,24 @@ UID:67a5c68c098bf631fff2235961bac86613f6284b2088b44a1742ead870e97566
 CATEGORIES:music
 DESCRIPTION:Concierto / Villanos del Jazz\n\nhttps://salavillanos.es/event
  o/the-dip/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Clutch + Bokassa
+DTSTART;TZID=Europe/Madrid:20260604T200000
+UID:1deae84a204d8293594878240fccb62443f1e0546d01010489bc68b0c771f7be
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://feverup.com/m/519684
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Fiesta Trifasica: Bakandeya\, El Sombrero Del Abuelo Y Kike M
+DTSTART;TZID=Europe/Madrid:20260604T203000
+UID:27ad704d9d257b64743c3a348f6639c9f6544f3a08c58d72806a1e3f3c6c0a43
+CATEGORIES:music
+DESCRIPTION:Concierto / Latin / Rock / Pop\n\nhttps://salavillanos.es/even
+ to/la-fiesta-trifasica-bakandeya-el-sombrero-del-abuelo-y-kike-m/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 END:VCALENDAR
