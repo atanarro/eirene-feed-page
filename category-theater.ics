@@ -3,31 +3,13 @@ VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
 SUMMARY:Guayominí
-DTSTART;TZID=Europe/Madrid:20260506T193000
+DTSTART;TZID=Europe/Madrid:20260507T193000
 DTEND;TZID=Europe/Madrid:20260517T183000
 UID:fb2dc857668957f5d7d1d47ee18f558122fdd59002bd0dd5cf3e9b964fb195ba
 CATEGORIES:theater
 DESCRIPTION:Entradas disponibles desde 15.75€ | Tags: JOBO\n\nhttps://ti
  enda.madrid-destino.com/es/nave-10/guayomini/
 LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Saúl y la noche
-DTSTART;TZID=Europe/Madrid:20260506T193000
-UID:a8c06135ad0e180d239e2656ec1874a2c08f55c226042661ead2402d3c52614c
-CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 16 plazas!\n\nhttps://teatrodelbarrio.com/sau
- l-y-la-noche/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Swing en el Teatro del Barrio
-DTSTART;TZID=Europe/Madrid:20260506T220000
-UID:5c341b585b60d4c56bca8220f9014a0f85b4b92f1154f0552dd4e7f4c73c62bb
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/swing-en-el-teatro-d
- el-barrio/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Saúl y la noche
@@ -60,7 +42,7 @@ SUMMARY:Jajás en el Barrio
 DTSTART;TZID=Europe/Madrid:20260507T220000
 UID:dfa446aef4709283b339060cb898753b5a2fadb441d4c40506eae57181d45c57
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 1 plazas!\n\nhttps://teatrodelbarrio.com/jaja
+DESCRIPTION:¡Ya solo quedan 5 plazas!\n\nhttps://teatrodelbarrio.com/jaja
  s-en-el-barrio/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
@@ -69,8 +51,8 @@ SUMMARY:Saúl y la noche
 DTSTART;TZID=Europe/Madrid:20260508T193000
 UID:4d9821297be29e2e271cf15fb5ae4a23fc42d008fd6313c952510eec0b1d44c2
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 25 plazas!\n\nhttps://teatrodelbarrio.com/sau
- l-y-la-noche/
+DESCRIPTION:¡Ya solo quedan 9 plazas!\n\nhttps://teatrodelbarrio.com/saul
+ -y-la-noche/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -104,7 +86,7 @@ SUMMARY:Saúl y la noche
 DTSTART;TZID=Europe/Madrid:20260509T193000
 UID:531474ce13735752d2a2375861f3019f25861398a889bbe2184eca75b83ed09b
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 2 plazas!\n\nhttps://teatrodelbarrio.com/saul
+DESCRIPTION:¡Ya solo quedan 1 plazas!\n\nhttps://teatrodelbarrio.com/saul
  -y-la-noche/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
@@ -116,6 +98,23 @@ CATEGORIES:theater
 DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/aupa-lere-percusion-
  para-crecer/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jane Austen a través de sus cartas 250 aniversario de su nacimien
+ to
+DTSTART;TZID=Europe/Madrid:20260510T120000
+UID:682fefa2ebb329be6bf7c8f94d035a2845bcbbf9d841a1d81520996c0584f61f
+CATEGORIES:theater
+DESCRIPTION:Varias voces del panorama cultural actual español interpretar
+ án a la escritora británica a lo largo de las diversas etapas de su vida
+ . Gracias a las cartas que se intercambiaba con su hermana Cassandra podem
+ os conocer mejor a la autora de Emma\, Sentido y sensibilidad u Orgullo y 
+ prejuicio. Coordinado por su editora y traductora\, Amparo Llanos\, conoce
+ remos la vida de Jane Austen por una selección epistolar de la autora ing
+ lesa en el 250 aniversario de su nacimiento. Organiza: Editorial Renacimie
+ nto. Público: Jóvenes y adultos.\n\nhttps://www.mataderomadrid.org/progr
+ amacion/jane-austen-traves-de-sus-cartas-250-aniversario-de-su-nacimiento
+LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:¿Por qué\, Shonda?
@@ -144,8 +143,8 @@ SUMMARY:Miércoles que parecen jueves\, de Juan José Millás
 DTSTART;TZID=Europe/Madrid:20260510T130000
 UID:687523e1f36e4f0b16e5b654e0df7c64928602208d1b2f7d4a856409e89f445f
 CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/miercoles-que-parece
- n-jueves/
+DESCRIPTION:¡Ya solo quedan 28 plazas!\n\nhttps://teatrodelbarrio.com/mie
+ rcoles-que-parecen-jueves/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -153,7 +152,8 @@ SUMMARY:Saúl y la noche
 DTSTART;TZID=Europe/Madrid:20260510T180000
 UID:e46b136180fa0dcbb240de8fb40b39f271013f2f6c022bed3e63a2b5e3b1f218
 CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/saul-y-la-noche/
+DESCRIPTION:¡Ya solo quedan 29 plazas!\n\nhttps://teatrodelbarrio.com/sau
+ l-y-la-noche/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -248,6 +248,31 @@ UID:7d7febdbb6e630f8e2f97677f320814fba943b30544a8b7e85e5df032769c447
 CATEGORIES:theater
 DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/paloma-de-parque/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Guayominí
+DTSTART;TZID=Europe/Madrid:20260517T193000
+UID:91b987a1c48153e63373e2c09fe59fd656e8bbbc7789c64b723020d45d570da2
+CATEGORIES:theater
+DESCRIPTION:Según la ley de la gravedad de Newton un cuerpo tarda más en
+  subir que en bajar. Roi\, que está cantando en la final de un importante
+  concurso europeo de canciones\, porque ganó otro concurso nacional tres 
+ meses atrás\, se queda en blanco en plena actuación. Las consecuencias d
+ e este error son inevitables y no tardan en llegar. Laura Garmo nos propon
+ e una historia fresca y optimista sobre la identidad y el fracaso. Guayomi
+ ní es el proyecto de dirección y autoría novel de Nave 10. Un espacio p
+ ara el descubrimiento de nuevas voces. Laura Garmo y Pablo Martínez Bravo
+  ponen en pie una historia sobre la importancia de cuidar lo que tienes ce
+ rca. Roi\, un joven cantautor\, consigue la oportunidad única de particip
+ ar en un concurso que le dará mucha visibilidad. Pero esta oportunidad r
+ ápidamente se le vuelve en contra: Cuando está en pleno ascenso\, ya deb
+ e prepararse para la bajada. Igual que Roi\, vivimos en un sistema fagocit
+ ante basado en el éxito y en la opinión de los demás\, en el que la val
+ ía personal se reduce a lo que podemos producir\, pero Guayominí viene a
+  recodarnos que la vida no es solo un concurso de talentos. Rocío Bello D
+ ramaturgista de la temporada 25/26 de Nave 10 Matadero\n\nhttps://www.mata
+ deromadrid.org/programacion/guayomini
+LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Un verano por metro cuadrado

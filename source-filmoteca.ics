@@ -2,45 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Una chica de Chicago (1960)
-DTSTART;TZID=Europe/Madrid:20260506T173000
-UID:c76674ab3619440463b3437ac7b7f2cda929b4d046f7c997d754f369990a852a
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Miércoles 6 de mayo a las 17:30h (Sala 1. Manue
- l Mur Oti. La estética del desgarro) *Aunque las entradas aparezcan como 
- agotadas en web\, pueden adquirirse en taquilla entradas para las sesiones
-  del día (de 17h a 20h)\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/
- productos/descripcion/una-chica-de-chicago
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Brighton Rock (1948)
-DTSTART;TZID=Europe/Madrid:20260506T193000
-UID:638a5acfc19dade54a2d7a015c66b5608f90a5f5620a56038c2ca24c3afee9b9
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Miércoles 6 de mayo a las 19:30h (Sala 2.Grande
- s expectativas: cine británico de postguerra) *Aunque las entradas aparez
- can como agotadas en web\, pueden adquirirse en taquilla entradas para las
-  sesiones del día (de 17h a 20h)\n\nhttps://entradasfilmoteca.sacatuentra
- da.es/es/productos/descripcion/brighton-rock
-LOCATION:Filmoteca Espanola - Cine Dore Sala 2 - Calle de Santa Isabel\, 3
- \, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tigre y dragón (Wo hu cang long\,2000)
-DTSTART;TZID=Europe/Madrid:20260506T200000
-UID:028c5570c4669f78a04bdd29e79094b04a11fd33fa570e3c7f37ee0b103ecf33
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Miércoles 6 de mayo a las 20:00h (Sala 1.Otras 
- sesiones) *Aunque las entradas aparezcan como agotadas en web\, pueden adq
- uirirse en taquilla entradas para las sesiones del día (de 17h a 20h)\n\n
- https://entradasfilmoteca.sacatuentrada.es/es/productos/descripcion/tigre-
- y-dragon-2
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Condenados (1953)
 DTSTART;TZID=Europe/Madrid:20260507T173000
 UID:48a1214e06495b3815c4da8226df68452e26e98cf2b04141a41e9e6b6a3940fe
@@ -756,6 +717,32 @@ DESCRIPTION:Fecha y Hora: Sábado 30 de Mayo a las 20:30h (Sala 1. Univers
  uirirse en taquilla entradas para las sesiones del día (de 17h a 20h)\n\n
  https://entradasfilmoteca.sacatuentrada.es/es/productos/descripcion/el-des
  precio-segunda-proyeccion-
+LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
+ \, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Condenados (1953)
+DTSTART;TZID=Europe/Madrid:20260531T173000
+UID:99c2f48d0e6b9d6f2599bf04c87a838347923e07fb8f12cb5851ad530f34c860
+CATEGORIES:cinema
+DESCRIPTION:Fecha y Hora: Domingo 31 de Mayo a las 17:30h (Sala 1. Manuel 
+ Mur Oti. La estética del desgarro) *Aunque las entradas aparezcan como ag
+ otadas en web\, pueden adquirirse en taquilla entradas para las sesiones d
+ el día (de 17h a 20h)\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/pr
+ oductos/descripcion/condenados-segunda-proyeccion-
+LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
+ \, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Siempre llueve en domingo (It Always Rains on Sunday\,1947)
+DTSTART;TZID=Europe/Madrid:20260531T200000
+UID:6ab00cafa2a54a5811563de08f594d95e67f21de6cfc2a3566082c92b23beb92
+CATEGORIES:cinema
+DESCRIPTION:Fecha y Hora: Domingo 31 de Mayo a las 20:00h (Sala 1. Grandes
+  expectativas: cine británico de postguerra) *Aunque las entradas aparezc
+ an como agotadas en web\, pueden adquirirse en taquilla entradas para las 
+ sesiones del día (de 17h a 20h)\n\nhttps://entradasfilmoteca.sacatuentrad
+ a.es/es/productos/descripcion/siempre-llueve-en-domingo
 LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
  \, Madrid
 END:VEVENT
