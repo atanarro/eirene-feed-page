@@ -93,6 +93,59 @@
       gap: 0.7rem;
     }
 
+    .filter-section {
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      background: #fffdf8;
+      overflow: hidden;
+    }
+
+    .filter-section[open] {
+      background: #fff;
+    }
+
+    .filter-summary {
+      cursor: pointer;
+      list-style: none;
+      padding: 0.7rem 0.8rem;
+      font-size: 0.95rem;
+      font-weight: 600;
+    }
+
+    .filter-summary::-webkit-details-marker {
+      display: none;
+    }
+
+    .filter-summary::before {
+      content: "+";
+      display: inline-block;
+      width: 1rem;
+      margin-right: 0.35rem;
+      color: var(--muted);
+    }
+
+    .filter-section[open] .filter-summary::before {
+      content: "-";
+    }
+
+    .filter-body {
+      display: grid;
+      gap: 0.7rem;
+      padding: 0 0.8rem 0.8rem;
+    }
+
+    .filter-columns {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 0.8rem;
+      align-items: start;
+    }
+
+    .filter-group {
+      display: grid;
+      gap: 0.45rem;
+    }
+
     .date-row {
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
@@ -458,6 +511,7 @@
     }
 
     @media (max-width: 780px) {
+      .filter-columns { grid-template-columns: 1fr; }
       .cell { min-height: 92px; }
       .event { font-size: 0.68rem; }
     }
@@ -478,72 +532,115 @@
 
     <section class="filters" aria-label="Calendar filters">
       <h2>Filters</h2>
-      <div class="filter-row date-row">
-        <label class="input-label" for="date-start">From date
-          <input id="date-start" type="date">
-        </label>
-        <label class="input-label" for="date-end">To date
-          <input id="date-end" type="date">
-        </label>
-        <label class="input-label" for="text-filter">Text search
-          <input id="text-filter" type="search" placeholder="title, venue, description">
-        </label>
-        <label class="input-label" for="score-min">Min TMDb score
-          <input id="score-min" type="number" min="0" max="10" step="0.1" placeholder="e.g. 7.0">
-        </label>
-        <label class="input-label" for="votes-min">Min TMDb votes
-          <input id="votes-min" type="number" min="0" step="1" placeholder="e.g. 200">
-        </label>
-      </div>
-      <div class="filter-row">
-        <div class="map-panel">
-          <div class="map-toolbar">
-            <p class="map-hint">Click on the map to set center.</p>
+      <details class="filter-section" open>
+        <summary class="filter-summary">Search and dates</summary>
+        <div class="filter-body">
+          <div class="filter-row date-row">
+            <label class="input-label" for="date-start">From date
+              <input id="date-start" type="date">
+            </label>
+            <label class="input-label" for="date-end">To date
+              <input id="date-end" type="date">
+            </label>
+            <label class="input-label" for="text-filter">Text search
+              <input id="text-filter" type="search" placeholder="title, venue, description">
+            </label>
+            <label class="input-label" for="score-min">Min TMDb score
+              <input
+                id="score-min"
+                type="number"
+                min="0"
+                max="10"
+                step="0.1"
+                placeholder="e.g. 7.0"
+              >
+            </label>
+            <label class="input-label" for="votes-min">Min TMDb votes
+              <input id="votes-min" type="number" min="0" step="1" placeholder="e.g. 200">
+            </label>
           </div>
-          <div id="distance-map" aria-label="Distance filter map"></div>
-          <div class="coord-readout">
-            <label class="input-label" for="center-lat">Center latitude
-              <input id="center-lat" type="number" step="0.000001" placeholder="40.4168" readonly>
+          <div class="filter-row date-row">
+            <label class="check" for="rated-only">
+              <input id="rated-only" type="checkbox"> Only rated events
             </label>
-            <label class="input-label" for="center-lon">Center longitude
-              <input id="center-lon" type="number" step="0.000001" placeholder="-3.7038" readonly>
+            <label class="input-label" for="list-sort">List sort
+              <select id="list-sort">
+                <option value="date">Date/time</option>
+                <option value="score">TMDb score</option>
+              </select>
             </label>
-            <label class="input-label" for="distance-km">Max distance (km)
-              <input id="distance-km" type="number" min="0" step="0.1" placeholder="e.g. 5">
-            </label>
-            <div class="coord-actions">
-              <button id="center-geolocate" class="btn" type="button">Use my location</button>
+          </div>
+        </div>
+      </details>
+      <details class="filter-section" open>
+        <summary class="filter-summary">Distance</summary>
+        <div class="filter-body">
+          <div class="filter-row">
+            <div class="map-panel">
+              <div class="map-toolbar">
+                <p class="map-hint">Click on the map to set center.</p>
+              </div>
+              <div id="distance-map" aria-label="Distance filter map"></div>
+              <div class="coord-readout">
+                <label class="input-label" for="center-lat">Center latitude
+                  <input
+                    id="center-lat"
+                    type="number"
+                    step="0.000001"
+                    placeholder="40.4168"
+                    readonly
+                  >
+                </label>
+                <label class="input-label" for="center-lon">Center longitude
+                  <input
+                    id="center-lon"
+                    type="number"
+                    step="0.000001"
+                    placeholder="-3.7038"
+                    readonly
+                  >
+                </label>
+                <label class="input-label" for="distance-km">Max distance (km)
+                  <input id="distance-km" type="number" min="0" step="0.1" placeholder="e.g. 5">
+                </label>
+                <div class="coord-actions">
+                  <button id="center-geolocate" class="btn" type="button">Use my location</button>
+                </div>
+              </div>
             </div>
           </div>
         </div>
-      </div>
-      <div class="filter-row date-row">
-        <label class="check" for="rated-only">
-          <input id="rated-only" type="checkbox"> Only rated events
-        </label>
-        <label class="input-label" for="list-sort">List sort
-          <select id="list-sort">
-            <option value="date">Date/time</option>
-            <option value="score">TMDb score</option>
-          </select>
-        </label>
-      </div>
-      <div class="filter-row">
-        <strong>Event types</strong>
-        <div class="check-actions">
-          <button id="category-all" class="btn" type="button">Select all</button>
-          <button id="category-none" class="btn" type="button">Clear all</button>
+      </details>
+      <details class="filter-section" open>
+        <summary class="filter-summary">Event types</summary>
+        <div class="filter-body">
+          <div class="check-actions">
+            <button id="category-all" class="btn" type="button">Select all</button>
+            <button id="category-none" class="btn" type="button">Clear all</button>
+          </div>
+          <div id="category-filters" class="checks"></div>
         </div>
-        <div id="category-filters" class="checks"></div>
-      </div>
-      <div class="filter-row">
-        <strong>Sources</strong>
-        <div class="check-actions">
-          <button id="source-all" class="btn" type="button">Select all</button>
-          <button id="source-none" class="btn" type="button">Clear all</button>
+      </details>
+      <details class="filter-section">
+        <summary class="filter-summary">Venues</summary>
+        <div class="filter-body">
+          <div class="check-actions">
+            <button id="venue-all" class="btn" type="button">Select all</button>
+            <button id="venue-none" class="btn" type="button">Clear all</button>
+          </div>
+          <div id="venue-filters" class="checks"></div>
         </div>
-        <div id="source-filters" class="checks"></div>
-      </div>
+      </details>
+      <details class="filter-section">
+        <summary class="filter-summary">Sources</summary>
+        <div class="filter-body">
+          <div class="check-actions">
+            <button id="source-all" class="btn" type="button">Select all</button>
+            <button id="source-none" class="btn" type="button">Clear all</button>
+          </div>
+          <div id="source-filters" class="checks"></div>
+        </div>
+      </details>
     </section>
 
     <section id="calendar-shell" class="calendar-shell" aria-label="Calendar view">
@@ -584,6 +681,7 @@
 
     const sourceRoot = document.getElementById("source-filters");
     const categoryRoot = document.getElementById("category-filters");
+    const venueRoot = document.getElementById("venue-filters");
     const dateStartInput = document.getElementById("date-start");
     const dateEndInput = document.getElementById("date-end");
     const textFilterInput = document.getElementById("text-filter");
@@ -617,6 +715,7 @@
     let events = [];
     let sources = [];
     let categories = [];
+    let venues = [];
     let eventsById = new Map();
 
     const now = new Date();
@@ -677,6 +776,7 @@
     function filteredEvents() {
       const selectedSources = checkedValues("source");
       const selectedCategories = checkedValues("category");
+      const selectedVenues = checkedValues("venue");
       const fromDate = dateStartInput.value;
       const toDate = dateEndInput.value;
       const textQuery = textFilterInput.value.trim().toLowerCase();
@@ -692,6 +792,9 @@
           return false;
         }
         if (!selectedCategories.has(event.category)) {
+          return false;
+        }
+        if (!selectedVenues.has(event.venue)) {
           return false;
         }
         if (fromDate && event.end_date < fromDate) {
@@ -1163,6 +1266,14 @@
         }
       }
 
+      const venueValues = valuesFromQuery(params, "venue");
+      if (venueValues.length > 0) {
+        const wanted = new Set(venueValues);
+        for (const input of document.querySelectorAll('input[name="venue"]')) {
+          input.checked = wanted.has(input.value);
+        }
+      }
+
       const start = params.get("start");
       if (start) {
         dateStartInput.value = start;
@@ -1267,6 +1378,12 @@
     document.getElementById("category-none").addEventListener("click", () => {
       setChecks("category", false);
     });
+    document.getElementById("venue-all").addEventListener("click", () => {
+      setChecks("venue", true);
+    });
+    document.getElementById("venue-none").addEventListener("click", () => {
+      setChecks("venue", false);
+    });
 
     viewCalendarBtn.addEventListener("click", () => {
       viewMode = "calendar";
@@ -1336,11 +1453,16 @@
         eventsById = new Map(events.map((event) => [event.id, event]));
         sources = [...new Set(events.map((event) => event.source))].sort();
         categories = [...new Set(events.map((event) => event.category))].sort();
+        venues = [
+          ...new Set(events.map((event) => event.venue).filter((venue) => Boolean(venue))),
+        ].sort();
 
         renderChecks(sourceRoot, "source", sources);
         renderChecks(categoryRoot, "category", categories);
+        renderChecks(venueRoot, "venue", venues);
         listenAll('input[name="source"]');
         listenAll('input[name="category"]');
+        listenAll('input[name="venue"]');
         applyQueryFilters();
         initDistanceMap();
         renderAll();
