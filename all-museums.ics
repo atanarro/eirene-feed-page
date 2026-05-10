@@ -332,19 +332,6 @@ DESCRIPTION:Muestra que se centra en los noticiarios y documentales NO-DO
 LOCATION:Filmoteca Española - de la Magdalena\, 10\, Madrid\, 28012
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Trenes históricos
-DTSTART;TZID=Europe/Madrid:20251205T000000
-DTEND;TZID=Europe/Madrid:20271231T000000
-UID:9d0621e6c17839e3d5f40fd5b71b539d7e21581dfd79ffc32f8986d347ea8bb0
-CATEGORIES:exhibition
-DESCRIPTION:Exposición permanente sobre los primeros trenes que circularo
- n por las vías del suburbano madrileño para conmemorar sus 100 años de 
- vida (Estación de Chamartín).\n\nhttps://museosmetromadrid.es/museos/est
- acion-de-chamartin/
-LOCATION:Estación de Madrid - Chamartín - Clara Campoamor - Agustín de 
- Foxa\, s/n\, Madrid\, 28036
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Naturaleza de asfalto. Madrid hiperrealista. José Miguel Palacio
 DTSTART;TZID=Europe/Madrid:20251216T000000
 DTEND;TZID=Europe/Madrid:20260524T000000
@@ -478,18 +465,6 @@ DESCRIPTION:Retrospectiva de la obra de la artista cubano-dominicana\, una
  el arte contemporáneo (C Arte C. Hasta 10 mayo).\n\nhttps://www.ucm.es/cu
  ltura/exposicion-actual
 LOCATION:C Arte C - de Juan de Herrera\, 2\, Madrid\, 28040
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:De Babel al último rey de Iraq: una civilización milenaria
-DTSTART;TZID=Europe/Madrid:20260129T000000
-DTEND;TZID=Europe/Madrid:20260509T000000
-UID:d6855d91270850bf77368e9ab0b8d94f6e335e2acee53c0a01c93d6c059b2ae9
-CATEGORIES:exhibition
-DESCRIPTION:Las obras del artista iraquí Hanoos Hanoos reflexionan sobre 
- el poder\, la violencia y la fragilidad humana (Casa Árabe. Hasta 9 mayo)
- .\n\nhttps://casaarabe.es/eventos-arabes/show/de-babel-al-ultimo-rey-de-ir
- aq-una-civilizacion-milenaria
-LOCATION:Casa Árabe - de Alcalá\, 62\, Madrid\, 28009
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fundación. Marlon de Azambuja
@@ -914,6 +889,18 @@ DESCRIPTION:Retrospectiva escultórica que recorre la evolución de este a
 LOCATION:Casa de América - de Cibeles\, 2\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:La lechuza de Minerva
+DTSTART;TZID=Europe/Madrid:20260304T000000
+DTEND;TZID=Europe/Madrid:20260510T000000
+UID:5751bb495e916d3fa72c7683491798d0cc77c5488c0c05ff684d197aabb81dd5
+CATEGORIES:exhibition
+DESCRIPTION:Varios artistas\, colectivos y activistas participan en divers
+ as instalaciones que invitan a repensar el papel y la potencia del arte e
+ n la ciudad\, en las instituciones y en la vida colectiva (\n\nhttps://www
+ .circulobellasartes.com/exposiciones/la-lechuza-de-minerva/
+LOCATION:Círculo de Bellas Artes - de Alcalá\, 42\, Madrid\, 28014
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Rebeldías vanguardistas del Siglo XX. Obras de la colección Vick
  y y Marcos Micha Levy
 DTSTART;TZID=Europe/Madrid:20260304T000000
@@ -927,6 +914,21 @@ DESCRIPTION:Recorrido por la historia del arte moderno en México y Améri
  coleccion-vicky-y-marcos-micha-levy/
 LOCATION:Fundación Casa de México en España - de Alberto Aguilera\, 20\
  , Madrid\, 28015
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Plaza Mayor de Madrid: miradas que habitan
+DTSTART;TZID=Europe/Madrid:20260305T000000
+DTEND;TZID=Europe/Madrid:20260719T000000
+UID:55d3b2ceace78841800017a842e5d30b4b019127177e2af75da6e9025c5c4bd7
+CATEGORIES:exhibition
+DESCRIPTION:Exposición que reúne fotografías realizadas por vecinos\, m
+ ostrando las miradas y vidas que dan sentido cotidiano a este espacio hist
+ órico (Imprenta Municipal-Artes del Libr\n\nhttps://www.madrid.es/portale
+ s/munimadrid/es/Plaza-Mayor-de-Madrid-miradas-que-la-habitan/?vgnextfmt=de
+ fault&vgnextoid=62f40edcccdac910VgnVCM100000891ecb1aRCRD&vgnextchannel=a68
+ fed8a96b06010VgnVCM100000dc0ca8c0RCRD
+LOCATION:Imprenta Municipal-Artes del Libro - de Concepción Jerónima\, 1
+ 5\, Madrid\, 28012
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A&E\, Adolf/Adam & Eva/Eve\, Drawing Sessions 2020–2022 with Lil
@@ -1732,19 +1734,6 @@ DESCRIPTION:La destacada diseñadora catalana de ropa de alta costura y ve
 LOCATION:Museo del Traje - de Juan de Herrera\, 2\, Madrid\, 28040
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lidó Rico. L'anima non finita
-DTSTART;TZID=Europe/Madrid:20260508T000000
-DTEND;TZID=Europe/Madrid:20260531T000000
-UID:4e7379f186ac933c802ba7af3ada86dfa122b0581a61eb9e736acdfea2594748
-CATEGORIES:exhibition
-DESCRIPTION:Un recorrido evolutivo por la obra del artista contemporáneo 
- Lidó Rico (Sala Alcalá 31 de la Comunidad de Madrid. 8 a 31 mayo).\n\nht
- tps://www.comunidad.madrid/actividades/2026/exposicion-lido-rico-lanima-no
- n-finita
-LOCATION:Sala Alcalá 31 de la Comunidad de Madrid - de Alcalá\, 31\, Mad
- rid\, 28014
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tupumpum. Genealogía del reguetón
 DTSTART;TZID=Europe/Madrid:20260508T000000
 DTEND;TZID=Europe/Madrid:20260531T000000
@@ -2061,6 +2050,18 @@ LOCATION:Espacio Cultural Serrería Belga - de la Alameda\, 15\, Madrid\,
  28014
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Exposición Diccionario de la desinformación
+DTSTART;TZID=Europe/Madrid:20260516T100000
+DTEND;TZID=Europe/Madrid:20260529T100000
+UID:569d5d8af01db4ec25882047a744b9102dbc94409ec816ebd5447e50aa44c74d
+CATEGORIES:exhibition
+DESCRIPTION:Horario de visita: lunes a viernes 10:00-14:00 y 17:00-19:00h.
+ \, sábados y domingos 10:00-14:00 y 17:00-20:00h. \n \nDirigida por Newtr
+ al\, con el apoyo de IberCHECK. Sala Laffón.\n\nhttps://ateneodemadrid.co
+ m/evento/exposicion-diccionario-de-la-desinformacion/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Volver a ver (pero como si ver fuese un país)
 DTSTART;TZID=Europe/Madrid:20260519T180000
 UID:570201ad1702f3105c6df6cf620c75053192e5a82519872a5697364f20ee1238
@@ -2130,19 +2131,6 @@ DESCRIPTION:Exposición que tiene como objetivo acercar un fascinante peri
  alidad/exposicion/a-la-manera-de-italia-espaa-y-el-gotico/ba6db59c-501f-65
  0b-583a-b9587ded7e47
 LOCATION:Museo del Prado - del Prado\, s/n\, Madrid\, 28014
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Robert Frank y Los Americanos (PHotoESPAÑA 2026)
-DTSTART;TZID=Europe/Madrid:20260529T000000
-DTEND;TZID=Europe/Madrid:20261101T000000
-UID:b3296fa28127ee986c2dee308ab39faf21427ff4934e31b9f8b2962ac014250e
-CATEGORIES:exhibition
-DESCRIPTION:Muestra que reúne la serie completa de Los Americanos realiza
- da durante el viaje que el fotógrafo emprendió por Estados Unidos (Espac
- io Fundación Telefónica. 29 may a 1 nov).\n\nhttps://phe.es/exposicion/l
- os-americanos/
-LOCATION:Espacio Fundación Telefónica - de Fuencarral\, 3\, Madrid\, 280
- 04
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:El Greco\, Velázquez\, Goya: La Triada Inmortal
@@ -2307,5 +2295,17 @@ DESCRIPTION:Proyecto que aborda el vínculo entre cuerpo\, arquitectura y
  fragilidad a partir de la experiencia de la escoliosis de la hija de la ar
  tista (COAM. 8 jun a 23 ago).\n\nhttps://phe.es/exposicion/columna/
 LOCATION:COAM - de Hortaleza\, 63\, Madrid\, 28004
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prado. Siglo XXI
+DTSTART;TZID=Europe/Madrid:20260609T000000
+DTEND;TZID=Europe/Madrid:20260927T000000
+UID:1db74815d061611dbb8fdc3bd4d70885e920a04ad0e18020de5ba400af2df9b6
+CATEGORIES:exhibition
+DESCRIPTION:Un recorrido por el proceso de transformación experimentado p
+ or el museo madrileño en el último cuarto de siglo (Museo del Prado. 9 j
+ un a 27 sept).\n\nhttps://www.museodelprado.es/actualidad/exposicion/prado
+ -siglo-xxi/c973ccff-de65-880f-2753-40c9ec03dfec
+LOCATION:Museo del Prado - del Prado\, s/n\, Madrid\, 28014
 END:VEVENT
 END:VCALENDAR

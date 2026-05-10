@@ -1,5 +1,5 @@
 Eirene feed debug
-Total events: 6
+Total events: 7
 
 [1] Mercado Productores Alcobendas
   id: 5851e0cb10fd3883abd6eedb255da8079f5f6d08594c896dd8631eec43c17600
@@ -45,7 +45,18 @@ Total events: 6
   url: https://mercadoproductores.es/mercado-valdebebas/
   description: Mercado de productores locales y artesanos en Valdebebas con productos frescos, gourmet y actividades para todos los publicos.
 
-[5] Mercado de las Ranas
+[5] Feria de Artesanía de Recoletos
+  id: 865c01494f4835eea4fb8d36573e9e3517a598b4a90d631a6e7514c2b032fac5
+  start: 2026-05-24T11:00:00+02:00
+  end: 2026-06-14T21:00:00+02:00
+  category: market
+  source: feria_artesania_recoletos
+  location: Paseo de Recoletos - Paseo de Recoletos, Madrid
+  coordinates: 40.423809, -3.691525
+  url: https://amoa.es/
+  description: Feria de artesanía organizada por AMOA en el Paseo de Recoletos con puestos de oficios artesanos y diseño.
+
+[6] Mercado de las Ranas
   id: e445cce76bfbc343a7fdaa6f112c983b75b843b1ddd1bdcd3bc641a67ae1d028
   start: 2026-06-06T12:00:00+02:00
   end: 2026-06-06T20:00:00+02:00
@@ -56,7 +67,7 @@ Total events: 6
   url: https://barrioletras.com/mercado-de-las-ranas/
   description: Mercado del Barrio de las Letras con puestos de artesanía, diseño, moda y gastronomía en la calle Huertas.
 
-[6] Mercadillo de Minerales de la Escuela de Minas
+[7] Mercadillo de Minerales de la Escuela de Minas
   id: 586082b563d7ff059205078cd2c00b02907e81af87160a83d9e3c9635acd1847
   start: 2026-06-07T10:00:00+02:00
   end: 2026-06-07T14:00:00+02:00

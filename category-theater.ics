@@ -2,42 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Piccolino. Un cine concierto
-DTSTART;TZID=Europe/Madrid:20260509T110000
-UID:fda0d01ec657021dadb2c6bf62bd7086b5cc2c98ff10af04921b46579be0d62e
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/infantil-piccolino/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:No solo duelen los golpes.
-DTSTART;TZID=Europe/Madrid:20260509T130000
-UID:93b94390bd3ec434860b024865c32937edb46d84996de432b2b49691a7a66487
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/no-solo-duelen-los-g
- olpes/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Guayominí
-DTSTART;TZID=Europe/Madrid:20260509T193000
-DTEND;TZID=Europe/Madrid:20260517T183000
-UID:fb2dc857668957f5d7d1d47ee18f558122fdd59002bd0dd5cf3e9b964fb195ba
-CATEGORIES:theater
-DESCRIPTION:Entradas disponibles desde 15.75€ | Tags: JOBO\n\nhttps://ti
- enda.madrid-destino.com/es/nave-10/guayomini/
-LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Saúl y la noche
-DTSTART;TZID=Europe/Madrid:20260509T193000
-UID:531474ce13735752d2a2375861f3019f25861398a889bbe2184eca75b83ed09b
-CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 1 plazas!\n\nhttps://teatrodelbarrio.com/saul
- -y-la-noche/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:AÚPA LERÉ. Percusión para crecer
 DTSTART;TZID=Europe/Madrid:20260510T110000
 UID:0f116b98debdebed7b7de027d8d76244ab9e779acbc2ab3799fbcbfeae9d4be4
@@ -90,7 +54,7 @@ SUMMARY:Miércoles que parecen jueves\, de Juan José Millás
 DTSTART;TZID=Europe/Madrid:20260510T130000
 UID:687523e1f36e4f0b16e5b654e0df7c64928602208d1b2f7d4a856409e89f445f
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 19 plazas!\n\nhttps://teatrodelbarrio.com/mie
+DESCRIPTION:¡Ya solo quedan 14 plazas!\n\nhttps://teatrodelbarrio.com/mie
  rcoles-que-parecen-jueves/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
@@ -102,6 +66,16 @@ CATEGORIES:theater
 DESCRIPTION:¡Ya solo quedan 1 plazas!\n\nhttps://teatrodelbarrio.com/saul
  -y-la-noche/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Guayominí
+DTSTART;TZID=Europe/Madrid:20260510T193000
+DTEND;TZID=Europe/Madrid:20260517T183000
+UID:fb2dc857668957f5d7d1d47ee18f558122fdd59002bd0dd5cf3e9b964fb195ba
+CATEGORIES:theater
+DESCRIPTION:Entradas disponibles desde 15.75€ | Tags: JOBO\n\nhttps://ti
+ enda.madrid-destino.com/es/nave-10/guayomini/
+LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Arrancamiento
@@ -125,8 +99,8 @@ SUMMARY:VideoForum #15años15M. Lo que quedó abierto tras el 15M
 DTSTART;TZID=Europe/Madrid:20260512T190000
 UID:bef71720666e70a1defe5767a837fd77f1da4b6bade1a25b6af766c0cfcf0b48
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 18 plazas!\n\nhttps://teatrodelbarrio.com/vid
- eoforum-15anos15m-lo-que-quedo-abierto-tras-el-15m/
+DESCRIPTION:¡Ya solo quedan 1 plazas!\n\nhttps://teatrodelbarrio.com/vide
+ oforum-15anos15m-lo-que-quedo-abierto-tras-el-15m/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -368,6 +342,15 @@ DTSTART;TZID=Europe/Madrid:20260527T193000
 UID:6c44ad2c10230c128122f2e2216216e2024cd8a20b225dcd299e4e823e1e8b91
 CATEGORIES:theater
 DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/solo-queria-bailar/
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Comedia por la memoria
+DTSTART;TZID=Europe/Madrid:20260527T220000
+UID:32f77ef77336788f5d89b21ec55b751aaa454a8ea16f6de0864aa37c62dc419d
+CATEGORIES:theater
+DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/comedia-por-la-memor
+ ia/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT

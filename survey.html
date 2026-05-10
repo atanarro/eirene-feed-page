@@ -805,7 +805,7 @@
 
     function applySurvey() {
       const filtered = state.events
-        .filter((event) => event.startAt >= state.now)
+        .filter((event) => event.endAt >= state.now)
         .filter(whenMatches)
         .filter(categoryMatches)
         .filter(periodMatches);
