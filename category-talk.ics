@@ -2,62 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Presentación del libro "La catarsis Zimmerman"
-DTSTART;TZID=Europe/Madrid:20260510T114500
-DTEND;TZID=Europe/Madrid:20260510T114500
-UID:38a1f13b8bfc9e17a85fb4de4c23844ad58c3013204f5577261e774ef3ddda76
-CATEGORIES:talk
-DESCRIPTION:Intervienen: Miguel Ángel Maroto Negrete\, autor. Yayo Cácer
- es\, director de la compañía teatral Ron Lalá y Elena Martín\, graduad
- a en Filosofía inglesa. Sala Larra. 11:45h. \nLa catarsis Zímmerman es u
- na novela de ficción\, publicada por la Editorial Letrame. Narra la histo
- ria de Víctor\, un actor en la ruina que un día recibe la oportunidad de
-  hacer una película basada en un guion teatral que interpretó treinta a
- ños antes. Durante el rodaje\, regresarán los fantasmas del pasado y ten
- drá que hacer frente a conflictos internos sin resolver.\n\nhttps://atene
- odemadrid.com/evento/presentacion-del-libro-la-catarsis-zimmerman/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ciclo "El vino de las luces". Élites y poder en el relato de Espa
- ña
-DTSTART;TZID=Europe/Madrid:20260510T120000
-DTEND;TZID=Europe/Madrid:20260510T120000
-UID:a7e1b35457488d7e22fe6850cf43d7becf6fb8b1713a2075351607293b707385
-CATEGORIES:talk
-DESCRIPTION:Venta de entradas (aquí). Socios\, código de descuento el el
-  Área del Socio. Nota de prensa (ver) \n \nCon: Rafa Méndez\, autor de L
- os Dueños del Estado\; Nicolás Sesma\, autor de Ni una ni grande ni libr
- e\; y Andrés Villena\, autor de Las élites que dominan España. Modera C
- arlos E. Cue. La Cacharrería. 10:00h. \nEl Vino de las Luces es el aperit
- ivo del domingo o del sábado en el Ateneo. Porque el Ateneo es la casa de
-  las luces\, del conocimiento\, del intercambio de ideas\, de la ciencia\,
-  de las artes\, y entre las artes\, también la de saber debatir y confron
- tar ideas. Por eso en estos apertivos se va consolidando una comunidad de 
- personas a las que nos une el disfrute de la cultura\, de la excelencia y 
- de un vino compartido\, después de una gran charla que siempre nos dan lo
- s grandes especialistas de la cuestión que se trate. Por eso\, desde hace
-  un año\, han pasado por estos aperitivos nombres como Juan Manuel Bonet\
- , Luis García Montero\, JAvier Moreno Luzón\, Álvaro Marchesi\, José G
- arcía Velasco\, Ignacio Blanco\, Antonio Cid\, Leoncio López Ocón\, y t
- antos y tantos. El próximo 10 de mayo estos aperitivos tan originales se 
- mundan al Ateneo de Madrid que pasan a llamarse El Vino de las Luces arran
- can con una mesa redonda que no puede ser mejor. ÉLITES\, PODER Y NUEVAS 
- MIRADAS. OTRA MANERA DE RELATAR ESPAÑA. Con Rafa Méndez\, autor de Los D
- ueños del Estado\; Nicolás Sesma\, autor de Ni una ni grande ni libre\; 
- Andrés Villena\, autor de Las élites que dominan España. Modera la mesa
- \, Carlos E. Cue\, periodista de El País\, gran especilista en política 
- y más. Vamos a hablar de la historia de España de otra manera. \nSeguire
- mos informando de las siguientes sesiones. Os avanzo algunos nombres\, Nac
- ho Duato\, Bailarín\, exdirector de la Compañía Nacional de Danza y uno
-  de los cinco mejores ( o tres) mejores coreógrafos en el mundo\; Javier 
- Moreno Luzón\, uno de los grandes hostoriadores en la actualidad\, especi
- alizado en historia contemporanea…. Os seguiré informando.\n\nhttps://a
- teneodemadrid.com/evento/el-vino-de-las-luces-elites-y-poder-en-el-relato-
- de-espana/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Homenaje a Carlos Moya
 DTSTART;TZID=Europe/Madrid:20260511T180000
 DTEND;TZID=Europe/Madrid:20260511T180000
@@ -233,10 +177,10 @@ DTEND;TZID=Europe/Madrid:20260513T173000
 UID:cae2f7d2ff72bf8a4435569001c9e63af870246dd72c3ff6403b1c60c84b3cce
 CATEGORIES:talk
 DESCRIPTION:Sección de Arquitectura. Bienvenida: Jose Maria Ezquiaga. Int
- ervienen: Josep M. ª Buqueras Bach\, presidente Fundación TRENCADÍS\; y
-  Toshiaki Tange\, arquitecto y estudioso de Gaudí. Modera: Karmen Garrido
- \, presidenta de FEPET. Sala Ramón y Cajal. 17:30h.\n\nhttps://ateneodema
- drid.com/evento/gaudi-y-el-modernismo/
+ ervienen: Concepció Peig\, Josep M. ª Buqueras Bach\, presidente Fundaci
+ ón TRENCADÍS\; y Toshiaki Tange\, arquitecto y estudioso de Gaudí. Mode
+ ra: Karmen Garrido\, presidenta de FEPET. Sala Ramón y Cajal. 17:30h.\n\n
+ https://ateneodemadrid.com/evento/gaudi-y-el-modernismo/
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -439,6 +383,37 @@ DESCRIPTION:Caldo de Ojo x Migra la food\n\nes un formato videopodcast don
  peramos!\n\nhttps://www.infinitodelicias.com/es/agenda/caldo-de-ojo-x-migr
  a-la-food
 LOCATION:Sala Marina - C. de Juana Dona\, 5\, Arganzuela\, 28045 Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Francisco de Goya. Trayectoria social y artística de un genio
+DTSTART;TZID=Europe/Madrid:20260518T183000
+DTEND;TZID=Europe/Madrid:20260518T183000
+UID:e2de96fd8ab24cba765f9825e970b256ff6b9911062d9cc59b95b82cd9fbd681
+CATEGORIES:talk
+DESCRIPTION:Sección de Ciencias Históricas. Interviene: José Rayos\, d
+ octor en Estudios Artísticos\, Literarios y Culturales. Presenta y moder
+ a: Marta Robles\, licenciada en Derecho. Sala Larra\, 18:30h.\n\nhttps://a
+ teneodemadrid.com/evento/francisco-de-goya-trayectoria-social-y-artistica-
+ de-un-genio/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ciclo "Medicina de Familia". La IA: un nuevo invitado en la consul
+ ta del médico de familia
+DTSTART;TZID=Europe/Madrid:20260518T190000
+DTEND;TZID=Europe/Madrid:20260518T190000
+UID:bdf11cb8d735af80895639878c56784e8da41aa325a714bb21d2050696b3cf1f
+CATEGORIES:talk
+DESCRIPTION:Sección de Ciencias de la Salud. Intervienen: Julio Bonis San
+ z\, médico de familia\; Julio Mayol Martínez\, catedrático de cirugía\
+ , UCM\; y David Fraile Navarro\, médico de familia e investigador especia
+ lizado en Inteligencia Artificial Generativa y Salud Digital\, Research Fe
+ llow en el Australian Institute of Health Innovation de Macquarie Universi
+ ty (vídeo presentación grabada). Modera: Lola Ruiz-Iglesias. Coordinan e
+ ste ciclo: Vicente Baos y Rafael Bravo. Sala Ramón y Cajal. 19:00h.\n\nht
+ tps://ateneodemadrid.com/evento/ciclo-medicina-de-familia-la-ia-un-nuevo-i
+ nvitado-en-la-consulta-del-medico-de-familia/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Presentación: «Ruta 61. Un viaje sonoro siguiendo el Misisipi»\
