@@ -2,15 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Los árboles no votan
-DTSTART;TZID=Europe/Madrid:20260511T193000
-UID:e7f2ba165142a698ebb67914ae1a59aa3a069cda4f262017fbd43a605e0ad5d4
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/los-arboles-no-votan
- /
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:VideoForum #15años15M. Lo que quedó abierto tras el 15M
 DTSTART;TZID=Europe/Madrid:20260512T190000
 UID:bef71720666e70a1defe5767a837fd77f1da4b6bade1a25b6af766c0cfcf0b48
@@ -34,7 +25,7 @@ SUMMARY:Federico. No hay olvido\, ni sueño: Carne viva
 DTSTART;TZID=Europe/Madrid:20260513T193000
 UID:8936f7a2f5f87d0ea9e4067b9cd4b06ed17ca55cf5b90658037af0170276a803
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 28 plazas!\n\nhttps://teatrodelbarrio.com/fed
+DESCRIPTION:¡Ya solo quedan 23 plazas!\n\nhttps://teatrodelbarrio.com/fed
  erico-no-hay-olvido-ni-sueno-carne-viva/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
@@ -233,7 +224,7 @@ SUMMARY:Y tú\, ¿de qué te ríes?
 DTSTART;TZID=Europe/Madrid:20260524T130000
 UID:081a82dfac0bdf933c35b9b1e8f51091d1d0d59e6124af3456372652a323b6ca
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 29 plazas!\n\nhttps://teatrodelbarrio.com/y-t
+DESCRIPTION:¡Ya solo quedan 25 plazas!\n\nhttps://teatrodelbarrio.com/y-t
  u-de-que-te-ries/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
@@ -296,6 +287,16 @@ DTSTART;TZID=Europe/Madrid:20260528T193000
 UID:91105fd0316cfac0671cb7779fb512f8136484d68ea95708df715896dd8bd583
 CATEGORIES:theater
 DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/miss-cosas-y-yo/
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gabriela Jiménez (cante) y Antón Jiménez (toque). PEÑA FLAMENC
+ A DE LAVAPIÉS
+DTSTART;TZID=Europe/Madrid:20260528T221500
+UID:a5c1ac48fcb9c9677b9592fd5c49b01e99b3edb3e5270108a33aa01461f2a32b
+CATEGORIES:theater
+DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/gabriela-jimenez-can
+ te-y-anton-jimenez-toque-pena-flamenca-de-lavapies/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
