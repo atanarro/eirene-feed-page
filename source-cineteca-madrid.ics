@@ -2,51 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Ciclo de conferencias: Breve historia del blockbuster
-DTSTART;TZID=Europe/Madrid:20260512T183000
-UID:b96752d6169a057ac8b9338caecac3b31304f7d67edee91980f9d4e93a60be31
-CATEGORIES:cinema
-DESCRIPTION:El cine de gran espectáculo\, conocido como blockbuster a par
- tir de Tiburón (1975)\, tiene un enorme atractivo popular. Sin embargo\, 
- aún en nuestros días es un gran desconocido por lo que se refiere a sus 
- cualidades artísticas y sus características de producción y recepción.
-  Elisa McCausland y Diego Salgado\, autores del ensayo El cine como espect
- áculo: 50 blockbusters esenciales de ayer y hoy (Editorial UOC\, 2025) pr
- esentan este ciclo de conferencias y proyecciones que pone en valor este r
- egistro desde los primeros pasos del medio hasta hoy.\n\nhttps://www.cinet
- ecamadrid.com/programacion/ciclo-de-conferencias-breve-historia-del-blockb
- uster
-LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cinco documentales de Augusto M. Torres
-DTSTART;TZID=Europe/Madrid:20260512T190000
-UID:92ea1d190c483afc116ca94e992d1769e7045a30382cfe8dd89e11deafcb29e5
-CATEGORIES:cinema
-DESCRIPTION:div#sliding-popup\, div#sliding-popup .eu-cookie-withdraw-bann
- er\, .eu-cookie-withdraw-tab {background: #d9d9d9} div#sliding-popup.eu-co
- okie-withdraw-wrapper { background: transparent\; } #sliding-popup h1\, #s
- liding-popup h2\, #sliding-popup h3\, #sliding-popup p\, #sliding-popup la
- bel\, #sliding-popup div\, .eu-cookie-compliance-more-button\, .eu-cookie-
- compliance-secondary-button\, .eu-cookie-withdraw-tab { color: #333333\;} 
- .eu-cookie-withdraw-tab { border-color: #333333\;} Cinco documentales de A
- ugusto M. Torres | Cineteca\n\nhttps://www.cinetecamadrid.com/programacion
- /cinco-documentales-de-augusto-m-torres
-LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pepe el andaluz
-DTSTART;TZID=Europe/Madrid:20260512T193000
-UID:dc302003b171892476edae78bb2a6408c0fa06216accd9842ef3619a1f412782
-CATEGORIES:cinema
-DESCRIPTION:Mesa redonda previa a la proyección con la presencia de Aleja
- ndro Alvarado\, Isabel Cadenas (periodista y escritora) y Josetxo Cerdán 
- (historiador y catedrático). Modera: Lola Mayo ( ECAM ) (Duración aproxi
- mada: 30').\n\nRelease year: 2012\n\nOriginal language: EN\n\nhttps://www.
- cinetecamadrid.com/programacion/pepe-el-andaluz-0
-LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Los Super 80
 DTSTART;TZID=Europe/Madrid:20260513T190000
 UID:0bd6448f0703472566bd0eef7e7ab66d6c89e2dd908d97fc41c8b0b42bb94b81
@@ -62,6 +17,18 @@ DESCRIPTION:Definido por el crítico J. Hoberman como el underground del u
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Caja de resistencia + Descartes
+DTSTART;TZID=Europe/Madrid:20260513T193000
+UID:12c492a1dcd198d23f29998e40463f402a4d308fa4a49d7abbfe51c3ba7628ce
+CATEGORIES:cinema
+DESCRIPTION:Mesa redonda previa a la proyección con la presencia de Aleja
+ ndro Alvarado \, Elías León Siminiani (cineasta) y Raquel Fernández (di
+ rectora de fotografía). Modera: David Varela ( Docma ) (Duración aproxim
+ ada: 30’).\n\nhttps://www.cinetecamadrid.com/programacion/caja-de-resist
+ encia-descartes
+LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Capitolio Vs. Capitolio
 DTSTART;TZID=Europe/Madrid:20260513T200000
 UID:d4e15cca9dd0454c5c7fe522a7deabf28b91e0ef5be07e20643505a06666f380
@@ -73,18 +40,6 @@ DESCRIPTION:El asalto al Capitolio acontecido en 2021\, documentado por su
  et\, nos preguntamos: ¿fueron solo extremistas... o el futuro del país?\
  n\nRelease year: 2025\n\nOriginal language: ES\n\nAudio: VOSE\n\nhttps://w
  ww.cinetecamadrid.com/programacion/capitolio-vs-capitolio-0
-LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Caja de resistencia + Descartes
-DTSTART;TZID=Europe/Madrid:20260513T203000
-UID:d08ff8c84edf8031310d7281815289562ee4b568b1c4ab29649560fdc51f5fdc
-CATEGORIES:cinema
-DESCRIPTION:Mesa redonda previa a la proyección con la presencia de Aleja
- ndro Alvarado \, Elías León Siminiani (cineasta) y Raquel Fernández (di
- rectora de fotografía). Modera: David Varela ( Docma ) (Duración aproxim
- ada: 30’).\n\nhttps://www.cinetecamadrid.com/programacion/caja-de-resist
- encia-descartes
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -625,6 +580,58 @@ DESCRIPTION:Rivisitazione dello sciopero es un proyecto audiovisual de Cos
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Documenta Pro 2026
+DTSTART;TZID=Europe/Madrid:20260527T100000
+UID:a9a1ede69a8a518be8b3d7187335081d4a10576ce8e83086880361ab7f3a1d87
+CATEGORIES:cinema
+DESCRIPTION:La programación de este año busca afianzar temas que han ido
+  ganando peso en las últimas ediciones y que hoy se revelan imprescindibl
+ es para comprender el presente y el futuro del documental. Se discutirá s
+ obre estrategias de promoción y marketing de proyectos documentales\, un 
+ terreno en constante transformación donde la identidad de una obra\, su c
+ onexión con las audiencias y la capacidad de destacar en un ecosistema sa
+ turado determinan crecientemente su recorrido. Se presentarán algunas de 
+ las oportunidades que ofrecen al sector documental las plataformas con pre
+ sencia en España\, analizando tendencias\, modelos de colaboración y cri
+ terios de producción. El acceso y trabajo con materiales de archivo segui
+ rá presente como uno de los ejes de las jornadas\, continuando la program
+ ación de la edición anterior. Finalmente\, volverá uno de los espacios 
+ más celebrados en ediciones anteriores: la presentación de proyectos de 
+ documental madrileños en desarrollo\, que permitirá conocer las líneas 
+ de trabajo\, necesidades y primeras imágenes de proyectos vinculados con 
+ las diferentes líneas de apoyo al audiovisual ofrecidas desde el Ayuntami
+ ento de Madrid y otras instituciones\, fomentando conexiones con potencial
+ es colaboradores\, coproductores o agentes de distribución.\n\nhttps://ww
+ w.cinetecamadrid.com/programacion/documenta-pro-2026
+LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Documenta Pro 2026
+DTSTART;TZID=Europe/Madrid:20260527T160000
+UID:c61611e92721bb01a4668dfec1767194560ffd66acaa878cf975a5a20c88c095
+CATEGORIES:cinema
+DESCRIPTION:La programación de este año busca afianzar temas que han ido
+  ganando peso en las últimas ediciones y que hoy se revelan imprescindibl
+ es para comprender el presente y el futuro del documental. Se discutirá s
+ obre estrategias de promoción y marketing de proyectos documentales\, un 
+ terreno en constante transformación donde la identidad de una obra\, su c
+ onexión con las audiencias y la capacidad de destacar en un ecosistema sa
+ turado determinan crecientemente su recorrido. Se presentarán algunas de 
+ las oportunidades que ofrecen al sector documental las plataformas con pre
+ sencia en España\, analizando tendencias\, modelos de colaboración y cri
+ terios de producción. El acceso y trabajo con materiales de archivo segui
+ rá presente como uno de los ejes de las jornadas\, continuando la program
+ ación de la edición anterior. Finalmente\, volverá uno de los espacios 
+ más celebrados en ediciones anteriores: la presentación de proyectos de 
+ documental madrileños en desarrollo\, que permitirá conocer las líneas 
+ de trabajo\, necesidades y primeras imágenes de proyectos vinculados con 
+ las diferentes líneas de apoyo al audiovisual ofrecidas desde el Ayuntami
+ ento de Madrid y otras instituciones\, fomentando conexiones con potencial
+ es colaboradores\, coproductores o agentes de distribución.\n\nhttps://ww
+ w.cinetecamadrid.com/programacion/documenta-pro-2026
+LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Crías
 DTSTART;TZID=Europe/Madrid:20260527T173000
 UID:24f10c907f24415244f9cdedb0b2b99645d4732496d0fc8bdadf3bf6fefb7645
@@ -731,6 +738,32 @@ DESCRIPTION:En esta primera sesión nos adentramos en distintos espacios d
  s complejo: un refugio para lidiar con la soledad\, la memoria y el trauma
  \, mostrando cómo el cuerpo revela las cicatrices del pasado.\n\nAudio: V
  OSE\n\nhttps://www.cinetecamadrid.com/programacion/preparativos-felices
+LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Documenta Pro 2026
+DTSTART;TZID=Europe/Madrid:20260528T100000
+UID:23e8f984a44c99b6d8390d9a31f0d04d7bda8d9eee3ce44f59fda5afef1d94e8
+CATEGORIES:cinema
+DESCRIPTION:La programación de este año busca afianzar temas que han ido
+  ganando peso en las últimas ediciones y que hoy se revelan imprescindibl
+ es para comprender el presente y el futuro del documental. Se discutirá s
+ obre estrategias de promoción y marketing de proyectos documentales\, un 
+ terreno en constante transformación donde la identidad de una obra\, su c
+ onexión con las audiencias y la capacidad de destacar en un ecosistema sa
+ turado determinan crecientemente su recorrido. Se presentarán algunas de 
+ las oportunidades que ofrecen al sector documental las plataformas con pre
+ sencia en España\, analizando tendencias\, modelos de colaboración y cri
+ terios de producción. El acceso y trabajo con materiales de archivo segui
+ rá presente como uno de los ejes de las jornadas\, continuando la program
+ ación de la edición anterior. Finalmente\, volverá uno de los espacios 
+ más celebrados en ediciones anteriores: la presentación de proyectos de 
+ documental madrileños en desarrollo\, que permitirá conocer las líneas 
+ de trabajo\, necesidades y primeras imágenes de proyectos vinculados con 
+ las diferentes líneas de apoyo al audiovisual ofrecidas desde el Ayuntami
+ ento de Madrid y otras instituciones\, fomentando conexiones con potencial
+ es colaboradores\, coproductores o agentes de distribución.\n\nhttps://ww
+ w.cinetecamadrid.com/programacion/documenta-pro-2026
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
