@@ -2,26 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Pedro Pablo & Three Cuban Jazz
-DTSTART;TZID=Europe/Madrid:20260513T200000
-DTEND;TZID=Europe/Madrid:20260513T200000
-UID:899c9925733a061951057ac4a629f4837bb5a48ae4191b99208357a2f35a4a08
-CATEGORIES:music
-DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
-  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
- s://ateneodemadrid.com/evento/pedro-pablo-three-cuban-jazz/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Juicy Sessions
-DTSTART;TZID=Europe/Madrid:20260513T220000
-UID:e0fe7c90fd28b991debbb89000e48b68e9b66f875b52657558632f644533085b
-CATEGORIES:music
-DESCRIPTION:Concierto / Urban / Hip Hop & Rap / Soul & R&B / Pop\n\nhttps:
- //salavillanos.es/evento/juicy-sessions-5/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Verbena San Isidro Con Orquesta Nuevo Versalles
 DTSTART;TZID=Europe/Madrid:20260514T190000
 UID:85228ffe89eee23be4bf2467e28b74e35bd0dad648dac7dbbdf6d1d46aefb9b0
@@ -324,14 +304,15 @@ DESCRIPTION:Venta de entradas (aquí). Socios código descuento en el Áre
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Cultura Viva x Palestina y UNRWA
+SUMMARY:Benny Sharoni Quartet
 DTSTART;TZID=Europe/Madrid:20260520T200000
-UID:9668466941206be582b58064cb0a34fd6886c0e57d8af0ea85373ab29bb3e98d
+DTEND;TZID=Europe/Madrid:20260520T200000
+UID:1c6b884906fa962121f85bc50b453d78979099077fdf22b4756a7de10073380a
 CATEGORIES:music
-DESCRIPTION:Apertura Puertas: 18:30 Horas\n\nhttps://www.entradas.com/arti
- st/cultura-viva/?affiliate=ADE
-LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
- id
+DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
+  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
+ s://ateneodemadrid.com/evento/benny-sharoni-quartet/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ginel Presenta Borde Vivo + Mauro Samaniego
@@ -856,6 +837,37 @@ UID:d0bb9ad1615ff99790768daef3674b1c6cbf9dd66ecf3340b20b5035615410ed
 CATEGORIES:music
 DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://dice.fm/event/py5wak-la-
  fmiga-en-sound-isidro-11th-jun-la-riviera-madrid-tickets
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:«Latidos de África» Recordando a Mila Lázaro
+DTSTART;TZID=Europe/Madrid:20260612T203000
+UID:d97058b07f9515501f31d17aa39b3ccf7758533cff1eb05074f9f336e5d19694
+CATEGORIES:music
+DESCRIPTION:Concierto / Afro\n\nhttps://salavillanos.es/evento/latidos-de-
+ africa-recordando-a-mila-lazaro/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Aggrolites (EEUU) - Sala Copérnico -
+DTSTART;TZID=Europe/Madrid:20260612T203000
+UID:4fed0e356a6c80cb85c702b54243b0c1f0a2334c891c4118641dbd838a11e0da
+CATEGORIES:music
+DESCRIPTION:Precio de las entradas: 24\,50€/28€ Entradas a la venta en
+  hfmn Bio/enlaces bandas: The Aggrolites_facebook + The Aggrolites_X + The
+  Aggrolites_instagram Más información: The Aggrolites: Reggae con alma y
+  actitud desde Los Ángeles. Formados\n\nhttps://gruta77.com/events/the-ag
+ grolites-eeuu-sala-copernico/var/ri-0.l-L2
+LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kompromat (Vitalic & Rebeka Warrior)
+DTSTART;TZID=Europe/Madrid:20260612T210000
+UID:71a0eb97d85b6e17dab908a5b4921f916a58c47d8e8f67ed792852d84093c8c3
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://www.notikumi.com/channel
+ /miles-away/2026/6/12/kompromat
 LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
  id
 END:VEVENT
