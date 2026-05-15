@@ -1,18 +1,7 @@
 Eirene feed debug
 Total events: 38
 
-[1] Guayominí
-  id: fb2dc857668957f5d7d1d47ee18f558122fdd59002bd0dd5cf3e9b964fb195ba
-  start: 2026-05-14T18:30:00+02:00
-  end: 2026-05-17T18:30:00+02:00
-  category: theater
-  source: nave_10
-  location: Nave 10 - Paseo de la Chopera, 14, Madrid
-  coordinates: 40.3920606, -3.6978319
-  url: https://tienda.madrid-destino.com/es/nave-10/guayomini/
-  description: Entradas disponibles desde 21.00€ | Tags: JOBO
-
-[2] Proyección de MADRID, EXT, de Juan Cavestany
+[1] Proyección de MADRID, EXT, de Juan Cavestany
   id: 831e54263f8f32775bbb6eba94e09a4a1af5cdb4a06d9a3ab5aaf7ad504cf248
   start: 2026-05-15T13:00:00+02:00
   end: N/A
@@ -22,6 +11,17 @@ Total events: 38
   coordinates: 40.4096081, -3.699174
   url: https://teatrodelbarrio.com/proyeccion-de-madrid-ext-de-juan-cavestany/
   description: Disponible
+
+[2] Guayominí
+  id: fb2dc857668957f5d7d1d47ee18f558122fdd59002bd0dd5cf3e9b964fb195ba
+  start: 2026-05-15T18:30:00+02:00
+  end: 2026-05-17T18:30:00+02:00
+  category: theater
+  source: nave_10
+  location: Nave 10 - Paseo de la Chopera, 14, Madrid
+  coordinates: 40.3920606, -3.6978319
+  url: https://tienda.madrid-destino.com/es/nave-10/guayomini/
+  description: Entradas disponibles desde 21.00€ | Tags: JOBO
 
 [3] La rabia es nuestra
   id: cc8e4015e5b34f73cda5a68762ee767809eca28703f66c9c1db8d562bd607695
@@ -164,7 +164,7 @@ Total events: 38
   location: Teatro del Barrio - Calle de Zurita, 20, Madrid
   coordinates: 40.4096081, -3.699174
   url: https://teatrodelbarrio.com/taxidermia-de-una-alondra/
-  description: ¡Ya solo quedan 24 plazas!
+  description: ¡Ya solo quedan 16 plazas!
 
 [16] Poesía o Barbarie
   id: 2cbe4e1641a0de46622d586b3212c27d89eb4b3000409dfad0a356400a3f0293
@@ -241,7 +241,7 @@ Total events: 38
   location: Teatro del Barrio - Calle de Zurita, 20, Madrid
   coordinates: 40.4096081, -3.699174
   url: https://teatrodelbarrio.com/y-tu-de-que-te-ries/
-  description: ¡Ya solo quedan 10 plazas!
+  description: ¡Ya solo quedan 8 plazas!
 
 [23] Taxidermia de una alondra
   id: ce4a776db3b1c0df801284b224beacda2ba848e06225d183b36b7e23c00325ad
@@ -329,7 +329,7 @@ Total events: 38
   location: Teatro del Barrio - Calle de Zurita, 20, Madrid
   coordinates: 40.4096081, -3.699174
   url: https://teatrodelbarrio.com/gabriela-gimenez-cante-y-anton-gimenez-toque-pena-flamenca-de-lavapies/
-  description: ¡Ya solo quedan 30 plazas!
+  description: ¡Ya solo quedan 29 plazas!
 
 [31] Miss cosas y yo
   id: 943467faa13792c2db17df808e1324f1672448d4b549c62bcde19e73bfc21f9e
