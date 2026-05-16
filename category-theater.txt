@@ -1,40 +1,7 @@
 Eirene feed debug
-Total events: 38
+Total events: 36
 
-[1] Proyección de MADRID, EXT, de Juan Cavestany
-  id: 831e54263f8f32775bbb6eba94e09a4a1af5cdb4a06d9a3ab5aaf7ad504cf248
-  start: 2026-05-15T13:00:00+02:00
-  end: N/A
-  category: theater
-  source: teatro_del_barrio
-  location: Teatro del Barrio - Calle de Zurita, 20, Madrid
-  coordinates: 40.4096081, -3.699174
-  url: https://teatrodelbarrio.com/proyeccion-de-madrid-ext-de-juan-cavestany/
-  description: Disponible
-
-[2] Guayominí
-  id: fb2dc857668957f5d7d1d47ee18f558122fdd59002bd0dd5cf3e9b964fb195ba
-  start: 2026-05-15T18:30:00+02:00
-  end: 2026-05-17T18:30:00+02:00
-  category: theater
-  source: nave_10
-  location: Nave 10 - Paseo de la Chopera, 14, Madrid
-  coordinates: 40.3920606, -3.6978319
-  url: https://tienda.madrid-destino.com/es/nave-10/guayomini/
-  description: Entradas disponibles desde 21.00€ | Tags: JOBO
-
-[3] La rabia es nuestra
-  id: cc8e4015e5b34f73cda5a68762ee767809eca28703f66c9c1db8d562bd607695
-  start: 2026-05-15T22:15:00+02:00
-  end: N/A
-  category: theater
-  source: teatro_del_barrio
-  location: Teatro del Barrio - Calle de Zurita, 20, Madrid
-  coordinates: 40.4096081, -3.699174
-  url: https://teatrodelbarrio.com/la-rabia-es-nuestra/
-  description: Disponible
-
-[4] GLORIA
+[1] GLORIA
   id: 454214e74d824c9ae81db29a1b22c1af4d04674154be6ca22f34a9177c8f9ac2
   start: 2026-05-16T13:00:00+02:00
   end: N/A
@@ -45,7 +12,18 @@ Total events: 38
   url: https://teatrodelbarrio.com/gloria/
   description: Disponible
 
-[5] Paloma de parque
+[2] Guayominí
+  id: fb2dc857668957f5d7d1d47ee18f558122fdd59002bd0dd5cf3e9b964fb195ba
+  start: 2026-05-16T18:30:00+02:00
+  end: 2026-05-17T18:30:00+02:00
+  category: theater
+  source: nave_10
+  location: Nave 10 - Paseo de la Chopera, 14, Madrid
+  coordinates: 40.3920606, -3.6978319
+  url: https://tienda.madrid-destino.com/es/nave-10/guayomini/
+  description: Entradas disponibles desde 21.00€
+
+[3] Paloma de parque
   id: dc5d1abccdd487efeb0826494b6d038a4645cf9e753a26ca86c70421eb89b5ab
   start: 2026-05-16T19:30:00+02:00
   end: N/A
@@ -56,7 +34,7 @@ Total events: 38
   url: https://teatrodelbarrio.com/paloma-de-parque/
   description: Disponible
 
-[6] Sobria y Serena
+[4] Sobria y Serena
   id: 1439b9ba1220d9ac98c80c93d1bfd16818ab60dd77405fd191bbe701435cd118
   start: 2026-05-16T22:15:00+02:00
   end: N/A
@@ -67,7 +45,7 @@ Total events: 38
   url: https://teatrodelbarrio.com/sobria-y-serena/
   description: Disponible
 
-[7] AÚPA LERÉ. Percusión para crecer
+[5] AÚPA LERÉ. Percusión para crecer
   id: 052325d13b37e91657137d6240ef260ec2c639cb4521141dbe097d8917246284
   start: 2026-05-17T11:00:00+02:00
   end: N/A
@@ -78,7 +56,7 @@ Total events: 38
   url: https://teatrodelbarrio.com/aupa-lere-percusion-para-crecer/
   description: Disponible
 
-[8] Paloma de parque
+[6] Paloma de parque
   id: 7d7febdbb6e630f8e2f97677f320814fba943b30544a8b7e85e5df032769c447
   start: 2026-05-17T13:00:00+02:00
   end: N/A
@@ -89,7 +67,7 @@ Total events: 38
   url: https://teatrodelbarrio.com/paloma-de-parque/
   description: Disponible
 
-[9] Guayominí
+[7] Guayominí
   id: 91b987a1c48153e63373e2c09fe59fd656e8bbbc7789c64b723020d45d570da2
   start: 2026-05-17T19:30:00+02:00
   end: N/A
@@ -100,7 +78,7 @@ Total events: 38
   url: https://www.mataderomadrid.org/programacion/guayomini
   description: Según la ley de la gravedad de Newton un cuerpo tarda más en subir que en bajar. Roi, que está cantando en la final de un importante concurso europeo de canciones, porque ganó otro concurso nacional tres meses atrás, se queda en blanco en plena actuación. Las consecuencias de este error son inevitables y no tardan en llegar. Laura Garmo nos propone una historia fresca y optimista sobre la identidad y el fracaso. Guayominí es el proyecto de dirección y autoría novel de Nave 10. Un espacio para el descubrimiento de nuevas voces. Laura Garmo y Pablo Martínez Bravo ponen en pie una historia sobre la importancia de cuidar lo que tienes cerca. Roi, un joven cantautor, consigue la oportunidad única de participar en un concurso que le dará mucha visibilidad. Pero esta oportunidad rápidamente se le vuelve en contra: Cuando está en pleno ascenso, ya debe prepararse para la bajada. Igual que Roi, vivimos en un sistema fagocitante basado en el éxito y en la opinión de los demás, en el que la valía personal se reduce a lo que podemos producir, pero Guayominí viene a recodarnos que la vida no es solo un concurso de talentos. Rocío Bello Dramaturgista de la temporada 25/26 de Nave 10 Matadero
 
-[10] Un verano por metro cuadrado
+[8] Un verano por metro cuadrado
   id: 8bfa4430a7eaf7c00d40bb53f47e589ab7de194b4a83d628e352c81daf961fec
   start: 2026-05-17T20:30:00+02:00
   end: N/A
@@ -111,7 +89,7 @@ Total events: 38
   url: https://teatrodelbarrio.com/un-verano-por-metro-cuadrado/
   description: ¡Ya solo quedan 1 plazas!
 
-[11] Los árboles no votan
+[9] Los árboles no votan
   id: 4ffc55f53a4712af0661873b4a795ee46ce2e120181e54c0f05f44da11a494eb
   start: 2026-05-18T19:30:00+02:00
   end: N/A
@@ -122,7 +100,7 @@ Total events: 38
   url: https://teatrodelbarrio.com/los-arboles-no-votan/
   description: Disponible
 
-[12] Premiere del documental "Los Sueños que Compartimos" (encuentro con la directora)
+[10] Premiere del documental "Los Sueños que Compartimos" (encuentro con la directora)
   id: 94f2abc158588da440e4f4367c617390903c006ab3e498c565878dcba59d0e6e
   start: 2026-05-19T19:00:00+02:00
   end: N/A
@@ -133,7 +111,7 @@ Total events: 38
   url: https://teatrodelbarrio.com/premiere-del-documental-los-suenos-que-compartimos-encuentro-con-la-directora/
   description: Disponible
 
-[13] Gordas, lisiadas y mamarrachas
+[11] Gordas, lisiadas y mamarrachas
   id: bf7cd847cb0a15d921f942f42bdcfb0f4fbbece8028635c1cd5549763b8758c3
   start: 2026-05-20T19:30:00+02:00
   end: N/A
@@ -144,7 +122,7 @@ Total events: 38
   url: https://teatrodelbarrio.com/gordas-lisiadas-y-mamarrachas/
   description: Disponible
 
-[14] Chistes contra Franco
+[12] Chistes contra Franco
   id: 93ed85f4334c23c7fa4f0907d9be8bcf00d0697a2b76aa96ec8746683abed36f
   start: 2026-05-20T22:00:00+02:00
   end: N/A
@@ -155,7 +133,7 @@ Total events: 38
   url: https://teatrodelbarrio.com/chistes-contra-franco/
   description: Disponible
 
-[15] Taxidermia de una alondra
+[13] Taxidermia de una alondra
   id: ed931f53d67d0fdce8eab5e01344d06da73245c33115f3091888325762adbf5e
   start: 2026-05-21T19:30:00+02:00
   end: N/A
@@ -164,9 +142,9 @@ Total events: 38
   location: Teatro del Barrio - Calle de Zurita, 20, Madrid
   coordinates: 40.4096081, -3.699174
   url: https://teatrodelbarrio.com/taxidermia-de-una-alondra/
-  description: ¡Ya solo quedan 16 plazas!
+  description: ¡Ya solo quedan 12 plazas!
 
-[16] Poesía o Barbarie
+[14] Poesía o Barbarie
   id: 2cbe4e1641a0de46622d586b3212c27d89eb4b3000409dfad0a356400a3f0293
   start: 2026-05-21T22:00:00+02:00
   end: N/A
@@ -177,7 +155,7 @@ Total events: 38
   url: https://teatrodelbarrio.com/poesia-o-barbarie/
   description: Disponible
 
-[17] Taxidermia de una alondra
+[15] Taxidermia de una alondra
   id: edbb18c0cd95a3139fb70de78003394ca4b115c8707f76591baa6f30ed867728
   start: 2026-05-22T19:30:00+02:00
   end: N/A
@@ -188,7 +166,7 @@ Total events: 38
   url: https://teatrodelbarrio.com/taxidermia-de-una-alondra/
   description: Disponible
 
-[18] Solo quería bailar
+[16] Solo quería bailar
   id: ab425dbc842b74d4cb594cf6ea34eeeaa10dd2f3d4c3f5555ffa25ae9c77a73b
   start: 2026-05-22T22:15:00+02:00
   end: N/A
@@ -199,7 +177,7 @@ Total events: 38
   url: https://teatrodelbarrio.com/solo-queria-bailar/
   description: Disponible
 
-[19] LA RESPIRACIÓN - Festival Visibles
+[17] LA RESPIRACIÓN - Festival Visibles
   id: 2959d0220d50488e127ef689a39bead27edcc966863c5b1973195cfc98e5f733
   start: 2026-05-23T13:00:00+02:00
   end: N/A
@@ -210,7 +188,7 @@ Total events: 38
   url: https://teatrodelbarrio.com/la-respiracion-festival-visibles/
   description: Programación en Teatro del Barrio
 
-[20] Taxidermia de una alondra
+[18] Taxidermia de una alondra
   id: 9588d029e9179ab44556d0aeee7a575d734cffeebad7fce9d609ba834cbea073
   start: 2026-05-23T19:30:00+02:00
   end: N/A
@@ -221,7 +199,7 @@ Total events: 38
   url: https://teatrodelbarrio.com/taxidermia-de-una-alondra/
   description: Disponible
 
-[21] Gordas, lisiadas y mamarrachas
+[19] Gordas, lisiadas y mamarrachas
   id: c31db5c1b7a5325781f9e3e5cf352567103b5f2e020d04b3cb73c51039f345b5
   start: 2026-05-23T22:15:00+02:00
   end: N/A
@@ -232,7 +210,7 @@ Total events: 38
   url: https://teatrodelbarrio.com/gordas-lisiadas-y-mamarrachas/
   description: Disponible
 
-[22] Y tú, ¿de qué te ríes?
+[20] Y tú, ¿de qué te ríes?
   id: 081a82dfac0bdf933c35b9b1e8f51091d1d0d59e6124af3456372652a323b6ca
   start: 2026-05-24T13:00:00+02:00
   end: N/A
@@ -241,9 +219,9 @@ Total events: 38
   location: Teatro del Barrio - Calle de Zurita, 20, Madrid
   coordinates: 40.4096081, -3.699174
   url: https://teatrodelbarrio.com/y-tu-de-que-te-ries/
-  description: ¡Ya solo quedan 8 plazas!
+  description: ¡Ya solo quedan 6 plazas!
 
-[23] Taxidermia de una alondra
+[21] Taxidermia de una alondra
   id: ce4a776db3b1c0df801284b224beacda2ba848e06225d183b36b7e23c00325ad
   start: 2026-05-24T18:00:00+02:00
   end: N/A
@@ -254,7 +232,7 @@ Total events: 38
   url: https://teatrodelbarrio.com/taxidermia-de-una-alondra/
   description: Disponible
 
-[24] Malas
+[22] Malas
   id: e5a77b6d2fada3204f5bdfc05651d1596491aa33a77bf79a6d0c17e7f58ecb14
   start: 2026-05-24T20:30:00+02:00
   end: N/A
@@ -265,7 +243,7 @@ Total events: 38
   url: https://teatrodelbarrio.com/malas/
   description: Disponible
 
-[25] Khadiya Amín. ¿Dónde están mis hijos?
+[23] Khadiya Amín. ¿Dónde están mis hijos?
   id: dc30db1033e274a3ba2098df7e697f853f5de45519ca302a1202b2d458372d81
   start: 2026-05-26T19:00:00+02:00
   end: N/A
@@ -276,7 +254,7 @@ Total events: 38
   url: https://teatrodelbarrio.com/khadiya-amin-donde-estan-mis-hijos/
   description: Disponible
 
-[26] Solo quería bailar
+[24] Solo quería bailar
   id: 6c44ad2c10230c128122f2e2216216e2024cd8a20b225dcd299e4e823e1e8b91
   start: 2026-05-27T19:30:00+02:00
   end: N/A
@@ -287,7 +265,7 @@ Total events: 38
   url: https://teatrodelbarrio.com/solo-queria-bailar/
   description: Disponible
 
-[27] Comedia por la memoria
+[25] Comedia por la memoria
   id: 32f77ef77336788f5d89b21ec55b751aaa454a8ea16f6de0864aa37c62dc419d
   start: 2026-05-27T22:00:00+02:00
   end: N/A
@@ -298,7 +276,7 @@ Total events: 38
   url: https://teatrodelbarrio.com/comedia-por-la-memoria/
   description: Disponible
 
-[28] Ubú
+[26] Ubú
   id: a56573e15b36299498f04f228d668b599f378b13af45661ba6edc325bb0216ff
   start: 2026-05-28T19:30:00+02:00
   end: 2026-06-21T19:30:00+02:00
@@ -309,7 +287,7 @@ Total events: 38
   url: https://tienda.madrid-destino.com/es/nave-10/ubu/
   description: Entradas disponibles desde 15.75€
 
-[29] Miss cosas y yo
+[27] Miss cosas y yo
   id: 91105fd0316cfac0671cb7779fb512f8136484d68ea95708df715896dd8bd583
   start: 2026-05-28T19:30:00+02:00
   end: N/A
@@ -320,7 +298,7 @@ Total events: 38
   url: https://teatrodelbarrio.com/miss-cosas-y-yo/
   description: Disponible
 
-[30] Gabriela Giménez (cante) y Antón Giménez (toque). PEÑA FLAMENCA DE LAVAPIÉS
+[28] Gabriela Giménez (cante) y Antón Giménez (toque). PEÑA FLAMENCA DE LAVAPIÉS
   id: 271124084d00d760a287d3888afd03abb280ab725cbd54636e0d36839fdb456a
   start: 2026-05-28T22:15:00+02:00
   end: N/A
@@ -329,9 +307,9 @@ Total events: 38
   location: Teatro del Barrio - Calle de Zurita, 20, Madrid
   coordinates: 40.4096081, -3.699174
   url: https://teatrodelbarrio.com/gabriela-gimenez-cante-y-anton-gimenez-toque-pena-flamenca-de-lavapies/
-  description: ¡Ya solo quedan 29 plazas!
+  description: ¡Ya solo quedan 26 plazas!
 
-[31] Miss cosas y yo
+[29] Miss cosas y yo
   id: 943467faa13792c2db17df808e1324f1672448d4b549c62bcde19e73bfc21f9e
   start: 2026-05-29T19:30:00+02:00
   end: N/A
@@ -342,7 +320,7 @@ Total events: 38
   url: https://teatrodelbarrio.com/miss-cosas-y-yo/
   description: Disponible
 
-[32] Noche de Fiesta de La Peña Arco Iris
+[30] Noche de Fiesta de La Peña Arco Iris
   id: 215e85788eb849424b288cca283944d6af738fb9e14ef144322bdbc8914e299b
   start: 2026-05-29T22:00:00+02:00
   end: N/A
@@ -353,7 +331,7 @@ Total events: 38
   url: https://teatrodelbarrio.com/noche-de-fiesta-de-la-pena-arco-iris/
   description: Programación en Teatro del Barrio
 
-[33] Mi madre muerta
+[31] Mi madre muerta
   id: cc18d449598fea049adc7a3938ce085ec48332b42313d716eb68eaea4e1eb74e
   start: 2026-05-30T13:00:00+02:00
   end: N/A
@@ -364,7 +342,7 @@ Total events: 38
   url: https://teatrodelbarrio.com/mi-madre-muerta/
   description: Disponible
 
-[34] Miss cosas y yo
+[32] Miss cosas y yo
   id: fd5e8343481ff80f00e1ccb97e1e35c492f20b5b58912d99a89007d71940515c
   start: 2026-05-30T19:30:00+02:00
   end: N/A
@@ -375,7 +353,7 @@ Total events: 38
   url: https://teatrodelbarrio.com/miss-cosas-y-yo/
   description: Disponible
 
-[35] La Ferni
+[33] La Ferni
   id: 53e6cddcbf35880b975d97b0f52aed761d0c90b3cd328a6d7a2416386fe7d203
   start: 2026-05-30T22:15:00+02:00
   end: N/A
@@ -386,7 +364,7 @@ Total events: 38
   url: https://teatrodelbarrio.com/la-ferni/
   description: Disponible
 
-[36] Mi madre muerta
+[34] Mi madre muerta
   id: e28afba626fc1145d4d738a2bf2c7f3c909a53d34133e6d7827f197589062910
   start: 2026-05-31T13:00:00+02:00
   end: N/A
@@ -397,7 +375,7 @@ Total events: 38
   url: https://teatrodelbarrio.com/mi-madre-muerta/
   description: Disponible
 
-[37] Miss cosas y yo
+[35] Miss cosas y yo
   id: 9ff75ee3e745915034671fcc45a74729d987e968f60e919203ce77f28a092888
   start: 2026-05-31T18:00:00+02:00
   end: N/A
@@ -408,7 +386,7 @@ Total events: 38
   url: https://teatrodelbarrio.com/miss-cosas-y-yo/
   description: Disponible
 
-[38] La Ferni
+[36] La Ferni
   id: e5bb5027efa41910b2449382ece99aaffc6a762fe6495cf4426cd5c116778239
   start: 2026-05-31T20:30:00+02:00
   end: N/A

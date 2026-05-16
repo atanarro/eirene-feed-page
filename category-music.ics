@@ -2,65 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Verbena San Isidro Con Orquesta Gran Rockset
-DTSTART;TZID=Europe/Madrid:20260515T190000
-UID:a0f66cdf0c7a64429f7c0fd60da3e69b635f276d3edf477166d802527adb5c49
-CATEGORIES:music
-DESCRIPTION:Organillero y parejas de baile de la Federación de Grupos Tra
- dicionales Madrileños de 19:30 a 20:30 h La Gran Rockset es una orquesta 
- de gran formato que combina versiones de clásicos del pop y del rock con 
- una puesta en escena pensada para el directo. Formada por un amplio elenco
-  de músicos y cantantes\, la banda se ha consolidado dentro del circuito 
- de fiestas populares\, festivales y grandes eventos\, destacando por su re
- pertorio intergeneracional y por una producción escénica que mezcla mús
- ica en vivo\, coreografías y un fuerte componente visual.\n\nhttps://www.
- mataderomadrid.org/programacion/verbena-san-isidro-con-orquesta-gran-rocks
- et
-LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Betta & The Groovers
-DTSTART;TZID=Europe/Madrid:20260515T200000
-DTEND;TZID=Europe/Madrid:20260516T200000
-UID:2c21e7456d45227896354d2b6b45ae3b482f0eea3a1aa2d89f72887f7c1b242f
-CATEGORIES:music
-DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
-  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
- s://ateneodemadrid.com/evento/betta-the-groovers/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Zé Ibarra
-DTSTART;TZID=Europe/Madrid:20260515T203000
-UID:429f32db37592d9199251c5ab35035c0dea1a24b5a2df4b5d3e681001ba876b3
-CATEGORIES:music
-DESCRIPTION:Concierto / Villanos del Jazz\n\nhttps://salavillanos.es/event
- o/ze-ibarra/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El Drogas (Segunda fecha)
-DTSTART;TZID=Europe/Madrid:20260515T203000
-UID:90c4113326fba12274fc3b913449a43e9776bd6c0f0657b2fcf4bb0684352d3a
-CATEGORIES:music
-DESCRIPTION:Apertura Puertas: 19:00 pm\n\nhttps://entradas.eldrogas.com/we
- b/?menu=1162&pagina=entradas&item=60346&siteID=eldrogas
-LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
- id
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Pandoras (EEUU) + Antimums\; En Escenarios Mahou
-DTSTART;TZID=Europe/Madrid:20260515T213000
-UID:069811e412c284670db6d1c53999ca1dde9d59c48d846d6458166aace0af335d
-CATEGORIES:music
-DESCRIPTION:Precio de las entradas: 21€/25€ Entradas a la venta en mov
- ingtickets Bio/enlaces bandas: The Pandoras_facebook + The Pandoras_instag
- ram AntiMums_facebook + AntiMums_instagram Más información: The Pandoras
-  es una banda de mujeres de culto de garage\n\nhttps://gruta77.com/events/
- the-pandoras-eeuu/var/ri-0.l-L2
-LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:La voz y el poder de la ciudadanía. 15M\, 15 años después
 DTSTART;TZID=Europe/Madrid:20260516T110000
 DTEND;TZID=Europe/Madrid:20260516T110000
@@ -864,5 +805,24 @@ DESCRIPTION:Precio de las entradas: 12€/15€ Entradas a la venta en mov
  s-malinches-the-wild-beats-the-oompa-loompas-en-garagruta-fest-volumen-3/v
  ar/ri-0.l-L2
 LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VILLAMOLINOS matinés musicales
+DTSTART;TZID=Europe/Madrid:20260614T130000
+UID:c4633ea19205118c20ccbdbe263033daab528803ae0138ca28764bca68de3df5
+CATEGORIES:music
+DESCRIPTION:Concierto / Jazz\n\nhttps://salavillanos.es/evento/villamolino
+ s-matines-musicales-9/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Humbe
+DTSTART;TZID=Europe/Madrid:20260614T203000
+UID:9d9c7f4344ac082fe31d79f1383852a63cae50bd12fbcd3ffb60a7bed4ad91d6
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://www.ticketmaster.es/even
+ t/humbe-entradas/1986253146
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
 END:VEVENT
 END:VCALENDAR
