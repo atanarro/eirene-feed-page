@@ -2,26 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Festival de Combos UAX en Sala Villanos
-DTSTART;TZID=Europe/Madrid:20260518T180000
-UID:d221362ba7055d17b4abd0d725347e07981e77665b9d704d437b24d3e66b1bb0
-CATEGORIES:music
-DESCRIPTION:Concierto / Jazz\n\nhttps://salavillanos.es/evento/festival-de
- -combos-uax-en-sala-villanos/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Remembering Mr. Baker
-DTSTART;TZID=Europe/Madrid:20260518T200000
-DTEND;TZID=Europe/Madrid:20260519T200000
-UID:4850566e4a4294b766ffa3472ce68ad1a5a487fbfd48a57313d62180b7f86da0
-CATEGORIES:music
-DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
-  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
- s://ateneodemadrid.com/evento/remembering-mr-baker/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Concierto "Noches de Krahe"
 DTSTART;TZID=Europe/Madrid:20260519T210000
 DTEND;TZID=Europe/Madrid:20260519T210000
@@ -129,6 +109,17 @@ DESCRIPTION:Reserva de entradas (aquí). Código descuento socios en el Á
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Perico Sambeat Quartet
+DTSTART;TZID=Europe/Madrid:20260522T200000
+DTEND;TZID=Europe/Madrid:20260523T200000
+UID:e147303e27e2f7e561da192ced060e476b42dffa3f0b302bd82883a8ab34014c
+CATEGORIES:music
+DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
+  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
+ s://ateneodemadrid.com/evento/perico-sambeat-quartet/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:FIESTA DE EL SALTO CON Tribade + Carmen Xia
 DTSTART;TZID=Europe/Madrid:20260522T210000
 UID:e0b687f45bd590ac3b282f4c3870c776f86680714bf06e04fe7ab1b90326c44b
@@ -148,6 +139,38 @@ DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://feverup.com/m/476489?utm
  irgwc=1&afsrc=1
 LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
  id
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ulf Wakenius & Ignasi Terraza
+DTSTART;TZID=Europe/Madrid:20260522T213000
+DTEND;TZID=Europe/Madrid:20260522T213000
+UID:49a132d6cedd8a999436475751d52673e4097bce7ac126969f1e31121aeb6eda
+CATEGORIES:music
+DESCRIPTION:Reserva de entradas (aquí). Código descuento socios en el Á
+ rea del Socio. Los socios deben presentar el día del concierto su entrad
+ a y su carnet de socio. Las entradas solo se venden desde la página de C
+ afé Central. \n \nAteneo – Café Central. Ulf Wakenius\, guitarra e Ig
+ nasi Terraza\, piano. Artista invitada: Reico Fujisaki\, voz. Cátedra Ma
+ yor. 21:30h. \nEl dúo formado por Ignasi Terraza y Ulf Wakenius interpret
+ a la música del legendario pianista canadiense Oscar Peterson\, tras cele
+ brarse su centenario\, con un proyecto que combina composiciones propias c
+ on originales del histórico dúo de Peterson con Joe Pass. \nLa conexión
+  de estos dos músicos con Oscar Peterson es profunda y personal. Ulf Wake
+ nius tuvo el privilegio de formar parte del grupo de Peterson durante la 
+ última década de su carrera\, llevando su guitarra a escenarios de todo 
+ el mundo junto al maestro. Por su parte\, Ignasi Terraza ha encontrado en 
+ Oscar Peterson una fuente inagotable de inspiración desde el inicio de su
+  carrera\, plasmando en su estilo la energía\, la creatividad y la elegan
+ cia que definieron al pianista canadiense. \nJuntos\, estos dos músicos e
+ xcepcionales ofrecen una reinterpretación vibrante y personal del univers
+ o de Oscar Peterson\, celebrando su legado con su propia voz singular y m
+ anteniendo vivo el espíritu del swing y la improvisación que lo caracter
+ izaron. \nUna oportunidad única para revivir la magia del dúo de Peterso
+ n y Joe Pass a través de dos virtuosos que han abrazado su legado y lo ha
+ n proyectado hacia el presente. En el concierto contarán también con la 
+ presencia.\n\nhttps://ateneodemadrid.com/evento/ulf-wakenius-ignasi-terraz
+ a/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Crim + The Civil Protection + Moscú Babies
@@ -705,6 +728,15 @@ UID:2da7d8509392d70cab20fa66af81c4fc730de679d75192b0b52b9178af71fb7f
 CATEGORIES:music
 DESCRIPTION:Concierto / Villanos del Jazz\n\nhttps://salavillanos.es/event
  o/roberta-sa-tudo-que-cantei-sou/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tommy Guerrero
+DTSTART;TZID=Europe/Madrid:20260617T210000
+UID:90e0366d2889f273d5106f45609d7570fdf9b34b6cc8411ada973256401ef179
+CATEGORIES:music
+DESCRIPTION:Concierto / Momentos Alhambra / Rock / World Music & Folk\n\nh
+ ttps://salavillanos.es/evento/tommy-guerrero/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 END:VCALENDAR
