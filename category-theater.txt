@@ -1,18 +1,7 @@
 Eirene feed debug
 Total events: 27
 
-[1] Premiere del documental "Los Sueños que Compartimos" (encuentro con la directora)
-  id: 94f2abc158588da440e4f4367c617390903c006ab3e498c565878dcba59d0e6e
-  start: 2026-05-19T19:00:00+02:00
-  end: N/A
-  category: theater
-  source: teatro_del_barrio
-  location: Teatro del Barrio - Calle de Zurita, 20, Madrid
-  coordinates: 40.4096081, -3.699174
-  url: https://teatrodelbarrio.com/premiere-del-documental-los-suenos-que-compartimos-encuentro-con-la-directora/
-  description: Disponible
-
-[2] Gordas, lisiadas y mamarrachas
+[1] Gordas, lisiadas y mamarrachas
   id: bf7cd847cb0a15d921f942f42bdcfb0f4fbbece8028635c1cd5549763b8758c3
   start: 2026-05-20T19:30:00+02:00
   end: N/A
@@ -23,7 +12,7 @@ Total events: 27
   url: https://teatrodelbarrio.com/gordas-lisiadas-y-mamarrachas/
   description: Disponible
 
-[3] Chistes contra Franco
+[2] Chistes contra Franco
   id: 93ed85f4334c23c7fa4f0907d9be8bcf00d0697a2b76aa96ec8746683abed36f
   start: 2026-05-20T22:00:00+02:00
   end: N/A
@@ -34,7 +23,7 @@ Total events: 27
   url: https://teatrodelbarrio.com/chistes-contra-franco/
   description: Disponible
 
-[4] Taxidermia de una alondra
+[3] Taxidermia de una alondra
   id: ed931f53d67d0fdce8eab5e01344d06da73245c33115f3091888325762adbf5e
   start: 2026-05-21T19:30:00+02:00
   end: N/A
@@ -43,9 +32,9 @@ Total events: 27
   location: Teatro del Barrio - Calle de Zurita, 20, Madrid
   coordinates: 40.4096081, -3.699174
   url: https://teatrodelbarrio.com/taxidermia-de-una-alondra/
-  description: ¡Ya solo quedan 4 plazas!
+  description: ¡Ya solo quedan 1 plazas!
 
-[5] Poesía o Barbarie
+[4] Poesía o Barbarie
   id: 2cbe4e1641a0de46622d586b3212c27d89eb4b3000409dfad0a356400a3f0293
   start: 2026-05-21T22:00:00+02:00
   end: N/A
@@ -56,7 +45,7 @@ Total events: 27
   url: https://teatrodelbarrio.com/poesia-o-barbarie/
   description: Disponible
 
-[6] Taxidermia de una alondra
+[5] Taxidermia de una alondra
   id: edbb18c0cd95a3139fb70de78003394ca4b115c8707f76591baa6f30ed867728
   start: 2026-05-22T19:30:00+02:00
   end: N/A
@@ -67,7 +56,7 @@ Total events: 27
   url: https://teatrodelbarrio.com/taxidermia-de-una-alondra/
   description: Disponible
 
-[7] Solo quería bailar
+[6] Solo quería bailar
   id: ab425dbc842b74d4cb594cf6ea34eeeaa10dd2f3d4c3f5555ffa25ae9c77a73b
   start: 2026-05-22T22:15:00+02:00
   end: N/A
@@ -77,6 +66,19 @@ Total events: 27
   coordinates: 40.4096081, -3.699174
   url: https://teatrodelbarrio.com/solo-queria-bailar/
   description: Disponible
+
+[7] Presentación libro
+  id: 5fc4df05f9f4d344b10ee26e0073c08121452819214fddc8499ddc4090374e1c
+  start: 2026-05-23T12:00:00+02:00
+  end: N/A
+  category: theater
+  source: la_mirador
+  location: Sala Mirador - Calle Doctor Fourquet, 31, 28012 Madrid
+  coordinates: 40.4070512, -3.6988713
+  url: https://lamirador.com/funcion?nombre=presentacion-libro-2026
+  description: Presentación libro
+
+Cristina Rota conversará con Joaquím Oristrell de su nueva publicación editada por Grijalbo.
 
 [8] LA RESPIRACIÓN - Festival Visibles
   id: 2959d0220d50488e127ef689a39bead27edcc966863c5b1973195cfc98e5f733
@@ -98,7 +100,7 @@ Total events: 27
   location: Teatro del Barrio - Calle de Zurita, 20, Madrid
   coordinates: 40.4096081, -3.699174
   url: https://teatrodelbarrio.com/taxidermia-de-una-alondra/
-  description: Disponible
+  description: ¡Ya solo quedan 22 plazas!
 
 [10] Gordas, lisiadas y mamarrachas
   id: c31db5c1b7a5325781f9e3e5cf352567103b5f2e020d04b3cb73c51039f345b5
@@ -120,7 +122,7 @@ Total events: 27
   location: Teatro del Barrio - Calle de Zurita, 20, Madrid
   coordinates: 40.4096081, -3.699174
   url: https://teatrodelbarrio.com/y-tu-de-que-te-ries/
-  description: Localidades agotadas
+  description: ¡Ya solo quedan 1 plazas!
 
 [12] Taxidermia de una alondra
   id: ce4a776db3b1c0df801284b224beacda2ba848e06225d183b36b7e23c00325ad
@@ -131,7 +133,7 @@ Total events: 27
   location: Teatro del Barrio - Calle de Zurita, 20, Madrid
   coordinates: 40.4096081, -3.699174
   url: https://teatrodelbarrio.com/taxidermia-de-una-alondra/
-  description: ¡Ya solo quedan 19 plazas!
+  description: ¡Ya solo quedan 15 plazas!
 
 [13] Malas
   id: e5a77b6d2fada3204f5bdfc05651d1596491aa33a77bf79a6d0c17e7f58ecb14

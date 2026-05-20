@@ -17,7 +17,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cleopatra\, la exposición inmersiva
 DTSTART;TZID=Europe/Madrid:20190912T000000
-DTEND;TZID=Europe/Madrid:20260628T000000
+DTEND;TZID=Europe/Madrid:20260719T000000
 UID:68443e7f138201dd482616240171cb3eee084f8f033645d5eec1b4259124d587
 CATEGORIES:exhibition
 DESCRIPTION:Experiencia que transporta al corazón del Egipto helenístico
@@ -177,7 +177,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Machu Picchu: Viaje a la Ciudad Perdida
 DTSTART;TZID=Europe/Madrid:20250925T000000
-DTEND;TZID=Europe/Madrid:20260628T000000
+DTEND;TZID=Europe/Madrid:20260731T000000
 UID:5598fedba9e87a2899379c01c63ca439a2676737138a809d5891a861fe2dd172
 CATEGORIES:exhibition
 DESCRIPTION:Experiencia de realidad virtual que transporta 450 años atrá
@@ -1335,13 +1335,13 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Horizonte de Keops: Una expedición por el Antiguo Egipto
 DTSTART;TZID=Europe/Madrid:20260425T000000
-DTEND;TZID=Europe/Madrid:20260628T000000
+DTEND;TZID=Europe/Madrid:20260731T000000
 UID:6d299a29680e197b5068eab5e6613c5d91cb29549672575d1d85d722cbf4b25e
 CATEGORIES:exhibition
 DESCRIPTION:Una expedición inmersiva e innovadora que transporta a la ép
- oca dorada del antiguo Egipto combinando historia\, tecnología y emoción
-  (Fever Hub Madrid. Hasta 28 jun).\n\nhttps://horizonkheopsexperience.com/
- madrid/
+ oca dorada del antiguo Egipto combinando historia\, tecnología y emoció
+ n (Fever Hub Madrid. Miércoles a domingos.\n\nhttps://horizonkheopsexperi
+ ence.com/madrid/
 LOCATION:Madrid - Raimundo Fernández Villaverde\, 57\, Madrid\, Madrid\, 
  28003
 END:VEVENT
@@ -1579,8 +1579,8 @@ UID:9c74178cc870a7b93e31dc8b9439690ba345ec8b3717c25926b945e0f4c90473
 CATEGORIES:exhibition
 DESCRIPTION:La mecánica y la computación cuánticas protagonizan una exp
  osición que desentraña su funcionamiento y los retos que plantean (Espac
- io Fundación Telefónica. 7 may a 11 oct).\n\nhttps://espacio.fundacionte
- lefonica.com/evento/revolucion-cuantica/
+ io Fundación Telefónica. Hasta 11 oct).\n\nhttps://espacio.fundaciontele
+ fonica.com/evento/revolucion-cuantica/
 LOCATION:Espacio Fundación Telefónica - de Fuencarral\, 3\, Madrid\, 280
  04
 END:VEVENT
@@ -1616,8 +1616,8 @@ UID:be5c66cac9113fcd9ef6efa98dde59759fdfb8de186cc3271a3eee60b61d9990
 CATEGORIES:exhibition
 DESCRIPTION:Máher Fahim Fernández presenta una sorprendente mirada micro
  scópica a los insectos y artrópodos que habitan las ciudades (Museo Naci
- onal de Ciencias Naturales. A partir 8 mayo 2026).\n\nhttps://www.mncn.csi
- c.es/es/visita-el-mncn/exposiciones/insectos-al-detalle-vecinos-urbanos
+ onal de Ciencias Naturales).\n\nhttps://www.mncn.csic.es/es/visita-el-mncn
+ /exposiciones/insectos-al-detalle-vecinos-urbanos
 LOCATION:Museo Nacional de Ciencias Naturales - de José Gutierrez Abascal
  \, 2\, Madrid\, 28006
 END:VEVENT
@@ -1628,9 +1628,9 @@ DTEND;TZID=Europe/Madrid:20260531T000000
 UID:4e7379f186ac933c802ba7af3ada86dfa122b0581a61eb9e736acdfea2594748
 CATEGORIES:exhibition
 DESCRIPTION:Un recorrido evolutivo por la obra del artista contemporáneo 
- Lidó Rico (Sala Alcalá 31 de la Comunidad de Madrid. 8 a 31 mayo).\n\nht
- tps://www.comunidad.madrid/actividades/2026/exposicion-lido-rico-lanima-no
- n-finita
+ Lidó Rico (Sala Alcalá 31 de la Comunidad de Madrid. Hasta 31 mayo).\n\n
+ https://www.comunidad.madrid/actividades/2026/exposicion-lido-rico-lanima-
+ non-finita
 LOCATION:Sala Alcalá 31 de la Comunidad de Madrid - de Alcalá\, 31\, Mad
  rid\, 28014
 END:VEVENT
@@ -1641,8 +1641,8 @@ DTEND;TZID=Europe/Madrid:20260531T000000
 UID:cfac7eb8c78377bc3ba71f17e33dc6a11d2a06dd6c5c810243df147b0a22b79e
 CATEGORIES:exhibition
 DESCRIPTION:Un recorrido expositivo sobre este género musical\, desde sus
-  orígenes hasta la actualidad (La Casa Encendida. 8 a 31 mayo).\n\nhttps:
- //www.lacasaencendida.es/exposiciones/tupumpum-genealogia-del-regueton
+  orígenes hasta la actualidad (La Casa Encendida. Hasta 31 mayo).\n\nhttp
+ s://www.lacasaencendida.es/exposiciones/tupumpum-genealogia-del-regueton
 LOCATION:La Casa Encendida - de Valencia\, 2\, Madrid\, 28012
 END:VEVENT
 BEGIN:VEVENT
@@ -1812,38 +1812,6 @@ DESCRIPTION:La artista presenta un proyecto insólito que busca reconstrui
 LOCATION:Museo Arqueológico Nacional - de Serrano\, 13\, Madrid\, 28001
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Volver a ver (pero como si ver fuese un país)
-DTSTART;TZID=Europe/Madrid:20260519T180000
-UID:570201ad1702f3105c6df6cf620c75053192e5a82519872a5697364f20ee1238
-CATEGORIES:exhibition
-DESCRIPTION:La audiodescripción es una herramienta de accesibilidad que p
- asa por la verbalización de la experiencia visual. Un trabajo de traducci
- ón entre varios sentidos que puede emplearse creativamente y como estrate
- gia de aprendizaje\, y beneficiarse de recursos literarios que exploraremo
- s mediante ejercicios prácticos. "Esta actividad está dirigida a person
- as con o sin discapacidad\, diagnosticadas o dentro de las identidades cri
- p\, loque\, diska\, enferme\, psiquiatrizade\, neurodivergente y afines." 
- Maite Barrera Villarías. Comisaria e investigadora y ha centrado toda su
-  práctica en los vínculos entre arte y discapacidad. Comisarió las edic
- iones VII y VIII de la Bienal de Arte Contemporáneo de la Fundación ONCE
- . Ha participado con un artículo en el volumen Curating Access. Disabili
- ty Art Activism and Creative Accommodation (2023)\, primera publicación 
- dedicada a la accesibilidad creativa. Su último proyecto ha sido la produ
- cción y presentación de la versión en español de "Blue Description Pro
- ject"\, un acercamiento desde la accesibilidad creativa a la película de 
- Derek Jarman\, Blue. En la actualidad\, pertenece al grupo de investigaci
- ón Ekotonos\, sobre. espacios makers transversalmente inclusivos\, de la 
- Universidad Autónoma de Madrid. Esta actividad forma parte del proyecto 
- “ Spasticus Artisticus ”\, que se enmarca en "Metodologías experiment
- ales"\, la línea de trabajo de Intermediae para la innovación metodológ
- ica\, que en la edición 2025-2026 se desarrolla en colaboración con el D
- epartamento de Educación y Públicos\, en su objetivo común de diversifi
- car perfiles de público y fomentar los derechos culturales.\n\nhttps://ww
- w.mataderomadrid.org/programacion/volver-ver-pero-como-si-ver-fuese-un-pai
- s
-LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bateas Novo-Hispanas. Una encrucijada cultural
 DTSTART;TZID=Europe/Madrid:20260521T000000
 DTEND;TZID=Europe/Madrid:20261018T000000
@@ -1854,6 +1822,20 @@ DESCRIPTION:Un recorrido por las bateas lacadas novohispanas y su valor ar
  .cultura.gob.es/museodeamerica/exposiciones/exposiciones-temporales/2026-b
  ateas.html
 LOCATION:Museo de América - de los Reyes Católicos\, 6\, Madrid\, 28040
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IBEX36. Cultura material = Valor global (Bienal Mayrit 2026)
+DTSTART;TZID=Europe/Madrid:20260521T000000
+DTEND;TZID=Europe/Madrid:20261004T000000
+UID:dd48ced7b46dbdd8fe750e5dd98b1892181100918b038e1ff627b10ec7e59e41
+CATEGORIES:exhibition
+DESCRIPTION:Exposición que invita a reflexionar sobre como el sistema eco
+ nómico neoliberal actual condiciona nuestra relación con la materia\, el
+  patrimonio y el diseño del entorno (Museo Nacional de Artes Deco\n\nhttp
+ s://www.cultura.gob.es/mnartesdecorativas/exposiciones/proximas-exposicion
+ es.html
+LOCATION:Museo Nacional de Artes Decorativas - de Montalbán\, 12\, Madrid
+ \, 28014
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ya no te da miedo\, ¿verdad?
@@ -2083,6 +2065,17 @@ DESCRIPTION:Exposición que reúne por primera vez un amplio conjunto de o
  554032d-dab5-7f04-03b6-e3be0c0f0a41
 LOCATION:Galería de las Colecciones Reales - de Bailén\, 8\, Madrid\, 28
  013
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Se está haciendo tarde
+DTSTART;TZID=Europe/Madrid:20260528T000000
+DTEND;TZID=Europe/Madrid:20260628T000000
+UID:59a1a813849b4e1c275a729bc8f5bc601136bbe150d921def68dbde5ce56f662
+CATEGORIES:exhibition
+DESCRIPTION:Expòsición que muestra la obra más potente\, colorida y de 
+ toques poéticos del pintor murciano Álvaro Peña (Centro Cultural Casa d
+ e Vacas. 28 may a 28 jun).\n\nhttps://www.xn--alvaro-pea-19a.es/
+LOCATION:Centro Cultural Casa de Vacas - de Colombia\, 1\, Madrid\, 28009
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Robert Frank y Los Americanos (PHotoESPAÑA 2026)
@@ -2373,5 +2366,17 @@ DESCRIPTION:Exposicion colectiva que da la oportunidad de ver Madrid y su
  n-contraste-una-lectura-de-madrid-a-traves-de-la-fotografia-del-mac/
 LOCATION:Museo de Arte Contemporáneo - del Conde Duque\, 9\, Madrid\, 280
  15
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Silvina Mizrahi. Ecos de un espíritu sefardí
+DTSTART;TZID=Europe/Madrid:20260619T000000
+DTEND;TZID=Europe/Madrid:20260930T000000
+UID:2ebbab200df96f03a91b5d14ed3d1c99c49a40eed9e5fde58fcdc20e960578d0
+CATEGORIES:exhibition
+DESCRIPTION:La artista argentina propone una exploración de la memoria\, 
+ la identidad y la herencia cultural desde una mirada íntima y contemporá
+ nea (Centro Sefarad-Israel. 19 jun a 26 jul).\n\nhttps://www.sefarad-israe
+ l.es/exposiciones/silvina-mizrahi-ecos-de-un-espiritu-sefardi/
+LOCATION:Centro Sefarad-Israel - Mayor\, 69\, Madrid\, 28013
 END:VEVENT
 END:VCALENDAR

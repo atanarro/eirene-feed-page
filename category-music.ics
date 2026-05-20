@@ -2,18 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Concierto "Noches de Krahe"
-DTSTART;TZID=Europe/Madrid:20260519T210000
-DTEND;TZID=Europe/Madrid:20260519T210000
-UID:0c40636c5069156abf68c62b6b153c4e5529096d23157e52eb61b003f5b51cf4
-CATEGORIES:music
-DESCRIPTION:Venta de entradas (aquí). Socios código descuento en el Áre
- a del Socio. \n \nAndreas Prittwtz\, Luis Fernández\, piano\; y Javier Ba
- tanero\, invitado. La Cacharrería. 21:00h.\n\nhttps://ateneodemadrid.com/
- evento/concierto-noches-de-krahe/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Benny Sharoni Quartet
 DTSTART;TZID=Europe/Madrid:20260520T200000
 DTEND;TZID=Europe/Madrid:20260520T200000
@@ -185,6 +173,18 @@ DESCRIPTION:Precio de las entradas: 17€/19€ Entradas a la venta en hfm
 LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Conrado Moya presenta "Reminiscencias". Ciclo de Cámara Salón de
+ l Ateneo
+DTSTART;TZID=Europe/Madrid:20260523T193000
+DTEND;TZID=Europe/Madrid:20260523T193000
+UID:1e03300fe920f0edbfb1968f5c8ba7c2cd27df40e502a36540faf4df9e675e37
+CATEGORIES:music
+DESCRIPTION:Venta de entradas (aquí). Socios\, código de descuento en el
+  Área del Socio.\n\nhttps://ateneodemadrid.com/evento/conrado-moya-presen
+ ta-reminiscencias-ciclo-de-camara-salon-del-ateneo/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Hammond York
 DTSTART;TZID=Europe/Madrid:20260523T203000
 UID:2da9263c5d31ba3d49a80f9c61603dbecdd2a543b15a21d2f45ccd6a9ce143e7
@@ -233,6 +233,32 @@ CATEGORIES:music
 DESCRIPTION:Concierto / World Music & Folk\n\nhttps://salavillanos.es/even
  to/potaje-lab-arrejuntadas-madrigueira/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cracovia para principiantes
+DTSTART;TZID=Europe/Madrid:20260524T183000
+DTEND;TZID=Europe/Madrid:20260524T183000
+UID:3991e6c9a66a286ce705da3556e5748b31ffd59b8cf7b0995f677db139d8e731
+CATEGORIES:music
+DESCRIPTION:Entrada libre hasta completar aforo.  \n \nAsociación Cultur
+ al Hispano Polaca FORUM. Con la participación de Julio Mazzioti\, piano 
+ y Club de danza PKT Madrid. Artista invitada: Kamila Klimczak. Presenta
+ n: Joanna  Bardzinska  y Clemente García. Cátedra Mayor. 18:30h. \nDes
+ eamos dedicar la velada a la hermosa ciudad polaca\, su historia\, sus gen
+ tes\, su poesía y su música.\n\nhttps://ateneodemadrid.com/evento/cracov
+ ia-para-principiantes/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:César Filiú  Douglas Quartet
+DTSTART;TZID=Europe/Madrid:20260524T200000
+DTEND;TZID=Europe/Madrid:20260524T200000
+UID:5c68c6ecbfb46f08d80748ae6aa4423e798f91a7bbbb5dd2bc7c59d678f8b63d
+CATEGORIES:music
+DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
+  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
+ s://ateneodemadrid.com/evento/cesar-filiu-douglas-quartet/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Iñigo Quintero
@@ -567,6 +593,15 @@ DESCRIPTION:Concierto para niños y niñas a los que les gusta pintar y ba
 LOCATION:Sala Mirador - Calle Doctor Fourquet\, 31\, 28012 Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Dos De Tres Big Band
+DTSTART;TZID=Europe/Madrid:20260607T130000
+UID:0fc68c100032a0e3a0c0f3c6c30703cab81dc53cf7b0cbfbf066acd4d8bd14ee
+CATEGORIES:music
+DESCRIPTION:Concierto / Jazz\n\nhttps://salavillanos.es/evento/dos-de-tres
+ -big-band/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Eliades Ochoa
 DTSTART;TZID=Europe/Madrid:20260607T210000
 UID:f7bc51046193bd4d7989d2cb0d5acf87a4251ebcdb4ec6eddaf26851e499bcb1
@@ -738,5 +773,24 @@ CATEGORIES:music
 DESCRIPTION:Concierto / Momentos Alhambra / Rock / World Music & Folk\n\nh
  ttps://salavillanos.es/evento/tommy-guerrero/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zuaraz
+DTSTART;TZID=Europe/Madrid:20260618T203000
+UID:ce68de61932a493b8e009b9a07e8662951bdef097c835ac53aae19b00003eeab
+CATEGORIES:music
+DESCRIPTION:Concierto / Pop / Latin\n\nhttps://salavillanos.es/evento/zuar
+ az/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Amigos Invisibles
+DTSTART;TZID=Europe/Madrid:20260618T203000
+UID:165194f40e92dbfda5cc9b1d5317b544b847304249b4699d17c9c41bb310afd5
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:00 pm\n\nhttps://www.entradas.com/event/i
+ beroexperia-los-amigos-invisibles-sala-la-riviera-21363711/?affiliate=4SA
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
 END:VEVENT
 END:VCALENDAR
