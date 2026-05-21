@@ -2,45 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:La ville Louvre (1990)
-DTSTART;TZID=Europe/Madrid:20260520T173000
-UID:1fcd1b637ba6839964af404b7a36243828cd41d00e7f18c5f9e680eb2d307317
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Miércoles 20 de Mayo a las 17:30h (Sala 1. El m
- useo protagonista) *Aunque las entradas aparezcan como agotadas en web\, p
- ueden adquirirse en taquilla entradas para las sesiones del día (de 17h a
-  20h)\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/productos/descripci
- on/la-ville-louvre-mayo
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fedra (1956)
-DTSTART;TZID=Europe/Madrid:20260520T193000
-UID:04450cb4fac985569dafb66677bb824e218468fbaf15c7a1a7f7a1d2bc3370ff
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Miércoles 20 de Mayo a las 19:30h (Sala 2. Manu
- el Mur Oti. La estética del desgarro) *Aunque las entradas aparezcan como
-  agotadas en web\, pueden adquirirse en taquilla entradas para las sesione
- s del día (de 17h a 20h)\n\nhttps://entradasfilmoteca.sacatuentrada.es/es
- /productos/descripcion/fedra-2
-LOCATION:Filmoteca Espanola - Cine Dore Sala 2 - Calle de Santa Isabel\, 3
- \, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La strada (1954)
-DTSTART;TZID=Europe/Madrid:20260520T200000
-UID:5df3278f53e2aa69e2b92a7d66c3277bb3301417d1d598e501883f4725d8e2ea
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Miércoles 20 de Mayo a las 20:00h (Sala 1. Escu
- ela Filmoteca) *Aunque las entradas aparezcan como agotadas en web\, puede
- n adquirirse en taquilla entradas para las sesiones del día (de 17h a 20h
- )\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/productos/descripcion/l
- a-strada-1
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Brighton Rock (1948)
 DTSTART;TZID=Europe/Madrid:20260521T173000
 UID:3e0d6b1c56b7e440e1196a41a013f5344908a03e029cc5dfd97630471c3db082
@@ -64,6 +25,19 @@ DESCRIPTION:Fecha y Hora: Jueves 21 de Mayo a las 19:30h (Sala 2. Manuel M
  l día (de 17h a 20h)\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/pro
  ductos/descripcion/el-batallon-de-las-sombras-mayo
 LOCATION:Filmoteca Espanola - Cine Dore Sala 2 - Calle de Santa Isabel\, 3
+ \, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kes (1969)
+DTSTART;TZID=Europe/Madrid:20260521T210000
+UID:837884a9360064f3f762bf9c67ca3fa18bcaafe0b58a42939772c73b60297ec3
+CATEGORIES:cinema
+DESCRIPTION:Fecha y Hora: Jueves 21 de Mayo a las 21:00h (Sala 1. Ken Loac
+ h: Crónicas de la conciencia + Escuela Filmoteca) *Aunque las entradas ap
+ arezcan como agotadas en web\, pueden adquirirse en taquilla entradas para
+  las sesiones del día (de 17h a 20h)\n\nhttps://entradasfilmoteca.sacatue
+ ntrada.es/es/productos/descripcion/kes-mayo
+LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
  \, Madrid
 END:VEVENT
 BEGIN:VEVENT
