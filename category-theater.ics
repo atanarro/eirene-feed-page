@@ -3,27 +3,10 @@ VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
 SUMMARY:Taxidermia de una alondra
-DTSTART;TZID=Europe/Madrid:20260521T193000
-UID:ed931f53d67d0fdce8eab5e01344d06da73245c33115f3091888325762adbf5e
-CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 3 plazas!\n\nhttps://teatrodelbarrio.com/taxi
- dermia-de-una-alondra/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Poesía o Barbarie
-DTSTART;TZID=Europe/Madrid:20260521T220000
-UID:2cbe4e1641a0de46622d586b3212c27d89eb4b3000409dfad0a356400a3f0293
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/poesia-o-barbarie/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Taxidermia de una alondra
 DTSTART;TZID=Europe/Madrid:20260522T193000
 UID:edbb18c0cd95a3139fb70de78003394ca4b115c8707f76591baa6f30ed867728
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 23 plazas!\n\nhttps://teatrodelbarrio.com/tax
+DESCRIPTION:¡Ya solo quedan 20 plazas!\n\nhttps://teatrodelbarrio.com/tax
  idermia-de-una-alondra/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
@@ -59,8 +42,8 @@ SUMMARY:Taxidermia de una alondra
 DTSTART;TZID=Europe/Madrid:20260523T193000
 UID:9588d029e9179ab44556d0aeee7a575d734cffeebad7fce9d609ba834cbea073
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 16 plazas!\n\nhttps://teatrodelbarrio.com/tax
- idermia-de-una-alondra/
+DESCRIPTION:¡Ya solo quedan 9 plazas!\n\nhttps://teatrodelbarrio.com/taxi
+ dermia-de-una-alondra/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -77,7 +60,7 @@ SUMMARY:Y tú\, ¿de qué te ríes?
 DTSTART;TZID=Europe/Madrid:20260524T130000
 UID:081a82dfac0bdf933c35b9b1e8f51091d1d0d59e6124af3456372652a323b6ca
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 1 plazas!\n\nhttps://teatrodelbarrio.com/y-tu
+DESCRIPTION:¡Ya solo quedan 3 plazas!\n\nhttps://teatrodelbarrio.com/y-tu
  -de-que-te-ries/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
@@ -86,7 +69,7 @@ SUMMARY:Taxidermia de una alondra
 DTSTART;TZID=Europe/Madrid:20260524T180000
 UID:ce4a776db3b1c0df801284b224beacda2ba848e06225d183b36b7e23c00325ad
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 8 plazas!\n\nhttps://teatrodelbarrio.com/taxi
+DESCRIPTION:¡Ya solo quedan 5 plazas!\n\nhttps://teatrodelbarrio.com/taxi
  dermia-de-una-alondra/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
@@ -216,5 +199,21 @@ UID:e5bb5027efa41910b2449382ece99aaffc6a762fe6495cf4426cd5c116778239
 CATEGORIES:theater
 DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/la-ferni/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mesa redonda
+DTSTART;TZID=Europe/Madrid:20260602T190000
+UID:7cf97b520be078056f3d6858c675fb3b98df1cca09324cb2a881ca6e7a34d504
+CATEGORIES:theater
+DESCRIPTION:Mesa redonda\n\n¿Asistimos al fin de las democracias? ¿Son l
+ os jóvenes más conservadores que nunca? ¿Hemos de resignarnos al fin de
+  la organización\, la solidaridad y la empatía?\n\nFrente a las pasiones
+  tristes\, Ada Colau y Sara Torres conversan en busca de los placeres de l
+ a movilización: recuperar la alegría de organizarse juntas y elaborar en
+ tre todas propuestas ilusionantes y esperanzadoras. Frente a la internacio
+ nal del odio\, la revolución de los afectos. Frente al auge reaccionario\
+ , pasiones transformadoras.\n\nUna conversación moderada por Inés Hernan
+ d.\n\nhttps://lamirador.com/funcion?nombre=mesa-redonda-2026
+LOCATION:Sala Mirador - Calle Doctor Fourquet\, 31\, 28012 Madrid
 END:VEVENT
 END:VCALENDAR
