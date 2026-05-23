@@ -128,7 +128,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:El nacimiento de la moneda. Tesoros de la colección Zhuyuetang
 DTSTART;TZID=Europe/Madrid:20250627T000000
-DTEND;TZID=Europe/Madrid:20260621T000000
+DTEND;TZID=Europe/Madrid:20260607T000000
 UID:ad69828a0f0f85460cd613774b7b4d4cfe18aa1f35a3fbf3290c42dee5fc4eab
 CATEGORIES:exhibition
 DESCRIPTION:Exposición que reúne 148 piezas singulares procedentes de un
@@ -225,12 +225,12 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Animals
 DTSTART;TZID=Europe/Madrid:20251029T000000
-DTEND;TZID=Europe/Madrid:20260630T000000
+DTEND;TZID=Europe/Madrid:20260607T000000
 UID:49669b8a86953c84c1ed1336a4efb3bfcb16dbd6cb5877463e370c3345798a68
 CATEGORIES:exhibition
 DESCRIPTION:Una selección de 22 retratos de la fotógrafa y activista Ele
  na de Castro que combinan sensibilidad y compromiso (Matadero Madrid. Hast
- a 30 Junio).\n\nhttps://www.mataderomadrid.org/programacion/animals
+ a 7 Junio).\n\nhttps://www.mataderomadrid.org/programacion/animals
 LOCATION:Matadero Madrid - de Legazpi\, 8\, Madrid\, 28045
 END:VEVENT
 BEGIN:VEVENT
@@ -1058,6 +1058,19 @@ DESCRIPTION:Muestra que ofrece un recorrido por la vida e influencia de la
 LOCATION:CaixaForum Madrid - del Prado\, 36\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Exposición Pelo de tormenta - Homenaje a Francisco Nieva
+DTSTART;TZID=Europe/Madrid:20260410T000000
+DTEND;TZID=Europe/Madrid:20260719T000000
+UID:8cb26d0864cc3ea5889daf2c65b89e800e45cce0f529368d6aa4a3f76b54a30d
+CATEGORIES:exhibition
+DESCRIPTION:Muestra que conmemora los diez años del fallecimiento del au
+ tor y los 29 años del estreno de una de sus obras más emblemáticas (F
+ ernán Gómez Centro Cultural de la Villa.\n\nhttps://www.teatrofernangome
+ z.es/actividades/exposicion-pelo-de-tormenta-homenaje-francisco-nieva
+LOCATION:Fernán Gómez Centro Cultural de la Villa - de Colón \, 4\, Mad
+ rid\, 28001
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Al’Qala. Hilos de Historia
 DTSTART;TZID=Europe/Madrid:20260411T000000
 DTEND;TZID=Europe/Madrid:20260619T000000
@@ -1093,6 +1106,17 @@ DESCRIPTION:Instalación del artista Juan Carlos Bracho en la que reflexio
  ciones/juan-carlos-bracho-ayyo
 LOCATION:Centro de Arte Dos de Mayo (CA2M) / Móstoles - de la Constituci
  ón \, 23\, (Móstoles)\, Móstoles\, 28931
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Visitas estudio Coco Dávez
+DTSTART;TZID=Europe/Madrid:20260411T000000
+DTEND;TZID=Europe/Madrid:20260523T000000
+UID:c3dc712e89d74e5f1534cba1d2a0e5c3ccec0b1885b3042f5ea2da6c849943d8
+CATEGORIES:exhibition
+DESCRIPTION:La artista celebra el décimo aniversario de Faceless abriendo
+  las puertas de su estudio en Carabanchel (Caranbanchel. Hasta 23 mayo).\n
+ \nhttps://shop.cocodavez.com/
+LOCATION:Madrid - Caranbanchel\, Madrid\, Madrid\, 28047
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:El universo del artista ante la cámara
@@ -1191,6 +1215,19 @@ DESCRIPTION:Pequeña muestra de varias piezas falsas o de dudosa autentici
  nal. Hasta 12 jul).\n\nhttps://www.man.es/man/exposiciones/vitrina0/202604
  14-vitrina0-verdadero-o-falso.html
 LOCATION:Museo Arqueológico Nacional - de Serrano\, 13\, Madrid\, 28001
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Volver a mirar
+DTSTART;TZID=Europe/Madrid:20260421T000000
+DTEND;TZID=Europe/Madrid:20261025T000000
+UID:e6d0df554a7d106999a5d40303ff2322ecea869810ae1db64104a63050b47bac
+CATEGORIES:exhibition
+DESCRIPTION:Rosa Muñoz presenta una videoinstalación enmarcada en la cel
+ ebración de los 175 años del Canal de Isabel II y los 25 años de Fundac
+ ión Canal (Depósito elevado Plaza de Castilla.\n\nhttps://www.fundacionc
+ anal.com/intervenciones-artisticas/volver-a-mirar/
+LOCATION:Depósito elevado de Plaza de Castilla - de Castilla\, 9\, Madrid
+ \, 28036
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:América. Visiones nuevas desde el viejo mundo. Demián Flores
@@ -1333,20 +1370,6 @@ DESCRIPTION:Muestra que analiza la historia y el significado de la obra El
 LOCATION:Museo del Prado - del Prado\, s/n\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:50 Aniversario de Hispania Nostra. Medio siglo de acción en defen
- sa del patrimonio cultural y natural
-DTSTART;TZID=Europe/Madrid:20260428T000000
-DTEND;TZID=Europe/Madrid:20260522T000000
-UID:c6a188f2292bb18cdba0e02336cd228123e5045ff5b1ebb17de475623fe1925f
-CATEGORIES:exhibition
-DESCRIPTION:Recorrido por cinco décadas de trabajo centrado en la defensa
-  y difusión del patrimonio cultural y natural en España (COAM. Hasta 22 
- mayo).\n\nhttps://www.coam.org/actualidad-agenda-coam-50-aniversario-de-hi
- spania-nostra-medio-siglo-de-accion-en-defensa-del-patrimonio-cultural-y-n
- atural/
-LOCATION:COAM - de Hortaleza\, 63\, Madrid\, 28004
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Aurèlia Muñoz. Entes
 DTSTART;TZID=Europe/Madrid:20260429T000000
 DTEND;TZID=Europe/Madrid:20260907T000000
@@ -1409,19 +1432,6 @@ DESCRIPTION:A través de este cuadro\, realizado por el pintor Antonio Riv
 LOCATION:Museo Cerralbo - de Ventura Rodríguez\, 17\, Madrid\, 28008
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Volver a mirar
-DTSTART;TZID=Europe/Madrid:20260429T000000
-DTEND;TZID=Europe/Madrid:20261025T000000
-UID:6a0be29dfdc366eef7c89b4929a08c54cd792daa192868a5b8d85137239cb6b4
-CATEGORIES:exhibition
-DESCRIPTION:Rosa Muñoz presenta una videoinstalación enmarcada en la cel
- ebración de los 175 años del Canal de Isabel II y los 25 años de Fundac
- ión Canal (Depósito elevado Plaza de Castilla.\n\nhttps://www.fundacionc
- anal.com/intervenciones-artisticas/volver-a-mirar/
-LOCATION:Depósito elevado de Plaza de Castilla - de Castilla\, 9\, Madrid
- \, 28036
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Cama adentro
 DTSTART;TZID=Europe/Madrid:20260430T000000
 DTEND;TZID=Europe/Madrid:20260927T000000
@@ -1472,18 +1482,6 @@ DESCRIPTION:Primera exposición en España de la obra del escultor britán
  arch.es/es/actualidad/noticias/banca-march-vuelve-abrir-jardin-sede-madril
  ena-primera-exposicion-thomas-houseago-espana-centenario.html
 LOCATION:Madrid - de Castelló\, 75\, Madrid\, Madrid\, 28006
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:De Monet a Kandinski. Arte revolucionario
-DTSTART;TZID=Europe/Madrid:20260504T000000
-DTEND;TZID=Europe/Madrid:20260527T000000
-UID:e3e6e0e84968a96363f06ad585acafb7f80ead60f884afe3c9f358750ce8a020
-CATEGORIES:exhibition
-DESCRIPTION:Experiencia que reúne los movimientos artísticos más inf
- luyentes de finales del siglo XIX y principios del XX: impresionismo\, pun
- tillismo\, posimpresionismo\, cubismo y expresionismo (Nomad Museo\n\nhttp
- s://www.nomadmuseo.es/
-LOCATION:Nomad Museo Inmersivo - Gran Vía\, 78\, Madrid\, 28013
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chema Madoz (PHotoESPAÑA 2026)
@@ -2004,9 +2002,9 @@ DTSTART;TZID=Europe/Madrid:20260527T120000
 DTEND;TZID=Europe/Madrid:20260527T120000
 UID:27ccfaa1c9777a043b38a8c493d9e41e903f30ad26317d0bbd5f674fa65e5e72
 CATEGORIES:exhibition
-DESCRIPTION:Obra de Almudena Salamanca. Bienvenida: Ana Santos. Biblioteca
- . 12:00h.\n\nhttps://ateneodemadrid.com/evento/descubrimiento-del-retrato-
- de-maria-laffitte/
+DESCRIPTION:Obra de Almudena Salamanca. Bienvenida: Ana Santos. Lectura: R
+ afael Rodríguez-Ponga Salamanca. Biblioteca. 12:00h.\n\nhttps://ateneodem
+ adrid.com/evento/descubrimiento-del-retrato-de-maria-laffitte/
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -2046,6 +2044,55 @@ DESCRIPTION:Muestra que reúne la serie completa de Los Americanos realiza
  os-americanos/
 LOCATION:Espacio Fundación Telefónica - de Fuencarral\, 3\, Madrid\, 280
  04
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hacia la definición del perfil profesional de la educación y med
+ iación cultural
+DTSTART;TZID=Europe/Madrid:20260529T180000
+UID:bd3b4d0c3bc30d55844f1f0d6cf2f3400225339e2497a570fc134d2b5707c529
+CATEGORIES:exhibition
+DESCRIPTION:Esta actividad\, organizada por Almazuela\, la Federación Esp
+ añola de Asociaciones de Educación y Mediación en Cultura\, Museos y Pa
+ trimonio y AMECUM \, forma parte del proceso que Almazuela está desarroll
+ ando para avanzar en la definición del perfil profesional de la educació
+ n y mediación cultural\, con el apoyo del Ministerio de Cultura y de la F
+ undación Daniel y Nina Carasso. Para ello\, desde el mes de enero se ha p
+ uesto en marcha un grupo de trabajo\, conformado por veinte profesionales 
+ de distintos territorios y de ámbitos diversos\, como la mediación y edu
+ cación cultural\, el derecho cultural\, la academia\, asociaciones\, empr
+ esas\, cooperativas\, administración pública\, museos estatales y sindic
+ atos\, que ha trabajado en la elaboración del marco conceptual\, metodol
+ ógico y organizativo desde el que seguir avanzando para la consecución d
+ e este objetivo. El próximo 29 de mayo el grupo de trabajo de Almazuela q
+ uiere compartir este proceso abriendo un debate para pensar en colectivo e
+ n torno a cuestiones como la definición de este campo profesional\, qué 
+ condiciones laborales son necesarias\, qué papel deben asumir las institu
+ ciones y administración pública\, o cómo fortalecer la comunidad profes
+ ional. Se trata de un encuentro abierto a todas las personas profesionales
+  o interesadas en el ámbito de la educación y mediación cultural. Con l
+ a participación de: Javier Rodrigo Investigador y mediador cultural. Coor
+ dinador de transductores desde 2008. Integrante de ACEP (Associació Catal
+ ana d'Educació Patrimonial) y Artibarri. Yolanda Riquelme García Mediado
+ ra Cultural. Codirectora de La Liminal desde 2015. Presidenta de Almazuela
+ . Federación española de Asociación de Educación y Mediación en Cultu
+ ra\, Museos y Patrimonio e integrante de AMECUM (Asociación de Mediadoras
+  Culturales de Madrid) Amparo Moroño Historiadora del arte especializada 
+ en pedagogías culturales. Mediadora cultural\, responsable del programa 
+ de Cultura de la Mancomunidad del Valle del Jerte (Cáceres). Aina Bauzá 
+ Trabajadora cultural en mediación y curaduría. Ha sido jefa del DEAC de 
+ Es Baluard y ha dirigido el Centro de arte Casal Solleric. Tanto en instit
+ uciones como autonoma desarrolla proyectos situados. Socia cofundadora de 
+ Taula. Asociació d'educadores culturals de Mallorca. Marian Recaj Licenci
+ ada en Historia del Arte y especializada en gestión cultural y educación
+ \, es fundadora de Fun Fam\, proyecto de educación patrimonial para famil
+ ias y entornos escolares en Aragón. Integrante de  Trenzadera\, Asociaci
+ ón Aragonesa de Educadoras\, Mediadoras culturales y Patrimoniales. Paula
+  Zamarreño Diplomada en Turismo y Licenciada en Humanidades\, con Máster
+  en Gestión Cultural. Mediadora cultural de la AGE\, primero en el Museo 
+ de Antropología y desde 2025 en la Casa de la Arquitectura.\n\nhttps://ww
+ w.mataderomadrid.org/programacion/hacia-la-definicion-del-perfil-profesion
+ al-de-la-educacion-y-mediacion-cultural
+LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Endometriosis. Laia Abril (PHotoESPAÑA 2026)
@@ -2117,18 +2164,6 @@ DESCRIPTION:La fotógrafa española explora el Monasterio de El Escorial y
  on/las-piedras-del-cielo/
 LOCATION:Galería de las Colecciones Reales - de Bailén\, 8\, Madrid\, 28
  013
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Refusal. Second Fracture. Rafael Milach (PHotoESPAÑA 2026)
-DTSTART;TZID=Europe/Madrid:20260605T000000
-DTEND;TZID=Europe/Madrid:20260927T000000
-UID:b0460599081cf889bf277b7a494df4445c6d1da25223c870673efd3d0d9598f9
-CATEGORIES:exhibition
-DESCRIPTION:Un análisis sobre poder\, propaganda y acción colectiva en E
- uropa del Este a través de la fotografía contemporánea (Círculo de Bel
- las Artes - Sala Goya. 5 jun a 27 sept).\n\nhttps://phe.es/exposicion/refu
- sal-second-fracture/
-LOCATION:Círculo de Bellas Artes - de Alcalá\, 42\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ruina Montium. Raphaëlle Peria (PHotoESPAÑA 2026)
@@ -2211,19 +2246,6 @@ DESCRIPTION:Proyecto que aborda el vínculo entre cuerpo\, arquitectura y
  fragilidad a partir de la experiencia de la escoliosis de la hija de la ar
  tista (COAM. 8 jun a 23 ago).\n\nhttps://phe.es/exposicion/columna/
 LOCATION:COAM - de Hortaleza\, 63\, Madrid\, 28004
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Elena Jiménez. Premio Nacional de Arte Gráfico
-DTSTART;TZID=Europe/Madrid:20260609T000000
-DTEND;TZID=Europe/Madrid:20260726T000000
-UID:1e514f895607a34ddcc014d17917e06c1c67656a1e17900283e4a360b774a330
-CATEGORIES:exhibition
-DESCRIPTION:Exposición dedicada al trabajo de la artista visual recientem
- ente galardonada con el más importante premio de arte gráfico en Espa
- ña (Real Academia de Bellas Artes de San Fernando.\n\nhttps://www.realaca
- demiabellasartessanfernando.com/actividades/exposiciones/elena-jimenez/
-LOCATION:Real Academia de Bellas Artes de San Fernando - de Alcalá\, 13\,
-  Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Prado. Siglo XXI

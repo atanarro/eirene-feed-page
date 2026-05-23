@@ -1,5 +1,5 @@
 Eirene feed debug
-Total events: 180
+Total events: 179
 
 [1] Euphoяia – Art is in the Air
   id: ea28d34a2cee293e8188fd20f35954ed15fee14085cfcd120d2fab24b96843d4
@@ -114,7 +114,7 @@ Total events: 180
 [11] El nacimiento de la moneda. Tesoros de la colección Zhuyuetang
   id: ad69828a0f0f85460cd613774b7b4d4cfe18aa1f35a3fbf3290c42dee5fc4eab
   start: 2025-06-27T00:00:00+02:00
-  end: 2026-06-21T00:00:00+02:00
+  end: 2026-06-07T00:00:00+02:00
   category: exhibition
   source: esmadrid_exhibitions
   location: Museo Casa de La Moneda - del Doctor Esquerdo, 36, Madrid, 28028
@@ -202,13 +202,13 @@ Total events: 180
 [19] The Animals
   id: 49669b8a86953c84c1ed1336a4efb3bfcb16dbd6cb5877463e370c3345798a68
   start: 2025-10-29T00:00:00+01:00
-  end: 2026-06-30T00:00:00+02:00
+  end: 2026-06-07T00:00:00+02:00
   category: exhibition
   source: esmadrid_exhibitions
   location: Matadero Madrid - de Legazpi, 8, Madrid, 28045
   coordinates: 40.392398, -3.697762
   url: https://www.mataderomadrid.org/programacion/animals
-  description: Una selección de 22 retratos de la fotógrafa y activista Elena de Castro que combinan sensibilidad y compromiso (Matadero Madrid. Hasta 30 Junio).
+  description: Una selección de 22 retratos de la fotógrafa y activista Elena de Castro que combinan sensibilidad y compromiso (Matadero Madrid. Hasta 7 Junio).
 
 [20] Escaparatismos
   id: 720aa3de3679258875cabb577b3f6f56e84e607cfa5e7e3975aa21bb018b5b9b
@@ -895,7 +895,18 @@ Ha trabajado en galerías como Marta Cervera, Espacio Mínimo o Catherine Clark 
   url: https://caixaforum.org/es/madrid/p/soy-asurbanipal_a173667669
   description: Muestra que ofrece un recorrido por la vida e influencia de la figura de uno de los hombres más poderosos de su época (CaixaForum Madrid. 9 abr a 4 oct).
 
-[81] Al’Qala. Hilos de Historia
+[81] Exposición Pelo de tormenta - Homenaje a Francisco Nieva
+  id: 8cb26d0864cc3ea5889daf2c65b89e800e45cce0f529368d6aa4a3f76b54a30d
+  start: 2026-04-10T00:00:00+02:00
+  end: 2026-07-19T00:00:00+02:00
+  category: exhibition
+  source: esmadrid_exhibitions
+  location: Fernán Gómez Centro Cultural de la Villa - de Colón , 4, Madrid, 28001
+  coordinates: 40.424051, -3.689615
+  url: https://www.teatrofernangomez.es/actividades/exposicion-pelo-de-tormenta-homenaje-francisco-nieva
+  description: Muestra que conmemora los diez años del fallecimiento del autor y los 29 años del estreno de una de sus obras más emblemáticas (Fernán Gómez Centro Cultural de la Villa.
+
+[82] Al’Qala. Hilos de Historia
   id: 1e135dd3d6cb06d12d767d1e1ab45ed01d4452c1a7822cd9ff71b109e93064ee
   start: 2026-04-11T00:00:00+02:00
   end: 2026-06-19T00:00:00+02:00
@@ -906,7 +917,7 @@ Ha trabajado en galerías como Marta Cervera, Espacio Mínimo o Catherine Clark 
   url: https://realfabricadetapices.com/alqala-hilos-de-historia/
   description: Una exposición que reúne una selección de piezas inéditas de museos de Oriente Medio (Real Fábrica de Tapices. Hasta 19 junio).
 
-[82] Antonio Ballester Moreno. El cielo y la tierra
+[83] Antonio Ballester Moreno. El cielo y la tierra
   id: 02353b370ee6faf489e09ac73e408b1bc03d53334600f35c8f59305ab290b902
   start: 2026-04-11T00:00:00+02:00
   end: 2026-09-27T00:00:00+02:00
@@ -917,7 +928,7 @@ Ha trabajado en galerías como Marta Cervera, Espacio Mínimo o Catherine Clark 
   url: https://ca2m.org/exposiciones/antonio-ballester-moreno-el-cielo-y-la-tierra
   description: La obra del artista madrileño dialoga con las colecciones del centro de arte mostoleño, invitando a pensar en la capacidad creativa que todos tenemos (Centro de Arte Dos de Mayo CA2M.
 
-[83] Juan Carlos Bracho. AYYO. Cápsula de colección
+[84] Juan Carlos Bracho. AYYO. Cápsula de colección
   id: 43bc6a1c0e329937e9645946a417aa7e6f7cc484ce1abd15ebda59941984ff1d
   start: 2026-04-11T00:00:00+02:00
   end: 2026-06-14T00:00:00+02:00
@@ -928,7 +939,18 @@ Ha trabajado en galerías como Marta Cervera, Espacio Mínimo o Catherine Clark 
   url: https://ca2m.org/exposiciones/juan-carlos-bracho-ayyo
   description: Instalación del artista Juan Carlos Bracho en la que reflexiona sobre el proceso expositivo desde sus inicios a su fin (Centro de Arte Dos de Mayo. CA2M / Móstoles. Hasta 14 junio).
 
-[84] El universo del artista ante la cámara
+[85] Visitas estudio Coco Dávez
+  id: c3dc712e89d74e5f1534cba1d2a0e5c3ccec0b1885b3042f5ea2da6c849943d8
+  start: 2026-04-11T00:00:00+02:00
+  end: 2026-05-23T00:00:00+02:00
+  category: exhibition
+  source: esmadrid_exhibitions
+  location: Madrid - Caranbanchel, Madrid, Madrid, 28047
+  coordinates: 40.383431, -3.741125
+  url: https://shop.cocodavez.com/
+  description: La artista celebra el décimo aniversario de Faceless abriendo las puertas de su estudio en Carabanchel (Caranbanchel. Hasta 23 mayo).
+
+[86] El universo del artista ante la cámara
   id: 42c862cba63d01bbb4a7a1601a46fc9eab5dd91d18cb864caea90a6696dd9cdf
   start: 2026-04-13T00:00:00+02:00
   end: 2026-07-05T00:00:00+02:00
@@ -939,7 +961,7 @@ Ha trabajado en galerías como Marta Cervera, Espacio Mínimo o Catherine Clark 
   url: https://www.museodelprado.es/actualidad/exposicion/el-universo-del-artista-ante-la-camara/b581a759-4ab0-b459-f3d4-8168c84923f2
   description: Exposición que analiza el impacto de la fotografía desde su aparición en el siglo XIX como una nueva disciplina artística (Museo del Prado. Hasta 5 jul).
 
-[85] Clima, cuerpo, placer. Arquitectura y tipologías climáticas
+[87] Clima, cuerpo, placer. Arquitectura y tipologías climáticas
   id: 06db31fee65d39b1067dc45fa1e3dffe57e9295ea545893d82771ab403994e54
   start: 2026-04-16T00:00:00+02:00
   end: 2026-05-28T00:00:00+02:00
@@ -950,7 +972,7 @@ Ha trabajado en galerías como Marta Cervera, Espacio Mínimo o Catherine Clark 
   url: https://www.coam.org/actualidad-agenda-coam-clima-cuerpo-placer-arquitectura-y-tipologias-climaticas/
   description: Exposición que incide en la interacción entre los edificios y el entorno, para fomentar el bienestar en su interior, sin ceder al hermetismo (COAM. Hasta 28 mayo).
 
-[86] Súper Zines 2026
+[88] Súper Zines 2026
   id: 546b75877110516a1473aebfeda9506d8419c75d8937fd22e38fb30fcbc47872
   start: 2026-04-16T00:00:00+02:00
   end: 2026-05-31T00:00:00+02:00
@@ -961,7 +983,7 @@ Ha trabajado en galerías como Marta Cervera, Espacio Mínimo o Catherine Clark 
   url: https://casalector.fundaciongsr.org/proximamente-super-zines-2026/
   description: Exposición dedicada al mundo del fanzine, destacando su importante papel en las prácticas editoriales independientes (Casa del Lector - Matadero. Hasta 31 may).
 
-[87] The Tempest. The Garden of Forking Paths. Avelino Sala
+[89] The Tempest. The Garden of Forking Paths. Avelino Sala
   id: 32e7ee841df8bb4622db77131b601066ecae69c5177f320bc5278ec9859bc3b1
   start: 2026-04-16T00:00:00+02:00
   end: 2026-09-20T00:00:00+02:00
@@ -972,7 +994,7 @@ Ha trabajado en galerías como Marta Cervera, Espacio Mínimo o Catherine Clark 
   url: https://www.centrocentro.org/exposicion/avelino-sala
   description: El artista gijonés presenta un recorrido por su trabajo en el que la resistencia crítica y poética son las protagonistas (CentroCentro. Hasta 20 sept).
 
-[88] Tiempo juntos - 2006-2026: 20 años de Casa Árabe y de amistad entre España y el mundo árabe
+[90] Tiempo juntos - 2006-2026: 20 años de Casa Árabe y de amistad entre España y el mundo árabe
   id: 8a469b71a8337c5a887809ce70a7f31a1ef0649748a2469eb270482bb6197b51
   start: 2026-04-16T00:00:00+02:00
   end: 2026-09-13T00:00:00+02:00
@@ -983,7 +1005,7 @@ Ha trabajado en galerías como Marta Cervera, Espacio Mínimo o Catherine Clark 
   url: https://casaarabe.es/eventos-arabes/show/tiempo-juntos-2006-2026-20-anos-de-casa-arabe-y-de-amistad-entre-espana-y-el-mundo-arabe
   description: Exposición fotográfica que recorre las dos décadas de vida de esta institución que fomenta las relaciones entre España y el mundo árabe (Casa Árabe. Hasta 13 sept).
 
-[89] Arcade Origins: el comienzo de la industria del videojuego
+[91] Arcade Origins: el comienzo de la industria del videojuego
   id: 2e8b846737eab8f2b63751e9353eb1f742394a9931ea713d6e80cd198571a6f5
   start: 2026-04-17T00:00:00+02:00
   end: 2026-06-21T00:00:00+02:00
@@ -994,7 +1016,7 @@ Ha trabajado en galerías como Marta Cervera, Espacio Mínimo o Catherine Clark 
   url: https://oxomuseomadrid.com/exposicion-arcade-origins/
   description: Exposición que recorre la historia del videojuego, desde sus inicios hasta la actualidad (OXO. Museo del Videjuego en Madrid. Hasta 21 junio).
 
-[90] Todo empieza con ausencia. Marian Carrasquero
+[92] Todo empieza con ausencia. Marian Carrasquero
   id: 0d3a2b7a9c5a1bbf747295adf2e9b81af464dec0bec0ba869c514356f9510780
   start: 2026-04-17T00:00:00+02:00
   end: 2026-05-30T00:00:00+02:00
@@ -1005,7 +1027,7 @@ Ha trabajado en galerías como Marta Cervera, Espacio Mínimo o Catherine Clark 
   url: https://www.casamerica.es/exposiciones/todo-empieza-con-ausencia
   description: La fotoperiodista venezolana muestra varias fotografías tomadas por el continente americano entre 2023 y 2025 (Casa América. Hasta 30 may).
 
-[91] Vitrina CERO. ¿Verdadero o falso? La ficción de la autenticidad en las falsificaciones del siglo XIX
+[93] Vitrina CERO. ¿Verdadero o falso? La ficción de la autenticidad en las falsificaciones del siglo XIX
   id: c436f41e75df8c1a214aeeb7aa371cde532091e1ec06c5e9757a068cea19c7fd
   start: 2026-04-21T00:00:00+02:00
   end: 2026-07-12T00:00:00+02:00
@@ -1016,7 +1038,18 @@ Ha trabajado en galerías como Marta Cervera, Espacio Mínimo o Catherine Clark 
   url: https://www.man.es/man/exposiciones/vitrina0/20260414-vitrina0-verdadero-o-falso.html
   description: Pequeña muestra de varias piezas falsas o de dudosa autenticidad que forman parte de la colección del museo (Museo Arqueológico Nacional. Hasta 12 jul).
 
-[92] América. Visiones nuevas desde el viejo mundo. Demián Flores
+[94] Volver a mirar
+  id: e6d0df554a7d106999a5d40303ff2322ecea869810ae1db64104a63050b47bac
+  start: 2026-04-21T00:00:00+02:00
+  end: 2026-10-25T00:00:00+02:00
+  category: exhibition
+  source: esmadrid_exhibitions
+  location: Depósito elevado de Plaza de Castilla - de Castilla, 9, Madrid, 28036
+  coordinates: 40.466, -3.6888
+  url: https://www.fundacioncanal.com/intervenciones-artisticas/volver-a-mirar/
+  description: Rosa Muñoz presenta una videoinstalación enmarcada en la celebración de los 175 años del Canal de Isabel II y los 25 años de Fundación Canal (Depósito elevado Plaza de Castilla.
+
+[95] América. Visiones nuevas desde el viejo mundo. Demián Flores
   id: 0b4af1752944bc545933cfb99102149fb0e0859b1a97b7c89686fc581b84d6fd
   start: 2026-04-22T00:00:00+02:00
   end: 2026-06-05T00:00:00+02:00
@@ -1027,7 +1060,7 @@ Ha trabajado en galerías como Marta Cervera, Espacio Mínimo o Catherine Clark 
   url: https://icm.sre.gob.mx/espana/index.php/otros/953-exposicion-america-visiones-nuevas-desde-el-viejo-mundo-de-demian-flores
   description: El artista mexicano reinterpreta las ilustraciones de Theodor De Bry sobre el continente americano para denunciar la violencia que asola México en su historia reciente (Instituto Cultural de México
 
-[93] María Elena Walsh y Sara Facio, la palabra y la mirada
+[96] María Elena Walsh y Sara Facio, la palabra y la mirada
   id: 3a6a014145109175bee823320cca86c69181f123125babc3077434d060a448ff
   start: 2026-04-22T00:00:00+02:00
   end: 2026-07-26T00:00:00+02:00
@@ -1038,7 +1071,7 @@ Ha trabajado en galerías como Marta Cervera, Espacio Mínimo o Catherine Clark 
   url: https://cultura.cervantes.es/espanya/es/mar%C3%ADa-elena-walsh-y-sara-facio%3A-la-palabra-y-la-mirada/188828
   description: Recorrido por la obra de las artistas argentinas, figuras destacadas de la cultura latinoamericana del siglo XX (Instituto Cervantes. Hasta 26 julio).
 
-[94] Bienestar en la ciudad
+[97] Bienestar en la ciudad
   id: 7690a1433a3b3a4028197b7d8b4001d378e72d7840f1cdefefcb174676af1c41
   start: 2026-04-23T00:00:00+02:00
   end: 2026-09-20T00:00:00+02:00
@@ -1049,7 +1082,7 @@ Ha trabajado en galerías como Marta Cervera, Espacio Mínimo o Catherine Clark 
   url: https://lacasadelaarquitectura.es/recurso/bienestar-en-la-ciudad-bienestar-en-la-ciudad/62b3eeb6-68bf-4c30-bf60-e0a7f2c9cd64
   description: Exposición que propone una reflexión crítica acerca de las bases sobre las que se ha construido históricamente el bienestar urbano (La Casa de la Arquitectura. Hasta 20 septiembre).
 
-[95] Fins ací (hasta aquí)
+[98] Fins ací (hasta aquí)
   id: d157f4d408f2af5d4d5f3ac837c880bd4b9f0e91592f9abb7d704f87e17ceee2
   start: 2026-04-23T00:00:00+02:00
   end: 2026-09-20T00:00:00+02:00
@@ -1060,7 +1093,7 @@ Ha trabajado en galerías como Marta Cervera, Espacio Mínimo o Catherine Clark 
   url: https://lacasadelaarquitectura.es/recurso/fins-aci-fins-aci/d56f806c-a30d-44ea-a1d2-cd44d888fc32
   description: Milena Villalta muestra los efectos de la dana del 29 de octubre de 2024 a través de varias fotografías (La Casa de la Arquitectura. Hasta 20 septiembre).
 
-[96] Las mejores letras en español
+[99] Las mejores letras en español
   id: dbddbfc5060e67bf527ebf19d812e6dc9d608fe303d7a9d9b1273cc1a2ec54a3
   start: 2026-04-23T00:00:00+02:00
   end: 2026-06-21T00:00:00+02:00
@@ -1071,7 +1104,7 @@ Ha trabajado en galerías como Marta Cervera, Espacio Mínimo o Catherine Clark 
   url: https://cultura.cervantes.es/ESPANYA/es/id/188979?_gl=1*1ntdg3a*port_ga*ODIxMDY0Mjg2LjE3NzY3NjYzMDE.*port_ga_Z9V7YFW9ZK*czE3NzY3NjYzMDEkbzEkZzEkdDE3NzY3NjYzOTkkajU1JGwwJGgw*glob_ga*ODIxMDY0Mjg2LjE3NzY3NjYzMDE.*glob_ga_57JPCLFY9Z*czE3NzY3NjYzMDEkbzEkZzEkdD
   description: Esta exposición proponer buscar el punto de vista literario en varias letras de canciones de artistas españoles (Instituto Cervantes. Hasta 21 jun).
 
-[97] Radical Rehab. Arquitectura y Patrimonio en España (1975–2025)
+[100] Radical Rehab. Arquitectura y Patrimonio en España (1975–2025)
   id: 311d37e8406a128aa2e3395cac4e334ffc81f464f7b98f7cf9a478f45172b8a9
   start: 2026-04-23T00:00:00+02:00
   end: 2027-03-28T00:00:00+01:00
@@ -1082,7 +1115,7 @@ Ha trabajado en galerías como Marta Cervera, Espacio Mínimo o Catherine Clark 
   url: https://lacasadelaarquitectura.es/recurso/radical-rehab-radical-rehab/5ae31f3b-aa35-41b4-89cb-6c1a0d83638d
   description: Proyecto expositivo que destaca el papel de la arquitectura en la revitalización del patrimonio arquitectónico español (Casa de la Arquitectura. Hasta 28 marzo 2027).
 
-[98] Tonga Soa, Madagascar
+[101] Tonga Soa, Madagascar
   id: 5284a1c72a405c75dd0a0ba61c5e351045d7592a045e54c19c3dcd0f79ee3608
   start: 2026-04-23T00:00:00+02:00
   end: 2026-06-05T00:00:00+02:00
@@ -1093,7 +1126,7 @@ Ha trabajado en galerías como Marta Cervera, Espacio Mínimo o Catherine Clark 
   url: https://premium.btravel.com/evento/inauguracion-exposicion-madagascar/
   description: Una exposición que muestra el proyecto fotográfico de la artista Katy Gómez Catalina (B Travel & CATAI. 23 abr a 5 jun).
 
-[99] Lorca y el archivo. Memoria en movimiento
+[102] Lorca y el archivo. Memoria en movimiento
   id: 7a2e60f910ceeb4c0da1309a04daa832147d8c58a2e7ef82a58be79107df833e
   start: 2026-04-24T00:00:00+02:00
   end: 2026-07-26T00:00:00+02:00
@@ -1104,7 +1137,7 @@ Ha trabajado en galerías como Marta Cervera, Espacio Mínimo o Catherine Clark 
   url: https://residenciadeestudiantes.com/exposiciones/lorca-y-el-archivo-memoria-en-movimiento
   description: Exposición sobre la historia del Archivo de la Fundación Federico García Lorca, desde sus inicios hasta la actualidad (Residencia de Estudiantes. Hasta 26 julio).
 
-[100] Mariela Scafati. Nombrar el mundo
+[103] Mariela Scafati. Nombrar el mundo
   id: 03fd0477e492425f665917e8e4850b8b7f4ff7c8d7edc917b8950bc3c181981e
   start: 2026-04-24T00:00:00+02:00
   end: 2026-07-19T00:00:00+02:00
@@ -1115,7 +1148,7 @@ Ha trabajado en galerías como Marta Cervera, Espacio Mínimo o Catherine Clark 
   url: https://www.condeduquemadrid.es/actividades/mariela-scafati
   description: La artista argentina expone varias de sus instalaciones en esta muestra que supone un recorrido por su trayectoria artística (Conde Duque. Hasta 19 jul).
 
-[101] Horizonte de Keops: Una expedición por el Antiguo Egipto
+[104] Horizonte de Keops: Una expedición por el Antiguo Egipto
   id: 6d299a29680e197b5068eab5e6613c5d91cb29549672575d1d85d722cbf4b25e
   start: 2026-04-25T00:00:00+02:00
   end: 2026-07-31T00:00:00+02:00
@@ -1126,7 +1159,7 @@ Ha trabajado en galerías como Marta Cervera, Espacio Mínimo o Catherine Clark 
   url: https://horizonkheopsexperience.com/madrid/
   description: Una expedición inmersiva e innovadora que transporta a la época dorada del antiguo Egipto combinando historia, tecnología y emoción (Fever Hub Madrid. Miércoles a domingos.
 
-[102] El cuadro del hambre
+[105] El cuadro del hambre
   id: e82da132ca3fc4ba0a59a067bac73efab474c1efc265a2222332b2fdc6cfac21
   start: 2026-04-27T00:00:00+02:00
   end: 2026-09-13T00:00:00+02:00
@@ -1137,18 +1170,7 @@ Ha trabajado en galerías como Marta Cervera, Espacio Mínimo o Catherine Clark 
   url: https://www.museodelprado.es/actualidad/exposicion/el-cuadro-del-hambre/ae843d4d-f554-b78d-c990-6ccfbff81871
   description: Muestra que analiza la historia y el significado de la obra El año del hambre de Madrid (1818) de José Aparicio (Museo del Prado. Hasta 13 sept).
 
-[103] 50 Aniversario de Hispania Nostra. Medio siglo de acción en defensa del patrimonio cultural y natural
-  id: c6a188f2292bb18cdba0e02336cd228123e5045ff5b1ebb17de475623fe1925f
-  start: 2026-04-28T00:00:00+02:00
-  end: 2026-05-22T00:00:00+02:00
-  category: exhibition
-  source: esmadrid_exhibitions
-  location: COAM - de Hortaleza, 63, Madrid, 28004
-  coordinates: 40.415941, -3.702072
-  url: https://www.coam.org/actualidad-agenda-coam-50-aniversario-de-hispania-nostra-medio-siglo-de-accion-en-defensa-del-patrimonio-cultural-y-natural/
-  description: Recorrido por cinco décadas de trabajo centrado en la defensa y difusión del patrimonio cultural y natural en España (COAM. Hasta 22 mayo).
-
-[104] Aurèlia Muñoz. Entes
+[106] Aurèlia Muñoz. Entes
   id: 4854653106f20c6b0713c7f7ee9ee6257a08186bf619db50e15529270c6f96c2
   start: 2026-04-29T00:00:00+02:00
   end: 2026-09-07T00:00:00+02:00
@@ -1159,7 +1181,7 @@ Ha trabajado en galerías como Marta Cervera, Espacio Mínimo o Catherine Clark 
   url: https://www.museoreinasofia.es/exposicion/aurelia-munoz
   description: Exposición que invita a recorrer la obra de la artista catalana, figura destacada en el arte textil contemporáneo (Museo Reina Sofía. Hasta 7 sept).
 
-[105] Las ingenieras domésticas y la revolución de la cocina
+[107] Las ingenieras domésticas y la revolución de la cocina
   id: a910cd7850191de445ffd7ae8e05074d54634a4aaf73997164b652b34f63e39b
   start: 2026-04-29T00:00:00+02:00
   end: 2026-09-27T00:00:00+02:00
@@ -1170,7 +1192,7 @@ Ha trabajado en galerías como Marta Cervera, Espacio Mínimo o Catherine Clark 
   url: https://www.cultura.gob.es/mnartesdecorativas/exposiciones/proximas-exposiciones.html
   description: Exposición sobre la evolución del espacio doméstico entre los siglos XIX y XX, con las mujeres como protagonistas de su diseño (Museo Nacional de Artes Decorativas. Hasta 27 sept).
 
-[106] Lo que nace. Matías Costa (PHotoESPAÑA 2026)
+[108] Lo que nace. Matías Costa (PHotoESPAÑA 2026)
   id: bb8882d515402c952c28b11c3a49e954bfa1a4ccdf56e3bdb1f99aa857220342
   start: 2026-04-29T00:00:00+02:00
   end: 2026-05-24T00:00:00+02:00
@@ -1181,7 +1203,7 @@ Ha trabajado en galerías como Marta Cervera, Espacio Mínimo o Catherine Clark 
   url: https://phe.es/exposicion/lo-que-nace/
   description: La evolución artística de Matías Costa desde el documentalismo poético hasta la memoria íntima (COAM. Hasta 24 mayo).
 
-[107] Puentes de memoria y futuro: España–Israel. 40 años de relaciones diplomáticas (1986–2026)
+[109] Puentes de memoria y futuro: España–Israel. 40 años de relaciones diplomáticas (1986–2026)
   id: 0840331a85a6c27241144b5725f8c52d2c4860da49f2da02676a2b49c2d56a87
   start: 2026-04-29T00:00:00+02:00
   end: 2026-06-10T00:00:00+02:00
@@ -1192,7 +1214,7 @@ Ha trabajado en galerías como Marta Cervera, Espacio Mínimo o Catherine Clark 
   url: https://www.sefarad-israel.es/exposiciones/puentes-de-memoria-y-futuro-espana-israel-40-anos-de-relaciones-diplomaticas-1986-2026/
   description: Un recorrido fotográfico por cuatro décadas de relaciones entre España e Israel (Centro Sefarad-Israel. Hasta 10 junio).
 
-[108] Retrato de Doña Regla Manjón, condesa de Lebrija
+[110] Retrato de Doña Regla Manjón, condesa de Lebrija
   id: 503af96aadbae197b359f381128fb94d27d99286e4aa133f770bee00c87d644a
   start: 2026-04-29T00:00:00+02:00
   end: 2026-09-06T00:00:00+02:00
@@ -1203,18 +1225,7 @@ Ha trabajado en galerías como Marta Cervera, Espacio Mínimo o Catherine Clark 
   url: https://www.cultura.gob.es/mcerralbo/exposiciones/exposiciones/proximamente/obrasdepaso-condesa-lebrija.html
   description: A través de este cuadro, realizado por el pintor Antonio Rivas, el museo rinde homenaje al trabajo de la condesa como protectora del arte y del conocimiento (Museo Cerralbo. Hasta 6 sept).
 
-[109] Volver a mirar
-  id: 6a0be29dfdc366eef7c89b4929a08c54cd792daa192868a5b8d85137239cb6b4
-  start: 2026-04-29T00:00:00+02:00
-  end: 2026-10-25T00:00:00+02:00
-  category: exhibition
-  source: esmadrid_exhibitions
-  location: Depósito elevado de Plaza de Castilla - de Castilla, 9, Madrid, 28036
-  coordinates: 40.466, -3.6888
-  url: https://www.fundacioncanal.com/intervenciones-artisticas/volver-a-mirar/
-  description: Rosa Muñoz presenta una videoinstalación enmarcada en la celebración de los 175 años del Canal de Isabel II y los 25 años de Fundación Canal (Depósito elevado Plaza de Castilla.
-
-[110] Cama adentro
+[111] Cama adentro
   id: 35904598622809b8c061c740095018af21e6e8fcb4ab606a054eed970d1d39ac
   start: 2026-04-30T00:00:00+02:00
   end: 2026-09-27T00:00:00+02:00
@@ -1225,7 +1236,7 @@ Ha trabajado en galerías como Marta Cervera, Espacio Mínimo o Catherine Clark 
   url: https://www.cultura.gob.es/museodeamerica/exposiciones/exposiciones-temporales/2026-cama-adentro-eulogia-merle.html
   description: La artista argentina da voz a las mujeres que han sido invisibilizadas a través de varios retratos y obras de marcado carácter crítico (Museo de América. Hasta 27 septiembre).
 
-[111] Madrid entre épocas
+[112] Madrid entre épocas
   id: 2cf49b284a63e1773f05218bd7b66ff6ac32194d04c9ab0ae84ae25d36d397c2
   start: 2026-04-30T00:00:00+02:00
   end: 2026-10-04T00:00:00+02:00
@@ -1236,7 +1247,7 @@ Ha trabajado en galerías como Marta Cervera, Espacio Mínimo o Catherine Clark 
   url: https://www.madrid.es/portales/munimadrid/es/Inicio/Novedades/Museo-de-Historia-de-Madrid/?vgnextfmt=default&vgnextoid=ab18a1ead63ab010VgnVCM100000d90ca8c0RCRD&vgnextchannel=bb4edec78489c110VgnVCM2000000c205a0aRCRD&idCapitulo=50302958
   description: Exposición visual y emotiva a través de la cual se descubre cómo ha ido cambiando la ciudad con el paso de los años (Museo de Historia. Hasta 4 octubre).
 
-[112] (Super)Models - Mayrit 2026
+[113] (Super)Models - Mayrit 2026
   id: 0939f2e7b00d5b185e5d9e4b36263d77cf9820f14f8a3264b747d27849590372
   start: 2026-04-30T00:00:00+02:00
   end: 2026-06-21T00:00:00+02:00
@@ -1247,7 +1258,7 @@ Ha trabajado en galerías como Marta Cervera, Espacio Mínimo o Catherine Clark 
   url: https://www.mataderomadrid.org/programacion/exposicion-supermodels
   description: Exposición sobre estos mecanismos utilizados en múltiples facetas de la sociedad, en el marco de la Bienal de Diseño y Arquitectura de Madrid (Intermediae. Matadero Madrid. Hasta 21 junio).
 
-[113] Thomas Houseago. Esculturas. Jardín Banca March
+[114] Thomas Houseago. Esculturas. Jardín Banca March
   id: d3151d48ac58d5c13f5e378edf1cb2e9b50731d40080ec10176cfb1c167dd1ef
   start: 2026-05-01T00:00:00+02:00
   end: 2026-10-30T00:00:00+01:00
@@ -1257,17 +1268,6 @@ Ha trabajado en galerías como Marta Cervera, Espacio Mínimo o Catherine Clark 
   coordinates: 40.43312, -3.68087
   url: https://www.bancamarch.es/es/actualidad/noticias/banca-march-vuelve-abrir-jardin-sede-madrilena-primera-exposicion-thomas-houseago-espana-centenario.html
   description: Primera exposición en España de la obra del escultor británico con motivo del centenario de Banca March que permite disfrutar de sus bellos jardines (Jardín Banca March. Hasta 30 oct).
-
-[114] De Monet a Kandinski. Arte revolucionario
-  id: e3e6e0e84968a96363f06ad585acafb7f80ead60f884afe3c9f358750ce8a020
-  start: 2026-05-04T00:00:00+02:00
-  end: 2026-05-27T00:00:00+02:00
-  category: exhibition
-  source: esmadrid_exhibitions
-  location: Nomad Museo Inmersivo - Gran Vía, 78, Madrid, 28013
-  coordinates: 40.423276, -3.710327
-  url: https://www.nomadmuseo.es/
-  description: Experiencia que reúne los movimientos artísticos más influyentes de finales del siglo XIX y principios del XX: impresionismo, puntillismo, posimpresionismo, cubismo y expresionismo (Nomad Museo
 
 [115] Chema Madoz (PHotoESPAÑA 2026)
   id: d2af89e8a2e8c05ebbe4163bc345b74cc8611b83d21b432a993af002eb476e52
@@ -1686,7 +1686,7 @@ Ha trabajado en galerías como Marta Cervera, Espacio Mínimo o Catherine Clark 
   location: Ateneo de Madrid - C. del Prado, 21, Madrid
   coordinates: 40.415242, -3.697079
   url: https://ateneodemadrid.com/evento/descubrimiento-del-retrato-de-maria-laffitte/
-  description: Obra de Almudena Salamanca. Bienvenida: Ana Santos. Biblioteca. 12:00h.
+  description: Obra de Almudena Salamanca. Bienvenida: Ana Santos. Lectura: Rafael Rodríguez-Ponga Salamanca. Biblioteca. 12:00h.
 
 [153] Fernando Brambila, pintor de los Reales Sitios
   id: f7c096a0fd657cac40a728013316ba1d3d658903f7e743a813ce5c92e1b7fdbd
@@ -1721,7 +1721,18 @@ Ha trabajado en galerías como Marta Cervera, Espacio Mínimo o Catherine Clark 
   url: https://phe.es/exposicion/los-americanos/
   description: Muestra que reúne la serie completa de Los Americanos realizada durante el viaje que el fotógrafo emprendió por Estados Unidos (Espacio Fundación Telefónica. 29 may a 1 nov).
 
-[156] Endometriosis. Laia Abril (PHotoESPAÑA 2026)
+[156] Hacia la definición del perfil profesional de la educación y mediación cultural
+  id: bd3b4d0c3bc30d55844f1f0d6cf2f3400225339e2497a570fc134d2b5707c529
+  start: 2026-05-29T18:00:00+02:00
+  end: N/A
+  category: exhibition
+  source: matadero
+  location: Matadero Madrid - Plaza de Legazpi, 8, Madrid
+  coordinates: 40.392398, -3.697762
+  url: https://www.mataderomadrid.org/programacion/hacia-la-definicion-del-perfil-profesional-de-la-educacion-y-mediacion-cultural
+  description: Esta actividad, organizada por Almazuela, la Federación Española de Asociaciones de Educación y Mediación en Cultura, Museos y Patrimonio y AMECUM , forma parte del proceso que Almazuela está desarrollando para avanzar en la definición del perfil profesional de la educación y mediación cultural, con el apoyo del Ministerio de Cultura y de la Fundación Daniel y Nina Carasso. Para ello, desde el mes de enero se ha puesto en marcha un grupo de trabajo, conformado por veinte profesionales de distintos territorios y de ámbitos diversos, como la mediación y educación cultural, el derecho cultural, la academia, asociaciones, empresas, cooperativas, administración pública, museos estatales y sindicatos, que ha trabajado en la elaboración del marco conceptual, metodológico y organizativo desde el que seguir avanzando para la consecución de este objetivo. El próximo 29 de mayo el grupo de trabajo de Almazuela quiere compartir este proceso abriendo un debate para pensar en colectivo en torno a cuestiones como la definición de este campo profesional, qué condiciones laborales son necesarias, qué papel deben asumir las instituciones y administración pública, o cómo fortalecer la comunidad profesional. Se trata de un encuentro abierto a todas las personas profesionales o interesadas en el ámbito de la educación y mediación cultural. Con la participación de: Javier Rodrigo Investigador y mediador cultural. Coordinador de transductores desde 2008. Integrante de ACEP (Associació Catalana d'Educació Patrimonial) y Artibarri. Yolanda Riquelme García Mediadora Cultural. Codirectora de La Liminal desde 2015. Presidenta de Almazuela. Federación española de Asociación de Educación y Mediación en Cultura, Museos y Patrimonio e integrante de AMECUM (Asociación de Mediadoras Culturales de Madrid) Amparo Moroño Historiadora del arte especializada en pedagogías culturales. Mediadora cultural, responsable del programa de Cultura de la Mancomunidad del Valle del Jerte (Cáceres). Aina Bauzá Trabajadora cultural en mediación y curaduría. Ha sido jefa del DEAC de Es Baluard y ha dirigido el Centro de arte Casal Solleric. Tanto en instituciones como autonoma desarrolla proyectos situados. Socia cofundadora de Taula. Asociació d'educadores culturals de Mallorca. Marian Recaj Licenciada en Historia del Arte y especializada en gestión cultural y educación, es fundadora de Fun Fam, proyecto de educación patrimonial para familias y entornos escolares en Aragón. Integrante de  Trenzadera, Asociación Aragonesa de Educadoras, Mediadoras culturales y Patrimoniales. Paula Zamarreño Diplomada en Turismo y Licenciada en Humanidades, con Máster en Gestión Cultural. Mediadora cultural de la AGE, primero en el Museo de Antropología y desde 2025 en la Casa de la Arquitectura.
+
+[157] Endometriosis. Laia Abril (PHotoESPAÑA 2026)
   id: 3a7ee24afc60bec4a5d711d277f14326f581eea45cc7cc7b5ca171cbb113d27c
   start: 2026-06-02T00:00:00+02:00
   end: 2026-09-13T00:00:00+02:00
@@ -1732,7 +1743,7 @@ Ha trabajado en galerías como Marta Cervera, Espacio Mínimo o Catherine Clark 
   url: https://phe.es/exposicion/endometriosis/
   description: Exposición donde la artista presenta una instalación sobre la endometriosis y la deslegitimación del dolor (Museo del Romanticismo. 2 jun a 13 sept).
 
-[157] Lux & Umbra. Viviane Sassen (PHotoESPAÑA 2026)
+[158] Lux & Umbra. Viviane Sassen (PHotoESPAÑA 2026)
   id: feb73c9c5d2f79923fa4961b5a7306bff39d66d40867c9d793aa3fbc4399f91f
   start: 2026-06-03T00:00:00+02:00
   end: 2026-07-26T00:00:00+02:00
@@ -1743,7 +1754,7 @@ Ha trabajado en galerías como Marta Cervera, Espacio Mínimo o Catherine Clark 
   url: https://phe.es/exposicion/lux-umbra/
   description: La fotógrafa neerlandesa protagoniza una de las grandes exposiciones del festival PHotoESPAÑA 2026 (Fernán Gómez Centro Cultural de La Villa. 3 jun a 26 jul).
 
-[158] Somos Naturaleza
+[159] Somos Naturaleza
   id: 5ea4ca69949ad3e320d8eff4d26d7a52ea4300ae244e982d17d1c789b7ba1499
   start: 2026-06-03T00:00:00+02:00
   end: 2027-03-07T00:00:00+01:00
@@ -1754,7 +1765,7 @@ Ha trabajado en galerías como Marta Cervera, Espacio Mínimo o Catherine Clark 
   url: https://caixaforum.org/es/madrid/p/somos-naturaleza-madrid
   description: Experiencia audiovisual inmersiva que muestra la biodiversidad de forma innovadora (CaixaForum Madrid. 3 jun a 7 mar).
 
-[159] Los mismos lugares. Jorge Yeregui (PHotoESPAÑA 2026)
+[160] Los mismos lugares. Jorge Yeregui (PHotoESPAÑA 2026)
   id: ea4126f928acf1c74b6f5c4b9038603a2aea8e36a2df65df6466110b31e886e6
   start: 2026-06-04T00:00:00+02:00
   end: 2026-09-06T00:00:00+02:00
@@ -1765,7 +1776,7 @@ Ha trabajado en galerías como Marta Cervera, Espacio Mínimo o Catherine Clark 
   url: https://phe.es/exposicion/los-mismos-lugares/
   description: Muestra que analiza la transformación del territorio mediante fotografía, vídeo e instalación, abordando dinámicas sociales, urbanas y ambientales contemporáneas (Museo ICO. 4 jun a 6 sept).
 
-[160] Ofertorio. Greta Alfaro (PHotoESPAÑA 2026)
+[161] Ofertorio. Greta Alfaro (PHotoESPAÑA 2026)
   id: 0528fe792d901061dc35ec994033b2bb84325d8eacd6fae2a92d851069ce363f
   start: 2026-06-04T00:00:00+02:00
   end: 2026-07-31T00:00:00+02:00
@@ -1776,7 +1787,7 @@ Ha trabajado en galerías como Marta Cervera, Espacio Mínimo o Catherine Clark 
   url: https://phe.es/exposicion/ofertorio/
   description: Muestra que explora el paso de lo ritual a los actuales sistemas de consumo e imagen, analizando nuevas formas de ofrecer y transformar la materia (Nave 0 - Matadero. 4 jun a 31 jul).
 
-[161] Las piedras del cielo. Isabel Muñoz (PHotoESPAÑA 2026)
+[162] Las piedras del cielo. Isabel Muñoz (PHotoESPAÑA 2026)
   id: 8a891a227211e46ce40150f345c2e907354220a0c7e1c580f37ea0bdc9345522
   start: 2026-06-04T00:00:00+02:00
   end: 2026-09-06T00:00:00+02:00
@@ -1786,17 +1797,6 @@ Ha trabajado en galerías como Marta Cervera, Espacio Mínimo o Catherine Clark 
   coordinates: 40.417899, -3.714238
   url: https://phe.es/exposicion/las-piedras-del-cielo/
   description: La fotógrafa española explora el Monasterio de El Escorial y la Herrería en este trabajo que forma parte de PHotoESPAÑA 2026 (Galería de las Colecciones Reales. 4 jun a 6 sept).
-
-[162] Refusal. Second Fracture. Rafael Milach (PHotoESPAÑA 2026)
-  id: b0460599081cf889bf277b7a494df4445c6d1da25223c870673efd3d0d9598f9
-  start: 2026-06-05T00:00:00+02:00
-  end: 2026-09-27T00:00:00+02:00
-  category: exhibition
-  source: esmadrid_exhibitions
-  location: Círculo de Bellas Artes - de Alcalá, 42, Madrid, 28014
-  coordinates: 40.419863, -3.697579
-  url: https://phe.es/exposicion/refusal-second-fracture/
-  description: Un análisis sobre poder, propaganda y acción colectiva en Europa del Este a través de la fotografía contemporánea (Círculo de Bellas Artes - Sala Goya. 5 jun a 27 sept).
 
 [163] Ruina Montium. Raphaëlle Peria (PHotoESPAÑA 2026)
   id: 39498a0b8a75d71d7ebd70bec9a7a3d25b697d2e5161064175e637151c0e1ffd
@@ -1875,18 +1875,7 @@ Ha trabajado en galerías como Marta Cervera, Espacio Mínimo o Catherine Clark 
   url: https://phe.es/exposicion/columna/
   description: Proyecto que aborda el vínculo entre cuerpo, arquitectura y fragilidad a partir de la experiencia de la escoliosis de la hija de la artista (COAM. 8 jun a 23 ago).
 
-[170] Elena Jiménez. Premio Nacional de Arte Gráfico
-  id: 1e514f895607a34ddcc014d17917e06c1c67656a1e17900283e4a360b774a330
-  start: 2026-06-09T00:00:00+02:00
-  end: 2026-07-26T00:00:00+02:00
-  category: exhibition
-  source: esmadrid_exhibitions
-  location: Real Academia de Bellas Artes de San Fernando - de Alcalá, 13, Madrid, 28014
-  coordinates: 40.418613, -3.699348
-  url: https://www.realacademiabellasartessanfernando.com/actividades/exposiciones/elena-jimenez/
-  description: Exposición dedicada al trabajo de la artista visual recientemente galardonada con el más importante premio de arte gráfico en España (Real Academia de Bellas Artes de San Fernando.
-
-[171] Prado. Siglo XXI
+[170] Prado. Siglo XXI
   id: 1db74815d061611dbb8fdc3bd4d70885e920a04ad0e18020de5ba400af2df9b6
   start: 2026-06-09T00:00:00+02:00
   end: 2026-09-27T00:00:00+02:00
@@ -1897,7 +1886,7 @@ Ha trabajado en galerías como Marta Cervera, Espacio Mínimo o Catherine Clark 
   url: https://www.museodelprado.es/actualidad/exposicion/prado-siglo-xxi/c973ccff-de65-880f-2753-40c9ec03dfec
   description: Un recorrido por el proceso de transformación experimentado por el museo madrileño en el último cuarto de siglo (Museo del Prado. 9 jun a 27 sept).
 
-[172] Everybody loves to Cha Cha Cha. Bego Antón (PHotoESPAÑA 2026)
+[171] Everybody loves to Cha Cha Cha. Bego Antón (PHotoESPAÑA 2026)
   id: a2b963290f71030b22d62562cb7bb34c0cade3d1605ddd6420ecf27937734edb
   start: 2026-06-10T00:00:00+02:00
   end: 2026-09-30T00:00:00+02:00
@@ -1908,7 +1897,7 @@ Ha trabajado en galerías como Marta Cervera, Espacio Mínimo o Catherine Clark 
   url: https://phe.es/exposicion/everybody-loves-to-cha-cha-cha/
   description: Exposición que se adentra en un universo donde el vínculo entre humanas y perros se convierte en danza compartida (Casa de América. 10 jun a 30 sept).
 
-[173] Disfuncionarias. Tanit Plana (PHotoESPAÑA 2026)
+[172] Disfuncionarias. Tanit Plana (PHotoESPAÑA 2026)
   id: 402474d01dfbf1156ef2fa1df4f90624dbc736e45c0d1139c2f8f3446dd3d901
   start: 2026-06-11T00:00:00+02:00
   end: 2026-10-25T00:00:00+02:00
@@ -1919,7 +1908,7 @@ Ha trabajado en galerías como Marta Cervera, Espacio Mínimo o Catherine Clark 
   url: https://phe.es/exposicion/disfuncionarias/
   description: Exposición que conecta imagen, política y cuerpo, reflexionando sobre el archivo, la IA y la materia a través de una innovadora instalación site-specific (Museo Cerralbo. 11 jun
 
-[174] Espectros. Enigmas de la mirada (PHotoESPAÑA 2026)
+[173] Espectros. Enigmas de la mirada (PHotoESPAÑA 2026)
   id: 6d045c22e57564009fce5fb269a18f1f6c09f4cd39f163e513b408a5c0c54a7a
   start: 2026-06-11T00:00:00+02:00
   end: 2026-09-13T00:00:00+02:00
@@ -1930,7 +1919,7 @@ Ha trabajado en galerías como Marta Cervera, Espacio Mínimo o Catherine Clark 
   url: https://phe.es/exposicion/espectros-enigmas-de-la-mirada/
   description: Exposición que reúne el trabajo de siete fotógrafos mexicanos de reconocida trayectoria (Fundación Casa de México en España. 11 jun a 13 sept).
 
-[175] Nosaltres no tenim por, nosaltres som. Colita (PHotoESPAÑA 2026)
+[174] Nosaltres no tenim por, nosaltres som. Colita (PHotoESPAÑA 2026)
   id: 23b61762834af582b7dec5d1405f2023d829a0b7819284a0e4a34ada0343c25d
   start: 2026-06-11T00:00:00+02:00
   end: 2026-08-30T00:00:00+02:00
@@ -1941,7 +1930,7 @@ Ha trabajado en galerías como Marta Cervera, Espacio Mínimo o Catherine Clark 
   url: https://phe.es/exposicion/nosaltres-no-tenim-por-nosaltres-som/
   description: Exposición que reúne por primera vez el reportaje fotográfico de la manifestación de 1977 en Barcelona, considerada la primera gran protesta LGTBI en España (Centre Cultural Llibreri
 
-[176] Tejiendo la vida cortesana. Tejidos y bordados de las Colecciones Reales
+[175] Tejiendo la vida cortesana. Tejidos y bordados de las Colecciones Reales
   id: 6d69765ed6973989567a810d3b51277ef6733d8dcf5e020bebeda5ae4161127e
   start: 2026-06-11T00:00:00+02:00
   end: 2026-10-12T00:00:00+02:00
@@ -1952,7 +1941,7 @@ Ha trabajado en galerías como Marta Cervera, Espacio Mínimo o Catherine Clark 
   url: https://www.galeriadelascoleccionesreales.es/exposicion/tejiendo-la-vida-cortesana-tejidos-y-bordados-de/9e11dfeb-df46-e40c-d305-4b10c87b3eab?utm_source=Newsletter+Patrimonio+Nacional&utm_campaign=Newsletter%20Externa%20260520&utm_medium=email
   description: Conjunto de obras que permiten aproximarse a algunas de las más antiguas piezas textiles que conservan las Colecciones Reales (Galería de las Colecciones Reales. 11 jun a 12 oct).
 
-[177] Toda mi casa es un altar. Gema Polanco (PHotoESPAÑA 2026)
+[176] Toda mi casa es un altar. Gema Polanco (PHotoESPAÑA 2026)
   id: 67bb3dca55cfd89c6ca686676e60e98140bb1c33d10e7f63f6d771302913c7a7
   start: 2026-06-13T00:00:00+02:00
   end: 2026-10-25T00:00:00+02:00
@@ -1963,7 +1952,7 @@ Ha trabajado en galerías como Marta Cervera, Espacio Mínimo o Catherine Clark 
   url: https://phe.es/exposicion/toda-mi-casa-es-un-altar/
   description: Proyecto que explora lo doméstico como espacio ritual a través del textil y la imagen (Museo Nacional de Artes Decorativas. 13 jun a 25 oct).
 
-[178] On the Geography of the River. Linarejos Moreno (PHotoESPAÑA 2026)
+[177] On the Geography of the River. Linarejos Moreno (PHotoESPAÑA 2026)
   id: 627c2096410a9364a9d3e23d9425d4205dcb5ca6ddb46cb1eafefbe1bd815279
   start: 2026-06-16T00:00:00+02:00
   end: 2026-09-20T00:00:00+02:00
@@ -1974,7 +1963,7 @@ Ha trabajado en galerías como Marta Cervera, Espacio Mínimo o Catherine Clark 
   url: https://phe.es/exposicion/on-the-geography-of-the-river/
   description: La artista presenta un proyecto fotográfico concebido como una intervención site-specific (Museo Arqueológico Nacional. 16 jun a 20 sept).
 
-[179] Topografía de un contraste. Una lectura de Madrid a través de la fotografía (PHotoESPAÑA 2026)
+[178] Topografía de un contraste. Una lectura de Madrid a través de la fotografía (PHotoESPAÑA 2026)
   id: 595c85cf3a019cff22ac0507a0b1d58bcb723f34d0a01b04bc912737d2645e50
   start: 2026-06-18T00:00:00+02:00
   end: 2027-02-22T00:00:00+01:00
@@ -1985,7 +1974,7 @@ Ha trabajado en galerías como Marta Cervera, Espacio Mínimo o Catherine Clark 
   url: https://phe.es/exposicion/topografia-de-un-contraste-una-lectura-de-madrid-a-traves-de-la-fotografia-del-mac/
   description: Exposicion colectiva que da la oportunidad de ver Madrid y su cambio extraordinario a través de la fotografía (Museo de Arte Contemporáneo. 18 jun a 22 feb 2027).
 
-[180] Silvina Mizrahi. Ecos de un espíritu sefardí
+[179] Silvina Mizrahi. Ecos de un espíritu sefardí
   id: 2ebbab200df96f03a91b5d14ed3d1c99c49a40eed9e5fde58fcdc20e960578d0
   start: 2026-06-19T00:00:00+02:00
   end: 2026-09-30T00:00:00+02:00
