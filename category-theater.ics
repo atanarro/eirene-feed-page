@@ -2,43 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Presentación libro
-DTSTART;TZID=Europe/Madrid:20260523T120000
-UID:5fc4df05f9f4d344b10ee26e0073c08121452819214fddc8499ddc4090374e1c
-CATEGORIES:theater
-DESCRIPTION:Presentación libro\n\nCristina Rota conversará con Joaquím
-  Oristrell de su nueva publicación editada por Grijalbo.\n\nhttps://lam
- irador.com/funcion?nombre=presentacion-libro-2026
-LOCATION:Sala Mirador - Calle Doctor Fourquet\, 31\, 28012 Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LA RESPIRACIÓN - Festival Visibles
-DTSTART;TZID=Europe/Madrid:20260523T130000
-UID:2959d0220d50488e127ef689a39bead27edcc966863c5b1973195cfc98e5f733
-CATEGORIES:theater
-DESCRIPTION:Programación en Teatro del Barrio\n\nhttps://teatrodelbarrio.
- com/la-respiracion-festival-visibles/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Taxidermia de una alondra
-DTSTART;TZID=Europe/Madrid:20260523T193000
-UID:9588d029e9179ab44556d0aeee7a575d734cffeebad7fce9d609ba834cbea073
-CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 3 plazas!\n\nhttps://teatrodelbarrio.com/taxi
- dermia-de-una-alondra/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gordas\, lisiadas y mamarrachas
-DTSTART;TZID=Europe/Madrid:20260523T221500
-UID:c31db5c1b7a5325781f9e3e5cf352567103b5f2e020d04b3cb73c51039f345b5
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/gordas-lisiadas-y-ma
- marrachas/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Y tú\, ¿de qué te ríes?
 DTSTART;TZID=Europe/Madrid:20260524T130000
 UID:081a82dfac0bdf933c35b9b1e8f51091d1d0d59e6124af3456372652a323b6ca
@@ -52,7 +15,7 @@ SUMMARY:Taxidermia de una alondra
 DTSTART;TZID=Europe/Madrid:20260524T180000
 UID:ce4a776db3b1c0df801284b224beacda2ba848e06225d183b36b7e23c00325ad
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 3 plazas!\n\nhttps://teatrodelbarrio.com/taxi
+DESCRIPTION:¡Ya solo quedan 1 plazas!\n\nhttps://teatrodelbarrio.com/taxi
  dermia-de-una-alondra/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
@@ -114,7 +77,7 @@ SUMMARY:Gabriela Giménez (cante) y Antón Giménez (toque). PEÑA FLAMENC
 DTSTART;TZID=Europe/Madrid:20260528T221500
 UID:271124084d00d760a287d3888afd03abb280ab725cbd54636e0d36839fdb456a
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 22 plazas!\n\nhttps://teatrodelbarrio.com/gab
+DESCRIPTION:¡Ya solo quedan 20 plazas!\n\nhttps://teatrodelbarrio.com/gab
  riela-gimenez-cante-y-anton-gimenez-toque-pena-flamenca-de-lavapies/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT

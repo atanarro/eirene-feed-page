@@ -2,52 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:La habitación. Ciclo "Cine y medicina" (VOS)
-DTSTART;TZID=Europe/Madrid:20260523T103000
-DTEND;TZID=Europe/Madrid:20260523T103000
-UID:39999da28446036111f8cd3845d33f1d3f77985a9b1b8ccad6b257a16b12a6f1
-CATEGORIES:talk
-DESCRIPTION:Secciones de Ciencias de la Salud y de Cine. Intervienen: Conc
- ha Bonet Luna\, médica de familia y Alberto López García-Franco\, médi
- co de familia. Modera: Concha Álvarez Herrero\, médica de familia. Prese
- nta: José Manuel Freire. Sala Pérez Galdós. 10:30h.\n\nhttps://ateneode
- madrid.com/evento/la-habitacion-ciclo-cine-y-medicina-vos/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Homenaje a Gabriela Mistral (1889-1957): poeta de las dos orillas
-DTSTART;TZID=Europe/Madrid:20260523T120000
-DTEND;TZID=Europe/Madrid:20260523T120000
-UID:4002d854a32b74e99324ac9aefff17ca784e9c2385d0a4e06639611a42037e48
-CATEGORIES:talk
-DESCRIPTION:Sección de Mitos\, Religiones y Humanidades. Intervienen: Ped
- ro López Arriba\, Jesús de Castro \, María José Mattus\, Miguel Bravo-
- Ferrer Álvarez-Sala\, Magdalena Peñafiel\, Pauline Le Roy\, Jorge Abarz
- úa\, Antonio Daganzo\, Eugenio Rivera\, Rosa Estremera\, Marisol Santiago
- \, Francisco J. Castañón\, Jesús Díaz Hernández\, Elda Hidalgo\, Paco
-  Vicente Cruz\, Félix Recio\, Pilar Úcar\, Elena Ruiz de Velasco\, Emili
- o González Martínez\, Patricia Iniesto de Miguel\, Aurora da Cruz\, Juan
-  José Fernández\, Enrique Gracia Trinidad y Sergio Macías. Salón Ciuda
- d de Úbeda. 12:00h.\n\nhttps://ateneodemadrid.com/evento/homenaje-a-gabri
- ela-mistral-1889-1957-poeta-de-las-dos-orillas/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Románico oscense y catalán. Ciclo "Edificios emblemáticos en el
-  Camino de Santiago y sus vinculaciones sanitarias"
-DTSTART;TZID=Europe/Madrid:20260523T173000
-DTEND;TZID=Europe/Madrid:20260523T173000
-UID:649a1a82310a2af9d2f18e5a2cd699e2a7d15372c4147f06da93668f4965ab24
-CATEGORIES:talk
-DESCRIPTION:Secciones de Farmacia\, de Ciencias Históricas y de Ciencias 
- de la Salud. Intervienen: Joaquín Callabed\, María Ángeles Calvo\, Fina
-  Alonso\, Mar Carretero y Enrique Lillo. Presenta: Pedro López Arriba. M
- odera: Daniel Pacheco. Sala Ramón y Cajal. 17:30h.\n\nhttps://ateneodemad
- rid.com/evento/romanico-oscense-y-catalan-ciclo-edificios-emblematicos-en-
- el-camino-de-santiago-y-sus-vinculaciones-sanitarias/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:"América Latina: condiciones de gobernabilidad". Presentación de
  l último número de la revista "Tiempo de paz"
 DTSTART;TZID=Europe/Madrid:20260525T180000
@@ -321,6 +275,19 @@ DESCRIPTION:Sección de Medio Ambiente. Intervienen: Elena Costas\, autora
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Presentación del libro "El mito del humanismo. Historia y crisis 
+ de la idea moderna de hombre"
+DTSTART;TZID=Europe/Madrid:20260528T193000
+DTEND;TZID=Europe/Madrid:20260528T193000
+UID:195d67e53f7f651f3b1783a03ca575987fb1429695a6c8c95709fa3fd5e227a4
+CATEGORIES:talk
+DESCRIPTION:Agrupación Joven Café Universal. Intervienen: Adrián Ruiz F
+ ernández\, autor y Álvaro Ledesma de La Fuente. Sala Pérez Galdós. 19:
+ 30h.\n\nhttps://ateneodemadrid.com/evento/presentacion-del-libro-el-mito-d
+ el-humanismo-historia-y-crisis-de-la-idea-moderna-de-hombre/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Caldo de Ojo x Migra la food: Mangú con los 3 golpes
 DTSTART;TZID=Europe/Madrid:20260528T193000
 DTEND;TZID=Europe/Madrid:20260528T210000
@@ -511,6 +478,53 @@ DESCRIPTION:Colofón es el festival en el que los\n\nproyectos seleccionad
  ps://www.infinitodelicias.com/es/agenda/colofon-arte-por-venir-25-26-dia-1
 LOCATION:Auditorio Daniel y Nina - C. de Juana Dona\, 5\, Arganzuela\, 280
  45 Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Presentación del libro "La vida sigue\, la lucha continúa" de Le
+ opoldo López Gil
+DTSTART;TZID=Europe/Madrid:20260529T190000
+DTEND;TZID=Europe/Madrid:20260529T190000
+UID:eae0312ea352db25de05d3e8158c2006a2d69bad186328ac3e0d6096a90d3b43
+CATEGORIES:talk
+DESCRIPTION:Intervienen: Leopoldo López Gil\, autor\; Vidal Pérez Herre
+ ro\, José Manuel García- Margallo y Paula Quinteros\, editora. Bibliotec
+ a. 19:00h.\n\nhttps://ateneodemadrid.com/evento/presentacion-del-libro-leo
+ poldo-lopez-gil/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La porfía del deseo
+DTSTART;TZID=Europe/Madrid:20260529T193000
+DTEND;TZID=Europe/Madrid:20260529T193000
+UID:cc807715ee230ccadf870e0dbf49b87e6ca41c05cc1bf491ae2431daa93fc0df
+CATEGORIES:talk
+DESCRIPTION:Únase a la reunión de Zoom (aquí) ID de reunión: 860 2408 
+ 1934. Código de acceso: 614462 \n \nSección de Psicología y Agrupación
+  Ángel Garma. Introduce: Alejandro Pignato. Ponentes: Kekena Corvalán y 
+ Paola Ferraris\, Florencia Eseiza y Jackie Simsolo. Presenta y modera: Bel
+ én Rico y Alfonso Gómez. Sala Ramón y Cajal. 19:30.\n\nhttps://ateneode
+ madrid.com/evento/la-porfia-del-deseo/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El Estado de Derecho desde Agustín Argüelles hasta hoy
+DTSTART;TZID=Europe/Madrid:20260529T193000
+DTEND;TZID=Europe/Madrid:20260529T193000
+UID:b51ec61be14be7ae6cada9465fd41454353869b29da2f641aa215d3458fa1e00
+CATEGORIES:talk
+DESCRIPTION:Agrupación Agustín Argüelles\, Arco Europeo Progresista y S
+ ección de Ciencias Jurídicas y Políticas. Intervienen: Soraya Rodrígue
+ z\, abogada y política española. exeurodiputada\, exdiputada en el Congr
+ eso\; José María Mohedano\, abogado especialista en Derechos Humanos\, e
+ xvicepresidente de la Asociación de Jóvenes Abogados del Colegio de abog
+ ados de Madrid\; Teresa Freixes\, jurista especialista en Derecho constitu
+ cional\; y Eligio Hernández\, exfiscal general del Estado\, exmiembro del
+  Consejo de Estado\, exdiputado del Parlamento de Canarias\, exgobernador 
+ Civil de Santa Cruz de Tenerife. Presenta: José Antonio García Regueiro\
+ , letrado del Tribunal de Cuentas y exletrado del Tribunal Constitucional.
+  Modera: Juan López. Sala Pérez Galdós. 19:30h.\n\nhttps://ateneodemadr
+ id.com/evento/el-estado-de-derecho-desde-agustin-arguelles-hasta-hoy/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Colofón: [Día 2]

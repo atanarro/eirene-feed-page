@@ -250,19 +250,6 @@ LOCATION:Museo de Arte Contemporáneo - del Conde Duque\, 9\, Madrid\, 280
  15
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Alegorías de un porvenir
-DTSTART;TZID=Europe/Madrid:20251125T000000
-DTEND;TZID=Europe/Madrid:20260530T000000
-UID:3b5453be4f4fe4791337db554ef325d4fe1a8daea656b7f097e57c822d855606
-CATEGORIES:exhibition
-DESCRIPTION:El Banco de España analiza por primera vez el impacto del mov
- imiento art déco en su sede principal de Cibeles (Sala de Exposiciones Ba
- nco de España. Hasta 30 mayo).\n\nhttps://coleccion.bde.es/wca/es/seccion
- es/exposiciones/alegorias-de-un-porvenir.html
-LOCATION:Sala de Exposiciones del Banco de España - de Alcalá\, 48\, Mad
- rid\, 28012
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ignacio Bolívar y Urrutia (1850-1944). Director del Museo de Cien
  cias Naturales
 DTSTART;TZID=Europe/Madrid:20251127T000000
@@ -725,19 +712,6 @@ DESCRIPTION:Exposición de varios modelos de moda romántica realizados po
 LOCATION:Museo del Romanticismo - de San Mateo\, 13\, Madrid\, 28004
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Espacio y tiempo. La escultura en la Colección ABANCA
-DTSTART;TZID=Europe/Madrid:20260304T000000
-DTEND;TZID=Europe/Madrid:20260523T000000
-UID:2ebee6c6dd02d708d27f046daa02ea9566f05b87674ae517a09fdce07a3d55ad
-CATEGORIES:exhibition
-DESCRIPTION:Retrospectiva escultórica que recorre la evolución de este a
- rte desde finales del siglo XIX hasta nuestros días a través de obras de
-  la Colección ABANCA (Casa de América. Hasta 23 may).\n\nhttps://www.cas
- america.es/exposiciones/espacio-y-tiempo-la-escultura-en-la-coleccion-aban
- ca
-LOCATION:Casa de América - de Cibeles\, 2\, Madrid\, 28014
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Rebeldías vanguardistas del Siglo XX. Obras de la colección Vick
  y y Marcos Micha Levy
 DTSTART;TZID=Europe/Madrid:20260304T000000
@@ -1108,17 +1082,6 @@ LOCATION:Centro de Arte Dos de Mayo (CA2M) / Móstoles - de la Constituci
  ón \, 23\, (Móstoles)\, Móstoles\, 28931
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Visitas estudio Coco Dávez
-DTSTART;TZID=Europe/Madrid:20260411T000000
-DTEND;TZID=Europe/Madrid:20260523T000000
-UID:c3dc712e89d74e5f1534cba1d2a0e5c3ccec0b1885b3042f5ea2da6c849943d8
-CATEGORIES:exhibition
-DESCRIPTION:La artista celebra el décimo aniversario de Faceless abriendo
-  las puertas de su estudio en Carabanchel (Caranbanchel. Hasta 23 mayo).\n
- \nhttps://shop.cocodavez.com/
-LOCATION:Madrid - Caranbanchel\, Madrid\, Madrid\, 28047
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:El universo del artista ante la cámara
 DTSTART;TZID=Europe/Madrid:20260413T000000
 DTEND;TZID=Europe/Madrid:20260705T000000
@@ -1482,6 +1445,18 @@ DESCRIPTION:Primera exposición en España de la obra del escultor britán
  arch.es/es/actualidad/noticias/banca-march-vuelve-abrir-jardin-sede-madril
  ena-primera-exposicion-thomas-houseago-espana-centenario.html
 LOCATION:Madrid - de Castelló\, 75\, Madrid\, Madrid\, 28006
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:De Monet a Kandinski. Arte revolucionario
+DTSTART;TZID=Europe/Madrid:20260504T000000
+DTEND;TZID=Europe/Madrid:20260527T000000
+UID:e3e6e0e84968a96363f06ad585acafb7f80ead60f884afe3c9f358750ce8a020
+CATEGORIES:exhibition
+DESCRIPTION:Experiencia que reúne los movimientos artísticos más inf
+ luyentes de finales del siglo XIX y principios del XX: impresionismo\, pun
+ tillismo\, posimpresionismo\, cubismo y expresionismo (Nomad Museo\n\nhttp
+ s://www.nomadmuseo.es/
+LOCATION:Nomad Museo Inmersivo - Gran Vía\, 78\, Madrid\, 28013
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chema Madoz (PHotoESPAÑA 2026)
@@ -2166,6 +2141,18 @@ LOCATION:Galería de las Colecciones Reales - de Bailén\, 8\, Madrid\, 28
  013
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Refusal. Second Fracture. Rafael Milach (PHotoESPAÑA 2026)
+DTSTART;TZID=Europe/Madrid:20260605T000000
+DTEND;TZID=Europe/Madrid:20260927T000000
+UID:b0460599081cf889bf277b7a494df4445c6d1da25223c870673efd3d0d9598f9
+CATEGORIES:exhibition
+DESCRIPTION:Un análisis sobre poder\, propaganda y acción colectiva en E
+ uropa del Este a través de la fotografía contemporánea (Círculo de Bel
+ las Artes - Sala Goya. 5 jun a 27 sept).\n\nhttps://phe.es/exposicion/refu
+ sal-second-fracture/
+LOCATION:Círculo de Bellas Artes - de Alcalá\, 42\, Madrid\, 28014
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ruina Montium. Raphaëlle Peria (PHotoESPAÑA 2026)
 DTSTART;TZID=Europe/Madrid:20260605T000000
 DTEND;TZID=Europe/Madrid:20260927T000000
@@ -2246,6 +2233,19 @@ DESCRIPTION:Proyecto que aborda el vínculo entre cuerpo\, arquitectura y
  fragilidad a partir de la experiencia de la escoliosis de la hija de la ar
  tista (COAM. 8 jun a 23 ago).\n\nhttps://phe.es/exposicion/columna/
 LOCATION:COAM - de Hortaleza\, 63\, Madrid\, 28004
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elena Jiménez. Premio Nacional de Arte Gráfico
+DTSTART;TZID=Europe/Madrid:20260609T000000
+DTEND;TZID=Europe/Madrid:20260726T000000
+UID:1e514f895607a34ddcc014d17917e06c1c67656a1e17900283e4a360b774a330
+CATEGORIES:exhibition
+DESCRIPTION:Exposición dedicada al trabajo de la artista visual recientem
+ ente galardonada con el más importante premio de arte gráfico en Espa
+ ña (Real Academia de Bellas Artes de San Fernando.\n\nhttps://www.realaca
+ demiabellasartessanfernando.com/actividades/exposiciones/elena-jimenez/
+LOCATION:Real Academia de Bellas Artes de San Fernando - de Alcalá\, 13\,
+  Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Prado. Siglo XXI
@@ -2373,5 +2373,18 @@ DESCRIPTION:La artista argentina propone una exploración de la memoria\,
  nea (Centro Sefarad-Israel. 19 jun a 26 jul).\n\nhttps://www.sefarad-israe
  l.es/exposiciones/silvina-mizrahi-ecos-de-un-espiritu-sefardi/
 LOCATION:Centro Sefarad-Israel - Mayor\, 69\, Madrid\, 28013
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Carmen Laffón. Temas y variaciones
+DTSTART;TZID=Europe/Madrid:20260623T000000
+DTEND;TZID=Europe/Madrid:20260927T000000
+UID:4bf4071e1ba99ac9ef30f89ba54b3de9ae74d704155305e0ed275a59bb44f0eb
+CATEGORIES:exhibition
+DESCRIPTION:Una gran exposición dedicada a la obra de la pintora y escult
+ ora sevillana que incluye alrededor de 80 obras (Museo Nacional Thyssen-Bo
+ rnemisza. 23 jun a 27 sept).\n\nhttps://www.museothyssen.org/exposiciones/
+ carmen-laffon-temas-variaciones
+LOCATION:Museo Nacional Thyssen-Bornemisza - del Prado\, 8\, Madrid\, 2801
+ 4
 END:VEVENT
 END:VCALENDAR
