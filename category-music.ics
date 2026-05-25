@@ -2,60 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Potaje Lab + Arrejuntadas Madrigueira
-DTSTART;TZID=Europe/Madrid:20260524T130000
-UID:434512d18bf2eedaf0aab1e9978d4e3d5319454e82817684cc1f1b7d472df6bc
-CATEGORIES:music
-DESCRIPTION:Concierto / World Music & Folk\n\nhttps://salavillanos.es/even
- to/potaje-lab-arrejuntadas-madrigueira/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cracovia para principiantes
-DTSTART;TZID=Europe/Madrid:20260524T183000
-DTEND;TZID=Europe/Madrid:20260524T183000
-UID:3991e6c9a66a286ce705da3556e5748b31ffd59b8cf7b0995f677db139d8e731
-CATEGORIES:music
-DESCRIPTION:Entrada libre hasta completar aforo.  \n \nAsociación Cultur
- al Hispano Polaca FORUM. Con la participación de Julio Mazzioti\, piano 
- y Club de danza PKT Madrid. Artista invitada: Kamila Klimczak. Presenta
- n: Joanna  Bardzinska  y Clemente García. Cátedra Mayor. 18:30h. \nDes
- eamos dedicar la velada a la hermosa ciudad polaca\, su historia\, sus gen
- tes\, su poesía y su música.\n\nhttps://ateneodemadrid.com/evento/cracov
- ia-para-principiantes/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:César Filiú  Douglas Quartet
-DTSTART;TZID=Europe/Madrid:20260524T200000
-DTEND;TZID=Europe/Madrid:20260524T200000
-UID:5c68c6ecbfb46f08d80748ae6aa4423e798f91a7bbbb5dd2bc7c59d678f8b63d
-CATEGORIES:music
-DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
-  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
- s://ateneodemadrid.com/evento/cesar-filiu-douglas-quartet/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Iñigo Quintero
-DTSTART;TZID=Europe/Madrid:20260524T200000
-UID:4da89603bd464a6708922c1fd7b5e10cd5015b163dd352cbeef6bd4823416229
-CATEGORIES:music
-DESCRIPTION:Apertura Puertas: 18:30 Horas\n\nhttps://www.entradas.com/arti
- st/inigo-quintero/?Affiliate=RIV
-LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
- id
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stereo Madness
-DTSTART;TZID=Europe/Madrid:20260524T210000
-UID:7ffc391375211f2d91249e16db51bcf402eeb526daa5cf8fe76dd514fa81a287
-CATEGORIES:music
-DESCRIPTION:Concierto / Funk & disco\n\nhttps://salavillanos.es/evento/ste
- reo-madness/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Dia De Africa
 DTSTART;TZID=Europe/Madrid:20260525T193000
 UID:01c73c12fc8326fcb5b45c78648ae7f814a5e1b547e4eefd05b092a7cf0c06c7
@@ -684,5 +630,14 @@ DESCRIPTION:Precio de las entradas: 15€/20€ Entradas a la venta en mov
  s bandas más antigua y\n\nhttps://gruta77.com/events/the-casualties-eeuu-
  figure-8-knot/var/ri-0.l-L2
 LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Amanda Shires
+DTSTART;TZID=Europe/Madrid:20260623T210000
+UID:f6889458bd6a5ea6d808ae43e6a6be1e61d7c62b34cae7a498252926e8a8d318
+CATEGORIES:music
+DESCRIPTION:Concierto / Villanos del Jazz\n\nhttps://salavillanos.es/event
+ o/amanda-shires-ticket-header-streetlights-and-stars-european-tour/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 END:VCALENDAR
