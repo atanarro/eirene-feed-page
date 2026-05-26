@@ -2,26 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Dia De Africa
-DTSTART;TZID=Europe/Madrid:20260525T193000
-UID:01c73c12fc8326fcb5b45c78648ae7f814a5e1b547e4eefd05b092a7cf0c06c7
-CATEGORIES:music
-DESCRIPTION:Concierto / Afro\n\nhttps://salavillanos.es/evento/dia-de-afri
- ca/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Old Friends
-DTSTART;TZID=Europe/Madrid:20260525T200000
-DTEND;TZID=Europe/Madrid:20260526T200000
-UID:942274e5cc418f94cb39683b3e2fb267a63c4b5909916bedff56bb41b344c827
-CATEGORIES:music
-DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
-  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
- s://ateneodemadrid.com/evento/old-friends/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Lany
 DTSTART;TZID=Europe/Madrid:20260526T210000
 UID:737be8f3d2767966695669ab6668dc82dc5f9f0e8b0456eb102b79c514f72762
@@ -77,22 +57,6 @@ UID:b76a5bf3b45a8de347bfbf7befb049a5c0ffe718aff6f2c31124c5883763d09c
 CATEGORIES:music
 DESCRIPTION:Concierto / Rock\n\nhttps://salavillanos.es/evento/luback/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rap en La Mirador Vol.3
-DTSTART;TZID=Europe/Madrid:20260528T203000
-UID:09958a88efd1d59421bb8c8a0b2e95dbb5bb5dd74c71530e6366b7ac7f9e9471
-CATEGORIES:music
-DESCRIPTION:Rap en La Mirador Vol.3\n\nLa Sala Mirador acoge la tercera e
- dición de "Rap en la Mirador"\, un encuentro donde tres poderosas artista
- s del panorama nacional del rap compartirán flow y rimas:\n\nCarolina Tre
- boada\, Lashe\, Ángela Tiriri Dj Soro. Presentada por\n\nCelia Bsoul\n\n\
- , la velada acercará al público a estas tres propuestas donde el rap tom
- a una mirada escénica. Como cierre\, habrá un breve micro abierto donde 
- se dará espacio a otras voces\, viajando de lo íntimo a lo colectivo par
- a celebrar la música y la palabra.\n\nhttps://lamirador.com/funcion?nombr
- e=rap-en-la-mirador-vol-3-2026
-LOCATION:Sala Mirador - Calle Doctor Fourquet\, 31\, 28012 Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Enol
@@ -167,6 +131,19 @@ DESCRIPTION:Concierto / Jazz / Flamenco\n\nhttps://salavillanos.es/evento/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Festival Internacional de Guitarra de Madrid. Concierto del Dúo M
+ elis
+DTSTART;TZID=Europe/Madrid:20260530T193000
+DTEND;TZID=Europe/Madrid:20260530T193000
+UID:d15df06e514919fffe25867dccb8eaeb5fe4992bbeae4a0daa907d20f6e7ac52
+CATEGORIES:music
+DESCRIPTION:Venta de entradas (aquí). Socios\, código de descuento en el
+  Área del Socio. \n \nAlexis Muzurakis y Susana Prieto. Cátedra Mayor. 1
+ 9:30h.\n\nhttps://ateneodemadrid.com/evento/festival-internacional-de-guit
+ arra-de-madrid-concierto-del-duo-melis/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ryan Harris
 DTSTART;TZID=Europe/Madrid:20260530T210000
 UID:28943b7557ad11c74548573667c1c47eccca78b0f2cd6f0b14e532ebcf671459
@@ -196,6 +173,17 @@ DESCRIPTION:Precio de las entradas: 18€/23€ Entradas a la venta en ent
 LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Recital piano Montserrat Pérez Carrión
+DTSTART;TZID=Europe/Madrid:20260531T120000
+DTEND;TZID=Europe/Madrid:20260531T120000
+UID:6a8a1f1270976b44c8703a81daa12e6905ba6de10b4b9135ef689ef2cbc0dfc6
+CATEGORIES:music
+DESCRIPTION:Sección de Música. Cátedra Mayor. 12:00h. Currículum y pro
+ grama (ver)\n\nhttps://ateneodemadrid.com/evento/recital-piano-montserrat-
+ perez-carrion/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:VILLAMOLINOS matinés musicales
 DTSTART;TZID=Europe/Madrid:20260531T130000
 UID:8180f40a06bc5272d70a3980c4c879337d17c0f2a8b7cedfb4bd3b4238a65e07
@@ -203,6 +191,17 @@ CATEGORIES:music
 DESCRIPTION:Concierto / Jazz\n\nhttps://salavillanos.es/evento/villamolino
  s-matines-musicales-8/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sir Charles + 3 de aquí
+DTSTART;TZID=Europe/Madrid:20260531T200000
+DTEND;TZID=Europe/Madrid:20260531T200000
+UID:b2c836a01df8ab10e38c4f63459fa9e0d8f5033bce0251e4322dd15f5ca795ff
+CATEGORIES:music
+DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
+  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
+ s://ateneodemadrid.com/evento/sir-charles-3-de-aqui/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:R01 – Dime Si Vas A Venir Tour
@@ -638,6 +637,15 @@ UID:f6889458bd6a5ea6d808ae43e6a6be1e61d7c62b34cae7a498252926e8a8d318
 CATEGORIES:music
 DESCRIPTION:Concierto / Villanos del Jazz\n\nhttps://salavillanos.es/event
  o/amanda-shires-ticket-header-streetlights-and-stars-european-tour/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Walter Sax Big Band
+DTSTART;TZID=Europe/Madrid:20260624T203000
+UID:335575b16b8ca0c537ee59482dfa5f85b76751af211d8daad5f5f7e96fe2be10
+CATEGORIES:music
+DESCRIPTION:Concierto / Jazz\n\nhttps://salavillanos.es/evento/walter-sax-
+ big-band/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 END:VCALENDAR
