@@ -303,19 +303,6 @@ LOCATION:Estación de Madrid - Chamartín - Clara Campoamor - Agustín de
  Foxa\, s/n\, Madrid\, 28036
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Oriol Maspons
-DTSTART;TZID=Europe/Madrid:20251217T000000
-DTEND;TZID=Europe/Madrid:20260614T000000
-UID:86a14a38cc9379110a6f480e1e95754a0ddd89d1a39bcbf60980decb1815a708
-CATEGORIES:exhibition
-DESCRIPTION:Selección de obras del fotógrafo español considerado uno d
- e los más activos e influyentes fotógrafos de la Escuela de Barcelona (
- Real Academia de Bellas Artes de San Fernando.\n\nhttps://www.realacademia
- bellasartessanfernando.com/actividades/exposiciones/oriol-maspons/
-LOCATION:Real Academia de Bellas Artes de San Fernando - de Alcalá\, 13\,
-  Madrid\, 28014
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:75 años de la Colección Marañón: el origen del Fondo Antiguo d
  e la Biblioteca COAM
 DTSTART;TZID=Europe/Madrid:20251218T000000
@@ -1588,6 +1575,18 @@ LOCATION:Centro Cultural Coreano en España - de la Castellana\, 15\, Madr
  id\, 28046
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Nueva-Vieja Pintura
+DTSTART;TZID=Europe/Madrid:20260514T000000
+DTEND;TZID=Europe/Madrid:20260719T000000
+UID:ec3d8663cd21904ad591cf7950a114afbf1d03bcb5a2ad8344fed395df1dfe84
+CATEGORIES:exhibition
+DESCRIPTION:Exposición colectiva que reflexiona sobre la situación actua
+ l de la pintura contemporánea (Sala de Arte Joven. Hasta 19 julio).\n\nht
+ tps://www.comunidad.madrid/actividades/2026/exposicion-nueva-vieja-pintura
+LOCATION:Sala de Arte Joven de la Comunidad de Madrid - de América\, 13\,
+  Madrid\, 28002
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Drift. Yann Gross
 DTSTART;TZID=Europe/Madrid:20260516T000000
 DTEND;TZID=Europe/Madrid:20260726T000000
@@ -1662,6 +1661,18 @@ DESCRIPTION:La artista presenta un proyecto insólito que busca reconstrui
 LOCATION:Museo Arqueológico Nacional - de Serrano\, 13\, Madrid\, 28001
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Unboxing - Espace Aygo
+DTSTART;TZID=Europe/Madrid:20260520T000000
+DTEND;TZID=Europe/Madrid:20260605T000000
+UID:04f6c0d1ce4d75459c6b0c35c18d74a2bc7b8ef25861a50c70a0a0e04827ad2f
+CATEGORIES:exhibition
+DESCRIPTION:Instalación artística que cuestiona la rigidez del sistema d
+ e producción industrial actual (Central de Diseño. Hasta 5 junio).\n\nht
+ tps://www.mataderomadrid.org/programacion/unboxing-espace-aygo
+LOCATION:Central de diseño (Matadero) - de la Chopera\, 14\, Madrid\, 280
+ 45
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bateas Novo-Hispanas. Una encrucijada cultural
 DTSTART;TZID=Europe/Madrid:20260521T000000
 DTEND;TZID=Europe/Madrid:20261018T000000
@@ -1709,6 +1720,20 @@ DESCRIPTION:Proyecto que reúne la obra de más de cincuenta artistas mone
  \n\nhttps://rjb.csic.es/evento/exposicion-8o-foro-de-los-artistas-de-monac
  o-en-madrid/
 LOCATION:Real Jardín Botánico - de Murillo\, 2\, Madrid\, 28014
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Claroscuro en tela de saco
+DTSTART;TZID=Europe/Madrid:20260525T000000
+DTEND;TZID=Europe/Madrid:20260607T000000
+UID:259e231b5c570794817743db62d649f4f3e78fa400c9630e5f16717c54e60127
+CATEGORIES:exhibition
+DESCRIPTION:Exposición de pintura del artista polifacético Raúl Ranera 
+ que reúne una selección de obras inspiradas en Madrid (Centro Cultural C
+ lara del Rey - Museo ABC. Hasta 7 junio).\n\nhttps://diario.madrid.es/blog
+ /notas-de-prensa/el-artista-raul-ranera-vuelve-al-centro-cultural-clara-de
+ l-rey-con-obras-inspiradas-en-madrid/
+LOCATION:Centro Cultural Clara del Rey - Museo ABC - de Amaniel\, 29 - 31\
+ , Madrid\, 28015
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mónaco y España: cinco siglos de historia compartida
@@ -2273,5 +2298,17 @@ DESCRIPTION:El artista puertorriqueño Bernardo Medina explora la identida
  ” (Casa de América. 25 jun a 30 sept).\n\nhttps://www.casamerica.es/exp
  osiciones/tengo-un-coco-contigo
 LOCATION:Casa de América - de Cibeles\, 2\, Madrid\, 28014
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leche\, nieve\, lágrima\, mano. El saber hacer de Blanca Sánchez
+DTSTART;TZID=Europe/Madrid:20260626T000000
+DTEND;TZID=Europe/Madrid:20261009T000000
+UID:652ce1d55f3b410746977f24ca47ebad4868b1d8d2695c0ddac4fab80fd8a640
+CATEGORIES:exhibition
+DESCRIPTION:Recorrido por la trayectoria de la gestora\, coleccionista y c
+ omisaria de exposiciones española\, figura destacada de la Movida Madrile
+ ña (Museo Reina Sofía. 26 jun a 9 oct).\n\nhttps://www.museoreinasofia.e
+ s/exposicion/leche-nieve-lagrima-mano
+LOCATION:Museo Reina Sofía - de Santa Isabel\, 52\, Madrid\, 28012
 END:VEVENT
 END:VCALENDAR

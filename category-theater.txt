@@ -1,51 +1,7 @@
 Eirene feed debug
-Total events: 19
+Total events: 15
 
-[1] Tinieblas
-  id: 50198494f525d46a38de78ff56392a38d77326a681dc92053e44c1132d33f90c
-  start: 2026-04-30T18:00:00+02:00
-  end: 2026-05-31T18:00:00+02:00
-  category: theater
-  source: dramatico_inaem
-  location: Teatro Valle-Inclán - Plaza de Lavapies, Madrid
-  coordinates: 40.4080471, -3.7003217
-  url: https://dramatico.inaem.gob.es/evento/tinieblas/
-  description: Texto y dirección Edurne Rubio
-
-[2] Las últimas
-  id: 316be86cfbc47554e2ec61a11a79f1a4f0ab7c707e2a2f3937148b01aa6cf977
-  start: 2026-05-12T20:00:00+02:00
-  end: 2026-06-21T20:00:00+02:00
-  category: theater
-  source: dramatico_inaem
-  location: Teatro Valle-Inclán - Plaza de Lavapies, Madrid
-  coordinates: 40.4080471, -3.7003217
-  url: https://dramatico.inaem.gob.es/evento/las-ultimas/
-  description: Una creación de Cross Border Texto y dirección Lucía Miranda
-
-[3] Una buena vida
-  id: 086d449e5fecb5c4f577020bd6df49e9111926e9f62e7c7a6ff99af6773ed168
-  start: 2026-05-13T18:00:00+02:00
-  end: 2026-06-21T18:00:00+02:00
-  category: theater
-  source: dramatico_inaem
-  location: Teatro Maria Guerrero - Calle de Tamayo y Baus, 4, Madrid
-  coordinates: 40.4228646, -3.6928431
-  url: https://dramatico.inaem.gob.es/evento/una-buena-vida/
-  description: Texto y dirección Carolina África
-
-[4] Khadiya Amín. ¿Dónde están mis hijos?
-  id: dc30db1033e274a3ba2098df7e697f853f5de45519ca302a1202b2d458372d81
-  start: 2026-05-26T19:00:00+02:00
-  end: N/A
-  category: theater
-  source: teatro_del_barrio
-  location: Teatro del Barrio - Calle de Zurita, 20, Madrid
-  coordinates: 40.4096081, -3.699174
-  url: https://teatrodelbarrio.com/khadiya-amin-donde-estan-mis-hijos/
-  description: Disponible
-
-[5] Solo quería bailar
+[1] Solo quería bailar
   id: 6c44ad2c10230c128122f2e2216216e2024cd8a20b225dcd299e4e823e1e8b91
   start: 2026-05-27T19:30:00+02:00
   end: N/A
@@ -54,9 +10,9 @@ Total events: 19
   location: Teatro del Barrio - Calle de Zurita, 20, Madrid
   coordinates: 40.4096081, -3.699174
   url: https://teatrodelbarrio.com/solo-queria-bailar/
-  description: ¡Ya solo quedan 25 plazas!
+  description: ¡Ya solo quedan 20 plazas!
 
-[6] Comedia por la memoria
+[2] Comedia por la memoria
   id: 32f77ef77336788f5d89b21ec55b751aaa454a8ea16f6de0864aa37c62dc419d
   start: 2026-05-27T22:00:00+02:00
   end: N/A
@@ -65,9 +21,9 @@ Total events: 19
   location: Teatro del Barrio - Calle de Zurita, 20, Madrid
   coordinates: 40.4096081, -3.699174
   url: https://teatrodelbarrio.com/comedia-por-la-memoria/
-  description: ¡Ya solo quedan 19 plazas!
+  description: ¡Ya solo quedan 11 plazas!
 
-[7] Ubú
+[3] Ubú
   id: a56573e15b36299498f04f228d668b599f378b13af45661ba6edc325bb0216ff
   start: 2026-05-28T19:30:00+02:00
   end: 2026-06-21T19:30:00+02:00
@@ -78,7 +34,7 @@ Total events: 19
   url: https://tienda.madrid-destino.com/es/nave-10/ubu/
   description: Entradas disponibles desde 15.75€ | Tags: JOBO
 
-[8] Miss cosas y yo
+[4] Miss cosas y yo
   id: 91105fd0316cfac0671cb7779fb512f8136484d68ea95708df715896dd8bd583
   start: 2026-05-28T19:30:00+02:00
   end: N/A
@@ -89,7 +45,7 @@ Total events: 19
   url: https://teatrodelbarrio.com/miss-cosas-y-yo/
   description: Disponible
 
-[9] Gabriela Giménez (cante) y Antón Giménez (toque). PEÑA FLAMENCA DE LAVAPIÉS
+[5] Gabriela Giménez (cante) y Antón Giménez (toque). PEÑA FLAMENCA DE LAVAPIÉS
   id: 271124084d00d760a287d3888afd03abb280ab725cbd54636e0d36839fdb456a
   start: 2026-05-28T22:15:00+02:00
   end: N/A
@@ -98,9 +54,9 @@ Total events: 19
   location: Teatro del Barrio - Calle de Zurita, 20, Madrid
   coordinates: 40.4096081, -3.699174
   url: https://teatrodelbarrio.com/gabriela-gimenez-cante-y-anton-gimenez-toque-pena-flamenca-de-lavapies/
-  description: ¡Ya solo quedan 20 plazas!
+  description: ¡Ya solo quedan 14 plazas!
 
-[10] Miss cosas y yo
+[6] Miss cosas y yo
   id: 943467faa13792c2db17df808e1324f1672448d4b549c62bcde19e73bfc21f9e
   start: 2026-05-29T19:30:00+02:00
   end: N/A
@@ -111,7 +67,7 @@ Total events: 19
   url: https://teatrodelbarrio.com/miss-cosas-y-yo/
   description: Disponible
 
-[11] Noche de Fiesta de La Peña Arco Iris
+[7] Noche de Fiesta de La Peña Arco Iris
   id: 215e85788eb849424b288cca283944d6af738fb9e14ef144322bdbc8914e299b
   start: 2026-05-29T22:00:00+02:00
   end: N/A
@@ -122,7 +78,7 @@ Total events: 19
   url: https://teatrodelbarrio.com/noche-de-fiesta-de-la-pena-arco-iris/
   description: Programación en Teatro del Barrio
 
-[12] Mi madre muerta
+[8] Mi madre muerta
   id: cc18d449598fea049adc7a3938ce085ec48332b42313d716eb68eaea4e1eb74e
   start: 2026-05-30T13:00:00+02:00
   end: N/A
@@ -133,7 +89,7 @@ Total events: 19
   url: https://teatrodelbarrio.com/mi-madre-muerta/
   description: Disponible
 
-[13] Miss cosas y yo
+[9] Miss cosas y yo
   id: fd5e8343481ff80f00e1ccb97e1e35c492f20b5b58912d99a89007d71940515c
   start: 2026-05-30T19:30:00+02:00
   end: N/A
@@ -144,7 +100,7 @@ Total events: 19
   url: https://teatrodelbarrio.com/miss-cosas-y-yo/
   description: Disponible
 
-[14] La Ferni
+[10] La Ferni
   id: 53e6cddcbf35880b975d97b0f52aed761d0c90b3cd328a6d7a2416386fe7d203
   start: 2026-05-30T22:15:00+02:00
   end: N/A
@@ -155,7 +111,7 @@ Total events: 19
   url: https://teatrodelbarrio.com/la-ferni/
   description: Disponible
 
-[15] Mi madre muerta
+[11] Mi madre muerta
   id: e28afba626fc1145d4d738a2bf2c7f3c909a53d34133e6d7827f197589062910
   start: 2026-05-31T13:00:00+02:00
   end: N/A
@@ -166,7 +122,7 @@ Total events: 19
   url: https://teatrodelbarrio.com/mi-madre-muerta/
   description: Disponible
 
-[16] Miss cosas y yo
+[12] Miss cosas y yo
   id: 9ff75ee3e745915034671fcc45a74729d987e968f60e919203ce77f28a092888
   start: 2026-05-31T18:00:00+02:00
   end: N/A
@@ -177,7 +133,7 @@ Total events: 19
   url: https://teatrodelbarrio.com/miss-cosas-y-yo/
   description: Disponible
 
-[17] La Ferni
+[13] La Ferni
   id: e5bb5027efa41910b2449382ece99aaffc6a762fe6495cf4426cd5c116778239
   start: 2026-05-31T20:30:00+02:00
   end: N/A
@@ -188,7 +144,7 @@ Total events: 19
   url: https://teatrodelbarrio.com/la-ferni/
   description: Disponible
 
-[18] Mesa redonda
+[14] Mesa redonda
   id: 7cf97b520be078056f3d6858c675fb3b98df1cca09324cb2a881ca6e7a34d504
   start: 2026-06-02T19:00:00+02:00
   end: N/A
@@ -205,13 +161,19 @@ Frente a las pasiones tristes, Ada Colau y Sara Torres conversan en busca de los
 
 Una conversación moderada por Inés Hernand.
 
-[19] La vie secrète des vieux
-  id: f3a4b755ae3cdcf777fec8d719cb38a00b8626a9e881f9303c6d3a509eb3ce4a
-  start: 2026-06-04T20:00:00+02:00
-  end: 2026-06-07T20:00:00+02:00
+[15] Esto no es culpa de nadie, con Facu Díaz
+  id: 03a2a210e40035e14d3881f43558741131e04c5559aaf34d1062cb57de8a2efb
+  start: 2026-06-25T21:00:00+02:00
+  end: N/A
   category: theater
-  source: dramatico_inaem
-  location: Teatro Maria Guerrero - Calle de Tamayo y Baus, 4, Madrid
-  coordinates: 40.4228646, -3.6928431
-  url: https://dramatico.inaem.gob.es/evento/la-vie-secrete-des-vieux/
-  description: Una creación de Mohamed El Khatib
+  source: la_mirador
+  location: Sala Mirador - Calle Doctor Fourquet, 31, 28012 Madrid
+  coordinates: 40.4070512, -3.6988713
+  url: https://lamirador.com/funcion?nombre=esto-no-es-culpa-de-nadie-con-facu-diaz-2026
+  description: Esto no es culpa de nadie, con Facu Díaz
+
+El nuevo mundo se derrumba ante nuestros ojos y nadie quiere hacerse cargo. Mientras tanto, Facu Díaz ha decidido volver al stand up para entretener a los seres humanos mientras todo arde a su alrededor.
+
+Una suerte de violinista del Titanic que, micrófono en mano, analiza de manera escandalosamente sesgada lo que sucede en el planeta.
+
+Lo que está pasando es culpa de todos y a la vez culpa de nadie, o esa es la confusa teoría que pretende desarrollar el comediante uruguayo con este nuevo texto plagado de autoreferencias, proclamas políticas propias del siglo pasado y chistes vilmente usurpados a su compañero murciano.

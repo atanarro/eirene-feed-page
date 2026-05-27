@@ -2,50 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Tinieblas
-DTSTART;TZID=Europe/Madrid:20260430T180000
-DTEND;TZID=Europe/Madrid:20260531T180000
-UID:50198494f525d46a38de78ff56392a38d77326a681dc92053e44c1132d33f90c
-CATEGORIES:theater
-DESCRIPTION:Texto y dirección Edurne Rubio\n\nhttps://dramatico.inaem.gob
- .es/evento/tinieblas/
-LOCATION:Teatro Valle-Inclán - Plaza de Lavapies\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Las últimas
-DTSTART;TZID=Europe/Madrid:20260512T200000
-DTEND;TZID=Europe/Madrid:20260621T200000
-UID:316be86cfbc47554e2ec61a11a79f1a4f0ab7c707e2a2f3937148b01aa6cf977
-CATEGORIES:theater
-DESCRIPTION:Una creación de Cross Border Texto y dirección Lucía Mirand
- a\n\nhttps://dramatico.inaem.gob.es/evento/las-ultimas/
-LOCATION:Teatro Valle-Inclán - Plaza de Lavapies\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Una buena vida
-DTSTART;TZID=Europe/Madrid:20260513T180000
-DTEND;TZID=Europe/Madrid:20260621T180000
-UID:086d449e5fecb5c4f577020bd6df49e9111926e9f62e7c7a6ff99af6773ed168
-CATEGORIES:theater
-DESCRIPTION:Texto y dirección Carolina África\n\nhttps://dramatico.inaem
- .gob.es/evento/una-buena-vida/
-LOCATION:Teatro Maria Guerrero - Calle de Tamayo y Baus\, 4\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Khadiya Amín. ¿Dónde están mis hijos?
-DTSTART;TZID=Europe/Madrid:20260526T190000
-UID:dc30db1033e274a3ba2098df7e697f853f5de45519ca302a1202b2d458372d81
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/khadiya-amin-donde-e
- stan-mis-hijos/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Solo quería bailar
 DTSTART;TZID=Europe/Madrid:20260527T193000
 UID:6c44ad2c10230c128122f2e2216216e2024cd8a20b225dcd299e4e823e1e8b91
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 25 plazas!\n\nhttps://teatrodelbarrio.com/sol
+DESCRIPTION:¡Ya solo quedan 20 plazas!\n\nhttps://teatrodelbarrio.com/sol
  o-queria-bailar/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
@@ -54,7 +15,7 @@ SUMMARY:Comedia por la memoria
 DTSTART;TZID=Europe/Madrid:20260527T220000
 UID:32f77ef77336788f5d89b21ec55b751aaa454a8ea16f6de0864aa37c62dc419d
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 19 plazas!\n\nhttps://teatrodelbarrio.com/com
+DESCRIPTION:¡Ya solo quedan 11 plazas!\n\nhttps://teatrodelbarrio.com/com
  edia-por-la-memoria/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
@@ -82,7 +43,7 @@ SUMMARY:Gabriela Giménez (cante) y Antón Giménez (toque). PEÑA FLAMENC
 DTSTART;TZID=Europe/Madrid:20260528T221500
 UID:271124084d00d760a287d3888afd03abb280ab725cbd54636e0d36839fdb456a
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 20 plazas!\n\nhttps://teatrodelbarrio.com/gab
+DESCRIPTION:¡Ya solo quedan 14 plazas!\n\nhttps://teatrodelbarrio.com/gab
  riela-gimenez-cante-y-anton-gimenez-toque-pena-flamenca-de-lavapies/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
@@ -168,13 +129,21 @@ DESCRIPTION:Mesa redonda\n\n¿Asistimos al fin de las democracias? ¿Son l
 LOCATION:Sala Mirador - Calle Doctor Fourquet\, 31\, 28012 Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:La vie secrète des vieux
-DTSTART;TZID=Europe/Madrid:20260604T200000
-DTEND;TZID=Europe/Madrid:20260607T200000
-UID:f3a4b755ae3cdcf777fec8d719cb38a00b8626a9e881f9303c6d3a509eb3ce4a
+SUMMARY:Esto no es culpa de nadie\, con Facu Díaz
+DTSTART;TZID=Europe/Madrid:20260625T210000
+UID:03a2a210e40035e14d3881f43558741131e04c5559aaf34d1062cb57de8a2efb
 CATEGORIES:theater
-DESCRIPTION:Una creación de Mohamed El Khatib\n\nhttps://dramatico.inaem.
- gob.es/evento/la-vie-secrete-des-vieux/
-LOCATION:Teatro Maria Guerrero - Calle de Tamayo y Baus\, 4\, Madrid
+DESCRIPTION:Esto no es culpa de nadie\, con Facu Díaz\n\nEl nuevo mundo s
+ e derrumba ante nuestros ojos y nadie quiere hacerse cargo. Mientras tant
+ o\, Facu Díaz ha decidido volver al stand up para entretener a los seres 
+ humanos mientras todo arde a su alrededor.\n\nUna suerte de violinista del
+  Titanic que\, micrófono en mano\, analiza de manera escandalosamente ses
+ gada lo que sucede en el planeta.\n\nLo que está pasando es culpa de todo
+ s y a la vez culpa de nadie\, o esa es la confusa teoría que pretende des
+ arrollar el comediante uruguayo con este nuevo texto plagado de autorefere
+ ncias\, proclamas políticas propias del siglo pasado y chistes vilmente u
+ surpados a su compañero murciano.\n\nhttps://lamirador.com/funcion?nombre
+ =esto-no-es-culpa-de-nadie-con-facu-diaz-2026
+LOCATION:Sala Mirador - Calle Doctor Fourquet\, 31\, 28012 Madrid
 END:VEVENT
 END:VCALENDAR
