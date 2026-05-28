@@ -2,24 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Solo quería bailar
-DTSTART;TZID=Europe/Madrid:20260527T193000
-UID:6c44ad2c10230c128122f2e2216216e2024cd8a20b225dcd299e4e823e1e8b91
-CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 20 plazas!\n\nhttps://teatrodelbarrio.com/sol
- o-queria-bailar/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Comedia por la memoria
-DTSTART;TZID=Europe/Madrid:20260527T220000
-UID:32f77ef77336788f5d89b21ec55b751aaa454a8ea16f6de0864aa37c62dc419d
-CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 11 plazas!\n\nhttps://teatrodelbarrio.com/com
- edia-por-la-memoria/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ubú
 DTSTART;TZID=Europe/Madrid:20260528T193000
 DTEND;TZID=Europe/Madrid:20260621T193000
@@ -113,25 +95,37 @@ DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/la-ferni/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mesa redonda
-DTSTART;TZID=Europe/Madrid:20260602T190000
-UID:7cf97b520be078056f3d6858c675fb3b98df1cca09324cb2a881ca6e7a34d504
-CATEGORIES:theater
-DESCRIPTION:Mesa redonda\n\n¿Asistimos al fin de las democracias? ¿Son l
- os jóvenes más conservadores que nunca? ¿Hemos de resignarnos al fin de
-  la organización\, la solidaridad y la empatía?\n\nFrente a las pasiones
-  tristes\, Ada Colau y Sara Torres conversan en busca de los placeres de l
- a movilización: recuperar la alegría de organizarse juntas y elaborar en
- tre todas propuestas ilusionantes y esperanzadoras. Frente a la internacio
- nal del odio\, la revolución de los afectos. Frente al auge reaccionario\
- , pasiones transformadoras.\n\nUna conversación moderada por Inés Hernan
- d.\n\nhttps://lamirador.com/funcion?nombre=mesa-redonda-2026
-LOCATION:Sala Mirador - Calle Doctor Fourquet\, 31\, 28012 Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Esto no es culpa de nadie\, con Facu Díaz
 DTSTART;TZID=Europe/Madrid:20260625T210000
 UID:03a2a210e40035e14d3881f43558741131e04c5559aaf34d1062cb57de8a2efb
+CATEGORIES:theater
+DESCRIPTION:Esto no es culpa de nadie\, con Facu Díaz\n\nEl nuevo mundo s
+ e derrumba ante nuestros ojos y nadie quiere hacerse cargo. Mientras tant
+ o\, Facu Díaz ha decidido volver al stand up para entretener a los seres 
+ humanos mientras todo arde a su alrededor.\n\nUna suerte de violinista del
+  Titanic que\, micrófono en mano\, analiza de manera escandalosamente ses
+ gada lo que sucede en el planeta.\n\nLo que está pasando es culpa de todo
+ s y a la vez culpa de nadie\, o esa es la confusa teoría que pretende des
+ arrollar el comediante uruguayo con este nuevo texto plagado de autorefere
+ ncias\, proclamas políticas propias del siglo pasado y chistes vilmente u
+ surpados a su compañero murciano.\n\nhttps://lamirador.com/funcion?nombre
+ =esto-no-es-culpa-de-nadie-con-facu-diaz-2026
+LOCATION:Sala Mirador - Calle Doctor Fourquet\, 31\, 28012 Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Niño de Elche y Paul B. Preciado
+DTSTART;TZID=Europe/Madrid:20260626T193000
+DTEND;TZID=Europe/Madrid:20260628T193000
+UID:a119ee91989b6f5c28ab2646c30af440cf762f860da3f1dcfe1c099f0dd5e8a0
+CATEGORIES:theater
+DESCRIPTION:Entradas agotadas desde 21.00€\n\nhttps://tienda.madrid-dest
+ ino.com/es/nave-10/nino-de-elche-y-paul-b-preciado/
+LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Esto no es culpa de nadie\, con Facu Díaz
+DTSTART;TZID=Europe/Madrid:20260626T210000
+UID:ad10f9442be8b09ad13c9ee888b35137f0662e99cffec9730109c4c5a9ab102c
 CATEGORIES:theater
 DESCRIPTION:Esto no es culpa de nadie\, con Facu Díaz\n\nEl nuevo mundo s
  e derrumba ante nuestros ojos y nadie quiere hacerse cargo. Mientras tant

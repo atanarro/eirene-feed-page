@@ -2,34 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Reinier Elizarde “El Negrón”
-DTSTART;TZID=Europe/Madrid:20260527T200000
-DTEND;TZID=Europe/Madrid:20260528T200000
-UID:efa923b791ea825b1add9d3295f47795f761440d34ae53fec4db73ade0143f59
-CATEGORIES:music
-DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
-  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
- s://ateneodemadrid.com/evento/reinier-elizarde-el-negron/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ombligo
-DTSTART;TZID=Europe/Madrid:20260527T210000
-UID:f3a7c4219d301bcd3a89ef6be2bbc3948f9dce54501a1f03c2595eefa0dbcfb4
-CATEGORIES:music
-DESCRIPTION:Concierto / Pop / World Music & Folk\n\nhttps://salavillanos.e
- s/evento/ombligo/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Luback
-DTSTART;TZID=Europe/Madrid:20260528T203000
-UID:b76a5bf3b45a8de347bfbf7befb049a5c0ffe718aff6f2c31124c5883763d09c
-CATEGORIES:music
-DESCRIPTION:Concierto / Rock\n\nhttps://salavillanos.es/evento/luback/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Maga Rude (Brasil) + Steady Rockers
 DTSTART;TZID=Europe/Madrid:20260528T210000
 UID:d8b75d20085f3372a8f6946811ac8d5d34603325fdf23bca9dabcdd2b5804a9c
@@ -53,14 +25,6 @@ DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dharmacide
-DTSTART;TZID=Europe/Madrid:20260529T211500
-UID:fbf749d0dac9c6c43b039a9128993ef373a33885e73d676f20ca05c023b41378
-CATEGORIES:music
-DESCRIPTION:Concierto / Rock\n\nhttps://salavillanos.es/evento/dharmadice/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Poetas Puestos + Terapia Colectiva
 DTSTART;TZID=Europe/Madrid:20260529T213000
 UID:3a3df77d0abeaaee056a39752841f2f1ae2a2d41425c57474ac26a67c1b94cba
@@ -71,15 +35,6 @@ DESCRIPTION:Precio de las entradas: 13€/15€ Entradas a la venta en ent
  Más información: Poetas Puestos: El grupo más maldito\n\nhttps://gruta7
  7.com/events/poetas-puestos-terapia-colectiva/var/ri-0.l-L2
 LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ARMANDO GUERRA FEST 13 aniversario de la Quinta del Sordo
-DTSTART;TZID=Europe/Madrid:20260530T121500
-UID:5471bbeacb31702d27abd597d393c85d09cd81fd283978ec99431798a0dcb622
-CATEGORIES:music
-DESCRIPTION:Concierto / Jazz / Flamenco\n\nhttps://salavillanos.es/evento/
- armando-guerra-fest-13-aniversario-de-la-quinta-del-sordo/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Festival Internacional de Guitarra de Madrid. Concierto del Dúo M
@@ -93,15 +48,6 @@ DESCRIPTION:Venta de entradas (aquí). Socios\, código de descuento en el
  9:30h.\n\nhttps://ateneodemadrid.com/evento/festival-internacional-de-guit
  arra-de-madrid-concierto-del-duo-melis/
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ryan Harris
-DTSTART;TZID=Europe/Madrid:20260530T210000
-UID:28943b7557ad11c74548573667c1c47eccca78b0f2cd6f0b14e532ebcf671459
-CATEGORIES:music
-DESCRIPTION:Concierto / Pop / World Music & Folk\n\nhttps://salavillanos.e
- s/evento/ryan-harris/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Zig Zags (EEUU) + Stainless Madness
@@ -126,15 +72,6 @@ DESCRIPTION:Sección de Música. Cátedra Mayor. 12:00h. Currículum y pro
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:VILLAMOLINOS matinés musicales
-DTSTART;TZID=Europe/Madrid:20260531T130000
-UID:8180f40a06bc5272d70a3980c4c879337d17c0f2a8b7cedfb4bd3b4238a65e07
-CATEGORIES:music
-DESCRIPTION:Concierto / Jazz\n\nhttps://salavillanos.es/evento/villamolino
- s-matines-musicales-8/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Sir Charles + 3 de aquí
 DTSTART;TZID=Europe/Madrid:20260531T200000
 DTEND;TZID=Europe/Madrid:20260531T200000
@@ -146,40 +83,35 @@ DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:R01 – Dime Si Vas A Venir Tour
-DTSTART;TZID=Europe/Madrid:20260531T210000
-UID:e64e7faf08086b9bc291ac2287499392b257f3e360b07025de605a0d3e994eac
+SUMMARY:Flamenco Jazz Company
+DTSTART;TZID=Europe/Madrid:20260601T200000
+DTEND;TZID=Europe/Madrid:20260602T200000
+UID:d27a7b5e9714426fd0031a122e312fccb3bf7ae6cb057cb2612340091119c936
 CATEGORIES:music
-DESCRIPTION:Concierto / Pop / Rock\n\nhttps://salavillanos.es/evento/r01-d
- ime-si-vas-a-venir-tour/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
+  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
+ s://ateneodemadrid.com/evento/flamenco-jazz-company/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Dip
-DTSTART;TZID=Europe/Madrid:20260602T203000
-UID:67a5c68c098bf631fff2235961bac86613f6284b2088b44a1742ead870e97566
+SUMMARY:Capítulo XXXII: Recuerdo de Aram Slobodian (una poética de la de
+ saparición)
+DTSTART;TZID=Europe/Madrid:20260603T120000
+UID:5813a7fa75ffc733aa6407bcf9666f14731ce0cec636e27afaf65088fb79899c
 CATEGORIES:music
-DESCRIPTION:Concierto / Villanos del Jazz\n\nhttps://salavillanos.es/event
- o/the-dip/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Fiesta Trifasica: Bakandeya\, El Sombrero Del Abuelo Y Kike M
-DTSTART;TZID=Europe/Madrid:20260604T203000
-UID:27ad704d9d257b64743c3a348f6639c9f6544f3a08c58d72806a1e3f3c6c0a43
-CATEGORIES:music
-DESCRIPTION:Concierto / Latin / Rock / Pop\n\nhttps://salavillanos.es/even
- to/la-fiesta-trifasica-bakandeya-el-sombrero-del-abuelo-y-kike-m/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lapurasangre
-DTSTART;TZID=Europe/Madrid:20260605T213000
-UID:d36b4abc31f6c05a27a52bcb1428b068612fe1ffe56bb406e6aa3394a2cd431d
-CATEGORIES:music
-DESCRIPTION:Concierto / Pop / Latin / World Music & Folk\n\nhttps://salavi
- llanos.es/evento/lapurasangre/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+DESCRIPTION:La breve estancia en la ciudad de Cuenca —posiblemente en to
+ rno a 1963— del fantástico compositor de origen armenio Aram Slobodian 
+ (que supuestamente vivió entre 1918 y 1964\, aunque esas fechas no han po
+ dido ser verificadas) ha tenido profundas consecuencias en el devenir de l
+ as músicas experimentales de nuestro país. Pese a la relativa escasez de
+  pruebas documentales sobre esa etapa conquense (y\, en realidad\, sobre t
+ antos otros aspectos de la vida y de la obra de Slobodian)\, son numerosos
+  los artistas sonoros españoles que le han rendido homenaje dedicándole 
+ obras musicales. Así lo comprobaremos en la última sesión de escucha de
+  esta temporada. Miguel Álvarez-Fernández\, comisario del ciclo\n\nhttps
+ ://www.mataderomadrid.org/programacion/capitulo-xxxii-recuerdo-de-aram-slo
+ bodian-una-poetica-de-la-desaparicion
+LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Quartet Tarantino + Garage Moon
@@ -215,23 +147,6 @@ DESCRIPTION:Concierto para niños y niñas a los que les gusta pintar y ba
 LOCATION:Sala Mirador - Calle Doctor Fourquet\, 31\, 28012 Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gran Fiesta De Verano De Animal Jazz
-DTSTART;TZID=Europe/Madrid:20260606T123000
-UID:cc0a8f96ba3f44004c9fec7a5179e4c9dcdb8bcb1b303154111de253af845a8a
-CATEGORIES:music
-DESCRIPTION:Concierto / Jazz\n\nhttps://salavillanos.es/evento/gran-fiesta
- -de-verano-de-animal-jazz/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hafa Afrosweet
-DTSTART;TZID=Europe/Madrid:20260606T210000
-UID:0d7ce8b1a84070b0624f44e4967f9a1668ff4bd9a32fe0d3eae03730c481e9bb
-CATEGORIES:music
-DESCRIPTION:Concierto\n\nhttps://salavillanos.es/evento/hafa-afrosweet/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Álvaro Montero Rock + Buhonegro
 DTSTART;TZID=Europe/Madrid:20260606T213000
 UID:361f7c81eba65b469a10b2a7169f579de28c0730b3b2616d7bb177761c5ef61f
@@ -242,15 +157,6 @@ DESCRIPTION:Precio de las entradas: 7€/10€ Entradas a la venta en movi
   a tocar\, a merendar y a\n\nhttps://gruta77.com/events/alvaro-montero-buh
  onegro/var/ri-0.l-L2
 LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mount Kimbie (Dj Set) + Senda Fatal
-DTSTART;TZID=Europe/Madrid:20260606T235900
-UID:be2ea7b81d4245a5dfa848f8fd205980a056c936e9dc9c6aef10d8381f8efc9d
-CATEGORIES:music
-DESCRIPTION:Club\n\nhttps://salavillanos.es/evento/mount-kimbie-dj-set-sen
- da-fatal/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Concierto para niños y niñas a los que les gusta pintar y bailar
@@ -274,15 +180,6 @@ DESCRIPTION:Concierto para niños y niñas a los que les gusta pintar y ba
 LOCATION:Sala Mirador - Calle Doctor Fourquet\, 31\, 28012 Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2D3 BIG BAND plays CENTRAL PARK NORTH
-DTSTART;TZID=Europe/Madrid:20260607T130000
-UID:5b78ff689b7c05b192b96d2c96d351c87064c8b17c68f54743ebc4aefb70fb34
-CATEGORIES:music
-DESCRIPTION:Concierto / Jazz\n\nhttps://salavillanos.es/evento/dos-de-tres
- -big-band/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Pioneers (Jamaica) + The Upsessions (Países Bajos)
 DTSTART;TZID=Europe/Madrid:20260607T210000
 UID:0b8481713664c171cd9f9643b7e2dafcdde6cbf929acee1833af5f293fec1364
@@ -295,24 +192,6 @@ DESCRIPTION:Precio de las entradas: 21€/25€ Entradas a la venta en mov
 LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:José del Curro – Presentación álbum “Vivir Gitano”
-DTSTART;TZID=Europe/Madrid:20260610T210000
-UID:91c1c300311549d3e6e551cc3fa188deec6e85dafb1f2f08072d8a4de0ced8c7
-CATEGORIES:music
-DESCRIPTION:Concierto / Flamenco\n\nhttps://salavillanos.es/evento/jose-de
- l-curro-presentacion-album-vivir-gitano/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:«Latidos de África» Recordando a Mila Lázaro
-DTSTART;TZID=Europe/Madrid:20260612T203000
-UID:d97058b07f9515501f31d17aa39b3ccf7758533cff1eb05074f9f336e5d19694
-CATEGORIES:music
-DESCRIPTION:Concierto / Afro\n\nhttps://salavillanos.es/evento/latidos-de-
- africa-recordando-a-mila-lazaro/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Aggrolites (EEUU) - Sala Copérnico -
 DTSTART;TZID=Europe/Madrid:20260612T203000
 UID:4fed0e356a6c80cb85c702b54243b0c1f0a2334c891c4118641dbd838a11e0da
@@ -323,15 +202,6 @@ DESCRIPTION:Precio de las entradas: 24\,50€/28€ Entradas a la venta en
   actitud desde Los Ángeles. Formados\n\nhttps://gruta77.com/events/the-ag
  grolites-eeuu-sala-copernico/var/ri-0.l-L2
 LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El Concierto Del Riff
-DTSTART;TZID=Europe/Madrid:20260613T203000
-UID:53c1387f36884f783569d1bf1e5270b39364cd0c592ea99f86904218d4bb339f
-CATEGORIES:music
-DESCRIPTION:Concierto / Rock\n\nhttps://salavillanos.es/evento/el-conciert
- o-del-riff/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Los Malinches + The Wild Beats + The Oompa Loompas En Garagruta Fe
@@ -348,15 +218,6 @@ DESCRIPTION:Precio de las entradas: 12€/15€ Entradas a la venta en mov
 LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:VILLAMOLINOS matinés musicales
-DTSTART;TZID=Europe/Madrid:20260614T130000
-UID:c4633ea19205118c20ccbdbe263033daab528803ae0138ca28764bca68de3df5
-CATEGORIES:music
-DESCRIPTION:Concierto / Jazz\n\nhttps://salavillanos.es/evento/villamolino
- s-matines-musicales-9/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Big Family Music Experience Con Alumnos De Tony Pereyra
 DTSTART;TZID=Europe/Madrid:20260614T193000
 UID:de21e1f4962bd0ca2688c66a914487afef1c0551895ed9005ba7555f12abbd41
@@ -369,33 +230,6 @@ DESCRIPTION:Precio de las entradas: 9€ con cerveza o refresco Entradas a
 LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Roberta Sá
-DTSTART;TZID=Europe/Madrid:20260616T203000
-UID:2da7d8509392d70cab20fa66af81c4fc730de679d75192b0b52b9178af71fb7f
-CATEGORIES:music
-DESCRIPTION:Concierto / Villanos del Jazz\n\nhttps://salavillanos.es/event
- o/roberta-sa-tudo-que-cantei-sou/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tommy Guerrero
-DTSTART;TZID=Europe/Madrid:20260617T210000
-UID:90e0366d2889f273d5106f45609d7570fdf9b34b6cc8411ada973256401ef179
-CATEGORIES:music
-DESCRIPTION:Concierto / Momentos Alhambra / Rock / World Music & Folk\n\nh
- ttps://salavillanos.es/evento/tommy-guerrero/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Zuaraz
-DTSTART;TZID=Europe/Madrid:20260618T203000
-UID:ce68de61932a493b8e009b9a07e8662951bdef097c835ac53aae19b00003eeab
-CATEGORIES:music
-DESCRIPTION:Concierto / Pop / Latin\n\nhttps://salavillanos.es/evento/zuar
- az/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Motherpunkrs + Tarzán
 DTSTART;TZID=Europe/Madrid:20260619T213000
 UID:b0a1dbdfdc1bfe6f2f8d1b5a828e705b975d569a52c136e3d06d2cdcc473f144
@@ -406,15 +240,6 @@ DESCRIPTION:Precio de las entradas: 3€/5€ Entradas a la venta en movin
  ela de jazz deciden\,\n\nhttps://gruta77.com/events/motherpunkrs-tarzan/va
  r/ri-0.l-L2
 LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Olaya Sound System
-DTSTART;TZID=Europe/Madrid:20260619T220000
-UID:f80a2e386de84a53eb8e920f5cbaf8abc6e66d9e7d28917a4f77258a014ef83f
-CATEGORIES:music
-DESCRIPTION:Concierto / Latin / Pop\n\nhttps://salavillanos.es/evento/olay
- a-sound-system/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Miseria Y Kompañía + Deklarados Kulpables
@@ -442,24 +267,6 @@ DESCRIPTION:Precio de las entradas: 15€/20€ Entradas a la venta en mov
 LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Amanda Shires
-DTSTART;TZID=Europe/Madrid:20260623T210000
-UID:f6889458bd6a5ea6d808ae43e6a6be1e61d7c62b34cae7a498252926e8a8d318
-CATEGORIES:music
-DESCRIPTION:Concierto / Villanos del Jazz\n\nhttps://salavillanos.es/event
- o/amanda-shires-ticket-header-streetlights-and-stars-european-tour/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Walter Sax Big Band
-DTSTART;TZID=Europe/Madrid:20260624T203000
-UID:335575b16b8ca0c537ee59482dfa5f85b76751af211d8daad5f5f7e96fe2be10
-CATEGORIES:music
-DESCRIPTION:Concierto / Jazz\n\nhttps://salavillanos.es/evento/walter-sax-
- big-band/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ravagers (EEUU) + Banda Invitada\; Circuito Red De Salas
 DTSTART;TZID=Europe/Madrid:20260625T210000
 UID:6d15678509d1645d3cdfab6c3620ef7e549288d4cd0ea9ae7938c906304daba8
@@ -472,12 +279,15 @@ DESCRIPTION:Precio de las entradas: 12€/15€ Entradas a la venta en mov
 LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Allergies (Live)
-DTSTART;TZID=Europe/Madrid:20260625T213000
-UID:7d6dbd6a8c1aa8825ee74274da116e108791ce1bdcc587e24d3aeded7238443e
+SUMMARY:Genderlexx + Lavandera Boyera
+DTSTART;TZID=Europe/Madrid:20260626T213000
+UID:b5c9af5f249948d20cfdb6b688a4191ade60a6023fb54bef4bbe91129fb97d26
 CATEGORIES:music
-DESCRIPTION:Concierto / Momentos Alhambra\n\nhttps://salavillanos.es/event
- o/the-allergies/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+DESCRIPTION:Precio de las entradas: 10€/13€ Entradas a la venta moving
+ tickets Bio/enlaces bandas: Genderlexx_facebook + Genderlexx_bandcamp + Ge
+ nderlexx_instagram Lavandera Boyera_instagram Más información: Nos traen
+  el queerpunk a Carabanchel\n\nhttps://gruta77.com/events/genderlexx-lavan
+ dera-boyera/var/ri-0.l-L2
+LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
 END:VEVENT
 END:VCALENDAR
