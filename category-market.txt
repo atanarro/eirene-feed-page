@@ -1,5 +1,5 @@
 Eirene feed debug
-Total events: 3
+Total events: 4
 
 [1] Mercado de las Ranas
   id: e445cce76bfbc343a7fdaa6f112c983b75b843b1ddd1bdcd3bc641a67ae1d028
@@ -23,7 +23,18 @@ Total events: 3
   url: https://www.esmadrid.com/agenda/mercadillo-minerales-madrid-escuela-superior-ingenieros-minas
   description: Mercadillo de minerales, fosiles, gemas y conchas en la Escuela Superior de Ingenieros de Minas (primer domingo de cada mes, excepto agosto).
 
-[3] Mercado de las Ranas
+[3] Mercado Productores Alcobendas
+  id: 9b5bd683b994bce6e3035e72479562edae26ed8a62872fc67f75ff3109f8afa8
+  start: 2026-06-14T10:00:00+02:00
+  end: 2026-06-14T16:00:00+02:00
+  category: market
+  source: mercado_productores
+  location: Mercado Productores Alcobendas - Paseo de Valdelasfuentes esquina Calle Jose Hierro, Alcobendas
+  coordinates: 40.554188, -3.648976
+  url: https://mercadoproductores.es/mp-alcobendas/
+  description: Mercado de productores locales y artesanos en Alcobendas con alimentos de proximidad y propuestas gastronomicas.
+
+[4] Mercado de las Ranas
   id: 0d37b7c0ec27fbc62faebe2e0ce74b06b1e8ac9a050c7f8fe615661ee8f3f517
   start: 2026-06-20T12:00:00+02:00
   end: 2026-06-20T20:00:00+02:00

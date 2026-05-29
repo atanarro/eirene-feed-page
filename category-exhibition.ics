@@ -303,19 +303,6 @@ LOCATION:Estación de Madrid - Chamartín - Clara Campoamor - Agustín de
  Foxa\, s/n\, Madrid\, 28036
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Oriol Maspons
-DTSTART;TZID=Europe/Madrid:20251217T000000
-DTEND;TZID=Europe/Madrid:20260614T000000
-UID:86a14a38cc9379110a6f480e1e95754a0ddd89d1a39bcbf60980decb1815a708
-CATEGORIES:exhibition
-DESCRIPTION:Selección de obras del fotógrafo español considerado uno d
- e los más activos e influyentes fotógrafos de la Escuela de Barcelona (
- Real Academia de Bellas Artes de San Fernando.\n\nhttps://www.realacademia
- bellasartessanfernando.com/actividades/exposiciones/oriol-maspons/
-LOCATION:Real Academia de Bellas Artes de San Fernando - de Alcalá\, 13\,
-  Madrid\, 28014
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:75 años de la Colección Marañón: el origen del Fondo Antiguo d
  e la Biblioteca COAM
 DTSTART;TZID=Europe/Madrid:20251218T000000
@@ -983,18 +970,6 @@ DESCRIPTION:Exposición que analiza el impacto de la fotografía desde su
 LOCATION:Museo del Prado - del Prado\, s/n\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Clima\, cuerpo\, placer. Arquitectura y tipologías climáticas
-DTSTART;TZID=Europe/Madrid:20260416T000000
-DTEND;TZID=Europe/Madrid:20260528T000000
-UID:06db31fee65d39b1067dc45fa1e3dffe57e9295ea545893d82771ab403994e54
-CATEGORIES:exhibition
-DESCRIPTION:Exposición que incide en la interacción entre los edificios 
- y el entorno\, para fomentar el bienestar en su interior\, sin ceder al he
- rmetismo (COAM. Hasta 28 mayo).\n\nhttps://www.coam.org/actualidad-agenda-
- coam-clima-cuerpo-placer-arquitectura-y-tipologias-climaticas/
-LOCATION:COAM - de Hortaleza\, 63\, Madrid\, 28004
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Súper Zines 2026
 DTSTART;TZID=Europe/Madrid:20260416T000000
 DTEND;TZID=Europe/Madrid:20260531T000000
@@ -1464,8 +1439,8 @@ DTSTART;TZID=Europe/Madrid:20260508T000000
 DTEND;TZID=Europe/Madrid:20260618T000000
 UID:b742e5c4d4ed295b2dc343de81fc3fcf160c1dc4b51f1ca7a22f818beddd958a
 CATEGORIES:exhibition
-DESCRIPTION:Se expone por primera vez en España esta destacada obra del p
- intor renacentista (Museo del Prado. Hasta 18 junio).\n\nhttps://www.museo
+DESCRIPTION:Esta destacada obra del pintor renacentista se expone por prim
+ era vez en España (Museo del Prado. Hasta 18 junio).\n\nhttps://www.museo
  delprado.es/actualidad/exposicion/la-visitacion-de-jacopo-pontormo/c56df51
  0-6c63-66e7-24f3-942945fb2ff1
 LOCATION:Museo del Prado - del Prado\, s/n\, Madrid\, 28014
@@ -1674,15 +1649,15 @@ LOCATION:Central de diseño (Matadero) - de la Chopera\, 14\, Madrid\, 280
  45
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bateas Novo-Hispanas. Una encrucijada cultural
+SUMMARY:Bateas novo-hispanas. Una encrucijada cultural
 DTSTART;TZID=Europe/Madrid:20260521T000000
 DTEND;TZID=Europe/Madrid:20261018T000000
-UID:b9b29076d9e2329b7e55d8b125b475799e51ef5f32b63e274b73b7d06d762bcd
+UID:f69e188ab93228c0521e39d5359163ab81b6f182bf170ab78ef58068b7c245bf
 CATEGORIES:exhibition
 DESCRIPTION:Un recorrido por las bateas lacadas novohispanas y su valor ar
- tístico e histórico (Museo de América. 21 may a 18 oct).\n\nhttps://www
- .cultura.gob.es/museodeamerica/exposiciones/exposiciones-temporales/2026-b
- ateas.html
+ tístico e histórico (Museo de América. Hasta 18 oct).\n\nhttps://www.cu
+ ltura.gob.es/museodeamerica/exposiciones/exposiciones-temporales/2026-bate
+ as.html
 LOCATION:Museo de América - de los Reyes Católicos\, 6\, Madrid\, 28040
 END:VEVENT
 BEGIN:VEVENT
@@ -1875,6 +1850,19 @@ DESCRIPTION:Expòsición que muestra la obra más potente\, colorida y de
 LOCATION:Centro Cultural Casa de Vacas - de Colombia\, 1\, Madrid\, 28009
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Mujeres de ingenio. Plumas de Oro en el Siglo de las Letras
+DTSTART;TZID=Europe/Madrid:20260529T000000
+DTEND;TZID=Europe/Madrid:20260913T000000
+UID:0e9e9e4f6d22509db8fabd227cd0aee20c80c80d9f4dc09df4fd16b55ab2b788
+CATEGORIES:exhibition
+DESCRIPTION:Muestra que rinde homenaje a las escritoras del Siglo de Oro y
+  contribuye a la difusión del patrimonio artístico\, literario\, histór
+ ico y cultural (Casa Museo Lope de Vega. 29 may a 13 sept).\n\nhttps://cas
+ amuseolopedevega.org/es/actividades/colaboraciones-y-proyectos/778-exposic
+ ion-2026
+LOCATION:Casa Museo Lope de Vega - de Cervantes\, 11\, Madrid\, 28014
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Robert Frank y Los Americanos (PHotoESPAÑA 2026)
 DTSTART;TZID=Europe/Madrid:20260529T000000
 DTEND;TZID=Europe/Madrid:20261101T000000
@@ -1911,30 +1899,43 @@ DESCRIPTION:Esta actividad\, organizada por Almazuela\, la Federación Esp
  condiciones laborales son necesarias\, qué papel deben asumir las institu
  ciones y administración pública\, o cómo fortalecer la comunidad profes
  ional. Se trata de un encuentro abierto a todas las personas profesionales
-  o interesadas en el ámbito de la educación y mediación cultural. Con l
- a participación de: Javier Rodrigo Investigador y mediador cultural. Coor
- dinador de transductores desde 2008. Integrante de ACEP (Associació Catal
- ana d'Educació Patrimonial) y Artibarri. Yolanda Riquelme García Mediado
- ra Cultural. Codirectora de La Liminal desde 2015. Presidenta de Almazuela
- . Federación española de Asociación de Educación y Mediación en Cultu
- ra\, Museos y Patrimonio e integrante de AMECUM (Asociación de Mediadoras
-  Culturales de Madrid) Amparo Moroño Historiadora del arte especializada 
- en pedagogías culturales. Mediadora cultural\, responsable del programa 
- de Cultura de la Mancomunidad del Valle del Jerte (Cáceres). Aina Bauzá 
- Trabajadora cultural en mediación y curaduría. Ha sido jefa del DEAC de 
- Es Baluard y ha dirigido el Centro de arte Casal Solleric. Tanto en instit
- uciones como autonoma desarrolla proyectos situados. Socia cofundadora de 
- Taula. Asociació d'educadores culturals de Mallorca. Marian Recaj Licenci
- ada en Historia del Arte y especializada en gestión cultural y educación
- \, es fundadora de Fun Fam\, proyecto de educación patrimonial para famil
- ias y entornos escolares en Aragón. Integrante de  Trenzadera\, Asociaci
- ón Aragonesa de Educadoras\, Mediadoras culturales y Patrimoniales. Paula
-  Zamarreño Diplomada en Turismo y Licenciada en Humanidades\, con Máster
-  en Gestión Cultural. Mediadora cultural de la AGE\, primero en el Museo 
- de Antropología y desde 2025 en la Casa de la Arquitectura.\n\nhttps://ww
- w.mataderomadrid.org/programacion/hacia-la-definicion-del-perfil-profesion
- al-de-la-educacion-y-mediacion-cultural
+  o interesadas en el ámbito de la educación y mediación cultural. La ac
+ tividad es presencial y con retransmisión online en este enlace Con la pa
+ rticipación de: Javier Rodrigo Investigador y mediador cultural. Coordina
+ dor de transductores desde 2008. Integrante de ACEP (Associació Catalana 
+ d'Educació Patrimonial) y Artibarri. Yolanda Riquelme García Mediadora C
+ ultural. Codirectora de La Liminal desde 2015. Presidenta de Almazuela. Fe
+ deración española de Asociación de Educación y Mediación en Cultura\,
+  Museos y Patrimonio e integrante de AMECUM (Asociación de Mediadoras Cul
+ turales de Madrid) Amparo Moroño Historiadora del arte especializada en p
+ edagogías culturales. Mediadora cultural\, responsable del programa de C
+ ultura de la Mancomunidad del Valle del Jerte (Cáceres). Aina Bauzá Trab
+ ajadora cultural en mediación y curaduría. Ha sido jefa del DEAC de Es B
+ aluard y ha dirigido el Centro de arte Casal Solleric. Tanto en institucio
+ nes como autonoma desarrolla proyectos situados. Socia cofundadora de Taul
+ a. Asociació d'educadores culturals de Mallorca. Marian Recaj Licenciada 
+ en Historia del Arte y especializada en gestión cultural y educación\, e
+ s fundadora de Fun Fam\, proyecto de educación patrimonial para familias 
+ y entornos escolares en Aragón. Integrante de  Trenzadera\, Asociación 
+ Aragonesa de Educadoras\, Mediadoras culturales y Patrimoniales. Paula Zam
+ arreño Diplomada en Turismo y Licenciada en Humanidades\, con Máster en 
+ Gestión Cultural. Mediadora cultural de la AGE\, primero en el Museo de A
+ ntropología y desde 2025 en la Casa de la Arquitectura.\n\nhttps://www.ma
+ taderomadrid.org/programacion/hacia-la-definicion-del-perfil-profesional-d
+ e-la-educacion-y-mediacion-cultural
 LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:De Monet a Kandinski. Arte revolucionario
+DTSTART;TZID=Europe/Madrid:20260601T000000
+DTEND;TZID=Europe/Madrid:20260629T000000
+UID:ff0d48bb6666949ad34988b531b4a16a4800eb4fca00fb53240821c8d01456d9
+CATEGORIES:exhibition
+DESCRIPTION:Experiencia que reúne los movimientos artísticos más inf
+ luyentes de finales del siglo XIX y principios del XX: impresionismo\, pun
+ tillismo\, posimpresionismo\, cubismo y expresionismo (Nomad Museo\n\nhttp
+ s://www.nomadmuseo.es/
+LOCATION:Nomad Museo Inmersivo - Gran Vía\, 78\, Madrid\, 28013
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Endometriosis. Laia Abril (PHotoESPAÑA 2026)
@@ -1995,6 +1996,17 @@ DESCRIPTION:Experiencia audiovisual inmersiva que muestra la biodiversidad
 LOCATION:CaixaForum Madrid - del Prado\, 36\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Black Mirror Experience™
+DTSTART;TZID=Europe/Madrid:20260604T000000
+DTEND;TZID=Europe/Madrid:20260809T000000
+UID:1531cbc3bd0ce881a68114b3225502330dbfdd440738c128bbe466446b631968
+CATEGORIES:exhibition
+DESCRIPTION:Una experiencia inmersiva colectiva inspirada en el universo d
+ e la popular serie Black Mirror® (Espacio Delicias. Miércoles a domingos
+ . 4 jun a 9 ago).\n\nhttps://madrid.theblackmirrorexperience.com/
+LOCATION:Espacio Delicias - de las Delicias\, 61\, Madrid\, 28045
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Los mismos lugares. Jorge Yeregui (PHotoESPAÑA 2026)
 DTSTART;TZID=Europe/Madrid:20260604T000000
 DTEND;TZID=Europe/Madrid:20260906T000000
@@ -2009,12 +2021,12 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ofertorio. Greta Alfaro (PHotoESPAÑA 2026)
 DTSTART;TZID=Europe/Madrid:20260604T000000
-DTEND;TZID=Europe/Madrid:20260731T000000
+DTEND;TZID=Europe/Madrid:20260730T000000
 UID:0528fe792d901061dc35ec994033b2bb84325d8eacd6fae2a92d851069ce363f
 CATEGORIES:exhibition
 DESCRIPTION:Muestra que explora el paso de lo ritual a los actuales sistem
  as de consumo e imagen\, analizando nuevas formas de ofrecer y transformar
-  la materia (Nave 0 - Matadero. 4 jun a 31 jul).\n\nhttps://phe.es/exposic
+  la materia (Nave 0 - Matadero. 4 jun a 30 jul).\n\nhttps://phe.es/exposic
  ion/ofertorio/
 LOCATION:Nave 0 (Matadero) - de Legazpi \, 8\, Madrid\, 28045
 END:VEVENT
