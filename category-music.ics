@@ -2,47 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Victor Jones Trío
-DTSTART;TZID=Europe/Madrid:20260529T200000
-DTEND;TZID=Europe/Madrid:20260530T200000
-UID:ff3ab112d46e6bf96ceb873553fab6f5c999d310f449b9f2a35ec5477ebc889b
-CATEGORIES:music
-DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
-  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
- s://ateneodemadrid.com/evento/victor-jones-trio/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vega
-DTSTART;TZID=Europe/Madrid:20260529T210000
-UID:6dd2044443f24c2eb6fd55a84c99da3a12bc8d4739aebbb31e8e5dad7c69e918
-CATEGORIES:music
-DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://www.entradas.com/artist/
- vega/?affiliate=ABG
-LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
- id
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dharmacide
-DTSTART;TZID=Europe/Madrid:20260529T211500
-UID:fbf749d0dac9c6c43b039a9128993ef373a33885e73d676f20ca05c023b41378
-CATEGORIES:music
-DESCRIPTION:Concierto / Rock\n\nhttps://salavillanos.es/evento/dharmadice/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Poetas Puestos + Terapia Colectiva
-DTSTART;TZID=Europe/Madrid:20260529T213000
-UID:3a3df77d0abeaaee056a39752841f2f1ae2a2d41425c57474ac26a67c1b94cba
-CATEGORIES:music
-DESCRIPTION:Precio de las entradas: 13€/15€ Entradas a la venta en ent
- radium Bio/enlaces bandas: Poetas Puestos_instagram + Poetas Puestos_youtu
- be + Poetas Puestos_spotify + Poetas Puestos_X Terapia Colectiva_intagram 
- Más información: Poetas Puestos: El grupo más maldito\n\nhttps://gruta7
- 7.com/events/poetas-puestos-terapia-colectiva/var/ri-0.l-L2
-LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ARMANDO GUERRA FEST 13 aniversario de la Quinta del Sordo
 DTSTART;TZID=Europe/Madrid:20260530T121500
 UID:5471bbeacb31702d27abd597d393c85d09cd81fd283978ec99431798a0dcb622
@@ -182,6 +141,17 @@ DESCRIPTION:La breve estancia en la ciudad de Cuenca —posiblemente en to
  ://www.mataderomadrid.org/programacion/capitulo-xxxii-recuerdo-de-aram-slo
  bodian-una-poetica-de-la-desaparicion
 LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arahi & Machado Quintet
+DTSTART;TZID=Europe/Madrid:20260603T200000
+DTEND;TZID=Europe/Madrid:20260604T200000
+UID:285a7facdddceeb9b7adb8e744c278aa1e713b1a4f4a4375d0555832938a2657
+CATEGORIES:music
+DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
+  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
+ s://ateneodemadrid.com/evento/arahi-machado-quintet/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Clutch + Bokassa
@@ -542,10 +512,10 @@ DTSTART;TZID=Europe/Madrid:20260619T213000
 UID:b0a1dbdfdc1bfe6f2f8d1b5a828e705b975d569a52c136e3d06d2cdcc473f144
 CATEGORIES:music
 DESCRIPTION:Precio de las entradas: 3€/5€ Entradas a la venta en movin
- gtickets próximamente Bio/enlaces bandas: Motherpunkrs_instagram Más inf
- ormación: TARZÁN es lo que pasa cuando unos músicos salidos de una escu
- ela de jazz deciden\,\n\nhttps://gruta77.com/events/motherpunkrs-tarzan/va
- r/ri-0.l-L2
+ gtickets Bio/enlaces bandas: Motherpunkrs_instagram Más información: TAR
+ ZÁN es lo que pasa cuando unos músicos salidos de una escuela de jazz de
+ ciden\, por\n\nhttps://gruta77.com/events/motherpunkrs-tarzan/var/ri-0.l-L
+ 2
 LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -555,6 +525,15 @@ UID:f80a2e386de84a53eb8e920f5cbaf8abc6e66d9e7d28917a4f77258a014ef83f
 CATEGORIES:music
 DESCRIPTION:Concierto / Latin / Pop\n\nhttps://salavillanos.es/evento/olay
  a-sound-system/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Novela gráfica de Standstill
+DTSTART;TZID=Europe/Madrid:20260620T190000
+UID:b6c9890ef538ac1ba13ad6c9f60a4b00a807659915ddbbe9684f2e5376d1a5b8
+CATEGORIES:music
+DESCRIPTION:Concierto / Pop / Rock\n\nhttps://salavillanos.es/evento/novel
+ a-grafica-de-standstill/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -684,5 +663,24 @@ DESCRIPTION:Precio de las entradas: 7€/10€ Entradas a la venta en movi
  de la periferia\,\n\nhttps://gruta77.com/events/radio-clash-2/var/ri-0.l-L
  2
 LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Excepción (Segunda Fecha)
+DTSTART;TZID=Europe/Madrid:20260628T193000
+UID:18ab6e5faa380aef3f6aade9a03549019e8eb59f7a0ab603eb0b2cc17b9bac70
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:00 pm\n\nhttps://www.ticketmaster.es/even
+ t/la-excepcion-entradas/1230068036
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Busty and the Bass
+DTSTART;TZID=Europe/Madrid:20260628T210000
+UID:c9ba6d24b050750c92310efb7e94f7205a1d41eb4bb4530fdb0805ccd758c5ef
+CATEGORIES:music
+DESCRIPTION:Concierto / Villanos del Jazz\n\nhttps://salavillanos.es/event
+ o/busty-and-the-bass/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 END:VCALENDAR

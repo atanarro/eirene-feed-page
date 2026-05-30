@@ -2,39 +2,22 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Ubú
-DTSTART;TZID=Europe/Madrid:20260529T193000
-DTEND;TZID=Europe/Madrid:20260621T193000
-UID:a56573e15b36299498f04f228d668b599f378b13af45661ba6edc325bb0216ff
-CATEGORIES:theater
-DESCRIPTION:Entradas disponibles desde 15.75€ | Tags: JOBO\n\nhttps://ti
- enda.madrid-destino.com/es/nave-10/ubu/
-LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Miss cosas y yo
-DTSTART;TZID=Europe/Madrid:20260529T193000
-UID:943467faa13792c2db17df808e1324f1672448d4b549c62bcde19e73bfc21f9e
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/miss-cosas-y-yo/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Noche de Fiesta de La Peña Arco Iris
-DTSTART;TZID=Europe/Madrid:20260529T220000
-UID:215e85788eb849424b288cca283944d6af738fb9e14ef144322bdbc8914e299b
-CATEGORIES:theater
-DESCRIPTION:Programación en Teatro del Barrio\n\nhttps://teatrodelbarrio.
- com/noche-de-fiesta-de-la-pena-arco-iris/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Mi madre muerta
 DTSTART;TZID=Europe/Madrid:20260530T130000
 UID:cc18d449598fea049adc7a3938ce085ec48332b42313d716eb68eaea4e1eb74e
 CATEGORIES:theater
 DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/mi-madre-muerta/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ubú
+DTSTART;TZID=Europe/Madrid:20260530T193000
+DTEND;TZID=Europe/Madrid:20260621T193000
+UID:a56573e15b36299498f04f228d668b599f378b13af45661ba6edc325bb0216ff
+CATEGORIES:theater
+DESCRIPTION:Entradas disponibles desde 15.75€ | Tags: JOBO\n\nhttps://ti
+ enda.madrid-destino.com/es/nave-10/ubu/
+LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Miss cosas y yo
@@ -126,6 +109,24 @@ BEGIN:VEVENT
 SUMMARY:Esto no es culpa de nadie\, con Facu Díaz
 DTSTART;TZID=Europe/Madrid:20260627T210000
 UID:ddcc2f13045ca49d42d2b3d607ab2ba342a39267711e6fc700ba677481ccd57b
+CATEGORIES:theater
+DESCRIPTION:Esto no es culpa de nadie\, con Facu Díaz\n\nEl nuevo mundo s
+ e derrumba ante nuestros ojos y nadie quiere hacerse cargo. Mientras tant
+ o\, Facu Díaz ha decidido volver al stand up para entretener a los seres 
+ humanos mientras todo arde a su alrededor.\n\nUna suerte de violinista del
+  Titanic que\, micrófono en mano\, analiza de manera escandalosamente ses
+ gada lo que sucede en el planeta.\n\nLo que está pasando es culpa de todo
+ s y a la vez culpa de nadie\, o esa es la confusa teoría que pretende des
+ arrollar el comediante uruguayo con este nuevo texto plagado de autorefere
+ ncias\, proclamas políticas propias del siglo pasado y chistes vilmente u
+ surpados a su compañero murciano.\n\nhttps://lamirador.com/funcion?nombre
+ =esto-no-es-culpa-de-nadie-con-facu-diaz-2026
+LOCATION:Sala Mirador - Calle Doctor Fourquet\, 31\, 28012 Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Esto no es culpa de nadie\, con Facu Díaz
+DTSTART;TZID=Europe/Madrid:20260628T190000
+UID:9eb306edb0ea92af31e8d4dab87e12bba9ae041aeb73774f285d0d8bee26fc23
 CATEGORIES:theater
 DESCRIPTION:Esto no es culpa de nadie\, con Facu Díaz\n\nEl nuevo mundo s
  e derrumba ante nuestros ojos y nadie quiere hacerse cargo. Mientras tant
