@@ -2,57 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:ARMANDO GUERRA FEST 13 aniversario de la Quinta del Sordo
-DTSTART;TZID=Europe/Madrid:20260530T121500
-UID:5471bbeacb31702d27abd597d393c85d09cd81fd283978ec99431798a0dcb622
-CATEGORIES:music
-DESCRIPTION:Concierto / Jazz / Flamenco\n\nhttps://salavillanos.es/evento/
- armando-guerra-fest-13-aniversario-de-la-quinta-del-sordo/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Festival Internacional de Guitarra de Madrid. Concierto del Dúo M
- elis
-DTSTART;TZID=Europe/Madrid:20260530T193000
-DTEND;TZID=Europe/Madrid:20260530T193000
-UID:d15df06e514919fffe25867dccb8eaeb5fe4992bbeae4a0daa907d20f6e7ac52
-CATEGORIES:music
-DESCRIPTION:Venta de entradas (aquí). Socios\, código de descuento en el
-  Área del Socio. \n \nAlexis Muzurakis y Susana Prieto. Cátedra Mayor. 1
- 9:30h.\n\nhttps://ateneodemadrid.com/evento/festival-internacional-de-guit
- arra-de-madrid-concierto-del-duo-melis/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ryan Harris
-DTSTART;TZID=Europe/Madrid:20260530T210000
-UID:28943b7557ad11c74548573667c1c47eccca78b0f2cd6f0b14e532ebcf671459
-CATEGORIES:music
-DESCRIPTION:Concierto / Pop / World Music & Folk\n\nhttps://salavillanos.e
- s/evento/ryan-harris/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dewolff + Israel Nash
-DTSTART;TZID=Europe/Madrid:20260530T210000
-UID:2a252f22ae809dbb9c9c74f9d51a15b6533a76cb5e12baa6e8e7733e142e6972
-CATEGORIES:music
-DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://feverup.com/m/519683
-LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
- id
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Zig Zags (EEUU) + Stainless Madness
-DTSTART;TZID=Europe/Madrid:20260530T213000
-UID:974233041c8b77b204a7cf5b8cda8c419d6560782a377d20681ab52e2c12a47f
-CATEGORIES:music
-DESCRIPTION:Precio de las entradas: 18€/23€ Entradas a la venta en ent
- radium Bio/enlaces bandas: Zig Zags_facebook + Zig Zags_instagram Stainles
- s Madness_instagram Más información: Zig\n\nhttps://gruta77.com/events/z
- ig-zags-eeuu-stainless-madness/var/ri-0.l-L2
-LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Recital piano Montserrat Pérez Carrión
 DTSTART;TZID=Europe/Madrid:20260531T120000
 DTEND;TZID=Europe/Madrid:20260531T120000
@@ -170,6 +119,17 @@ CATEGORIES:music
 DESCRIPTION:Concierto / Latin / Rock / Pop\n\nhttps://salavillanos.es/even
  to/la-fiesta-trifasica-bakandeya-el-sombrero-del-abuelo-y-kike-m/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Joshua Edelman & Rob Schneiderman
+DTSTART;TZID=Europe/Madrid:20260605T200000
+DTEND;TZID=Europe/Madrid:20260606T200000
+UID:db3d4c24517a54f829a5c0be22d1dcb3711090f266a0c7572c9a11e34f41d76c
+CATEGORIES:music
+DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
+  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
+ s://ateneodemadrid.com/evento/joshua-edelman-rob-schneiderman/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Narco en Sound Isidro
@@ -313,9 +273,9 @@ LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
  id
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pioneers (Jamaica) + The Upsessions (Países Bajos)
+SUMMARY:Pioneers (Jamaica) Con The Upsessions (Países Bajos)
 DTSTART;TZID=Europe/Madrid:20260607T210000
-UID:0b8481713664c171cd9f9643b7e2dafcdde6cbf929acee1833af5f293fec1364
+UID:b660ce67f1f3fd7d56755b57fc5dc0ba27a93293d4dc38beae369a387955b29f
 CATEGORIES:music
 DESCRIPTION:Precio de las entradas: 21€/25€ Entradas a la venta en mov
  ingtickets Bio/enlaces bandas: Pioneers_facebook + Pioneers_instagram The 

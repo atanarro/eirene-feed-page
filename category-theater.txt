@@ -1,51 +1,40 @@
 Eirene feed debug
-Total events: 12
+Total events: 13
 
-[1] Mi madre muerta
-  id: cc18d449598fea049adc7a3938ce085ec48332b42313d716eb68eaea4e1eb74e
-  start: 2026-05-30T13:00:00+02:00
-  end: N/A
+[1] Tinieblas
+  id: 50198494f525d46a38de78ff56392a38d77326a681dc92053e44c1132d33f90c
+  start: 2026-04-30T18:00:00+02:00
+  end: 2026-05-31T18:00:00+02:00
   category: theater
-  source: teatro_del_barrio
-  location: Teatro del Barrio - Calle de Zurita, 20, Madrid
-  coordinates: 40.4096081, -3.699174
-  url: https://teatrodelbarrio.com/mi-madre-muerta/
-  description: Disponible
+  source: dramatico_inaem
+  location: Teatro Valle-Inclán - Plaza de Lavapies, Madrid
+  coordinates: 40.4080471, -3.7003217
+  url: https://dramatico.inaem.gob.es/evento/tinieblas/
+  description: Texto y dirección Edurne Rubio
 
-[2] Ubú
-  id: a56573e15b36299498f04f228d668b599f378b13af45661ba6edc325bb0216ff
-  start: 2026-05-30T19:30:00+02:00
-  end: 2026-06-21T19:30:00+02:00
+[2] Las últimas
+  id: 316be86cfbc47554e2ec61a11a79f1a4f0ab7c707e2a2f3937148b01aa6cf977
+  start: 2026-05-12T20:00:00+02:00
+  end: 2026-06-21T20:00:00+02:00
   category: theater
-  source: nave_10
-  location: Nave 10 - Paseo de la Chopera, 14, Madrid
-  coordinates: 40.3920606, -3.6978319
-  url: https://tienda.madrid-destino.com/es/nave-10/ubu/
-  description: Entradas disponibles desde 15.75€ | Tags: JOBO
+  source: dramatico_inaem
+  location: Teatro Valle-Inclán - Plaza de Lavapies, Madrid
+  coordinates: 40.4080471, -3.7003217
+  url: https://dramatico.inaem.gob.es/evento/las-ultimas/
+  description: Una creación de Cross Border Texto y dirección Lucía Miranda
 
-[3] Miss cosas y yo
-  id: fd5e8343481ff80f00e1ccb97e1e35c492f20b5b58912d99a89007d71940515c
-  start: 2026-05-30T19:30:00+02:00
-  end: N/A
+[3] Una buena vida
+  id: 086d449e5fecb5c4f577020bd6df49e9111926e9f62e7c7a6ff99af6773ed168
+  start: 2026-05-13T18:00:00+02:00
+  end: 2026-06-21T18:00:00+02:00
   category: theater
-  source: teatro_del_barrio
-  location: Teatro del Barrio - Calle de Zurita, 20, Madrid
-  coordinates: 40.4096081, -3.699174
-  url: https://teatrodelbarrio.com/miss-cosas-y-yo/
-  description: Disponible
+  source: dramatico_inaem
+  location: Teatro Maria Guerrero - Calle de Tamayo y Baus, 4, Madrid
+  coordinates: 40.4228646, -3.6928431
+  url: https://dramatico.inaem.gob.es/evento/una-buena-vida/
+  description: Texto y dirección Carolina África
 
-[4] La Ferni
-  id: 53e6cddcbf35880b975d97b0f52aed761d0c90b3cd328a6d7a2416386fe7d203
-  start: 2026-05-30T22:15:00+02:00
-  end: N/A
-  category: theater
-  source: teatro_del_barrio
-  location: Teatro del Barrio - Calle de Zurita, 20, Madrid
-  coordinates: 40.4096081, -3.699174
-  url: https://teatrodelbarrio.com/la-ferni/
-  description: Disponible
-
-[5] Mi madre muerta
+[4] Mi madre muerta
   id: e28afba626fc1145d4d738a2bf2c7f3c909a53d34133e6d7827f197589062910
   start: 2026-05-31T13:00:00+02:00
   end: N/A
@@ -56,7 +45,7 @@ Total events: 12
   url: https://teatrodelbarrio.com/mi-madre-muerta/
   description: Disponible
 
-[6] Miss cosas y yo
+[5] Miss cosas y yo
   id: 9ff75ee3e745915034671fcc45a74729d987e968f60e919203ce77f28a092888
   start: 2026-05-31T18:00:00+02:00
   end: N/A
@@ -66,6 +55,17 @@ Total events: 12
   coordinates: 40.4096081, -3.699174
   url: https://teatrodelbarrio.com/miss-cosas-y-yo/
   description: Disponible
+
+[6] Ubú
+  id: a56573e15b36299498f04f228d668b599f378b13af45661ba6edc325bb0216ff
+  start: 2026-05-31T19:30:00+02:00
+  end: 2026-06-21T19:30:00+02:00
+  category: theater
+  source: nave_10
+  location: Nave 10 - Paseo de la Chopera, 14, Madrid
+  coordinates: 40.3920606, -3.6978319
+  url: https://tienda.madrid-destino.com/es/nave-10/ubu/
+  description: Entradas disponibles desde 15.75€ | Tags: JOBO
 
 [7] La Ferni
   id: e5bb5027efa41910b2449382ece99aaffc6a762fe6495cf4426cd5c116778239
@@ -78,7 +78,18 @@ Total events: 12
   url: https://teatrodelbarrio.com/la-ferni/
   description: Disponible
 
-[8] Esto no es culpa de nadie, con Facu Díaz
+[8] La vie secrète des vieux
+  id: f3a4b755ae3cdcf777fec8d719cb38a00b8626a9e881f9303c6d3a509eb3ce4a
+  start: 2026-06-04T20:00:00+02:00
+  end: 2026-06-07T20:00:00+02:00
+  category: theater
+  source: dramatico_inaem
+  location: Teatro Maria Guerrero - Calle de Tamayo y Baus, 4, Madrid
+  coordinates: 40.4228646, -3.6928431
+  url: https://dramatico.inaem.gob.es/evento/la-vie-secrete-des-vieux/
+  description: Una creación de Mohamed El Khatib
+
+[9] Esto no es culpa de nadie, con Facu Díaz
   id: 03a2a210e40035e14d3881f43558741131e04c5559aaf34d1062cb57de8a2efb
   start: 2026-06-25T21:00:00+02:00
   end: N/A
@@ -95,7 +106,7 @@ Una suerte de violinista del Titanic que, micrófono en mano, analiza de manera 
 
 Lo que está pasando es culpa de todos y a la vez culpa de nadie, o esa es la confusa teoría que pretende desarrollar el comediante uruguayo con este nuevo texto plagado de autoreferencias, proclamas políticas propias del siglo pasado y chistes vilmente usurpados a su compañero murciano.
 
-[9] Niño de Elche y Paul B. Preciado
+[10] Niño de Elche y Paul B. Preciado
   id: a119ee91989b6f5c28ab2646c30af440cf762f860da3f1dcfe1c099f0dd5e8a0
   start: 2026-06-26T19:30:00+02:00
   end: 2026-06-28T19:30:00+02:00
@@ -106,7 +117,7 @@ Lo que está pasando es culpa de todos y a la vez culpa de nadie, o esa es la co
   url: https://tienda.madrid-destino.com/es/nave-10/nino-de-elche-y-paul-b-preciado/
   description: Entradas agotadas desde 21.00€
 
-[10] Esto no es culpa de nadie, con Facu Díaz
+[11] Esto no es culpa de nadie, con Facu Díaz
   id: ad10f9442be8b09ad13c9ee888b35137f0662e99cffec9730109c4c5a9ab102c
   start: 2026-06-26T21:00:00+02:00
   end: N/A
@@ -123,7 +134,7 @@ Una suerte de violinista del Titanic que, micrófono en mano, analiza de manera 
 
 Lo que está pasando es culpa de todos y a la vez culpa de nadie, o esa es la confusa teoría que pretende desarrollar el comediante uruguayo con este nuevo texto plagado de autoreferencias, proclamas políticas propias del siglo pasado y chistes vilmente usurpados a su compañero murciano.
 
-[11] Esto no es culpa de nadie, con Facu Díaz
+[12] Esto no es culpa de nadie, con Facu Díaz
   id: ddcc2f13045ca49d42d2b3d607ab2ba342a39267711e6fc700ba677481ccd57b
   start: 2026-06-27T21:00:00+02:00
   end: N/A
@@ -140,7 +151,7 @@ Una suerte de violinista del Titanic que, micrófono en mano, analiza de manera 
 
 Lo que está pasando es culpa de todos y a la vez culpa de nadie, o esa es la confusa teoría que pretende desarrollar el comediante uruguayo con este nuevo texto plagado de autoreferencias, proclamas políticas propias del siglo pasado y chistes vilmente usurpados a su compañero murciano.
 
-[12] Esto no es culpa de nadie, con Facu Díaz
+[13] Esto no es culpa de nadie, con Facu Díaz
   id: 9eb306edb0ea92af31e8d4dab87e12bba9ae041aeb73774f285d0d8bee26fc23
   start: 2026-06-28T19:00:00+02:00
   end: N/A

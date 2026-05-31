@@ -2,38 +2,34 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Mi madre muerta
-DTSTART;TZID=Europe/Madrid:20260530T130000
-UID:cc18d449598fea049adc7a3938ce085ec48332b42313d716eb68eaea4e1eb74e
+SUMMARY:Tinieblas
+DTSTART;TZID=Europe/Madrid:20260430T180000
+DTEND;TZID=Europe/Madrid:20260531T180000
+UID:50198494f525d46a38de78ff56392a38d77326a681dc92053e44c1132d33f90c
 CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/mi-madre-muerta/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+DESCRIPTION:Texto y dirección Edurne Rubio\n\nhttps://dramatico.inaem.gob
+ .es/evento/tinieblas/
+LOCATION:Teatro Valle-Inclán - Plaza de Lavapies\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ubú
-DTSTART;TZID=Europe/Madrid:20260530T193000
-DTEND;TZID=Europe/Madrid:20260621T193000
-UID:a56573e15b36299498f04f228d668b599f378b13af45661ba6edc325bb0216ff
+SUMMARY:Las últimas
+DTSTART;TZID=Europe/Madrid:20260512T200000
+DTEND;TZID=Europe/Madrid:20260621T200000
+UID:316be86cfbc47554e2ec61a11a79f1a4f0ab7c707e2a2f3937148b01aa6cf977
 CATEGORIES:theater
-DESCRIPTION:Entradas disponibles desde 15.75€ | Tags: JOBO\n\nhttps://ti
- enda.madrid-destino.com/es/nave-10/ubu/
-LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
+DESCRIPTION:Una creación de Cross Border Texto y dirección Lucía Mirand
+ a\n\nhttps://dramatico.inaem.gob.es/evento/las-ultimas/
+LOCATION:Teatro Valle-Inclán - Plaza de Lavapies\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Miss cosas y yo
-DTSTART;TZID=Europe/Madrid:20260530T193000
-UID:fd5e8343481ff80f00e1ccb97e1e35c492f20b5b58912d99a89007d71940515c
+SUMMARY:Una buena vida
+DTSTART;TZID=Europe/Madrid:20260513T180000
+DTEND;TZID=Europe/Madrid:20260621T180000
+UID:086d449e5fecb5c4f577020bd6df49e9111926e9f62e7c7a6ff99af6773ed168
 CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/miss-cosas-y-yo/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Ferni
-DTSTART;TZID=Europe/Madrid:20260530T221500
-UID:53e6cddcbf35880b975d97b0f52aed761d0c90b3cd328a6d7a2416386fe7d203
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/la-ferni/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+DESCRIPTION:Texto y dirección Carolina África\n\nhttps://dramatico.inaem
+ .gob.es/evento/una-buena-vida/
+LOCATION:Teatro Maria Guerrero - Calle de Tamayo y Baus\, 4\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mi madre muerta
@@ -52,12 +48,32 @@ DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/miss-cosas-y-yo/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ubú
+DTSTART;TZID=Europe/Madrid:20260531T193000
+DTEND;TZID=Europe/Madrid:20260621T193000
+UID:a56573e15b36299498f04f228d668b599f378b13af45661ba6edc325bb0216ff
+CATEGORIES:theater
+DESCRIPTION:Entradas disponibles desde 15.75€ | Tags: JOBO\n\nhttps://ti
+ enda.madrid-destino.com/es/nave-10/ubu/
+LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:La Ferni
 DTSTART;TZID=Europe/Madrid:20260531T203000
 UID:e5bb5027efa41910b2449382ece99aaffc6a762fe6495cf4426cd5c116778239
 CATEGORIES:theater
 DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/la-ferni/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La vie secrète des vieux
+DTSTART;TZID=Europe/Madrid:20260604T200000
+DTEND;TZID=Europe/Madrid:20260607T200000
+UID:f3a4b755ae3cdcf777fec8d719cb38a00b8626a9e881f9303c6d3a509eb3ce4a
+CATEGORIES:theater
+DESCRIPTION:Una creación de Mohamed El Khatib\n\nhttps://dramatico.inaem.
+ gob.es/evento/la-vie-secrete-des-vieux/
+LOCATION:Teatro Maria Guerrero - Calle de Tamayo y Baus\, 4\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Esto no es culpa de nadie\, con Facu Díaz

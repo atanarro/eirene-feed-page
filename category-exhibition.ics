@@ -238,19 +238,6 @@ LOCATION:Museo de Arte Contemporáneo - del Conde Duque\, 9\, Madrid\, 280
  15
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Alegorías de un porvenir
-DTSTART;TZID=Europe/Madrid:20251125T000000
-DTEND;TZID=Europe/Madrid:20260530T000000
-UID:3b5453be4f4fe4791337db554ef325d4fe1a8daea656b7f097e57c822d855606
-CATEGORIES:exhibition
-DESCRIPTION:El Banco de España analiza por primera vez el impacto del mov
- imiento art déco en su sede principal de Cibeles (Sala de Exposiciones Ba
- nco de España. Hasta 30 mayo).\n\nhttps://coleccion.bde.es/wca/es/seccion
- es/exposiciones/alegorias-de-un-porvenir.html
-LOCATION:Sala de Exposiciones del Banco de España - de Alcalá\, 48\, Mad
- rid\, 28012
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ignacio Bolívar y Urrutia (1850-1944). Director del Museo de Cien
  cias Naturales
 DTSTART;TZID=Europe/Madrid:20251127T000000
@@ -289,6 +276,19 @@ DESCRIPTION:Exposición permanente sobre los primeros trenes que circularo
  acion-de-chamartin/
 LOCATION:Estación de Madrid - Chamartín - Clara Campoamor - Agustín de 
  Foxa\, s/n\, Madrid\, 28036
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oriol Maspons
+DTSTART;TZID=Europe/Madrid:20251217T000000
+DTEND;TZID=Europe/Madrid:20260614T000000
+UID:86a14a38cc9379110a6f480e1e95754a0ddd89d1a39bcbf60980decb1815a708
+CATEGORIES:exhibition
+DESCRIPTION:Selección de obras del fotógrafo español considerado uno d
+ e los más activos e influyentes fotógrafos de la Escuela de Barcelona (
+ Real Academia de Bellas Artes de San Fernando.\n\nhttps://www.realacademia
+ bellasartessanfernando.com/actividades/exposiciones/oriol-maspons/
+LOCATION:Real Academia de Bellas Artes de San Fernando - de Alcalá\, 13\,
+  Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:75 años de la Colección Marañón: el origen del Fondo Antiguo d
@@ -428,17 +428,15 @@ DESCRIPTION:Exposición fotográfica del artista chino Ziyi Le\, ganador d
 LOCATION:Madrid - Ortega y Gasset 34\, Madrid\, Madrid\, 28006
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bellezas del mundo flotante
-DTSTART;TZID=Europe/Madrid:20260212T000000
-DTEND;TZID=Europe/Madrid:20260531T000000
-UID:3e14f7e30890ffbd91debe51c7a332206d87b39c558a496d4951eb11f6bac798
+SUMMARY:Dinoverse: viaje a la era de los dinosaurios
+DTSTART;TZID=Europe/Madrid:20260213T000000
+DTEND;TZID=Europe/Madrid:20260627T000000
+UID:26e86bb388fcccfae92a21b664c6a1b96854d710905a04677287d6f7186addc6
 CATEGORIES:exhibition
-DESCRIPTION:La edad de oro del grabado japonés entre finales del siglo XV
- III y mediados del XIX protagoniza esta exposición (Real Academia Bellas 
- Artes San Fernando. Hasta 31 mayo).\n\nhttps://www.realacademiabellasartes
- sanfernando.com/actividades/exposiciones/bellezas-del-mundo-flotante/
-LOCATION:Real Academia de Bellas Artes de San Fernando - de Alcalá\, 13\,
-  Madrid\, 28014
+DESCRIPTION:Exposición inmersiva que permite adentrarse en la fascinante 
+ era de los dinosaurios (Nomad Museo Inmersivo. Sábados. Hasta 27 junio).\
+ n\nhttps://www.nomadmuseo.es/
+LOCATION:Nomad Museo Inmersivo - Gran Vía\, 78\, Madrid\, 28013
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dorothy Iannone. Una y otra vez
@@ -985,15 +983,16 @@ DESCRIPTION:Exposición fotográfica que recorre las dos décadas de vida
 LOCATION:Casa Árabe - de Alcalá\, 62\, Madrid\, 28009
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Todo empieza con ausencia. Marian Carrasquero
+SUMMARY:Arcade Origins: el comienzo de la industria del videojuego
 DTSTART;TZID=Europe/Madrid:20260417T000000
-DTEND;TZID=Europe/Madrid:20260530T000000
-UID:0d3a2b7a9c5a1bbf747295adf2e9b81af464dec0bec0ba869c514356f9510780
+DTEND;TZID=Europe/Madrid:20260621T000000
+UID:2e8b846737eab8f2b63751e9353eb1f742394a9931ea713d6e80cd198571a6f5
 CATEGORIES:exhibition
-DESCRIPTION:La fotoperiodista venezolana muestra varias fotografías tomad
- as por el continente americano entre 2023 y 2025 (Casa América. Hasta 30 
- may).\n\nhttps://www.casamerica.es/exposiciones/todo-empieza-con-ausencia
-LOCATION:Casa de América - de Cibeles\, 2\, Madrid\, 28014
+DESCRIPTION:Exposición que recorre la historia del videojuego\, desde sus
+  inicios hasta la actualidad (OXO. Museo del Videjuego en Madrid. Hasta 21
+  junio).\n\nhttps://oxomuseomadrid.com/exposicion-arcade-origins/
+LOCATION:OXO. Museo del Videojuego en Madrid - del Postigo de San Martín\
+ , 8\, Madrid\, 28013
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vitrina CERO. ¿Verdadero o falso? La ficción de la autenticidad 
@@ -1700,17 +1699,6 @@ DESCRIPTION:Muestra fotográfica que reúne 22 instantáneas de la Agencia
  /madrid-rememora-las-visitas-de-juan-pablo-ii-y-benedicto-xvi-con-una-mues
  tra-fotografica-en-recoletos/
 LOCATION:Paseo de Recoletos - de Recoletos\, s/n\, Madrid\, 28014
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Embracing Carabanchel
-DTSTART;TZID=Europe/Madrid:20260526T000000
-DTEND;TZID=Europe/Madrid:20260530T000000
-UID:de428732a67624e860abba2fe2de176e9dd8abb1f382a8d9d12012251ed7263c
-CATEGORIES:exhibition
-DESCRIPTION:El pintor abstracto holandés afincado en Tarragona Karel Stoo
- p presenta sus nuevas obras en esta muestra (Galería Nueva. 26 a 30 mayo)
- .\n\nhttps://gz-free.com/carabanchel.html
-LOCATION:Madrid - C. de Alejandro Sánchez\, 94\, Madrid\, 28019
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ewa Juszkiewicz
