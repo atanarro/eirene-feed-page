@@ -2,56 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Recital piano Montserrat Pérez Carrión
-DTSTART;TZID=Europe/Madrid:20260531T120000
-DTEND;TZID=Europe/Madrid:20260531T120000
-UID:6a8a1f1270976b44c8703a81daa12e6905ba6de10b4b9135ef689ef2cbc0dfc6
-CATEGORIES:music
-DESCRIPTION:Sección de Música. Cátedra Mayor. 12:00h. Currículum y pro
- grama (ver)\n\nhttps://ateneodemadrid.com/evento/recital-piano-montserrat-
- perez-carrion/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VILLAMOLINOS matinés musicales
-DTSTART;TZID=Europe/Madrid:20260531T130000
-UID:8180f40a06bc5272d70a3980c4c879337d17c0f2a8b7cedfb4bd3b4238a65e07
-CATEGORIES:music
-DESCRIPTION:Concierto / Jazz\n\nhttps://salavillanos.es/evento/villamolino
- s-matines-musicales-8/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sir Charles + 3 de aquí
-DTSTART;TZID=Europe/Madrid:20260531T200000
-DTEND;TZID=Europe/Madrid:20260531T200000
-UID:b2c836a01df8ab10e38c4f63459fa9e0d8f5033bce0251e4322dd15f5ca795ff
-CATEGORIES:music
-DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
-  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
- s://ateneodemadrid.com/evento/sir-charles-3-de-aqui/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:R01 – Dime Si Vas A Venir Tour
-DTSTART;TZID=Europe/Madrid:20260531T210000
-UID:e64e7faf08086b9bc291ac2287499392b257f3e360b07025de605a0d3e994eac
-CATEGORIES:music
-DESCRIPTION:Concierto / Pop / Rock\n\nhttps://salavillanos.es/evento/r01-d
- ime-si-vas-a-venir-tour/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rata Blanca
-DTSTART;TZID=Europe/Madrid:20260531T210000
-UID:c2a9acf461fe71d212b309e37fd947ba683c8657cd572dbbb1cbee813922cb0e
-CATEGORIES:music
-DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://www.entradas.com/event/r
- ata-blanca-gira-espana-2026-sala-la-riviera-20771997/?affiliate=RIV
-LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
- id
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Flamenco Jazz Company
 DTSTART;TZID=Europe/Madrid:20260601T200000
 DTEND;TZID=Europe/Madrid:20260602T200000
@@ -184,6 +134,22 @@ DESCRIPTION:Concierto para niños y niñas a los que les gusta pintar y ba
 LOCATION:Sala Mirador - Calle Doctor Fourquet\, 31\, 28012 Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:SE TRASLADA AL 22 DE NOVIEMBRE "Cantar del Alma". Ciclo de Concier
+ tos Manuel de Falla
+DTSTART;TZID=Europe/Madrid:20260606T123000
+DTEND;TZID=Europe/Madrid:20260606T123000
+UID:c215f70152990338e4208c3ff0ce0f49b3dfd6dd67a3d6ffd8c3e2145e7bdd47
+CATEGORIES:music
+DESCRIPTION:Las entradas se pueden adquirir en este enlace\, o en la taqui
+ lla del Ateneo el mismo día del concierto desde las 11:15h. El precio es 
+ de 19€ (13€ para los socios del Ateneo de Madrid). No son numeradas y
+  no se admite tarjeta de crédito\, solo efectivo. Información y program
+ a (ver).  \n \nLaura Fdez. Alcalde\, soprano e Irene de Juan Bernabeu\, p
+ iano. Cátedra Mayor. 12:30h.\n\nhttps://ateneodemadrid.com/evento/cantar-
+ del-alma-ciclo-de-conciertos-manuel-de-falla/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Gran Fiesta De Verano De Animal Jazz
 DTSTART;TZID=Europe/Madrid:20260606T123000
 UID:cc0a8f96ba3f44004c9fec7a5179e4c9dcdb8bcb1b303154111de253af845a8a
@@ -260,6 +226,17 @@ CATEGORIES:music
 DESCRIPTION:Concierto / Jazz\n\nhttps://salavillanos.es/evento/dos-de-tres
  -big-band/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Canal Street Jazz Band
+DTSTART;TZID=Europe/Madrid:20260607T200000
+DTEND;TZID=Europe/Madrid:20260607T200000
+UID:8da8d06e726a8ee2fac915d8742f4f0530abd403defbe8dddbabe4d8f3bc9641
+CATEGORIES:music
+DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
+  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
+ s://ateneodemadrid.com/evento/canal-street-jazz-band/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Eliades Ochoa
@@ -642,5 +619,23 @@ CATEGORIES:music
 DESCRIPTION:Concierto / Villanos del Jazz\n\nhttps://salavillanos.es/event
  o/busty-and-the-bass/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:John Primer And Giles Robson
+DTSTART;TZID=Europe/Madrid:20260630T203000
+UID:e73b16afda50610b56fb482557d615b3860674b6c01df1acb96437efaf81fa09
+CATEGORIES:music
+DESCRIPTION:Concierto / Soul & R&B\n\nhttps://salavillanos.es/evento/john-
+ primer-and-giles-robson/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tokischa
+DTSTART;TZID=Europe/Madrid:20260630T210000
+UID:1d61d67c2b809450722fe5aafee33bdccbbc7da0e718b3cf314d46bb8860c4a8
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://feverup.com/m/601747
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
 END:VEVENT
 END:VCALENDAR
