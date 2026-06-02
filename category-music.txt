@@ -1,18 +1,7 @@
 Eirene feed debug
-Total events: 59
+Total events: 61
 
-[1] Flamenco Jazz Company
-  id: d27a7b5e9714426fd0031a122e312fccb3bf7ae6cb057cb2612340091119c936
-  start: 2026-06-01T20:00:00+02:00
-  end: 2026-06-02T20:00:00+02:00
-  category: music
-  source: ateneo_madrid
-  location: Ateneo de Madrid - C. del Prado, 21, Madrid
-  coordinates: 40.415242, -3.697079
-  url: https://ateneodemadrid.com/evento/flamenco-jazz-company/
-  description: Información y entradas (aquí). Socios, código descuento en el Área del Socio. Santa Catalina, 10. Pases: 20:00h. y 22:00h.
-
-[2] The Dip
+[1] The Dip
   id: 67a5c68c098bf631fff2235961bac86613f6284b2088b44a1742ead870e97566
   start: 2026-06-02T20:30:00+02:00
   end: N/A
@@ -23,7 +12,7 @@ Total events: 59
   url: https://salavillanos.es/evento/the-dip/
   description: Concierto / Villanos del Jazz
 
-[3] Capítulo XXXII: Recuerdo de Aram Slobodian (una poética de la desaparición)
+[2] Capítulo XXXII: Recuerdo de Aram Slobodian (una poética de la desaparición)
   id: 5813a7fa75ffc733aa6407bcf9666f14731ce0cec636e27afaf65088fb79899c
   start: 2026-06-03T12:00:00+02:00
   end: N/A
@@ -33,6 +22,17 @@ Total events: 59
   coordinates: 40.392398, -3.697762
   url: https://www.mataderomadrid.org/programacion/capitulo-xxxii-recuerdo-de-aram-slobodian-una-poetica-de-la-desaparicion
   description: La breve estancia en la ciudad de Cuenca —posiblemente en torno a 1963— del fantástico compositor de origen armenio Aram Slobodian (que supuestamente vivió entre 1918 y 1964, aunque esas fechas no han podido ser verificadas) ha tenido profundas consecuencias en el devenir de las músicas experimentales de nuestro país. Pese a la relativa escasez de pruebas documentales sobre esa etapa conquense (y, en realidad, sobre tantos otros aspectos de la vida y de la obra de Slobodian), son numerosos los artistas sonoros españoles que le han rendido homenaje dedicándole obras musicales. Así lo comprobaremos en la última sesión de escucha de esta temporada. Miguel Álvarez-Fernández, comisario del ciclo
+
+[3] MABUS «entre Voces»
+  id: e54c761043ec044ba87900e3ee13bea7a0f537bffb30ee8654d4525007bab7c9
+  start: 2026-06-03T19:00:00+02:00
+  end: N/A
+  category: music
+  source: sala_villanos
+  location: Sala Villanos - Calle de Bernardino Obregon, 18, Madrid
+  coordinates: 40.4039493, -3.7002239
+  url: https://salavillanos.es/evento/mabus-entre-voces/
+  description: Concierto / Urban / Pop
 
 [4] Arahi & Machado Quintet
   id: 285a7facdddceeb9b7adb8e744c278aa1e713b1a4f4a4375d0555832938a2657
@@ -54,7 +54,7 @@ Total events: 59
   location: Sala La Riviera - Paseo Bajo de la Virgen del Puerto, s/n, Madrid
   coordinates: 40.4129548, -3.7221336
   url: https://feverup.com/m/519684
-  description: Apertura Puertas: 19:30 pm
+  description: Apertura Puertas: 19:00 pm
 
 [6] La Fiesta Trifasica: Bakandeya, El Sombrero Del Abuelo Y Kike M
   id: 27ad704d9d257b64743c3a348f6639c9f6544f3a08c58d72806a1e3f3c6c0a43
@@ -111,26 +111,7 @@ Total events: 59
   url: https://gruta77.com/events/quartet-tarantino-garage-moon/var/ri-0.l-L2
   description: Precio de las entradas: 13€/16€ Entradas a la venta en movingtickets Bio/enlaces bandas: Quartet Tarantino_facebook + Quartet Tarantino_twitter + Quartet Tarantino_instagram Garage Moon_instagram Más información: Quartet Tarantino toman como
 
-[11] Concierto para niños y niñas a los que les gusta pintar y bailar
-  id: 4d3d032c5362b306631835b719efc5b77b4e2096d6f7ad49298f7e87d02ad68e
-  start: 2026-06-06T12:00:00+02:00
-  end: N/A
-  category: music
-  source: la_mirador
-  location: Sala Mirador - Calle Doctor Fourquet, 31, 28012 Madrid
-  coordinates: 40.4070512, -3.6988713
-  url: https://lamirador.com/funcion?nombre=concierto-para-ninos-y-ninas-a-los-que-les-gusta-pintar-y-bailar-2023
-  description: Concierto para niños y niñas a los que les gusta pintar y bailar
-
-Siempre que se anuncia un nuevo concierto de piano para niños y niñas a los/as que les gusta el piano, las entradas vuelan.
-
-En esta ocasión, incluimos más ramas artísticas, como la pintura y el baile. La música es aprendizaje, creatividad, crecimiento y libertad.
-
-El público, también el adulto, disfrutará de ver en escena a Alejandro Pelayo y participará con él dentro del propio escenario.
-
-Conocido por su faceta de compositor, pianista y productor del grupo Marlango (integrado por la actriz y cantante Leonor Watling y Pelayo) y tras su publicación en solitario de cuatro discos de piano, vuelve con este espectáculo dedicado a los más pequeños con piezas de piano para niños y niñas, aliñado de juegos participativos y mucha imaginación.
-
-[12] SE TRASLADA AL 22 DE NOVIEMBRE "Cantar del Alma". Ciclo de Conciertos Manuel de Falla
+[11] SE TRASLADA AL 22 DE NOVIEMBRE "Cantar del Alma". Ciclo de Conciertos Manuel de Falla
   id: c215f70152990338e4208c3ff0ce0f49b3dfd6dd67a3d6ffd8c3e2145e7bdd47
   start: 2026-06-06T12:30:00+02:00
   end: 2026-06-06T12:30:00+02:00
@@ -143,7 +124,7 @@ Conocido por su faceta de compositor, pianista y productor del grupo Marlango (i
  
 Laura Fdez. Alcalde, soprano e Irene de Juan Bernabeu, piano. Cátedra Mayor. 12:30h.
 
-[13] Gran Fiesta De Verano De Animal Jazz
+[12] Gran Fiesta De Verano De Animal Jazz
   id: cc0a8f96ba3f44004c9fec7a5179e4c9dcdb8bcb1b303154111de253af845a8a
   start: 2026-06-06T12:30:00+02:00
   end: N/A
@@ -154,7 +135,7 @@ Laura Fdez. Alcalde, soprano e Irene de Juan Bernabeu, piano. Cátedra Mayor. 12
   url: https://salavillanos.es/evento/gran-fiesta-de-verano-de-animal-jazz/
   description: Concierto / Jazz
 
-[14] Hafa Afrosweet
+[13] Hafa Afrosweet
   id: 0d7ce8b1a84070b0624f44e4967f9a1668ff4bd9a32fe0d3eae03730c481e9bb
   start: 2026-06-06T21:00:00+02:00
   end: N/A
@@ -165,7 +146,7 @@ Laura Fdez. Alcalde, soprano e Irene de Juan Bernabeu, piano. Cátedra Mayor. 12
   url: https://salavillanos.es/evento/hafa-afrosweet/
   description: Concierto
 
-[15] Hechizo - Homenaje a Héroes del Silencio
+[14] Hechizo - Homenaje a Héroes del Silencio
   id: 80d8322864e0a03174b514fa5cf824b2c60475211cd44e093a22053257920e84
   start: 2026-06-06T21:00:00+02:00
   end: N/A
@@ -176,7 +157,7 @@ Laura Fdez. Alcalde, soprano e Irene de Juan Bernabeu, piano. Cátedra Mayor. 12
   url: https://www.entradas.com/artist/hechizo-homenaje-a-heroes-del-silencio/?Affiliate=RIV
   description: Apertura Puertas: 19:30 pm
 
-[16] Álvaro Montero Rock + Buhonegro
+[15] Álvaro Montero Rock + Buhonegro
   id: 361f7c81eba65b469a10b2a7169f579de28c0730b3b2616d7bb177761c5ef61f
   start: 2026-06-06T21:30:00+02:00
   end: N/A
@@ -187,7 +168,7 @@ Laura Fdez. Alcalde, soprano e Irene de Juan Bernabeu, piano. Cátedra Mayor. 12
   url: https://gruta77.com/events/alvaro-montero-buhonegro/var/ri-0.l-L2
   description: Precio de las entradas: 7€/10€ Entradas a la venta en movingtickets Bio/enlaces bandas: Buhonegro_instagram Álvaro Montero Rock_instagram Más información: Buhonegro va de juntarse en un local con amiguis a tocar, a merendar y a
 
-[17] Mount Kimbie (Dj Set) + Senda Fatal
+[16] Mount Kimbie (Dj Set) + Senda Fatal
   id: be2ea7b81d4245a5dfa848f8fd205980a056c936e9dc9c6aef10d8381f8efc9d
   start: 2026-06-06T23:59:00+02:00
   end: N/A
@@ -198,7 +179,7 @@ Laura Fdez. Alcalde, soprano e Irene de Juan Bernabeu, piano. Cátedra Mayor. 12
   url: https://salavillanos.es/evento/mount-kimbie-dj-set-senda-fatal/
   description: Club
 
-[18] Concierto para niños y niñas a los que les gusta pintar y bailar
+[17] Concierto para niños y niñas a los que les gusta pintar y bailar
   id: 6f04242a5b833067c9f9efa9c263f28f9bd1e65692131c4f31b31a67a2df166a
   start: 2026-06-07T12:00:00+02:00
   end: N/A
@@ -217,7 +198,7 @@ El público, también el adulto, disfrutará de ver en escena a Alejandro Pelayo
 
 Conocido por su faceta de compositor, pianista y productor del grupo Marlango (integrado por la actriz y cantante Leonor Watling y Pelayo) y tras su publicación en solitario de cuatro discos de piano, vuelve con este espectáculo dedicado a los más pequeños con piezas de piano para niños y niñas, aliñado de juegos participativos y mucha imaginación.
 
-[19] 2D3 BIG BAND plays CENTRAL PARK NORTH
+[18] 2D3 BIG BAND plays CENTRAL PARK NORTH
   id: 5b78ff689b7c05b192b96d2c96d351c87064c8b17c68f54743ebc4aefb70fb34
   start: 2026-06-07T13:00:00+02:00
   end: N/A
@@ -228,7 +209,7 @@ Conocido por su faceta de compositor, pianista y productor del grupo Marlango (i
   url: https://salavillanos.es/evento/dos-de-tres-big-band/
   description: Concierto / Jazz
 
-[20] Canal Street Jazz Band
+[19] Canal Street Jazz Band
   id: 8da8d06e726a8ee2fac915d8742f4f0530abd403defbe8dddbabe4d8f3bc9641
   start: 2026-06-07T20:00:00+02:00
   end: 2026-06-07T20:00:00+02:00
@@ -237,6 +218,17 @@ Conocido por su faceta de compositor, pianista y productor del grupo Marlango (i
   location: Ateneo de Madrid - C. del Prado, 21, Madrid
   coordinates: 40.415242, -3.697079
   url: https://ateneodemadrid.com/evento/canal-street-jazz-band/
+  description: Información y entradas (aquí). Socios, código descuento en el Área del Socio. Santa Catalina, 10. Pases: 20:00h. y 22:00h.
+
+[20] Canal Street Jazz Band
+  id: 061a9dec1ddf13471cb5cb576c8107b015bca81434611ded34849e449c443ca3
+  start: 2026-06-07T20:00:00+02:00
+  end: 2026-06-07T20:00:00+02:00
+  category: music
+  source: ateneo_madrid
+  location: Ateneo de Madrid - C. del Prado, 21, Madrid
+  coordinates: 40.415242, -3.697079
+  url: https://ateneodemadrid.com/evento/canal-street-jazz-band-2/
   description: Información y entradas (aquí). Socios, código descuento en el Área del Socio. Santa Catalina, 10. Pases: 20:00h. y 22:00h.
 
 [21] Eliades Ochoa
@@ -481,8 +473,8 @@ Conocido por su faceta de compositor, pianista y productor del grupo Marlango (i
   url: https://salavillanos.es/evento/olaya-sound-system/
   description: Concierto / Latin / Pop
 
-[43] Novela gráfica de Standstill
-  id: b6c9890ef538ac1ba13ad6c9f60a4b00a807659915ddbbe9684f2e5376d1a5b8
+[43] Novela Grafica De Standstill
+  id: c9551266d622eeaf3e12a8ab604ceb76e5e8c83e2e878c47017d25a56f7c2161
   start: 2026-06-20T19:00:00+02:00
   end: N/A
   category: music
@@ -666,4 +658,26 @@ Conocido por su faceta de compositor, pianista y productor del grupo Marlango (i
   location: Sala La Riviera - Paseo Bajo de la Virgen del Puerto, s/n, Madrid
   coordinates: 40.4129548, -3.7221336
   url: https://feverup.com/m/601747
+  description: Apertura Puertas: 19:30 pm
+
+[60] Ghost-Note
+  id: d8cc9d7824a48d1ca438e8f4fb73d9ca689757792bda2d6103716069c9a125e9
+  start: 2026-07-01T21:00:00+02:00
+  end: N/A
+  category: music
+  source: sala_villanos
+  location: Sala Villanos - Calle de Bernardino Obregon, 18, Madrid
+  coordinates: 40.4039493, -3.7002239
+  url: https://salavillanos.es/evento/ghost-note/
+  description: Concierto / Villanos del Jazz
+
+[61] Pennywise + End It
+  id: 8f2a406d5c59de43aaa711c34f3aa8458fa71c3a1c4efead7b9bc33c1226005c
+  start: 2026-07-01T21:00:00+02:00
+  end: N/A
+  category: music
+  source: sala_la_riviera
+  location: Sala La Riviera - Paseo Bajo de la Virgen del Puerto, s/n, Madrid
+  coordinates: 40.4129548, -3.7221336
+  url: https://tickets.hfmncrew.com/web/?menu=1162&pagina=entradas&item=58898&siteID=hfmncrew
   description: Apertura Puertas: 19:30 pm

@@ -2,75 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Leonardo en escena
-DTSTART;TZID=Europe/Madrid:20260601T180000
-DTEND;TZID=Europe/Madrid:20260601T180000
-UID:b67965d03758656c72e6e49a0d853ce70161257b6ad702e0b5867890229e2a9a
-CATEGORIES:talk
-DESCRIPTION:Sección de Literatura. Partiendo de una obra de Carlo Ferrucc
- i. Interviene: Clara Janés y Jenaro Talens. Presenta: Miguel Losada. Sala
-  Pérez Galdós. 18:00h.\n\nhttps://ateneodemadrid.com/evento/leonardo-en-
- escena/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bad Bunny y la voz del  movimiento independentista de Puerto Rico
-DTSTART;TZID=Europe/Madrid:20260601T183000
-DTEND;TZID=Europe/Madrid:20260601T183000
-UID:af224dbe813d2466442aebb429ae07f594bc377519d3ddf353561aadfad55e0c
-CATEGORIES:talk
-DESCRIPTION:Sección Iberoamericana\, Económicas y Boricuas Unidos en la 
- Diáspora PR (BUDPR). Intervienen: Ernesto Chévere\, profesor de Sociolog
- ía\, Historia\, Políticas y Humanidades en IE University y Abderramen Br
- enda\, doctor en Ciencias Sociales por la Universidad de Salamanca\; y Glo
- ria García Arambarry\, PhD en Artes Escénicas y profesora en TAI Arts. M
- odera: Alanis Morales. Presenta: José María Goicoechea. Salón Ciudad de
-  Úbeda. 18:30h.\n\nhttps://ateneodemadrid.com/evento/bad-bunny-y-la-voz-d
- el-movimiento-independentista-de-puerto-rico/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELADO. Presentación del libro "Tiempo y luz. Escritos sobre c
- ine" de María Zambrano
-DTSTART;TZID=Europe/Madrid:20260601T190000
-DTEND;TZID=Europe/Madrid:20260601T190000
-UID:a2e475e2299fe72ba58a9aaeca03a6c637f2eb39528d534cce685ddc4e7d3555
-CATEGORIES:talk
-DESCRIPTION:Sección de Cine. Intervienen: José María Mouriño\, editor 
- y Javier Martín Domínguez. Sala Larra. 19:00h.\n\nhttps://ateneodemadrid
- .com/evento/presentacion-del-libro-tiempo-y-luz-escritos-sobre-cine-de-mar
- ia-zambrano/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Proyección y coloquio "El asombro"
-DTSTART;TZID=Europe/Madrid:20260601T193000
-DTEND;TZID=Europe/Madrid:20260601T193000
-UID:5ba63cbc36aca155dd7585b5a8b9ea3d5d44a8ca78b039d588af7656cf700f09
-CATEGORIES:talk
-DESCRIPTION:Sección de Cine. Con: Laura Guerricaechevarría\, directora\;
-  Ramón Mayrata\, historiador de Magia y cofundador junto con Tamariz de l
- a editorial Frakson\, que realiza el análisis del medio artístico y su d
- esarrollo histórico dentro del propio documental\; y Ricardo Sánchez\, a
- utor de varios libros especializados sobre el tema y uno de los magos entr
- evistados\, quien estuvo a cargo del rodaje técnico de los juegos de magi
- a. Cátedra Mayor. 19:30h.\n\nhttps://ateneodemadrid.com/evento/proyeccion
- -y-coloquio-el-asombro/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Presentación del libro "Comunidades energéticas"
-DTSTART;TZID=Europe/Madrid:20260601T193000
-DTEND;TZID=Europe/Madrid:20260601T193000
-UID:4b13fad0036579e69398c1c99c03240383970b7ec064ac20d853fdd906f75585
-CATEGORIES:talk
-DESCRIPTION:Sección de Medio Ambiente. Intervienen los autores: Joan Herr
- era  y Jorge Andrey. Modera: Hàjar El Mansouri. Sala Ramón y Cajal. 19
- :30h.\n\nhttps://ateneodemadrid.com/evento/presentacion-del-libro-comunida
- des-energeticas/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Revelar la imagen: Cultivar el arte sostenible [Charla inaugural '
  Lo que las flores revelan']
 DTSTART;TZID=Europe/Madrid:20260602T180000
@@ -234,6 +165,20 @@ DESCRIPTION:Agrupación Estudios Pictóricos Goya. Intervienen: Eduardo Mo
  nteaguz y Mayte Pedraza. Presenta: Carmen Martínez Coello. Sala Larra. 19
  :30h.\n\nhttps://ateneodemadrid.com/evento/historia-de-la-pintura-realista
  /
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Presentación del libro "Els catalans en la guerra  freda cultural
+  i l’europeisme"
+DTSTART;TZID=Europe/Madrid:20260602T200000
+DTEND;TZID=Europe/Madrid:20260602T200000
+UID:fb52b2c1dd5f321e02d8a86ee149b7e531eb105e49a37f739b3ce3466c1c96f3
+CATEGORIES:talk
+DESCRIPTION:Sección de Ciencias Históricas. Intervienen: Enric Juliana\,
+  periodista\; Concha Gutiérrez del Castillo\, Jordi Xuclà\, autor y prof
+ esor de Relaciones Internacionales. Salón Ciudad de Úbeda. 20:00h.\n\nht
+ tps://ateneodemadrid.com/evento/presentacion-del-libro-els-catalans-en-la-
+ guerra-freda-cultural-i-leuropeisme/
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -621,25 +566,57 @@ DESCRIPTION:Caldo de Ojo x Migra la food es un formato videopodcast donde
 LOCATION:Cocina Plató - C. de Juana Dona\, 5\, Arganzuela\, 28045 Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Programa InPulse: Taller Práctica de vacío fértil con María Su
- árez.
-DTSTART;TZID=Europe/Madrid:20260609T093000
-DTEND;TZID=Europe/Madrid:20260609T103000
-UID:8e02c8af452392cbffc37ce194d6777339ff5a9a61d60faf979c11211b6aa328
+SUMMARY:De la "Star Chamber" a la sentencia del Fiscal General
+DTSTART;TZID=Europe/Madrid:20260608T183000
+DTEND;TZID=Europe/Madrid:20260608T183000
+UID:1def9a3521197792a04018721acdd2b8a6c762532c102575d7338f5dcdbb72a0
 CATEGORIES:talk
-DESCRIPTION:Fecha: 9/06/2026\n\nHorario: 9:30- 10:30\n\nLugar: Infinito De
- licias\, Sala Marina\n\nTe invitamos a una práctica de visualización gui
- ada de la mano de\n\nMaría Suárez\n\n(nuestra comisaria de emprendimient
- o y fundadora de Sabáticus) para explorar el vacío fértil:\n\nese espac
- io de pausa donde emergen nuevas ideas\, sentidos y posibilidades.\n\nUna 
- experiencia breve y cuidada para soltar inercias\, escuchar lo que aún no
-  tiene forma y abrir procesos creativos desde otro lugar.\n\nPensada para 
- personas que quieran reconectar con su intuición y su potencia creadora. 
- Un encuentro para habitar el no-saber y dejar que algo nuevo aparezca.\n\n
- Se trata de una práctica de 15 minutos acompañada de un coloquio con el 
- grupo.\n\n¡Te esperamos!\n\nhttps://www.infinitodelicias.com/es/agenda/ta
- ller-practica-maria-suarez
-LOCATION:Sala Marina - C. de Juana Dona\, 5\, Arganzuela\, 28045 Madrid
+DESCRIPTION:Agrupación Agustín Argüelles\, Agrupación Ángel Garma\, A
+ rco Europeo Progresista y Sección de Ciencias Jurídicas y Políticas. In
+ tervienen: Antonio Cuerda Riezu\, catedrático de Derecho Penal y exletrad
+ o del Tribunal Constitucional\; José Antonio García Regueiro\, letrado d
+ el Tribunal de Cuentas y exletrado del Tribunal Constitucional. Presenta: 
+ Aída Castellanos Cornide\, licenciada en Ciencias Políticas. Modera: Bel
+ én Rico García\, vicepresidenta de Arco Europeo Progresista. Sala Pérez
+  Galdós. 18:30h.\n\nhttps://ateneodemadrid.com/evento/de-la-star-chamber-
+ a-la-sentencia-del-fiscal-general/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Juan Díaz de Solís
+DTSTART;TZID=Europe/Madrid:20260608T183000
+DTEND;TZID=Europe/Madrid:20260608T183000
+UID:72ed90dbf160dfabe6b5d01cc438fc76cadbc7490f5cafdd19cba87bd29d222d
+CATEGORIES:talk
+DESCRIPTION:Agrupación de Geografía\, exploración y viajes Álvar Núñ
+ ez Cabeza de Vaca. Interviene: Asunción Sordo\, experta del Museo Naval. 
+ Presenta: Pío Cabanillas. Sala Pérez Galdós. 18:30h.\n\nhttps://ateneod
+ emadrid.com/evento/juan-diaz-de-solis/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Representación teatral "Matarratas La Pureza"
+DTSTART;TZID=Europe/Madrid:20260608T190000
+DTEND;TZID=Europe/Madrid:20260608T190000
+UID:973adb3dd13ebc0cd61fac65f5d3b741cfe590379cf8d4fb0a27294e07efdd89
+CATEGORIES:talk
+DESCRIPTION:Sección de Teatro. Reparto: Manu Hernández\, Mónica Caballe
+ ro\, Esther del Cura y Natalia del Álamo. Dirección: Miguel Rellán. Dra
+ maturgia: Helena Merino. Cátedra Mayor. 19:00h.\n\nhttps://ateneodemadrid
+ .com/evento/representacion-teatral-matarratas-la-pureza/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ciudades devoradoras
+DTSTART;TZID=Europe/Madrid:20260608T193000
+DTEND;TZID=Europe/Madrid:20260608T193000
+UID:a585bf2cc74b2a135812d61b13fea39730d3b30923e2568c1abc8862d90bf64f
+CATEGORIES:talk
+DESCRIPTION:Sección de Filosofía. Ciclo Sin tiempo: filosofía de la vid
+ a apresurada. Reflexiones sobre amistad\, familia\, ciudad y comunidad en 
+ sociedades hiperactivas. Tercera sesión. Sala Larra. 19:30h.\n\nhttps://a
+ teneodemadrid.com/evento/ciudades-devoradoras/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Conferencia: «Desafíos de la crónica de viaje» y presentación

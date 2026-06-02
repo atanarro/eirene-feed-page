@@ -2,17 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Flamenco Jazz Company
-DTSTART;TZID=Europe/Madrid:20260601T200000
-DTEND;TZID=Europe/Madrid:20260602T200000
-UID:d27a7b5e9714426fd0031a122e312fccb3bf7ae6cb057cb2612340091119c936
-CATEGORIES:music
-DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
-  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
- s://ateneodemadrid.com/evento/flamenco-jazz-company/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Dip
 DTSTART;TZID=Europe/Madrid:20260602T203000
 UID:67a5c68c098bf631fff2235961bac86613f6284b2088b44a1742ead870e97566
@@ -42,6 +31,15 @@ DESCRIPTION:La breve estancia en la ciudad de Cuenca —posiblemente en to
 LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:MABUS «entre Voces»
+DTSTART;TZID=Europe/Madrid:20260603T190000
+UID:e54c761043ec044ba87900e3ee13bea7a0f537bffb30ee8654d4525007bab7c9
+CATEGORIES:music
+DESCRIPTION:Concierto / Urban / Pop\n\nhttps://salavillanos.es/evento/mabu
+ s-entre-voces/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Arahi & Machado Quintet
 DTSTART;TZID=Europe/Madrid:20260603T200000
 DTEND;TZID=Europe/Madrid:20260604T200000
@@ -57,7 +55,7 @@ SUMMARY:Clutch + Bokassa
 DTSTART;TZID=Europe/Madrid:20260604T200000
 UID:1deae84a204d8293594878240fccb62443f1e0546d01010489bc68b0c771f7be
 CATEGORIES:music
-DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://feverup.com/m/519684
+DESCRIPTION:Apertura Puertas: 19:00 pm\n\nhttps://feverup.com/m/519684
 LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
  id
 END:VEVENT
@@ -111,27 +109,6 @@ DESCRIPTION:Precio de las entradas: 13€/16€ Entradas a la venta en mov
  mación: Quartet Tarantino toman como\n\nhttps://gruta77.com/events/quarte
  t-tarantino-garage-moon/var/ri-0.l-L2
 LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Concierto para niños y niñas a los que les gusta pintar y bailar
-DTSTART;TZID=Europe/Madrid:20260606T120000
-UID:4d3d032c5362b306631835b719efc5b77b4e2096d6f7ad49298f7e87d02ad68e
-CATEGORIES:music
-DESCRIPTION:Concierto para niños y niñas a los que les gusta pintar y ba
- ilar\n\nSiempre que se anuncia un nuevo concierto de piano para niños y n
- iñas a los/as que les gusta el piano\, las entradas vuelan.\n\nEn esta oc
- asión\, incluimos más ramas artísticas\, como la pintura y el baile. La
-  música es aprendizaje\, creatividad\, crecimiento y libertad.\n\nEl púb
- lico\, también el adulto\, disfrutará de ver en escena a Alejandro Pelay
- o y participará con él dentro del propio escenario.\n\nConocido por su f
- aceta de compositor\, pianista y productor del grupo Marlango (integrado p
- or la actriz y cantante Leonor Watling y Pelayo) y tras su publicación en
-  solitario de cuatro discos de piano\, vuelve con este espectáculo dedica
- do a los más pequeños con piezas de piano para niños y niñas\, aliñad
- o de juegos participativos y mucha imaginación.\n\nhttps://lamirador.com/
- funcion?nombre=concierto-para-ninos-y-ninas-a-los-que-les-gusta-pintar-y-b
- ailar-2023
-LOCATION:Sala Mirador - Calle Doctor Fourquet\, 31\, 28012 Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SE TRASLADA AL 22 DE NOVIEMBRE "Cantar del Alma". Ciclo de Concier
@@ -236,6 +213,17 @@ CATEGORIES:music
 DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
   el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
  s://ateneodemadrid.com/evento/canal-street-jazz-band/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Canal Street Jazz Band
+DTSTART;TZID=Europe/Madrid:20260607T200000
+DTEND;TZID=Europe/Madrid:20260607T200000
+UID:061a9dec1ddf13471cb5cb576c8107b015bca81434611ded34849e449c443ca3
+CATEGORIES:music
+DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
+  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
+ s://ateneodemadrid.com/evento/canal-street-jazz-band-2/
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -465,9 +453,9 @@ DESCRIPTION:Concierto / Latin / Pop\n\nhttps://salavillanos.es/evento/olay
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Novela gráfica de Standstill
+SUMMARY:Novela Grafica De Standstill
 DTSTART;TZID=Europe/Madrid:20260620T190000
-UID:b6c9890ef538ac1ba13ad6c9f60a4b00a807659915ddbbe9684f2e5376d1a5b8
+UID:c9551266d622eeaf3e12a8ab604ceb76e5e8c83e2e878c47017d25a56f7c2161
 CATEGORIES:music
 DESCRIPTION:Concierto / Pop / Rock\n\nhttps://salavillanos.es/evento/novel
  a-grafica-de-standstill/
@@ -635,6 +623,25 @@ DTSTART;TZID=Europe/Madrid:20260630T210000
 UID:1d61d67c2b809450722fe5aafee33bdccbbc7da0e718b3cf314d46bb8860c4a8
 CATEGORIES:music
 DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://feverup.com/m/601747
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ghost-Note
+DTSTART;TZID=Europe/Madrid:20260701T210000
+UID:d8cc9d7824a48d1ca438e8f4fb73d9ca689757792bda2d6103716069c9a125e9
+CATEGORIES:music
+DESCRIPTION:Concierto / Villanos del Jazz\n\nhttps://salavillanos.es/event
+ o/ghost-note/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pennywise + End It
+DTSTART;TZID=Europe/Madrid:20260701T210000
+UID:8f2a406d5c59de43aaa711c34f3aa8458fa71c3a1c4efead7b9bc33c1226005c
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://tickets.hfmncrew.com/web
+ /?menu=1162&pagina=entradas&item=58898&siteID=hfmncrew
 LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
  id
 END:VEVENT

@@ -309,18 +309,6 @@ DESCRIPTION:La obra de la artista peruana interviene la lona que cubre tem
 LOCATION:Palacio de Cristal - de República de Cuba\, 4\, Madrid\, 28009
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Las raíces de la ciencia
-DTSTART;TZID=Europe/Madrid:20260119T000000
-DTEND;TZID=Europe/Madrid:20260619T000000
-UID:bac1d8f453ebff826a590b407366707f255532828dbc4c2bb83cda77b4ca8acb
-CATEGORIES:exhibition
-DESCRIPTION:Una muestra de aparatos científicos antiguos en el marco sing
- ular de la capilla de los Reales Estudios\, pequeña joya desconocida del 
- Barroco.\n\nhttps://site.educa.madrid.org/ies.sanisidro.madrid/index.php/2
- 026/02/06/las-raices-de-la-ciencia/
-LOCATION:Instituto San Isidro - de Toledo\, 39\, Madrid\, 28005
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Fundación. Marlon de Azambuja
 DTSTART;TZID=Europe/Madrid:20260130T000000
 DTEND;TZID=Europe/Madrid:20260927T000000
@@ -810,17 +798,6 @@ DESCRIPTION:Muestra que conmemora los diez años del fallecimiento del au
  z.es/actividades/exposicion-pelo-de-tormenta-homenaje-francisco-nieva
 LOCATION:Fernán Gómez Centro Cultural de la Villa - de Colón \, 4\, Mad
  rid\, 28001
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Al’Qala. Hilos de Historia
-DTSTART;TZID=Europe/Madrid:20260411T000000
-DTEND;TZID=Europe/Madrid:20260619T000000
-UID:1e135dd3d6cb06d12d767d1e1ab45ed01d4452c1a7822cd9ff71b109e93064ee
-CATEGORIES:exhibition
-DESCRIPTION:Una exposición que reúne una selección de piezas inéditas 
- de museos de Oriente Medio (Real Fábrica de Tapices. Hasta 19 junio).\n\n
- https://realfabricadetapices.com/alqala-hilos-de-historia/
-LOCATION:Real Fábrica de Tapices - Fuenterrabía\, 2\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Antonio Ballester Moreno. El cielo y la tierra
@@ -1519,6 +1496,18 @@ LOCATION:Fundación Casa de México en España - de Alberto Aguilera\, 20\
  , Madrid\, 28015
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Planeta azul ¿Planeta agua?
+DTSTART;TZID=Europe/Madrid:20260522T000000
+DTEND;TZID=Europe/Madrid:20260719T000000
+UID:f7036b29cd0ca3a4ca6f4d435a08c171b0913294337316e0bf8c51d08e6645ad
+CATEGORIES:exhibition
+DESCRIPTION:Instalación artística que invita a reflexionar de forma lúd
+ ica sobre el agua como un bien escaso que debemos cuidar (Puerta del Sol. 
+ Hasta 19 julio).\n\nhttps://www.fundacioncanal.com/material-para-medios/pl
+ aneta-azul-planeta-agua/
+LOCATION:Puerta del Sol - Puerta del Sol\,\, Madrid\, 28013
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:8º Foro de los Artistas de Mónaco en Madrid
 DTSTART;TZID=Europe/Madrid:20260525T000000
 DTEND;TZID=Europe/Madrid:20260613T000000
@@ -1708,6 +1697,21 @@ DESCRIPTION:Exposición donde la artista presenta una instalación sobre l
 LOCATION:Museo del Romanticismo - de San Mateo\, 13\, Madrid\, 28004
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Vitrina 0. Fragmento de la titulatura real de Adijalamani
+DTSTART;TZID=Europe/Madrid:20260602T000000
+DTEND;TZID=Europe/Madrid:20260927T000000
+UID:3aa2d895e69b05153af4fbbf2652c09a02e0dc0831df5ed88ce1cec44518ae57
+CATEGORIES:exhibition
+DESCRIPTION:Muestra de un fragmento de la titulatura real del rey de Meroe
+ \, sucesor del rey Arqamani\, en el siglo II a.C. (Museo de San Isidro. 2 
+ jun a 27 sept).\n\nhttps://www.madrid.es/portales/munimadrid/es/Inicio/Cul
+ tura-ocio-y-deporte/Actividades-y-eventos/Vitrina-0-Fragmento-de-la-titula
+ tura-real-de-Adijalamani/?vgnextfmt=default&vgnextoid=a45e3a908d26e910VgnV
+ CM100000891ecb1aRCRD&vgnextchannel=6381f073808fe410V
+LOCATION:Museo de San Isidro. Los Orígenes de Madrid - de San Andrés\, 2
+ \, Madrid\, 28005
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Exposición "Aún nos queda el alma". Luis Casadevall
 DTSTART;TZID=Europe/Madrid:20260602T120000
 DTEND;TZID=Europe/Madrid:20260614T200000
@@ -1838,10 +1842,10 @@ DESCRIPTION:Exposición colectiva que indaga en el mundo de la fotografía
 LOCATION:Círculo de Bellas Artes - de Alcalá\, 42\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Alejandro Cartagena. Ground Rules
+SUMMARY:Alejandro Cartagena. Ground Rules (PHotoESPAÑA 2026)
 DTSTART;TZID=Europe/Madrid:20260606T000000
 DTEND;TZID=Europe/Madrid:20260830T000000
-UID:3633b465f8b2c11ed9ed9ee7ef55aa3947211479c8281d243d2b75199e516e6b
+UID:a80ecef7c37b48ff7369dcda5e0037af87397ae9dbf59942256693d549746816
 CATEGORIES:exhibition
 DESCRIPTION:Las imágenes del fotógrafo dominicano\, afincado en México\
  , protagonizan esta exposición donde queda patente su mirada crítica y h
@@ -1862,10 +1866,10 @@ DESCRIPTION:El festival PHotoESPAÑA acoge la primera exposición individu
 LOCATION:Museo Lázaro Galdiano - de Serrano\, 122\, Madrid\, 28006
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Richard Avedon. In the American West
+SUMMARY:Richard Avedon. In the American West (PHotoESPAÑA 2026)
 DTSTART;TZID=Europe/Madrid:20260606T000000
 DTEND;TZID=Europe/Madrid:20260830T000000
-UID:7849006d2a9419ba213befd1dfa76a5121100aab293e7b59211111672b44bccc
+UID:f681db67f5a9de1ccdcabbf284f806106d930eee562d011481db4874f71820ab
 CATEGORIES:exhibition
 DESCRIPTION:El oeste americano retratado a través de las imágenes del de
  stacado fotógrafo neoyorquino (Fundación MAPFRE. Sala Recoletos. 6 jun a
