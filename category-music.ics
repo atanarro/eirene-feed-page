@@ -2,15 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:The Dip
-DTSTART;TZID=Europe/Madrid:20260602T203000
-UID:67a5c68c098bf631fff2235961bac86613f6284b2088b44a1742ead870e97566
-CATEGORIES:music
-DESCRIPTION:Concierto / Villanos del Jazz\n\nhttps://salavillanos.es/event
- o/the-dip/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Capítulo XXXII: Recuerdo de Aram Slobodian (una poética de la de
  saparición)
 DTSTART;TZID=Europe/Madrid:20260603T120000
@@ -175,27 +166,6 @@ DESCRIPTION:Club\n\nhttps://salavillanos.es/evento/mount-kimbie-dj-set-sen
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Concierto para niños y niñas a los que les gusta pintar y bailar
-DTSTART;TZID=Europe/Madrid:20260607T120000
-UID:6f04242a5b833067c9f9efa9c263f28f9bd1e65692131c4f31b31a67a2df166a
-CATEGORIES:music
-DESCRIPTION:Concierto para niños y niñas a los que les gusta pintar y ba
- ilar\n\nSiempre que se anuncia un nuevo concierto de piano para niños y n
- iñas a los/as que les gusta el piano\, las entradas vuelan.\n\nEn esta oc
- asión\, incluimos más ramas artísticas\, como la pintura y el baile. La
-  música es aprendizaje\, creatividad\, crecimiento y libertad.\n\nEl púb
- lico\, también el adulto\, disfrutará de ver en escena a Alejandro Pelay
- o y participará con él dentro del propio escenario.\n\nConocido por su f
- aceta de compositor\, pianista y productor del grupo Marlango (integrado p
- or la actriz y cantante Leonor Watling y Pelayo) y tras su publicación en
-  solitario de cuatro discos de piano\, vuelve con este espectáculo dedica
- do a los más pequeños con piezas de piano para niños y niñas\, aliñad
- o de juegos participativos y mucha imaginación.\n\nhttps://lamirador.com/
- funcion?nombre=concierto-para-ninos-y-ninas-a-los-que-les-gusta-pintar-y-b
- ailar-2023
-LOCATION:Sala Mirador - Calle Doctor Fourquet\, 31\, 28012 Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:2D3 BIG BAND plays CENTRAL PARK NORTH
 DTSTART;TZID=Europe/Madrid:20260607T130000
 UID:5b78ff689b7c05b192b96d2c96d351c87064c8b17c68f54743ebc4aefb70fb34
@@ -203,17 +173,6 @@ CATEGORIES:music
 DESCRIPTION:Concierto / Jazz\n\nhttps://salavillanos.es/evento/dos-de-tres
  -big-band/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Canal Street Jazz Band
-DTSTART;TZID=Europe/Madrid:20260607T200000
-DTEND;TZID=Europe/Madrid:20260607T200000
-UID:8da8d06e726a8ee2fac915d8742f4f0530abd403defbe8dddbabe4d8f3bc9641
-CATEGORIES:music
-DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
-  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
- s://ateneodemadrid.com/evento/canal-street-jazz-band/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Canal Street Jazz Band
@@ -250,6 +209,17 @@ DESCRIPTION:Precio de las entradas: 21€/25€ Entradas a la venta en mov
 LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Albéniz Jazz Quartet
+DTSTART;TZID=Europe/Madrid:20260608T200000
+DTEND;TZID=Europe/Madrid:20260608T200000
+UID:2a2444df700bc2493a2da46b60e4f49207826d5a273e799308e7e5fd8d25ec03
+CATEGORIES:music
+DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
+  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
+ s://ateneodemadrid.com/evento/albeniz-jazz-quartet/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Black Country\, New Road
 DTSTART;TZID=Europe/Madrid:20260608T210000
 UID:5f5027043841cfe4154fb3b54910eb5eaffed42db1969a02748e46b93b4a8edb
@@ -258,6 +228,17 @@ DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://dice.fm/event/g5klv5-bla
  ck-country-new-road-en-sound-isidro-8th-jun-la-riviera-madrid-tickets
 LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
  id
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lucía Rey Trío
+DTSTART;TZID=Europe/Madrid:20260609T200000
+DTEND;TZID=Europe/Madrid:20260609T200000
+UID:8907651703bfe603614b5a64d1a76d5498c968e969e0e5b0497985c11adb7665
+CATEGORIES:music
+DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
+  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
+ s://ateneodemadrid.com/evento/lucia-rey-trio/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kneecap
@@ -644,5 +625,14 @@ DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://tickets.hfmncrew.com/web
  /?menu=1162&pagina=entradas&item=58898&siteID=hfmncrew
 LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
  id
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bianca Gismonti & Manuel de Oliveira
+DTSTART;TZID=Europe/Madrid:20260702T210000
+UID:47a435a12f2708f8f4790ce26810ec633f085c5e4127ebe8b5eb3d2d07181ece
+CATEGORIES:music
+DESCRIPTION:Concierto / Villanos del Jazz\n\nhttps://salavillanos.es/event
+ o/bianca-gismonti-manuel-de-oliveira/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 END:VCALENDAR
