@@ -2,39 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Ubú
-DTSTART;TZID=Europe/Madrid:20260605T193000
-DTEND;TZID=Europe/Madrid:20260621T193000
-UID:a56573e15b36299498f04f228d668b599f378b13af45661ba6edc325bb0216ff
-CATEGORIES:theater
-DESCRIPTION:Entradas disponibles desde 15.75€ | Tags: JOBO\n\nhttps://ti
- enda.madrid-destino.com/es/nave-10/ubu/
-LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chocolate
-DTSTART;TZID=Europe/Madrid:20260605T193000
-UID:0a8a9c7665ce9a61a9099b31ecf7f9d8f3be566f31af264a8b7d051bc1dbfe86
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/chocolate/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bienvenido\, Papa Leo. Te saluda el mundo ateo
-DTSTART;TZID=Europe/Madrid:20260605T221500
-UID:acd722fbca07d4e6342238ec0621bc31159e9f39bb741b84f15e8a51dd854c77
-CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 1 plazas!\n\nhttps://teatrodelbarrio.com/bien
- venido-papa-leo-te-saluda-el-mundo-ateo/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Coro Malvaloca - "Son Risas y Lágrimas"
 DTSTART;TZID=Europe/Madrid:20260606T130000
 UID:7e3b1a151fa4be17e9c10108692c995ac24e2cb4e90b5ed172cf32897bcd9b06
 CATEGORIES:theater
-DESCRIPTION:Localidades agotadas\n\nhttps://teatrodelbarrio.com/coro-malva
- loca/
+DESCRIPTION:¡Ya solo quedan 3 plazas!\n\nhttps://teatrodelbarrio.com/coro
+ -malvaloca/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -43,8 +16,9 @@ SUMMARY:Encuentro con Los Bárbaros y Marta García Miranda: se viene TACH
 DTSTART;TZID=Europe/Madrid:20260606T130000
 UID:b83cd871e0e7e3387d613bd1fb89727e9abdb8ec877c5393599b1d37e0585497
 CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/encuentro-con-los-ba
- rbaros-y-marta-garcia-miranda-se-viene-tachan-un-festival/
+DESCRIPTION:¡Ya solo quedan 26 plazas!\n\nhttps://teatrodelbarrio.com/enc
+ uentro-con-los-barbaros-y-marta-garcia-miranda-se-viene-tachan-un-festival
+ /
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -73,6 +47,16 @@ DESCRIPTION:¿Qué ocurre cuando el misterio clásico se encuentra con el
 LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ubú
+DTSTART;TZID=Europe/Madrid:20260606T193000
+DTEND;TZID=Europe/Madrid:20260621T193000
+UID:a56573e15b36299498f04f228d668b599f378b13af45661ba6edc325bb0216ff
+CATEGORIES:theater
+DESCRIPTION:Entradas disponibles desde 15.75€ | Tags: JOBO\n\nhttps://ti
+ enda.madrid-destino.com/es/nave-10/ubu/
+LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Chocolate
 DTSTART;TZID=Europe/Madrid:20260606T193000
 UID:70ed27f82cf4ca42d770f1bc4c96f7f1b125a260dab23ee892995b82ab298aa7
@@ -94,7 +78,7 @@ SUMMARY:LOS MARTES. Asamblea de juveniles
 DTSTART;TZID=Europe/Madrid:20260607T130000
 UID:20ffb9ee4b684dc0d40e56531fda71e9b7591edc64463eeff1daca0fab551838
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 4 plazas!\n\nhttps://teatrodelbarrio.com/los-
+DESCRIPTION:¡Ya solo quedan 1 plazas!\n\nhttps://teatrodelbarrio.com/los-
  martes-asamblea-de-juveniles/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
@@ -256,20 +240,40 @@ DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/poesia-o-barbarie/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:La memoria colonial del franquismo: Los silencios de nuestra histo
+ ria
+DTSTART;TZID=Europe/Madrid:20260619T190000
+UID:f01c51c66f005cb7f20fe5db8d5b99cb1458a4a12a77b22f5a6c065b7ecad1d2
+CATEGORIES:theater
+DESCRIPTION:La memoria colonial del franquismo: Los silencios de nuestra h
+ istoria\n\nSinopsis\n\nContinuamos la programación de los podcasts en viv
+ o de\n\nAtado y Bien Atado\n\n\, conducidos por\n\nOlga Rodríguez\n\n\, c
+ on un nuevo episodio en donde se analizará cómo a pesar de que el franqu
+ ismo dejó una profunda huella en los territorios colonizados por España\
+ , la memoria de esta colonización ha sido sistemáticamente borrada del r
+ elato oficial.\n\nA diferencia de otras potencias coloniales\, España ape
+ nas ha reflexionado sobre su pasado colonial\, siendo un tema\, en cierta 
+ medida\, olvidado por la memoria histórica actual. De esta forma\, querem
+ os no solo explorar cómo el franquismo construyó su narrativa colonial\,
+  sino cómo este pasado sigue influyendo en la política actual. La falta 
+ de memoria sobre el colonialismo en España ha permitido que persistan mit
+ os sobre el franquismo\, así como una visión distorsionada de la relaci
+ ón con Marruecos\, el Sáhara y Guinea.\n\nCon este nuevo podcast de Atad
+ o y Bien Atado queremos explorar la memoria colonial franquista\, centrán
+ donos en Guinea y el Sáhara Occidental\, en cómo la dictadura construyó
+  su narrativa sobre la colonización y en qué medida el silencio sobre es
+ te pasado sigue afectando en la actualidad.\n\nhttps://lamirador.com/funci
+ on?nombre=la-memoria-colonial-del-franquismo-los-silencios-de-nuestra-hist
+ oria-2026
+LOCATION:Sala Mirador - Calle Doctor Fourquet\, 31\, 28012 Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:En mitad de tanto fuego
 DTSTART;TZID=Europe/Madrid:20260619T193000
 UID:0563ea9e658815d2760fe2275daf9e5713aa3d2b9046b92b9b02bf54501b3618
 CATEGORIES:theater
 DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/en-mitad-de-tanto-fu
  ego/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La rabia es nuestra
-DTSTART;TZID=Europe/Madrid:20260619T221500
-UID:bc6de2c2f1194ed3fe0acbcde6883a64a413059277e58f6dae874f7f9c4bbcd8
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/la-rabia-es-nuestra/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -286,8 +290,8 @@ SUMMARY:No solo duelen los golpes.
 DTSTART;TZID=Europe/Madrid:20260620T130000
 UID:8f2c9b3d1499837feb0712e7edd7a86893e970a0c2db042d11abf832384ed27c
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 12 plazas!\n\nhttps://teatrodelbarrio.com/no-
- solo-duelen-los-golpes/
+DESCRIPTION:¡Ya solo quedan 8 plazas!\n\nhttps://teatrodelbarrio.com/no-s
+ olo-duelen-los-golpes/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -344,7 +348,8 @@ SUMMARY:Carcoma
 DTSTART;TZID=Europe/Madrid:20260625T193000
 UID:6b9e74f14a3d3937e5d70bfd62aaa7d2842266b370da70528762d273f88f0186
 CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/carcoma/
+DESCRIPTION:¡Ya solo quedan 25 plazas!\n\nhttps://teatrodelbarrio.com/car
+ coma/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -380,7 +385,8 @@ SUMMARY:Carcoma
 DTSTART;TZID=Europe/Madrid:20260626T193000
 UID:5ebad53474248f09b5ed35dd5d9b7a023f99f29cd89225455e61b540ed16cff8
 CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/carcoma/
+DESCRIPTION:¡Ya solo quedan 28 plazas!\n\nhttps://teatrodelbarrio.com/car
+ coma/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -423,7 +429,7 @@ SUMMARY:Mujeres y memoria democrática. Borrando el olvido
 DTSTART;TZID=Europe/Madrid:20260627T193000
 UID:0d7ecf35dee54aed0eeed0471d25abe37cf5873d1455165383a586b75ede7266
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 24 plazas!\n\nhttps://teatrodelbarrio.com/muj
+DESCRIPTION:¡Ya solo quedan 16 plazas!\n\nhttps://teatrodelbarrio.com/muj
  eres-y-memoria-democratica-borrando-el-olvido/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
@@ -477,7 +483,7 @@ SUMMARY:José del Curro (cante) y Jerónimo Maya (toque). PEÑA FLAMENCA D
 DTSTART;TZID=Europe/Madrid:20260628T210000
 UID:43e6769b8aa2886d9cc7e12ea1813424025780c0b9e32680a30f78247073068c
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 25 plazas!\n\nhttps://teatrodelbarrio.com/jos
+DESCRIPTION:¡Ya solo quedan 23 plazas!\n\nhttps://teatrodelbarrio.com/jos
  e-del-curro-cante-y-jeronimo-maya-toque-pena-flamenca-de-lavapies/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
