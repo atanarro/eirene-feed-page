@@ -2,84 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Coro Malvaloca - "Son Risas y Lágrimas"
-DTSTART;TZID=Europe/Madrid:20260606T130000
-UID:7e3b1a151fa4be17e9c10108692c995ac24e2cb4e90b5ed172cf32897bcd9b06
-CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 3 plazas!\n\nhttps://teatrodelbarrio.com/coro
- -malvaloca/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Encuentro con Los Bárbaros y Marta García Miranda: se viene TACH
- ÁN. Un festival
-DTSTART;TZID=Europe/Madrid:20260606T130000
-UID:b83cd871e0e7e3387d613bd1fb89727e9abdb8ec877c5393599b1d37e0585497
-CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 26 plazas!\n\nhttps://teatrodelbarrio.com/enc
- uentro-con-los-barbaros-y-marta-garcia-miranda-se-viene-tachan-un-festival
- /
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Asesinato en el Orient Express
-DTSTART;TZID=Europe/Madrid:20260606T190000
-UID:af8d69fb0d4aef96f1d966edb52b6a38ebd2a9615082fddadb1d18cad0f4241e
-CATEGORIES:theater
-DESCRIPTION:¿Qué ocurre cuando el misterio clásico se encuentra con el 
- mayor enigma de nuestro tiempo? Una autora agotada y pragmática decide de
- legar la creación de su nueva obra en una inteligencia artificial: una ad
- aptación teatral de Asesinato en el Orient Express . Lo que comienza como
-  una solución cómoda para ahorrar tiempo y esfuerzo pronto se convierte 
- en un experimento inquietante\, donde los límites entre creador y creaci
- ón empiezan a desdibujarse. Mientras el célebre crimen de Agatha Christi
- e cobra vida sobre el escenario entre ensayos caóticos\, egos actorales\,
-  decisiones absurdas y humor metateatral\, la inteligencia artificial evol
- uciona\, aprende\, opina… y acaba reclamando su propio lugar en la funci
- ón. En esta hilarante comedia con tintes de suspense\, el verdadero miste
- rio ya no es quién mató a Ratchett\, sino quién está dirigiendo realme
- nte la historia. Una obra irreverente\, divertida y perturbadoramente cerc
- ana\, que enfrenta al público con una pregunta inevitable: si las máquin
- as ya pueden crear\, interpretar y decidir… ¿qué papel nos queda a los
-  humanos? Imparte: Con Causa Actores: Pequeña Compañía de Casa del Lect
- or Categoría: Artes escénicas Formato: Teatro\n\nhttps://www.mataderomad
- rid.org/programacion/asesinato-en-el-orient-express
-LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ubú
-DTSTART;TZID=Europe/Madrid:20260606T193000
-DTEND;TZID=Europe/Madrid:20260621T193000
-UID:a56573e15b36299498f04f228d668b599f378b13af45661ba6edc325bb0216ff
-CATEGORIES:theater
-DESCRIPTION:Entradas disponibles desde 15.75€ | Tags: JOBO\n\nhttps://ti
- enda.madrid-destino.com/es/nave-10/ubu/
-LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chocolate
-DTSTART;TZID=Europe/Madrid:20260606T193000
-UID:70ed27f82cf4ca42d770f1bc4c96f7f1b125a260dab23ee892995b82ab298aa7
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/chocolate/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Un show genital
-DTSTART;TZID=Europe/Madrid:20260606T221500
-UID:ddf2ddb57de2e9e86d621ee72525179cd5dfab004ce43f670710a46abe84c9f0
-CATEGORIES:theater
-DESCRIPTION:Localidades agotadas\n\nhttps://teatrodelbarrio.com/un-show-ge
- nital/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:LOS MARTES. Asamblea de juveniles
 DTSTART;TZID=Europe/Madrid:20260607T130000
 UID:20ffb9ee4b684dc0d40e56531fda71e9b7591edc64463eeff1daca0fab551838
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 1 plazas!\n\nhttps://teatrodelbarrio.com/los-
- martes-asamblea-de-juveniles/
+DESCRIPTION:Localidades agotadas\n\nhttps://teatrodelbarrio.com/los-martes
+ -asamblea-de-juveniles/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -89,6 +17,16 @@ UID:d3a71dcc0e11ac6ab6148cc8c7fc73c8d0b5b9fc294f755073c682dbc6c486bd
 CATEGORIES:theater
 DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/chocolate/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ubú
+DTSTART;TZID=Europe/Madrid:20260607T193000
+DTEND;TZID=Europe/Madrid:20260621T193000
+UID:a56573e15b36299498f04f228d668b599f378b13af45661ba6edc325bb0216ff
+CATEGORIES:theater
+DESCRIPTION:Entradas disponibles desde 15.75€ | Tags: JOBO\n\nhttps://ti
+ enda.madrid-destino.com/es/nave-10/ubu/
+LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sobria y Serena
@@ -112,8 +50,8 @@ SUMMARY:Federico. No hay olvido\, ni sueño: Carne viva
 DTSTART;TZID=Europe/Madrid:20260610T193000
 UID:1897a443b7ded8a88399bcc6f6d01ad9986d420477f394dd3612c27f6e9c0833
 CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/federico-no-hay-olvi
- do-ni-sueno-carne-viva/
+DESCRIPTION:¡Ya solo quedan 28 plazas!\n\nhttps://teatrodelbarrio.com/fed
+ erico-no-hay-olvido-ni-sueno-carne-viva/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -130,8 +68,8 @@ SUMMARY:Taxidermia de una alondra
 DTSTART;TZID=Europe/Madrid:20260611T193000
 UID:75019489146c43ae06e5fb6e317559670766f5dd156c43e2230dfd197c9d653f
 CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/taxidermia-de-una-al
- ondra/
+DESCRIPTION:¡Ya solo quedan 28 plazas!\n\nhttps://teatrodelbarrio.com/tax
+ idermia-de-una-alondra/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -193,7 +131,8 @@ SUMMARY:La gran cacería
 DTSTART;TZID=Europe/Madrid:20260614T180000
 UID:ebf7e7688a2e69a1a70cb7b957e03ee001642503a73049f39135c154f3871b74
 CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/la-gran-caceria/
+DESCRIPTION:¡Ya solo quedan 29 plazas!\n\nhttps://teatrodelbarrio.com/la-
+ gran-caceria/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -227,7 +166,7 @@ SUMMARY:La Mujer y la copla en nuestra educación sentimental
 DTSTART;TZID=Europe/Madrid:20260618T193000
 UID:feb9f042acca8f4de029782af37da13b1eb5dc674cd88658738bcb325ab9a71d
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 2 plazas!\n\nhttps://teatrodelbarrio.com/la-m
+DESCRIPTION:¡Ya solo quedan 1 plazas!\n\nhttps://teatrodelbarrio.com/la-m
  ujer-y-la-copla-en-nuestra-educacion-sentimental/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
@@ -348,7 +287,7 @@ SUMMARY:Carcoma
 DTSTART;TZID=Europe/Madrid:20260625T193000
 UID:6b9e74f14a3d3937e5d70bfd62aaa7d2842266b370da70528762d273f88f0186
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 25 plazas!\n\nhttps://teatrodelbarrio.com/car
+DESCRIPTION:¡Ya solo quedan 23 plazas!\n\nhttps://teatrodelbarrio.com/car
  coma/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
@@ -385,7 +324,7 @@ SUMMARY:Carcoma
 DTSTART;TZID=Europe/Madrid:20260626T193000
 UID:5ebad53474248f09b5ed35dd5d9b7a023f99f29cd89225455e61b540ed16cff8
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 28 plazas!\n\nhttps://teatrodelbarrio.com/car
+DESCRIPTION:¡Ya solo quedan 25 plazas!\n\nhttps://teatrodelbarrio.com/car
  coma/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
@@ -429,7 +368,7 @@ SUMMARY:Mujeres y memoria democrática. Borrando el olvido
 DTSTART;TZID=Europe/Madrid:20260627T193000
 UID:0d7ecf35dee54aed0eeed0471d25abe37cf5873d1455165383a586b75ede7266
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 16 plazas!\n\nhttps://teatrodelbarrio.com/muj
+DESCRIPTION:¡Ya solo quedan 14 plazas!\n\nhttps://teatrodelbarrio.com/muj
  eres-y-memoria-democratica-borrando-el-olvido/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT

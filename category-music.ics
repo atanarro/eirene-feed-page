@@ -2,60 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:SE TRASLADA AL 22 DE NOVIEMBRE "Cantar del Alma". Ciclo de Concier
- tos Manuel de Falla
-DTSTART;TZID=Europe/Madrid:20260606T123000
-DTEND;TZID=Europe/Madrid:20260606T123000
-UID:c215f70152990338e4208c3ff0ce0f49b3dfd6dd67a3d6ffd8c3e2145e7bdd47
-CATEGORIES:music
-DESCRIPTION:Las entradas se pueden adquirir en este enlace\, o en la taqui
- lla del Ateneo el mismo día del concierto desde las 11:15h. El precio es 
- de 19€ (13€ para los socios del Ateneo de Madrid). No son numeradas y
-  no se admite tarjeta de crédito\, solo efectivo. Información y program
- a (ver).  \n \nLaura Fdez. Alcalde\, soprano e Irene de Juan Bernabeu\, p
- iano. Cátedra Mayor. 12:30h.\n\nhttps://ateneodemadrid.com/evento/cantar-
- del-alma-ciclo-de-conciertos-manuel-de-falla/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gran Fiesta De Verano De Animal Jazz
-DTSTART;TZID=Europe/Madrid:20260606T123000
-UID:cc0a8f96ba3f44004c9fec7a5179e4c9dcdb8bcb1b303154111de253af845a8a
-CATEGORIES:music
-DESCRIPTION:Concierto / Jazz\n\nhttps://salavillanos.es/evento/gran-fiesta
- -de-verano-de-animal-jazz/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hafa Afrosweet
-DTSTART;TZID=Europe/Madrid:20260606T210000
-UID:0d7ce8b1a84070b0624f44e4967f9a1668ff4bd9a32fe0d3eae03730c481e9bb
-CATEGORIES:music
-DESCRIPTION:Concierto\n\nhttps://salavillanos.es/evento/hafa-afrosweet/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Álvaro Montero Rock + Buhonegro
-DTSTART;TZID=Europe/Madrid:20260606T213000
-UID:361f7c81eba65b469a10b2a7169f579de28c0730b3b2616d7bb177761c5ef61f
-CATEGORIES:music
-DESCRIPTION:Precio de las entradas: 7€/10€ Entradas a la venta en movi
- ngtickets Bio/enlaces bandas: Buhonegro_instagram Álvaro Montero Rock_ins
- tagram Más información: Buhonegro va de juntarse en un local con amiguis
-  a tocar\, a merendar y a\n\nhttps://gruta77.com/events/alvaro-montero-buh
- onegro/var/ri-0.l-L2
-LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mount Kimbie (Dj Set) + Senda Fatal
-DTSTART;TZID=Europe/Madrid:20260606T235900
-UID:be2ea7b81d4245a5dfa848f8fd205980a056c936e9dc9c6aef10d8381f8efc9d
-CATEGORIES:music
-DESCRIPTION:Club\n\nhttps://salavillanos.es/evento/mount-kimbie-dj-set-sen
- da-fatal/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Concierto para niños y niñas a los que les gusta pintar y bailar
 DTSTART;TZID=Europe/Madrid:20260607T120000
 UID:6f04242a5b833067c9f9efa9c263f28f9bd1e65692131c4f31b31a67a2df166a
@@ -97,6 +43,17 @@ DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Eliades Ochoa
+DTSTART;TZID=Europe/Madrid:20260607T210000
+UID:f7bc51046193bd4d7989d2cb0d5acf87a4251ebcdb4ec6eddaf26851e499bcb1
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 20:00 Horas\n\nhttps://www.notikumi.com/chan
+ nel/guajiro-music-s-l/2026/6/7/eliades-ochoa-en-madrid?_gl=1*1s1ttgc*_gcl_
+ au*ODY1OTMyMzkyLjE3NjU4OTk1MjQ.
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pioneers (Jamaica) Con The Upsessions (Países Bajos)
 DTSTART;TZID=Europe/Madrid:20260607T210000
 UID:b660ce67f1f3fd7d56755b57fc5dc0ba27a93293d4dc38beae369a387955b29f
@@ -120,6 +77,16 @@ DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Black Country\, New Road
+DTSTART;TZID=Europe/Madrid:20260608T210000
+UID:5f5027043841cfe4154fb3b54910eb5eaffed42db1969a02748e46b93b4a8edb
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://dice.fm/event/g5klv5-bla
+ ck-country-new-road-en-sound-isidro-8th-jun-la-riviera-madrid-tickets
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:MABUS Encore
 DTSTART;TZID=Europe/Madrid:20260609T190000
 UID:dc821c74d5e608e10b91ae09bb489abc0b770d3c152a529569acf09db316f2eb
@@ -138,6 +105,15 @@ DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
   el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
  s://ateneodemadrid.com/evento/lucia-rey-trio/
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kneecap
+DTSTART;TZID=Europe/Madrid:20260609T210000
+UID:e776e096eb06d93cd8b84a212860401e5de282eedabc12a3ce237e57deb6f014
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:00 pm\n\nhttps://feverup.com/m/523684
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lady & the Tramps
@@ -160,6 +136,18 @@ DESCRIPTION:Concierto / Flamenco\n\nhttps://salavillanos.es/evento/jose-de
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Oklou
+DTSTART;TZID=Europe/Madrid:20260610T210000
+UID:4977dabbd8120430e63abf2a2a3835e89cf47f32186572868f0f5302e14fd25a
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://feverup.com/m/523688?utm
+ _source=affiliate&utm_medium=impact&utm_campaign=523688&utm_content=605484
+ 4_CTCP%20CONSULTORES%2C%20S.L.&irclickid=Qy5Vd%3Ax5vxyKTiiV3oTsV0bTUkuzzQ2
+ BEx8ZRo0&irgwc=1&afsrc=1
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Recital de piano Marta Tejero Fernández
 DTSTART;TZID=Europe/Madrid:20260611T200000
 DTEND;TZID=Europe/Madrid:20260611T200000
@@ -171,6 +159,16 @@ DESCRIPTION:Escuela Superior Musical Arts y Kawai. Cátedra Mayor. 20:00h.
  – E. Granados\nGaspard de la Nuit – M. Ravel\n\nhttps://ateneodemadrid
  .com/evento/recital-de-piano-marta-tejero-fernandez/
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Fúmiga en Sound Isidro
+DTSTART;TZID=Europe/Madrid:20260611T210000
+UID:d0bb9ad1615ff99790768daef3674b1c6cbf9dd66ecf3340b20b5035615410ed
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://dice.fm/event/py5wak-la-
+ fmiga-en-sound-isidro-11th-jun-la-riviera-madrid-tickets
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Javier Colina Quartet
@@ -203,6 +201,16 @@ DESCRIPTION:Precio de las entradas: 24\,50€/28€ Entradas a la venta en
   actitud desde Los Ángeles. Formados\n\nhttps://gruta77.com/events/the-ag
  grolites-eeuu-sala-copernico/var/ri-0.l-L2
 LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kompromat (Vitalic & Rebeka Warrior)
+DTSTART;TZID=Europe/Madrid:20260612T210000
+UID:71a0eb97d85b6e17dab908a5b4921f916a58c47d8e8f67ed792852d84093c8c3
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://www.notikumi.com/channel
+ /miles-away/2026/6/12/kompromat
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Concierto de verano 2026.  Coral de Cristóbal Morales y Coral Ha
@@ -274,6 +282,17 @@ DESCRIPTION:Venta de entradas (aquí). Socios\, código descuento en el Á
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Festival Alicia de Larrocha III Edición. Misha Dacic\, piano
+DTSTART;TZID=Europe/Madrid:20260613T193000
+DTEND;TZID=Europe/Madrid:20260613T193000
+UID:475670d4e09ee7397e356b337855456089fa996b173c5274f853d7a9b692fc3c
+CATEGORIES:music
+DESCRIPTION:Venta de entradas (aquí). Socios código descuento en el Áre
+ a del socio.\n\nhttps://ateneodemadrid.com/evento/festival-alicia-de-larro
+ cha-iii-edicion-misha-dadic/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:El Concierto Del Riff
 DTSTART;TZID=Europe/Madrid:20260613T203000
 UID:53c1387f36884f783569d1bf1e5270b39364cd0c592ea99f86904218d4bb339f
@@ -283,6 +302,16 @@ DESCRIPTION:Concierto / Rock\n\nhttps://salavillanos.es/evento/el-conciert
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:DePol
+DTSTART;TZID=Europe/Madrid:20260613T210000
+UID:4f56c1cee0daf9bd0b58680481e0e4ed699fe1136d45845ab619c6c49a032cfa
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://www.entradas.com/artist/
+ depol/?Affiliate=RIV
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Los Malinches + The Wild Beats + The Oompa Loompas En Garagruta Fe
  st. Volumen 3
 DTSTART;TZID=Europe/Madrid:20260613T213000
@@ -290,10 +319,10 @@ UID:38cfe492184892b23300abf14d14a2c95e29c29f4e6e14459064c3d26b7fddfb
 CATEGORIES:music
 DESCRIPTION:Precio de las entradas: 12€/15€ Entradas a la venta en mov
  ingtickets Bio/enlaces bandas: Los Malinches_facebook + Los Malinches_yout
- ube + Los Malinches_instagram The Oompas Loompas_facebook + The Oompa Loom
- pas_intagram The Wild Beats_facebook +The\n\nhttps://gruta77.com/events/lo
- s-malinches-the-wild-beats-the-oompa-loompas-en-garagruta-fest-volumen-3/v
- ar/ri-0.l-L2
+ ube + Los Malinches_instagram The Oompa Loompas_facebook + The Oompa Loomp
+ as_intagram The Wild Beats_facebook +The\n\nhttps://gruta77.com/events/los
+ -malinches-the-wild-beats-the-oompa-loompas-en-garagruta-fest-volumen-3/va
+ r/ri-0.l-L2
 LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -306,6 +335,19 @@ DESCRIPTION:Concierto / Jazz\n\nhttps://salavillanos.es/evento/villamolino
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:"A Tomás Bretón". Concierto extraordinario
+DTSTART;TZID=Europe/Madrid:20260614T193000
+DTEND;TZID=Europe/Madrid:20260614T193000
+UID:84718c0df67e4867e4e1f9e3bd1aa09c007741b6275ed76cc954379612d7d3fe
+CATEGORIES:music
+DESCRIPTION:Venta de entradas (aquí). Código de descuento para los socio
+ s en el Área del Socio. \n \nTala Producciones. Intérpretes: Natalia Lab
+ ourdette\, soprano y Victoria Guerrero\, piano. Cátedra Mayor. 19:30h.\n\
+ nhttps://ateneodemadrid.com/evento/a-tomas-breton-concierto-extraordinario
+ /
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Big Family Music Experience Con Alumnos De Tony Pereyra
 DTSTART;TZID=Europe/Madrid:20260614T193000
 UID:de21e1f4962bd0ca2688c66a914487afef1c0551895ed9005ba7555f12abbd41
@@ -316,6 +358,16 @@ DESCRIPTION:Precio de las entradas: 9€ con cerveza o refresco Entradas a
  /gruta77.com/events/the-big-family-music-experience-con-alumnos-de-tony-pe
  reyra-5/var/ri-0.l-L2
 LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Humbe
+DTSTART;TZID=Europe/Madrid:20260614T203000
+UID:9d9c7f4344ac082fe31d79f1383852a63cae50bd12fbcd3ffb60a7bed4ad91d6
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://www.ticketmaster.es/even
+ t/humbe-entradas/1986253146
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Roberta Sá
@@ -343,6 +395,16 @@ CATEGORIES:music
 DESCRIPTION:Concierto / Pop / Latin\n\nhttps://salavillanos.es/evento/zuar
  az/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Amigos Invisibles
+DTSTART;TZID=Europe/Madrid:20260618T203000
+UID:165194f40e92dbfda5cc9b1d5317b544b847304249b4699d17c9c41bb310afd5
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:00 pm\n\nhttps://www.entradas.com/event/i
+ beroexperia-los-amigos-invisibles-sala-la-riviera-21363711/?affiliate=4SA
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Motherpunkrs + Tarzán\; Día De La Música 2026
@@ -386,6 +448,16 @@ DESCRIPTION:Precio de las entradas: 10/13€ Entradas a la venta en moving
  https://gruta77.com/events/miseria-y-kompania-deklarados-kulpables/var/ri-
  0.l-L2
 LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Venga Monjas 20º Aniversario
+DTSTART;TZID=Europe/Madrid:20260621T210000
+UID:d9faf834dc641656e3a6dcebcb10b021a507b18553bfb4c4e93bb4f3afa7d81d
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://dice.fm/event/xeanxe-ven
+ ga-monjas-20-aniversario-21st-jun-la-riviera-madrid-tickets
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Casualties (EEUU) + Figure 8 Knot\; Circuito Red De Salas
@@ -448,6 +520,17 @@ DESCRIPTION:Concierto / Latin\n\nhttps://salavillanos.es/evento/arraia-do-
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Joss Stone
+DTSTART;TZID=Europe/Madrid:20260626T210000
+UID:f538624027eacaab3c6952b813e32643cff729f9d61bd1ef14237dcc9c63770d
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://www.notikumi.com/channel
+ /villanos-de-la-cultura/2026/6/26/joss-stone?a_aid=jackson-ref&a_bid=fe5f1
+ 437
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Genderlexx + Lavandera Boyera
 DTSTART;TZID=Europe/Madrid:20260626T213000
 UID:b5c9af5f249948d20cfdb6b688a4191ade60a6023fb54bef4bbe91129fb97d26
@@ -460,6 +543,16 @@ DESCRIPTION:Precio de las entradas: 10€/13€ Entradas a la venta moving
 LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:La Excepción
+DTSTART;TZID=Europe/Madrid:20260627T203000
+UID:6add3844c172892557d9f71706e77274072b1f3f2e0eb70ebcfbba843e7762cb
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://www.entradas.com/artist/
+ la-excepcion/?Affiliate=RIV
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Radio Clash (tributo a The Clash)
 DTSTART;TZID=Europe/Madrid:20260627T213000
 UID:2a016c7d60e3d2eb4d480c8e6814d5ec67d0fa8752a55b740d29c0e77de444bf
@@ -470,6 +563,16 @@ DESCRIPTION:Precio de las entradas: 7€/10€ Entradas a la venta en movi
  de la periferia\,\n\nhttps://gruta77.com/events/radio-clash-2/var/ri-0.l-L
  2
 LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Excepción (Segunda Fecha)
+DTSTART;TZID=Europe/Madrid:20260628T193000
+UID:18ab6e5faa380aef3f6aade9a03549019e8eb59f7a0ab603eb0b2cc17b9bac70
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:00 pm\n\nhttps://www.ticketmaster.es/even
+ t/la-excepcion-entradas/1230068036
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Busty and the Bass
@@ -490,6 +593,15 @@ DESCRIPTION:Concierto / Soul & R&B\n\nhttps://salavillanos.es/evento/john-
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Tokischa
+DTSTART;TZID=Europe/Madrid:20260630T210000
+UID:1d61d67c2b809450722fe5aafee33bdccbbc7da0e718b3cf314d46bb8860c4a8
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://feverup.com/m/601747
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ghost-Note
 DTSTART;TZID=Europe/Madrid:20260701T210000
 UID:d8cc9d7824a48d1ca438e8f4fb73d9ca689757792bda2d6103716069c9a125e9
@@ -497,6 +609,16 @@ CATEGORIES:music
 DESCRIPTION:Concierto / Villanos del Jazz\n\nhttps://salavillanos.es/event
  o/ghost-note/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pennywise + End It
+DTSTART;TZID=Europe/Madrid:20260701T210000
+UID:8f2a406d5c59de43aaa711c34f3aa8458fa71c3a1c4efead7b9bc33c1226005c
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://tickets.hfmncrew.com/web
+ /?menu=1162&pagina=entradas&item=58898&siteID=hfmncrew
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bianca Gismonti & Manuel de Oliveira
@@ -533,5 +655,15 @@ CATEGORIES:music
 DESCRIPTION:Concierto / Villanos del Jazz\n\nhttps://salavillanos.es/event
  o/yellowjackets/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elena Rose
+DTSTART;TZID=Europe/Madrid:20260706T210000
+UID:bccd15d7d50d52a958346983d1b2dfe61079d6d0c80bd2f968b3458c96b8c9e2
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://www.ticketmaster.es/even
+ t/elena-rose-entradas/269343439?language=en-us
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
 END:VEVENT
 END:VCALENDAR
