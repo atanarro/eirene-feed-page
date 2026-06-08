@@ -1,51 +1,7 @@
 Eirene feed debug
-Total events: 42
+Total events: 39
 
-[1] LOS MARTES. Asamblea de juveniles
-  id: 20ffb9ee4b684dc0d40e56531fda71e9b7591edc64463eeff1daca0fab551838
-  start: 2026-06-07T13:00:00+02:00
-  end: N/A
-  category: theater
-  source: teatro_del_barrio
-  location: Teatro del Barrio - Calle de Zurita, 20, Madrid
-  coordinates: 40.4096081, -3.699174
-  url: https://teatrodelbarrio.com/los-martes-asamblea-de-juveniles/
-  description: Localidades agotadas
-
-[2] Chocolate
-  id: d3a71dcc0e11ac6ab6148cc8c7fc73c8d0b5b9fc294f755073c682dbc6c486bd
-  start: 2026-06-07T18:00:00+02:00
-  end: N/A
-  category: theater
-  source: teatro_del_barrio
-  location: Teatro del Barrio - Calle de Zurita, 20, Madrid
-  coordinates: 40.4096081, -3.699174
-  url: https://teatrodelbarrio.com/chocolate/
-  description: Disponible
-
-[3] Ubú
-  id: a56573e15b36299498f04f228d668b599f378b13af45661ba6edc325bb0216ff
-  start: 2026-06-07T19:30:00+02:00
-  end: 2026-06-21T19:30:00+02:00
-  category: theater
-  source: nave_10
-  location: Nave 10 - Paseo de la Chopera, 14, Madrid
-  coordinates: 40.3920606, -3.6978319
-  url: https://tienda.madrid-destino.com/es/nave-10/ubu/
-  description: Entradas disponibles desde 15.75€ | Tags: JOBO
-
-[4] Sobria y Serena
-  id: 2b00b90b68f79c1420caed96c43957cc08379937c85eee101060d485019e0130
-  start: 2026-06-07T20:30:00+02:00
-  end: N/A
-  category: theater
-  source: teatro_del_barrio
-  location: Teatro del Barrio - Calle de Zurita, 20, Madrid
-  coordinates: 40.4096081, -3.699174
-  url: https://teatrodelbarrio.com/sobria-y-serena/
-  description: Disponible
-
-[5] Gordas, lisiadas y mamarrachas
+[1] Gordas, lisiadas y mamarrachas
   id: d918e5cdbaafac67eb2ff6b9f93372929752f7f09139cd21ab46d6f9bb613fb8
   start: 2026-06-08T19:30:00+02:00
   end: N/A
@@ -56,7 +12,18 @@ Total events: 42
   url: https://teatrodelbarrio.com/gordas-lisiadas-y-mamarrachas/
   description: Disponible
 
-[6] Federico. No hay olvido, ni sueño: Carne viva
+[2] Ubú
+  id: a56573e15b36299498f04f228d668b599f378b13af45661ba6edc325bb0216ff
+  start: 2026-06-09T19:30:00+02:00
+  end: 2026-06-21T19:30:00+02:00
+  category: theater
+  source: nave_10
+  location: Nave 10 - Paseo de la Chopera, 14, Madrid
+  coordinates: 40.3920606, -3.6978319
+  url: https://tienda.madrid-destino.com/es/nave-10/ubu/
+  description: Entradas disponibles desde 15.75€ | Tags: JOBO
+
+[3] Federico. No hay olvido, ni sueño: Carne viva
   id: 1897a443b7ded8a88399bcc6f6d01ad9986d420477f394dd3612c27f6e9c0833
   start: 2026-06-10T19:30:00+02:00
   end: N/A
@@ -65,9 +32,9 @@ Total events: 42
   location: Teatro del Barrio - Calle de Zurita, 20, Madrid
   coordinates: 40.4096081, -3.699174
   url: https://teatrodelbarrio.com/federico-no-hay-olvido-ni-sueno-carne-viva/
-  description: ¡Ya solo quedan 28 plazas!
+  description: ¡Ya solo quedan 26 plazas!
 
-[7] Swing en el Teatro del Barrio
+[4] Swing en el Teatro del Barrio
   id: 6ef1ca916730cdccf7ec1c27b604982a82d2edbc24e7fbcc3f8a2abdbf1f5eda
   start: 2026-06-10T22:00:00+02:00
   end: N/A
@@ -78,7 +45,7 @@ Total events: 42
   url: https://teatrodelbarrio.com/swing-en-el-teatro-del-barrio/
   description: Disponible
 
-[8] Taxidermia de una alondra
+[5] Taxidermia de una alondra
   id: 75019489146c43ae06e5fb6e317559670766f5dd156c43e2230dfd197c9d653f
   start: 2026-06-11T19:30:00+02:00
   end: N/A
@@ -87,9 +54,9 @@ Total events: 42
   location: Teatro del Barrio - Calle de Zurita, 20, Madrid
   coordinates: 40.4096081, -3.699174
   url: https://teatrodelbarrio.com/taxidermia-de-una-alondra/
-  description: ¡Ya solo quedan 28 plazas!
+  description: ¡Ya solo quedan 22 plazas!
 
-[9] POLARIZADAS. Un show de dos zorras polares
+[6] POLARIZADAS. Un show de dos zorras polares
   id: 2d87e72db1e1b0f56ed7d857b7c790de38b916fedf5ebb72b0b24ee951dde715
   start: 2026-06-11T22:15:00+02:00
   end: N/A
@@ -100,7 +67,7 @@ Total events: 42
   url: https://teatrodelbarrio.com/polarizadas-un-show-de-dos-zorras-polares/
   description: Disponible
 
-[10] Taxidermia de una alondra
+[7] Taxidermia de una alondra
   id: bd3dd8d754cdbc956003e46619c897d369630d62ff15750df25d68856260fede
   start: 2026-06-12T19:30:00+02:00
   end: N/A
@@ -109,9 +76,9 @@ Total events: 42
   location: Teatro del Barrio - Calle de Zurita, 20, Madrid
   coordinates: 40.4096081, -3.699174
   url: https://teatrodelbarrio.com/taxidermia-de-una-alondra/
-  description: Disponible
+  description: ¡Ya solo quedan 30 plazas!
 
-[11] Alfonso Gardi & el Templo presentan ‘Nuestro Ahora’
+[8] Alfonso Gardi & el Templo presentan ‘Nuestro Ahora’
   id: 780faa131e644d8e8c818f61bce4a6c398604bd6c841fe1ad9ec24ec08b20bfe
   start: 2026-06-12T22:15:00+02:00
   end: N/A
@@ -122,7 +89,7 @@ Total events: 42
   url: https://teatrodelbarrio.com/alfonso-gardi-el-templo-presentan-nuestro-ahoraalfonso-gardi-el-templo-presentan-nuestro-ahora/
   description: Disponible
 
-[12] Hoy tengo algo que hacer
+[9] Hoy tengo algo que hacer
   id: edb330302037ce60495acde447a67939f8b3769291f5af9ef1e46fc5afeb1c2a
   start: 2026-06-13T13:00:00+02:00
   end: N/A
@@ -133,7 +100,7 @@ Total events: 42
   url: https://teatrodelbarrio.com/hoy-tengo-algo-que-hacer/
   description: Disponible
 
-[13] Taxidermia de una alondra
+[10] Taxidermia de una alondra
   id: d4414d3da531352754fe6a5795c1b37998f9de243771ff0d567b8eed503d5a84
   start: 2026-06-13T19:30:00+02:00
   end: N/A
@@ -144,7 +111,7 @@ Total events: 42
   url: https://teatrodelbarrio.com/taxidermia-de-una-alondra/
   description: Disponible
 
-[14] Solo quería bailar
+[11] Solo quería bailar
   id: e8b0471ce6592d2cb582d93224d9a49b01e85138d028183b10a450302c4a913e
   start: 2026-06-13T22:15:00+02:00
   end: N/A
@@ -155,7 +122,7 @@ Total events: 42
   url: https://teatrodelbarrio.com/solo-queria-bailar/
   description: Disponible
 
-[15] La gran cacería
+[12] La gran cacería
   id: ebf7e7688a2e69a1a70cb7b957e03ee001642503a73049f39135c154f3871b74
   start: 2026-06-14T18:00:00+02:00
   end: N/A
@@ -166,7 +133,7 @@ Total events: 42
   url: https://teatrodelbarrio.com/la-gran-caceria/
   description: ¡Ya solo quedan 29 plazas!
 
-[16] La rabia es nuestra
+[13] La rabia es nuestra
   id: 98c9648c0585115eced6a3dac0afd16249f448bc22a48757e25236aca7e9f537
   start: 2026-06-14T20:30:00+02:00
   end: N/A
@@ -177,7 +144,7 @@ Total events: 42
   url: https://teatrodelbarrio.com/la-rabia-es-nuestra/
   description: Disponible
 
-[17] Proyección de la película "Políticas Familiares"
+[14] Proyección de la película "Políticas Familiares"
   id: d04acb7bc4f0fdc62092620b8cbeee4a8a22f5221ee29ba0e2c85241c3b17697
   start: 2026-06-16T19:00:00+02:00
   end: N/A
@@ -188,7 +155,7 @@ Total events: 42
   url: https://teatrodelbarrio.com/proyeccion-de-la-pelicula-politicas-familiares/
   description: Disponible
 
-[18] Gordas, lisiadas y mamarrachas
+[15] Gordas, lisiadas y mamarrachas
   id: ca18967c20b7ab3915a7cc53e03fe1ff3f2cd4264a0bc7d10ff413c5faf21dbe
   start: 2026-06-17T19:30:00+02:00
   end: N/A
@@ -199,7 +166,7 @@ Total events: 42
   url: https://teatrodelbarrio.com/gordas-lisiadas-y-mamarrachas/
   description: Disponible
 
-[19] La Mujer y la copla en nuestra educación sentimental
+[16] La Mujer y la copla en nuestra educación sentimental
   id: feb9f042acca8f4de029782af37da13b1eb5dc674cd88658738bcb325ab9a71d
   start: 2026-06-18T19:30:00+02:00
   end: N/A
@@ -210,7 +177,7 @@ Total events: 42
   url: https://teatrodelbarrio.com/la-mujer-y-la-copla-en-nuestra-educacion-sentimental/
   description: ¡Ya solo quedan 1 plazas!
 
-[20] Poesía o Barbarie
+[17] Poesía o Barbarie
   id: 7c8b891bb1ca94a83ce40bdd4698aa2901887b287352eda7512f9b54ca29d6d9
   start: 2026-06-18T22:00:00+02:00
   end: N/A
@@ -221,7 +188,7 @@ Total events: 42
   url: https://teatrodelbarrio.com/poesia-o-barbarie/
   description: Disponible
 
-[21] La memoria colonial del franquismo: Los silencios de nuestra historia
+[18] La memoria colonial del franquismo: Los silencios de nuestra historia
   id: f01c51c66f005cb7f20fe5db8d5b99cb1458a4a12a77b22f5a6c065b7ecad1d2
   start: 2026-06-19T19:00:00+02:00
   end: N/A
@@ -248,7 +215,7 @@ A diferencia de otras potencias coloniales, España apenas ha reflexionado sobre
 
 Con este nuevo podcast de Atado y Bien Atado queremos explorar la memoria colonial franquista, centrándonos en Guinea y el Sáhara Occidental, en cómo la dictadura construyó su narrativa sobre la colonización y en qué medida el silencio sobre este pasado sigue afectando en la actualidad.
 
-[22] En mitad de tanto fuego
+[19] En mitad de tanto fuego
   id: 0563ea9e658815d2760fe2275daf9e5713aa3d2b9046b92b9b02bf54501b3618
   start: 2026-06-19T19:30:00+02:00
   end: N/A
@@ -259,7 +226,7 @@ Con este nuevo podcast de Atado y Bien Atado queremos explorar la memoria coloni
   url: https://teatrodelbarrio.com/en-mitad-de-tanto-fuego/
   description: Disponible
 
-[23] AÚPA LERÉ. Percusión para crecer
+[20] AÚPA LERÉ. Percusión para crecer
   id: 1ae0ae403bc6bbacfcdd5dc0a454250906583fef470ec1e2fa3fe88339d1bb2d
   start: 2026-06-20T11:00:00+02:00
   end: N/A
@@ -270,7 +237,7 @@ Con este nuevo podcast de Atado y Bien Atado queremos explorar la memoria coloni
   url: https://teatrodelbarrio.com/aupa-lere-percusion-para-crecer/
   description: Disponible
 
-[24] No solo duelen los golpes.
+[21] No solo duelen los golpes.
   id: 8f2c9b3d1499837feb0712e7edd7a86893e970a0c2db042d11abf832384ed27c
   start: 2026-06-20T13:00:00+02:00
   end: N/A
@@ -281,7 +248,7 @@ Con este nuevo podcast de Atado y Bien Atado queremos explorar la memoria coloni
   url: https://teatrodelbarrio.com/no-solo-duelen-los-golpes/
   description: ¡Ya solo quedan 8 plazas!
 
-[25] En mitad de tanto fuego
+[22] En mitad de tanto fuego
   id: 6d4bd8775101cf6b275f786b4a856a93d22c082238f0b856f4c2e0dd79b1ab18
   start: 2026-06-20T19:30:00+02:00
   end: N/A
@@ -292,7 +259,7 @@ Con este nuevo podcast de Atado y Bien Atado queremos explorar la memoria coloni
   url: https://teatrodelbarrio.com/en-mitad-de-tanto-fuego/
   description: Disponible
 
-[26] No ni ná. Una copla diçidente p´acompañâh un guen puxero
+[23] No ni ná. Una copla diçidente p´acompañâh un guen puxero
   id: 1921fe2c8f6975235a481a03088afa05e2e0f2f58234f8aa7619af972b679b2d
   start: 2026-06-20T22:15:00+02:00
   end: N/A
@@ -303,7 +270,7 @@ Con este nuevo podcast de Atado y Bien Atado queremos explorar la memoria coloni
   url: https://teatrodelbarrio.com/no-ni-na/
   description: Disponible
 
-[27] Arrancamiento
+[24] Arrancamiento
   id: cc7cdc250c2a31675de6d9ef86c5a84f2607175f8cb66fdb7056fe328de20f50
   start: 2026-06-21T18:00:00+02:00
   end: N/A
@@ -314,7 +281,7 @@ Con este nuevo podcast de Atado y Bien Atado queremos explorar la memoria coloni
   url: https://teatrodelbarrio.com/arrancamiento/
   description: Disponible
 
-[28] Sobria y Serena
+[25] Sobria y Serena
   id: 8350278a58a66d66b097177e9f524ce00da5d7ad9da858a7fefaf6980993f41b
   start: 2026-06-21T20:30:00+02:00
   end: N/A
@@ -325,7 +292,7 @@ Con este nuevo podcast de Atado y Bien Atado queremos explorar la memoria coloni
   url: https://teatrodelbarrio.com/sobria-y-serena/
   description: Disponible
 
-[29] Habitar la dignidad
+[26] Habitar la dignidad
   id: ade755deee1fcc4a10aa862aa1b4af7bef9def67f157ccd9d4ffcfc98aec5b6b
   start: 2026-06-23T19:00:00+02:00
   end: N/A
@@ -336,7 +303,7 @@ Con este nuevo podcast de Atado y Bien Atado queremos explorar la memoria coloni
   url: https://teatrodelbarrio.com/habitar-la-dignidad/
   description: Disponible
 
-[30] Carcoma
+[27] Carcoma
   id: 0c7f0a1fdaa0ef95e122c2059411f20bae1315da339de51637b7c8392e708ea5
   start: 2026-06-24T19:30:00+02:00
   end: N/A
@@ -345,9 +312,9 @@ Con este nuevo podcast de Atado y Bien Atado queremos explorar la memoria coloni
   location: Teatro del Barrio - Calle de Zurita, 20, Madrid
   coordinates: 40.4096081, -3.699174
   url: https://teatrodelbarrio.com/carcoma/
-  description: Disponible
+  description: ¡Ya solo quedan 29 plazas!
 
-[31] Carcoma
+[28] Carcoma
   id: 6b9e74f14a3d3937e5d70bfd62aaa7d2842266b370da70528762d273f88f0186
   start: 2026-06-25T19:30:00+02:00
   end: N/A
@@ -356,9 +323,9 @@ Con este nuevo podcast de Atado y Bien Atado queremos explorar la memoria coloni
   location: Teatro del Barrio - Calle de Zurita, 20, Madrid
   coordinates: 40.4096081, -3.699174
   url: https://teatrodelbarrio.com/carcoma/
-  description: ¡Ya solo quedan 23 plazas!
+  description: ¡Ya solo quedan 15 plazas!
 
-[32] Esto no es culpa de nadie, con Facu Díaz
+[29] Esto no es culpa de nadie, con Facu Díaz
   id: 03a2a210e40035e14d3881f43558741131e04c5559aaf34d1062cb57de8a2efb
   start: 2026-06-25T21:00:00+02:00
   end: N/A
@@ -375,7 +342,7 @@ Una suerte de violinista del Titanic que, micrófono en mano, analiza de manera 
 
 Lo que está pasando es culpa de todos y a la vez culpa de nadie, o esa es la confusa teoría que pretende desarrollar el comediante uruguayo con este nuevo texto plagado de autoreferencias, proclamas políticas propias del siglo pasado y chistes vilmente usurpados a su compañero murciano.
 
-[33] Niño de Elche y Paul B. Preciado
+[30] Niño de Elche y Paul B. Preciado
   id: a119ee91989b6f5c28ab2646c30af440cf762f860da3f1dcfe1c099f0dd5e8a0
   start: 2026-06-26T19:30:00+02:00
   end: 2026-06-28T19:30:00+02:00
@@ -386,7 +353,7 @@ Lo que está pasando es culpa de todos y a la vez culpa de nadie, o esa es la co
   url: https://tienda.madrid-destino.com/es/nave-10/nino-de-elche-y-paul-b-preciado/
   description: Entradas agotadas desde 21.00€
 
-[34] Carcoma
+[31] Carcoma
   id: 5ebad53474248f09b5ed35dd5d9b7a023f99f29cd89225455e61b540ed16cff8
   start: 2026-06-26T19:30:00+02:00
   end: N/A
@@ -397,7 +364,7 @@ Lo que está pasando es culpa de todos y a la vez culpa de nadie, o esa es la co
   url: https://teatrodelbarrio.com/carcoma/
   description: ¡Ya solo quedan 25 plazas!
 
-[35] Esto no es culpa de nadie, con Facu Díaz
+[32] Esto no es culpa de nadie, con Facu Díaz
   id: ad10f9442be8b09ad13c9ee888b35137f0662e99cffec9730109c4c5a9ab102c
   start: 2026-06-26T21:00:00+02:00
   end: N/A
@@ -414,7 +381,7 @@ Una suerte de violinista del Titanic que, micrófono en mano, analiza de manera 
 
 Lo que está pasando es culpa de todos y a la vez culpa de nadie, o esa es la confusa teoría que pretende desarrollar el comediante uruguayo con este nuevo texto plagado de autoreferencias, proclamas políticas propias del siglo pasado y chistes vilmente usurpados a su compañero murciano.
 
-[36] Paloma Calle que se calle
+[33] Paloma Calle que se calle
   id: dc6efda0ce5e92b99947e29e7391e9c32fcba9204730b8a589313f22e72ab88d
   start: 2026-06-26T22:15:00+02:00
   end: N/A
@@ -425,7 +392,7 @@ Lo que está pasando es culpa de todos y a la vez culpa de nadie, o esa es la co
   url: https://teatrodelbarrio.com/paloma-calle-que-se-calle/
   description: Disponible
 
-[37] Arte Compacto. El vermut
+[34] Arte Compacto. El vermut
   id: 19062aada1146dee45de963a16a7284cf2958462a67b295a731e93d62b2f128c
   start: 2026-06-27T13:00:00+02:00
   end: N/A
@@ -436,7 +403,7 @@ Lo que está pasando es culpa de todos y a la vez culpa de nadie, o esa es la co
   url: https://teatrodelbarrio.com/arte-compacto/
   description: Disponible
 
-[38] Mujeres y memoria democrática. Borrando el olvido
+[35] Mujeres y memoria democrática. Borrando el olvido
   id: 0d7ecf35dee54aed0eeed0471d25abe37cf5873d1455165383a586b75ede7266
   start: 2026-06-27T19:30:00+02:00
   end: N/A
@@ -445,9 +412,9 @@ Lo que está pasando es culpa de todos y a la vez culpa de nadie, o esa es la co
   location: Teatro del Barrio - Calle de Zurita, 20, Madrid
   coordinates: 40.4096081, -3.699174
   url: https://teatrodelbarrio.com/mujeres-y-memoria-democratica-borrando-el-olvido/
-  description: ¡Ya solo quedan 14 plazas!
+  description: ¡Ya solo quedan 15 plazas!
 
-[39] Esto no es culpa de nadie, con Facu Díaz
+[36] Esto no es culpa de nadie, con Facu Díaz
   id: ddcc2f13045ca49d42d2b3d607ab2ba342a39267711e6fc700ba677481ccd57b
   start: 2026-06-27T21:00:00+02:00
   end: N/A
@@ -464,7 +431,7 @@ Una suerte de violinista del Titanic que, micrófono en mano, analiza de manera 
 
 Lo que está pasando es culpa de todos y a la vez culpa de nadie, o esa es la confusa teoría que pretende desarrollar el comediante uruguayo con este nuevo texto plagado de autoreferencias, proclamas políticas propias del siglo pasado y chistes vilmente usurpados a su compañero murciano.
 
-[40] Malas
+[37] Malas
   id: 463a230a4a3e048ee4d8443261847ea8ddc23fff67a2d76e0771dae0dc7f857a
   start: 2026-06-27T22:00:00+02:00
   end: N/A
@@ -475,7 +442,7 @@ Lo que está pasando es culpa de todos y a la vez culpa de nadie, o esa es la co
   url: https://teatrodelbarrio.com/malas/
   description: Disponible
 
-[41] Esto no es culpa de nadie, con Facu Díaz
+[38] Esto no es culpa de nadie, con Facu Díaz
   id: 9eb306edb0ea92af31e8d4dab87e12bba9ae041aeb73774f285d0d8bee26fc23
   start: 2026-06-28T19:00:00+02:00
   end: N/A
@@ -492,7 +459,7 @@ Una suerte de violinista del Titanic que, micrófono en mano, analiza de manera 
 
 Lo que está pasando es culpa de todos y a la vez culpa de nadie, o esa es la confusa teoría que pretende desarrollar el comediante uruguayo con este nuevo texto plagado de autoreferencias, proclamas políticas propias del siglo pasado y chistes vilmente usurpados a su compañero murciano.
 
-[42] José del Curro (cante) y Jerónimo Maya (toque). PEÑA FLAMENCA DE LAVAPIÉS
+[39] José del Curro (cante) y Jerónimo Maya (toque). PEÑA FLAMENCA DE LAVAPIÉS
   id: 43e6769b8aa2886d9cc7e12ea1813424025780c0b9e32680a30f78247073068c
   start: 2026-06-28T21:00:00+02:00
   end: N/A
