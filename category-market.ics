@@ -2,6 +2,28 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
+SUMMARY:Feria de Artesanía de Recoletos
+DTSTART;TZID=Europe/Madrid:20260524T110000
+DTEND;TZID=Europe/Madrid:20260614T210000
+UID:865c01494f4835eea4fb8d36573e9e3517a598b4a90d631a6e7514c2b032fac5
+CATEGORIES:market
+DESCRIPTION:Feria de artesanía organizada por AMOA en el Paseo de Recolet
+ os con puestos de oficios artesanos y diseño.\n\nhttps://amoa.es/
+LOCATION:Paseo de Recoletos - Paseo de Recoletos\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mercado Productores Alcobendas
+DTSTART;TZID=Europe/Madrid:20260614T100000
+DTEND;TZID=Europe/Madrid:20260614T160000
+UID:9b5bd683b994bce6e3035e72479562edae26ed8a62872fc67f75ff3109f8afa8
+CATEGORIES:market
+DESCRIPTION:Mercado de productores locales y artesanos en Alcobendas con a
+ limentos de proximidad y propuestas gastronomicas.\n\nhttps://mercadoprodu
+ ctores.es/mp-alcobendas/
+LOCATION:Mercado Productores Alcobendas - Paseo de Valdelasfuentes esquina
+  Calle Jose Hierro\, Alcobendas
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Mercado de las Ranas
 DTSTART;TZID=Europe/Madrid:20260620T120000
 DTEND;TZID=Europe/Madrid:20260620T200000
@@ -11,6 +33,18 @@ DESCRIPTION:Mercado del Barrio de las Letras con puestos de artesanía\, d
  iseño\, moda y gastronomía en la calle Huertas.\n\nhttps://barrioletras.
  com/mercado-de-las-ranas/
 LOCATION:Barrio de las Letras - Calle de las Huertas\, 2-47\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mercado Productores Valdebebas
+DTSTART;TZID=Europe/Madrid:20260628T100000
+DTEND;TZID=Europe/Madrid:20260628T160000
+UID:f333e40c34ff21488175f93289ff2dfcf8f6ae56c77e6cc4bcd5d60f61a261eb
+CATEGORIES:market
+DESCRIPTION:Mercado de productores locales y artesanos en Valdebebas con p
+ roductos frescos\, gourmet y actividades para todos los publicos.\n\nhttps
+ ://mercadoproductores.es/mercado-valdebebas/
+LOCATION:Mercado Productores Valdebebas - Plaza Francisco de Asis Cabrero\
+ , Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mercado de las Ranas
