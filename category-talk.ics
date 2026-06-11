@@ -2,57 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Vacunas: beneficios y bulos. Aclarando dudas
-DTSTART;TZID=Europe/Madrid:20260610T170000
-DTEND;TZID=Europe/Madrid:20260610T170000
-UID:2762b0234ceacef9294162fbae6d85b349449db1f7bee0803bde121394c7db50
-CATEGORIES:talk
-DESCRIPTION:Sección de Ciencias de la Salud. Intervienen: Ángel Gil de M
- iguel\, catedrático de Medicina Preventiva y Salud Pública\, URJC\; Arac
- eli Rivera\, enfermera familiar y comunitaria SEMAP\; Presenta: Sergio Gó
- mez del Río\, médico especialista en salud publica AMAS. Modera: José J
- over\, médico de salud pública AMAS. Sala Larra. 17:00h.\n\nhttps://aten
- eodemadrid.com/evento/vacunas-beneficios-y-bulos-aclarando-dudas/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Proyección del documental y coloquio "El peso de la ausencia"
-DTSTART;TZID=Europe/Madrid:20260610T180000
-DTEND;TZID=Europe/Madrid:20260610T180000
-UID:cb027bb6724221358dab08f89708af4628bd632ebb77fde29c2a0e673af190fb
-CATEGORIES:talk
-DESCRIPTION:Conduce y modera: Miriam Benterrak. Con: Alberto Gómez Uriol\
- , director. Sala Ramón y Cajal. 18:00h.\n\nhttps://ateneodemadrid.com/eve
- nto/proyeccion-del-documental-y-coloquio-el-peso-de-la-ausencia/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dramawalker Lyceum Club Femenino: ecos de un legado
-DTSTART;TZID=Europe/Madrid:20260610T190000
-DTEND;TZID=Europe/Madrid:20260610T190000
-UID:fb7577a21b572130a60d3bcc07bfb8ee839d57c1f6c1ca57e2aa3104eeabb3ad
-CATEGORIES:talk
-DESCRIPTION:Sección de Teatro. Coloquio con las creadoras: Irene Herrá
- ez\, directora y dramaturga\, será la moderadora de la mesa\; Nieves Rod
- ríguez\, dramaturga\; Mamen Camacho\, actriz\; Laura Galán\, actriz y 
- Candela Sierra\, ilustradora. Biblioteca. 19:00h.\n\nhttps://ateneodemadr
- id.com/evento/proyecto-dramawalker-lyceum-club-femenino/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Presentación del libro "De Guadalupe a Roma pasando por Oropesa"
-DTSTART;TZID=Europe/Madrid:20260610T193000
-DTEND;TZID=Europe/Madrid:20260610T193000
-UID:a68ad84d859577fcc01d00e8ab1750e96179934828f434fcac314583fc20ba15
-CATEGORIES:talk
-DESCRIPTION:Agrupación 92 Liberales y Sección de Mitos Religiones y Huma
- nidades. Intervienen los autores: Jesús Pino y Jesús Monja. Presenta: S
- eby García. Introduce: Celia Monja. Sala Pérez Galdós. 19:30h.\n\nhttp
- s://ateneodemadrid.com/evento/presentacion-del-libro-de-guadalupe-a-roma-p
- asando-por-oropesa/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:De Salamanca a Manhattan: traducción de la obra de Carmen Martín
   Gaite\, un diálogo transatlántico en la búsqueda del interlocutor
 DTSTART;TZID=Europe/Madrid:20260611T170000
@@ -355,11 +304,10 @@ DTSTART;TZID=Europe/Madrid:20260615T193000
 DTEND;TZID=Europe/Madrid:20260615T193000
 UID:10df60af8f0f428ee8ea0898d9a01bd4782c32f808d934d7bdb0a31434b050eb
 CATEGORIES:talk
-DESCRIPTION:Sección de Ciencias Históricas. Intervienen Antonio García 
- Santesmases\, catedrático de filosofía Política de la UNED. Intervienen
- : Ángel López\, autor y Carlos Mendoza. Preside y presenta: Ana Maestro.
-  Sala Ramón y Cajal. 19:30h.\n\nhttps://ateneodemadrid.com/evento/present
- acion-del-libro-rio-de-la-pila-ritmo-de-libertad/
+DESCRIPTION:Sección de Mitos\, Religiones y Humanidades. Intervienen: Án
+ gel López\, autor y Carlos Mendoza. Preside y presenta: Ana Maestro. Sala
+  Ramón y Cajal. 19:30h.\n\nhttps://ateneodemadrid.com/evento/presentacion
+ -del-libro-rio-de-la-pila-ritmo-de-libertad/
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -404,6 +352,58 @@ DESCRIPTION:Dani Asenjo visita la librería Desnivel para presentarnos el
  trada libre hasta completar aforo!\n\nhttps://www.libreriadesnivel.com/age
  nda/barrancos-por-dani-asenjo/439/
 LOCATION:Libreria Desnivel - Plaza de Matute\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La revolución interior. Una conversación en torno a los interior
+ es del siglo XXI en Madrid
+DTSTART;TZID=Europe/Madrid:20260616T190000
+DTEND;TZID=Europe/Madrid:20260616T190000
+UID:004c89fece2b5ff178b49dd6f7b331c7d2e618643e4030fde8e753e01a30da8d
+CATEGORIES:talk
+DESCRIPTION:Sección de Arquitectura. Bienvenida: José María Ezquiaga. I
+ ntervienen: BURR + ESTUDIO ANIMAL. Modera: Ariadna Cantis. Sala Pérez Gal
+ dós. 19:00h.\n\nhttps://ateneodemadrid.com/evento/la-revolucion-interior-
+ una-conversacion-en-torno-a-los-interiores-del-siglo-xxi-en-madrid/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El miedo a frustrar: cuando poner límites se vuelve difícil
+DTSTART;TZID=Europe/Madrid:20260616T190000
+DTEND;TZID=Europe/Madrid:20260616T190000
+UID:7ee7a920b3d2cdf1db6ad8aa7c347a6c7da8de66022efd13d0b86af6f7b75c2b
+CATEGORIES:talk
+DESCRIPTION:Agrupación 92 Liberales y Sección de Psicología. Interviene
+ n: Lucía Torres\, psiquiatra y directora médica\; Patricia Alonso\, psic
+ óloga y neuropsicóloga\; y María Torres\, psicóloga. Introduce: Palom
+ a del Castillo. Preside: Cintia Rodríguez. Salón Ciudad de Úbeda. 19:00
+ h.\n\nhttps://ateneodemadrid.com/evento/el-miedo-a-frustrar-cuando-poner-l
+ imites-se-vuelve-dificil/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Presentación del libro "Antirrimas de la luna"
+DTSTART;TZID=Europe/Madrid:20260616T193000
+DTEND;TZID=Europe/Madrid:20260616T193000
+UID:c73341498b382295f8ec8a9ba44ae3e2fbd5bf043d5a41736767f2dca98ad2bd
+CATEGORIES:talk
+DESCRIPTION:Agrupación de Estudios pictóricos y sociales Francisco de Go
+ ya y  Sección de Derechos Civiles. Intervienen: Antonio Perán\, autor y
+  Mayte Pedraza. Presenta: Paco Forte. Sala Ramón y Cajal. 19:30h.\n\nhttp
+ s://ateneodemadrid.com/evento/presentacion-del-libro-antirrimas-de-la-luna
+ /
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:16.250 km. en bicicleta. De Lisboa a Hong Kong
+DTSTART;TZID=Europe/Madrid:20260616T193000
+DTEND;TZID=Europe/Madrid:20260616T193000
+UID:c2787ea221603d4344a699d6f9c3954216116cc6e8611c9192f2aac5a1ab849b
+CATEGORIES:talk
+DESCRIPTION:Agrupación de Geografía\, Exploración y Viajes Álvar Núñ
+ ez Cabeza de Vaca. Con: Jaime de Mollinedo\, viajero y divulgador . Presen
+ ta: Pío Cabanillas. Sala Larra. 19:30h.\n\nhttps://ateneodemadrid.com/eve
+ nto/16250-km-en-bicicleta-de-lisboa-a-hong-kong/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Unoconcinco: encuentros de la alimentación sostenible
