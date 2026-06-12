@@ -91,17 +91,6 @@ DESCRIPTION:El museo incorpora a su colección una obra maestra de la últ
 LOCATION:Museo del Prado - del Prado\, s/n\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:El sueño de una noche de verano. Julia Margaret Cameron
-DTSTART;TZID=Europe/Madrid:20250611T000000
-DTEND;TZID=Europe/Madrid:20260611T000000
-UID:75baa5d8c58c6ee77fc565a69ffab572c2174c4f1802a9c767ef1e062b09eb13
-CATEGORIES:exhibition
-DESCRIPTION:Exposición que recupera la intensidad poética y teatral de l
- as imágenes de la fotógrafa británica (Teatro Real. Hasta 11 junio).\n\
- nhttps://phe.es/exposicion/el-sueno-de-una-noche-de-verano/
-LOCATION:Teatro Real - de Isabel II\, s/n\, Madrid\, 28013
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:I Creative Campus Awards. Finalistas
 DTSTART;TZID=Europe/Madrid:20250614T000000
 DTEND;TZID=Europe/Madrid:20260731T000000
@@ -1157,13 +1146,13 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Insectos al detalle: vecinos urbanos
 DTSTART;TZID=Europe/Madrid:20260508T000000
-DTEND;TZID=Europe/Madrid:20260613T000000
+DTEND;TZID=Europe/Madrid:20270104T000000
 UID:be5c66cac9113fcd9ef6efa98dde59759fdfb8de186cc3271a3eee60b61d9990
 CATEGORIES:exhibition
 DESCRIPTION:Máher Fahim Fernández presenta una sorprendente mirada micro
  scópica a los insectos y artrópodos que habitan las ciudades (Museo Naci
- onal de Ciencias Naturales).\n\nhttps://www.mncn.csic.es/es/visita-el-mncn
- /exposiciones/insectos-al-detalle-vecinos-urbanos
+ onal de Ciencias Naturales. Hasta enero 2027).\n\nhttps://www.mncn.csic.es
+ /es/visita-el-mncn/exposiciones/insectos-al-detalle-vecinos-urbanos
 LOCATION:Museo Nacional de Ciencias Naturales - de José Gutierrez Abascal
  \, 2\, Madrid\, 28006
 END:VEVENT
@@ -1903,16 +1892,16 @@ DESCRIPTION:Exposición colectiva que reúne a 44 jóvenes creadores que r
 LOCATION:C Arte C - de Juan de Herrera\, 2\, Madrid\, 28040
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Espectros. Enigmas de la mirada (PHotoESPAÑA 2026)
+SUMMARY:Nada espontáneo. Una mirada a los 90
 DTSTART;TZID=Europe/Madrid:20260611T000000
-DTEND;TZID=Europe/Madrid:20260913T000000
-UID:6d045c22e57564009fce5fb269a18f1f6c09f4cd39f163e513b408a5c0c54a7a
+DTEND;TZID=Europe/Madrid:20260831T000000
+UID:ff8d1adf96ea90068b9796b350661fa045ccae886eb1fbbea545c534c8ef31df
 CATEGORIES:exhibition
-DESCRIPTION:Exposición que reúne el trabajo de siete fotógrafos mexican
- os de reconocida trayectoria (Fundación Casa de México en España. 11 ju
- n a 13 sept).\n\nhttps://phe.es/exposicion/espectros-enigmas-de-la-mirada/
-LOCATION:Fundación Casa de México en España - de Alberto Aguilera\, 20\
- , Madrid\, 28015
+DESCRIPTION:Muestra del fotógrafo Jesús Ugalde que incluye retratos de g
+ randes figuras de la música española como Alejandro Sanz o Andrés Calam
+ aro (Matadero Madrid. A partir 11 junio).\n\nhttps://www.mataderomadrid.or
+ g/programacion/nada-espontaneo-una-mirada-los-90
+LOCATION:Matadero Madrid - de Legazpi\, 8\, Madrid\, 28045
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nosaltres no tenim por\, nosaltres som. Colita (PHotoESPAÑA 2026)
@@ -1954,6 +1943,18 @@ DESCRIPTION:Exposición que conecta imagen\, política y cuerpo\, reflexio
  stalación site-specific (Museo Cerralbo. 12 jun\n\nhttps://phe.es/expos
  icion/disfuncionarias/
 LOCATION:Museo Cerralbo - de Ventura Rodríguez\, 17\, Madrid\, 28008
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Espectros. Enigmas de la mirada (PHotoESPAÑA 2026)
+DTSTART;TZID=Europe/Madrid:20260612T000000
+DTEND;TZID=Europe/Madrid:20260913T000000
+UID:251b9bfecaf0908b3f7378916b039919d0953f5f94dc6ff97581e778cebb926a
+CATEGORIES:exhibition
+DESCRIPTION:Exposición que reúne el trabajo de siete fotógrafos mexican
+ os de reconocida trayectoria (Fundación Casa de México en España. 12 ju
+ n a 13 sept).\n\nhttps://phe.es/exposicion/espectros-enigmas-de-la-mirada/
+LOCATION:Fundación Casa de México en España - de Alberto Aguilera\, 20\
+ , Madrid\, 28015
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Toda mi casa es un altar. Gema Polanco (PHotoESPAÑA 2026)
@@ -2166,5 +2167,18 @@ DESCRIPTION:Exposición colectiva que reflexiona sobre cómo percibimos\,
  tps://www.centrocentro.org/exposicion/x-bienal-de-arte-contemporaneo-de-fu
  ndacion-once
 LOCATION:CentroCentro - de Cibeles\, 1\, Madrid\, 28014
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mitologías modernas: Ouka Leele & Co
+DTSTART;TZID=Europe/Madrid:20260702T000000
+DTEND;TZID=Europe/Madrid:20261018T000000
+UID:0656dc6567002ca560c050169bdf081eb09a494f3f32d76aad7e8c05b30645f1
+CATEGORIES:exhibition
+DESCRIPTION:Exposición que revisita el papel de la mitología en el arte 
+ madrileño de la década de 1980 a partir de la obra de la artista Ouka Le
+ ele (Sala Alcalá 31. 2 jul a 18 oct).\n\nhttps://www.comunidad.madrid/act
+ ividades/2026/exposicion-mitologias-modernas-ouka-leele-co
+LOCATION:Sala Alcalá 31 de la Comunidad de Madrid - de Alcalá\, 31\, Mad
+ rid\, 28014
 END:VEVENT
 END:VCALENDAR
