@@ -2,35 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Ubú
-DTSTART;TZID=Europe/Madrid:20260612T193000
-DTEND;TZID=Europe/Madrid:20260621T193000
-UID:a56573e15b36299498f04f228d668b599f378b13af45661ba6edc325bb0216ff
-CATEGORIES:theater
-DESCRIPTION:Entradas disponibles desde 15.75€ | Tags: JOBO\n\nhttps://ti
- enda.madrid-destino.com/es/nave-10/ubu/
-LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Taxidermia de una alondra
-DTSTART;TZID=Europe/Madrid:20260612T193000
-UID:bd3dd8d754cdbc956003e46619c897d369630d62ff15750df25d68856260fede
-CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 16 plazas!\n\nhttps://teatrodelbarrio.com/tax
- idermia-de-una-alondra/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Alfonso Gardi & el Templo presentan ‘Nuestro Ahora’
-DTSTART;TZID=Europe/Madrid:20260612T221500
-UID:780faa131e644d8e8c818f61bce4a6c398604bd6c841fe1ad9ec24ec08b20bfe
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/alfonso-gardi-el-tem
- plo-presentan-nuestro-ahoraalfonso-gardi-el-templo-presentan-nuestro-ahora
- /
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Hoy tengo algo que hacer
 DTSTART;TZID=Europe/Madrid:20260613T130000
 UID:edb330302037ce60495acde447a67939f8b3769291f5af9ef1e46fc5afeb1c2a
@@ -38,6 +9,16 @@ CATEGORIES:theater
 DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/hoy-tengo-algo-que-h
  acer/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ubú
+DTSTART;TZID=Europe/Madrid:20260613T193000
+DTEND;TZID=Europe/Madrid:20260621T193000
+UID:a56573e15b36299498f04f228d668b599f378b13af45661ba6edc325bb0216ff
+CATEGORIES:theater
+DESCRIPTION:Entradas disponibles desde 15.75€ | Tags: JOBO\n\nhttps://ti
+ enda.madrid-destino.com/es/nave-10/ubu/
+LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Taxidermia de una alondra
@@ -78,7 +59,7 @@ SUMMARY:Mañana más
 DTSTART;TZID=Europe/Madrid:20260615T190000
 UID:8443329a1011fdd480eab38064aa79dd1702b37ba0a1102cdcfa0929d100eb69
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 1 plazas!\n\nhttps://teatrodelbarrio.com/mana
+DESCRIPTION:¡Ya solo quedan 5 plazas!\n\nhttps://teatrodelbarrio.com/mana
  na-mas/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
@@ -227,7 +208,7 @@ SUMMARY:Carcoma
 DTSTART;TZID=Europe/Madrid:20260624T193000
 UID:0c7f0a1fdaa0ef95e122c2059411f20bae1315da339de51637b7c8392e708ea5
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 21 plazas!\n\nhttps://teatrodelbarrio.com/car
+DESCRIPTION:¡Ya solo quedan 18 plazas!\n\nhttps://teatrodelbarrio.com/car
  coma/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
@@ -273,7 +254,7 @@ SUMMARY:Carcoma
 DTSTART;TZID=Europe/Madrid:20260626T193000
 UID:5ebad53474248f09b5ed35dd5d9b7a023f99f29cd89225455e61b540ed16cff8
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 19 plazas!\n\nhttps://teatrodelbarrio.com/car
+DESCRIPTION:¡Ya solo quedan 17 plazas!\n\nhttps://teatrodelbarrio.com/car
  coma/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
@@ -317,7 +298,7 @@ SUMMARY:Mujeres y memoria democrática. Borrando el olvido
 DTSTART;TZID=Europe/Madrid:20260627T193000
 UID:0d7ecf35dee54aed0eeed0471d25abe37cf5873d1455165383a586b75ede7266
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 4 plazas!\n\nhttps://teatrodelbarrio.com/muje
+DESCRIPTION:¡Ya solo quedan 2 plazas!\n\nhttps://teatrodelbarrio.com/muje
  res-y-memoria-democratica-borrando-el-olvido/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
