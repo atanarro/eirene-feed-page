@@ -2,17 +2,37 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Hoy tengo algo que hacer
-DTSTART;TZID=Europe/Madrid:20260613T130000
-UID:edb330302037ce60495acde447a67939f8b3769291f5af9ef1e46fc5afeb1c2a
+SUMMARY:Las últimas
+DTSTART;TZID=Europe/Madrid:20260512T200000
+DTEND;TZID=Europe/Madrid:20260621T200000
+UID:316be86cfbc47554e2ec61a11a79f1a4f0ab7c707e2a2f3937148b01aa6cf977
 CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/hoy-tengo-algo-que-h
- acer/
+DESCRIPTION:Una creación de Cross Border Texto y dirección Lucía Mirand
+ a\n\nhttps://dramatico.inaem.gob.es/evento/las-ultimas/
+LOCATION:Teatro Valle-Inclán - Plaza de Lavapies\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Una buena vida
+DTSTART;TZID=Europe/Madrid:20260513T180000
+DTEND;TZID=Europe/Madrid:20260621T180000
+UID:086d449e5fecb5c4f577020bd6df49e9111926e9f62e7c7a6ff99af6773ed168
+CATEGORIES:theater
+DESCRIPTION:Texto y dirección Carolina África\n\nhttps://dramatico.inaem
+ .gob.es/evento/una-buena-vida/
+LOCATION:Teatro Maria Guerrero - Calle de Tamayo y Baus\, 4\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La gran cacería
+DTSTART;TZID=Europe/Madrid:20260614T180000
+UID:ebf7e7688a2e69a1a70cb7b957e03ee001642503a73049f39135c154f3871b74
+CATEGORIES:theater
+DESCRIPTION:¡Ya solo quedan 1 plazas!\n\nhttps://teatrodelbarrio.com/la-g
+ ran-caceria/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ubú
-DTSTART;TZID=Europe/Madrid:20260613T193000
+DTSTART;TZID=Europe/Madrid:20260614T193000
 DTEND;TZID=Europe/Madrid:20260621T193000
 UID:a56573e15b36299498f04f228d668b599f378b13af45661ba6edc325bb0216ff
 CATEGORIES:theater
@@ -21,37 +41,12 @@ DESCRIPTION:Entradas disponibles desde 15.75€ | Tags: JOBO\n\nhttps://ti
 LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Taxidermia de una alondra
-DTSTART;TZID=Europe/Madrid:20260613T193000
-UID:d4414d3da531352754fe6a5795c1b37998f9de243771ff0d567b8eed503d5a84
-CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 1 plazas!\n\nhttps://teatrodelbarrio.com/taxi
- dermia-de-una-alondra/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Solo quería bailar
-DTSTART;TZID=Europe/Madrid:20260613T221500
-UID:e8b0471ce6592d2cb582d93224d9a49b01e85138d028183b10a450302c4a913e
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/solo-queria-bailar/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La gran cacería
-DTSTART;TZID=Europe/Madrid:20260614T180000
-UID:ebf7e7688a2e69a1a70cb7b957e03ee001642503a73049f39135c154f3871b74
-CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 7 plazas!\n\nhttps://teatrodelbarrio.com/la-g
- ran-caceria/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:La rabia es nuestra
 DTSTART;TZID=Europe/Madrid:20260614T203000
 UID:98c9648c0585115eced6a3dac0afd16249f448bc22a48757e25236aca7e9f537
 CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/la-rabia-es-nuestra/
+DESCRIPTION:¡Ya solo quedan 28 plazas!\n\nhttps://teatrodelbarrio.com/la-
+ rabia-es-nuestra/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -59,7 +54,7 @@ SUMMARY:Mañana más
 DTSTART;TZID=Europe/Madrid:20260615T190000
 UID:8443329a1011fdd480eab38064aa79dd1702b37ba0a1102cdcfa0929d100eb69
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 5 plazas!\n\nhttps://teatrodelbarrio.com/mana
+DESCRIPTION:¡Ya solo quedan 4 plazas!\n\nhttps://teatrodelbarrio.com/mana
  na-mas/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
@@ -188,6 +183,54 @@ DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/arrancamiento/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:El Caserón de la Loca
+DTSTART;TZID=Europe/Madrid:20260621T190000
+UID:ed9f5cd32bfc4757934e57efea726bebe3c11170b0ea5cb0c72176f0ac265278
+CATEGORIES:theater
+DESCRIPTION:En un viejo caserón habitado por mujeres excéntricas\, sensi
+ bles\, libres y aparentemente disparatadas\, Gloria Fuertes construye una 
+ historia llena de humor\, ternura y crítica social. Entre situaciones abs
+ urdas\, diálogos ingeniosos y personajes entrañables\, la obra cuestiona
+  los límites entre cordura y locura en una sociedad que a menudo etiqueta
+  como “locos” a quienes simplemente se atreven a ser diferentes. Con s
+ u inconfundible mezcla de poesía\, ironía y humanidad\, El caserón de l
+ as locas es una celebración de la imaginación\, la libertad y la rebeld
+ ía frente a las normas establecidas. Imparte: Con Causa Actores: Grupo AC
+ CIÓN TEATRO\, de Casa del Lector\n\nhttps://www.mataderomadrid.org/progra
+ macion/el-caseron-de-la-loca
+LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ubú
+DTSTART;TZID=Europe/Madrid:20260621T193000
+UID:c36e8cd45f3a5a9449a76a877c6a9ee7148c622954ad65147b27c2b09ee553ce
+CATEGORIES:theater
+DESCRIPTION:AVISO A PÚBLICO : Marta Guerras interpreta el papel Mami Ubú
+  todos los días excepto las funciones del 19\, 20 y 21 de junio\, que Mam
+ i Ubú será interpretada por Cristina Gallego . -------------------------
+ --------------------------------------------------------------------------
+ ----------------------------------------------- Monsieur Ubú es un ser in
+ noble\, y por eso mismo se parece bastante (de ombligo para abajo) a nosot
+ ros mismos. Alfred Jarry\, autor de la cita\, cambió el teatro de su tiem
+ po creando el personaje de Ubú\, caricatura de uno de sus profesores y de
+ l ansia de poder. María Folguera nos propone una versión de Ubú\, ese p
+ atán empeñado en invadir Polonia\, más cercana al tiempo que vivimos. U
+ bú rey se estrenó en París en 1896. Cuenta la historia de un señor que
+  se propone conquistar Polonia a costa de todo y lo consigue\, aunque lueg
+ o gestiona de manera horrible su mandato\, enriqueciéndose de manera verg
+ onzosa y huye antes de que lo atrapen. ¡Mierdra! \, como se tradujo al es
+ pañol la famosa palabra que Ubú no deja de decir\, representa la dispara
+ tada personalidad de los personajes de la obra de Alfred Jarry que dio pas
+ o al Absurdo. María Folguera crea un texto original a partir de este clá
+ sico del teatro\, trayéndolo a nuestro tiempo. La visita al repertorio si
+ empre ha servido para entender la sociedad actual. A nuestro alrededor som
+ os capaces de distinguir varios patanes con ansias de poder y sin ningún 
+ escrúpulo. No cambiamos de problemas\, pero seguimos riendo de la misma m
+ anera. Rocío Bello Dramaturgista de la temporada 25/26 de Nave 10 Matader
+ o\n\nhttps://www.mataderomadrid.org/programacion/ubu
+LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sobria y Serena
 DTSTART;TZID=Europe/Madrid:20260621T203000
 UID:8350278a58a66d66b097177e9f524ce00da5d7ad9da858a7fefaf6980993f41b
@@ -298,7 +341,7 @@ SUMMARY:Mujeres y memoria democrática. Borrando el olvido
 DTSTART;TZID=Europe/Madrid:20260627T193000
 UID:0d7ecf35dee54aed0eeed0471d25abe37cf5873d1455165383a586b75ede7266
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 2 plazas!\n\nhttps://teatrodelbarrio.com/muje
+DESCRIPTION:¡Ya solo quedan 1 plazas!\n\nhttps://teatrodelbarrio.com/muje
  res-y-memoria-democratica-borrando-el-olvido/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
