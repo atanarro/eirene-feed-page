@@ -2,59 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Las últimas
-DTSTART;TZID=Europe/Madrid:20260512T200000
-DTEND;TZID=Europe/Madrid:20260621T200000
-UID:316be86cfbc47554e2ec61a11a79f1a4f0ab7c707e2a2f3937148b01aa6cf977
-CATEGORIES:theater
-DESCRIPTION:Una creación de Cross Border Texto y dirección Lucía Mirand
- a\n\nhttps://dramatico.inaem.gob.es/evento/las-ultimas/
-LOCATION:Teatro Valle-Inclán - Plaza de Lavapies\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Una buena vida
-DTSTART;TZID=Europe/Madrid:20260513T180000
-DTEND;TZID=Europe/Madrid:20260621T180000
-UID:086d449e5fecb5c4f577020bd6df49e9111926e9f62e7c7a6ff99af6773ed168
-CATEGORIES:theater
-DESCRIPTION:Texto y dirección Carolina África\n\nhttps://dramatico.inaem
- .gob.es/evento/una-buena-vida/
-LOCATION:Teatro Maria Guerrero - Calle de Tamayo y Baus\, 4\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La gran cacería
-DTSTART;TZID=Europe/Madrid:20260614T180000
-UID:ebf7e7688a2e69a1a70cb7b957e03ee001642503a73049f39135c154f3871b74
-CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 1 plazas!\n\nhttps://teatrodelbarrio.com/la-g
- ran-caceria/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ubú
-DTSTART;TZID=Europe/Madrid:20260614T193000
-DTEND;TZID=Europe/Madrid:20260621T193000
-UID:a56573e15b36299498f04f228d668b599f378b13af45661ba6edc325bb0216ff
-CATEGORIES:theater
-DESCRIPTION:Entradas disponibles desde 15.75€ | Tags: JOBO\n\nhttps://ti
- enda.madrid-destino.com/es/nave-10/ubu/
-LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La rabia es nuestra
-DTSTART;TZID=Europe/Madrid:20260614T203000
-UID:98c9648c0585115eced6a3dac0afd16249f448bc22a48757e25236aca7e9f537
-CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 28 plazas!\n\nhttps://teatrodelbarrio.com/la-
- rabia-es-nuestra/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Mañana más
 DTSTART;TZID=Europe/Madrid:20260615T190000
 UID:8443329a1011fdd480eab38064aa79dd1702b37ba0a1102cdcfa0929d100eb69
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 4 plazas!\n\nhttps://teatrodelbarrio.com/mana
+DESCRIPTION:¡Ya solo quedan 1 plazas!\n\nhttps://teatrodelbarrio.com/mana
  na-mas/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
@@ -66,6 +18,16 @@ CATEGORIES:theater
 DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/proyeccion-de-la-pel
  icula-politicas-familiares/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ubú
+DTSTART;TZID=Europe/Madrid:20260616T193000
+DTEND;TZID=Europe/Madrid:20260621T193000
+UID:a56573e15b36299498f04f228d668b599f378b13af45661ba6edc325bb0216ff
+CATEGORIES:theater
+DESCRIPTION:Entradas disponibles desde 15.75€ | Tags: JOBO\n\nhttps://ti
+ enda.madrid-destino.com/es/nave-10/ubu/
+LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PAPA LEÓN. Adiós muy buenas\, te despiden las ateas
@@ -137,6 +99,14 @@ UID:0563ea9e658815d2760fe2275daf9e5713aa3d2b9046b92b9b02bf54501b3618
 CATEGORIES:theater
 DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/en-mitad-de-tanto-fu
  ego/
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Una noche FLINTA
+DTSTART;TZID=Europe/Madrid:20260619T221500
+UID:4f078f80e48c6b55ec1cd355e48fe8bece3663510182930af4c08f0a8d2ae2e5
+CATEGORIES:theater
+DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/una-noche-flinta/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -251,7 +221,7 @@ SUMMARY:Carcoma
 DTSTART;TZID=Europe/Madrid:20260624T193000
 UID:0c7f0a1fdaa0ef95e122c2059411f20bae1315da339de51637b7c8392e708ea5
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 18 plazas!\n\nhttps://teatrodelbarrio.com/car
+DESCRIPTION:¡Ya solo quedan 13 plazas!\n\nhttps://teatrodelbarrio.com/car
  coma/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
@@ -260,8 +230,8 @@ SUMMARY:Carcoma
 DTSTART;TZID=Europe/Madrid:20260625T193000
 UID:6b9e74f14a3d3937e5d70bfd62aaa7d2842266b370da70528762d273f88f0186
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 13 plazas!\n\nhttps://teatrodelbarrio.com/car
- coma/
+DESCRIPTION:¡Ya solo quedan 8 plazas!\n\nhttps://teatrodelbarrio.com/carc
+ oma/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
