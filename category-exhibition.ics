@@ -56,17 +56,6 @@ LOCATION:Fundación María Cristina Masaveu Peterson - de Alcalá Galiano\
  , 6\, Madrid\, 28071
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Artemisa: la magia de la Luna
-DTSTART;TZID=Europe/Madrid:20241206T000000
-DTEND;TZID=Europe/Madrid:20261227T000000
-UID:aa86a883184c75988b42c9fc5aa9bbb73e59f4c3ad519f7d1014e3fecfd60bff
-CATEGORIES:exhibition
-DESCRIPTION:Una exposición que presenta la belleza y el misterio de la Lu
- na a través de la creatividad de artistas\, y el trabajo de científicos
-  y científicas (Planetario.\n\nhttps://planetmad.es/events/event/14284/
-LOCATION:Planetario - del Planetario\, 16\, Madrid\, 28045
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Un rato con Torcuato. El origen de una colección
 DTSTART;TZID=Europe/Madrid:20241219T000000
 DTEND;TZID=Europe/Madrid:20260731T000000
@@ -1182,6 +1171,18 @@ LOCATION:Centro Cultural Coreano en España - de la Castellana\, 15\, Madr
  id\, 28046
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Nueva-Vieja Pintura
+DTSTART;TZID=Europe/Madrid:20260514T000000
+DTEND;TZID=Europe/Madrid:20260719T000000
+UID:ec3d8663cd21904ad591cf7950a114afbf1d03bcb5a2ad8344fed395df1dfe84
+CATEGORIES:exhibition
+DESCRIPTION:Exposición colectiva que reflexiona sobre la situación actua
+ l de la pintura contemporánea (Sala de Arte Joven. Hasta 19 julio).\n\nht
+ tps://www.comunidad.madrid/actividades/2026/exposicion-nueva-vieja-pintura
+LOCATION:Sala de Arte Joven de la Comunidad de Madrid - de América\, 13\,
+  Madrid\, 28002
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Drift. Yann Gross
 DTSTART;TZID=Europe/Madrid:20260516T000000
 DTEND;TZID=Europe/Madrid:20260726T000000
@@ -1327,8 +1328,8 @@ UID:c35c540299277c79e48c91cdc3f2273b0c6664eec417c6e69146f9d780970dd8
 CATEGORIES:exhibition
 DESCRIPTION:Primera presentación a gran escala de la obra del artista est
  adounidense de origen cubano\, en la que destaca su particular lenguaje vi
- sual (Museo Reina Sofía. 27 may a 12 oct).\n\nhttps://www.museoreinasofia
- .es/exposicion/felix-gonzalez-torres
+ sual (Museo Reina Sofía. Hasta 12 oct).\n\nhttps://www.museoreinasofia.es
+ /exposicion/felix-gonzalez-torres
 LOCATION:Museo Reina Sofía - de Santa Isabel\, 52\, Madrid\, 28012
 END:VEVENT
 BEGIN:VEVENT
@@ -1339,9 +1340,9 @@ DTEND;TZID=Europe/Madrid:20261018T000000
 UID:262e1e772d9d58c0ac9685930dfa1d43246107cfb19898fe0672af4b13e3ffd2
 CATEGORIES:exhibition
 DESCRIPTION:La ciencia y la tecnología revelan nuevos secretos de las col
- ecciones arqueológicas del MAN (Museo Arqueológico Nacional. 27 may a 18
-  oct).\n\nhttps://www.man.es/man/exposiciones/sala-exposiciones-temporales
- /20260527-misterios-materia.html
+ ecciones arqueológicas del MAN (Museo Arqueológico Nacional. Hasta 18 oc
+ t).\n\nhttps://www.man.es/man/exposiciones/sala-exposiciones-temporales/20
+ 260527-misterios-materia.html
 LOCATION:Museo Arqueológico Nacional - de Serrano\, 13\, Madrid\, 28001
 END:VEVENT
 BEGIN:VEVENT
@@ -1352,9 +1353,9 @@ UID:f7c096a0fd657cac40a728013316ba1d3d658903f7e743a813ce5c92e1b7fdbd
 CATEGORIES:exhibition
 DESCRIPTION:Exposición que reúne por primera vez un amplio conjunto de o
  bras del destacado pintor italiano especializado en paisajes (Galería de 
- las Colecciones Reales. 28 may a 12 oct).\n\nhttps://www.galeriadelascolec
- cionesreales.es/exposicion/fernando-brambila-pintor-de-los-reales-sitios/a
- 554032d-dab5-7f04-03b6-e3be0c0f0a41
+ las Colecciones Reales. Hasta 12 oct).\n\nhttps://www.galeriadelascoleccio
+ nesreales.es/exposicion/fernando-brambila-pintor-de-los-reales-sitios/a554
+ 032d-dab5-7f04-03b6-e3be0c0f0a41
 LOCATION:Galería de las Colecciones Reales - de Bailén\, 8\, Madrid\, 28
  013
 END:VEVENT
@@ -1366,7 +1367,7 @@ UID:59a1a813849b4e1c275a729bc8f5bc601136bbe150d921def68dbde5ce56f662
 CATEGORIES:exhibition
 DESCRIPTION:Expòsición que muestra la obra más potente\, colorida y de 
  toques poéticos del pintor murciano Álvaro Peña (Centro Cultural Casa d
- e Vacas. 28 may a 28 jun).\n\nhttps://www.xn--alvaro-pea-19a.es/
+ e Vacas. Hasta 28 jun).\n\nhttps://www.xn--alvaro-pea-19a.es/
 LOCATION:Centro Cultural Casa de Vacas - de Colombia\, 1\, Madrid\, 28009
 END:VEVENT
 BEGIN:VEVENT
@@ -1377,9 +1378,9 @@ UID:0e9e9e4f6d22509db8fabd227cd0aee20c80c80d9f4dc09df4fd16b55ab2b788
 CATEGORIES:exhibition
 DESCRIPTION:Muestra que rinde homenaje a las escritoras del Siglo de Oro y
   contribuye a la difusión del patrimonio artístico\, literario\, histór
- ico y cultural (Casa Museo Lope de Vega. 29 may a 13 sept).\n\nhttps://cas
- amuseolopedevega.org/es/actividades/colaboraciones-y-proyectos/778-exposic
- ion-2026
+ ico y cultural (Casa Museo Lope de Vega. Hasta 13 sept).\n\nhttps://casamu
+ seolopedevega.org/es/actividades/colaboraciones-y-proyectos/778-exposicion
+ -2026
 LOCATION:Casa Museo Lope de Vega - de Cervantes\, 11\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
@@ -1427,8 +1428,8 @@ DTEND;TZID=Europe/Madrid:20260913T000000
 UID:3a7ee24afc60bec4a5d711d277f14326f581eea45cc7cc7b5ca171cbb113d27c
 CATEGORIES:exhibition
 DESCRIPTION:Exposición donde la artista presenta una instalación sobre l
- a endometriosis y la deslegitimación del dolor (Museo del Romanticismo. 2
-  jun a 13 sept).\n\nhttps://phe.es/exposicion/endometriosis/
+ a endometriosis y la deslegitimación del dolor (Museo del Romanticismo. H
+ asta 13 sept).\n\nhttps://phe.es/exposicion/endometriosis/
 LOCATION:Museo del Romanticismo - de San Mateo\, 13\, Madrid\, 28004
 END:VEVENT
 BEGIN:VEVENT
@@ -1493,7 +1494,7 @@ UID:feb73c9c5d2f79923fa4961b5a7306bff39d66d40867c9d793aa3fbc4399f91f
 CATEGORIES:exhibition
 DESCRIPTION:La fotógrafa neerlandesa protagoniza una de las grandes expos
  iciones del festival PHotoESPAÑA 2026 (Fernán Gómez Centro Cultural de 
- La Villa. 3 jun a 26 jul).\n\nhttps://phe.es/exposicion/lux-umbra/
+ La Villa. Hasta 26 jul).\n\nhttps://phe.es/exposicion/lux-umbra/
 LOCATION:Fernán Gómez Centro Cultural de la Villa - de Colón \, 4\, Mad
  rid\, 28001
 END:VEVENT
@@ -1504,8 +1505,8 @@ DTEND;TZID=Europe/Madrid:20270307T000000
 UID:5ea4ca69949ad3e320d8eff4d26d7a52ea4300ae244e982d17d1c789b7ba1499
 CATEGORIES:exhibition
 DESCRIPTION:Experiencia audiovisual inmersiva que muestra la biodiversidad
-  de forma innovadora (CaixaForum Madrid. 3 jun a 7 mar).\n\nhttps://caixaf
- orum.org/es/madrid/p/somos-naturaleza-madrid
+  de forma innovadora (CaixaForum Madrid. Hasta 7 mar).\n\nhttps://caixafor
+ um.org/es/madrid/p/somos-naturaleza-madrid
 LOCATION:CaixaForum Madrid - del Prado\, 36\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
@@ -1516,7 +1517,7 @@ UID:1531cbc3bd0ce881a68114b3225502330dbfdd440738c128bbe466446b631968
 CATEGORIES:exhibition
 DESCRIPTION:Una experiencia inmersiva colectiva inspirada en el universo d
  e la popular serie Black Mirror® (Espacio Delicias. Miércoles a domingos
- . 4 jun a 9 ago).\n\nhttps://madrid.theblackmirrorexperience.com/
+ . Hasta 9 ago).\n\nhttps://madrid.theblackmirrorexperience.com/
 LOCATION:Espacio Delicias - de las Delicias\, 61\, Madrid\, 28045
 END:VEVENT
 BEGIN:VEVENT
@@ -1553,8 +1554,8 @@ UID:ea4126f928acf1c74b6f5c4b9038603a2aea8e36a2df65df6466110b31e886e6
 CATEGORIES:exhibition
 DESCRIPTION:Muestra que analiza la transformación del territorio mediante
   fotografía\, vídeo e instalación\, abordando dinámicas sociales\, urb
- anas y ambientales contemporáneas (Museo ICO. 4 jun a 6 sept).\n\nhttps:/
- /phe.es/exposicion/los-mismos-lugares/
+ anas y ambientales contemporáneas (Museo ICO. Hasta 6 sept).\n\nhttps://p
+ he.es/exposicion/los-mismos-lugares/
 LOCATION:Museo ICO - de Zorrilla\, 3\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
@@ -1565,8 +1566,8 @@ UID:0528fe792d901061dc35ec994033b2bb84325d8eacd6fae2a92d851069ce363f
 CATEGORIES:exhibition
 DESCRIPTION:Muestra que explora el paso de lo ritual a los actuales sistem
  as de consumo e imagen\, analizando nuevas formas de ofrecer y transformar
-  la materia (Nave 0 - Matadero. 4 jun a 30 jul).\n\nhttps://phe.es/exposic
- ion/ofertorio/
+  la materia (Nave 0 - Matadero. Hasta 30 jul).\n\nhttps://phe.es/exposicio
+ n/ofertorio/
 LOCATION:Nave 0 (Matadero) - de Legazpi \, 8\, Madrid\, 28045
 END:VEVENT
 BEGIN:VEVENT
@@ -1577,8 +1578,8 @@ UID:8a891a227211e46ce40150f345c2e907354220a0c7e1c580f37ea0bdc9345522
 CATEGORIES:exhibition
 DESCRIPTION:La fotógrafa española explora el Monasterio de El Escorial y
   la Herrería en este trabajo que forma parte de PHotoESPAÑA 2026 (Galer
- ía de las Colecciones Reales. 4 jun a 6 sept).\n\nhttps://phe.es/exposici
- on/las-piedras-del-cielo/
+ ía de las Colecciones Reales. Hasta 6 sept).\n\nhttps://phe.es/exposicion
+ /las-piedras-del-cielo/
 LOCATION:Galería de las Colecciones Reales - de Bailén\, 8\, Madrid\, 28
  013
 END:VEVENT
@@ -1618,17 +1619,6 @@ DESCRIPTION:Un análisis sobre poder\, propaganda y acción colectiva en E
  uropa del Este a través de la fotografía contemporánea (Círculo de Bel
  las Artes - Sala Goya. 5 jun a 27 sept).\n\nhttps://phe.es/exposicion/refu
  sal-second-fracture/
-LOCATION:Círculo de Bellas Artes - de Alcalá\, 42\, Madrid\, 28014
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ruina Montium. Raphaëlle Peria (PHotoESPAÑA 2026)
-DTSTART;TZID=Europe/Madrid:20260605T000000
-DTEND;TZID=Europe/Madrid:20260927T000000
-UID:39498a0b8a75d71d7ebd70bec9a7a3d25b697d2e5161064175e637151c0e1ffd
-CATEGORIES:exhibition
-DESCRIPTION:La artista reinterpreta el paisaje de Las Médulas mediante fo
- tografía intervenida y materia mineral (Círculo de Bellas Artes - Sala M
- inerva. 5 jun a 27 sept).\n\nhttps://phe.es/exposicion/ruina-montium/
 LOCATION:Círculo de Bellas Artes - de Alcalá\, 42\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
@@ -1674,8 +1664,8 @@ DTEND;TZID=Europe/Madrid:20260830T000000
 UID:f681db67f5a9de1ccdcabbf284f806106d930eee562d011481db4874f71820ab
 CATEGORIES:exhibition
 DESCRIPTION:El oeste americano retratado a través de las imágenes del de
- stacado fotógrafo neoyorquino (Fundación MAPFRE. Sala Recoletos. 6 jun a
-  30 ago).\n\nhttps://www.fundacionmapfre.org/arte-y-cultura/exposiciones/
+ stacado fotógrafo neoyorquino (Fundación MAPFRE. Sala Recoletos. Hasta 3
+ 0 ago).\n\nhttps://www.fundacionmapfre.org/arte-y-cultura/exposiciones/
 LOCATION:Fundación MAPFRE. Sala Recoletos - de Recoletos\, 23\, Madrid\, 
  28004
 END:VEVENT
@@ -1699,10 +1689,22 @@ UID:2db4b778022cf0c79e538cb4e23554e56fe5b098f758fcc7f97aa1e961d687f1
 CATEGORIES:exhibition
 DESCRIPTION:Proyecto expositivo de estudiantes de la Escuela de Arte 3 en 
  el que los edificios creados por el arquitecto madrileño sirven de inspir
- ación para sus diseños de joyas (COAM. 8 jun - 28 ago).\n\nhttps://www.c
- oam.org/actualidad-agenda-coam-recorridos-aproximaciones-de-la-joyeria-con
- temporanea-a-la-arquitectura-de-luis-gutierrez-soto/
+ ación para sus diseños de joyas (COAM. Hasta 28 agosto).\n\nhttps://www.
+ coam.org/actualidad-agenda-coam-recorridos-aproximaciones-de-la-joyeria-co
+ ntemporanea-a-la-arquitectura-de-luis-gutierrez-soto/
 LOCATION:COAM - de Hortaleza\, 63\, Madrid\, 28004
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Among / Alone
+DTSTART;TZID=Europe/Madrid:20260609T000000
+DTEND;TZID=Europe/Madrid:20260902T000000
+UID:b0a885f9e03c1448285bddba51798ea18326b05a783994fe16fb19f31ba45b52
+CATEGORIES:exhibition
+DESCRIPTION:Exposición fotográfica que invita a reflexionar sobre la rel
+ ación entre el individuo y el grupo a lo largo del tiempo (Leica Madrid G
+ allery. 9 jun - 2 sept).\n\nhttps://leica-camera.com/es-ES/eventos/exposic
+ ion-among-alone
+LOCATION:Madrid - de José Ortega y Gasset\, 34\, Madrid\, 28006
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elena Jiménez. Premio Nacional de Arte Gráfico
@@ -1808,6 +1810,20 @@ LOCATION:Galería de las Colecciones Reales - de Bailén\, 8\, Madrid\, 28
  013
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:La Universidad Pública Pinta Malasaña. II edición
+DTSTART;TZID=Europe/Madrid:20260611T000000
+DTEND;TZID=Europe/Madrid:20260906T000000
+UID:80c03e2c2d16015e7c700211f66c693f0b6d004a3f09771d4ec6fd3792640b2c
+CATEGORIES:exhibition
+DESCRIPTION:Exposición de los murales creados por los alumnos de Bellas A
+ rtes de las facultades públicas de Madrid para el festival de arte urbano
+  (11 jun - 6 sept).\n\nhttps://www.madrid.es/portales/munimadrid/es/Inicio
+ /Cultura-ocio-y-deporte/Actividades-y-eventos/Exposicion-La-Universidad-Pu
+ blica-Pinta-Malasana-II-ed-/?vgnextfmt=default&vgnextoid=3e947f751bcae910V
+ gnVCM100000891ecb1aRCRD&vgnextchannel=6381f073808fe410Vg
+LOCATION:Museo de Historia - de Fuencarral\, 78\, Madrid\, 28004
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Disfuncionarias. Tanit Plana (PHotoESPAÑA 2026)
 DTSTART;TZID=Europe/Madrid:20260612T000000
 DTEND;TZID=Europe/Madrid:20261025T000000
@@ -1818,6 +1834,18 @@ DESCRIPTION:Exposición que conecta imagen\, política y cuerpo\, reflexio
  stalación site-specific (Museo Cerralbo. 12 jun\n\nhttps://phe.es/expos
  icion/disfuncionarias/
 LOCATION:Museo Cerralbo - de Ventura Rodríguez\, 17\, Madrid\, 28008
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Espectros. Enigmas de la mirada (PHotoESPAÑA 2026)
+DTSTART;TZID=Europe/Madrid:20260612T000000
+DTEND;TZID=Europe/Madrid:20260913T000000
+UID:251b9bfecaf0908b3f7378916b039919d0953f5f94dc6ff97581e778cebb926a
+CATEGORIES:exhibition
+DESCRIPTION:Exposición que reúne el trabajo de siete fotógrafos mexican
+ os de reconocida trayectoria (Fundación Casa de México en España. 12 ju
+ n a 13 sept).\n\nhttps://phe.es/exposicion/espectros-enigmas-de-la-mirada/
+LOCATION:Fundación Casa de México en España - de Alberto Aguilera\, 20\
+ , Madrid\, 28015
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sedimented Landscapes / Urban Abstraction Alliance
@@ -1993,15 +2021,27 @@ DESCRIPTION:Visita guiada a la exposición el próximo jueves 11 de junio.
 LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Gala de Esgrima
+DTSTART;TZID=Europe/Madrid:20260621T170000
+DTEND;TZID=Europe/Madrid:20260621T170000
+UID:7197b6e8d70bdef98ecea08c1ce607d0c1f0c0077af7ff0953b13b039a430634
+CATEGORIES:exhibition
+DESCRIPTION:16:45: Apertura de puertas | 17:00: Muestra de esgrima escéni
+ ca | 18:00: Finales de esgrima deportiva | 18:45: Entrega de trofeos y med
+ allas | 19:00: Foto de familia temporada 2025/2026. Cátedra Mayor.\n\nhtt
+ ps://ateneodemadrid.com/evento/gala-de-esgrima-2/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:El artista en Italia
 DTSTART;TZID=Europe/Madrid:20260623T000000
 DTEND;TZID=Europe/Madrid:20260920T000000
 UID:5d403ea9b9c22118773b3acd3f13c9ced84c36d67959d738da3fc872c4ef73d0
 CATEGORIES:exhibition
 DESCRIPTION:Exposición de dibujos de Federico de Madrazo\, Luis de Madraz
- o y Vicente Palmaroli creados durante sus estancias en el país alpino (23
-  jun a 20 sept).\n\nhttps://www.cultura.gob.es/mromanticismo/programacion/
- exposiciones/actuales/el-artista-en-italia.html
+ o y Vicente Palmaroli creados durante sus estancias en el país alpino (Mu
+ seo del Romanticismo. 23 jun a 20 sept).\n\nhttps://www.cultura.gob.es/mro
+ manticismo/programacion/exposiciones/actuales/el-artista-en-italia.html
 LOCATION:Museo del Romanticismo - de San Mateo\, 13\, Madrid\, 28004
 END:VEVENT
 BEGIN:VEVENT
@@ -2101,31 +2141,5 @@ DESCRIPTION:Exposición colectiva que reflexiona sobre cómo percibimos\,
  tps://www.centrocentro.org/exposicion/x-bienal-de-arte-contemporaneo-de-fu
  ndacion-once
 LOCATION:CentroCentro - de Cibeles\, 1\, Madrid\, 28014
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mitologías modernas: Ouka Leele & Co
-DTSTART;TZID=Europe/Madrid:20260702T000000
-DTEND;TZID=Europe/Madrid:20261018T000000
-UID:0656dc6567002ca560c050169bdf081eb09a494f3f32d76aad7e8c05b30645f1
-CATEGORIES:exhibition
-DESCRIPTION:Exposición que revisita el papel de la mitología en el arte 
- madrileño de la década de 1980 a partir de la obra de la artista Ouka Le
- ele (Sala Alcalá 31. 2 jul a 18 oct).\n\nhttps://www.comunidad.madrid/act
- ividades/2026/exposicion-mitologias-modernas-ouka-leele-co
-LOCATION:Sala Alcalá 31 de la Comunidad de Madrid - de Alcalá\, 31\, Mad
- rid\, 28014
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Valeriano D. Bécquer (1834-1870): Los cuadros de costumbres
-DTSTART;TZID=Europe/Madrid:20260713T000000
-DTEND;TZID=Europe/Madrid:20261004T000000
-UID:ad1eb3b7dbbea4f87787e4dc969c3e81694c52bd56f179c71a2c3f3914efce9e
-CATEGORIES:exhibition
-DESCRIPTION:El museo reúne por primera vez los ocho cuadros que realizó 
- el pintor español como parte de un encargo destinado al Museo de la Trini
- dad (Museo del Prado. 13 jul a 4 oct).\n\nhttps://www.museodelprado.es/act
- ualidad/exposicion/valeriano-d-becquer-1834-1870-los-cuadros-de/2ad8915c-8
- 9d9-3274-8466-26c879ec6c97
-LOCATION:Museo del Prado - del Prado\, s/n\, Madrid\, 28014
 END:VEVENT
 END:VCALENDAR

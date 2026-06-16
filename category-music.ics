@@ -2,17 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Silvia Marsó & Del Toro Blues Band
-DTSTART;TZID=Europe/Madrid:20260615T200000
-DTEND;TZID=Europe/Madrid:20260616T200000
-UID:ca66b75d17cdd4f15184d5c10e7e800c90936b9289f49082a5a68cf09f82c7de
-CATEGORIES:music
-DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
-  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
- s://ateneodemadrid.com/evento/silvia-marso-del-toro-blues-band/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bloomsday 2026 John Liddy: 40 Years A-Blooming
 DTSTART;TZID=Europe/Madrid:20260616T190000
 DTEND;TZID=Europe/Madrid:20260616T190000
@@ -81,6 +70,16 @@ CATEGORIES:music
 DESCRIPTION:Concierto / Pop / Latin\n\nhttps://salavillanos.es/evento/zuar
  az/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Amigos Invisibles
+DTSTART;TZID=Europe/Madrid:20260618T203000
+UID:165194f40e92dbfda5cc9b1d5317b544b847304249b4699d17c9c41bb310afd5
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:00 pm\n\nhttps://www.entradas.com/event/i
+ beroexperia-los-amigos-invisibles-sala-la-riviera-21363711/?affiliate=4SA
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:"Cuando vibran los sueños" Recital de poesía y piano. Obras de J
@@ -184,6 +183,18 @@ DESCRIPTION:Concierto / Pop / Rock\n\nhttps://salavillanos.es/evento/novel
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Trío presenta 'Aurora Solemne'
+DTSTART;TZID=Europe/Madrid:20260620T193000
+DTEND;TZID=Europe/Madrid:20260620T193000
+UID:69c56dc23478c87bb6b47cf22cfe67656c298d1b8b52d7ba53d82167fd6e134d
+CATEGORIES:music
+DESCRIPTION:Venta de entradas (aquí). Socios\, código de descuento en el
+  Área del Socio. \n \nJaume Angelès Fité\, violín)\, Iago Domínguez E
+ iras\, violonchelo) y Paula Belzunegui Moreno\, piano. Cátedra Mayor. 19:
+ 30h.\n\nhttps://ateneodemadrid.com/evento/trio-presenta-aurora-solemne/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:DEMM26. Conciertos sábado 20 de junio. pablopablo\, Alizzz\, Depr
  esión Sonora y Akazie
 DTSTART;TZID=Europe/Madrid:20260620T200000
@@ -246,6 +257,40 @@ DESCRIPTION:Una actuación especial para todos los públicos que demostrar
 LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:OM - Orquesta del Mundo Kirtan Sinfónico
+DTSTART;TZID=Europe/Madrid:20260621T120000
+DTEND;TZID=Europe/Madrid:20260621T120000
+UID:14693764042ebb00220aa1b0cdb7b8402a312fe9ff034a04674370edf1e8145c
+CATEGORIES:music
+DESCRIPTION:Venta de entradas (aquí). Socios\, código descuento en el Á
+ rea del Socio. \n \nInvitados: Martín Flynn\, Camila Ordóñez\, Padmayan
+ a\, Joan Condal\, Proyecto Sacerdotisa\, Úrsula Giovanna\, Marga MA y Mar
+ tín Félix. Cátedra Mayor. 12:00h.\n\nhttps://ateneodemadrid.com/evento/
+ om-orquesta-del-mundo-kirtan-sinfonico/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Menil Swing
+DTSTART;TZID=Europe/Madrid:20260621T200000
+DTEND;TZID=Europe/Madrid:20260621T200000
+UID:3da4fa59bca6bdc8102e56143047136957e5b7f4ff9e46768691bcc289def71d
+CATEGORIES:music
+DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
+  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
+ s://ateneodemadrid.com/evento/menil-swing/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Venga Monjas 20º Aniversario
+DTSTART;TZID=Europe/Madrid:20260621T210000
+UID:d9faf834dc641656e3a6dcebcb10b021a507b18553bfb4c4e93bb4f3afa7d81d
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://dice.fm/event/xeanxe-ven
+ ga-monjas-20-aniversario-21st-jun-la-riviera-madrid-tickets
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Casualties (EEUU) + Figure 8 Knot\; Circuito Red De Salas
 DTSTART;TZID=Europe/Madrid:20260622T210000
 UID:af84d71df4230b08297b11a94a050d1ae34ffa4921bd250870ec38b07de8bddd
@@ -306,6 +351,17 @@ DESCRIPTION:Concierto / Latin\n\nhttps://salavillanos.es/evento/son-cremit
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Joss Stone
+DTSTART;TZID=Europe/Madrid:20260626T210000
+UID:f538624027eacaab3c6952b813e32643cff729f9d61bd1ef14237dcc9c63770d
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://www.notikumi.com/channel
+ /villanos-de-la-cultura/2026/6/26/joss-stone?a_aid=jackson-ref&a_bid=fe5f1
+ 437
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Genderlexx + Lavandera Boyera
 DTSTART;TZID=Europe/Madrid:20260626T213000
 UID:b5c9af5f249948d20cfdb6b688a4191ade60a6023fb54bef4bbe91129fb97d26
@@ -316,6 +372,16 @@ DESCRIPTION:Precio de las entradas: 10€/13€ Entradas a la venta moving
   el queerpunk a Carabanchel\n\nhttps://gruta77.com/events/genderlexx-lavan
  dera-boyera/var/ri-0.l-L2
 LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Excepción
+DTSTART;TZID=Europe/Madrid:20260627T203000
+UID:6add3844c172892557d9f71706e77274072b1f3f2e0eb70ebcfbba843e7762cb
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://www.entradas.com/artist/
+ la-excepcion/?Affiliate=RIV
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Noches de La Parcería presenta:
@@ -339,6 +405,16 @@ DESCRIPTION:Precio de las entradas: 7€/10€ Entradas a la venta en movi
 LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:La Excepción (Segunda Fecha)
+DTSTART;TZID=Europe/Madrid:20260628T193000
+UID:18ab6e5faa380aef3f6aade9a03549019e8eb59f7a0ab603eb0b2cc17b9bac70
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:00 pm\n\nhttps://www.ticketmaster.es/even
+ t/la-excepcion-entradas/1230068036
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Busty and the Bass
 DTSTART;TZID=Europe/Madrid:20260628T210000
 UID:c9ba6d24b050750c92310efb7e94f7205a1d41eb4bb4530fdb0805ccd758c5ef
@@ -357,106 +433,12 @@ DESCRIPTION:Concierto / Soul & R&B\n\nhttps://salavillanos.es/evento/john-
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ghost-Note
-DTSTART;TZID=Europe/Madrid:20260701T210000
-UID:d8cc9d7824a48d1ca438e8f4fb73d9ca689757792bda2d6103716069c9a125e9
+SUMMARY:Tokischa
+DTSTART;TZID=Europe/Madrid:20260630T210000
+UID:1d61d67c2b809450722fe5aafee33bdccbbc7da0e718b3cf314d46bb8860c4a8
 CATEGORIES:music
-DESCRIPTION:Concierto / Villanos del Jazz\n\nhttps://salavillanos.es/event
- o/ghost-note/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bianca Gismonti & Manuel de Oliveira
-DTSTART;TZID=Europe/Madrid:20260702T210000
-UID:47a435a12f2708f8f4790ce26810ec633f085c5e4127ebe8b5eb3d2d07181ece
-CATEGORIES:music
-DESCRIPTION:Concierto / Villanos del Jazz\n\nhttps://salavillanos.es/event
- o/bianca-gismonti-manuel-de-oliveira/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Festival Colectivo Yupanqui
-DTSTART;TZID=Europe/Madrid:20260703T193000
-UID:ed0f87f153129b06ff44b0528bf8e0ef727fad99891d603fd5e93c046d51916c
-CATEGORIES:music
-DESCRIPTION:Concierto / Latin\n\nhttps://salavillanos.es/evento/festival-c
- olectivo-yupanqui/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nestor Ló Y Los Caminantes
-DTSTART;TZID=Europe/Madrid:20260704T210000
-UID:28424e1999fe8ae50fb94f1c8bac255ec980c5ae8cae89c49b54d78b3a11b404
-CATEGORIES:music
-DESCRIPTION:Concierto / Latin / Pop\n\nhttps://salavillanos.es/evento/nest
- or-lo-y-los-caminantes/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Yellowjackets
-DTSTART;TZID=Europe/Madrid:20260705T210000
-UID:191475c58c55bb540dd0d5f24a3325e1f6125f28aa313e82e998fdbebf279975
-CATEGORIES:music
-DESCRIPTION:Concierto / Villanos del Jazz\n\nhttps://salavillanos.es/event
- o/yellowjackets/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Frente Cumbiero
-DTSTART;TZID=Europe/Madrid:20260708T210000
-UID:2e8a6a1d2af8b36c5178ff3ecb66d44f5c2e3300a6c2c56f88e3025dca03f16f
-CATEGORIES:music
-DESCRIPTION:Concierto / Latin / Pop / Rock\n\nhttps://salavillanos.es/even
- to/frente-cumbiero/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Dirty Cats + Gwen & The Sailors + Aparición De Los Dirty Payo
- s En Dirty´S Rockin' Party II
-DTSTART;TZID=Europe/Madrid:20260711T213000
-UID:621d510f4f868f5a58b53993db7117052c2e5f11e1eb7504b3de856ab47fd0c3
-CATEGORIES:music
-DESCRIPTION:Precio de las entradas: 10€/14€ Entradas a la venta en mov
- ingtickets Bio/enlaces bandas: The Dirty Cats_facebook + The Dirty Cats_in
- stagram Gwen and the Sailors_instagram Más información:\n\nhttps://gruta
- 77.com/events/the-dirty-cats-gwen-the-sailors-aparicion-de-los-dirty-payos
- -en-dirtys-rockin-party-ii/var/ri-0.l-L2
-LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cuba Connection
-DTSTART;TZID=Europe/Madrid:20260711T235900
-UID:d52fb819f05836ae3ad07cd7ef6aa52d080e562d06b56611d542847926041b51
-CATEGORIES:music
-DESCRIPTION:Concierto / Latin\n\nhttps://salavillanos.es/evento/cuba-conne
- ction-2/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Donovan Keith
-DTSTART;TZID=Europe/Madrid:20260712T203000
-UID:d95aa7a422c2b4d76831a110c66a682a9e456fc4a93e103badffac44a0426f41
-CATEGORIES:music
-DESCRIPTION:Blues en la Villa / Concierto\n\nhttps://salavillanos.es/event
- o/donovan-keith/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ledisi
-DTSTART;TZID=Europe/Madrid:20260713T203000
-UID:f3c81e43766bc29b52b417272951b9a518a8700f4fb74f1dac9b4c78c2f5a178
-CATEGORIES:music
-DESCRIPTION:Concierto / Villanos del Jazz\n\nhttps://salavillanos.es/event
- o/ledisi-2/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sun Ra Arkestra
-DTSTART;TZID=Europe/Madrid:20260714T203000
-UID:2e670d5e9faec1e2609fa940c397c3ff8c84a99744485d2d121ce2a0ca541071
-CATEGORIES:music
-DESCRIPTION:Concierto / Villanos del Jazz\n\nhttps://salavillanos.es/event
- o/sun-ra-arkestra/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://feverup.com/m/601747
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
 END:VEVENT
 END:VCALENDAR
