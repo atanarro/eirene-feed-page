@@ -2,32 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Bloomsday 2026 John Liddy: 40 Years A-Blooming
-DTSTART;TZID=Europe/Madrid:20260616T190000
-DTEND;TZID=Europe/Madrid:20260616T190000
-UID:55ce0c5d071f465d1adcdb0a808533575e72c433e16328d866abbbe15f7f67ee
-CATEGORIES:music
-DESCRIPTION:Secciones de Literatura y Música y Agrupación Ateneos al Fla
- menco. Embajada de Irlanda y Bloomsday Society. Lectores: Brian Glynn\, em
- bajador de Irlanda en España\; Bill Dixon\, Kate Marriage\, Pilar Pastor\
- , Ophelia Leon\, James Hartley y Nicholas Eyre. Intérpretes: Marta Legido
- \, soprano\; Alonso Gabarrús\, barítono\; Lucía Rodríguez\, violín y 
- Ángela Sisto\, piano. Presentan: Joaquín Pérez Azaústre y Sara Cantó.
-  Con la colaboración especial de John Liddy’s Friends\, Readers and Mus
- icians. Cátedra Mayor. 19:00h.\n\nhttps://ateneodemadrid.com/evento/bloom
- sday-2026-john-liddy-40-years-a-blooming/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Roberta Sá
-DTSTART;TZID=Europe/Madrid:20260616T203000
-UID:2da7d8509392d70cab20fa66af81c4fc730de679d75192b0b52b9178af71fb7f
-CATEGORIES:music
-DESCRIPTION:Concierto / Villanos del Jazz\n\nhttps://salavillanos.es/event
- o/roberta-sa-tudo-que-cantei-sou/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Víctor Carrascosa Quartet
 DTSTART;TZID=Europe/Madrid:20260617T200000
 DTEND;TZID=Europe/Madrid:20260618T200000
@@ -139,6 +113,15 @@ DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Olaya Sound System
+DTSTART;TZID=Europe/Madrid:20260619T200000
+UID:b9afcefa0a23a099ac76a40f9b5f4fae34bbb3855f07f9b223a21ea6720df1b0
+CATEGORIES:music
+DESCRIPTION:Concierto / Latin / Pop\n\nhttps://salavillanos.es/evento/olay
+ a-sound-system/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Motherpunkrs + Tarzán\; Día De La Música 2026
 DTSTART;TZID=Europe/Madrid:20260619T213000
 UID:2e2eb9500b9d60cebcbbd57801516df5252a79b1a41b815b203691e6d265b16c
@@ -149,15 +132,6 @@ DESCRIPTION:Precio de las entradas: 3€/5€ Entradas a la venta en movin
  ciden\, por\n\nhttps://gruta77.com/events/motherpunkrs-tarzan/var/ri-0.l-L
  2
 LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Olaya Sound System
-DTSTART;TZID=Europe/Madrid:20260619T220000
-UID:f80a2e386de84a53eb8e920f5cbaf8abc6e66d9e7d28917a4f77258a014ef83f
-CATEGORIES:music
-DESCRIPTION:Concierto / Latin / Pop\n\nhttps://salavillanos.es/evento/olay
- a-sound-system/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DEMM26. Concierto matinal familiar. Sábado 20 de junio. La Fantá
@@ -289,6 +263,38 @@ DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://dice.fm/event/xeanxe-ven
  ga-monjas-20-aniversario-21st-jun-la-riviera-madrid-tickets
 LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
  id
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Presentación del libro "Visiones actuales de al-Ándalus"
+DTSTART;TZID=Europe/Madrid:20260622T193000
+DTEND;TZID=Europe/Madrid:20260622T193000
+UID:3867c735bcc7b862e02ad13126276442d5b22d2ca65d151d861524a3eaf84022
+CATEGORIES:music
+DESCRIPTION:Sección Africanista. Intervienen: Flora Sáez\, cofundadora d
+ e Let’s Go Halal y coordinadora del programa nacional Innova Experiencia
+  Andalusí\, es una de las mayores expertas en turismo halal de España. S
+ u enfoque busca revalorizar el legado de Al-Ándalus más allá de los gra
+ ndes monumentos y crear redes de destinos que atraigan al mercado musulmá
+ n internacional\; Cristina F. Barcala\, artista plástica y docente. Es am
+ pliamente reconocida por ser pionera en España en la docencia e investiga
+ ción de la Historia y el Patrimonio Musical Andalusí y Andalusí-Magreb
+ í\; Alberto Gómez Font\, coordinador de la obra\, escritor y miembro de 
+ la directiva de CIHAR\; Abdo Tounsi\, coordinador de la obra\, escritor y 
+ presidente de CIHAR. Presenta y modera: Basilio Rodríguez Cañada. Sala R
+ amón y Cajal. 19:30h.\n\nhttps://ateneodemadrid.com/evento/presentacion-d
+ el-libro-visiones-actuales-de-al-andalus/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Javier Elorrieta Quinteto
+DTSTART;TZID=Europe/Madrid:20260622T200000
+DTEND;TZID=Europe/Madrid:20260623T200000
+UID:6911c713c6018327b4d00570cf87a3e746a470004c6dbca5cc823db33fdb8c94
+CATEGORIES:music
+DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
+  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
+ s://ateneodemadrid.com/evento/javier-elorrieta-quinteto/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Casualties (EEUU) + Figure 8 Knot\; Circuito Red De Salas
@@ -438,6 +444,25 @@ DTSTART;TZID=Europe/Madrid:20260630T210000
 UID:1d61d67c2b809450722fe5aafee33bdccbbc7da0e718b3cf314d46bb8860c4a8
 CATEGORIES:music
 DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://feverup.com/m/601747
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ghost-Note
+DTSTART;TZID=Europe/Madrid:20260701T210000
+UID:d8cc9d7824a48d1ca438e8f4fb73d9ca689757792bda2d6103716069c9a125e9
+CATEGORIES:music
+DESCRIPTION:Concierto / Villanos del Jazz\n\nhttps://salavillanos.es/event
+ o/ghost-note/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pennywise + End It
+DTSTART;TZID=Europe/Madrid:20260701T210000
+UID:8f2a406d5c59de43aaa711c34f3aa8458fa71c3a1c4efead7b9bc33c1226005c
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://tickets.hfmncrew.com/web
+ /?menu=1162&pagina=entradas&item=58898&siteID=hfmncrew
 LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
  id
 END:VEVENT

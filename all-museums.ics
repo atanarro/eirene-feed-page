@@ -56,6 +56,17 @@ LOCATION:Fundación María Cristina Masaveu Peterson - de Alcalá Galiano\
  , 6\, Madrid\, 28071
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Artemisa: la magia de la Luna
+DTSTART;TZID=Europe/Madrid:20241206T000000
+DTEND;TZID=Europe/Madrid:20261227T000000
+UID:aa86a883184c75988b42c9fc5aa9bbb73e59f4c3ad519f7d1014e3fecfd60bff
+CATEGORIES:exhibition
+DESCRIPTION:Una exposición que presenta la belleza y el misterio de la Lu
+ na a través de la creatividad de artistas\, y el trabajo de científicos
+  y científicas (Planetario.\n\nhttps://planetmad.es/events/event/14284/
+LOCATION:Planetario - del Planetario\, 16\, Madrid\, 28045
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Un rato con Torcuato. El origen de una colección
 DTSTART;TZID=Europe/Madrid:20241219T000000
 DTEND;TZID=Europe/Madrid:20260731T000000
@@ -434,10 +445,10 @@ DESCRIPTION:Exposición que presenta un recorrido por la obra y vida de la
 LOCATION:Casa del Lector (Matadero) - de la Chopera\, 14\, Madrid\, 28045
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kriegspädagogik. Roman Khimei & Yarema Malashchuk
+SUMMARY:Pedagogías de guerra. Roman Khimei & Yarema Malashchuk
 DTSTART;TZID=Europe/Madrid:20260303T000000
 DTEND;TZID=Europe/Madrid:20260621T000000
-UID:ee2419a1e89780b0a83ef2a7cf74348b2399414535102e1e52ec0e8b8c8d6e17
+UID:62b5cec47fa66eade5e20ff17d288c89e374e0fc4e571ac0dbb516e1f21e8560
 CATEGORIES:exhibition
 DESCRIPTION:Los jóvenes artistas ucranianos exploran con sus fotografía
  s cómo la invasión rusa a gran escala de Ucrania ha reorganizado el espa
@@ -1622,6 +1633,17 @@ DESCRIPTION:Un análisis sobre poder\, propaganda y acción colectiva en E
 LOCATION:Círculo de Bellas Artes - de Alcalá\, 42\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ruina Montium. Raphaëlle Peria (PHotoESPAÑA 2026)
+DTSTART;TZID=Europe/Madrid:20260605T000000
+DTEND;TZID=Europe/Madrid:20260927T000000
+UID:39498a0b8a75d71d7ebd70bec9a7a3d25b697d2e5161064175e637151c0e1ffd
+CATEGORIES:exhibition
+DESCRIPTION:La artista reinterpreta el paisaje de Las Médulas mediante fo
+ tografía intervenida y materia mineral (Círculo de Bellas Artes - Sala M
+ inerva. 5 jun a 27 sept).\n\nhttps://phe.es/exposicion/ruina-montium/
+LOCATION:Círculo de Bellas Artes - de Alcalá\, 42\, Madrid\, 28014
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Volver a imaginar (PHotoESPAÑA 2026)
 DTSTART;TZID=Europe/Madrid:20260605T000000
 DTEND;TZID=Europe/Madrid:20260927T000000
@@ -1701,10 +1723,10 @@ DTEND;TZID=Europe/Madrid:20260902T000000
 UID:b0a885f9e03c1448285bddba51798ea18326b05a783994fe16fb19f31ba45b52
 CATEGORIES:exhibition
 DESCRIPTION:Exposición fotográfica que invita a reflexionar sobre la rel
- ación entre el individuo y el grupo a lo largo del tiempo (Leica Madrid G
- allery. 9 jun - 2 sept).\n\nhttps://leica-camera.com/es-ES/eventos/exposic
- ion-among-alone
-LOCATION:Madrid - de José Ortega y Gasset\, 34\, Madrid\, 28006
+ ación entre el individuo y el grupo a lo largo del tiempo (Leica Gallery 
+ Madrid. Hasta 2 septiembre).\n\nhttps://leica-camera.com/es-ES/eventos/exp
+ osicion-among-alone
+LOCATION:Madrid - de José Ortega y Gasset\, 34\, Madrid\, Madrid\, 28006
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elena Jiménez. Premio Nacional de Arte Gráfico
@@ -1817,11 +1839,25 @@ UID:80c03e2c2d16015e7c700211f66c693f0b6d004a3f09771d4ec6fd3792640b2c
 CATEGORIES:exhibition
 DESCRIPTION:Exposición de los murales creados por los alumnos de Bellas A
  rtes de las facultades públicas de Madrid para el festival de arte urbano
-  (11 jun - 6 sept).\n\nhttps://www.madrid.es/portales/munimadrid/es/Inicio
- /Cultura-ocio-y-deporte/Actividades-y-eventos/Exposicion-La-Universidad-Pu
- blica-Pinta-Malasana-II-ed-/?vgnextfmt=default&vgnextoid=3e947f751bcae910V
- gnVCM100000891ecb1aRCRD&vgnextchannel=6381f073808fe410Vg
+  (Museo de Historia. Hasta 6 septiembre).\n\nhttps://www.madrid.es/portale
+ s/munimadrid/es/Inicio/Cultura-ocio-y-deporte/Actividades-y-eventos/Exposi
+ cion-La-Universidad-Publica-Pinta-Malasana-II-ed-/?vgnextfmt=default&vgnex
+ toid=3e947f751bcae910VgnVCM100000891ecb1aRCRD&vgnextchannel=6381f073808fe4
+ 10Vg
 LOCATION:Museo de Historia - de Fuencarral\, 78\, Madrid\, 28004
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Conducir por Palestina | التحرّك في فلسطين
+DTSTART;TZID=Europe/Madrid:20260612T000000
+DTEND;TZID=Europe/Madrid:20261018T000000
+UID:9927ae338ae6d3de045edc16bb04e2e4e35b8c2d5539dbc81304deb98912ba9d
+CATEGORIES:exhibition
+DESCRIPTION:Retrato fotográfico y audiovisual de la Palestina ocupada rea
+ lizado por la artista multidisciplinar Rehab Nazzal (Casa Árabe. 12 jun -
+  18 oct).\n\nhttps://casaarabe.es/eventos-arabes/show/conducir-por-palesti
+ na-%D8%A7%D9%84%D8%AA%D8%AD%D8%B1%D9%91%D9%83-%D9%81%D9%8A-%D9%81%D9%84%D8
+ %B3%D8%B7%D9%8A%D9%86
+LOCATION:Casa Árabe - de Alcalá\, 62\, Madrid\, 28009
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Disfuncionarias. Tanit Plana (PHotoESPAÑA 2026)
@@ -1923,6 +1959,19 @@ LOCATION:Madrid - Capilla del Oidor\, Plaza de Cervantes\, Alcalá de Hena
  res\, Alcalá de Henares\, 28806
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Latencia
+DTSTART;TZID=Europe/Madrid:20260618T000000
+DTEND;TZID=Europe/Madrid:20260830T000000
+UID:5b4547dcf43cfe92ec15a0558701db77f3f2551e1ddf71bc4a5ecce9fe68fbde
+CATEGORIES:exhibition
+DESCRIPTION:Exposición colectiva en la que se aborda la memoria como un p
+ roceso vivo\, maleable y en constante transformación (Fundación Casa de 
+ México en España. 18 jun - 30 ago).\n\nhttps://www.casademexico.es/expos
+ icion/latencia/
+LOCATION:Fundación Casa de México en España - de Alberto Aguilera\, 20\
+ , Madrid\, 28015
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Rubens. La restauración de Venus y Cupido
 DTSTART;TZID=Europe/Madrid:20260618T000000
 DTEND;TZID=Europe/Madrid:20260913T000000
@@ -1950,15 +1999,16 @@ LOCATION:Museo de Arte Contemporáneo - del Conde Duque\, 9\, Madrid\, 280
  15
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:México 86. El mundo unido por un balón. Annie Leibovitz
+SUMMARY:México 86. El mundo unido por un balón. Annie Leibovitz (PHotoES
+ PAÑA 2026)
 DTSTART;TZID=Europe/Madrid:20260619T000000
 DTEND;TZID=Europe/Madrid:20260913T000000
-UID:299b36e7ecd4ef171a5f45abf3b5de8dbe03745b55feb511426b2172cfca1fd0
+UID:448cb3597bff6b5e40bcbde1a7b7888dc4ce27a2b645283eaa595bb459465170
 CATEGORIES:exhibition
 DESCRIPTION:La campaña creada por la reconocida fotógrafa para el Mundi
  al de Fútbol de 1986 en México vuelve a la actualidad gracias a esta mue
- stra (Fundación Casa de México en España.\n\nhttps://phe.es/exposicion
- /mexico-y-el-futbol-la-mirada-de-leibovitz/
+ stra (Fundación Casa de México en España.\n\nhttps://www.casademexico.
+ es/exposicion/photoespana-2026-mexico-86-el-mundo-unido-por-un-balon/
 LOCATION:Fundación Casa de México en España - de Alberto Aguilera\, 20\
  , Madrid\, 28015
 END:VEVENT
@@ -2045,10 +2095,10 @@ DESCRIPTION:Exposición de dibujos de Federico de Madrazo\, Luis de Madraz
 LOCATION:Museo del Romanticismo - de San Mateo\, 13\, Madrid\, 28004
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Carmen Laffón. Variationen
+SUMMARY:Carmen Laffón. Variaciones
 DTSTART;TZID=Europe/Madrid:20260623T000000
 DTEND;TZID=Europe/Madrid:20260927T000000
-UID:a77dad0aac5578c1164f4bb54316bf389d1857209fe8a511a714a8ec4beacafb
+UID:f90c1b5af74cd90554d3dabd3bfec71473dbc70981fcd854d28bf32614a7e4ee
 CATEGORIES:exhibition
 DESCRIPTION:Una gran exposición dedicada a la obra de la pintora y escult
  ora sevillana que incluye alrededor de 80 obras (Museo Nacional Thyssen-Bo
@@ -2141,5 +2191,18 @@ DESCRIPTION:Exposición colectiva que reflexiona sobre cómo percibimos\,
  tps://www.centrocentro.org/exposicion/x-bienal-de-arte-contemporaneo-de-fu
  ndacion-once
 LOCATION:CentroCentro - de Cibeles\, 1\, Madrid\, 28014
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mitologías modernas: Ouka Leele & Co
+DTSTART;TZID=Europe/Madrid:20260702T000000
+DTEND;TZID=Europe/Madrid:20261018T000000
+UID:0656dc6567002ca560c050169bdf081eb09a494f3f32d76aad7e8c05b30645f1
+CATEGORIES:exhibition
+DESCRIPTION:Exposición que revisita el papel de la mitología en el arte 
+ madrileño de la década de 1980 a partir de la obra de la artista Ouka Le
+ ele (Sala Alcalá 31. 2 jul a 18 oct).\n\nhttps://www.comunidad.madrid/act
+ ividades/2026/exposicion-mitologias-modernas-ouka-leele-co
+LOCATION:Sala Alcalá 31 de la Comunidad de Madrid - de Alcalá\, 31\, Mad
+ rid\, 28014
 END:VEVENT
 END:VCALENDAR
