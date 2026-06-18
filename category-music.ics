@@ -2,41 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Víctor Carrascosa Quartet
-DTSTART;TZID=Europe/Madrid:20260617T200000
-DTEND;TZID=Europe/Madrid:20260618T200000
-UID:0aba180df36e1ca31bd9469d24aee87b9ed96671bebf487782c018b3bd9e2916
-CATEGORIES:music
-DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
-  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
- s://ateneodemadrid.com/evento/victor-carrascosa-quartet/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Noches de Krahe
-DTSTART;TZID=Europe/Madrid:20260617T210000
-DTEND;TZID=Europe/Madrid:20260617T210000
-UID:b5e1207af48283b4ec65e185641f3e399dc6858be7bf30c14ca35c6105f20281
-CATEGORIES:music
-DESCRIPTION:Venta de entradas (aquí). Socios\, código descuento en el Á
- rea del Socio. \n \nAndreas Prittwitz con Luis Fernández\, piano. + Invit
- ado \nNoches de Krahe sigue con sus conciertos mensuales. No te pierdas es
- ta posibilidad de volver a escuchar las canciones de Javier\, a través de
-  su Bundesklarinette Andreas y su fiel Luis al piano. Además\, como siemp
- re habrá invitado especial… y tantas cervezas o vinos que quieras\n\nht
- tps://ateneodemadrid.com/evento/noches-de-krahe-2/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tommy Guerrero
-DTSTART;TZID=Europe/Madrid:20260617T210000
-UID:90e0366d2889f273d5106f45609d7570fdf9b34b6cc8411ada973256401ef179
-CATEGORIES:music
-DESCRIPTION:Concierto / Momentos Alhambra / Rock / World Music & Folk\n\nh
- ttps://salavillanos.es/evento/tommy-guerrero/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Zuaraz
 DTSTART;TZID=Europe/Madrid:20260618T203000
 UID:ce68de61932a493b8e009b9a07e8662951bdef097c835ac53aae19b00003eeab
@@ -56,23 +21,9 @@ LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
  id
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:"Cuando vibran los sueños" Recital de poesía y piano. Obras de J
- .A. Medina Labrada
-DTSTART;TZID=Europe/Madrid:20260619T190000
-DTEND;TZID=Europe/Madrid:20260619T190000
-UID:6daf865c9264ca71e0a4541d4662bed88f779941e69409ec0e49a11343335b60
-CATEGORIES:music
-DESCRIPTION:Sección de Música. María Galiana\, actriz\; Mercedes Medina
- \, pianista\; y Elena Cadierno\,  pianista. Cátedr.a Mayor. 19:00h. Hoja
-  de vida (ver). Proyecto recuperación y difusión J.A. Medina Labrada (ve
- r)\n\nhttps://ateneodemadrid.com/evento/cuando-vibran-los-suenos-recital-d
- e-poesia-y-piano-obras-de-j-a-medina-labrada/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:DEMM26. Conciertos viernes 19 de junio. Maria Arnal\, Ángeles Tol
  edano\, Rita Payés y Lucía Fumero y Gazzi
-DTSTART;TZID=Europe/Madrid:20260619T200000
+DTSTART;TZID=Europe/Madrid:20260619T183000
 UID:f535dac2741483af88bbf91279e01e3429ed3b1dbb685b72e0ee706eed426103
 CATEGORIES:music
 DESCRIPTION:El viernes 19 se contará con la vanguardia audiovisual de Mar
@@ -100,6 +51,20 @@ DESCRIPTION:El viernes 19 se contará con la vanguardia audiovisual de Mar
  emm26-conciertos-viernes-19-de-junio-maria-arnal-angeles-toledano-rita-pay
  es-y-lucia
 LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:"Cuando vibran los sueños" Recital de poesía y piano. Obras de J
+ .A. Medina Labrada
+DTSTART;TZID=Europe/Madrid:20260619T190000
+DTEND;TZID=Europe/Madrid:20260619T190000
+UID:6daf865c9264ca71e0a4541d4662bed88f779941e69409ec0e49a11343335b60
+CATEGORIES:music
+DESCRIPTION:Sección de Música. María Galiana\, actriz\; Mercedes Medina
+ \, pianista\; y Elena Cadierno\,  pianista. Cátedr.a Mayor. 19:00h. Hoja
+  de vida (ver). Proyecto recuperación y difusión J.A. Medina Labrada (ve
+ r)\n\nhttps://ateneodemadrid.com/evento/cuando-vibran-los-suenos-recital-d
+ e-poesia-y-piano-obras-de-j-a-medina-labrada/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Thomas Potiron Cuarteto
@@ -148,30 +113,9 @@ DESCRIPTION:Con un repertorio especialmente indicado para el público fami
 LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Novela Grafica De Standstill
-DTSTART;TZID=Europe/Madrid:20260620T190000
-UID:c9551266d622eeaf3e12a8ab604ceb76e5e8c83e2e878c47017d25a56f7c2161
-CATEGORIES:music
-DESCRIPTION:Concierto / Pop / Rock\n\nhttps://salavillanos.es/evento/novel
- a-grafica-de-standstill/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Trío presenta 'Aurora Solemne'
-DTSTART;TZID=Europe/Madrid:20260620T193000
-DTEND;TZID=Europe/Madrid:20260620T193000
-UID:69c56dc23478c87bb6b47cf22cfe67656c298d1b8b52d7ba53d82167fd6e134d
-CATEGORIES:music
-DESCRIPTION:Venta de entradas (aquí). Socios\, código de descuento en el
-  Área del Socio. \n \nJaume Angelès Fité\, violín)\, Iago Domínguez E
- iras\, violonchelo) y Paula Belzunegui Moreno\, piano. Cátedra Mayor. 19:
- 30h.\n\nhttps://ateneodemadrid.com/evento/trio-presenta-aurora-solemne/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:DEMM26. Conciertos sábado 20 de junio. pablopablo\, Alizzz\, Depr
  esión Sonora y Akazie
-DTSTART;TZID=Europe/Madrid:20260620T200000
+DTSTART;TZID=Europe/Madrid:20260620T183000
 UID:29decb9761a86b5ad9c804690728009044c11568478f4bcd889c560601fb8513
 CATEGORIES:music
 DESCRIPTION:DEMM reúne a tres nombres clave del nuevo pop. Carismático y
@@ -205,6 +149,27 @@ DESCRIPTION:DEMM reúne a tres nombres clave del nuevo pop. Carismático y
  //www.mataderomadrid.org/programacion/demm26-conciertos-sabado-20-de-junio
  -pablopablo-alizzz-depresion-sonora-y-akazie
 LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Novela Grafica De Standstill
+DTSTART;TZID=Europe/Madrid:20260620T190000
+UID:c9551266d622eeaf3e12a8ab604ceb76e5e8c83e2e878c47017d25a56f7c2161
+CATEGORIES:music
+DESCRIPTION:Concierto / Pop / Rock\n\nhttps://salavillanos.es/evento/novel
+ a-grafica-de-standstill/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trío presenta 'Aurora Solemne'
+DTSTART;TZID=Europe/Madrid:20260620T193000
+DTEND;TZID=Europe/Madrid:20260620T193000
+UID:69c56dc23478c87bb6b47cf22cfe67656c298d1b8b52d7ba53d82167fd6e134d
+CATEGORIES:music
+DESCRIPTION:Venta de entradas (aquí). Socios\, código de descuento en el
+  Área del Socio. \n \nJaume Angelès Fité\, violín)\, Iago Domínguez E
+ iras\, violonchelo) y Paula Belzunegui Moreno\, piano. Cátedra Mayor. 19:
+ 30h.\n\nhttps://ateneodemadrid.com/evento/trio-presenta-aurora-solemne/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Miseria Y Kompañía + Deklarados Kulpables
@@ -318,6 +283,18 @@ DESCRIPTION:Concierto / Villanos del Jazz\n\nhttps://salavillanos.es/event
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Descontentos y desconciertos en tiempos de Trump
+DTSTART;TZID=Europe/Madrid:20260624T193000
+DTEND;TZID=Europe/Madrid:20260624T193000
+UID:5033d7db93d742369fcc31aedfec078e8ac012ac692bb8a5d516810ff38e7c19
+CATEGORIES:music
+DESCRIPTION:Sección de Ciencias Sociales. Diálogo entre: Francesç-Marc 
+ Álvaro y Cristina Monge. Sala Larra. 19:30h.\n\nhttps://ateneodemadrid.co
+ m/evento/presentacion-de-los-libros-descontentos-y-desconciertos-en-tiempo
+ s-de-trump/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Walter Sax Big Band
 DTSTART;TZID=Europe/Madrid:20260624T203000
 UID:335575b16b8ca0c537ee59482dfa5f85b76751af211d8daad5f5f7e96fe2be10
@@ -378,6 +355,23 @@ DESCRIPTION:Precio de las entradas: 10€/13€ Entradas a la venta moving
   el queerpunk a Carabanchel\n\nhttps://gruta77.com/events/genderlexx-lavan
  dera-boyera/var/ri-0.l-L2
 LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Piano City 2026 en Matadero Madrid. Sábado 27 junio
+DTSTART;TZID=Europe/Madrid:20260627T170000
+UID:d9461b0c9195b08ea8e930380dc5e33f9ed496b5839d7c7b9bcc7e560a3c4a12
+CATEGORIES:music
+DESCRIPTION:PROGRAMA: 17h. David Cabañas Alonso Chopin: Estudio n.º 11 o
+ p. 10\; Debussy: Fuegos artificiales\; Óscar Gallego Covarrubias: Paisaje
+  (estreno absoluto con el apoyo de Idealista)\; Schumann: Fantasía op. 17
+ . CLÁSICA. 18.15h. Mónica López Habitar y marchar\, improvisación moda
+ l libre. JAZZ. 19.30h. Yulei Díaz Crisálida\; Mariposa\; H. Arlen: Over 
+ the rainbow: Y. Díaz: Oye\, Guajira!\; C. Valdés: De la Habana a París\
+ ; Y. Díaz: Nadie con tu luz\; Ella\; Gershwin: Summertime\; Y. Díaz: Sol
+ edad 518\; Preludio Flamenco\; La Cubañola\; Cajkovskij en la Habana. JAZ
+ Z LATINO.\n\nhttps://www.mataderomadrid.org/programacion/piano-city-2026-e
+ n-matadero-madrid-sabado-27-junio
+LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:La Excepción
@@ -465,5 +459,14 @@ DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://tickets.hfmncrew.com/web
  /?menu=1162&pagina=entradas&item=58898&siteID=hfmncrew
 LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
  id
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bianca Gismonti & Manuel de Oliveira
+DTSTART;TZID=Europe/Madrid:20260702T210000
+UID:47a435a12f2708f8f4790ce26810ec633f085c5e4127ebe8b5eb3d2d07181ece
+CATEGORIES:music
+DESCRIPTION:Concierto / Villanos del Jazz\n\nhttps://salavillanos.es/event
+ o/bianca-gismonti-manuel-de-oliveira/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 END:VCALENDAR
