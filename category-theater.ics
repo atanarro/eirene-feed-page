@@ -2,31 +2,34 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
+SUMMARY:Las últimas
+DTSTART;TZID=Europe/Madrid:20260512T000000
+DTEND;TZID=Europe/Madrid:20260621T235900
+UID:316be86cfbc47554e2ec61a11a79f1a4f0ab7c707e2a2f3937148b01aa6cf977
+CATEGORIES:theater
+DESCRIPTION:Una creación de Cross Border Texto y dirección Lucía Mirand
+ a\n\nhttps://dramatico.inaem.gob.es/evento/las-ultimas/
+LOCATION:Teatro Valle-Inclán - Plaza de Lavapies\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Una buena vida
+DTSTART;TZID=Europe/Madrid:20260513T000000
+DTEND;TZID=Europe/Madrid:20260621T235900
+UID:086d449e5fecb5c4f577020bd6df49e9111926e9f62e7c7a6ff99af6773ed168
+CATEGORIES:theater
+DESCRIPTION:Texto y dirección Carolina África\n\nhttps://dramatico.inaem
+ .gob.es/evento/una-buena-vida/
+LOCATION:Teatro Maria Guerrero - Calle de Tamayo y Baus\, 4\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ubú
-DTSTART;TZID=Europe/Madrid:20260618T193000
+DTSTART;TZID=Europe/Madrid:20260619T180000
 DTEND;TZID=Europe/Madrid:20260621T193000
 UID:a56573e15b36299498f04f228d668b599f378b13af45661ba6edc325bb0216ff
 CATEGORIES:theater
 DESCRIPTION:Entradas disponibles desde 21.00€ | Tags: JOBO\n\nhttps://ti
  enda.madrid-destino.com/es/nave-10/ubu/
 LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Mujer y la copla en nuestra educación sentimental
-DTSTART;TZID=Europe/Madrid:20260618T193000
-UID:feb9f042acca8f4de029782af37da13b1eb5dc674cd88658738bcb325ab9a71d
-CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 3 plazas!\n\nhttps://teatrodelbarrio.com/la-m
- ujer-y-la-copla-en-nuestra-educacion-sentimental/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Poesía o Barbarie
-DTSTART;TZID=Europe/Madrid:20260618T220000
-UID:7c8b891bb1ca94a83ce40bdd4698aa2901887b287352eda7512f9b54ca29d6d9
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/poesia-o-barbarie/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:La memoria colonial del franquismo: Los silencios de nuestra histo
@@ -96,7 +99,7 @@ SUMMARY:En mitad de tanto fuego
 DTSTART;TZID=Europe/Madrid:20260620T193000
 UID:6d4bd8775101cf6b275f786b4a856a93d22c082238f0b856f4c2e0dd79b1ab18
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 15 plazas!\n\nhttps://teatrodelbarrio.com/en-
+DESCRIPTION:¡Ya solo quedan 13 plazas!\n\nhttps://teatrodelbarrio.com/en-
  mitad-de-tanto-fuego/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
@@ -135,49 +138,11 @@ DESCRIPTION:En un viejo caserón habitado por mujeres excéntricas\, sensi
 LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ubú
-DTSTART;TZID=Europe/Madrid:20260621T193000
-UID:c36e8cd45f3a5a9449a76a877c6a9ee7148c622954ad65147b27c2b09ee553ce
-CATEGORIES:theater
-DESCRIPTION:AVISO A PÚBLICO : Marta Guerras interpreta el papel Mami Ubú
-  todos los días excepto las funciones del 19\, 20 y 21 de junio\, que Mam
- i Ubú será interpretada por Cristina Gallego . -------------------------
- --------------------------------------------------------------------------
- ----------------------------------------------- Monsieur Ubú es un ser in
- noble\, y por eso mismo se parece bastante (de ombligo para abajo) a nosot
- ros mismos. Alfred Jarry\, autor de la cita\, cambió el teatro de su tiem
- po creando el personaje de Ubú\, caricatura de uno de sus profesores y de
- l ansia de poder. María Folguera nos propone una versión de Ubú\, ese p
- atán empeñado en invadir Polonia\, más cercana al tiempo que vivimos. U
- bú rey se estrenó en París en 1896. Cuenta la historia de un señor que
-  se propone conquistar Polonia a costa de todo y lo consigue\, aunque lueg
- o gestiona de manera horrible su mandato\, enriqueciéndose de manera verg
- onzosa y huye antes de que lo atrapen. ¡Mierdra! \, como se tradujo al es
- pañol la famosa palabra que Ubú no deja de decir\, representa la dispara
- tada personalidad de los personajes de la obra de Alfred Jarry que dio pas
- o al Absurdo. María Folguera crea un texto original a partir de este clá
- sico del teatro\, trayéndolo a nuestro tiempo. La visita al repertorio si
- empre ha servido para entender la sociedad actual. A nuestro alrededor som
- os capaces de distinguir varios patanes con ansias de poder y sin ningún 
- escrúpulo. No cambiamos de problemas\, pero seguimos riendo de la misma m
- anera. Rocío Bello Dramaturgista de la temporada 25/26 de Nave 10 Matader
- o\n\nhttps://www.mataderomadrid.org/programacion/ubu
-LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Sobria y Serena
 DTSTART;TZID=Europe/Madrid:20260621T203000
 UID:8350278a58a66d66b097177e9f524ce00da5d7ad9da858a7fefaf6980993f41b
 CATEGORIES:theater
 DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/sobria-y-serena/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Habitar la dignidad
-DTSTART;TZID=Europe/Madrid:20260623T190000
-UID:ade755deee1fcc4a10aa862aa1b4af7bef9def67f157ccd9d4ffcfc98aec5b6b
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/habitar-la-dignidad/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -215,6 +180,15 @@ DESCRIPTION:Esto no es culpa de nadie\, con Facu Díaz\n\nEl nuevo mundo s
  surpados a su compañero murciano.\n\nhttps://lamirador.com/funcion?nombre
  =esto-no-es-culpa-de-nadie-con-facu-diaz-2026
 LOCATION:Sala Mirador - Calle Doctor Fourquet\, 31\, 28012 Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Más allá del ARCOIRIS
+DTSTART;TZID=Europe/Madrid:20260625T221500
+UID:30b7a593bd29533c1e16bf6d880f5dae28d7df4af9d5cc1b5c6816c7bab7f3e2
+CATEGORIES:theater
+DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/mas-alla-del-arcoiri
+ s/
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Niño de Elche y Paul B. Preciado

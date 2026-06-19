@@ -1,9 +1,31 @@
 Eirene feed debug
-Total events: 29
+Total events: 28
 
-[1] Ubú
+[1] Las últimas
+  id: 316be86cfbc47554e2ec61a11a79f1a4f0ab7c707e2a2f3937148b01aa6cf977
+  start: 2026-05-12T00:00:00+02:00
+  end: 2026-06-21T23:59:00+02:00
+  category: theater
+  source: dramatico_inaem
+  location: Teatro Valle-Inclán - Plaza de Lavapies, Madrid
+  coordinates: 40.4080471, -3.7003217
+  url: https://dramatico.inaem.gob.es/evento/las-ultimas/
+  description: Una creación de Cross Border Texto y dirección Lucía Miranda
+
+[2] Una buena vida
+  id: 086d449e5fecb5c4f577020bd6df49e9111926e9f62e7c7a6ff99af6773ed168
+  start: 2026-05-13T00:00:00+02:00
+  end: 2026-06-21T23:59:00+02:00
+  category: theater
+  source: dramatico_inaem
+  location: Teatro Maria Guerrero - Calle de Tamayo y Baus, 4, Madrid
+  coordinates: 40.4228646, -3.6928431
+  url: https://dramatico.inaem.gob.es/evento/una-buena-vida/
+  description: Texto y dirección Carolina África
+
+[3] Ubú
   id: a56573e15b36299498f04f228d668b599f378b13af45661ba6edc325bb0216ff
-  start: 2026-06-18T19:30:00+02:00
+  start: 2026-06-19T18:00:00+02:00
   end: 2026-06-21T19:30:00+02:00
   category: theater
   source: nave_10
@@ -11,28 +33,6 @@ Total events: 29
   coordinates: 40.3920606, -3.6978319
   url: https://tienda.madrid-destino.com/es/nave-10/ubu/
   description: Entradas disponibles desde 21.00€ | Tags: JOBO
-
-[2] La Mujer y la copla en nuestra educación sentimental
-  id: feb9f042acca8f4de029782af37da13b1eb5dc674cd88658738bcb325ab9a71d
-  start: 2026-06-18T19:30:00+02:00
-  end: N/A
-  category: theater
-  source: teatro_del_barrio
-  location: Teatro del Barrio - Calle de Zurita, 20, Madrid
-  coordinates: 40.4096081, -3.699174
-  url: https://teatrodelbarrio.com/la-mujer-y-la-copla-en-nuestra-educacion-sentimental/
-  description: ¡Ya solo quedan 3 plazas!
-
-[3] Poesía o Barbarie
-  id: 7c8b891bb1ca94a83ce40bdd4698aa2901887b287352eda7512f9b54ca29d6d9
-  start: 2026-06-18T22:00:00+02:00
-  end: N/A
-  category: theater
-  source: teatro_del_barrio
-  location: Teatro del Barrio - Calle de Zurita, 20, Madrid
-  coordinates: 40.4096081, -3.699174
-  url: https://teatrodelbarrio.com/poesia-o-barbarie/
-  description: Disponible
 
 [4] La memoria colonial del franquismo: Los silencios de nuestra historia
   id: f01c51c66f005cb7f20fe5db8d5b99cb1458a4a12a77b22f5a6c065b7ecad1d2
@@ -114,7 +114,7 @@ Con este nuevo podcast de Atado y Bien Atado queremos explorar la memoria coloni
   location: Teatro del Barrio - Calle de Zurita, 20, Madrid
   coordinates: 40.4096081, -3.699174
   url: https://teatrodelbarrio.com/en-mitad-de-tanto-fuego/
-  description: ¡Ya solo quedan 15 plazas!
+  description: ¡Ya solo quedan 13 plazas!
 
 [10] No ni ná. Una copla diçidente p´acompañâh un guen puxero
   id: 1921fe2c8f6975235a481a03088afa05e2e0f2f58234f8aa7619af972b679b2d
@@ -149,18 +149,7 @@ Con este nuevo podcast de Atado y Bien Atado queremos explorar la memoria coloni
   url: https://www.mataderomadrid.org/programacion/el-caseron-de-la-loca
   description: En un viejo caserón habitado por mujeres excéntricas, sensibles, libres y aparentemente disparatadas, Gloria Fuertes construye una historia llena de humor, ternura y crítica social. Entre situaciones absurdas, diálogos ingeniosos y personajes entrañables, la obra cuestiona los límites entre cordura y locura en una sociedad que a menudo etiqueta como “locos” a quienes simplemente se atreven a ser diferentes. Con su inconfundible mezcla de poesía, ironía y humanidad, El caserón de las locas es una celebración de la imaginación, la libertad y la rebeldía frente a las normas establecidas. Imparte: Con Causa Actores: Grupo ACCIÓN TEATRO, de Casa del Lector
 
-[13] Ubú
-  id: c36e8cd45f3a5a9449a76a877c6a9ee7148c622954ad65147b27c2b09ee553ce
-  start: 2026-06-21T19:30:00+02:00
-  end: N/A
-  category: theater
-  source: matadero
-  location: Matadero Madrid - Plaza de Legazpi, 8, Madrid
-  coordinates: 40.392398, -3.697762
-  url: https://www.mataderomadrid.org/programacion/ubu
-  description: AVISO A PÚBLICO : Marta Guerras interpreta el papel Mami Ubú todos los días excepto las funciones del 19, 20 y 21 de junio, que Mami Ubú será interpretada por Cristina Gallego . -------------------------------------------------------------------------------------------------------------------------------------------------- Monsieur Ubú es un ser innoble, y por eso mismo se parece bastante (de ombligo para abajo) a nosotros mismos. Alfred Jarry, autor de la cita, cambió el teatro de su tiempo creando el personaje de Ubú, caricatura de uno de sus profesores y del ansia de poder. María Folguera nos propone una versión de Ubú, ese patán empeñado en invadir Polonia, más cercana al tiempo que vivimos. Ubú rey se estrenó en París en 1896. Cuenta la historia de un señor que se propone conquistar Polonia a costa de todo y lo consigue, aunque luego gestiona de manera horrible su mandato, enriqueciéndose de manera vergonzosa y huye antes de que lo atrapen. ¡Mierdra! , como se tradujo al español la famosa palabra que Ubú no deja de decir, representa la disparatada personalidad de los personajes de la obra de Alfred Jarry que dio paso al Absurdo. María Folguera crea un texto original a partir de este clásico del teatro, trayéndolo a nuestro tiempo. La visita al repertorio siempre ha servido para entender la sociedad actual. A nuestro alrededor somos capaces de distinguir varios patanes con ansias de poder y sin ningún escrúpulo. No cambiamos de problemas, pero seguimos riendo de la misma manera. Rocío Bello Dramaturgista de la temporada 25/26 de Nave 10 Matadero
-
-[14] Sobria y Serena
+[13] Sobria y Serena
   id: 8350278a58a66d66b097177e9f524ce00da5d7ad9da858a7fefaf6980993f41b
   start: 2026-06-21T20:30:00+02:00
   end: N/A
@@ -171,18 +160,7 @@ Con este nuevo podcast de Atado y Bien Atado queremos explorar la memoria coloni
   url: https://teatrodelbarrio.com/sobria-y-serena/
   description: Disponible
 
-[15] Habitar la dignidad
-  id: ade755deee1fcc4a10aa862aa1b4af7bef9def67f157ccd9d4ffcfc98aec5b6b
-  start: 2026-06-23T19:00:00+02:00
-  end: N/A
-  category: theater
-  source: teatro_del_barrio
-  location: Teatro del Barrio - Calle de Zurita, 20, Madrid
-  coordinates: 40.4096081, -3.699174
-  url: https://teatrodelbarrio.com/habitar-la-dignidad/
-  description: Disponible
-
-[16] Carcoma
+[14] Carcoma
   id: 0c7f0a1fdaa0ef95e122c2059411f20bae1315da339de51637b7c8392e708ea5
   start: 2026-06-24T19:30:00+02:00
   end: N/A
@@ -193,7 +171,7 @@ Con este nuevo podcast de Atado y Bien Atado queremos explorar la memoria coloni
   url: https://teatrodelbarrio.com/carcoma/
   description: ¡Ya solo quedan 1 plazas!
 
-[17] Carcoma
+[15] Carcoma
   id: 6b9e74f14a3d3937e5d70bfd62aaa7d2842266b370da70528762d273f88f0186
   start: 2026-06-25T19:30:00+02:00
   end: N/A
@@ -204,7 +182,7 @@ Con este nuevo podcast de Atado y Bien Atado queremos explorar la memoria coloni
   url: https://teatrodelbarrio.com/carcoma/
   description: ¡Ya solo quedan 1 plazas!
 
-[18] Esto no es culpa de nadie, con Facu Díaz
+[16] Esto no es culpa de nadie, con Facu Díaz
   id: 03a2a210e40035e14d3881f43558741131e04c5559aaf34d1062cb57de8a2efb
   start: 2026-06-25T21:00:00+02:00
   end: N/A
@@ -221,7 +199,18 @@ Una suerte de violinista del Titanic que, micrófono en mano, analiza de manera 
 
 Lo que está pasando es culpa de todos y a la vez culpa de nadie, o esa es la confusa teoría que pretende desarrollar el comediante uruguayo con este nuevo texto plagado de autoreferencias, proclamas políticas propias del siglo pasado y chistes vilmente usurpados a su compañero murciano.
 
-[19] Niño de Elche y Paul B. Preciado
+[17] Más allá del ARCOIRIS
+  id: 30b7a593bd29533c1e16bf6d880f5dae28d7df4af9d5cc1b5c6816c7bab7f3e2
+  start: 2026-06-25T22:15:00+02:00
+  end: N/A
+  category: theater
+  source: teatro_del_barrio
+  location: Teatro del Barrio - Calle de Zurita, 20, Madrid
+  coordinates: 40.4096081, -3.699174
+  url: https://teatrodelbarrio.com/mas-alla-del-arcoiris/
+  description: Disponible
+
+[18] Niño de Elche y Paul B. Preciado
   id: a119ee91989b6f5c28ab2646c30af440cf762f860da3f1dcfe1c099f0dd5e8a0
   start: 2026-06-26T19:30:00+02:00
   end: 2026-06-28T19:30:00+02:00
@@ -232,7 +221,7 @@ Lo que está pasando es culpa de todos y a la vez culpa de nadie, o esa es la co
   url: https://tienda.madrid-destino.com/es/nave-10/nino-de-elche-y-paul-b-preciado/
   description: Entradas agotadas desde 21.00€ | Tags: JOBO
 
-[20] Carcoma
+[19] Carcoma
   id: 5ebad53474248f09b5ed35dd5d9b7a023f99f29cd89225455e61b540ed16cff8
   start: 2026-06-26T19:30:00+02:00
   end: N/A
@@ -243,7 +232,7 @@ Lo que está pasando es culpa de todos y a la vez culpa de nadie, o esa es la co
   url: https://teatrodelbarrio.com/carcoma/
   description: ¡Ya solo quedan 1 plazas!
 
-[21] Esto no es culpa de nadie, con Facu Díaz
+[20] Esto no es culpa de nadie, con Facu Díaz
   id: ad10f9442be8b09ad13c9ee888b35137f0662e99cffec9730109c4c5a9ab102c
   start: 2026-06-26T21:00:00+02:00
   end: N/A
@@ -260,7 +249,7 @@ Una suerte de violinista del Titanic que, micrófono en mano, analiza de manera 
 
 Lo que está pasando es culpa de todos y a la vez culpa de nadie, o esa es la confusa teoría que pretende desarrollar el comediante uruguayo con este nuevo texto plagado de autoreferencias, proclamas políticas propias del siglo pasado y chistes vilmente usurpados a su compañero murciano.
 
-[22] Paloma Calle que se calle
+[21] Paloma Calle que se calle
   id: dc6efda0ce5e92b99947e29e7391e9c32fcba9204730b8a589313f22e72ab88d
   start: 2026-06-26T22:15:00+02:00
   end: N/A
@@ -271,7 +260,7 @@ Lo que está pasando es culpa de todos y a la vez culpa de nadie, o esa es la co
   url: https://teatrodelbarrio.com/paloma-calle-que-se-calle/
   description: Disponible
 
-[23] Arte Compacto. El vermut
+[22] Arte Compacto. El vermut
   id: 19062aada1146dee45de963a16a7284cf2958462a67b295a731e93d62b2f128c
   start: 2026-06-27T13:00:00+02:00
   end: N/A
@@ -282,7 +271,7 @@ Lo que está pasando es culpa de todos y a la vez culpa de nadie, o esa es la co
   url: https://teatrodelbarrio.com/arte-compacto/
   description: Disponible
 
-[24] Mujeres y memoria democrática. Borrando el olvido
+[23] Mujeres y memoria democrática. Borrando el olvido
   id: 0d7ecf35dee54aed0eeed0471d25abe37cf5873d1455165383a586b75ede7266
   start: 2026-06-27T19:30:00+02:00
   end: N/A
@@ -293,7 +282,7 @@ Lo que está pasando es culpa de todos y a la vez culpa de nadie, o esa es la co
   url: https://teatrodelbarrio.com/mujeres-y-memoria-democratica-borrando-el-olvido/
   description: ¡Ya solo quedan 1 plazas!
 
-[25] Esto no es culpa de nadie, con Facu Díaz
+[24] Esto no es culpa de nadie, con Facu Díaz
   id: ddcc2f13045ca49d42d2b3d607ab2ba342a39267711e6fc700ba677481ccd57b
   start: 2026-06-27T21:00:00+02:00
   end: N/A
@@ -310,7 +299,7 @@ Una suerte de violinista del Titanic que, micrófono en mano, analiza de manera 
 
 Lo que está pasando es culpa de todos y a la vez culpa de nadie, o esa es la confusa teoría que pretende desarrollar el comediante uruguayo con este nuevo texto plagado de autoreferencias, proclamas políticas propias del siglo pasado y chistes vilmente usurpados a su compañero murciano.
 
-[26] Malas
+[25] Malas
   id: 463a230a4a3e048ee4d8443261847ea8ddc23fff67a2d76e0771dae0dc7f857a
   start: 2026-06-27T22:00:00+02:00
   end: N/A
@@ -321,7 +310,7 @@ Lo que está pasando es culpa de todos y a la vez culpa de nadie, o esa es la co
   url: https://teatrodelbarrio.com/malas/
   description: Disponible
 
-[27] Recital de poesía antibelicista.
+[26] Recital de poesía antibelicista.
   id: 8656d0ff3b584a9a9d16bd768151e4e7d7e4b0811d1cbc3cc193e2b6fd041741
   start: 2026-06-28T18:00:00+02:00
   end: N/A
@@ -332,7 +321,7 @@ Lo que está pasando es culpa de todos y a la vez culpa de nadie, o esa es la co
   url: https://teatrodelbarrio.com/recital-de-poesia-antibelicista/
   description: Disponible
 
-[28] Esto no es culpa de nadie, con Facu Díaz
+[27] Esto no es culpa de nadie, con Facu Díaz
   id: 9eb306edb0ea92af31e8d4dab87e12bba9ae041aeb73774f285d0d8bee26fc23
   start: 2026-06-28T19:00:00+02:00
   end: N/A
@@ -349,7 +338,7 @@ Una suerte de violinista del Titanic que, micrófono en mano, analiza de manera 
 
 Lo que está pasando es culpa de todos y a la vez culpa de nadie, o esa es la confusa teoría que pretende desarrollar el comediante uruguayo con este nuevo texto plagado de autoreferencias, proclamas políticas propias del siglo pasado y chistes vilmente usurpados a su compañero murciano.
 
-[29] José del Curro (cante) y Jerónimo Maya (toque). PEÑA FLAMENCA DE LAVAPIÉS
+[28] José del Curro (cante) y Jerónimo Maya (toque). PEÑA FLAMENCA DE LAVAPIÉS
   id: 43e6769b8aa2886d9cc7e12ea1813424025780c0b9e32680a30f78247073068c
   start: 2026-06-28T21:00:00+02:00
   end: N/A

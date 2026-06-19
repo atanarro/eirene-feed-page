@@ -616,12 +616,12 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:El Imperio Fan Contraataca
 DTSTART;TZID=Europe/Madrid:20260506T000000
-DTEND;TZID=Europe/Madrid:20260705T000000
+DTEND;TZID=Europe/Madrid:20260802T000000
 UID:a76656511e2168bdc1e91abaccff1de550a46b6feb9d917677b5cd5f49667380
 CATEGORIES:exhibition
 DESCRIPTION:Llega a Madrid la mayor exposición del mundo hecha por y para
-  fans de la saga más emblemática (Espacio Ibercaja Delicias. Hasta 5 jul
- ).\n\nhttps://imperiofancontraataca.com/
+  fans de la saga más emblemática (Espacio Ibercaja Delicias. Hasta 2 ago
+ sto).\n\nhttps://imperiofancontraataca.com/
 LOCATION:Espacio Delicias - de las Delicias\, 61\, Madrid\, 28045
 END:VEVENT
 BEGIN:VEVENT
@@ -662,16 +662,14 @@ DESCRIPTION:Inmersión profunda en el alma de España a través de sus tre
 LOCATION:Nomad Museo Inmersivo - Gran Vía\, 78\, Madrid\, 28013
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:La Visitación de Jacopo Pontormo
-DTSTART;TZID=Europe/Madrid:20260508T000000
-DTEND;TZID=Europe/Madrid:20260618T000000
-UID:b742e5c4d4ed295b2dc343de81fc3fcf160c1dc4b51f1ca7a22f818beddd958a
-CATEGORIES:exhibition
-DESCRIPTION:Esta destacada obra del pintor renacentista se expone por prim
- era vez en España (Museo del Prado. Hasta 18 junio).\n\nhttps://www.museo
- delprado.es/actualidad/exposicion/la-visitacion-de-jacopo-pontormo/c56df51
- 0-6c63-66e7-24f3-942945fb2ff1
-LOCATION:Museo del Prado - del Prado\, s/n\, Madrid\, 28014
+SUMMARY:Las últimas
+DTSTART;TZID=Europe/Madrid:20260512T000000
+DTEND;TZID=Europe/Madrid:20260621T235900
+UID:316be86cfbc47554e2ec61a11a79f1a4f0ab7c707e2a2f3937148b01aa6cf977
+CATEGORIES:theater
+DESCRIPTION:Una creación de Cross Border Texto y dirección Lucía Mirand
+ a\n\nhttps://dramatico.inaem.gob.es/evento/las-ultimas/
+LOCATION:Teatro Valle-Inclán - Plaza de Lavapies\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Carteles de San Isidro. La imagen de las fiestas
@@ -696,6 +694,16 @@ DESCRIPTION:El Festival Internacional de Fotografía y Artes Visuales cele
  bra una nueva edición acogiendo numerosas exposiciones de fotógrafos y a
  rtistas visuales (Varios espacios. Hasta 13 sept).\n\nhttp://www.phe.es/
 LOCATION:Madrid - Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Una buena vida
+DTSTART;TZID=Europe/Madrid:20260513T000000
+DTEND;TZID=Europe/Madrid:20260621T235900
+UID:086d449e5fecb5c4f577020bd6df49e9111926e9f62e7c7a6ff99af6773ed168
+CATEGORIES:theater
+DESCRIPTION:Texto y dirección Carolina África\n\nhttps://dramatico.inaem
+ .gob.es/evento/una-buena-vida/
+LOCATION:Teatro Maria Guerrero - Calle de Tamayo y Baus\, 4\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Azkarate vs Azkarate. Isabel Azkarate (PHotoESPAÑA 2026)
@@ -1328,608 +1336,6 @@ LOCATION:Museo Nacional Thyssen-Bornemisza - del Prado\, 8\, Madrid\, 2801
  4
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Female Student Guerrilla
-DTSTART;TZID=Europe/Madrid:20260618T120000
-UID:d040b787886147b8f636d9a09c22d07b66c6905d98fbc7827afc32e7332e4dab
-CATEGORIES:other
-DESCRIPTION:Tres chicas de secundaria a punto de graduarse planean en secr
- eto arruinar la ceremonia de diplomas a fin de vengarse de la escuela que 
- les trata como delincuentes. Dos compañeros que descubren su plan deciden
-  unirse a la rebelión y establecen una guerrilla con base en las montaña
- s. > No recomendada para menores de 18 años.\n\nhttps://www.mataderomadri
- d.org/programacion/female-student-guerrilla
-LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SESIÓN TETA: El día de la revelación
-DTSTART;TZID=Europe/Madrid:20260618T120000
-DTEND;TZID=Europe/Madrid:20260618T142600
-UID:8cb811b796f1622a7257b7a2f571a89c77e0e2887bddb0c12d6d141ebcd5f385
-CATEGORIES:cinema
-DESCRIPTION:Si descubrieras que no estamos solos\, si alguien te abriera l
- os ojos y te lo demostrase\, ¿te asustarías? Este verano\, la verdad ser
- á revelada a siete mil millones de personas. Llega... el día de la revel
- ación.\n\nAudio: VOSE\n\nhttps://cinesembajadores.es/pelicula/sesion-teta
- -el-dia-de-la-revelacion-vose/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Iván & Hadoum
-DTSTART;TZID=Europe/Madrid:20260618T155000
-UID:374a8ffd4d8135098563b4a1814ce30941373f1525c72edd92ec98a068e0d5e6
-CATEGORIES:cinema
-DESCRIPTION:Versión Original Castellano | Duración 102 minutos | No reco
- mendada para menores de 12 años\n\nRelease year: 2026\n\nOriginal languag
- e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1073858/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Grazia
-DTSTART;TZID=Europe/Madrid:20260618T155000
-UID:da4c5f4a92d187cc1b354c94757e5ce943f1bfa8c60864519fb56a55402c7ffc
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 132 min
- utos | No recomendada para menores de 12 años\n\nRelease year: 2025\n\nOr
- iginal language: IT\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/107385
- 7/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Un Mundo Frágil Y Maravilloso
-DTSTART;TZID=Europe/Madrid:20260618T155000
-UID:a98a899fab67864977537c80ca43ec038a75c440b6170b24a13a4ac242e21661
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 109 min
- utos | No recomendada para menores de 12 años\n\nOriginal title: نجوم
-  الأمل و الألم\n\nRelease year: 2025\n\nOriginal language: AR\n
- \nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1073904/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Un Poeta
-DTSTART;TZID=Europe/Madrid:20260618T155000
-UID:0f59c44514ce70a80d92b7b2be891588dc9c423fda6d02488ce030c1f27a1364
-CATEGORIES:cinema
-DESCRIPTION:Versión Original Castellano | Duración 123 minutos | No reco
- mendada para menores de 16 años\n\nRelease year: 2025\n\nOriginal languag
- e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1073820/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Eleonora Duse\, La Divina
-DTSTART;TZID=Europe/Madrid:20260618T161000
-UID:bd6487bb2a9e4d4eb2bc93037a40997feda9708d10b70ddae455ccab31bb51e8
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 125 min
- utos | No recomendada para menores de 12 años\n\nOriginal title: Duse\n\n
- Release year: 2025\n\nOriginal language: IT\n\nAudio: VOSE\n\nhttps://www.
- pillalas.com/pase/1073821/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El Drama
-DTSTART;TZID=Europe/Madrid:20260618T170000
-DTEND;TZID=Europe/Madrid:20260618T184600
-UID:429a3492a9cfc4303ea3681dd4c101312b0f1d05b4a180c20b50b30f47d3dc9a
-CATEGORIES:cinema
-DESCRIPTION:Una pareja\, en los días previos a su boda\, se enfrenta a un
- a crisis cuando unas inesperadas revelaciones desbaratan lo que uno de ell
- os creía saber sobre el otro.\n\nOriginal title: The Drama\n\nRelease yea
- r: 2026\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://cinesembajadore
- s.es/pelicula/el-drama-vose/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El día de la revelación
-DTSTART;TZID=Europe/Madrid:20260618T171500
-DTEND;TZID=Europe/Madrid:20260618T194100
-UID:a41a2e010f148bca2be286c0af54b911ba01733b49884a1f737f5d3ce5ddecfe
-CATEGORIES:cinema
-DESCRIPTION:Si descubrieras que no estamos solos\, si alguien te abriera l
- os ojos y te lo demostrase\, ¿te asustarías? Este verano\, la verdad ser
- á revelada a siete mil millones de personas. Llega... el día de la revel
- ación.\n\nOriginal title: Disclosure Day\n\nRelease year: 2026\n\nOrigina
- l language: EN\n\nAudio: VOSE\n\nhttps://cinesembajadores.es/pelicula/el-d
- ia-de-la-revelacion-vose/?ciudad=madrid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Eleonora Duse\, la divina
-DTSTART;TZID=Europe/Madrid:20260618T172000
-DTEND;TZID=Europe/Madrid:20260618T192500
-UID:6aaf9e6fdeb1e98e615991215cae66da73ee5f73921c18284c069d9bcca9cdf6
-CATEGORIES:cinema
-DESCRIPTION:La legendaria diva italiana del teatro Eleonora Duse\, que viv
- ió entre 1858 y 1924\, fue considerada por muchos la mejor actriz de su 
- época. Ahora su carrera está acabada.\n\nOriginal title: Duse\n\nRelease
-  year: 2025\n\nOriginal language: IT\n\nAudio: VOSE\n\nhttps://cinesembaja
- dores.es/pelicula/eleonora-duse-la-divina-vose/?ciudad=madrid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Riff-Raff (1991)
-DTSTART;TZID=Europe/Madrid:20260618T173000
-UID:05ee093683fb559092498f3c9a87abcc636977837ba23ced5ae76997e0737d5b
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Jueves 18 de junio a las 17:30h (Sala 1. Ken Loa
- ch: Crónicas de la conciencia) *Aunque las entradas aparezcan como agotad
- as en web\, pueden adquirirse en taquilla entradas para las sesiones del d
- ía (de 17h a 20h)\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/produc
- tos/descripcion/riff-raff-18-junio-
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Grazia
-DTSTART;TZID=Europe/Madrid:20260618T175000
-UID:9f1cf346eaba878abbb6fa5f0cb50b4eb5fbc6a1a733e89da33a655941d5e3b5
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 132 min
- utos | No recomendada para menores de 12 años\n\nRelease year: 2025\n\nOr
- iginal language: IT\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/107385
- 9/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Un Poeta
-DTSTART;TZID=Europe/Madrid:20260618T175500
-UID:5ce1cde644a6ab65582cfb3b2f6038be405216b7edba13108b5375e82ae234b9
-CATEGORIES:cinema
-DESCRIPTION:Versión Original Castellano | Duración 123 minutos | No reco
- mendada para menores de 16 años\n\nRelease year: 2025\n\nOriginal languag
- e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1073905/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Toy Story 5
-DTSTART;TZID=Europe/Madrid:20260618T180000
-DTEND;TZID=Europe/Madrid:20260618T194200
-UID:ffa13eaf569b00bed6440e738138d059d8e07deca3f3168869906df661c3ad79
-CATEGORIES:cinema
-DESCRIPTION:Los juguetes están de vuelta. Esta vez\, Buzz Lightyear\, Woo
- dy\, Jessie y el resto de la pandilla se enfrentan a un nuevo reto cuando 
- conocen a Lilypad\, una nueva tablet que llega con sus propias ideas disru
- ptivas sobre lo que es mejor para Bonnie. ¿Volverá a ser lo mismo la hor
- a de jugar?\n\nRelease year: 2026\n\nOriginal language: EN\n\nAudio: Dobla
- da ES\n\nhttps://cinesembajadores.es/pelicula/toy-story-5-doblada-al-espan
- ol/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La memoria de las mariposas (Festival De Cine Peruano)
-DTSTART;TZID=Europe/Madrid:20260618T180000
-DTEND;TZID=Europe/Madrid:20260618T191700
-UID:875fb0b007a7cbac2bac393a63aef564214d01e718d27bf64d9f97279fb8bdc4
-CATEGORIES:cinema
-DESCRIPTION:SINOPSIS: A partir de una fotografía histórica de dos niños
-  indígenas amazónicos trasladados a Europa a comienzos del siglo XX\, la
-  directora investiga la violencia del auge cauchero en la Amazonía y refl
- exiona sobre la memoria\, los archivos y las huellas del colonialismo. \n
- \nAdemás\, la película recibió una mención especial al Premio de Docum
- ental de la Berlinale y el Premio FIPRESCI en 2025.\nPucallpa la Europea\,
-  es la ópera prima de Santi Zegarra\, cineasta que vive y trabaja entre L
- ima y Paris\, ha sido protagonizada por tres actrices trans: Melissa Campo
- s\, Javiera Arnillas y el debut en el cine de Etza Reátegui Wong “La Uc
- hulú”\, además cuenta con la participación del actor francés Maxime 
- Saint-Jean y la actriz argentina Gabriela Pastor. ¡\n\nPucallpa la europe
- a\, es una película que fusiona el drama humano con una crítica social p
- rofunda. Esta obra de Santi Zegarra explora temas como la diversidad sexua
- l\, la migración\, la discriminación y la búsqueda de identidad\, todo 
- ello enmarcado en un triángulo amoroso lleno de tensiones y contradiccion
- es.\n\nhttps://cinesembajadores.es/pelicula/la-memoria-de-las-mariposas-fe
- stival-de-cine-peruano/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Iván & Hadoum
-DTSTART;TZID=Europe/Madrid:20260618T181000
-UID:02ce2ef58607ebd77c0fe5ef74c9879cd508ffae3cb2d450293b4bf58fd748b2
-CATEGORIES:cinema
-DESCRIPTION:Versión Original Castellano | Duración 102 minutos | No reco
- mendada para menores de 12 años\n\nRelease year: 2026\n\nOriginal languag
- e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1073822/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La luz
-DTSTART;TZID=Europe/Madrid:20260618T181500
-DTEND;TZID=Europe/Madrid:20260618T201500
-UID:bab48b1d684c9671d8a708593fae12da5d6be5c5fd45d18af4aba49f31e9925d
-CATEGORIES:cinema
-DESCRIPTION:Manuel\, un sacerdote muy apreciado en su parroquia\, está a 
- punto de colgar los hábitos y empezar una nueva vida. Sin embargo\, cuand
- o su pasado amenaza con salir a la luz\, se verá obligado a afrontar el p
- eso de sus propias acciones. Comienza\, así\, un viaje sin retorno en el 
- que desafiará abiertamente a la institución que lo protegió.\n\nRelease
-  year: 2026\n\nOriginal language: ES\n\nhttps://cinesembajadores.es/pelicu
- la/la-luz/?ciudad=madrid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Un Mundo Frágil Y Maravilloso
-DTSTART;TZID=Europe/Madrid:20260618T182000
-UID:c73d61a5de37197e49019c7614b76b86ddf1962c67b1a4aedfe283eb06a4799e
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 109 min
- utos | No recomendada para menores de 12 años\n\nOriginal title: نجوم
-  الأمل و الألم\n\nRelease year: 2025\n\nOriginal language: AR\n
- \nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1073906/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Female Student Guerrilla
-DTSTART;TZID=Europe/Madrid:20260618T190000
-UID:dce92353fd275f7776679bdcc87d97ea13d505236a271c660e96ce9749dfe4ac
-CATEGORIES:cinema
-DESCRIPTION:Tres chicas de secundaria a punto de graduarse planean en secr
- eto arruinar la ceremonia de diplomas a fin de vengarse de la escuela que 
- les trata como delincuentes. Dos compañeros que descubren su plan deciden
-  unirse a la rebelión y establecen una guerrilla con base en las montaña
- s.\n\nAudio: VOSE\n\nhttps://www.cinetecamadrid.com/programacion/female-st
- udent-guerrilla
-LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Café tipográfico
-DTSTART;TZID=Europe/Madrid:20260618T190000
-UID:2af520aae8a809014e49c89f04f088b1b2d71f6c3a59526e96992c4c1047cdd8
-CATEGORIES:other
-DESCRIPTION:El Café tipográfico es un ritual de letras\, objetos e histo
- rias compartidas donde el café sirve de pretexto para reunir en la Centra
- l de Diseño de Matadero Madrid a aquellos amantes de la tipografía. En e
- sta ocasión\, la temática es ‘Diseñar para el mal’. Puedes llevar u
- n cartel\, una interfaz\, un libro\, un ticket\, una señal\, una campaña
- \, una fuente o cualquier otro artefacto que te ayude a abrir la conversac
- ión. Organiza DIMAD y coordinan Oyer Corazón y Juan Toribio. Inscripcion
- es abiertas en dimad.org\n\nhttps://www.mataderomadrid.org/programacion/ca
- fe-tipografico-0
-LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Macbeth (En diferido desde El Teatro alla Scala de Milán)
-DTSTART;TZID=Europe/Madrid:20260618T190000
-DTEND;TZID=Europe/Madrid:20260618T221000
-UID:5d866204bbb904f2dbab10f2c0efe692ea02cbb07ef6ad14b59e18d5f0ec42fd
-CATEGORIES:cinema
-DESCRIPTION:Macbeth será puesta en escena por el director Davide Livermor
- e\, su cuarta actuación inaugural\, con escenografía de Giò Forma\, ves
- tuario de Gianluca Falaschi y un gran elenco: Anna Netrebko como Lady Macb
- eth\, afirmando su relación especial con el teatro\, junto a Luca Salsi c
- omo Macbeth\, Francesco Meli como Macduff e Ildar Abdrazakov como Banco.\n
- \nhttps://cinesembajadores.es/pelicula/macbeth-en-diferido-desde-el-teatro
- -alla-scala-de-milan/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Eleonora Duse\, La Divina
-DTSTART;TZID=Europe/Madrid:20260618T190000
-UID:a986dfefef6efc26a2a19b2837576793c724deecf956926d13a8385b94ba5483
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 125 min
- utos | No recomendada para menores de 12 años\n\nOriginal title: Duse\n\n
- Release year: 2025\n\nOriginal language: IT\n\nAudio: VOSE\n\nhttps://www.
- pillalas.com/pase/1073823/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Una película de miedo
-DTSTART;TZID=Europe/Madrid:20260618T193000
-UID:b93218fe8421da2efeced9525dd5af67439031c76b7ef4c13debd35e0cb2434d
-CATEGORIES:cinema
-DESCRIPTION:Durante las vacaciones de verano\, un director de documentales
-  y su hijo de doce años se alojan en un hotel abandonado de Lisboa: un ho
- tel vacío como el de la película El resplandor.\n\nRelease year: 2026\n\
- nOriginal language: ES\n\nhttps://www.cinetecamadrid.com/programacion/una-
- pelicula-de-miedo
-LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ubú
-DTSTART;TZID=Europe/Madrid:20260618T193000
-DTEND;TZID=Europe/Madrid:20260621T193000
-UID:a56573e15b36299498f04f228d668b599f378b13af45661ba6edc325bb0216ff
-CATEGORIES:theater
-DESCRIPTION:Entradas disponibles desde 21.00€ | Tags: JOBO\n\nhttps://ti
- enda.madrid-destino.com/es/nave-10/ubu/
-LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Mujer y la copla en nuestra educación sentimental
-DTSTART;TZID=Europe/Madrid:20260618T193000
-UID:feb9f042acca8f4de029782af37da13b1eb5dc674cd88658738bcb325ab9a71d
-CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 3 plazas!\n\nhttps://teatrodelbarrio.com/la-m
- ujer-y-la-copla-en-nuestra-educacion-sentimental/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El día de la revelación
-DTSTART;TZID=Europe/Madrid:20260618T194500
-DTEND;TZID=Europe/Madrid:20260618T221100
-UID:4b73edeb90f53d28ccfcfdb4bacf9a0fe0d8dc99e9e48cfe12f0a3fd0f074354
-CATEGORIES:cinema
-DESCRIPTION:Si descubrieras que no estamos solos\, si alguien te abriera l
- os ojos y te lo demostrase\, ¿te asustarías? Este verano\, la verdad ser
- á revelada a siete mil millones de personas. Llega... el día de la revel
- ación.\n\nOriginal title: Disclosure Day\n\nRelease year: 2026\n\nOrigina
- l language: EN\n\nAudio: VOSE\n\nhttps://cinesembajadores.es/pelicula/el-d
- ia-de-la-revelacion-vose/?ciudad=madrid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El vídeo de Benny
-DTSTART;TZID=Europe/Madrid:20260618T200000
-UID:8cb74be173bdf3fb4a22b8a6acaaab7eb31c33e206d5f8299de99c3c316acc1a
-CATEGORIES:cinema
-DESCRIPTION:Benny es un chico de 14 años de buena familia. Sus padres int
- entan compensar la falta de cariño hacia su hijo regalándole un estupend
- o equipo de vídeo. Obsesionado con el uso de su nuevo juguete\, graba có
- mo sacrifican a un cerdo con una pistola\, escena que lo incita a cometer 
- un acto salvaje.\n\nOriginal title: Benny's Video\n\nRelease year: 1992\n\
- nOriginal language: DE\n\nAudio: VOSE\n\nhttps://www.cinetecamadrid.com/pr
- ogramacion/el-video-de-benny
-LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Yana Wara (Festival De Cine Peruano)
-DTSTART;TZID=Europe/Madrid:20260618T200000
-DTEND;TZID=Europe/Madrid:20260618T214400
-UID:cba79a8f4f2e0a38013877b51fb3064d10160ba0ac598b5077a89d7f738859d6
-CATEGORIES:cinema
-DESCRIPTION:SINOPSIS: La justicia comunal acusa a Don Evaristo\, un ancian
- o de 80 años\, del asesinato de su nieta de 13 años\, Yana-Wara. Durante
-  el juicio\, la comunidad descubre la trágica historia de la joven\, marc
- ada por la violencia de género y por elementos de la cosmovisión aymara.
-  \nAdemás\, la película recibió una mención especial al Premio de Doc
- umental de la Berlinale y el Premio FIPRESCI en 2025.\nPucallpa la Europea
- \, es la ópera prima de Santi Zegarra\, cineasta que vive y trabaja entre
-  Lima y Paris\, ha sido protagonizada por tres actrices trans: Melissa Cam
- pos\, Javiera Arnillas y el debut en el cine de Etza Reátegui Wong “La 
- Uchulú”\, además cuenta con la participación del actor francés Maxim
- e Saint-Jean y la actriz argentina Gabriela Pastor. ¡\n\nPucallpa la euro
- pea\, es una película que fusiona el drama humano con una crítica social
-  profunda. Esta obra de Santi Zegarra explora temas como la diversidad sex
- ual\, la migración\, la discriminación y la búsqueda de identidad\, tod
- o ello enmarcado en un triángulo amoroso lleno de tensiones y contradicci
- ones.\n\nhttps://cinesembajadores.es/pelicula/yana-wara-festival-de-cine-p
- eruano/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Grazia
-DTSTART;TZID=Europe/Madrid:20260618T201000
-UID:69b7c84f67325f2f883b64cdf49cc08443dfb828799ded2b4a08c1483d2f7087
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 132 min
- utos | No recomendada para menores de 12 años\n\nRelease year: 2025\n\nOr
- iginal language: IT\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/107382
- 4/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Calle Málaga
-DTSTART;TZID=Europe/Madrid:20260618T201500
-UID:a7885861539ef9320b5a8a7c06ea78a9a855bb27a99f9154e61b5a7f4e1f75e8
-CATEGORIES:cinema
-DESCRIPTION:Versión Original Castellano | Duración 116 minutos | No reco
- mendada para menores de 12 años\n\nRelease year: 2025\n\nOriginal languag
- e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1073907/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Iván & Hadoum
-DTSTART;TZID=Europe/Madrid:20260618T202000
-UID:764ec5c36286caa85ece53630cc3ccdd4aae31ee2f43938e65b78002d6bb8887
-CATEGORIES:cinema
-DESCRIPTION:Versión Original Castellano | Duración 102 minutos | No reco
- mendada para menores de 12 años\n\nRelease year: 2026\n\nOriginal languag
- e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1073860/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Un Poeta
-DTSTART;TZID=Europe/Madrid:20260618T202500
-UID:4cf2ef0cef170469b1fde78e43dcd0c231337f1c714ee72385e86efcad2d2f7a
-CATEGORIES:cinema
-DESCRIPTION:Versión Original Castellano | Duración 123 minutos | No reco
- mendada para menores de 16 años\n\nRelease year: 2025\n\nOriginal languag
- e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1073908/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Temptation Harbour (1947)
-DTSTART;TZID=Europe/Madrid:20260618T203000
-UID:74ced96129dbc8f1b6cf552279a4d6877b420f8a524c56b65562256e4dca80ec
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Jueves 18 de junio a las 20:30h (Sala 1. Grandes
-  expectativas: Cine británico de posguerra) *Aunque las entradas aparezca
- n como agotadas en web\, pueden adquirirse en taquilla entradas para las s
- esiones del día (de 17h a 20h)\n\nhttps://entradasfilmoteca.sacatuentrada
- .es/es/productos/descripcion/temptation-harbour-18-junio-
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Toy Story 5
-DTSTART;TZID=Europe/Madrid:20260618T203000
-DTEND;TZID=Europe/Madrid:20260618T221200
-UID:e8bad15e90afb4ae5d681c6f583c073ee71da6dc630d3f180ed13104893d52b3
-CATEGORIES:cinema
-DESCRIPTION:Los juguetes están de vuelta. Esta vez\, Buzz Lightyear\, Woo
- dy\, Jessie y el resto de la pandilla se enfrentan a un nuevo reto cuando 
- conocen a Lilypad\, una nueva tablet que llega con sus propias ideas disru
- ptivas sobre lo que es mejor para Bonnie. ¿Volverá a ser lo mismo la hor
- a de jugar?\n\nRelease year: 2026\n\nOriginal language: EN\n\nAudio: Dobla
- da ES\n\nhttps://cinesembajadores.es/pelicula/toy-story-5-doblada-al-espan
- ol/?ciudad=madrid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Zuaraz
-DTSTART;TZID=Europe/Madrid:20260618T203000
-UID:ce68de61932a493b8e009b9a07e8662951bdef097c835ac53aae19b00003eeab
-CATEGORIES:music
-DESCRIPTION:Concierto / Pop / Latin\n\nhttps://salavillanos.es/evento/zuar
- az/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Los Amigos Invisibles
-DTSTART;TZID=Europe/Madrid:20260618T203000
-UID:165194f40e92dbfda5cc9b1d5317b544b847304249b4699d17c9c41bb310afd5
-CATEGORIES:music
-DESCRIPTION:Apertura Puertas: 19:00 pm\n\nhttps://www.entradas.com/event/i
- beroexperia-los-amigos-invisibles-sala-la-riviera-21363711/?affiliate=4SA
-LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
- id
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El día de la revelación
-DTSTART;TZID=Europe/Madrid:20260618T213000
-DTEND;TZID=Europe/Madrid:20260618T235600
-UID:f12b03dd543fc1efd62c02df4fd11bd1bbe7d25f36fd1483b7df5071df1ce38c
-CATEGORIES:cinema
-DESCRIPTION:Si descubrieras que no estamos solos\, si alguien te abriera l
- os ojos y te lo demostrase\, ¿te asustarías? Este verano\, la verdad ser
- á revelada a siete mil millones de personas. Llega... el día de la revel
- ación.\n\nOriginal title: Disclosure Day\n\nRelease year: 2026\n\nOrigina
- l language: EN\n\nAudio: VOSE\n\nhttps://cinesembajadores.es/pelicula/el-d
- ia-de-la-revelacion-vose/?ciudad=madrid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Eleonora Duse\, La Divina
-DTSTART;TZID=Europe/Madrid:20260618T215500
-UID:d9c8915bef98db947f151d0dc4f9bca75502d6931e8310072edb476b69d77986
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 125 min
- utos | No recomendada para menores de 12 años\n\nOriginal title: Duse\n\n
- Release year: 2025\n\nOriginal language: IT\n\nAudio: VOSE\n\nhttps://www.
- pillalas.com/pase/1073825/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Poesía o Barbarie
-DTSTART;TZID=Europe/Madrid:20260618T220000
-UID:7c8b891bb1ca94a83ce40bdd4698aa2901887b287352eda7512f9b54ca29d6d9
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/poesia-o-barbarie/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Grazia
-DTSTART;TZID=Europe/Madrid:20260618T222000
-UID:f3ccadd322679ecffd5880de72347da5434abdc0eed808c081abd51cd55338f3
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 132 min
- utos | No recomendada para menores de 12 años\n\nRelease year: 2025\n\nOr
- iginal language: IT\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/107386
- 1/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Toy Story 5
-DTSTART;TZID=Europe/Madrid:20260618T223000
-DTEND;TZID=Europe/Madrid:20260619T001200
-UID:e6f84a96006aa4e48e3006ead9b669c9f34ba933deb651d7957a935d4891116d
-CATEGORIES:cinema
-DESCRIPTION:Los juguetes están de vuelta. Esta vez\, Buzz Lightyear\, Woo
- dy\, Jessie y el resto de la pandilla se enfrentan a un nuevo reto cuando 
- conocen a Lilypad\, una nueva tablet que llega con sus propias ideas disru
- ptivas sobre lo que es mejor para Bonnie. ¿Volverá a ser lo mismo la hor
- a de jugar?\n\nRelease year: 2026\n\nOriginal language: EN\n\nAudio: VOSE\
- n\nhttps://cinesembajadores.es/pelicula/toy-story-5-vose/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pioneras: Solo querían jugar
-DTSTART;TZID=Europe/Madrid:20260618T223000
-DTEND;TZID=Europe/Madrid:20260619T001600
-UID:aa61530f09a57eac0360dba5a3e3940f943be8a8aa91256418ddb70535d47a64
-CATEGORIES:cinema
-DESCRIPTION:En la España de principios de los años 70\, con el franquism
- o aún firmemente arraigado en la sociedad\, un grupo de chicas muy jóven
- es decide jugar al fútbol en un país que no contempla su lugar en el dep
- orte. En el camino encuentran a un aliado inesperado: un promotor deportiv
- o tan audaz como visionario. Juntos\, y contra todo pronóstico\, desafiar
- án al sistema y pondrán la primera piedra de una lucha que cambiará par
- a siempre la historia del fútbol femenino en España.\n\nRelease year: 20
- 26\n\nOriginal language: ES\n\nhttps://cinesembajadores.es/pelicula/pioner
- as-solo-querian-jugar/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Backrooms
-DTSTART;TZID=Europe/Madrid:20260618T223000
-DTEND;TZID=Europe/Madrid:20260619T001500
-UID:75556aa0a66e306c5cb9fb56898773d32b35e6bc3495c0ce7ce28597ace20079
-CATEGORIES:cinema
-DESCRIPTION:Una extraña puerta aparece en el sótano de una exposición d
- e muebles. Cuando el paciente de una terapeuta desaparece en una dimensió
- n más allá de la realidad\, ella deberá adentrarse en lo desconocido pa
- ra intentar salvarlo... Adaptación de un cortometraje del propio Kane Par
- sons.\n\nRelease year: 2026\n\nOriginal language: EN\n\nAudio: VOSE\n\nhtt
- ps://cinesembajadores.es/pelicula/backrooms-vose/?ciudad=madrid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El Drama
-DTSTART;TZID=Europe/Madrid:20260618T223000
-DTEND;TZID=Europe/Madrid:20260619T001600
-UID:853e1dfd7f97aaa1f4c1a678bb17d5dd463eeb27e2ec68b47d8e1faa935821fd
-CATEGORIES:cinema
-DESCRIPTION:Una pareja\, en los días previos a su boda\, se enfrenta a un
- a crisis cuando unas inesperadas revelaciones desbaratan lo que uno de ell
- os creía saber sobre el otro.\n\nOriginal title: The Drama\n\nRelease yea
- r: 2026\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://cinesembajadore
- s.es/pelicula/el-drama-vose/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Iván & Hadoum
-DTSTART;TZID=Europe/Madrid:20260618T223000
-DTEND;TZID=Europe/Madrid:20260619T001300
-UID:6ce4dc15b838277e890252fd7914a2c8cde32e8ba972dc866394ab8ee75e7aba
-CATEGORIES:cinema
-DESCRIPTION:Iván se enamora de Hadoum\, una nueva compañera\, en el inve
- rnadero de Almería donde ambos trabajan. Sin embargo\, su anhelado ascens
- o laboral interferirá en su relación\, forzándole a decidir qué tipo d
- e persona quiere ser.\n\nRelease year: 2026\n\nOriginal language: ES\n\nht
- tps://cinesembajadores.es/pelicula/ivan-hadoum/?ciudad=madrid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Un Poeta
-DTSTART;TZID=Europe/Madrid:20260618T223000
-UID:c1b9f2fa8b3f9e798f534dbca5b2903d0918bae9c23cb0c37a2880d426f9bc54
-CATEGORIES:cinema
-DESCRIPTION:Versión Original Castellano | Duración 123 minutos | No reco
- mendada para menores de 16 años\n\nRelease year: 2025\n\nOriginal languag
- e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1073909/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Iván & Hadoum
-DTSTART;TZID=Europe/Madrid:20260618T224000
-UID:05913687d7b6dd68c6cb601de31a852f9edfdfb49c22349b8a857cde08855f0d
-CATEGORIES:cinema
-DESCRIPTION:Versión Original Castellano | Duración 102 minutos | No reco
- mendada para menores de 12 años\n\nRelease year: 2026\n\nOriginal languag
- e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1073826/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Un Mundo Frágil Y Maravilloso
-DTSTART;TZID=Europe/Madrid:20260618T224500
-UID:e1ce5731fdc3d52a2702c863ae9647ccf85519ebbf52646caf562732fedf2bc4
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 109 min
- utos | No recomendada para menores de 12 años\n\nOriginal title: نجوم
-  الأمل و الألم\n\nRelease year: 2025\n\nOriginal language: AR\n
- \nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1073910/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Silvina Mizrahi. Ecos de un espíritu sefardí
 DTSTART;TZID=Europe/Madrid:20260619T000000
 DTEND;TZID=Europe/Madrid:20260930T000000
@@ -2109,6 +1515,16 @@ DESCRIPTION:Versión Original subtitulada a Castellano | Duración 113 min
 LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ubú
+DTSTART;TZID=Europe/Madrid:20260619T180000
+DTEND;TZID=Europe/Madrid:20260621T193000
+UID:a56573e15b36299498f04f228d668b599f378b13af45661ba6edc325bb0216ff
+CATEGORIES:theater
+DESCRIPTION:Entradas disponibles desde 21.00€ | Tags: JOBO\n\nhttps://ti
+ enda.madrid-destino.com/es/nave-10/ubu/
+LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Un Poeta
 DTSTART;TZID=Europe/Madrid:20260619T181000
 UID:b37ce321247d8ba86fd1d425745db2e6f4c6ec1e9a36123767018e76eee94379
@@ -2155,24 +1571,24 @@ DESCRIPTION:El viernes 19 se contará con la vanguardia audiovisual de Mar
  rtísimo espacio de tiempo de promesa a realidad. Rita Payés y Lucía Fum
  ero\, por su parte\, traerán su exquisita mezcla de jazz y folk en un esp
  ectáculo que se estrena por primera vez en Madrid. El DJ set de Gazzi cer
- rará la primera noche en clave electrónica. Maria Arnal María Arnal pre
- sentará su primer disco como solista\, AMA\, en un apabullante espectác
- ulo\, desbordante de imaginación y espectacularidad bien entendida. Ánge
- les Toledano Ángeles Toledano\, voz fundamental del flamenco contemporán
- eo que ha pasado en cortísimo espacio de tiempo de artista “revelación
-  del flamenco” a ser una realidad de la música en castellano. De voz pr
- ivilegiada y carisma infinito\, la jienense condensa todo su talento en su
-  espectacular debut en formato largo\, Sangre Sucia\, editado en septiemb
- re de 2025. Rita Payés y Lucía Fumeiro La trombonista Rita Payés y la p
- ianista Lucía Fumero presentarán su exquisita mezcla de jazz y folk en u
- n espectáculo que se estrena por primera vez en Madrid. Gazzi El DJ set d
- e Gazzi\, referencia de las cabinas y festivales de nuestro país gracias 
- a su buen hacer ante los platos\, optando siempre por la diversión\, el r
- iesgo y un gusto exquisito que atraviesa géneros y estilos. Ritmos quebra
- dos\, atmósferas palpitantes y un universo radicalmente propio para que n
- adie se resista al baile.\n\nhttps://www.mataderomadrid.org/programacion/d
- emm26-conciertos-viernes-19-de-junio-maria-arnal-angeles-toledano-rita-pay
- es-y-lucia
+ rará la primera noche en clave electrónica. 20h. Ángeles Toledano Ánge
+ les Toledano\, voz fundamental del flamenco contemporáneo que ha pasado e
+ n cortísimo espacio de tiempo de artista “revelación del flamenco” a
+  ser una realidad de la música en castellano. De voz privilegiada y caris
+ ma infinito\, la jienense condensa todo su talento en su espectacular debu
+ t en formato largo\, Sangre Sucia\, editado en septiembre de 2025. 21h. R
+ ita Payés y Lucía Fumeiro La trombonista Rita Payés y la pianista Lucí
+ a Fumero presentarán su exquisita mezcla de jazz y folk en un espectácul
+ o que se estrena por primera vez en Madrid. 22h. Maria Arnal María Arnal 
+ presentará su primer disco como solista\, AMA\, en un apabullante espect
+ áculo\, desbordante de imaginación y espectacularidad bien entendida. 23
+ .15h. Gazzi El DJ set de Gazzi\, referencia de las cabinas y festivales de
+  nuestro país gracias a su buen hacer ante los platos\, optando siempre p
+ or la diversión\, el riesgo y un gusto exquisito que atraviesa géneros y
+  estilos. Ritmos quebrados\, atmósferas palpitantes y un universo radical
+ mente propio para que nadie se resista al baile.\n\nhttps://www.mataderoma
+ drid.org/programacion/demm26-conciertos-viernes-19-de-junio-maria-arnal-an
+ geles-toledano-rita-payes-y-lucia
 LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -3026,29 +2442,29 @@ DESCRIPTION:DEMM reúne a tres nombres clave del nuevo pop. Carismático y
  roductor (C. Tangana\, Amaia) y también como solista. Depresión Sonora e
  s el estandarte de la escena postpunk\, habiéndose elevado desde hace alg
  ún tiempo como portavoz oficioso de su generación. La noche también ter
- minará con baile y electrónica\, en este caso a cargo de Akazie. pablopa
- blo Carismático y talentoso\, pablopablo (Pablo Drexler) es una de las gr
- andes revelaciones de los últimos tiempos\, circunstancia condensada en s
- u ópera prima\,Canciones en Mi. Además de ser colaborador esencial de ar
- tistas de la talla de Guitarricadelafuente y C. Tangana\, pablopablo se pr
- oyecta con su pop pluscuamperfecto y absolutamente contemporáneo como uno
-  de los grandes del panorama musical. Alizzz Alizzz (Cristian Quirante)\, 
- ya no necesita presentación a estas alturas\, tanto en su faceta como pro
- ductor y también como solista. Partiendo de un pop postmoderno e irresist
- ible\, sus canciones son grandes hits automáticos que se acercan\, según
-  el caso\, al pop contemporáneo\, al trap\, a la electrónica o el reguet
- ón. Ha compuesto para artistas como Rosalía\, Amaia\, Becky G\, Lola Ín
- digo o Aitana\, demostrando su gran intuición melódica. Depresión Sonor
- a Depresión Sonora (Marcos Crespo) es portavoz oficioso de su generación
-  con un puñado de canciones que ya son himnos. Los perros no entienden In
- ternet (y yo no entiendo de sentimientos) \, su segundo álbum\, refuerza 
- y multiplica esa capacidad para conectar con los deseos y frustraciones de
-  la gente de su edad\, a través de pop oscuro y post-punk irresistible. A
- kazie En constante búsqueda de terrenos inexplorados\, partiendo de la el
- ectrónica para construir su propio camino y ahora instalada en Madrid\, l
- a DJ es una de las más firmes realidades de la escena nacional.\n\nhttps:
- //www.mataderomadrid.org/programacion/demm26-conciertos-sabado-20-de-junio
- -pablopablo-alizzz-depresion-sonora-y-akazie
+ minará con baile y electrónica\, en este caso a cargo de Akazie. 20h. pa
+ blopablo Carismático y talentoso\, pablopablo (Pablo Drexler) es una de l
+ as grandes revelaciones de los últimos tiempos\, circunstancia condensada
+  en su ópera prima\,Canciones en Mi. Además de ser colaborador esencial 
+ de artistas de la talla de Guitarricadelafuente y C. Tangana\, pablopablo 
+ se proyecta con su pop pluscuamperfecto y absolutamente contemporáneo com
+ o uno de los grandes del panorama musical. 21h. Depresión Sonora Depresi
+ ón Sonora (Marcos Crespo) es portavoz oficioso de su generación con un p
+ uñado de canciones que ya son himnos. Los perros no entienden Internet (y
+  yo no entiendo de sentimientos) \, su segundo álbum\, refuerza y multipl
+ ica esa capacidad para conectar con los deseos y frustraciones de la gente
+  de su edad\, a través de pop oscuro y post-punk irresistible. 22h. Alizz
+ z Alizzz (Cristian Quirante)\, ya no necesita presentación a estas altura
+ s\, tanto en su faceta como productor y también como solista. Partiendo d
+ e un pop postmoderno e irresistible\, sus canciones son grandes hits autom
+ áticos que se acercan\, según el caso\, al pop contemporáneo\, al trap\
+ , a la electrónica o el reguetón. Ha compuesto para artistas como Rosal
+ ía\, Amaia\, Becky G\, Lola Índigo o Aitana\, demostrando su gran intuic
+ ión melódica. 23.15h. Akazie En constante búsqueda de terrenos inexplor
+ ados\, partiendo de la electrónica para construir su propio camino y ahor
+ a instalada en Madrid\, la DJ es una de las más firmes realidades de la e
+ scena nacional.\n\nhttps://www.mataderomadrid.org/programacion/demm26-conc
+ iertos-sabado-20-de-junio-pablopablo-alizzz-depresion-sonora-y-akazie
 LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -3104,7 +2520,7 @@ SUMMARY:En mitad de tanto fuego
 DTSTART;TZID=Europe/Madrid:20260620T193000
 UID:6d4bd8775101cf6b275f786b4a856a93d22c082238f0b856f4c2e0dd79b1ab18
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 15 plazas!\n\nhttps://teatrodelbarrio.com/en-
+DESCRIPTION:¡Ya solo quedan 13 plazas!\n\nhttps://teatrodelbarrio.com/en-
  mitad-de-tanto-fuego/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
@@ -3982,36 +3398,6 @@ DESCRIPTION:En un viejo caserón habitado por mujeres excéntricas\, sensi
 LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ubú
-DTSTART;TZID=Europe/Madrid:20260621T193000
-UID:c36e8cd45f3a5a9449a76a877c6a9ee7148c622954ad65147b27c2b09ee553ce
-CATEGORIES:theater
-DESCRIPTION:AVISO A PÚBLICO : Marta Guerras interpreta el papel Mami Ubú
-  todos los días excepto las funciones del 19\, 20 y 21 de junio\, que Mam
- i Ubú será interpretada por Cristina Gallego . -------------------------
- --------------------------------------------------------------------------
- ----------------------------------------------- Monsieur Ubú es un ser in
- noble\, y por eso mismo se parece bastante (de ombligo para abajo) a nosot
- ros mismos. Alfred Jarry\, autor de la cita\, cambió el teatro de su tiem
- po creando el personaje de Ubú\, caricatura de uno de sus profesores y de
- l ansia de poder. María Folguera nos propone una versión de Ubú\, ese p
- atán empeñado en invadir Polonia\, más cercana al tiempo que vivimos. U
- bú rey se estrenó en París en 1896. Cuenta la historia de un señor que
-  se propone conquistar Polonia a costa de todo y lo consigue\, aunque lueg
- o gestiona de manera horrible su mandato\, enriqueciéndose de manera verg
- onzosa y huye antes de que lo atrapen. ¡Mierdra! \, como se tradujo al es
- pañol la famosa palabra que Ubú no deja de decir\, representa la dispara
- tada personalidad de los personajes de la obra de Alfred Jarry que dio pas
- o al Absurdo. María Folguera crea un texto original a partir de este clá
- sico del teatro\, trayéndolo a nuestro tiempo. La visita al repertorio si
- empre ha servido para entender la sociedad actual. A nuestro alrededor som
- os capaces de distinguir varios patanes con ansias de poder y sin ningún 
- escrúpulo. No cambiamos de problemas\, pero seguimos riendo de la misma m
- anera. Rocío Bello Dramaturgista de la temporada 25/26 de Nave 10 Matader
- o\n\nhttps://www.mataderomadrid.org/programacion/ubu
-LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Menil Swing
 DTSTART;TZID=Europe/Madrid:20260621T200000
 DTEND;TZID=Europe/Madrid:20260621T200000
@@ -4157,16 +3543,6 @@ DESCRIPTION:Versión Original subtitulada a Castellano | Duración 132 min
  iginal language: IT\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/107513
  2/
 LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Venga Monjas 20º Aniversario
-DTSTART;TZID=Europe/Madrid:20260621T210000
-UID:d9faf834dc641656e3a6dcebcb10b021a507b18553bfb4c4e93bb4f3afa7d81d
-CATEGORIES:music
-DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://dice.fm/event/xeanxe-ven
- ga-monjas-20-aniversario-21st-jun-la-riviera-madrid-tickets
-LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
- id
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:15 Pruebas De Amor
@@ -4983,14 +4359,6 @@ DESCRIPTION:Responsable de una de las obras cinematográficas más reconoc
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Habitar la dignidad
-DTSTART;TZID=Europe/Madrid:20260623T190000
-UID:ade755deee1fcc4a10aa862aa1b4af7bef9def67f157ccd9d4ffcfc98aec5b6b
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/habitar-la-dignidad/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tras el cristal
 DTSTART;TZID=Europe/Madrid:20260623T200000
 UID:8311420327c44f2c469bf27df3261a56afbe64a768aa6995090efb531a4c5cb3
@@ -5597,6 +4965,17 @@ DESCRIPTION:Una de las películas más subversivas y cautivadoras de final
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Miguel Rodríguez Trío
+DTSTART;TZID=Europe/Madrid:20260624T200000
+DTEND;TZID=Europe/Madrid:20260625T200000
+UID:3bc4e02bad2a233bdde5a9f5201f3b38e60ec70d680b9258beeb15c2ee86183d
+CATEGORIES:music
+DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
+  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
+ s://ateneodemadrid.com/evento/miguel-rodriguez-trio/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:15 Pruebas De Amor
 DTSTART;TZID=Europe/Madrid:20260624T200000
 UID:ea7ee8339cb34e33bc43cf8f91954df9539e6e46e4099ca5889f42df9835ed62
@@ -5901,6 +5280,104 @@ DESCRIPTION:El artista puertorriqueño Bernardo Medina explora la identida
 LOCATION:Casa de América - de Cibeles\, 2\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Autopsia de una huella de datos
+DTSTART;TZID=Europe/Madrid:20260625T120000
+UID:4fae9b994648847a7c4d51a2261029f0fe70d490c75b8f18bb76049351681c61
+CATEGORIES:other
+DESCRIPTION:Jueves 25 junio 2026 - 19:00 h Charla de Júlia Nueno Guitart 
+ y Lucia Rebolino (entrada libre) Viernes 26 junio 2026 - 16:00–20:00 h S
+ ábado 27 junio 2026 - 12:00–20:00 h Taller (con inscripción previa) Lo
+ s hechos no son ocurrencias naturales\; son más bien minuciosos ensamblaj
+ es. Durante mucho tiempo\, ese ensamblaje estuvo anclado en lo visible: un
+ a fotografía\, un mapa físico o el relato de un testigo. Hoy\, sin embar
+ go\, estas formas de evidencia coexisten con una nueva arquitectura digita
+ l de la verdad. En lo profundo de esta caja negra\, Estados y corporacione
+ s fabrican los hechos que sostienen sus imaginarios. Esta producción se a
+ poya en un espectro de una materia que a menudo permanece invisible al ojo
+  humano: rastros satelitales que redefinen paisajes\, huellas crediticias 
+ que determinan la movilidad social\, metadatos que mapean nuestras relacio
+ nes privadas o perfiles algorítmicos que registran nuestros hábitos. A s
+ u vez\, este material se procesa mediante reglas ocultas y enormes redes h
+ asta cristalizar en una narrativa oficial. Este taller invita a los partic
+ ipantes a tratar los sistemas digitales como territorios físicos y arquit
+ ectónicos. Al desplazar la mirada forense del espacio físico al digital\
+ , aplicaremos metodologías forenses para cartografiar y analizar las form
+ as de violencia inscritas en las infraestructuras computacionales. A parti
+ r de las prácticas de Júlia Nueno y Lucia Rebolino\, examinaremos la pro
+ ducción digital de los hechos a través de dos distintas perspectivas arq
+ uitectónicas: en primer lugar\, utilizando evidencias derivadas de la obs
+ ervación espacial para investigar cómo la IA actúa como una fuerza mate
+ rial que reconfigura físicamente los territorios\; y\, en segundo lugar\,
+  tratando los propios entornos de software y los datasets o sistemas de da
+ tos como estructuras complejas y multicapa que pueden ser explorados y des
+ afiados. En conjunto\, estas perspectivas revelan lo digital como un espac
+ io de construcción material. En última instancia\, el taller se propone 
+ pasar de la teoría al trabajo práctico. Introduciremos un conjunto de m
+ étodos contraforenses —entre ellos el web scraping \, la visualización
+  de datos y la cartografía— que permitirán a los participantes constru
+ ir “contramodelos” capaces de cuestionar las narrativas impulsadas por
+  el Estado. Trabajando con casos reales\, desde luchas medioambientales ha
+ sta episodios de violencia política\, aprenderemos a intervenir en la pro
+ ducción de la verdad\, abriendo estos procesos para explorar cómo se con
+ struyen los hechos. En definitiva\, a través de estos métodos\, seguirem
+ os el recorrido de la información\, investigando cómo los hechos toman f
+ orma a través de distintos formatos de información visible (imágenes\, 
+ interfaces\, vídeos) y cómo nos podemos introducir en estas cajas negras
+  e investigar las huellas materiales que dejan sobre el terreno. De este m
+ odo\, el taller desplaza la pregunta de si la verdad existe\, hacia otra s
+ erie de preguntas: ¿cómo se produce\, bajo qué condiciones y en benefic
+ io de quién? Sobre Júlia Nueno Guitart y Lucia Rebolino Júlia Nueno Gui
+ tart es investigadora e ingeniera. Su trabajo explora los sistemas computa
+ cionales que organizan la vida y los espacios que habitamos\, con el objet
+ ivo de desarrollar nuevas formas de comprenderlos y actuar con ellos y a t
+ ravés de ellos. Actualmente es miembro del equipo de Forensic Architectur
+ e y está cursando su doctorado en el Centre for Research Architecture de 
+ Goldsmiths (Universidad de Londres)\, donde también imparte clases en el 
+ programa de máster de la misma disciplina. Es editora de Genocidios. Una 
+ lectura Forense (Galaxia Gutenberg\, 2025)\, y sus artículos y columnas d
+ e opinión han sido publicados en The Guardian\, Der Spiegel\, VICENews\, 
+ Springerin\, FabrikZeitung y VersoBlog. Lucia Rebolino es una artista\, ar
+ quitecta y diseñadora computacional que entrelaza ciencia y arte en proye
+ ctos que unen contracartografía\, datos y estéticas digitales. Es invest
+ igadora en Forensic Architecture\, en Londres\, donde se centra en investi
+ gaciones sobre justicia ambiental. Es también artista residente en el Nie
+ uwe Instituut para 2026\, dentro del departamento de cultura digital –1.
+  Su trabajo sobre predicción y modelos climáticos ha aparecido en e-flux
+ \, se ha expuesto en la Bienal de Arquitectura de Venecia de 2025 y en oto
+ ño 2026 se presentará en una exposición de Medialab Matadero. Su práct
+ ica artística basada en la investigación explora las performances en pan
+ talla impulsadas por la tecnología\, y ha impartido conferencias en insti
+ tuciones culturales y académicas como el MoMA\, la Universidad de Columbi
+ a\, el Royal College of Art y la ETH de Zúrich. Júlia y Lucía también 
+ son mentoras de la edición de 2026 del Laboratorio de Prototipado Colabor
+ ativo \, un programa de residencia de creación organizado por Medialab Ma
+ tadero del 12 al 25 de noviembre de 2026. El plazo de inscripción está a
+ bierto hasta el 14 de junio . Estudio de Sistemas Esta es la cuarta sesió
+ n del programa de formación y creación Estudio de Sistemas \, una serie 
+ periódica de talleres\, charlas y seminarios con el objetivo de fomentar 
+ la intuición creativa y la experimentación metodológica en torno a tecn
+ ologías emergentes e inestables. La charla y el taller de Nueno y Rebolin
+ o forman parte del programa anual LAB 5 La mecánica de la verdad . ¿Para
+  quiénes está pensado el taller? Este taller está dirigido a un grupo t
+ ransdisciplinar de investigadores\, creadores y profesionales\, y damos la
+  bienvenida a cualquier persona interesada en los temas mencionados en la 
+ introducción. No se requieren conocimientos avanzados de programación\, 
+ pero la curiosidad típica de un hacker es\, sin duda\, bienvenida. Inform
+ ación práctica Taller gratuito con inscripción obligatoria Máximo 20 p
+ articipantes más oyentes Idiomas principales: español e inglés Todas la
+ s sesiones tienen lugar en la sala Aulario (Nave 17) de Matadero Madrid Es
+  obligatorio asistir a todo el taller durante los dos días. Los participa
+ ntes deben traer su propio ordenador portátil con el software y acceso a 
+ las plataformas que Rebolino y Nueno comunicarán dos semanas antes del ta
+ ller. Inscripción Las inscripciones están abiertas hasta el día 25 de j
+ unio. La selección de los participantes será por orden de inscripción. 
+ En el caso de que algunas de las personas inscritas no se presenten\, los 
+ oyentes pasarán a ser participantes según el mismo orden de solicitud de
+  inscripción.\n\nhttps://www.mataderomadrid.org/programacion/autopsia-de-
+ una-huella-de-datos
+LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:La Grazia
 DTSTART;TZID=Europe/Madrid:20260625T155000
 UID:b87730d28c5d30d26a36a915bf372a1fde88da358c7e04e601765900f69deee4
@@ -6152,6 +5629,26 @@ DESCRIPTION:En un futuro distópico en Japón\, el orden es impuesto por l
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ForeFans + Filmmaker Q&A
+DTSTART;TZID=Europe/Madrid:20260625T200000
+DTEND;TZID=Europe/Madrid:20260625T213400
+UID:a0938a16f60a11ffa4c78cd2cd79be23a4f58d7b77eedacf78a9884d31e17186
+CATEGORIES:cinema
+DESCRIPTION:Isla\, una estudiante internacional con dificultades económic
+ as\, recurre a regañadientes al modelaje por webcam para sobrevivir. Insp
+ irándose en su pasión de toda la vida por el anime y el cosplay\, se rei
+ nventa en línea y descubre confianza\, atención y libertad financiera\; 
+ pero a medida que la interpretación y la identidad se desdibujan\, el pre
+ cio de ser vista puede ser demasiado alto para ella. Descrita por IndyRed 
+ como «deliberadamente provocativa y que invita a la reflexión»\, ForeFa
+ ns es un drama erótico íntimo sobre la interpretación en línea\, la so
+ ledad y la mercantilización en la era digital. Tras la proyección\, habr
+ á una sesión de preguntas y respuestas con el reparto y el equipo.\n\nAu
+ dio: VOSE\n\nhttps://cinesembajadores.es/pelicula/forefans-filmmaker-qa-vo
+ se/?ciudad=madrid
+LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sesión de cortometrajes: La noche más corta 2026
 DTSTART;TZID=Europe/Madrid:20260625T200000
 DTEND;TZID=Europe/Madrid:20260625T212500
@@ -6183,26 +5680,6 @@ DESCRIPTION:SESIÓN LA NOCHE MÁS CORTA 2026\n\nLos CINES EMBAJADORES se s
  mos (4 minutos)\n\nhttps://cinesembajadores.es/pelicula/sesion-de-cortomet
  rajes-la-noche-mas-corta-2026/?ciudad=madrid
 LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ForeFans + Filmmaker Q&A
-DTSTART;TZID=Europe/Madrid:20260625T200000
-DTEND;TZID=Europe/Madrid:20260625T213400
-UID:a0938a16f60a11ffa4c78cd2cd79be23a4f58d7b77eedacf78a9884d31e17186
-CATEGORIES:cinema
-DESCRIPTION:Isla\, una estudiante internacional con dificultades económic
- as\, recurre a regañadientes al modelaje por webcam para sobrevivir. Insp
- irándose en su pasión de toda la vida por el anime y el cosplay\, se rei
- nventa en línea y descubre confianza\, atención y libertad financiera\; 
- pero a medida que la interpretación y la identidad se desdibujan\, el pre
- cio de ser vista puede ser demasiado alto para ella. Descrita por IndyRed 
- como «deliberadamente provocativa y que invita a la reflexión»\, ForeFa
- ns es un drama erótico íntimo sobre la interpretación en línea\, la so
- ledad y la mercantilización en la era digital. Tras la proyección\, habr
- á una sesión de preguntas y respuestas con el reparto y el equipo.\n\nAu
- dio: VOSE\n\nhttps://cinesembajadores.es/pelicula/forefans-filmmaker-qa-vo
- se/?ciudad=madrid
-LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:15 Pruebas De Amor
@@ -6351,6 +5828,15 @@ DESCRIPTION:Los juguetes están de vuelta. Esta vez\, Buzz Lightyear\, Woo
  a de jugar?\n\nRelease year: 2026\n\nOriginal language: EN\n\nAudio: VOSE\
  n\nhttps://cinesembajadores.es/pelicula/toy-story-5-vose/?ciudad=madrid
 LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Más allá del ARCOIRIS
+DTSTART;TZID=Europe/Madrid:20260625T221500
+UID:30b7a593bd29533c1e16bf6d880f5dae28d7df4af9d5cc1b5c6816c7bab7f3e2
+CATEGORIES:theater
+DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/mas-alla-del-arcoiri
+ s/
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dreams
@@ -6579,17 +6065,6 @@ DESCRIPTION:Concierto / Latin\n\nhttps://salavillanos.es/evento/son-cremit
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Joss Stone
-DTSTART;TZID=Europe/Madrid:20260626T210000
-UID:f538624027eacaab3c6952b813e32643cff729f9d61bd1ef14237dcc9c63770d
-CATEGORIES:music
-DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://www.notikumi.com/channel
- /villanos-de-la-cultura/2026/6/26/joss-stone?a_aid=jackson-ref&a_bid=fe5f1
- 437
-LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
- id
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Esto no es culpa de nadie\, con Facu Díaz
 DTSTART;TZID=Europe/Madrid:20260626T210000
 UID:ad10f9442be8b09ad13c9ee888b35137f0662e99cffec9730109c4c5a9ab102c
@@ -6658,20 +6133,14 @@ DESCRIPTION:The story revolves around Khalid Al Azzizi\, an Interpol agent
 LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Piano City 2026 en Matadero Madrid. Sábado 27 junio
+SUMMARY:Piano City 2026. David Cabañas Alonso
 DTSTART;TZID=Europe/Madrid:20260627T170000
-UID:d9461b0c9195b08ea8e930380dc5e33f9ed496b5839d7c7b9bcc7e560a3c4a12
+UID:43dbce323ac48d7b419d3f6704615b1c7d5057ba9b4d11291fef0ff5be8cfe9d
 CATEGORIES:music
-DESCRIPTION:PROGRAMA: 17h. David Cabañas Alonso Chopin: Estudio n.º 11 o
- p. 10\; Debussy: Fuegos artificiales\; Óscar Gallego Covarrubias: Paisaje
-  (estreno absoluto con el apoyo de Idealista)\; Schumann: Fantasía op. 17
- . CLÁSICA. 18.15h. Mónica López Habitar y marchar\, improvisación moda
- l libre. JAZZ. 19.30h. Yulei Díaz Crisálida\; Mariposa\; H. Arlen: Over 
- the rainbow: Y. Díaz: Oye\, Guajira!\; C. Valdés: De la Habana a París\
- ; Y. Díaz: Nadie con tu luz\; Ella\; Gershwin: Summertime\; Y. Díaz: Sol
- edad 518\; Preludio Flamenco\; La Cubañola\; Cajkovskij en la Habana. JAZ
- Z LATINO.\n\nhttps://www.mataderomadrid.org/programacion/piano-city-2026-e
- n-matadero-madrid-sabado-27-junio
+DESCRIPTION:Chopin: Estudio n.º 11 op. 10\; Debussy: Fuegos artificiales\
+ ; Óscar Gallego Covarrubias: Paisaje (estreno absoluto con el apoyo de Id
+ ealista)\; Schumann: Fantasía op. 17. CLÁSICA.\n\nhttps://www.mataderoma
+ drid.org/programacion/piano-city-2026-david-cabanas-alonso
 LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -6709,6 +6178,15 @@ LOCATION:Infinito Delicias - C. de Juana Dona\, 5\, Arganzuela\, 28045 Mad
  rid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Piano City 2026. Mónica López
+DTSTART;TZID=Europe/Madrid:20260627T181500
+UID:7cf265d2686608ed173d19cbd73721e3e300b0ada06d3b8dfa249013e9a07d14
+CATEGORIES:music
+DESCRIPTION:Habitar y marchar\, improvisación modal libre. JAZZ.\n\nhttps
+ ://www.mataderomadrid.org/programacion/piano-city-2026-monica-lopez
+LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ciento volando (2024)
 DTSTART;TZID=Europe/Madrid:20260627T190000
 UID:50623850b60b4fa1f89718b3ebc45ba7f05ae707e5f3cf85dfe07b56f468de91
@@ -6733,6 +6211,18 @@ DESCRIPTION:Nico quiere independizarse con Raca pero ella no quiere compro
  riginal language: ES\n\nhttps://www.cinetecamadrid.com/programacion/cupido
  -confuso
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Piano City 2026. Yuley Díaz
+DTSTART;TZID=Europe/Madrid:20260627T193000
+UID:bef5c4b5732b5e4246cbd89960b52128182affe414d38057c58ff7a4632c38e0
+CATEGORIES:music
+DESCRIPTION:Crisálida\; Mariposa\; H. Arlen: Over the rainbow: Y. Díaz: 
+ Oye\, Guajira!\; C. Valdés: De la Habana a París\; Y. Díaz: Nadie con t
+ u luz\; Ella\; Gershwin: Summertime\; Y. Díaz: Soledad 518\; Preludio Fla
+ menco\; La Cubañola\; Cajkovskij en la Habana. JAZZ LATINO.\n\nhttps://ww
+ w.mataderomadrid.org/programacion/piano-city-2026-yuley-diaz
+LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mujeres y memoria democrática. Borrando el olvido
@@ -6809,16 +6299,6 @@ DESCRIPTION:Fecha y Hora: Sábado 27 de junio a las 20:30h (Sala 1. Ken Lo
  ctos/descripcion/mi-nombre-es-joe-27-junio-
 LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
  \, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Excepción
-DTSTART;TZID=Europe/Madrid:20260627T203000
-UID:6add3844c172892557d9f71706e77274072b1f3f2e0eb70ebcfbba843e7762cb
-CATEGORIES:music
-DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://www.entradas.com/artist/
- la-excepcion/?Affiliate=RIV
-LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
- id
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Esto no es culpa de nadie\, con Facu Díaz
@@ -6941,6 +6421,20 @@ DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/recital-de-poesia-an
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Cine para perdedores: Trash Humpers
+DTSTART;TZID=Europe/Madrid:20260628T181500
+DTEND;TZID=Europe/Madrid:20260628T193300
+UID:a1a58ee841aeabf3524e306799c0bda980713d52cf0730c9be03aa2e8e7b1147
+CATEGORIES:cinema
+DESCRIPTION:Historia de narrativa no tradicional -se trata de un cine muy 
+ alejado del comercial en cuanto a estética y guión- que retrata personaj
+ es esperpénticos que han abandonado las normas convencionales\, y que muc
+ has veces son la envidia de aquellos que se rigen por el contrato social.\
+ n\nAudio: VOSE\n\nhttps://cinesembajadores.es/pelicula/cine-para-perdedore
+ s-trash-humpers-vose/?ciudad=madrid
+LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:El príncipe de Nanawa
 DTSTART;TZID=Europe/Madrid:20260628T183000
 UID:f08e51f612048fe492f28d68a563aaa9798e82830ca66683019823d9672db831
@@ -6989,16 +6483,6 @@ DESCRIPTION:div#sliding-popup\, div#sliding-popup .eu-cookie-withdraw-bann
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:La Excepción (Segunda Fecha)
-DTSTART;TZID=Europe/Madrid:20260628T193000
-UID:18ab6e5faa380aef3f6aade9a03549019e8eb59f7a0ab603eb0b2cc17b9bac70
-CATEGORIES:music
-DESCRIPTION:Apertura Puertas: 19:00 pm\n\nhttps://www.ticketmaster.es/even
- t/la-excepcion-entradas/1230068036
-LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
- id
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Las líneas discontinuas
 DTSTART;TZID=Europe/Madrid:20260628T200000
 UID:4fba8f91177806b19302882c5e67a41bb363fb35acc9a35a236376944b81c575
@@ -7026,6 +6510,20 @@ DESCRIPTION:Fecha y Hora: Domingo 28 de junio a las 20:30h (Sala 1. Fuera
  s/descripcion/llamame-kuchu-28-junio-
 LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
  \, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cine para perdedores: Trash Humpers
+DTSTART;TZID=Europe/Madrid:20260628T203000
+DTEND;TZID=Europe/Madrid:20260628T214800
+UID:b37b574928c8006ec9dd7c914f11bded5d8adc1274821953452a502c7bee9bb2
+CATEGORIES:cinema
+DESCRIPTION:Historia de narrativa no tradicional -se trata de un cine muy 
+ alejado del comercial en cuanto a estética y guión- que retrata personaj
+ es esperpénticos que han abandonado las normas convencionales\, y que muc
+ has veces son la envidia de aquellos que se rigen por el contrato social.\
+ n\nAudio: VOSE\n\nhttps://cinesembajadores.es/pelicula/cine-para-perdedore
+ s-trash-humpers-vose/?ciudad=madrid
+LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Busty and the Bass
@@ -7111,15 +6609,6 @@ DESCRIPTION:Concierto / Soul & R&B\n\nhttps://salavillanos.es/evento/john-
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tokischa
-DTSTART;TZID=Europe/Madrid:20260630T210000
-UID:1d61d67c2b809450722fe5aafee33bdccbbc7da0e718b3cf314d46bb8860c4a8
-CATEGORIES:music
-DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://feverup.com/m/601747
-LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
- id
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:El encanto de la ilusión. Un puente entre realidad y percepción
 DTSTART;TZID=Europe/Madrid:20260701T000000
 DTEND;TZID=Europe/Madrid:20261011T000000
@@ -7139,9 +6628,9 @@ DTEND;TZID=Europe/Madrid:20260715T000000
 UID:e5aa86fcb65898f19e6a535f198281514271183fe3bce2fbee8e2b84231b61df
 CATEGORIES:exhibition
 DESCRIPTION:Retrato de la situación actual de Sudán en el que se fusiona
- n su arte y cultura con un testimonio humanitario (Museo Thyssen-Bornemisz
- a. 1 - 15 jul).\n\nhttps://www.museothyssen.org/exposiciones/esperanza-fue
- rza
+ n su arte y cultura con un testimonio humanitario (Museo Nacional Thyssen-
+ Bornemisza. 1 a 15 julio).\n\nhttps://www.museothyssen.org/exposiciones/es
+ peranza-fuerza
 LOCATION:Museo Nacional Thyssen-Bornemisza - del Prado\, 8\, Madrid\, 2801
  4
 END:VEVENT
@@ -7153,16 +6642,6 @@ CATEGORIES:music
 DESCRIPTION:Concierto / Villanos del Jazz\n\nhttps://salavillanos.es/event
  o/ghost-note/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pennywise + End It
-DTSTART;TZID=Europe/Madrid:20260701T210000
-UID:8f2a406d5c59de43aaa711c34f3aa8458fa71c3a1c4efead7b9bc33c1226005c
-CATEGORIES:music
-DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://tickets.hfmncrew.com/web
- /?menu=1162&pagina=entradas&item=58898&siteID=hfmncrew
-LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
- id
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mitologías modernas: Ouka Leele & Co
@@ -7250,5 +6729,54 @@ DESCRIPTION:Una carrera de más de 30 años\, con joyas como Tu labio supe
  gramacion/cineplaza-superestrellas-3-christina-rosenvinge-un-concierto-de-
  cine
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Festival Colectivo Yupanqui
+DTSTART;TZID=Europe/Madrid:20260703T193000
+UID:ed0f87f153129b06ff44b0528bf8e0ef727fad99891d603fd5e93c046d51916c
+CATEGORIES:music
+DESCRIPTION:Concierto / Latin\n\nhttps://salavillanos.es/evento/festival-c
+ olectivo-yupanqui/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los ilusos 13+13
+DTSTART;TZID=Europe/Madrid:20260703T200000
+DTEND;TZID=Europe/Madrid:20260703T213300
+UID:6d0c77445e705b4c1e93a4a9c4a26db6f6eed5bc6717d3f2f07bdef0a00f982f
+CATEGORIES:cinema
+DESCRIPTION:Nueva versión de 'Los ilusos' (2013). Incorpora el color orig
+ inal rodado en su momento\, hasta ahora inédito\, y plantea un diálogo e
+ ntre ambos materiales.\n\nEn palabras de Jonás Trueba: 'La ecuación "13+
+ 13" en el nuevo título responde a la fecha de estreno\, en 2013\, de la v
+ ersión anterior en blanco y negro\, más los trece años transcurridos\, 
+ hasta 2026\, para esta nueva versión en color. Tuvimos la tentación de e
+ nfrentar ambas versiones\, pero finalmente hemos decido que podían conviv
+ ir y sumar\, y el resultado es una película que nos parece más justa'.\n
+ \nOriginal language: ES\n\nhttps://cinesembajadores.es/pelicula/los-ilusos
+ -1313/?ciudad=madrid
+LOCATION:Cine Embajadores - Gta. Sta. Mª de la Cabeza
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CinePlaza: Superestrellas 3 / Coffy
+DTSTART;TZID=Europe/Madrid:20260703T221500
+UID:64822e8bc55cfbf9ae21d162e2295f7fa0f1b927d9d11bd8773fb840d6e4cd47
+CATEGORIES:cinema
+DESCRIPTION:Coffy es una enfermera cuya hermana ha quedado destrozada por 
+ la heroína adulterada. A partir de ahí emprende una vengativa cruzada co
+ ntra traficantes\, proxenetas y políticos corruptos. Con una Pam Grier en
+  estado de gracia\, la película combina explotación\, acción y comentar
+ io social\, y convirtió a su protagonista en uno de los grandes iconos fe
+ meninos del cine negro de los 70.\n\nAudio: VOSE\n\nhttps://www.cinetecama
+ drid.com/programacion/cineplaza-superestrellas-3-coffy
+LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CASPE Especial Orgullo
+DTSTART;TZID=Europe/Madrid:20260703T235900
+UID:10b59b01f30c4b9dbd8e00f9cf71322f6df5a042f25ee36efdfaa5d601aa13d7
+CATEGORIES:other
+DESCRIPTION:Club\n\nhttps://salavillanos.es/evento/caspe-especial-orgullo/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 END:VCALENDAR
