@@ -1,0 +1,486 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Eirene talks</title>
+  <style>
+    :root {
+      --bg: #f5efe3;
+      --paper: #fffaf1;
+      --panel: #fdf8ee;
+      --ink: #1f1f1b;
+      --muted: #6a665d;
+      --line: #e3dac6;
+      --accent: #356859;
+      --accent-soft: #d9ebe5;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--ink);
+      font-family: "Georgia", "Times New Roman", serif;
+      line-height: 1.5;
+    }
+
+    .wrap {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 1.25rem 1rem 2rem;
+    }
+
+    .top {
+      display: flex;
+      justify-content: space-between;
+      gap: 1rem;
+      align-items: end;
+      margin-bottom: 1rem;
+    }
+
+    h1 {
+      margin: 0;
+      font-family: "Source Sans 3", "Inter", "Segoe UI", sans-serif;
+      font-size: 1.65rem;
+      letter-spacing: 0.02em;
+      text-transform: lowercase;
+    }
+
+    .sub {
+      margin: 0.25rem 0 0;
+      color: var(--muted);
+      font-size: 0.95rem;
+    }
+
+    .top-links {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: flex-end;
+      gap: 0.65rem;
+    }
+
+    .top-link, .link, .time-link {
+      color: var(--accent);
+      text-underline-offset: 0.15rem;
+    }
+
+    .filters {
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      background: var(--paper);
+      padding: 0.9rem;
+      margin-bottom: 1rem;
+      display: grid;
+      gap: 0.8rem;
+    }
+
+    .filters-top {
+      display: grid;
+      gap: 0.35rem;
+    }
+
+    .filters h2 {
+      margin: 0;
+      font-family: "Source Sans 3", "Inter", "Segoe UI", sans-serif;
+      font-size: 1rem;
+    }
+
+    .filters-sub {
+      margin: 0;
+      color: var(--muted);
+      font-size: 0.88rem;
+    }
+
+    .controls {
+      display: grid;
+      grid-template-columns: 1.3fr repeat(2, minmax(160px, 0.7fr));
+      gap: 0.75rem;
+      align-items: end;
+    }
+
+    .field {
+      display: grid;
+      gap: 0.3rem;
+      font-family: "Source Sans 3", "Inter", "Segoe UI", sans-serif;
+      font-size: 0.86rem;
+      color: var(--muted);
+    }
+
+    input[type="search"], input[type="date"] {
+      width: 100%;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: #fff;
+      color: var(--ink);
+      font: inherit;
+      padding: 0.45rem 0.55rem;
+    }
+
+    .status {
+      margin: 0 0 0.8rem;
+      color: var(--muted);
+      font-family: "Source Sans 3", "Inter", "Segoe UI", sans-serif;
+      font-size: 0.88rem;
+    }
+
+    .cards {
+      display: grid;
+      gap: 0.85rem;
+    }
+
+    .card {
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      background: var(--panel);
+      padding: 0.9rem;
+    }
+
+    .card-top {
+      display: flex;
+      justify-content: space-between;
+      gap: 1rem;
+      align-items: start;
+    }
+
+    .card-copy {
+      min-width: 0;
+      flex: 1 1 auto;
+    }
+
+    .exhibition-thumb {
+      width: 88px;
+      aspect-ratio: 4 / 3;
+      object-fit: cover;
+      border-radius: 8px;
+      border: 1px solid var(--line);
+      background: var(--paper);
+      flex: 0 0 auto;
+    }
+
+    .card-top-cinema {
+      align-items: center;
+    }
+
+    .card-copy {
+      min-width: 0;
+      flex: 1 1 auto;
+    }
+
+    .poster-thumb {
+      width: 64px;
+      aspect-ratio: 2 / 3;
+      object-fit: cover;
+      border-radius: 8px;
+      border: 1px solid var(--line);
+      background: var(--paper);
+      flex: 0 0 auto;
+    }
+
+    .card h2 {
+      margin: 0;
+      font-family: "Source Sans 3", "Inter", "Segoe UI", sans-serif;
+      font-size: 1.08rem;
+      line-height: 1.3;
+    }
+
+    .card-copy .meta {
+      margin-top: 0.25rem;
+    }
+
+    .year {
+      margin-left: 0.4rem;
+      color: var(--muted);
+      font-family: "Source Sans 3", "Inter", "Segoe UI", sans-serif;
+      font-size: 0.82rem;
+      font-weight: 500;
+      white-space: nowrap;
+    }
+
+    .badge {
+      display: inline-flex;
+      align-items: center;
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      background: #fff;
+      color: var(--muted);
+      font-family: "Source Sans 3", "Inter", "Segoe UI", sans-serif;
+      font-size: 0.78rem;
+      padding: 0.2rem 0.55rem;
+      white-space: nowrap;
+    }
+
+    .meta {
+      margin: 0.3rem 0 0;
+      color: var(--muted);
+      font-family: "Source Sans 3", "Inter", "Segoe UI", sans-serif;
+      font-size: 0.88rem;
+    }
+
+    .desc {
+      margin: 0.6rem 0 0;
+      color: var(--ink);
+      max-width: 72ch;
+    }
+
+    .venue-list {
+      display: grid;
+      gap: 0.75rem;
+      margin-top: 0.8rem;
+    }
+
+    .venue-block {
+      border-top: 1px solid var(--line);
+      padding-top: 0.75rem;
+      display: grid;
+      gap: 0.45rem;
+    }
+
+    .venue-top {
+      display: flex;
+      justify-content: space-between;
+      gap: 1rem;
+      align-items: start;
+    }
+
+    .venue-block h3, .language-block h4 {
+      margin: 0;
+      font-family: "Source Sans 3", "Inter", "Segoe UI", sans-serif;
+    }
+
+    .venue-block h3 { font-size: 0.98rem; }
+    .venue-title {
+      margin: 0;
+      font-family: "Source Sans 3", "Inter", "Segoe UI", sans-serif;
+      font-size: 1rem;
+    }
+    .language-block h4 { font-size: 0.9rem; color: var(--muted); }
+
+    .venue-cards {
+      display: grid;
+      gap: 0.8rem;
+    }
+
+    .language-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 0.7rem;
+    }
+
+    .language-block {
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      background: #fff;
+      padding: 0.7rem;
+      display: grid;
+      gap: 0.5rem;
+    }
+
+    .screening-list { display: grid; gap: 0.45rem; }
+
+    .screening {
+      border-top: 1px solid var(--line);
+      padding-top: 0.45rem;
+      display: grid;
+      gap: 0.18rem;
+    }
+
+    .screening:first-child { border-top: 0; padding-top: 0; }
+
+    .screening-main {
+      display: flex;
+      justify-content: space-between;
+      gap: 0.75rem;
+      align-items: baseline;
+    }
+
+    .screening-date {
+      font-family: "Source Sans 3", "Inter", "Segoe UI", sans-serif;
+      font-size: 0.86rem;
+    }
+
+    .screening-meta {
+      color: var(--muted);
+      font-family: "Source Sans 3", "Inter", "Segoe UI", sans-serif;
+      font-size: 0.8rem;
+    }
+
+    .screening-desc {
+      color: var(--ink);
+      font-size: 0.9rem;
+    }
+
+    .empty {
+      border: 1px dashed var(--line);
+      border-radius: 12px;
+      background: rgba(255, 250, 241, 0.72);
+      padding: 1rem;
+      color: var(--muted);
+    }
+
+    .hidden { display: none !important; }
+
+    @media (max-width: 840px) {
+      .top, .card-top, .screening-main {
+        display: grid;
+      }
+
+      .card-top-cinema {
+        grid-template-columns: 64px 1fr;
+      }
+
+      .controls { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <header class="top">
+      <div>
+        <h1>talks</h1>
+        <p class="sub">Search talks by title, venue, date range, or source.</p>
+      </div>
+      <nav class="top-links"><a class="top-link" href="index.html">Feed index</a><a class="top-link" href="calendar.html">Calendar</a><a class="top-link" href="exhibition.html">Exhibitions</a><a class="top-link" href="cinema.html">Cinema</a><a class="top-link" href="music.html">Music</a><a class="top-link" href="theater.html">Theater</a></nav>
+    </header>
+
+    <section class="filters" aria-label="Search filters">
+      <div class="filters-top">
+        <h2>Search</h2>
+        <p class="filters-sub">Filter by title, venue, date, source, or description.</p>
+      </div>
+      <div class="controls">
+        <label class="field">
+          <span>Query</span>
+          <input id="query" type="search" placeholder="Search the list">
+        </label>
+        
+          <label class="field">
+            <span>Start date</span>
+            <input id="start-date" type="date" value="2026-06-20">
+          </label>
+          <label class="field">
+            <span>End date</span>
+            <input id="end-date" type="date">
+          </label>
+        
+      </div>
+    </section>
+
+    <p class="status" id="status">Loading results…</p>
+    <main class="cards" id="cards"><section class="venue-block" data-group data-search="ateneo de madrid c. del prado, 21, madrid vigencia de algunos tipos de caracter descubiertos en la labor psicoanalitica (1916) en el siglo xxi seccion de ciencias de la salud y agrupacion angel garma. interviene: paula yruegas. modera: cristina marquina. salon ciudad de ubeda. 11:30h. ateneo_madrid sat 20 jun ateneo de madrid c. del prado, 21, madrid presentacion del libro &quot;monreal del llano, entre la historia y la leyenda&quot;, de enrique lillo seccion de farmacia. intervienen: benjamin prieto e isabel albella. presenta: daniel pacheco. sala ramon y cajal. 19:00h. ateneo_madrid sat 20 jun ateneo de madrid c. del prado, 21, madrid flamenco y japon, un amor loco agrupacion ateneos al flamenco. intervienen: david lopez canales y mariko ogura. cante flamenco en japones: noriko martin. presenta: agapito pageo. sala perez galdos. 19:00h. ateneo_madrid mon 22 jun ateneo de madrid c. del prado, 21, madrid leonor, una reina para el siglo xxi agrupacion sabatini. bienvenida: aurora garcia mateache. modera: elsa gonzalez. intervienen: carmen calvo, presidenta del consejo de estado; juan francisco fuentes y carmen ortiz. catedra mayor. 19:00h. ateneo_madrid mon 22 jun ateneo de madrid c. del prado, 21, madrid presentacion del libro &quot;gaza: antes y despues del 7 de octubre&quot; seccion de cine. intervienen: daniel peral, autor. oscar mijallo, excorresponsal de tve para oriente proximo. presenta javier martin-dominguez. salon ciudad de ubeda. 19:30h. ateneo_madrid mon 22 jun ateneo de madrid c. del prado, 21, madrid ciencias de la incertidumbre seccion de filosofia. intervienen: miguel angel sanjuan y mauricio nieto. moderara, isabel fuentes. sala perez galdos. 19:00h. ateneo_madrid tue 23 jun ateneo de madrid c. del prado, 21, madrid las comunidades celtas en la hispania prerromana seccion de literatura. presentacion del libro la princesa del guadiana. intervienen: laura barrios, directora general de tirant lo blanch; y julian sanchez melgar, magistrado del tribunal supremo y exfiscal general del estado. salon ciudad de ubeda. 19:30h. ateneo_madrid tue 23 jun ateneo de madrid c. del prado, 21, madrid tocqueville y la democracia americana seccion de mitos, religiones y humanidades. interviene: eduardo nolla. preside y modera: ana maestro. presenta: pedro lopez arriba. sala ramon y cajal. 19:30h. ateneo_madrid tue 23 jun ateneo de madrid c. del prado, 21, madrid formacion profesional. situacion actual y alternativas seccion de ciencias de la educacion. intervienen:  luis garcia, adimad; estella acosta, licenciada en ciencias de la educacion; maria pastor, portavoz de educacion de mas madrid en la asamblea de madrid; y esteban alvarez, portavoz de educacion del grupo socialista en la asamblea de madrid. presentan y moderan: alejandro tianan y jaime ruiz. sala ramon y cajal. 18:30h. ateneo_madrid wed 24 jun ateneo de madrid c. del prado, 21, madrid presentacion del libro &quot;2000. la vuelta del terror&quot; seccion de derechos civiles. intervienen: paquita sauquillo, antonio rivera, autor; luis r. aizpeolea, javier gomez bermudez y ramon jauregui. sala ramon y cajal. 20:30h. ateneo_madrid wed 24 jun ateneo de madrid c. del prado, 21, madrid presentacion del &quot;anuario 2026 agricultura  y ganaderia familiar en europa&quot; premios &quot;fundacion de estudios rurales 2026&quot; necesaria inscripcion (aqui) 
+ 
+seccion de ciencias sociales y fundacion de estudios rurales de upa. presentacion y bienvenida: marcos alarcon alarcon, vicesecretario general de area interna, secretario de organizacion y social (ces); fernando e. garrido fernandez y anton costas comesana.
+intervienen: eduardo moyano, sociologo e ingeniero agronomo, instituto de estudios sociales avanzados (iesa-csic); octavio granados, exministro de trabajo del gobierno de espana; manuel piedra, secretario de migraciones de upa; daniela namu; agustina ramirez; y montse cortinas, vicesecretaria general de upa
+clausuran: cristobal cano, secretario general de upa; pepe alvarez, secretario general de ugt; luis planas puchades, ministro de agricultura, pesca y alimentacion.  
+premios:
+premio de politica, economia y ciencias sociales | premio esteban lopez plaza de periodismo y comunicacion | premio de cultura, deporte, arte y literatura | premio especial de la fundacion de estudios rurales | premios orgullo rural ateneo_madrid thu 25 jun ateneo de madrid c. del prado, 21, madrid justicia atacada. las sanciones contra la corte penal internacional seccion juridicas, agrupacion europeista, npwj, eumans! y las asociaciones cicc, apdhe, fibgar y mpdl. presenta: jose antonio regueiro. modera: liubba el hadi hamed. intervienen: solomy balungi bossa, jueza, cpi; juan fernando lopez aguilar, mep; y baltasar garzon, juez. catedra mayor. 18:30h. ateneo_madrid thu 25 jun ateneo de madrid c. del prado, 21, madrid presentacion del libro &quot;como sobrevivir al trumpismo y a la economia de la motosierra&quot; seccion de ciencias sociales y agrupacion europeista cuidar el futuro. intervienen: juan torres, autor y cristina monge. presenta: antonio sanabria. modera: lourdes lucia. salon ciudad de ubeda. 19:30h. ateneo_madrid thu 25 jun ateneo de madrid c. del prado, 21, madrid el bullying comienza en la infancia. abordaje psicoanalitico retransmision zoom (aqui) 
+ 
+  
+  
+agrupaciones agustin arguelles y angel garma. bienvenida: jose antonio garcia regueiro y alfonso gomez prieto. intervienen: rosa liguori, psicoanalista y beatriz azagra cabrera, psicologa. presenta y modera: trinidad simon macias, psicologa clinica y psicoanalista. sala ramon y cajal. 19:30h. ateneo_madrid thu 25 jun ateneo de madrid c. del prado, 21, madrid presentacion del informe &quot;ranking de calidad democratica de los partidos politicos 2026&quot; seccion de derechos civiles. intervienen: cristina monge, joan navarro y enrique del olmo,  investigador principal del estudio. sala perez galdos. 12:00h. ateneo_madrid fri 26 jun ateneo de madrid c. del prado, 21, madrid en recuerdo de jose maria martin del castillo seccion de farmacia. intervienen : antonio gonzalez bueno, margarita arroyo, carlos lens, maria teresa fernandez y pablo martinez. presenta: daniel pacheco. sala ramon y cajal. 18:30h. ateneo_madrid fri 26 jun ateneo de madrid c. del prado, 21, madrid cancelado. en busca de la convergencia perdida en renta per capita seccion de ciencias economicas. intervienen: antonio urda pena, consultor y economista e isabel acosta, economista y directora en quum, unidad de espana de bbva research. modera: javier santacruz. salon ciudad de ubeda. 19:00h. ateneo_madrid fri 26 jun ateneo de madrid c. del prado, 21, madrid presentacion del libro &quot;en pequenas dosis (literatura y sanidad)&quot; seccion de farmacia. intervienen: juan van halen, margarita arroyo, javier puerto y beatriz hernando. presenta: daniel pacheco. sala ramon y cajal. 19:00h. ateneo_madrid fri 26 jun"><div class="venue-top"><h2 class="venue-title">Ateneo de Madrid</h2><span class="badge">18 talks</span></div><p class="meta">18 talks · 2026-06-20 to 2026-06-26</p><div class="venue-cards"><article class="card" data-card data-start="2026-06-20" data-end="2026-06-20" data-search="vigencia de algunos tipos de caracter descubiertos en la labor psicoanalitica (1916) en el siglo xxi ateneo de madrid c. del prado, 21, madrid seccion de ciencias de la salud y agrupacion angel garma. interviene: paula yruegas. modera: cristina marquina. salon ciudad de ubeda. 11:30h. ateneo_madrid sat 20 jun 11:30"><div class="card-top"><img class="exhibition-thumb" src="https://ateneodemadrid.com/wp-content/uploads/2026/06/20.06.2026-Salud2.jpg" alt="Vigencia de algunos tipos de carácter descubiertos en la labor psicoanalítica (1916) en el siglo XXI" loading="lazy" decoding="async"><div class="card-copy"><h2>Vigencia de algunos tipos de carácter descubiertos en la labor psicoanalítica (1916) en el siglo XXI</h2><a class="link" href="https://ateneodemadrid.com/evento/vigencia-de-algunos-tipos-de-caracter-descubiertos-en-la-labor-psicoanalitica-1916-en-el-siglo-xxi/" target="_blank" rel="noreferrer">Open source page</a></div></div><p class="meta">Sat 20 Jun</p><p class="meta">Ateneo de Madrid · C. del Prado, 21, Madrid</p><p class="meta">11:30</p><p class="desc">Sección de Ciencias de la Salud y Agrupación Ángel Garma. Interviene: Paula Yruegas. Modera: Cristina Marquina. Salón Ciudad de Úbeda. 11:30h.</p><p class="meta">Source: ateneo_madrid</p></article>
+<article class="card" data-card data-start="2026-06-20" data-end="2026-06-20" data-search="presentacion del libro &quot;monreal del llano, entre la historia y la leyenda&quot;, de enrique lillo ateneo de madrid c. del prado, 21, madrid seccion de farmacia. intervienen: benjamin prieto e isabel albella. presenta: daniel pacheco. sala ramon y cajal. 19:00h. ateneo_madrid sat 20 jun 19:00"><div class="card-top"><img class="exhibition-thumb" src="https://ateneodemadrid.com/wp-content/uploads/2026/05/20.06.2026-Farmacia-5.jpg" alt="Presentación del libro &quot;Monreal del Llano, entre la historia y la leyenda&quot;, de Enrique Lillo" loading="lazy" decoding="async"><div class="card-copy"><h2>Presentación del libro &quot;Monreal del Llano, entre la historia y la leyenda&quot;, de Enrique Lillo</h2><a class="link" href="https://ateneodemadrid.com/evento/presentacion-del-libro-monreal-del-llano-entre-la-historia-y-la-leyenda/" target="_blank" rel="noreferrer">Open source page</a></div></div><p class="meta">Sat 20 Jun</p><p class="meta">Ateneo de Madrid · C. del Prado, 21, Madrid</p><p class="meta">19:00</p><p class="desc">Sección de Farmacia. Intervienen: Benjamín Prieto e Isabel Albella. Presenta: Daniel Pacheco. Sala Ramón y Cajal. 19:00h.</p><p class="meta">Source: ateneo_madrid</p></article>
+<article class="card" data-card data-start="2026-06-22" data-end="2026-06-22" data-search="flamenco y japon, un amor loco ateneo de madrid c. del prado, 21, madrid agrupacion ateneos al flamenco. intervienen: david lopez canales y mariko ogura. cante flamenco en japones: noriko martin. presenta: agapito pageo. sala perez galdos. 19:00h. ateneo_madrid mon 22 jun 19:00"><div class="card-top"><img class="exhibition-thumb" src="https://ateneodemadrid.com/wp-content/uploads/2026/06/22.06.2026-Flamenco-1.jpg" alt="Flamenco y Japón, un amor loco" loading="lazy" decoding="async"><div class="card-copy"><h2>Flamenco y Japón, un amor loco</h2><a class="link" href="https://ateneodemadrid.com/evento/flamenco-y-japon-un-amor-loco/" target="_blank" rel="noreferrer">Open source page</a></div></div><p class="meta">Mon 22 Jun</p><p class="meta">Ateneo de Madrid · C. del Prado, 21, Madrid</p><p class="meta">19:00</p><p class="desc">Agrupación Ateneos al Flamenco. Intervienen: David López Canales y Mariko Ogura. Cante flamenco en japonés: Noriko Martín. Presenta: Agapito Pageo. Sala Pérez Galdós. 19:00h.</p><p class="meta">Source: ateneo_madrid</p></article>
+<article class="card" data-card data-start="2026-06-22" data-end="2026-06-22" data-search="leonor, una reina para el siglo xxi ateneo de madrid c. del prado, 21, madrid agrupacion sabatini. bienvenida: aurora garcia mateache. modera: elsa gonzalez. intervienen: carmen calvo, presidenta del consejo de estado; juan francisco fuentes y carmen ortiz. catedra mayor. 19:00h. ateneo_madrid mon 22 jun 19:00"><div class="card-top"><img class="exhibition-thumb" src="https://ateneodemadrid.com/wp-content/uploads/2026/06/22.06.2026-Sabatini-3.jpg" alt="Leonor, una Reina para el siglo XXI" loading="lazy" decoding="async"><div class="card-copy"><h2>Leonor, una Reina para el siglo XXI</h2><a class="link" href="https://ateneodemadrid.com/evento/leonor-una-reina-para-el-siglo-xxi/" target="_blank" rel="noreferrer">Open source page</a></div></div><p class="meta">Mon 22 Jun</p><p class="meta">Ateneo de Madrid · C. del Prado, 21, Madrid</p><p class="meta">19:00</p><p class="desc">Agrupación Sabatini. Bienvenida: Aurora García Mateache. Modera: Elsa González. Intervienen: Carmen Calvo, presidenta del Consejo de Estado; Juan Francisco Fuentes y Carmen Ortiz. Cátedra Mayor. 19:00h.</p><p class="meta">Source: ateneo_madrid</p></article>
+<article class="card" data-card data-start="2026-06-22" data-end="2026-06-22" data-search="presentacion del libro &quot;gaza: antes y despues del 7 de octubre&quot; ateneo de madrid c. del prado, 21, madrid seccion de cine. intervienen: daniel peral, autor. oscar mijallo, excorresponsal de tve para oriente proximo. presenta javier martin-dominguez. salon ciudad de ubeda. 19:30h. ateneo_madrid mon 22 jun 19:30"><div class="card-top"><img class="exhibition-thumb" src="https://ateneodemadrid.com/wp-content/uploads/2026/06/22.06.2025-Cine.jpg" alt="Presentación del libro &quot;Gaza: antes y después del 7 de octubre&quot;" loading="lazy" decoding="async"><div class="card-copy"><h2>Presentación del libro &quot;Gaza: antes y después del 7 de octubre&quot;</h2><a class="link" href="https://ateneodemadrid.com/evento/presentacion-del-libro-gaza-antes-y-despues-del-7-de-octubre/" target="_blank" rel="noreferrer">Open source page</a></div></div><p class="meta">Mon 22 Jun</p><p class="meta">Ateneo de Madrid · C. del Prado, 21, Madrid</p><p class="meta">19:30</p><p class="desc">Sección de Cine. Intervienen: Daniel Peral, autor. Óscar Mijallo, excorresponsal de TVE para Oriente Próximo. Presenta Javier Martin-Domínguez. Salón Ciudad de Úbeda. 19:30h.</p><p class="meta">Source: ateneo_madrid</p></article>
+<article class="card" data-card data-start="2026-06-23" data-end="2026-06-23" data-search="ciencias de la incertidumbre ateneo de madrid c. del prado, 21, madrid seccion de filosofia. intervienen: miguel angel sanjuan y mauricio nieto. moderara, isabel fuentes. sala perez galdos. 19:00h. ateneo_madrid tue 23 jun 19:00"><div class="card-top"><img class="exhibition-thumb" src="https://ateneodemadrid.com/wp-content/uploads/2026/06/23.06.2026-Filosofia.jpg" alt="Ciencias de la incertidumbre" loading="lazy" decoding="async"><div class="card-copy"><h2>Ciencias de la incertidumbre</h2><a class="link" href="https://ateneodemadrid.com/evento/ciencias-de-la-incertidumbre/" target="_blank" rel="noreferrer">Open source page</a></div></div><p class="meta">Tue 23 Jun</p><p class="meta">Ateneo de Madrid · C. del Prado, 21, Madrid</p><p class="meta">19:00</p><p class="desc">Sección de Filosofía. Intervienen: Miguel Ángel Sanjuán y Mauricio Nieto. moderará, Isabel Fuentes. Sala Pérez Galdós. 19:00h.</p><p class="meta">Source: ateneo_madrid</p></article>
+<article class="card" data-card data-start="2026-06-23" data-end="2026-06-23" data-search="las comunidades celtas en la hispania prerromana ateneo de madrid c. del prado, 21, madrid seccion de literatura. presentacion del libro la princesa del guadiana. intervienen: laura barrios, directora general de tirant lo blanch; y julian sanchez melgar, magistrado del tribunal supremo y exfiscal general del estado. salon ciudad de ubeda. 19:30h. ateneo_madrid tue 23 jun 19:30"><div class="card-top"><img class="exhibition-thumb" src="https://ateneodemadrid.com/wp-content/uploads/2026/05/23.06.2026-Literatura-.jpg" alt="Las comunidades celtas en la Hispania prerromana" loading="lazy" decoding="async"><div class="card-copy"><h2>Las comunidades celtas en la Hispania prerromana</h2><a class="link" href="https://ateneodemadrid.com/evento/las-comunidades-celtas-en-la-hispania-prerromana-presentacion-del-libro-la-princesa-del-guadiana/" target="_blank" rel="noreferrer">Open source page</a></div></div><p class="meta">Tue 23 Jun</p><p class="meta">Ateneo de Madrid · C. del Prado, 21, Madrid</p><p class="meta">19:30</p><p class="desc">Sección de Literatura. Presentación del libro La Princesa del Guadiana. Intervienen: Laura Barrios, directora general de Tirant lo Blanch; y Julián Sánchez Melgar, magistrado del Tribunal Supremo y exfiscal General del Estado. Salón Ciudad de Úbeda. 19:30h.</p><p class="meta">Source: ateneo_madrid</p></article>
+<article class="card" data-card data-start="2026-06-23" data-end="2026-06-23" data-search="tocqueville y la democracia americana ateneo de madrid c. del prado, 21, madrid seccion de mitos, religiones y humanidades. interviene: eduardo nolla. preside y modera: ana maestro. presenta: pedro lopez arriba. sala ramon y cajal. 19:30h. ateneo_madrid tue 23 jun 19:30"><div class="card-top"><img class="exhibition-thumb" src="https://ateneodemadrid.com/wp-content/uploads/2026/06/23.06.2026-Mitos-2.jpg" alt="Tocqueville y la democracia americana" loading="lazy" decoding="async"><div class="card-copy"><h2>Tocqueville y la democracia americana</h2><a class="link" href="https://ateneodemadrid.com/evento/tocqueville-y-la-democracia-americana/" target="_blank" rel="noreferrer">Open source page</a></div></div><p class="meta">Tue 23 Jun</p><p class="meta">Ateneo de Madrid · C. del Prado, 21, Madrid</p><p class="meta">19:30</p><p class="desc">Sección de Mitos, Religiones y Humanidades. Interviene: Eduardo Nolla. Preside y modera: Ana Maestro. Presenta: Pedro López Arriba. Sala Ramón y Cajal. 19:30h.</p><p class="meta">Source: ateneo_madrid</p></article>
+<article class="card" data-card data-start="2026-06-24" data-end="2026-06-24" data-search="formacion profesional. situacion actual y alternativas ateneo de madrid c. del prado, 21, madrid seccion de ciencias de la educacion. intervienen:  luis garcia, adimad; estella acosta, licenciada en ciencias de la educacion; maria pastor, portavoz de educacion de mas madrid en la asamblea de madrid; y esteban alvarez, portavoz de educacion del grupo socialista en la asamblea de madrid. presentan y moderan: alejandro tianan y jaime ruiz. sala ramon y cajal. 18:30h. ateneo_madrid wed 24 jun 18:30"><div class="card-top"><img class="exhibition-thumb" src="https://ateneodemadrid.com/wp-content/uploads/2026/06/24.06.2026-Educacion-1.jpg" alt="Formación Profesional. Situación actual y alternativas" loading="lazy" decoding="async"><div class="card-copy"><h2>Formación Profesional. Situación actual y alternativas</h2><a class="link" href="https://ateneodemadrid.com/evento/formacion-profesional-situacion-actual-y-alternativas/" target="_blank" rel="noreferrer">Open source page</a></div></div><p class="meta">Wed 24 Jun</p><p class="meta">Ateneo de Madrid · C. del Prado, 21, Madrid</p><p class="meta">18:30</p><p class="desc">Sección de Ciencias de la Educación. Intervienen:  Luis García, ADIMAD; Estella Acosta, licenciada en Ciencias de la Educación; María Pastor, portavoz de Educación de Más Madrid en la Asamblea de Madrid; y Esteban Álvarez, portavoz de Educación del Grupo Socialista en la Asamblea de Madrid. Presentan y moderan: Alejandro Tianan y Jaime Ruiz. Sala Ramón y Cajal. 18:30h.</p><p class="meta">Source: ateneo_madrid</p></article>
+<article class="card" data-card data-start="2026-06-24" data-end="2026-06-24" data-search="presentacion del libro &quot;2000. la vuelta del terror&quot; ateneo de madrid c. del prado, 21, madrid seccion de derechos civiles. intervienen: paquita sauquillo, antonio rivera, autor; luis r. aizpeolea, javier gomez bermudez y ramon jauregui. sala ramon y cajal. 20:30h. ateneo_madrid wed 24 jun 20:30"><div class="card-top"><img class="exhibition-thumb" src="https://ateneodemadrid.com/wp-content/uploads/2026/06/24.06.2026-Civiles.jpg" alt="Presentación del libro &quot;2000. La vuelta del terror&quot;" loading="lazy" decoding="async"><div class="card-copy"><h2>Presentación del libro &quot;2000. La vuelta del terror&quot;</h2><a class="link" href="https://ateneodemadrid.com/evento/presentacion-del-libro-2000-la-vuelta-del-terror/" target="_blank" rel="noreferrer">Open source page</a></div></div><p class="meta">Wed 24 Jun</p><p class="meta">Ateneo de Madrid · C. del Prado, 21, Madrid</p><p class="meta">20:30</p><p class="desc">Sección de Derechos Civiles. Intervienen: Paquita Sauquillo, Antonio Rivera, autor; Luis R. Aizpeolea, Javier Gómez Bermúdez y Ramón Jauregui. Sala Ramón y Cajal. 20:30h.</p><p class="meta">Source: ateneo_madrid</p></article>
+<article class="card" data-card data-start="2026-06-25" data-end="2026-06-25" data-search="presentacion del &quot;anuario 2026 agricultura  y ganaderia familiar en europa&quot; premios &quot;fundacion de estudios rurales 2026&quot; ateneo de madrid c. del prado, 21, madrid necesaria inscripcion (aqui) 
+ 
+seccion de ciencias sociales y fundacion de estudios rurales de upa. presentacion y bienvenida: marcos alarcon alarcon, vicesecretario general de area interna, secretario de organizacion y social (ces); fernando e. garrido fernandez y anton costas comesana.
+intervienen: eduardo moyano, sociologo e ingeniero agronomo, instituto de estudios sociales avanzados (iesa-csic); octavio granados, exministro de trabajo del gobierno de espana; manuel piedra, secretario de migraciones de upa; daniela namu; agustina ramirez; y montse cortinas, vicesecretaria general de upa
+clausuran: cristobal cano, secretario general de upa; pepe alvarez, secretario general de ugt; luis planas puchades, ministro de agricultura, pesca y alimentacion.  
+premios:
+premio de politica, economia y ciencias sociales | premio esteban lopez plaza de periodismo y comunicacion | premio de cultura, deporte, arte y literatura | premio especial de la fundacion de estudios rurales | premios orgullo rural ateneo_madrid thu 25 jun 10:30"><div class="card-top"><img class="exhibition-thumb" src="https://ateneodemadrid.com/wp-content/uploads/2026/06/25.06.2026-Sociales-2-4.jpg" alt="Presentación del &quot;Anuario 2026 Agricultura  y ganadería familiar en Europa&quot; Premios &quot;Fundación de Estudios Rurales 2026&quot;" loading="lazy" decoding="async"><div class="card-copy"><h2>Presentación del &quot;Anuario 2026 Agricultura  y ganadería familiar en Europa&quot; Premios &quot;Fundación de Estudios Rurales 2026&quot;</h2><a class="link" href="https://ateneodemadrid.com/evento/anuario-upa-2026/" target="_blank" rel="noreferrer">Open source page</a></div></div><p class="meta">Thu 25 Jun</p><p class="meta">Ateneo de Madrid · C. del Prado, 21, Madrid</p><p class="meta">10:30</p><p class="desc">Necesaria inscripción (aquí) 
+ 
+Sección de Ciencias Sociales y Fundación de Estudios Rurales de UPA. Presentación y Bienvenida: Marcos Alarcón Alarcón, vicesecretario general de Área Interna, secretario de Organización y Social (CES); Fernando E. Garrido Fernández y Antón Costas Comesaña.
+Intervienen: Eduardo Moyano, sociólogo e ingeniero agrónomo, Instituto de Estudios Sociales Avanzados (IESA-CSIC); Octavio Granados, exministro de Trabajo del Gobierno de España; Manuel Piedra, secretario de Migraciones de UPA; Daniela Namú; Agustina Ramírez; y Montse Cortiñas, vicesecretaria general de UPA
+Clausuran: Cristóbal Cano, secretario general de UPA; Pepe Álvarez, secretario general de UGT; Luis Planas Puchades, ministro de Agricultura, Pesca y Alimentación.  
+Premios:
+Premio de Política, Economía y Ciencias Sociales | Premio Esteban López Plaza de Periodismo y Comunicación | Premio de Cultura, Deporte, Arte y Literatura | Premio Especial de la Fundación de Estudios Rurales | Premios Orgullo Rural</p><p class="meta">Source: ateneo_madrid</p></article>
+<article class="card" data-card data-start="2026-06-25" data-end="2026-06-25" data-search="justicia atacada. las sanciones contra la corte penal internacional ateneo de madrid c. del prado, 21, madrid seccion juridicas, agrupacion europeista, npwj, eumans! y las asociaciones cicc, apdhe, fibgar y mpdl. presenta: jose antonio regueiro. modera: liubba el hadi hamed. intervienen: solomy balungi bossa, jueza, cpi; juan fernando lopez aguilar, mep; y baltasar garzon, juez. catedra mayor. 18:30h. ateneo_madrid thu 25 jun 18:30"><div class="card-top"><img class="exhibition-thumb" src="https://ateneodemadrid.com/wp-content/uploads/2026/06/25.06.2026-Juridicas-1.jpg" alt="Justicia atacada. Las sanciones contra la Corte Penal Internacional" loading="lazy" decoding="async"><div class="card-copy"><h2>Justicia atacada. Las sanciones contra la Corte Penal Internacional</h2><a class="link" href="https://ateneodemadrid.com/evento/justicia-atacada-las-sanciones-contra-la-corte-penal-internacional/" target="_blank" rel="noreferrer">Open source page</a></div></div><p class="meta">Thu 25 Jun</p><p class="meta">Ateneo de Madrid · C. del Prado, 21, Madrid</p><p class="meta">18:30</p><p class="desc">Sección Jurídicas, Agrupación europeísta, NPWJ, Eumans! y las asociaciones CICC, APDHE, Fibgar y MPDL. Presenta: José Antonio Regueiro. Modera: Liubba El Hadi Hamed. Intervienen: Solomy Balungi Bossa, jueza, CPI; Juan Fernando López Aguilar, MEP; y Baltasar Garzón, juez. Cátedra Mayor. 18:30h.</p><p class="meta">Source: ateneo_madrid</p></article>
+<article class="card" data-card data-start="2026-06-25" data-end="2026-06-25" data-search="presentacion del libro &quot;como sobrevivir al trumpismo y a la economia de la motosierra&quot; ateneo de madrid c. del prado, 21, madrid seccion de ciencias sociales y agrupacion europeista cuidar el futuro. intervienen: juan torres, autor y cristina monge. presenta: antonio sanabria. modera: lourdes lucia. salon ciudad de ubeda. 19:30h. ateneo_madrid thu 25 jun 19:00"><div class="card-top"><img class="exhibition-thumb" src="https://ateneodemadrid.com/wp-content/uploads/2026/01/25.06.2026-Sociales.jpg" alt="Presentación del libro &quot;Cómo sobrevivir al trumpismo y a la economía de la motosierra&quot;" loading="lazy" decoding="async"><div class="card-copy"><h2>Presentación del libro &quot;Cómo sobrevivir al trumpismo y a la economía de la motosierra&quot;</h2><a class="link" href="https://ateneodemadrid.com/evento/presentacion-del-libro-como-sobrevivir-al-trumpismo-y-a-la-economia-de-la-motosierra/" target="_blank" rel="noreferrer">Open source page</a></div></div><p class="meta">Thu 25 Jun</p><p class="meta">Ateneo de Madrid · C. del Prado, 21, Madrid</p><p class="meta">19:00</p><p class="desc">Sección de Ciencias Sociales y Agrupación Europeísta Cuidar el futuro. Intervienen: Juan Torres, autor y Cristina Monge. Presenta: Antonio Sanabria. Modera: Lourdes Lucía. Salón Ciudad de Úbeda. 19:30h.</p><p class="meta">Source: ateneo_madrid</p></article>
+<article class="card" data-card data-start="2026-06-25" data-end="2026-06-25" data-search="el bullying comienza en la infancia. abordaje psicoanalitico ateneo de madrid c. del prado, 21, madrid retransmision zoom (aqui) 
+ 
+  
+  
+agrupaciones agustin arguelles y angel garma. bienvenida: jose antonio garcia regueiro y alfonso gomez prieto. intervienen: rosa liguori, psicoanalista y beatriz azagra cabrera, psicologa. presenta y modera: trinidad simon macias, psicologa clinica y psicoanalista. sala ramon y cajal. 19:30h. ateneo_madrid thu 25 jun 19:30"><div class="card-top"><img class="exhibition-thumb" src="https://ateneodemadrid.com/wp-content/uploads/2026/06/25.06.2026-2.jpg" alt="El bullying comienza en la infancia. Abordaje psicoanalítico" loading="lazy" decoding="async"><div class="card-copy"><h2>El bullying comienza en la infancia. Abordaje psicoanalítico</h2><a class="link" href="https://ateneodemadrid.com/evento/bullying-comienza-en-la-infancia-abordaje-psicoanalitico/" target="_blank" rel="noreferrer">Open source page</a></div></div><p class="meta">Thu 25 Jun</p><p class="meta">Ateneo de Madrid · C. del Prado, 21, Madrid</p><p class="meta">19:30</p><p class="desc">Retransmisión Zoom (aquí) 
+ 
+  
+  
+Agrupaciones Agustín Argüelles y Ángel Garma. Bienvenida: José Antonio García Regueiro y Alfonso Gomez Prieto. Intervienen: Rosa Liguori, psicoanalista y Beatriz Azagra Cabrera, psicóloga. Presenta y modera: Trinidad Simón Macías, psicóloga clínica y psicoanalista. Sala Ramón y Cajal. 19:30h.</p><p class="meta">Source: ateneo_madrid</p></article>
+<article class="card" data-card data-start="2026-06-26" data-end="2026-06-26" data-search="presentacion del informe &quot;ranking de calidad democratica de los partidos politicos 2026&quot; ateneo de madrid c. del prado, 21, madrid seccion de derechos civiles. intervienen: cristina monge, joan navarro y enrique del olmo,  investigador principal del estudio. sala perez galdos. 12:00h. ateneo_madrid fri 26 jun 12:00"><div class="card-top"><img class="exhibition-thumb" src="https://ateneodemadrid.com/wp-content/uploads/2026/06/26.06.2026-Civilesjpg-1.jpg" alt="Presentación del informe &quot;Ranking de Calidad Democratica de los Partidos Politicos 2026&quot;" loading="lazy" decoding="async"><div class="card-copy"><h2>Presentación del informe &quot;Ranking de Calidad Democratica de los Partidos Politicos 2026&quot;</h2><a class="link" href="https://ateneodemadrid.com/evento/presentacion-del-informe-ranking-de-calidad-democratica-de-los-partidos-politicos-2026/" target="_blank" rel="noreferrer">Open source page</a></div></div><p class="meta">Fri 26 Jun</p><p class="meta">Ateneo de Madrid · C. del Prado, 21, Madrid</p><p class="meta">12:00</p><p class="desc">Sección de Derechos Civiles. Intervienen: Cristina Monge, Joan Navarro y Enrique del Olmo,  investigador principal del Estudio. Sala Pérez Galdós. 12:00h.</p><p class="meta">Source: ateneo_madrid</p></article>
+<article class="card" data-card data-start="2026-06-26" data-end="2026-06-26" data-search="en recuerdo de jose maria martin del castillo ateneo de madrid c. del prado, 21, madrid seccion de farmacia. intervienen : antonio gonzalez bueno, margarita arroyo, carlos lens, maria teresa fernandez y pablo martinez. presenta: daniel pacheco. sala ramon y cajal. 18:30h. ateneo_madrid fri 26 jun 18:30"><div class="card-top"><img class="exhibition-thumb" src="https://ateneodemadrid.com/wp-content/uploads/2026/06/26.06.2026-Farmacia1.jpg" alt="En recuerdo de José María Martín del Castillo" loading="lazy" decoding="async"><div class="card-copy"><h2>En recuerdo de José María Martín del Castillo</h2><a class="link" href="https://ateneodemadrid.com/evento/en-recuerdo-de-jose-maria-martin-del-castillo/" target="_blank" rel="noreferrer">Open source page</a></div></div><p class="meta">Fri 26 Jun</p><p class="meta">Ateneo de Madrid · C. del Prado, 21, Madrid</p><p class="meta">18:30</p><p class="desc">Sección de Farmacia. Intervienen : Antonio González Bueno, Margarita Arroyo, Carlos Lens, María Teresa Fernández y Pablo Martínez. Presenta: Daniel Pacheco. Sala Ramón y Cajal. 18:30h.</p><p class="meta">Source: ateneo_madrid</p></article>
+<article class="card" data-card data-start="2026-06-26" data-end="2026-06-26" data-search="cancelado. en busca de la convergencia perdida en renta per capita ateneo de madrid c. del prado, 21, madrid seccion de ciencias economicas. intervienen: antonio urda pena, consultor y economista e isabel acosta, economista y directora en quum, unidad de espana de bbva research. modera: javier santacruz. salon ciudad de ubeda. 19:00h. ateneo_madrid fri 26 jun 19:00"><div class="card-top"><img class="exhibition-thumb" src="https://ateneodemadrid.com/wp-content/uploads/2026/06/26.06.2026-Economicas.jpg" alt="CANCELADO. En busca de la convergencia perdida en renta per cápita" loading="lazy" decoding="async"><div class="card-copy"><h2>CANCELADO. En busca de la convergencia perdida en renta per cápita</h2><a class="link" href="https://ateneodemadrid.com/evento/en-busca-de-la-convergencia-perdida-en-renta-per-capita/" target="_blank" rel="noreferrer">Open source page</a></div></div><p class="meta">Fri 26 Jun</p><p class="meta">Ateneo de Madrid · C. del Prado, 21, Madrid</p><p class="meta">19:00</p><p class="desc">Sección de Ciencias Económicas. Intervienen: Antonio Urda Peña, consultor y economista e Isabel Acosta, economista y directora en Quum, Unidad de España de BBVA Research. Modera: Javier Santacruz. Salón Ciudad de Úbeda. 19:00h.</p><p class="meta">Source: ateneo_madrid</p></article>
+<article class="card" data-card data-start="2026-06-26" data-end="2026-06-26" data-search="presentacion del libro &quot;en pequenas dosis (literatura y sanidad)&quot; ateneo de madrid c. del prado, 21, madrid seccion de farmacia. intervienen: juan van halen, margarita arroyo, javier puerto y beatriz hernando. presenta: daniel pacheco. sala ramon y cajal. 19:00h. ateneo_madrid fri 26 jun 19:00"><div class="card-top"><img class="exhibition-thumb" src="https://ateneodemadrid.com/wp-content/uploads/2026/06/26.06.2026-Farmacia-2.jpg" alt="Presentación del libro &quot;En pequeñas dosis (literatura y sanidad)&quot;" loading="lazy" decoding="async"><div class="card-copy"><h2>Presentación del libro &quot;En pequeñas dosis (literatura y sanidad)&quot;</h2><a class="link" href="https://ateneodemadrid.com/evento/presentacion-del-libro-en-pequenas-dosis-literatura-y-sanidad/" target="_blank" rel="noreferrer">Open source page</a></div></div><p class="meta">Fri 26 Jun</p><p class="meta">Ateneo de Madrid · C. del Prado, 21, Madrid</p><p class="meta">19:00</p><p class="desc">Sección de Farmacia. Intervienen: Juan Van Halen, Margarita Arroyo, Javier Puerto y Beatriz Hernando. Presenta: Daniel Pacheco. Sala Ramón y Cajal. 19:00h.</p><p class="meta">Source: ateneo_madrid</p></article></div></section>
+<section class="venue-block" data-group data-search="libreria desnivel plaza de matute, 6, madrid presentacion: «atlas mundial de riesgo», por fundacion io la fundacion io visita la libreria desnivel para presentarnos su ultima publicacion, atlas mundial de riesgo . el evento sera el proximo jueves 25 de junio a las 19 h . ¡entrada libre hasta completar aforo! libreria_desnivel thu 25 jun"><div class="venue-top"><h2 class="venue-title">Libreria Desnivel</h2><span class="badge">1 talks</span></div><p class="meta">1 talks · 2026-06-25 to 2026-06-25</p><div class="venue-cards"><article class="card" data-card data-start="2026-06-25" data-end="2026-06-25" data-search="presentacion: «atlas mundial de riesgo», por fundacion io libreria desnivel plaza de matute, 6, madrid la fundacion io visita la libreria desnivel para presentarnos su ultima publicacion, atlas mundial de riesgo . el evento sera el proximo jueves 25 de junio a las 19 h . ¡entrada libre hasta completar aforo! libreria_desnivel thu 25 jun 19:00"><div class="card-top"><img class="exhibition-thumb" src="https://www.libreriadesnivel.com/media/img/agenda/Premio_Desnivel_de_Literatura_2024_20.jpg" alt="Presentación: «Atlas mundial de riesgo», por Fundación iO" loading="lazy" decoding="async"><div class="card-copy"><h2>Presentación: «Atlas mundial de riesgo», por Fundación iO</h2><a class="link" href="https://www.libreriadesnivel.com/agenda/atlas-mundial-de-riesgo-por-fundacion-io/440/" target="_blank" rel="noreferrer">Open source page</a></div></div><p class="meta">Thu 25 Jun</p><p class="meta">Libreria Desnivel · Plaza de Matute, 6, Madrid</p><p class="meta">19:00</p><p class="desc">La Fundacion iO visita la librería Desnivel para presentarnos su última publicación, Atlas mundial de riesgo . El evento será el próximo jueves 25 de junio a las 19 h . ¡Entrada libre hasta completar aforo!</p><p class="meta">Source: libreria_desnivel</p></article></div></section></main>
+    <p class="empty hidden" id="empty">No talks match the current filters.</p>
+  </div>
+
+  <script>
+    
+const queryInput = document.getElementById("query");
+const startInput = document.getElementById("start-date");
+const endInput = document.getElementById("end-date");
+const cards = [...document.querySelectorAll("[data-card]")];
+const groups = [...document.querySelectorAll("[data-group]")];
+const status = document.getElementById("status");
+const empty = document.getElementById("empty");
+
+function normalizeText(value) {
+  return String(value || "")
+    .toLowerCase()
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "");
+}
+
+function render() {
+  const query = normalizeText(queryInput.value.trim());
+  const start = startInput.value;
+  const end = endInput.value;
+  let visible = 0;
+
+  for (const card of cards) {
+    const search = card.dataset.search || "";
+    const cardStart = card.dataset.start || "";
+    const cardEnd = card.dataset.end || "";
+    let show = true;
+
+    if (query && !search.includes(query)) {
+      show = false;
+    }
+    if (start && cardEnd < start) {
+      show = false;
+    }
+    if (end && cardStart > end) {
+      show = false;
+    }
+
+    card.classList.toggle("hidden", !show);
+    if (show) {
+      visible += 1;
+    }
+  }
+
+  for (const group of groups) {
+    const visibleCards = group.querySelectorAll("[data-card]:not(.hidden)");
+    group.classList.toggle("hidden", visibleCards.length === 0);
+  }
+
+  status.textContent = `${visible} results match the current filters.`;
+  empty.classList.toggle("hidden", visible !== 0);
+}
+
+for (const input of [queryInput, startInput, endInput]) {
+  input.addEventListener("input", render);
+  input.addEventListener("change", render);
+}
+
+render();
+
+  </script>
+</body>
+</html>

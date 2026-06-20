@@ -1,0 +1,482 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Eirene music</title>
+  <style>
+    :root {
+      --bg: #f5efe3;
+      --paper: #fffaf1;
+      --panel: #fdf8ee;
+      --ink: #1f1f1b;
+      --muted: #6a665d;
+      --line: #e3dac6;
+      --accent: #356859;
+      --accent-soft: #d9ebe5;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--ink);
+      font-family: "Georgia", "Times New Roman", serif;
+      line-height: 1.5;
+    }
+
+    .wrap {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 1.25rem 1rem 2rem;
+    }
+
+    .top {
+      display: flex;
+      justify-content: space-between;
+      gap: 1rem;
+      align-items: end;
+      margin-bottom: 1rem;
+    }
+
+    h1 {
+      margin: 0;
+      font-family: "Source Sans 3", "Inter", "Segoe UI", sans-serif;
+      font-size: 1.65rem;
+      letter-spacing: 0.02em;
+      text-transform: lowercase;
+    }
+
+    .sub {
+      margin: 0.25rem 0 0;
+      color: var(--muted);
+      font-size: 0.95rem;
+    }
+
+    .top-links {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: flex-end;
+      gap: 0.65rem;
+    }
+
+    .top-link, .link, .time-link {
+      color: var(--accent);
+      text-underline-offset: 0.15rem;
+    }
+
+    .filters {
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      background: var(--paper);
+      padding: 0.9rem;
+      margin-bottom: 1rem;
+      display: grid;
+      gap: 0.8rem;
+    }
+
+    .filters-top {
+      display: grid;
+      gap: 0.35rem;
+    }
+
+    .filters h2 {
+      margin: 0;
+      font-family: "Source Sans 3", "Inter", "Segoe UI", sans-serif;
+      font-size: 1rem;
+    }
+
+    .filters-sub {
+      margin: 0;
+      color: var(--muted);
+      font-size: 0.88rem;
+    }
+
+    .controls {
+      display: grid;
+      grid-template-columns: 1.3fr repeat(2, minmax(160px, 0.7fr));
+      gap: 0.75rem;
+      align-items: end;
+    }
+
+    .field {
+      display: grid;
+      gap: 0.3rem;
+      font-family: "Source Sans 3", "Inter", "Segoe UI", sans-serif;
+      font-size: 0.86rem;
+      color: var(--muted);
+    }
+
+    input[type="search"], input[type="date"] {
+      width: 100%;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: #fff;
+      color: var(--ink);
+      font: inherit;
+      padding: 0.45rem 0.55rem;
+    }
+
+    .status {
+      margin: 0 0 0.8rem;
+      color: var(--muted);
+      font-family: "Source Sans 3", "Inter", "Segoe UI", sans-serif;
+      font-size: 0.88rem;
+    }
+
+    .cards {
+      display: grid;
+      gap: 0.85rem;
+    }
+
+    .card {
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      background: var(--panel);
+      padding: 0.9rem;
+    }
+
+    .card-top {
+      display: flex;
+      justify-content: space-between;
+      gap: 1rem;
+      align-items: start;
+    }
+
+    .card-copy {
+      min-width: 0;
+      flex: 1 1 auto;
+    }
+
+    .exhibition-thumb {
+      width: 88px;
+      aspect-ratio: 4 / 3;
+      object-fit: cover;
+      border-radius: 8px;
+      border: 1px solid var(--line);
+      background: var(--paper);
+      flex: 0 0 auto;
+    }
+
+    .card-top-cinema {
+      align-items: center;
+    }
+
+    .card-copy {
+      min-width: 0;
+      flex: 1 1 auto;
+    }
+
+    .poster-thumb {
+      width: 64px;
+      aspect-ratio: 2 / 3;
+      object-fit: cover;
+      border-radius: 8px;
+      border: 1px solid var(--line);
+      background: var(--paper);
+      flex: 0 0 auto;
+    }
+
+    .card h2 {
+      margin: 0;
+      font-family: "Source Sans 3", "Inter", "Segoe UI", sans-serif;
+      font-size: 1.08rem;
+      line-height: 1.3;
+    }
+
+    .card-copy .meta {
+      margin-top: 0.25rem;
+    }
+
+    .year {
+      margin-left: 0.4rem;
+      color: var(--muted);
+      font-family: "Source Sans 3", "Inter", "Segoe UI", sans-serif;
+      font-size: 0.82rem;
+      font-weight: 500;
+      white-space: nowrap;
+    }
+
+    .badge {
+      display: inline-flex;
+      align-items: center;
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      background: #fff;
+      color: var(--muted);
+      font-family: "Source Sans 3", "Inter", "Segoe UI", sans-serif;
+      font-size: 0.78rem;
+      padding: 0.2rem 0.55rem;
+      white-space: nowrap;
+    }
+
+    .meta {
+      margin: 0.3rem 0 0;
+      color: var(--muted);
+      font-family: "Source Sans 3", "Inter", "Segoe UI", sans-serif;
+      font-size: 0.88rem;
+    }
+
+    .desc {
+      margin: 0.6rem 0 0;
+      color: var(--ink);
+      max-width: 72ch;
+    }
+
+    .venue-list {
+      display: grid;
+      gap: 0.75rem;
+      margin-top: 0.8rem;
+    }
+
+    .venue-block {
+      border-top: 1px solid var(--line);
+      padding-top: 0.75rem;
+      display: grid;
+      gap: 0.45rem;
+    }
+
+    .venue-top {
+      display: flex;
+      justify-content: space-between;
+      gap: 1rem;
+      align-items: start;
+    }
+
+    .venue-block h3, .language-block h4 {
+      margin: 0;
+      font-family: "Source Sans 3", "Inter", "Segoe UI", sans-serif;
+    }
+
+    .venue-block h3 { font-size: 0.98rem; }
+    .venue-title {
+      margin: 0;
+      font-family: "Source Sans 3", "Inter", "Segoe UI", sans-serif;
+      font-size: 1rem;
+    }
+    .language-block h4 { font-size: 0.9rem; color: var(--muted); }
+
+    .venue-cards {
+      display: grid;
+      gap: 0.8rem;
+    }
+
+    .language-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 0.7rem;
+    }
+
+    .language-block {
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      background: #fff;
+      padding: 0.7rem;
+      display: grid;
+      gap: 0.5rem;
+    }
+
+    .screening-list { display: grid; gap: 0.45rem; }
+
+    .screening {
+      border-top: 1px solid var(--line);
+      padding-top: 0.45rem;
+      display: grid;
+      gap: 0.18rem;
+    }
+
+    .screening:first-child { border-top: 0; padding-top: 0; }
+
+    .screening-main {
+      display: flex;
+      justify-content: space-between;
+      gap: 0.75rem;
+      align-items: baseline;
+    }
+
+    .screening-date {
+      font-family: "Source Sans 3", "Inter", "Segoe UI", sans-serif;
+      font-size: 0.86rem;
+    }
+
+    .screening-meta {
+      color: var(--muted);
+      font-family: "Source Sans 3", "Inter", "Segoe UI", sans-serif;
+      font-size: 0.8rem;
+    }
+
+    .screening-desc {
+      color: var(--ink);
+      font-size: 0.9rem;
+    }
+
+    .empty {
+      border: 1px dashed var(--line);
+      border-radius: 12px;
+      background: rgba(255, 250, 241, 0.72);
+      padding: 1rem;
+      color: var(--muted);
+    }
+
+    .hidden { display: none !important; }
+
+    @media (max-width: 840px) {
+      .top, .card-top, .screening-main {
+        display: grid;
+      }
+
+      .card-top-cinema {
+        grid-template-columns: 64px 1fr;
+      }
+
+      .controls { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <header class="top">
+      <div>
+        <h1>music</h1>
+        <p class="sub">Search music events by title, venue, date range, or source.</p>
+      </div>
+      <nav class="top-links"><a class="top-link" href="index.html">Feed index</a><a class="top-link" href="calendar.html">Calendar</a><a class="top-link" href="exhibition.html">Exhibitions</a><a class="top-link" href="cinema.html">Cinema</a><a class="top-link" href="theater.html">Theater</a><a class="top-link" href="talks.html">Talks</a></nav>
+    </header>
+
+    <section class="filters" aria-label="Search filters">
+      <div class="filters-top">
+        <h2>Search</h2>
+        <p class="filters-sub">Filter by title, venue, date, source, or description.</p>
+      </div>
+      <div class="controls">
+        <label class="field">
+          <span>Query</span>
+          <input id="query" type="search" placeholder="Search the list">
+        </label>
+        
+          <label class="field">
+            <span>Start date</span>
+            <input id="start-date" type="date" value="2026-06-20">
+          </label>
+          <label class="field">
+            <span>End date</span>
+            <input id="end-date" type="date">
+          </label>
+        
+      </div>
+    </section>
+
+    <p class="status" id="status">Loading results…</p>
+    <main class="cards" id="cards"><section class="venue-block" data-group data-search="ateneo de madrid c. del prado, 21, madrid trio presenta &#x27;aurora solemne&#x27; venta de entradas (aqui). socios, codigo de descuento en el area del socio. 
+ 
+jaume angeles fite, violin), iago dominguez eiras, violonchelo) y paula belzunegui moreno, piano. catedra mayor. 19:30h. ateneo_madrid sat 20 jun ateneo de madrid c. del prado, 21, madrid om - orquesta del mundo kirtan sinfonico venta de entradas (aqui). socios, codigo descuento en el area del socio. 
+ 
+invitados: martin flynn, camila ordonez, padmayana, joan condal, proyecto sacerdotisa, ursula giovanna, marga ma y martin felix. catedra mayor. 12:00h. ateneo_madrid sun 21 jun ateneo de madrid c. del prado, 21, madrid menil swing informacion y entradas (aqui). socios, codigo descuento en el area del socio. santa catalina, 10. pases: 20:00h. y 22:00h. ateneo_madrid sun 21 jun ateneo de madrid c. del prado, 21, madrid presentacion del libro &quot;visiones actuales de al-andalus&quot; seccion africanista. intervienen: flora saez, cofundadora de let’s go halal y coordinadora del programa nacional innova experiencia andalusi, es una de las mayores expertas en turismo halal de espana. su enfoque busca revalorizar el legado de al-andalus mas alla de los grandes monumentos y crear redes de destinos que atraigan al mercado musulman internacional; cristina f. barcala, artista plastica y docente. es ampliamente reconocida por ser pionera en espana en la docencia e investigacion de la historia y el patrimonio musical andalusi y andalusi-magrebi; alberto gomez font, coordinador de la obra, escritor y miembro de la directiva de cihar; abdo tounsi, coordinador de la obra, escritor y presidente de cihar. presenta y modera: basilio rodriguez canada. sala ramon y cajal. 19:30h. ateneo_madrid mon 22 jun ateneo de madrid c. del prado, 21, madrid javier elorrieta quinteto informacion y entradas (aqui). socios, codigo descuento en el area del socio. santa catalina, 10. pases: 20:00h. y 22:00h. ateneo_madrid mon 22 jun - tue 23 jun ateneo de madrid c. del prado, 21, madrid descontentos y desconciertos en tiempos de trump seccion de ciencias sociales. dialogo entre: francesc-marc alvaro y cristina monge. sala larra. 19:30h. ateneo_madrid wed 24 jun ateneo de madrid c. del prado, 21, madrid miguel rodriguez trio informacion y entradas (aqui). socios, codigo descuento en el area del socio. santa catalina, 10. pases: 20:00h. y 22:00h. ateneo_madrid wed 24 jun - thu 25 jun ateneo de madrid c. del prado, 21, madrid &quot;cantico espiritual&quot; (musica y palabras de san juan  de la cruz y santa teresa de jesus) seccion de literatura y universidad complutense de madrid. intervienen: pilar gonzalez espana, recitado; lorena munoz prieto, soprano; luzma ferrandez rivera, piano; y alan smith soto, recitador. presenta: margarita hernando de larramendi martinez. catedra mayor. 19:30h. curriculum y programa. ateneo_madrid fri 26 jun ateneo de madrid c. del prado, 21, madrid adrian costa blues band informacion y entradas (aqui). socios, codigo descuento en el area del socio. santa catalina, 10. pases: 20:00h. y 22:00h. ateneo_madrid fri 26 jun - sat 27 jun"><div class="venue-top"><h2 class="venue-title">Ateneo de Madrid</h2><span class="badge">9 music events</span></div><p class="meta">9 music events · 2026-06-20 to 2026-06-27</p><div class="venue-cards"><article class="card" data-card data-start="2026-06-20" data-end="2026-06-20" data-search="trio presenta &#x27;aurora solemne&#x27; ateneo de madrid c. del prado, 21, madrid venta de entradas (aqui). socios, codigo de descuento en el area del socio. 
+ 
+jaume angeles fite, violin), iago dominguez eiras, violonchelo) y paula belzunegui moreno, piano. catedra mayor. 19:30h. ateneo_madrid sat 20 jun 19:30"><div class="card-top"><img class="exhibition-thumb" src="https://ateneodemadrid.com/wp-content/uploads/2026/03/20.06.2026-Concierto-2.jpg" alt="Trío presenta &#x27;Aurora Solemne&#x27;" loading="lazy" decoding="async"><div class="card-copy"><h2>Trío presenta &#x27;Aurora Solemne&#x27;</h2><a class="link" href="https://ateneodemadrid.com/evento/trio-presenta-aurora-solemne/" target="_blank" rel="noreferrer">Open source page</a></div></div><p class="meta">Sat 20 Jun</p><p class="meta">Ateneo de Madrid · C. del Prado, 21, Madrid</p><p class="meta">19:30</p><p class="desc">Venta de entradas (aquí). Socios, código de descuento en el Área del Socio. 
+ 
+Jaume Angelès Fité, violín), Iago Domínguez Eiras, violonchelo) y Paula Belzunegui Moreno, piano. Cátedra Mayor. 19:30h.</p><p class="meta">Source: ateneo_madrid</p></article>
+<article class="card" data-card data-start="2026-06-21" data-end="2026-06-21" data-search="om - orquesta del mundo kirtan sinfonico ateneo de madrid c. del prado, 21, madrid venta de entradas (aqui). socios, codigo descuento en el area del socio. 
+ 
+invitados: martin flynn, camila ordonez, padmayana, joan condal, proyecto sacerdotisa, ursula giovanna, marga ma y martin felix. catedra mayor. 12:00h. ateneo_madrid sun 21 jun 12:00"><div class="card-top"><img class="exhibition-thumb" src="https://ateneodemadrid.com/wp-content/uploads/2026/06/21.06.2026.jpg" alt="OM - Orquesta del Mundo Kirtan Sinfónico" loading="lazy" decoding="async"><div class="card-copy"><h2>OM - Orquesta del Mundo Kirtan Sinfónico</h2><a class="link" href="https://ateneodemadrid.com/evento/om-orquesta-del-mundo-kirtan-sinfonico/" target="_blank" rel="noreferrer">Open source page</a></div></div><p class="meta">Sun 21 Jun</p><p class="meta">Ateneo de Madrid · C. del Prado, 21, Madrid</p><p class="meta">12:00</p><p class="desc">Venta de entradas (aquí). Socios, código descuento en el Área del Socio. 
+ 
+Invitados: Martín Flynn, Camila Ordóñez, Padmayana, Joan Condal, Proyecto Sacerdotisa, Úrsula Giovanna, Marga MA y Martín Félix. Cátedra Mayor. 12:00h.</p><p class="meta">Source: ateneo_madrid</p></article>
+<article class="card" data-card data-start="2026-06-21" data-end="2026-06-21" data-search="menil swing ateneo de madrid c. del prado, 21, madrid informacion y entradas (aqui). socios, codigo descuento en el area del socio. santa catalina, 10. pases: 20:00h. y 22:00h. ateneo_madrid sun 21 jun 20:00"><div class="card-top"><img class="exhibition-thumb" src="https://ateneodemadrid.com/wp-content/uploads/2026/06/21.06.2026-Cafe-Central.jpg" alt="Menil Swing" loading="lazy" decoding="async"><div class="card-copy"><h2>Menil Swing</h2><a class="link" href="https://ateneodemadrid.com/evento/menil-swing/" target="_blank" rel="noreferrer">Open source page</a></div></div><p class="meta">Sun 21 Jun</p><p class="meta">Ateneo de Madrid · C. del Prado, 21, Madrid</p><p class="meta">20:00</p><p class="desc">Información y entradas (aquí). Socios, código descuento en el Área del Socio. Santa Catalina, 10. Pases: 20:00h. y 22:00h.</p><p class="meta">Source: ateneo_madrid</p></article>
+<article class="card" data-card data-start="2026-06-22" data-end="2026-06-22" data-search="presentacion del libro &quot;visiones actuales de al-andalus&quot; ateneo de madrid c. del prado, 21, madrid seccion africanista. intervienen: flora saez, cofundadora de let’s go halal y coordinadora del programa nacional innova experiencia andalusi, es una de las mayores expertas en turismo halal de espana. su enfoque busca revalorizar el legado de al-andalus mas alla de los grandes monumentos y crear redes de destinos que atraigan al mercado musulman internacional; cristina f. barcala, artista plastica y docente. es ampliamente reconocida por ser pionera en espana en la docencia e investigacion de la historia y el patrimonio musical andalusi y andalusi-magrebi; alberto gomez font, coordinador de la obra, escritor y miembro de la directiva de cihar; abdo tounsi, coordinador de la obra, escritor y presidente de cihar. presenta y modera: basilio rodriguez canada. sala ramon y cajal. 19:30h. ateneo_madrid mon 22 jun 19:30"><div class="card-top"><img class="exhibition-thumb" src="https://ateneodemadrid.com/wp-content/uploads/2026/05/22.06.2026-Africanista-1.jpg" alt="Presentación del libro &quot;Visiones actuales de al-Ándalus&quot;" loading="lazy" decoding="async"><div class="card-copy"><h2>Presentación del libro &quot;Visiones actuales de al-Ándalus&quot;</h2><a class="link" href="https://ateneodemadrid.com/evento/presentacion-del-libro-visiones-actuales-de-al-andalus/" target="_blank" rel="noreferrer">Open source page</a></div></div><p class="meta">Mon 22 Jun</p><p class="meta">Ateneo de Madrid · C. del Prado, 21, Madrid</p><p class="meta">19:30</p><p class="desc">Sección Africanista. Intervienen: Flora Sáez, cofundadora de Let’s Go Halal y coordinadora del programa nacional Innova Experiencia Andalusí, es una de las mayores expertas en turismo halal de España. Su enfoque busca revalorizar el legado de Al-Ándalus más allá de los grandes monumentos y crear redes de destinos que atraigan al mercado musulmán internacional; Cristina F. Barcala, artista plástica y docente. Es ampliamente reconocida por ser pionera en España en la docencia e investigación de la Historia y el Patrimonio Musical Andalusí y Andalusí-Magrebí; Alberto Gómez Font, coordinador de la obra, escritor y miembro de la directiva de CIHAR; Abdo Tounsi, coordinador de la obra, escritor y presidente de CIHAR. Presenta y modera: Basilio Rodríguez Cañada. Sala Ramón y Cajal. 19:30h.</p><p class="meta">Source: ateneo_madrid</p></article>
+<article class="card" data-card data-start="2026-06-22" data-end="2026-06-23" data-search="javier elorrieta quinteto ateneo de madrid c. del prado, 21, madrid informacion y entradas (aqui). socios, codigo descuento en el area del socio. santa catalina, 10. pases: 20:00h. y 22:00h. ateneo_madrid mon 22 jun - tue 23 jun 20:00"><div class="card-top"><img class="exhibition-thumb" src="https://ateneodemadrid.com/wp-content/uploads/2026/06/22-23.06.2026-Cafe-Central.jpg" alt="Javier Elorrieta Quinteto" loading="lazy" decoding="async"><div class="card-copy"><h2>Javier Elorrieta Quinteto</h2><a class="link" href="https://ateneodemadrid.com/evento/javier-elorrieta-quinteto/" target="_blank" rel="noreferrer">Open source page</a></div></div><p class="meta">Mon 22 Jun - Tue 23 Jun</p><p class="meta">Ateneo de Madrid · C. del Prado, 21, Madrid</p><p class="meta">20:00</p><p class="desc">Información y entradas (aquí). Socios, código descuento en el Área del Socio. Santa Catalina, 10. Pases: 20:00h. y 22:00h.</p><p class="meta">Source: ateneo_madrid</p></article>
+<article class="card" data-card data-start="2026-06-24" data-end="2026-06-24" data-search="descontentos y desconciertos en tiempos de trump ateneo de madrid c. del prado, 21, madrid seccion de ciencias sociales. dialogo entre: francesc-marc alvaro y cristina monge. sala larra. 19:30h. ateneo_madrid wed 24 jun 19:30"><div class="card-top"><img class="exhibition-thumb" src="https://ateneodemadrid.com/wp-content/uploads/2026/06/24.06.2026-Sociales2-3.jpg" alt="Descontentos y desconciertos en tiempos de Trump" loading="lazy" decoding="async"><div class="card-copy"><h2>Descontentos y desconciertos en tiempos de Trump</h2><a class="link" href="https://ateneodemadrid.com/evento/presentacion-de-los-libros-descontentos-y-desconciertos-en-tiempos-de-trump/" target="_blank" rel="noreferrer">Open source page</a></div></div><p class="meta">Wed 24 Jun</p><p class="meta">Ateneo de Madrid · C. del Prado, 21, Madrid</p><p class="meta">19:30</p><p class="desc">Sección de Ciencias Sociales. Diálogo entre: Francesç-Marc Álvaro y Cristina Monge. Sala Larra. 19:30h.</p><p class="meta">Source: ateneo_madrid</p></article>
+<article class="card" data-card data-start="2026-06-24" data-end="2026-06-25" data-search="miguel rodriguez trio ateneo de madrid c. del prado, 21, madrid informacion y entradas (aqui). socios, codigo descuento en el area del socio. santa catalina, 10. pases: 20:00h. y 22:00h. ateneo_madrid wed 24 jun - thu 25 jun 20:00"><div class="card-top"><img class="exhibition-thumb" src="https://ateneodemadrid.com/wp-content/uploads/2026/06/24-25.06.2026-Cafe-Central.jpg" alt="Miguel Rodríguez Trío" loading="lazy" decoding="async"><div class="card-copy"><h2>Miguel Rodríguez Trío</h2><a class="link" href="https://ateneodemadrid.com/evento/miguel-rodriguez-trio/" target="_blank" rel="noreferrer">Open source page</a></div></div><p class="meta">Wed 24 Jun - Thu 25 Jun</p><p class="meta">Ateneo de Madrid · C. del Prado, 21, Madrid</p><p class="meta">20:00</p><p class="desc">Información y entradas (aquí). Socios, código descuento en el Área del Socio. Santa Catalina, 10. Pases: 20:00h. y 22:00h.</p><p class="meta">Source: ateneo_madrid</p></article>
+<article class="card" data-card data-start="2026-06-26" data-end="2026-06-26" data-search="&quot;cantico espiritual&quot; (musica y palabras de san juan  de la cruz y santa teresa de jesus) ateneo de madrid c. del prado, 21, madrid seccion de literatura y universidad complutense de madrid. intervienen: pilar gonzalez espana, recitado; lorena munoz prieto, soprano; luzma ferrandez rivera, piano; y alan smith soto, recitador. presenta: margarita hernando de larramendi martinez. catedra mayor. 19:30h. curriculum y programa. ateneo_madrid fri 26 jun 19:30"><div class="card-top"><img class="exhibition-thumb" src="https://ateneodemadrid.com/wp-content/uploads/2026/05/26.06.2026-Literatura-1.jpg" alt="&quot;Cántico espiritual&quot; (Música y palabras de San Juan  de la Cruz y Santa Teresa de Jesús)" loading="lazy" decoding="async"><div class="card-copy"><h2>&quot;Cántico espiritual&quot; (Música y palabras de San Juan  de la Cruz y Santa Teresa de Jesús)</h2><a class="link" href="https://ateneodemadrid.com/evento/cantico-espiritual-musica-y-palabras-de-san-juan-de-la-cruz-y-santa-teresa-de-jesus/" target="_blank" rel="noreferrer">Open source page</a></div></div><p class="meta">Fri 26 Jun</p><p class="meta">Ateneo de Madrid · C. del Prado, 21, Madrid</p><p class="meta">19:30</p><p class="desc">Sección de Literatura y Universidad Complutense de Madrid. Intervienen: Pilar González España, recitado; Lorena Muñoz Prieto, soprano; Luzma Ferrández Rivera, piano; y Alan Smith Soto, recitador. Presenta: Margarita Hernando de Larramendi Martínez. Cátedra Mayor. 19:30h. Curriculum y programa.</p><p class="meta">Source: ateneo_madrid</p></article>
+<article class="card" data-card data-start="2026-06-26" data-end="2026-06-27" data-search="adrian costa blues band ateneo de madrid c. del prado, 21, madrid informacion y entradas (aqui). socios, codigo descuento en el area del socio. santa catalina, 10. pases: 20:00h. y 22:00h. ateneo_madrid fri 26 jun - sat 27 jun 20:00"><div class="card-top"><img class="exhibition-thumb" src="https://ateneodemadrid.com/wp-content/uploads/2026/06/26-27.06.2026-Cafe-Central.jpg" alt="Adrián Costa Blues Band" loading="lazy" decoding="async"><div class="card-copy"><h2>Adrián Costa Blues Band</h2><a class="link" href="https://ateneodemadrid.com/evento/adrian-costa-blues-band/" target="_blank" rel="noreferrer">Open source page</a></div></div><p class="meta">Fri 26 Jun - Sat 27 Jun</p><p class="meta">Ateneo de Madrid · C. del Prado, 21, Madrid</p><p class="meta">20:00</p><p class="desc">Información y entradas (aquí). Socios, código descuento en el Área del Socio. Santa Catalina, 10. Pases: 20:00h. y 22:00h.</p><p class="meta">Source: ateneo_madrid</p></article></div></section>
+<section class="venue-block" data-group data-search="gruta 77 calle del cuclillo, 6, madrid miseria y kompania + deklarados kulpables precio de las entradas: 10/13€ entradas a la venta en movingtickets bio/enlaces bandas: miseria y kompania_facebook + miseria y kompania_instagram deklarados kulpables_facebook + deklarados kulpables_instagram mas informacion: miseria y kompania, banda de punk-hardcore gruta77 sat 20 jun gruta 77 calle del cuclillo, 6, madrid the casualties (eeuu) + figure 8 knot; circuito red de salas precio de las entradas: 17€/20€ entradas a la venta en movingtickets bio/enlaces bandas: the casualties_facebook + the casualties_instagram figure 8 knot_instagram mas informacion: nueva gira de una de las bandas mas antigua y gruta77 mon 22 jun gruta 77 calle del cuclillo, 6, madrid ravagers (eeuu) + rojo omega; circuito red de salas precio de las entradas: 12€/15€ entradas a la venta en movingtickets bio/enlaces bandas: ravagers_facebook + ravagers_instagram + ravagers_spotify rojo omega_facebook + rojo omega_bandcamp + rojo omega_instagram mas informacion: ravagers son un cuarteto gruta77 thu 25 jun gruta 77 calle del cuclillo, 6, madrid genderlexx + lavandera boyera precio de las entradas: 10€/13€ entradas a la venta movingtickets bio/enlaces bandas: genderlexx_facebook + genderlexx_bandcamp + genderlexx_instagram lavandera boyera_instagram mas informacion: nos traen el queerpunk a carabanchel gruta77 fri 26 jun gruta 77 calle del cuclillo, 6, madrid radio clash (tributo a the clash) precio de las entradas: 7€/10€ entradas a la venta en movingtickets bio/enlaces bandas: radio clash_intagram mas informacion: radio clash comparte con the clash ellos los origenes musicales en un barrio de la periferia, gruta77 sat 27 jun gruta 77 calle del cuclillo, 6, madrid los hijos de la kalle + puto donal + glandes glandes; festival punk precio de las entradas: 7€/10€ entradas a la venta en movingtickets bio/enlaces bandas: los hijos de la kalle_facebook glandes glandes_facebook + glandes glandes_instagram puto donal_instagram gruta77 sat 4 jul"><div class="venue-top"><h2 class="venue-title">Gruta 77</h2><span class="badge">6 music events</span></div><p class="meta">6 music events · 2026-06-20 to 2026-07-04</p><div class="venue-cards"><article class="card" data-card data-start="2026-06-20" data-end="2026-06-20" data-search="miseria y kompania + deklarados kulpables gruta 77 calle del cuclillo, 6, madrid precio de las entradas: 10/13€ entradas a la venta en movingtickets bio/enlaces bandas: miseria y kompania_facebook + miseria y kompania_instagram deklarados kulpables_facebook + deklarados kulpables_instagram mas informacion: miseria y kompania, banda de punk-hardcore gruta77 sat 20 jun 21:30"><div class="card-top"><img class="exhibition-thumb" src="http://gruta77.com/wp-content/uploads/2026/02/20_junio_web.jpg" alt="Miseria Y Kompañía + Deklarados Kulpables" loading="lazy" decoding="async"><div class="card-copy"><h2>Miseria Y Kompañía + Deklarados Kulpables</h2><a class="link" href="https://gruta77.com/events/miseria-y-kompania-deklarados-kulpables/var/ri-0.l-L2" target="_blank" rel="noreferrer">Open source page</a></div></div><p class="meta">Sat 20 Jun</p><p class="meta">Gruta 77 · Calle del Cuclillo, 6, Madrid</p><p class="meta">21:30</p><p class="desc">Precio de las entradas: 10/13€ Entradas a la venta en movingtickets Bio/enlaces bandas: Miseria y Kompañía_facebook + Miseria y Kompañía_instagram Deklarados Kulpables_facebook + Deklarados Kulpables_instagram Más información: Miseria y Kompañía, banda de punk-hardcore</p><p class="meta">Source: gruta77</p></article>
+<article class="card" data-card data-start="2026-06-22" data-end="2026-06-22" data-search="the casualties (eeuu) + figure 8 knot; circuito red de salas gruta 77 calle del cuclillo, 6, madrid precio de las entradas: 17€/20€ entradas a la venta en movingtickets bio/enlaces bandas: the casualties_facebook + the casualties_instagram figure 8 knot_instagram mas informacion: nueva gira de una de las bandas mas antigua y gruta77 mon 22 jun 21:00"><div class="card-top"><img class="exhibition-thumb" src="http://gruta77.com/wp-content/uploads/2026/05/22_junio_web.jpg" alt="The Casualties (EEUU) + Figure 8 Knot; Circuito Red De Salas" loading="lazy" decoding="async"><div class="card-copy"><h2>The Casualties (EEUU) + Figure 8 Knot; Circuito Red De Salas</h2><a class="link" href="https://gruta77.com/events/the-casualties-eeuu-figure-8-knot/var/ri-0.l-L2" target="_blank" rel="noreferrer">Open source page</a></div></div><p class="meta">Mon 22 Jun</p><p class="meta">Gruta 77 · Calle del Cuclillo, 6, Madrid</p><p class="meta">21:00</p><p class="desc">Precio de las entradas: 17€/20€ Entradas a la venta en movingtickets Bio/enlaces bandas: The Casualties_facebook + The Casualties_instagram Figure 8 Knot_instagram Más información: Nueva gira de una de las bandas más antigua y</p><p class="meta">Source: gruta77</p></article>
+<article class="card" data-card data-start="2026-06-25" data-end="2026-06-25" data-search="ravagers (eeuu) + rojo omega; circuito red de salas gruta 77 calle del cuclillo, 6, madrid precio de las entradas: 12€/15€ entradas a la venta en movingtickets bio/enlaces bandas: ravagers_facebook + ravagers_instagram + ravagers_spotify rojo omega_facebook + rojo omega_bandcamp + rojo omega_instagram mas informacion: ravagers son un cuarteto gruta77 thu 25 jun 21:00"><div class="card-top"><img class="exhibition-thumb" src="http://gruta77.com/wp-content/uploads/2026/05/25_junio_web.jpg" alt="Ravagers (EEUU) + Rojo Omega; Circuito Red De Salas" loading="lazy" decoding="async"><div class="card-copy"><h2>Ravagers (EEUU) + Rojo Omega; Circuito Red De Salas</h2><a class="link" href="https://gruta77.com/events/ravagers-eeuu-banda-invitada-circuito-red-de-salas/var/ri-0.l-L2" target="_blank" rel="noreferrer">Open source page</a></div></div><p class="meta">Thu 25 Jun</p><p class="meta">Gruta 77 · Calle del Cuclillo, 6, Madrid</p><p class="meta">21:00</p><p class="desc">Precio de las entradas: 12€/15€ Entradas a la venta en movingtickets Bio/enlaces bandas: Ravagers_facebook + Ravagers_instagram + Ravagers_spotify Rojo Omega_facebook + Rojo Omega_bandcamp + Rojo Omega_instagram Más información: Ravagers son un cuarteto</p><p class="meta">Source: gruta77</p></article>
+<article class="card" data-card data-start="2026-06-26" data-end="2026-06-26" data-search="genderlexx + lavandera boyera gruta 77 calle del cuclillo, 6, madrid precio de las entradas: 10€/13€ entradas a la venta movingtickets bio/enlaces bandas: genderlexx_facebook + genderlexx_bandcamp + genderlexx_instagram lavandera boyera_instagram mas informacion: nos traen el queerpunk a carabanchel gruta77 fri 26 jun 21:30"><div class="card-top"><img class="exhibition-thumb" src="http://gruta77.com/wp-content/uploads/2026/05/26_junio_web.jpg" alt="Genderlexx + Lavandera Boyera" loading="lazy" decoding="async"><div class="card-copy"><h2>Genderlexx + Lavandera Boyera</h2><a class="link" href="https://gruta77.com/events/genderlexx-lavandera-boyera/var/ri-0.l-L2" target="_blank" rel="noreferrer">Open source page</a></div></div><p class="meta">Fri 26 Jun</p><p class="meta">Gruta 77 · Calle del Cuclillo, 6, Madrid</p><p class="meta">21:30</p><p class="desc">Precio de las entradas: 10€/13€ Entradas a la venta movingtickets Bio/enlaces bandas: Genderlexx_facebook + Genderlexx_bandcamp + Genderlexx_instagram Lavandera Boyera_instagram Más información: Nos traen el queerpunk a Carabanchel</p><p class="meta">Source: gruta77</p></article>
+<article class="card" data-card data-start="2026-06-27" data-end="2026-06-27" data-search="radio clash (tributo a the clash) gruta 77 calle del cuclillo, 6, madrid precio de las entradas: 7€/10€ entradas a la venta en movingtickets bio/enlaces bandas: radio clash_intagram mas informacion: radio clash comparte con the clash ellos los origenes musicales en un barrio de la periferia, gruta77 sat 27 jun 21:30"><div class="card-top"><img class="exhibition-thumb" src="http://gruta77.com/wp-content/uploads/2026/05/27_junio-Sebas_web.jpg" alt="Radio Clash (tributo a The Clash)" loading="lazy" decoding="async"><div class="card-copy"><h2>Radio Clash (tributo a The Clash)</h2><a class="link" href="https://gruta77.com/events/radio-clash-2/var/ri-0.l-L2" target="_blank" rel="noreferrer">Open source page</a></div></div><p class="meta">Sat 27 Jun</p><p class="meta">Gruta 77 · Calle del Cuclillo, 6, Madrid</p><p class="meta">21:30</p><p class="desc">Precio de las entradas: 7€/10€ Entradas a la venta en movingtickets Bio/enlaces bandas: Radio Clash_intagram Más información: Radio Clash comparte con The Clash ellos los orígenes musicales en un barrio de la periferia,</p><p class="meta">Source: gruta77</p></article>
+<article class="card" data-card data-start="2026-07-04" data-end="2026-07-04" data-search="los hijos de la kalle + puto donal + glandes glandes; festival punk gruta 77 calle del cuclillo, 6, madrid precio de las entradas: 7€/10€ entradas a la venta en movingtickets bio/enlaces bandas: los hijos de la kalle_facebook glandes glandes_facebook + glandes glandes_instagram puto donal_instagram gruta77 sat 4 jul 21:30"><div class="card-top"><img class="exhibition-thumb" src="http://gruta77.com/wp-content/uploads/2026/06/4_julio_web.jpg" alt="Los Hijos De La Kalle + Puto Donal + Glandes Glandes; Festival Punk" loading="lazy" decoding="async"><div class="card-copy"><h2>Los Hijos De La Kalle + Puto Donal + Glandes Glandes; Festival Punk</h2><a class="link" href="https://gruta77.com/events/los-hijos-de-la-kalle-puto-donal-glandes-glandes-festival-punk/var/ri-0.l-L2" target="_blank" rel="noreferrer">Open source page</a></div></div><p class="meta">Sat 4 Jul</p><p class="meta">Gruta 77 · Calle del Cuclillo, 6, Madrid</p><p class="meta">21:30</p><p class="desc">Precio de las entradas: 7€/10€ Entradas a la venta en movingtickets Bio/enlaces bandas: Los Hijos de la Kalle_facebook Glandes Glandes_facebook + Glandes Glandes_instagram Puto Donal_instagram</p><p class="meta">Source: gruta77</p></article></div></section>
+<section class="venue-block" data-group data-search="matadero madrid plaza de legazpi, 8, madrid demm26. concierto matinal familiar. sabado 20 de junio. la fantastica banda con un repertorio especialmente indicado para el publico familiar pleno de sensibilidad, buen gusto y saber hacer. formada por interpretes de reputado prestigio y trayectoria consolidada, presenta shows pegadizos y didacticos con canciones pegadizas y bailongas. matadero sat 20 jun matadero madrid plaza de legazpi, 8, madrid demm26. conciertos sabado 20 de junio. pablopablo, alizzz, depresion sonora y akazie demm reune a tres nombres clave del nuevo pop. carismatico y talentoso, pablopablo es una de las grandes revelaciones de los ultimos tiempos, hecho condensado en su opera prima, canciones en mi . a estas alturas, alizzz ya no necesita presentacion, tanto en su faceta como productor (c. tangana, amaia) y tambien como solista. depresion sonora es el estandarte de la escena postpunk, habiendose elevado desde hace algun tiempo como portavoz oficioso de su generacion. la noche tambien terminara con baile y electronica, en este caso a cargo de akazie. 20h. pablopablo carismatico y talentoso, pablopablo (pablo drexler) es una de las grandes revelaciones de los ultimos tiempos, circunstancia condensada en su opera prima,canciones en mi. ademas de ser colaborador esencial de artistas de la talla de guitarricadelafuente y c. tangana, pablopablo se proyecta con su pop pluscuamperfecto y absolutamente contemporaneo como uno de los grandes del panorama musical. 21h. depresion sonora depresion sonora (marcos crespo) es portavoz oficioso de su generacion con un punado de canciones que ya son himnos. los perros no entienden internet (y yo no entiendo de sentimientos) , su segundo album, refuerza y multiplica esa capacidad para conectar con los deseos y frustraciones de la gente de su edad, a traves de pop oscuro y post-punk irresistible. 22h. alizzz alizzz (cristian quirante), ya no necesita presentacion a estas alturas, tanto en su faceta como productor y tambien como solista. partiendo de un pop postmoderno e irresistible, sus canciones son grandes hits automaticos que se acercan, segun el caso, al pop contemporaneo, al trap, a la electronica o el regueton. ha compuesto para artistas como rosalia, amaia, becky g, lola indigo o aitana, demostrando su gran intuicion melodica. 23.15h. akazie en constante busqueda de terrenos inexplorados, partiendo de la electronica para construir su propio camino y ahora instalada en madrid, la dj es una de las mas firmes realidades de la escena nacional. matadero sat 20 jun matadero madrid plaza de legazpi, 8, madrid demm26. concierto matinal familiar. domingo 21 de junio. le parody una actuacion especial para todos los publicos que demostrara que el riesgo y la experimentacion tambien tienen cabida dentro de los espectaculos familiares. matadero sun 21 jun matadero madrid plaza de legazpi, 8, madrid piano city 2026. david cabanas alonso chopin: estudio n.o 11 op. 10; debussy: fuegos artificiales; oscar gallego covarrubias: paisaje (estreno absoluto con el apoyo de idealista); schumann: fantasia op. 17. clasica. matadero sat 27 jun matadero madrid plaza de legazpi, 8, madrid piano city 2026. monica lopez habitar y marchar, improvisacion modal libre. jazz. matadero sat 27 jun matadero madrid plaza de legazpi, 8, madrid piano city 2026. yuley diaz crisalida; mariposa; h. arlen: over the rainbow: y. diaz: oye, guajira!; c. valdes: de la habana a paris; y. diaz: nadie con tu luz; ella; gershwin: summertime; y. diaz: soledad 518; preludio flamenco; la cubanola; cajkovskij en la habana. jazz latino. matadero sat 27 jun"><div class="venue-top"><h2 class="venue-title">Matadero Madrid</h2><span class="badge">6 music events</span></div><p class="meta">6 music events · 2026-06-20 to 2026-06-27</p><div class="venue-cards"><article class="card" data-card data-start="2026-06-20" data-end="2026-06-20" data-search="demm26. concierto matinal familiar. sabado 20 de junio. la fantastica banda matadero madrid plaza de legazpi, 8, madrid con un repertorio especialmente indicado para el publico familiar pleno de sensibilidad, buen gusto y saber hacer. formada por interpretes de reputado prestigio y trayectoria consolidada, presenta shows pegadizos y didacticos con canciones pegadizas y bailongas. matadero sat 20 jun 12:00"><div class="card-top"><img class="exhibition-thumb" src="https://www.mataderomadrid.org/sites/default/files/media/image/2026/04/line_up_sabado_infantil_ficha_web2.png" alt="DEMM26. Concierto matinal familiar. Sábado 20 de junio. La Fantástica Banda" loading="lazy" decoding="async"><div class="card-copy"><h2>DEMM26. Concierto matinal familiar. Sábado 20 de junio. La Fantástica Banda</h2><a class="link" href="https://www.mataderomadrid.org/programacion/demm26-concierto-matinal-familiar-sabado-20-de-junio-la-fantastica-banda" target="_blank" rel="noreferrer">Open source page</a></div></div><p class="meta">Sat 20 Jun</p><p class="meta">Matadero Madrid · Plaza de Legazpi, 8, Madrid</p><p class="meta">12:00</p><p class="desc">Con un repertorio especialmente indicado para el público familiar pleno de sensibilidad, buen gusto y saber hacer. Formada por intérpretes de reputado prestigio y trayectoria consolidada, presenta shows pegadizos y didácticos con canciones pegadizas y bailongas.</p><p class="meta">Source: matadero</p></article>
+<article class="card" data-card data-start="2026-06-20" data-end="2026-06-20" data-search="demm26. conciertos sabado 20 de junio. pablopablo, alizzz, depresion sonora y akazie matadero madrid plaza de legazpi, 8, madrid demm reune a tres nombres clave del nuevo pop. carismatico y talentoso, pablopablo es una de las grandes revelaciones de los ultimos tiempos, hecho condensado en su opera prima, canciones en mi . a estas alturas, alizzz ya no necesita presentacion, tanto en su faceta como productor (c. tangana, amaia) y tambien como solista. depresion sonora es el estandarte de la escena postpunk, habiendose elevado desde hace algun tiempo como portavoz oficioso de su generacion. la noche tambien terminara con baile y electronica, en este caso a cargo de akazie. 20h. pablopablo carismatico y talentoso, pablopablo (pablo drexler) es una de las grandes revelaciones de los ultimos tiempos, circunstancia condensada en su opera prima,canciones en mi. ademas de ser colaborador esencial de artistas de la talla de guitarricadelafuente y c. tangana, pablopablo se proyecta con su pop pluscuamperfecto y absolutamente contemporaneo como uno de los grandes del panorama musical. 21h. depresion sonora depresion sonora (marcos crespo) es portavoz oficioso de su generacion con un punado de canciones que ya son himnos. los perros no entienden internet (y yo no entiendo de sentimientos) , su segundo album, refuerza y multiplica esa capacidad para conectar con los deseos y frustraciones de la gente de su edad, a traves de pop oscuro y post-punk irresistible. 22h. alizzz alizzz (cristian quirante), ya no necesita presentacion a estas alturas, tanto en su faceta como productor y tambien como solista. partiendo de un pop postmoderno e irresistible, sus canciones son grandes hits automaticos que se acercan, segun el caso, al pop contemporaneo, al trap, a la electronica o el regueton. ha compuesto para artistas como rosalia, amaia, becky g, lola indigo o aitana, demostrando su gran intuicion melodica. 23.15h. akazie en constante busqueda de terrenos inexplorados, partiendo de la electronica para construir su propio camino y ahora instalada en madrid, la dj es una de las mas firmes realidades de la escena nacional. matadero sat 20 jun 18:30"><div class="card-top"><img class="exhibition-thumb" src="https://www.mataderomadrid.org/sites/default/files/media/image/2026/04/line_up_20may.jpg" alt="DEMM26. Conciertos sábado 20 de junio. pablopablo, Alizzz, Depresión Sonora y Akazie" loading="lazy" decoding="async"><div class="card-copy"><h2>DEMM26. Conciertos sábado 20 de junio. pablopablo, Alizzz, Depresión Sonora y Akazie</h2><a class="link" href="https://www.mataderomadrid.org/programacion/demm26-conciertos-sabado-20-de-junio-pablopablo-alizzz-depresion-sonora-y-akazie" target="_blank" rel="noreferrer">Open source page</a></div></div><p class="meta">Sat 20 Jun</p><p class="meta">Matadero Madrid · Plaza de Legazpi, 8, Madrid</p><p class="meta">18:30</p><p class="desc">DEMM reúne a tres nombres clave del nuevo pop. Carismático y talentoso, pablopablo es una de las grandes revelaciones de los últimos tiempos, hecho condensado en su ópera prima, Canciones en Mi . A estas alturas, Alizzz ya no necesita presentación, tanto en su faceta como productor (C. Tangana, Amaia) y también como solista. Depresión Sonora es el estandarte de la escena postpunk, habiéndose elevado desde hace algún tiempo como portavoz oficioso de su generación. La noche también terminará con baile y electrónica, en este caso a cargo de Akazie. 20h. pablopablo Carismático y talentoso, pablopablo (Pablo Drexler) es una de las grandes revelaciones de los últimos tiempos, circunstancia condensada en su ópera prima,Canciones en Mi. Además de ser colaborador esencial de artistas de la talla de Guitarricadelafuente y C. Tangana, pablopablo se proyecta con su pop pluscuamperfecto y absolutamente contemporáneo como uno de los grandes del panorama musical. 21h. Depresión Sonora Depresión Sonora (Marcos Crespo) es portavoz oficioso de su generación con un puñado de canciones que ya son himnos. Los perros no entienden Internet (y yo no entiendo de sentimientos) , su segundo álbum, refuerza y multiplica esa capacidad para conectar con los deseos y frustraciones de la gente de su edad, a través de pop oscuro y post-punk irresistible. 22h. Alizzz Alizzz (Cristian Quirante), ya no necesita presentación a estas alturas, tanto en su faceta como productor y también como solista. Partiendo de un pop postmoderno e irresistible, sus canciones son grandes hits automáticos que se acercan, según el caso, al pop contemporáneo, al trap, a la electrónica o el reguetón. Ha compuesto para artistas como Rosalía, Amaia, Becky G, Lola Índigo o Aitana, demostrando su gran intuición melódica. 23.15h. Akazie En constante búsqueda de terrenos inexplorados, partiendo de la electrónica para construir su propio camino y ahora instalada en Madrid, la DJ es una de las más firmes realidades de la escena nacional.</p><p class="meta">Source: matadero</p></article>
+<article class="card" data-card data-start="2026-06-21" data-end="2026-06-21" data-search="demm26. concierto matinal familiar. domingo 21 de junio. le parody matadero madrid plaza de legazpi, 8, madrid una actuacion especial para todos los publicos que demostrara que el riesgo y la experimentacion tambien tienen cabida dentro de los espectaculos familiares. matadero sun 21 jun 12:00"><div class="card-top"><img class="exhibition-thumb" src="https://www.mataderomadrid.org/sites/default/files/media/image/2026/04/line_up_domingo_infantil_ficha_web2_0.png" alt="DEMM26. Concierto matinal familiar. Domingo 21 de junio. Le Parody" loading="lazy" decoding="async"><div class="card-copy"><h2>DEMM26. Concierto matinal familiar. Domingo 21 de junio. Le Parody</h2><a class="link" href="https://www.mataderomadrid.org/programacion/demm26-concierto-matinal-familiar-domingo-21-de-junio-le-parody" target="_blank" rel="noreferrer">Open source page</a></div></div><p class="meta">Sun 21 Jun</p><p class="meta">Matadero Madrid · Plaza de Legazpi, 8, Madrid</p><p class="meta">12:00</p><p class="desc">Una actuación especial para todos los públicos que demostrará que el riesgo y la experimentación también tienen cabida dentro de los espectáculos familiares.</p><p class="meta">Source: matadero</p></article>
+<article class="card" data-card data-start="2026-06-27" data-end="2026-06-27" data-search="piano city 2026. david cabanas alonso matadero madrid plaza de legazpi, 8, madrid chopin: estudio n.o 11 op. 10; debussy: fuegos artificiales; oscar gallego covarrubias: paisaje (estreno absoluto con el apoyo de idealista); schumann: fantasia op. 17. clasica. matadero sat 27 jun 17:00"><div class="card-top"><img class="exhibition-thumb" src="https://www.mataderomadrid.org/sites/default/files/media/image/2026/06/david_cabanas_alonso.jpg" alt="Piano City 2026. David Cabañas Alonso" loading="lazy" decoding="async"><div class="card-copy"><h2>Piano City 2026. David Cabañas Alonso</h2><a class="link" href="https://www.mataderomadrid.org/programacion/piano-city-2026-david-cabanas-alonso" target="_blank" rel="noreferrer">Open source page</a></div></div><p class="meta">Sat 27 Jun</p><p class="meta">Matadero Madrid · Plaza de Legazpi, 8, Madrid</p><p class="meta">17:00</p><p class="desc">Chopin: Estudio n.º 11 op. 10; Debussy: Fuegos artificiales; Óscar Gallego Covarrubias: Paisaje (estreno absoluto con el apoyo de Idealista); Schumann: Fantasía op. 17. CLÁSICA.</p><p class="meta">Source: matadero</p></article>
+<article class="card" data-card data-start="2026-06-27" data-end="2026-06-27" data-search="piano city 2026. monica lopez matadero madrid plaza de legazpi, 8, madrid habitar y marchar, improvisacion modal libre. jazz. matadero sat 27 jun 18:15"><div class="card-top"><img class="exhibition-thumb" src="https://www.mataderomadrid.org/sites/default/files/media/image/2026/06/monica_lopez.jpg" alt="Piano City 2026. Mónica López" loading="lazy" decoding="async"><div class="card-copy"><h2>Piano City 2026. Mónica López</h2><a class="link" href="https://www.mataderomadrid.org/programacion/piano-city-2026-monica-lopez" target="_blank" rel="noreferrer">Open source page</a></div></div><p class="meta">Sat 27 Jun</p><p class="meta">Matadero Madrid · Plaza de Legazpi, 8, Madrid</p><p class="meta">18:15</p><p class="desc">Habitar y marchar, improvisación modal libre. JAZZ.</p><p class="meta">Source: matadero</p></article>
+<article class="card" data-card data-start="2026-06-27" data-end="2026-06-27" data-search="piano city 2026. yuley diaz matadero madrid plaza de legazpi, 8, madrid crisalida; mariposa; h. arlen: over the rainbow: y. diaz: oye, guajira!; c. valdes: de la habana a paris; y. diaz: nadie con tu luz; ella; gershwin: summertime; y. diaz: soledad 518; preludio flamenco; la cubanola; cajkovskij en la habana. jazz latino. matadero sat 27 jun 19:30"><div class="card-top"><img class="exhibition-thumb" src="https://www.mataderomadrid.org/sites/default/files/media/image/2026/06/yulei_diaz.jpg" alt="Piano City 2026. Yuley Díaz" loading="lazy" decoding="async"><div class="card-copy"><h2>Piano City 2026. Yuley Díaz</h2><a class="link" href="https://www.mataderomadrid.org/programacion/piano-city-2026-yuley-diaz" target="_blank" rel="noreferrer">Open source page</a></div></div><p class="meta">Sat 27 Jun</p><p class="meta">Matadero Madrid · Plaza de Legazpi, 8, Madrid</p><p class="meta">19:30</p><p class="desc">Crisálida; Mariposa; H. Arlen: Over the rainbow: Y. Díaz: Oye, Guajira!; C. Valdés: De la Habana a París; Y. Díaz: Nadie con tu luz; Ella; Gershwin: Summertime; Y. Díaz: Soledad 518; Preludio Flamenco; La Cubañola; Cajkovskij en la Habana. JAZZ LATINO.</p><p class="meta">Source: matadero</p></article></div></section>
+<section class="venue-block" data-group data-search="sala villanos calle de bernardino obregon, 18, madrid novela grafica de standstill concierto / pop / rock sala_villanos sat 20 jun sala villanos calle de bernardino obregon, 18, madrid amanda shires concierto / villanos del jazz sala_villanos tue 23 jun sala villanos calle de bernardino obregon, 18, madrid walter sax big band concierto / jazz sala_villanos wed 24 jun sala villanos calle de bernardino obregon, 18, madrid the allergies (live) concierto / momentos alhambra sala_villanos thu 25 jun sala villanos calle de bernardino obregon, 18, madrid son cremita concierto / latin sala_villanos fri 26 jun sala villanos calle de bernardino obregon, 18, madrid noches de la parceria presenta: concierto / latin sala_villanos sat 27 jun sala villanos calle de bernardino obregon, 18, madrid busty and the bass concierto / villanos del jazz sala_villanos sun 28 jun sala villanos calle de bernardino obregon, 18, madrid john primer and giles robson concierto / soul &amp; r&amp;b sala_villanos tue 30 jun sala villanos calle de bernardino obregon, 18, madrid ghost-note concierto / villanos del jazz sala_villanos wed 1 jul sala villanos calle de bernardino obregon, 18, madrid bianca gismonti &amp; manuel de oliveira concierto / villanos del jazz sala_villanos thu 2 jul sala villanos calle de bernardino obregon, 18, madrid festival colectivo yupanqui concierto / latin sala_villanos fri 3 jul sala villanos calle de bernardino obregon, 18, madrid nestor lo y los caminantes concierto / latin / pop sala_villanos sat 4 jul"><div class="venue-top"><h2 class="venue-title">Sala Villanos</h2><span class="badge">12 music events</span></div><p class="meta">12 music events · 2026-06-20 to 2026-07-04</p><div class="venue-cards"><article class="card" data-card data-start="2026-06-20" data-end="2026-06-20" data-search="novela grafica de standstill sala villanos calle de bernardino obregon, 18, madrid concierto / pop / rock sala_villanos sat 20 jun 19:00"><div class="card-top"><img class="exhibition-thumb" src="https://salavillanos.es/wp-content/uploads/2026/05/Sin_titulo-3.jpg" alt="Novela Grafica De Standstill" loading="lazy" decoding="async"><div class="card-copy"><h2>Novela Grafica De Standstill</h2><a class="link" href="https://salavillanos.es/evento/novela-grafica-de-standstill/" target="_blank" rel="noreferrer">Open source page</a></div></div><p class="meta">Sat 20 Jun</p><p class="meta">Sala Villanos · Calle de Bernardino Obregon, 18, Madrid</p><p class="meta">19:00</p><p class="desc">Concierto / Pop / Rock</p><p class="meta">Source: sala_villanos</p></article>
+<article class="card" data-card data-start="2026-06-23" data-end="2026-06-23" data-search="amanda shires sala villanos calle de bernardino obregon, 18, madrid concierto / villanos del jazz sala_villanos tue 23 jun 21:00"><div class="card-top"><img class="exhibition-thumb" src="https://salavillanos.es/wp-content/uploads/2026/02/AMANDA_1920X1080.jpg" alt="Amanda Shires" loading="lazy" decoding="async"><div class="card-copy"><h2>Amanda Shires</h2><a class="link" href="https://salavillanos.es/evento/amanda-shires-ticket-header-streetlights-and-stars-european-tour/" target="_blank" rel="noreferrer">Open source page</a></div></div><p class="meta">Tue 23 Jun</p><p class="meta">Sala Villanos · Calle de Bernardino Obregon, 18, Madrid</p><p class="meta">21:00</p><p class="desc">Concierto / Villanos del Jazz</p><p class="meta">Source: sala_villanos</p></article>
+<article class="card" data-card data-start="2026-06-24" data-end="2026-06-24" data-search="walter sax big band sala villanos calle de bernardino obregon, 18, madrid concierto / jazz sala_villanos wed 24 jun 20:30"><div class="card-top"><img class="exhibition-thumb" src="https://salavillanos.es/wp-content/uploads/2026/04/20260624_WALTER_1920X1080.jpg" alt="Walter Sax Big Band" loading="lazy" decoding="async"><div class="card-copy"><h2>Walter Sax Big Band</h2><a class="link" href="https://salavillanos.es/evento/walter-sax-big-band/" target="_blank" rel="noreferrer">Open source page</a></div></div><p class="meta">Wed 24 Jun</p><p class="meta">Sala Villanos · Calle de Bernardino Obregon, 18, Madrid</p><p class="meta">20:30</p><p class="desc">Concierto / Jazz</p><p class="meta">Source: sala_villanos</p></article>
+<article class="card" data-card data-start="2026-06-25" data-end="2026-06-25" data-search="the allergies (live) sala villanos calle de bernardino obregon, 18, madrid concierto / momentos alhambra sala_villanos thu 25 jun 21:30"><div class="card-top"><img class="exhibition-thumb" src="https://salavillanos.es/wp-content/uploads/2026/03/PRESS-SHOT-2024-THE-ALLERGIES-LIVE_1920x1080.jpg" alt="The Allergies (Live)" loading="lazy" decoding="async"><div class="card-copy"><h2>The Allergies (Live)</h2><a class="link" href="https://salavillanos.es/evento/the-allergies/" target="_blank" rel="noreferrer">Open source page</a></div></div><p class="meta">Thu 25 Jun</p><p class="meta">Sala Villanos · Calle de Bernardino Obregon, 18, Madrid</p><p class="meta">21:30</p><p class="desc">Concierto / Momentos Alhambra</p><p class="meta">Source: sala_villanos</p></article>
+<article class="card" data-card data-start="2026-06-26" data-end="2026-06-26" data-search="son cremita sala villanos calle de bernardino obregon, 18, madrid concierto / latin sala_villanos fri 26 jun 21:00"><div class="card-top"><img class="exhibition-thumb" src="https://salavillanos.es/wp-content/uploads/2026/06/20260626_SONCREMITA_1920X1080.jpg" alt="Son Cremita" loading="lazy" decoding="async"><div class="card-copy"><h2>Son Cremita</h2><a class="link" href="https://salavillanos.es/evento/son-cremita/" target="_blank" rel="noreferrer">Open source page</a></div></div><p class="meta">Fri 26 Jun</p><p class="meta">Sala Villanos · Calle de Bernardino Obregon, 18, Madrid</p><p class="meta">21:00</p><p class="desc">Concierto / Latin</p><p class="meta">Source: sala_villanos</p></article>
+<article class="card" data-card data-start="2026-06-27" data-end="2026-06-27" data-search="noches de la parceria presenta: sala villanos calle de bernardino obregon, 18, madrid concierto / latin sala_villanos sat 27 jun 21:30"><div class="card-top"><img class="exhibition-thumb" src="https://salavillanos.es/wp-content/uploads/2026/06/20260627_LAPARCERIA_1920X1080.jpg" alt="Noches de La Parcería presenta:" loading="lazy" decoding="async"><div class="card-copy"><h2>Noches de La Parcería presenta:</h2><a class="link" href="https://salavillanos.es/evento/noches-de-la-parceria-presenta/" target="_blank" rel="noreferrer">Open source page</a></div></div><p class="meta">Sat 27 Jun</p><p class="meta">Sala Villanos · Calle de Bernardino Obregon, 18, Madrid</p><p class="meta">21:30</p><p class="desc">Concierto / Latin</p><p class="meta">Source: sala_villanos</p></article>
+<article class="card" data-card data-start="2026-06-28" data-end="2026-06-28" data-search="busty and the bass sala villanos calle de bernardino obregon, 18, madrid concierto / villanos del jazz sala_villanos sun 28 jun 21:00"><div class="card-top"><img class="exhibition-thumb" src="https://salavillanos.es/wp-content/uploads/2026/01/1920X1080-1.jpg" alt="Busty and the Bass" loading="lazy" decoding="async"><div class="card-copy"><h2>Busty and the Bass</h2><a class="link" href="https://salavillanos.es/evento/busty-and-the-bass/" target="_blank" rel="noreferrer">Open source page</a></div></div><p class="meta">Sun 28 Jun</p><p class="meta">Sala Villanos · Calle de Bernardino Obregon, 18, Madrid</p><p class="meta">21:00</p><p class="desc">Concierto / Villanos del Jazz</p><p class="meta">Source: sala_villanos</p></article>
+<article class="card" data-card data-start="2026-06-30" data-end="2026-06-30" data-search="john primer and giles robson sala villanos calle de bernardino obregon, 18, madrid concierto / soul &amp; r&amp;b sala_villanos tue 30 jun 20:30"><div class="card-top"><img class="exhibition-thumb" src="https://salavillanos.es/wp-content/uploads/2026/03/20260630_JOHN-PRIMER_1920X1080.jpg" alt="John Primer And Giles Robson" loading="lazy" decoding="async"><div class="card-copy"><h2>John Primer And Giles Robson</h2><a class="link" href="https://salavillanos.es/evento/john-primer-and-giles-robson/" target="_blank" rel="noreferrer">Open source page</a></div></div><p class="meta">Tue 30 Jun</p><p class="meta">Sala Villanos · Calle de Bernardino Obregon, 18, Madrid</p><p class="meta">20:30</p><p class="desc">Concierto / Soul &amp; R&amp;B</p><p class="meta">Source: sala_villanos</p></article>
+<article class="card" data-card data-start="2026-07-01" data-end="2026-07-01" data-search="ghost-note sala villanos calle de bernardino obregon, 18, madrid concierto / villanos del jazz sala_villanos wed 1 jul 21:00"><div class="card-top"><img class="exhibition-thumb" src="https://salavillanos.es/wp-content/uploads/2026/03/GHOST-NOTE_1920X1080.jpg" alt="Ghost-Note" loading="lazy" decoding="async"><div class="card-copy"><h2>Ghost-Note</h2><a class="link" href="https://salavillanos.es/evento/ghost-note/" target="_blank" rel="noreferrer">Open source page</a></div></div><p class="meta">Wed 1 Jul</p><p class="meta">Sala Villanos · Calle de Bernardino Obregon, 18, Madrid</p><p class="meta">21:00</p><p class="desc">Concierto / Villanos del Jazz</p><p class="meta">Source: sala_villanos</p></article>
+<article class="card" data-card data-start="2026-07-02" data-end="2026-07-02" data-search="bianca gismonti &amp; manuel de oliveira sala villanos calle de bernardino obregon, 18, madrid concierto / villanos del jazz sala_villanos thu 2 jul 21:00"><div class="card-top"><img class="exhibition-thumb" src="https://salavillanos.es/wp-content/uploads/2026/05/BIANCA_1920X1080.jpg" alt="Bianca Gismonti &amp; Manuel de Oliveira" loading="lazy" decoding="async"><div class="card-copy"><h2>Bianca Gismonti &amp; Manuel de Oliveira</h2><a class="link" href="https://salavillanos.es/evento/bianca-gismonti-manuel-de-oliveira/" target="_blank" rel="noreferrer">Open source page</a></div></div><p class="meta">Thu 2 Jul</p><p class="meta">Sala Villanos · Calle de Bernardino Obregon, 18, Madrid</p><p class="meta">21:00</p><p class="desc">Concierto / Villanos del Jazz</p><p class="meta">Source: sala_villanos</p></article>
+<article class="card" data-card data-start="2026-07-03" data-end="2026-07-03" data-search="festival colectivo yupanqui sala villanos calle de bernardino obregon, 18, madrid concierto / latin sala_villanos fri 3 jul 19:30"><div class="card-top"><img class="exhibition-thumb" src="https://salavillanos.es/wp-content/uploads/2026/05/20260703_COLECTIVO_1920X1080.jpg" alt="Festival Colectivo Yupanqui" loading="lazy" decoding="async"><div class="card-copy"><h2>Festival Colectivo Yupanqui</h2><a class="link" href="https://salavillanos.es/evento/festival-colectivo-yupanqui/" target="_blank" rel="noreferrer">Open source page</a></div></div><p class="meta">Fri 3 Jul</p><p class="meta">Sala Villanos · Calle de Bernardino Obregon, 18, Madrid</p><p class="meta">19:30</p><p class="desc">Concierto / Latin</p><p class="meta">Source: sala_villanos</p></article>
+<article class="card" data-card data-start="2026-07-04" data-end="2026-07-04" data-search="nestor lo y los caminantes sala villanos calle de bernardino obregon, 18, madrid concierto / latin / pop sala_villanos sat 4 jul 21:00"><div class="card-top"><img class="exhibition-thumb" src="https://salavillanos.es/wp-content/uploads/2026/05/20260704_NESTORLO_1920X1080.jpg" alt="Nestor Ló Y Los Caminantes" loading="lazy" decoding="async"><div class="card-copy"><h2>Nestor Ló Y Los Caminantes</h2><a class="link" href="https://salavillanos.es/evento/nestor-lo-y-los-caminantes/" target="_blank" rel="noreferrer">Open source page</a></div></div><p class="meta">Sat 4 Jul</p><p class="meta">Sala Villanos · Calle de Bernardino Obregon, 18, Madrid</p><p class="meta">21:00</p><p class="desc">Concierto / Latin / Pop</p><p class="meta">Source: sala_villanos</p></article></div></section></main>
+    <p class="empty hidden" id="empty">No music events match the current filters.</p>
+  </div>
+
+  <script>
+    
+const queryInput = document.getElementById("query");
+const startInput = document.getElementById("start-date");
+const endInput = document.getElementById("end-date");
+const cards = [...document.querySelectorAll("[data-card]")];
+const groups = [...document.querySelectorAll("[data-group]")];
+const status = document.getElementById("status");
+const empty = document.getElementById("empty");
+
+function normalizeText(value) {
+  return String(value || "")
+    .toLowerCase()
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "");
+}
+
+function render() {
+  const query = normalizeText(queryInput.value.trim());
+  const start = startInput.value;
+  const end = endInput.value;
+  let visible = 0;
+
+  for (const card of cards) {
+    const search = card.dataset.search || "";
+    const cardStart = card.dataset.start || "";
+    const cardEnd = card.dataset.end || "";
+    let show = true;
+
+    if (query && !search.includes(query)) {
+      show = false;
+    }
+    if (start && cardEnd < start) {
+      show = false;
+    }
+    if (end && cardStart > end) {
+      show = false;
+    }
+
+    card.classList.toggle("hidden", !show);
+    if (show) {
+      visible += 1;
+    }
+  }
+
+  for (const group of groups) {
+    const visibleCards = group.querySelectorAll("[data-card]:not(.hidden)");
+    group.classList.toggle("hidden", visibleCards.length === 0);
+  }
+
+  status.textContent = `${visible} results match the current filters.`;
+  empty.classList.toggle("hidden", visible !== 0);
+}
+
+for (const input of [queryInput, startInput, endInput]) {
+  input.addEventListener("input", render);
+  input.addEventListener("change", render);
+}
+
+render();
+
+  </script>
+</body>
+</html>

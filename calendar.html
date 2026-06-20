@@ -471,6 +471,17 @@
       line-height: 1.3;
     }
 
+    .modal-image {
+      display: block;
+      width: 100%;
+      max-height: 280px;
+      object-fit: cover;
+      border-radius: 10px;
+      border: 1px solid var(--line);
+      margin-bottom: 0.9rem;
+      background: var(--panel);
+    }
+
     .modal-close {
       position: absolute;
       top: 0.65rem;
@@ -528,6 +539,9 @@
         <a class="home-link" href="survey.html">Open quick picks</a>
         <a class="home-link" href="exhibition.html">Open exhibitions</a>
         <a class="home-link" href="cinema.html">Open cinema</a>
+        <a class="home-link" href="music.html">Open music</a>
+        <a class="home-link" href="theater.html">Open theater</a>
+        <a class="home-link" href="talks.html">Open talks</a>
         <a class="home-link" href="index.html">Back to feed index</a>
       </div>
     </header>
@@ -1131,6 +1145,11 @@
       const safeDate = escapeHtml(displayDate(event));
       const safeTime = escapeHtml(event.time || "Unknown time");
       const safeUrl = escapeHtml(event.url);
+      const safeImageUrl = event.image_url ? escapeHtml(event.image_url) : "";
+      const imageRow = safeImageUrl
+        ? `<img class="modal-image" src="${safeImageUrl}" `
+          + `alt="${safeTitle}" loading="lazy" decoding="async">`
+        : "";
       const languageVersion = movieLanguageLabel(event);
       const languageRow = languageVersion
         ? `<div class="modal-label">Audio</div><div>${escapeHtml(languageVersion)}</div>`
@@ -1157,7 +1176,8 @@
         : "";
 
       modalContent.innerHTML =
-        `<h3 class="modal-title">${safeTitle}</h3>`
+        `${imageRow}`
+        + `<h3 class="modal-title">${safeTitle}</h3>`
         + `<div class="modal-grid">`
         + `<div class="modal-label">Date</div><div>${safeDate}</div>`
         + `<div class="modal-label">Time</div><div>${safeTime}</div>`
