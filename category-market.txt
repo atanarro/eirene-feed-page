@@ -2,17 +2,6 @@ Eirene feed debug
 Total events: 2
 
 [1] Mercado de las Ranas
-  id: 0d37b7c0ec27fbc62faebe2e0ce74b06b1e8ac9a050c7f8fe615661ee8f3f517
-  start: 2026-06-20T12:00:00+02:00
-  end: 2026-06-20T20:00:00+02:00
-  category: market
-  source: mercado_de_las_ranas
-  location: Barrio de las Letras - Calle de las Huertas, 2-47, Madrid
-  coordinates: 40.414413, -3.698524
-  url: https://barrioletras.com/mercado-de-las-ranas/
-  description: Mercado del Barrio de las Letras con puestos de artesanía, diseño, moda y gastronomía en la calle Huertas.
-
-[2] Mercado de las Ranas
   id: 7c428662846a0783e96bbb3a9706584426cad57578de7c9eb625f20cee3aacbe
   start: 2026-07-04T12:00:00+02:00
   end: 2026-07-04T20:00:00+02:00
@@ -22,3 +11,14 @@ Total events: 2
   coordinates: 40.414413, -3.698524
   url: https://barrioletras.com/mercado-de-las-ranas/
   description: Mercado del Barrio de las Letras con puestos de artesanía, diseño, moda y gastronomía en la calle Huertas.
+
+[2] Mercadillo de Minerales de la Escuela de Minas
+  id: 85fcb6a36ef455e9f8d38ac05883f23921e487b18f2828cd85aded67fdf5842f
+  start: 2026-07-05T10:00:00+02:00
+  end: 2026-07-05T14:00:00+02:00
+  category: market
+  source: mercadillo_minerales
+  location: Escuela Superior de Ingenieros de Minas - Calle Rios Rosas, 21, Madrid
+  coordinates: 40.442576, -3.700177
+  url: https://www.esmadrid.com/agenda/mercadillo-minerales-madrid-escuela-superior-ingenieros-minas
+  description: Mercadillo de minerales, fosiles, gemas y conchas en la Escuela Superior de Ingenieros de Minas (primer domingo de cada mes, excepto agosto).
