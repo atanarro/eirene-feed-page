@@ -2,41 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:DEMM26. Concierto matinal familiar. Domingo 21 de junio. Le Parody
-DTSTART;TZID=Europe/Madrid:20260621T120000
-UID:d053f21b21d09d2fb9763e9f89d904ee34d9509bc4d7213fc3cec30e8de57e71
-CATEGORIES:music
-DESCRIPTION:Una actuación especial para todos los públicos que demostrar
- á que el riesgo y la experimentación también tienen cabida dentro de lo
- s espectáculos familiares.\n\nhttps://www.mataderomadrid.org/programacion
- /demm26-concierto-matinal-familiar-domingo-21-de-junio-le-parody
-LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:OM - Orquesta del Mundo Kirtan Sinfónico
-DTSTART;TZID=Europe/Madrid:20260621T120000
-DTEND;TZID=Europe/Madrid:20260621T120000
-UID:14693764042ebb00220aa1b0cdb7b8402a312fe9ff034a04674370edf1e8145c
-CATEGORIES:music
-DESCRIPTION:Venta de entradas (aquí). Socios\, código descuento en el Á
- rea del Socio. \n \nInvitados: Martín Flynn\, Camila Ordóñez\, Padmayan
- a\, Joan Condal\, Proyecto Sacerdotisa\, Úrsula Giovanna\, Marga MA y Mar
- tín Félix. Cátedra Mayor. 12:00h.\n\nhttps://ateneodemadrid.com/evento/
- om-orquesta-del-mundo-kirtan-sinfonico/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Menil Swing
-DTSTART;TZID=Europe/Madrid:20260621T200000
-DTEND;TZID=Europe/Madrid:20260621T200000
-UID:3da4fa59bca6bdc8102e56143047136957e5b7f4ff9e46768691bcc289def71d
-CATEGORIES:music
-DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
-  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
- s://ateneodemadrid.com/evento/menil-swing/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Presentación del libro "Visiones actuales de al-Ándalus"
 DTSTART;TZID=Europe/Madrid:20260622T193000
 DTEND;TZID=Europe/Madrid:20260622T193000
@@ -178,6 +143,17 @@ DESCRIPTION:Concierto / Latin\n\nhttps://salavillanos.es/evento/son-cremit
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Joss Stone
+DTSTART;TZID=Europe/Madrid:20260626T210000
+UID:f538624027eacaab3c6952b813e32643cff729f9d61bd1ef14237dcc9c63770d
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://www.notikumi.com/channel
+ /villanos-de-la-cultura/2026/6/26/joss-stone?a_aid=jackson-ref&a_bid=fe5f1
+ 437
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Genderlexx + Lavandera Boyera
 DTSTART;TZID=Europe/Madrid:20260626T213000
 UID:b5c9af5f249948d20cfdb6b688a4191ade60a6023fb54bef4bbe91129fb97d26
@@ -220,6 +196,16 @@ DESCRIPTION:Crisálida\; Mariposa\; H. Arlen: Over the rainbow: Y. Díaz:
  menco\; La Cubañola\; Cajkovskij en la Habana. JAZZ LATINO.\n\nhttps://ww
  w.mataderomadrid.org/programacion/piano-city-2026-yuley-diaz
 LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Excepción
+DTSTART;TZID=Europe/Madrid:20260627T203000
+UID:6add3844c172892557d9f71706e77274072b1f3f2e0eb70ebcfbba843e7762cb
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://www.entradas.com/artist/
+ la-excepcion/?Affiliate=RIV
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Noches de La Parcería presenta:
@@ -290,6 +276,16 @@ DESCRIPTION:Rameau: Gavota con Variaciones en la menor\; Ligeti: Estudio
 LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:La Excepción (Segunda Fecha)
+DTSTART;TZID=Europe/Madrid:20260628T193000
+UID:18ab6e5faa380aef3f6aade9a03549019e8eb59f7a0ab603eb0b2cc17b9bac70
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:00 pm\n\nhttps://www.ticketmaster.es/even
+ t/la-excepcion-entradas/1230068036
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Marina Albero & Luis Gallo Quartet
 DTSTART;TZID=Europe/Madrid:20260628T200000
 DTEND;TZID=Europe/Madrid:20260628T200000
@@ -328,6 +324,15 @@ DESCRIPTION:Concierto / Soul & R&B\n\nhttps://salavillanos.es/evento/john-
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Tokischa
+DTSTART;TZID=Europe/Madrid:20260630T210000
+UID:1d61d67c2b809450722fe5aafee33bdccbbc7da0e718b3cf314d46bb8860c4a8
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://feverup.com/m/601747
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ghost-Note
 DTSTART;TZID=Europe/Madrid:20260701T210000
 UID:d8cc9d7824a48d1ca438e8f4fb73d9ca689757792bda2d6103716069c9a125e9
@@ -335,6 +340,16 @@ CATEGORIES:music
 DESCRIPTION:Concierto / Villanos del Jazz\n\nhttps://salavillanos.es/event
  o/ghost-note/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pennywise + End It
+DTSTART;TZID=Europe/Madrid:20260701T210000
+UID:8f2a406d5c59de43aaa711c34f3aa8458fa71c3a1c4efead7b9bc33c1226005c
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://tickets.hfmncrew.com/web
+ /?menu=1162&pagina=entradas&item=58898&siteID=hfmncrew
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bianca Gismonti & Manuel de Oliveira
@@ -384,5 +399,15 @@ CATEGORIES:music
 DESCRIPTION:Concierto / Villanos del Jazz\n\nhttps://salavillanos.es/event
  o/yellowjackets/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elena Rose
+DTSTART;TZID=Europe/Madrid:20260706T210000
+UID:bccd15d7d50d52a958346983d1b2dfe61079d6d0c80bd2f968b3458c96b8c9e2
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://www.ticketmaster.es/even
+ t/elena-rose-entradas/269343439?language=en-us
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
 END:VEVENT
 END:VCALENDAR
