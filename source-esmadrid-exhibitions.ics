@@ -28,34 +28,6 @@ LOCATION:MAD (Madrid Artes Digitales) Centro de Experiencias Inmersivas -
  de Legazpi\, 8\, Madrid\, 28045
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Exponencial. De analógicos a digitales
-DTSTART;TZID=Europe/Madrid:20240514T000000
-DTEND;TZID=Europe/Madrid:20271231T000000
-UID:f5757770ba2619f835632f368e9ae1c25e8353ae577ea62f600b1f84611272c3
-CATEGORIES:exhibition
-DESCRIPTION:Exposición permanente que explora el creciente impacto que ha
-  tenido el desarrollo de las telecomunicaciones en todos los ámbitos de n
- uestras vidas (Espacio Fundación Telefónica.\n\nhttp://espacio.fundacio
- ntelefonica.com/
-LOCATION:Espacio Fundación Telefónica - de Fuencarral\, 3\, Madrid\, 280
- 04
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Colección Masaveu. Arte español del siglo XX. De Picasso a Barce
- ló
-DTSTART;TZID=Europe/Madrid:20241009T000000
-DTEND;TZID=Europe/Madrid:20260719T000000
-UID:5379dd6228430bbfe565fcc929092fca70fe08517a1d791e5aa75105d9d59704
-CATEGORIES:exhibition
-DESCRIPTION:Exposición que reúne las obras más destacadas del arte del 
- siglo XX presentes en las colecciones Masaveu de artistas como Pablo Pica
- sso\, Sorolla o Salvador Dalí (Fundación María\n\nhttps://www.fundac
- ioncristinamasaveu.com/portfolio/exposicion-coleccion-masaveu-de-picasso-a
- -barcelo/
-LOCATION:Fundación María Cristina Masaveu Peterson - de Alcalá Galiano\
- , 6\, Madrid\, 28071
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Artemisa: la magia de la Luna
 DTSTART;TZID=Europe/Madrid:20241206T000000
 DTEND;TZID=Europe/Madrid:20261227T000000
@@ -151,19 +123,6 @@ LOCATION:Madrid - Raimundo Fernández Villaverde\, 57\, Madrid\, Madrid\,
  28003
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Disney: The Exhibition. 100 Años de Magia
-DTSTART;TZID=Europe/Madrid:20251001T000000
-DTEND;TZID=Europe/Madrid:20260705T000000
-UID:b5ae34b2ff245143f0929d2705c823edba259237a5c1bbf8a835794172e75cee
-CATEGORIES:exhibition
-DESCRIPTION:Gran experiencia interactiva que incluye desde clásicos de Di
- sney hasta los lanzamientos recientes de Marvel\, Pixar y Star Wars (Funda
- ción Canal Sala Castellana 214. Hasta 5 julio).\n\nhttps://disney100exhib
- it.com/es/madrid/
-LOCATION:Fundación Canal Sala Castellana 214 - de la Castellana\, 214\, M
- adrid\, 28046
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Luis Pérez Calvo. Cromos de artista
 DTSTART;TZID=Europe/Madrid:20251023T000000
 DTEND;TZID=Europe/Madrid:20260920T000000
@@ -224,17 +183,6 @@ DESCRIPTION:Exposición que rinde homenaje a la biblioteca del Colegio Ofi
  //www.coam.org/actualidad-agenda-coam-75-anos-de-la-coleccion-maranon-el-o
  rigen-del-fondo-antiguo-de-la-biblioteca-coam/
 LOCATION:COAM - de Hortaleza\, 63\, Madrid\, 28004
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Viajar en el tiempo: 85 años de publicidad de Renfe
-DTSTART;TZID=Europe/Madrid:20251219T000000
-DTEND;TZID=Europe/Madrid:20260930T000000
-UID:e7f2ed4545f8ab9e74c8b72b5c36fb7fd217013ba6593ecb9accae2d800a282b
-CATEGORIES:exhibition
-DESCRIPTION:Exposición organizada por Renfe que muestra un viaje por 85 a
- ños de memoria visual (Museo del Ferrocarril. Hasta 30 septiembre).\n\nht
- tps://www.museodelferrocarril.org/exposiciones/viajar-en-el-tiempo/
-LOCATION:Museo del Ferrocarril - de las Delicias\, 61\, Madrid\, 28045
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Julia\, de Jaume Plensa
@@ -449,17 +397,6 @@ DESCRIPTION:Exposición de dibujos de Paul McCarthy que forma parte de un
 LOCATION:SOLO CSV - de San Vicente\, 36\, Madrid\, 28008
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Cindy Crawford. Hostage 01
-DTSTART;TZID=Europe/Madrid:20260313T000000
-DTEND;TZID=Europe/Madrid:20260718T000000
-UID:27c2adc45d220c73844d621379b0e1ec2aabc6e19110b08c837865d6ff8d458a
-CATEGORIES:exhibition
-DESCRIPTION:El artista investiga la materialidad de la tensión: el cuerpo
-  contenido y la energía latente de los objetos suspendidos (SOLO CSV. Has
- ta 18 julio).\n\nhttps://movimiento37.com/#cindy
-LOCATION:SOLO CSV - de San Vicente\, 36\, Madrid\, 28008
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:De brebajes y serpientes: entre la triaca magna y una emergencia d
  e salud global
 DTSTART;TZID=Europe/Madrid:20260316T000000
@@ -639,6 +576,18 @@ DESCRIPTION:Exposición fotográfica que recorre las dos décadas de vida
 LOCATION:Casa Árabe - de Alcalá\, 62\, Madrid\, 28009
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Arcade Origins: el comienzo de la industria del videojuego
+DTSTART;TZID=Europe/Madrid:20260417T000000
+DTEND;TZID=Europe/Madrid:20261004T000000
+UID:2e8b846737eab8f2b63751e9353eb1f742394a9931ea713d6e80cd198571a6f5
+CATEGORIES:exhibition
+DESCRIPTION:Exposición que recorre la historia del videojuego\, desde sus
+  inicios hasta la actualidad (OXO. Museo del Videjuego en Madrid. Lunes a 
+ domingos).\n\nhttps://oxomuseomadrid.com/exposicion-arcade-origins/
+LOCATION:OXO. Museo del Videojuego en Madrid - del Postigo de San Martín\
+ , 8\, Madrid\, 28013
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Vitrina CERO. ¿Verdadero o falso? La ficción de la autenticidad 
  en las falsificaciones del siglo XIX
 DTSTART;TZID=Europe/Madrid:20260421T000000
@@ -718,6 +667,20 @@ LOCATION:La Casa de la Arquitectura (Arquería de Nuevos Ministerios) - de
   la Castellana\, 67\, Madrid\, 28046
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Las mejores letras en español
+DTSTART;TZID=Europe/Madrid:20260423T000000
+DTEND;TZID=Europe/Madrid:20260719T000000
+UID:dbddbfc5060e67bf527ebf19d812e6dc9d608fe303d7a9d9b1273cc1a2ec54a3
+CATEGORIES:exhibition
+DESCRIPTION:Esta exposición proponer buscar el punto de vista literario e
+ n varias letras de canciones de artistas españoles (Instituto Cervantes. 
+ Hasta 19 julio).\n\nhttps://cultura.cervantes.es/ESPANYA/es/id/188979?_gl=
+ 1*1ntdg3a*port_ga*ODIxMDY0Mjg2LjE3NzY3NjYzMDE.*port_ga_Z9V7YFW9ZK*czE3NzY3
+ NjYzMDEkbzEkZzEkdDE3NzY3NjYzOTkkajU1JGwwJGgw*glob_ga*ODIxMDY0Mjg2LjE3NzY3N
+ jYzMDE.*glob_ga_57JPCLFY9Z*czE3NzY3NjYzMDEkbzEkZzEkdD
+LOCATION:Instituto Cervantes - de Alcalá\, 49\, Madrid\, 28014
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Radical Rehab. Arquitectura y Patrimonio en España (1975–2025)
 DTSTART;TZID=Europe/Madrid:20260423T000000
 DTEND;TZID=Europe/Madrid:20270328T000000
@@ -766,18 +729,6 @@ DESCRIPTION:Una expedición inmersiva e innovadora que transporta a la ép
  ence.com/madrid/
 LOCATION:Madrid - Raimundo Fernández Villaverde\, 57\, Madrid\, Madrid\, 
  28003
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El cuadro del hambre
-DTSTART;TZID=Europe/Madrid:20260427T000000
-DTEND;TZID=Europe/Madrid:20260913T000000
-UID:e82da132ca3fc4ba0a59a067bac73efab474c1efc265a2222332b2fdc6cfac21
-CATEGORIES:exhibition
-DESCRIPTION:Muestra que analiza la historia y el significado de la obra El
-  año del hambre de Madrid (1818) de José Aparicio (Museo del Prado. Hast
- a 13 sept).\n\nhttps://www.museodelprado.es/actualidad/exposicion/el-cuadr
- o-del-hambre/ae843d4d-f554-b78d-c990-6ccfbff81871
-LOCATION:Museo del Prado - del Prado\, s/n\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Aurèlia Muñoz. Entes
@@ -1142,19 +1093,6 @@ DESCRIPTION:Instalación artística que invita a reflexionar de forma lúd
  Hasta 19 julio).\n\nhttps://www.fundacioncanal.com/material-para-medios/pl
  aneta-azul-planeta-agua/
 LOCATION:Puerta del Sol - Puerta del Sol\,\, Madrid\, 28013
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ewa Juszkiewicz
-DTSTART;TZID=Europe/Madrid:20260526T000000
-DTEND;TZID=Europe/Madrid:20260906T000000
-UID:d50e869426ba46da044681e7621f58fb9e377f662cc8e9a637c7e21b08930f87
-CATEGORIES:exhibition
-DESCRIPTION:Una monográfica dedicada a la artista polaca cuyo trabajo co
- mbina una técnica pictórica minuciosa con un contenido provocador y sub
- versivo (Museo Nacional Thyssen-Bornemisza.\n\nhttps://www.museothyssen.or
- g/exposiciones/ewa-juszkiewicz
-LOCATION:Museo Nacional Thyssen-Bornemisza - del Prado\, 8\, Madrid\, 2801
- 4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A la manera de Italia. España y el gótico mediterráneo (1320-14
@@ -1595,18 +1533,6 @@ DESCRIPTION:La realidad de los ciudadanos palestinos a través de dos inst
 LOCATION:La Casa Encendida - de Valencia\, 2\, Madrid\, 28012
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Everybody loves to Cha Cha Cha. Bego Antón (PHotoESPAÑA 2026)
-DTSTART;TZID=Europe/Madrid:20260610T000000
-DTEND;TZID=Europe/Madrid:20260930T000000
-UID:a2b963290f71030b22d62562cb7bb34c0cade3d1605ddd6420ecf27937734edb
-CATEGORIES:exhibition
-DESCRIPTION:Exposición que se adentra en un universo donde el vínculo en
- tre humanas y perros se convierte en danza compartida (Casa de América. 1
- 0 jun a 30 sept).\n\nhttps://phe.es/exposicion/everybody-loves-to-cha-cha-
- cha/
-LOCATION:Casa de América - de Cibeles\, 2\, Madrid\, 28014
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Un punto particular en una particular forma de verlo
 DTSTART;TZID=Europe/Madrid:20260610T000000
 DTEND;TZID=Europe/Madrid:20260706T000000
@@ -1675,6 +1601,18 @@ DESCRIPTION:Exposición de los murales creados por los alumnos de Bellas A
 LOCATION:Museo de Historia - de Fuencarral\, 78\, Madrid\, 28004
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Antón Casamor: luz y escultura
+DTSTART;TZID=Europe/Madrid:20260612T000000
+DTEND;TZID=Europe/Madrid:20260623T000000
+UID:3a11e9ffd955fb0c99e0ba9105fc7e44a68bef98b41f9006358a2a7690e832a2
+CATEGORIES:exhibition
+DESCRIPTION:Una selección de esculturas del destacado escultor catalán s
+ e exponen en el Parque Florido\, enfrentándose a la naturaleza y a la luz
+  cambiante del día (Museo Lázaro Galdiano.\n\nhttps://www.museolazarogal
+ diano.es/actividades/anton-casamor-luz-y-escultura
+LOCATION:Museo Lázaro Galdiano - de Serrano\, 122\, Madrid\, 28006
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Conducir por Palestina | التحرّك في فلسطين
 DTSTART;TZID=Europe/Madrid:20260612T000000
 DTEND;TZID=Europe/Madrid:20261018T000000
@@ -1710,6 +1648,18 @@ DESCRIPTION:Exposición que reúne el trabajo de siete fotógrafos mexican
  n a 13 sept).\n\nhttps://phe.es/exposicion/espectros-enigmas-de-la-mirada/
 LOCATION:Fundación Casa de México en España - de Alberto Aguilera\, 20\
  , Madrid\, 28015
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:XXXV Obra Plástica de los Arquitectos
+DTSTART;TZID=Europe/Madrid:20260612T000000
+DTEND;TZID=Europe/Madrid:20260723T000000
+UID:f8262611f0603b6a71a29ada1f640be46c8c286701d5244764e541a9a0609f63
+CATEGORIES:exhibition
+DESCRIPTION:Nueva edición de la muestra en la que se pone en valor el tra
+ bajo realizado en el entorno de las Bellas Artes porlas y los profesionale
+ s de la arquitectura (COAM. Hasta 23 julio).\n\nhttps://www.coam.org/actua
+ lidad-agenda-coam-xxxv-obra-plastica-de-los-arquitectos/
+LOCATION:COAM - de Hortaleza\, 63\, Madrid\, 28004
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sedimented Landscapes / Urban Abstraction Alliance
@@ -1792,8 +1742,8 @@ UID:f8179b13e9060b2e494e89cf37b0ffe787f62d8087a8b4f25534e95a7e72d233
 CATEGORIES:exhibition
 DESCRIPTION:Montaje especial en el que se puede conocer cómo trabajaba el
   pintor flamenco y lo que permanecía oculto en la obra (Museo Nacional Th
- yssen-Bornemisza. 16 jun a 13 sept).\n\nhttps://www.museothyssen.org/expos
- iciones/rubens-restauracion-venus-cupido
+ yssen-Bornemisza. Hasta 13 septiembre).\n\nhttps://www.museothyssen.org/ex
+ posiciones/rubens-restauracion-venus-cupido
 LOCATION:Museo Nacional Thyssen-Bornemisza - del Prado\, 8\, Madrid\, 2801
  4
 END:VEVENT
