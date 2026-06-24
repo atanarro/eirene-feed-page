@@ -28,6 +28,34 @@ LOCATION:MAD (Madrid Artes Digitales) Centro de Experiencias Inmersivas -
  de Legazpi\, 8\, Madrid\, 28045
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Exponencial. De analógicos a digitales
+DTSTART;TZID=Europe/Madrid:20240514T000000
+DTEND;TZID=Europe/Madrid:20271231T000000
+UID:f5757770ba2619f835632f368e9ae1c25e8353ae577ea62f600b1f84611272c3
+CATEGORIES:exhibition
+DESCRIPTION:Exposición permanente que explora el creciente impacto que ha
+  tenido el desarrollo de las telecomunicaciones en todos los ámbitos de n
+ uestras vidas (Espacio Fundación Telefónica.\n\nhttp://espacio.fundacio
+ ntelefonica.com/
+LOCATION:Espacio Fundación Telefónica - de Fuencarral\, 3\, Madrid\, 280
+ 04
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colección Masaveu. Arte español del siglo XX. De Picasso a Barce
+ ló
+DTSTART;TZID=Europe/Madrid:20241009T000000
+DTEND;TZID=Europe/Madrid:20260719T000000
+UID:5379dd6228430bbfe565fcc929092fca70fe08517a1d791e5aa75105d9d59704
+CATEGORIES:exhibition
+DESCRIPTION:Exposición que reúne las obras más destacadas del arte del 
+ siglo XX presentes en las colecciones Masaveu de artistas como Pablo Pica
+ sso\, Sorolla o Salvador Dalí (Fundación María\n\nhttps://www.fundac
+ ioncristinamasaveu.com/portfolio/exposicion-coleccion-masaveu-de-picasso-a
+ -barcelo/
+LOCATION:Fundación María Cristina Masaveu Peterson - de Alcalá Galiano\
+ , 6\, Madrid\, 28071
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Artemisa: la magia de la Luna
 DTSTART;TZID=Europe/Madrid:20241206T000000
 DTEND;TZID=Europe/Madrid:20261227T000000
@@ -123,6 +151,19 @@ LOCATION:Madrid - Raimundo Fernández Villaverde\, 57\, Madrid\, Madrid\,
  28003
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Disney: The Exhibition. 100 Años de Magia
+DTSTART;TZID=Europe/Madrid:20251001T000000
+DTEND;TZID=Europe/Madrid:20260705T000000
+UID:b5ae34b2ff245143f0929d2705c823edba259237a5c1bbf8a835794172e75cee
+CATEGORIES:exhibition
+DESCRIPTION:Gran experiencia interactiva que incluye desde clásicos de Di
+ sney hasta los lanzamientos recientes de Marvel\, Pixar y Star Wars (Funda
+ ción Canal Sala Castellana 214. Hasta 5 julio).\n\nhttps://disney100exhib
+ it.com/es/madrid/
+LOCATION:Fundación Canal Sala Castellana 214 - de la Castellana\, 214\, M
+ adrid\, 28046
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Luis Pérez Calvo. Cromos de artista
 DTSTART;TZID=Europe/Madrid:20251023T000000
 DTEND;TZID=Europe/Madrid:20260920T000000
@@ -135,10 +176,10 @@ DESCRIPTION:El artista multidisciplinar presenta una exposición integrada
 LOCATION:CentroCentro - de Cibeles\, 1\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Miluca Sanz. Strata. The immortality of the ephemeral
+SUMMARY:Miluca Sanz. Estratos. La inmortalidad de lo efímero
 DTSTART;TZID=Europe/Madrid:20251023T000000
 DTEND;TZID=Europe/Madrid:20260920T000000
-UID:213652dc943f050b8964735a9ce1b008a01c2bf932aa41f6ec105ac84de83431
+UID:a6e10ea49be1d7a3e78235e2c58c637d794692e4b473069a9f09d9c2b5a66b7e
 CATEGORIES:exhibition
 DESCRIPTION:Exposición que reúne en formato audiovisual una selección d
  e los conocidos diarios de la artista (CentroCentro. Hasta 20 sept).\n\nht
@@ -183,6 +224,17 @@ DESCRIPTION:Exposición que rinde homenaje a la biblioteca del Colegio Ofi
  //www.coam.org/actualidad-agenda-coam-75-anos-de-la-coleccion-maranon-el-o
  rigen-del-fondo-antiguo-de-la-biblioteca-coam/
 LOCATION:COAM - de Hortaleza\, 63\, Madrid\, 28004
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Viajar en el tiempo: 85 años de publicidad de Renfe
+DTSTART;TZID=Europe/Madrid:20251219T000000
+DTEND;TZID=Europe/Madrid:20260930T000000
+UID:e7f2ed4545f8ab9e74c8b72b5c36fb7fd217013ba6593ecb9accae2d800a282b
+CATEGORIES:exhibition
+DESCRIPTION:Exposición organizada por Renfe que muestra un viaje por 85 a
+ ños de memoria visual (Museo del Ferrocarril. Hasta 30 septiembre).\n\nht
+ tps://www.museodelferrocarril.org/exposiciones/viajar-en-el-tiempo/
+LOCATION:Museo del Ferrocarril - de las Delicias\, 61\, Madrid\, 28045
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Julia\, de Jaume Plensa
@@ -296,19 +348,6 @@ DESCRIPTION:La muestra presenta un excepcional conjunto de tablas policrom
 LOCATION:Museo Arqueológico Nacional - de Serrano\, 13\, Madrid\, 28001
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gabinete de obra en papel (IV)
-DTSTART;TZID=Europe/Madrid:20260219T000000
-DTEND;TZID=Europe/Madrid:20260719T000000
-UID:fd000f973d8ea3e4f8aaabf0c4ee472e576d68f4bac2ab8b9c3274dcc3689576
-CATEGORIES:exhibition
-DESCRIPTION:Exposición fotográfica que incluye una selección de imágen
- es realizadas entre la generación de 1930 y comienzos del siglo XXI (Fund
- ación María Cristina Masaveu Peterson. Hasta 19 julio).\n\nhttp://www.fu
- ndacioncristinamasaveu.com/portfolio/gabinete-de-obra-en-papel-iv/
-LOCATION:Fundación María Cristina Masaveu Peterson - de Alcalá Galiano\
- , 6\, Madrid\, 28071
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Noches y Días
 DTSTART;TZID=Europe/Madrid:20260219T000000
 DTEND;TZID=Europe/Madrid:20260705T000000
@@ -321,15 +360,15 @@ DESCRIPTION:El artista José María Sicilia instala obras creadas ex profe
 LOCATION:Palacio de Liria - de la Princesa\, 20\, Madrid\, 28008
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Madrid Collects. 50 Contemporary Art Collections
+SUMMARY:Madrid Colecciona. 50 colecciones de arte contemporáneo
 DTSTART;TZID=Europe/Madrid:20260226T000000
 DTEND;TZID=Europe/Madrid:20260906T000000
-UID:3a2e7c869d1547d1b71c33491c9fa59d7007694936a52635929c5d438516201b
+UID:607a81e6d1149fa5daa112ff49ec0c026b356202c9926602c51ed2a6b5438f18
 CATEGORIES:exhibition
 DESCRIPTION:Una selección de 100 obras contemporáneas pone en valor el p
  apel indispensable de los coleccionistas para preservar la creación artí
- stica (CentroCentro. Hasta 6 sept).\n\nhttps://www.centrocentro.org/exposi
- cion/madrid-colecciona
+ stica (CentroCentro. Hasta 6 septiembre).\n\nhttps://www.centrocentro.org/
+ exposicion/madrid-colecciona
 LOCATION:CentroCentro - de Cibeles\, 1\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
@@ -394,6 +433,17 @@ DESCRIPTION:Exposición de dibujos de Paul McCarthy que forma parte de un
   proyecto que explora las estructuras libidinales de poder\, dominación y
   sumisión de la cultura occidental (SOLO CSV.\n\nhttps://www.bowmanhal.co
  m/exhibitions/10-paul-mccarthy-a-e-adolf-adam-eva-eve-drawing-sessions/
+LOCATION:SOLO CSV - de San Vicente\, 36\, Madrid\, 28008
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cindy Crawford. Hostage 01
+DTSTART;TZID=Europe/Madrid:20260313T000000
+DTEND;TZID=Europe/Madrid:20260718T000000
+UID:27c2adc45d220c73844d621379b0e1ec2aabc6e19110b08c837865d6ff8d458a
+CATEGORIES:exhibition
+DESCRIPTION:El artista investiga la materialidad de la tensión: el cuerpo
+  contenido y la energía latente de los objetos suspendidos (SOLO CSV. Has
+ ta 18 julio).\n\nhttps://movimiento37.com/#cindy
 LOCATION:SOLO CSV - de San Vicente\, 36\, Madrid\, 28008
 END:VEVENT
 BEGIN:VEVENT
@@ -551,14 +601,16 @@ DESCRIPTION:Exposición que analiza el impacto de la fotografía desde su
 LOCATION:Museo del Prado - del Prado\, s/n\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Tempest. The Garden of Forking Paths. Avelino Sala
+SUMMARY:La tempestad. El jardín de los senderos que se bifurcan. Avelino 
+ Sala
 DTSTART;TZID=Europe/Madrid:20260416T000000
 DTEND;TZID=Europe/Madrid:20260920T000000
-UID:32e7ee841df8bb4622db77131b601066ecae69c5177f320bc5278ec9859bc3b1
+UID:86c90be3a6d9d77c7b2eee79d2494ac28f8998cf13dadd3c2e820e09722fb47c
 CATEGORIES:exhibition
 DESCRIPTION:El artista gijonés presenta un recorrido por su trabajo en el
   que la resistencia crítica y poética son las protagonistas (CentroCentr
- o. Hasta 20 sept).\n\nhttps://www.centrocentro.org/exposicion/avelino-sala
+ o. Hasta 20 septiembre).\n\nhttps://www.centrocentro.org/exposicion/avelin
+ o-sala
 LOCATION:CentroCentro - de Cibeles\, 1\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
@@ -574,18 +626,6 @@ DESCRIPTION:Exposición fotográfica que recorre las dos décadas de vida
  s/show/tiempo-juntos-2006-2026-20-anos-de-casa-arabe-y-de-amistad-entre-es
  pana-y-el-mundo-arabe
 LOCATION:Casa Árabe - de Alcalá\, 62\, Madrid\, 28009
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Arcade Origins: el comienzo de la industria del videojuego
-DTSTART;TZID=Europe/Madrid:20260417T000000
-DTEND;TZID=Europe/Madrid:20261004T000000
-UID:2e8b846737eab8f2b63751e9353eb1f742394a9931ea713d6e80cd198571a6f5
-CATEGORIES:exhibition
-DESCRIPTION:Exposición que recorre la historia del videojuego\, desde sus
-  inicios hasta la actualidad (OXO. Museo del Videjuego en Madrid. Lunes a 
- domingos).\n\nhttps://oxomuseomadrid.com/exposicion-arcade-origins/
-LOCATION:OXO. Museo del Videojuego en Madrid - del Postigo de San Martín\
- , 8\, Madrid\, 28013
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vitrina CERO. ¿Verdadero o falso? La ficción de la autenticidad 
@@ -731,6 +771,18 @@ LOCATION:Madrid - Raimundo Fernández Villaverde\, 57\, Madrid\, Madrid\,
  28003
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:El cuadro del hambre
+DTSTART;TZID=Europe/Madrid:20260427T000000
+DTEND;TZID=Europe/Madrid:20260913T000000
+UID:e82da132ca3fc4ba0a59a067bac73efab474c1efc265a2222332b2fdc6cfac21
+CATEGORIES:exhibition
+DESCRIPTION:Muestra que analiza la historia y el significado de la obra El
+  año del hambre de Madrid (1818) de José Aparicio (Museo del Prado. Hast
+ a 13 sept).\n\nhttps://www.museodelprado.es/actualidad/exposicion/el-cuadr
+ o-del-hambre/ae843d4d-f554-b78d-c990-6ccfbff81871
+LOCATION:Museo del Prado - del Prado\, s/n\, Madrid\, 28014
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Aurèlia Muñoz. Entes
 DTSTART;TZID=Europe/Madrid:20260429T000000
 DTEND;TZID=Europe/Madrid:20260907T000000
@@ -738,8 +790,8 @@ UID:4854653106f20c6b0713c7f7ee9ee6257a08186bf619db50e15529270c6f96c2
 CATEGORIES:exhibition
 DESCRIPTION:Exposición que invita a recorrer la obra de la artista catala
  na\, figura destacada en el arte textil contemporáneo (Museo Reina Sofía
- . Hasta 7 sept).\n\nhttps://www.museoreinasofia.es/exposicion/aurelia-muno
- z
+ . Hasta 7 septiembre).\n\nhttps://www.museoreinasofia.es/exposicion/aureli
+ a-munoz
 LOCATION:Museo Reina Sofía - de Santa Isabel\, 52\, Madrid\, 28012
 END:VEVENT
 BEGIN:VEVENT
@@ -832,10 +884,10 @@ DESCRIPTION:Llega a Madrid la mayor exposición del mundo hecha por y para
 LOCATION:Espacio Delicias - de las Delicias\, 61\, Madrid\, 28045
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Garden Revealed. José Quintanilla (PHotoESPAÑA 2026)
+SUMMARY:El jardín revelado. José Quintanilla (PHotoESPAÑA 2026)
 DTSTART;TZID=Europe/Madrid:20260506T000000
 DTEND;TZID=Europe/Madrid:20260628T000000
-UID:73d0c49abfeea6a05b15694c692c0ef0d54615892782fe16f5af11b5eb14f1de
+UID:86b725cfe14b57189989492d4c4e4202ff66b76c404651bf51959352681df811
 CATEGORIES:exhibition
 DESCRIPTION:El artista presenta un proyecto que explora los límites de la
   fotografía fuera de su esencia documental (CentroCentro. Hasta 28 junio)
@@ -1093,6 +1145,19 @@ DESCRIPTION:Instalación artística que invita a reflexionar de forma lúd
  Hasta 19 julio).\n\nhttps://www.fundacioncanal.com/material-para-medios/pl
  aneta-azul-planeta-agua/
 LOCATION:Puerta del Sol - Puerta del Sol\,\, Madrid\, 28013
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ewa Juszkiewicz
+DTSTART;TZID=Europe/Madrid:20260526T000000
+DTEND;TZID=Europe/Madrid:20260906T000000
+UID:d50e869426ba46da044681e7621f58fb9e377f662cc8e9a637c7e21b08930f87
+CATEGORIES:exhibition
+DESCRIPTION:Una monográfica dedicada a la artista polaca cuyo trabajo co
+ mbina una técnica pictórica minuciosa con un contenido provocador y sub
+ versivo (Museo Nacional Thyssen-Bornemisza.\n\nhttps://www.museothyssen.or
+ g/exposiciones/ewa-juszkiewicz
+LOCATION:Museo Nacional Thyssen-Bornemisza - del Prado\, 8\, Madrid\, 2801
+ 4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A la manera de Italia. España y el gótico mediterráneo (1320-14
@@ -1508,18 +1573,6 @@ LOCATION:Real Academia de Bellas Artes de San Fernando - de Alcalá\, 13\,
   Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Prado. Siglo XXI
-DTSTART;TZID=Europe/Madrid:20260609T000000
-DTEND;TZID=Europe/Madrid:20260927T000000
-UID:1db74815d061611dbb8fdc3bd4d70885e920a04ad0e18020de5ba400af2df9b6
-CATEGORIES:exhibition
-DESCRIPTION:Un recorrido por el proceso de transformación experimentado p
- or el museo madrileño en el último cuarto de siglo (Museo del Prado. 9 j
- un a 27 sept).\n\nhttps://www.museodelprado.es/actualidad/exposicion/prado
- -siglo-xxi/c973ccff-de65-880f-2753-40c9ec03dfec
-LOCATION:Museo del Prado - del Prado\, s/n\, Madrid\, 28014
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:¿Dulce o amargo? y Sol roto. Mohamed Bakri y Abboud Abu Tair
 DTSTART;TZID=Europe/Madrid:20260610T000000
 DTEND;TZID=Europe/Madrid:20260630T000000
@@ -1531,6 +1584,18 @@ DESCRIPTION:La realidad de los ciudadanos palestinos a través de dos inst
  dida.es/exposiciones/dulce-o-amargo-y-sol-roto-mohamed-bakri-y-abboud-abu-
  tair
 LOCATION:La Casa Encendida - de Valencia\, 2\, Madrid\, 28012
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Everybody loves to Cha Cha Cha. Bego Antón (PHotoESPAÑA 2026)
+DTSTART;TZID=Europe/Madrid:20260610T000000
+DTEND;TZID=Europe/Madrid:20260930T000000
+UID:a2b963290f71030b22d62562cb7bb34c0cade3d1605ddd6420ecf27937734edb
+CATEGORIES:exhibition
+DESCRIPTION:Exposición que se adentra en un universo donde el vínculo en
+ tre humanas y perros se convierte en danza compartida (Casa de América. 1
+ 0 jun a 30 sept).\n\nhttps://phe.es/exposicion/everybody-loves-to-cha-cha-
+ cha/
+LOCATION:Casa de América - de Cibeles\, 2\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Un punto particular en una particular forma de verlo
@@ -1599,18 +1664,6 @@ DESCRIPTION:Exposición de los murales creados por los alumnos de Bellas A
  toid=3e947f751bcae910VgnVCM100000891ecb1aRCRD&vgnextchannel=6381f073808fe4
  10Vg
 LOCATION:Museo de Historia - de Fuencarral\, 78\, Madrid\, 28004
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Antón Casamor: luz y escultura
-DTSTART;TZID=Europe/Madrid:20260612T000000
-DTEND;TZID=Europe/Madrid:20260623T000000
-UID:3a11e9ffd955fb0c99e0ba9105fc7e44a68bef98b41f9006358a2a7690e832a2
-CATEGORIES:exhibition
-DESCRIPTION:Una selección de esculturas del destacado escultor catalán s
- e exponen en el Parque Florido\, enfrentándose a la naturaleza y a la luz
-  cambiante del día (Museo Lázaro Galdiano.\n\nhttps://www.museolazarogal
- diano.es/actividades/anton-casamor-luz-y-escultura
-LOCATION:Museo Lázaro Galdiano - de Serrano\, 122\, Madrid\, 28006
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Conducir por Palestina | التحرّك في فلسطين
@@ -1735,6 +1788,18 @@ LOCATION:Parque de Santander (Parque del Tercer Depósito) - de Filipinas\
  , 11\, Madrid\, 28003
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:A la hora en que nos fuimos
+DTSTART;TZID=Europe/Madrid:20260616T000000
+DTEND;TZID=Europe/Madrid:20260729T000000
+UID:a3c53ffdadd6acf718ec7903b7507abf4a43506aa66cee3b35b73afa5061d3b2
+CATEGORIES:exhibition
+DESCRIPTION:A través de un proyecto realizado con IA\, la artista Aissa S
+ antiso reflexiona sobre las política migratorias actuales (Fundación Ort
+ ega-Marañón. Hasta 29 julio).\n\nhttps://ortegaygasset.edu/exposiciones/
+ a-la-hora-en-que-nos-fuimos/
+LOCATION:Fundación Ortega - Marañón - de Fortuny\, 53\, Madrid\, 28010
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Rubens. La restauración de Venus y Cupido
 DTSTART;TZID=Europe/Madrid:20260616T000000
 DTEND;TZID=Europe/Madrid:20260913T000000
@@ -1826,6 +1891,18 @@ DESCRIPTION:Exposición de dibujos de Federico de Madrazo\, Luis de Madraz
 LOCATION:Museo del Romanticismo - de San Mateo\, 13\, Madrid\, 28004
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:La Perla Peregrina. Fernando Sánchez Castillo
+DTSTART;TZID=Europe/Madrid:20260624T000000
+DTEND;TZID=Europe/Madrid:20270308T000000
+UID:33a74c62ed17cdf209c4935d52dc17e4e4cb571a78a858e1651223777c97209e
+CATEGORIES:exhibition
+DESCRIPTION:El artista madrileño refleja con su obra cómo se enfrenta el
+  arte al poder establecido y lo transforma (Palacio de Velázquez. 24 jun 
+ a 8 mar).\n\nhttps://www.museoreinasofia.es/exposicion/fernando-sanchez-ca
+ stillo
+LOCATION:Palacio de Velázquez - de Venezuela\, 2\, Madrid\, 28009
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:American latinos 1935 – 1945
 DTSTART;TZID=Europe/Madrid:20260625T000000
 DTEND;TZID=Europe/Madrid:20260930T000000
@@ -1850,16 +1927,30 @@ DESCRIPTION:EL colectivo PSJM presenta dos proyectos que ofrecen una refle
 LOCATION:Casa de América - de Cibeles\, 2\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Slowness of Light. María Lara
+SUMMARY:La lentitud de la luz. María Lara
 DTSTART;TZID=Europe/Madrid:20260625T000000
 DTEND;TZID=Europe/Madrid:20261115T000000
-UID:902c3ead73cae344728b60e1a342b8d2d485ffc237c3c17b617ff4d12aacc45b
+UID:c059840fec463a306f3bbd522fbbd836008662c6d973a804f520a3cec5becd35
 CATEGORIES:exhibition
 DESCRIPTION:Una selección de pinturas y dibujos de la artista granadina r
  ecorren 25 años de su trayectoria\, marcada por su alta intensidad estét
  ica (CentroCentro. 25 jun a 15 nov).\n\nhttps://www.centrocentro.org/expos
  icion/maria-lara
 LOCATION:CentroCentro - de Cibeles\, 1\, Madrid\, 28014
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Motivos Arquitectónicos Tradicionales de China
+DTSTART;TZID=Europe/Madrid:20260625T000000
+DTEND;TZID=Europe/Madrid:20260731T000000
+UID:e8f05210c8ac20d791949d4b4238b7e7dc744078d8297d8b877100d7cb217962
+CATEGORIES:exhibition
+DESCRIPTION:Muestra dedicada a la pintura policromada tradicional\, una de
+  las expresiones más representativas del patrimonio arquitectónico chino
+  (Centro Cultural de China en Madrid. 25 jun a 31 jul).\n\nhttps://ccchina
+ madrid.org/actividad/exposicion-motivos-arquitectonicos-tradicionales-de-c
+ hina/
+LOCATION:Centro Cultural de China en Madrid - del General Pardiñas\, 73\,
+  Madrid\, 28006
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tengo un coco contigo
@@ -1898,10 +1989,10 @@ DESCRIPTION:Una original mirada a las colecciones y al trabajo interno del
 LOCATION:Museo del Traje - de Juan de Herrera\, 2\, Madrid\, 28040
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The magic of hope. A bridge between reality and perception
+SUMMARY:El encanto de la ilusión. Un puente entre realidad y percepción
 DTSTART;TZID=Europe/Madrid:20260701T000000
 DTEND;TZID=Europe/Madrid:20261011T000000
-UID:f9954e72dcff646c940184fb9c371ad81e3f8f2fda094c59943375582c1d021e
+UID:3e2a74d329f4aab14f24c917286b96f2b36588a7b6aecd7c1a8fb6adb2972a1c
 CATEGORIES:exhibition
 DESCRIPTION:Exposición colectiva que reflexiona sobre cómo percibimos\, 
  construimos y transformamos la realidad a través del arte\, enmarcada en 

@@ -2,15 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Amanda Shires
-DTSTART;TZID=Europe/Madrid:20260623T210000
-UID:f6889458bd6a5ea6d808ae43e6a6be1e61d7c62b34cae7a498252926e8a8d318
-CATEGORIES:music
-DESCRIPTION:Concierto / Villanos del Jazz\n\nhttps://salavillanos.es/event
- o/amanda-shires-ticket-header-streetlights-and-stars-european-tour/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Descontentos y desconciertos en tiempos de Trump
 DTSTART;TZID=Europe/Madrid:20260624T193000
 DTEND;TZID=Europe/Madrid:20260624T193000
@@ -99,6 +90,17 @@ DESCRIPTION:Concierto / Latin\n\nhttps://salavillanos.es/evento/son-cremit
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Joss Stone
+DTSTART;TZID=Europe/Madrid:20260626T210000
+UID:f538624027eacaab3c6952b813e32643cff729f9d61bd1ef14237dcc9c63770d
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://www.notikumi.com/channel
+ /villanos-de-la-cultura/2026/6/26/joss-stone?a_aid=jackson-ref&a_bid=fe5f1
+ 437
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Genderlexx + Lavandera Boyera
 DTSTART;TZID=Europe/Madrid:20260626T213000
 UID:b5c9af5f249948d20cfdb6b688a4191ade60a6023fb54bef4bbe91129fb97d26
@@ -141,6 +143,16 @@ DESCRIPTION:Crisálida\; Mariposa\; H. Arlen: Over the rainbow: Y. Díaz:
  menco\; La Cubañola\; Cajkovskij en la Habana. JAZZ LATINO.\n\nhttps://ww
  w.mataderomadrid.org/programacion/piano-city-2026-yuley-diaz
 LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Excepción
+DTSTART;TZID=Europe/Madrid:20260627T203000
+UID:6add3844c172892557d9f71706e77274072b1f3f2e0eb70ebcfbba843e7762cb
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://www.entradas.com/artist/
+ la-excepcion/?Affiliate=RIV
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Noches de La Parcería presenta:
@@ -211,6 +223,16 @@ DESCRIPTION:Rameau: Gavota con Variaciones en la menor\; Ligeti: Estudio
 LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:La Excepción (Segunda Fecha)
+DTSTART;TZID=Europe/Madrid:20260628T193000
+UID:18ab6e5faa380aef3f6aade9a03549019e8eb59f7a0ab603eb0b2cc17b9bac70
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:00 pm\n\nhttps://www.ticketmaster.es/even
+ t/la-excepcion-entradas/1230068036
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Marina Albero & Luis Gallo Quartet
 DTSTART;TZID=Europe/Madrid:20260628T200000
 DTEND;TZID=Europe/Madrid:20260628T200000
@@ -260,6 +282,15 @@ DESCRIPTION:Concierto / Soul & R&B\n\nhttps://salavillanos.es/evento/john-
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Tokischa
+DTSTART;TZID=Europe/Madrid:20260630T210000
+UID:1d61d67c2b809450722fe5aafee33bdccbbc7da0e718b3cf314d46bb8860c4a8
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://feverup.com/m/601747
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ghost-Note
 DTSTART;TZID=Europe/Madrid:20260701T210000
 UID:d8cc9d7824a48d1ca438e8f4fb73d9ca689757792bda2d6103716069c9a125e9
@@ -267,6 +298,16 @@ CATEGORIES:music
 DESCRIPTION:Concierto / Villanos del Jazz\n\nhttps://salavillanos.es/event
  o/ghost-note/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pennywise + End It
+DTSTART;TZID=Europe/Madrid:20260701T210000
+UID:8f2a406d5c59de43aaa711c34f3aa8458fa71c3a1c4efead7b9bc33c1226005c
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://tickets.hfmncrew.com/web
+ /?menu=1162&pagina=entradas&item=58898&siteID=hfmncrew
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bianca Gismonti & Manuel de Oliveira
@@ -315,6 +356,25 @@ UID:191475c58c55bb540dd0d5f24a3325e1f6125f28aa313e82e998fdbebf279975
 CATEGORIES:music
 DESCRIPTION:Concierto / Villanos del Jazz\n\nhttps://salavillanos.es/event
  o/yellowjackets/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elena Rose
+DTSTART;TZID=Europe/Madrid:20260706T210000
+UID:bccd15d7d50d52a958346983d1b2dfe61079d6d0c80bd2f968b3458c96b8c9e2
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://www.ticketmaster.es/even
+ t/elena-rose-entradas/269343439?language=en-us
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frente Cumbiero
+DTSTART;TZID=Europe/Madrid:20260708T210000
+UID:2e8a6a1d2af8b36c5178ff3ecb66d44f5c2e3300a6c2c56f88e3025dca03f16f
+CATEGORIES:music
+DESCRIPTION:Concierto / Latin / Pop / Rock\n\nhttps://salavillanos.es/even
+ to/frente-cumbiero/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 END:VCALENDAR
