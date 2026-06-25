@@ -2,38 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Descontentos y desconciertos en tiempos de Trump
-DTSTART;TZID=Europe/Madrid:20260624T193000
-DTEND;TZID=Europe/Madrid:20260624T193000
-UID:5033d7db93d742369fcc31aedfec078e8ac012ac692bb8a5d516810ff38e7c19
-CATEGORIES:music
-DESCRIPTION:Sección de Ciencias Sociales. Diálogo entre: Francesç-Marc 
- Álvaro y Cristina Monge. Sala Larra. 19:30h.\n\nhttps://ateneodemadrid.co
- m/evento/presentacion-de-los-libros-descontentos-y-desconciertos-en-tiempo
- s-de-trump/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Miguel Rodríguez Trío
-DTSTART;TZID=Europe/Madrid:20260624T200000
-DTEND;TZID=Europe/Madrid:20260625T200000
-UID:3bc4e02bad2a233bdde5a9f5201f3b38e60ec70d680b9258beeb15c2ee86183d
-CATEGORIES:music
-DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
-  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
- s://ateneodemadrid.com/evento/miguel-rodriguez-trio/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Walter Sax Big Band
-DTSTART;TZID=Europe/Madrid:20260624T203000
-UID:335575b16b8ca0c537ee59482dfa5f85b76751af211d8daad5f5f7e96fe2be10
-CATEGORIES:music
-DESCRIPTION:Concierto / Jazz\n\nhttps://salavillanos.es/evento/walter-sax-
- big-band/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ravagers (EEUU) + Rojo Omega\; Circuito Red De Salas
 DTSTART;TZID=Europe/Madrid:20260625T210000
 UID:d89236eda460fe4191a8e2745c5c9b739939cc4413176f0c4f6f100f97074b6c
@@ -90,17 +58,6 @@ DESCRIPTION:Concierto / Latin\n\nhttps://salavillanos.es/evento/son-cremit
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Joss Stone
-DTSTART;TZID=Europe/Madrid:20260626T210000
-UID:f538624027eacaab3c6952b813e32643cff729f9d61bd1ef14237dcc9c63770d
-CATEGORIES:music
-DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://www.notikumi.com/channel
- /villanos-de-la-cultura/2026/6/26/joss-stone?a_aid=jackson-ref&a_bid=fe5f1
- 437
-LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
- id
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Genderlexx + Lavandera Boyera
 DTSTART;TZID=Europe/Madrid:20260626T213000
 UID:b5c9af5f249948d20cfdb6b688a4191ade60a6023fb54bef4bbe91129fb97d26
@@ -143,16 +100,6 @@ DESCRIPTION:Crisálida\; Mariposa\; H. Arlen: Over the rainbow: Y. Díaz:
  menco\; La Cubañola\; Cajkovskij en la Habana. JAZZ LATINO.\n\nhttps://ww
  w.mataderomadrid.org/programacion/piano-city-2026-yuley-diaz
 LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Excepción
-DTSTART;TZID=Europe/Madrid:20260627T203000
-UID:6add3844c172892557d9f71706e77274072b1f3f2e0eb70ebcfbba843e7762cb
-CATEGORIES:music
-DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://www.entradas.com/artist/
- la-excepcion/?Affiliate=RIV
-LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
- id
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Noches de La Parcería presenta:
@@ -223,16 +170,6 @@ DESCRIPTION:Rameau: Gavota con Variaciones en la menor\; Ligeti: Estudio
 LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:La Excepción (Segunda Fecha)
-DTSTART;TZID=Europe/Madrid:20260628T193000
-UID:18ab6e5faa380aef3f6aade9a03549019e8eb59f7a0ab603eb0b2cc17b9bac70
-CATEGORIES:music
-DESCRIPTION:Apertura Puertas: 19:00 pm\n\nhttps://www.ticketmaster.es/even
- t/la-excepcion-entradas/1230068036
-LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
- id
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Marina Albero & Luis Gallo Quartet
 DTSTART;TZID=Europe/Madrid:20260628T200000
 DTEND;TZID=Europe/Madrid:20260628T200000
@@ -282,13 +219,15 @@ DESCRIPTION:Concierto / Soul & R&B\n\nhttps://salavillanos.es/evento/john-
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tokischa
-DTSTART;TZID=Europe/Madrid:20260630T210000
-UID:1d61d67c2b809450722fe5aafee33bdccbbc7da0e718b3cf314d46bb8860c4a8
+SUMMARY:Daniel Juárez Quartet
+DTSTART;TZID=Europe/Madrid:20260701T200000
+DTEND;TZID=Europe/Madrid:20260702T200000
+UID:94e42a861811979141d3d808e64dcf2cb846663972b85c37a8d0d3bdc333dbba
 CATEGORIES:music
-DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://feverup.com/m/601747
-LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
- id
+DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
+  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
+ s://ateneodemadrid.com/evento/daniel-juarez-quartet/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ghost-Note
@@ -300,16 +239,6 @@ DESCRIPTION:Concierto / Villanos del Jazz\n\nhttps://salavillanos.es/event
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pennywise + End It
-DTSTART;TZID=Europe/Madrid:20260701T210000
-UID:8f2a406d5c59de43aaa711c34f3aa8458fa71c3a1c4efead7b9bc33c1226005c
-CATEGORIES:music
-DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://tickets.hfmncrew.com/web
- /?menu=1162&pagina=entradas&item=58898&siteID=hfmncrew
-LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
- id
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bianca Gismonti & Manuel de Oliveira
 DTSTART;TZID=Europe/Madrid:20260702T210000
 UID:47a435a12f2708f8f4790ce26810ec633f085c5e4127ebe8b5eb3d2d07181ece
@@ -319,6 +248,18 @@ DESCRIPTION:Concierto / Villanos del Jazz\n\nhttps://salavillanos.es/event
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Día Internacional de las Cooperativas.  Premios "Es_Mad 2026"
+DTSTART;TZID=Europe/Madrid:20260703T103000
+DTEND;TZID=Europe/Madrid:20260703T103000
+UID:c3e4e1df50060a5c3ad51ab9cbf69c37225e8ec6e65a4388ee714b5c84c3ea2e
+CATEGORIES:music
+DESCRIPTION:Inauguración: Carlos de la Higuera\, Cristina Garmendia\, O
+ scar Romera y M.ª del Carmen Tejera. Cátedra Mayor. 10:30h.\n\nhttps://
+ ateneodemadrid.com/evento/dia-internacional-de-las-cooperativas-premios-es
+ _mad-2026/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Festival Colectivo Yupanqui
 DTSTART;TZID=Europe/Madrid:20260703T193000
 UID:ed0f87f153129b06ff44b0528bf8e0ef727fad99891d603fd5e93c046d51916c
@@ -326,6 +267,17 @@ CATEGORIES:music
 DESCRIPTION:Concierto / Latin\n\nhttps://salavillanos.es/evento/festival-c
  olectivo-yupanqui/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mariano Díaz Quartet
+DTSTART;TZID=Europe/Madrid:20260703T200000
+DTEND;TZID=Europe/Madrid:20260704T200000
+UID:c535d01917b5a6bc89905037e24d0b08148d0fbdbadddce49f2593ded6bb87e2
+CATEGORIES:music
+DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
+  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
+ s://ateneodemadrid.com/evento/mariano-diaz-quartet/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nestor Ló Y Los Caminantes
@@ -350,6 +302,17 @@ DESCRIPTION:Precio de las entradas: 7€/10€ Entradas a la venta en movi
 LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Gabriel Szternsztejn Cuarteto
+DTSTART;TZID=Europe/Madrid:20260705T200000
+DTEND;TZID=Europe/Madrid:20260705T200000
+UID:d6c15cb2a826b8df042a36d24f570668719db56d5cb5d06f2ec0278fd356f8c1
+CATEGORIES:music
+DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
+  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
+ s://ateneodemadrid.com/evento/gabriel-szternsztejn-cuarteto/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Yellowjackets
 DTSTART;TZID=Europe/Madrid:20260705T210000
 UID:191475c58c55bb540dd0d5f24a3325e1f6125f28aa313e82e998fdbebf279975
@@ -359,22 +322,21 @@ DESCRIPTION:Concierto / Villanos del Jazz\n\nhttps://salavillanos.es/event
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Elena Rose
-DTSTART;TZID=Europe/Madrid:20260706T210000
-UID:bccd15d7d50d52a958346983d1b2dfe61079d6d0c80bd2f968b3458c96b8c9e2
-CATEGORIES:music
-DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://www.ticketmaster.es/even
- t/elena-rose-entradas/269343439?language=en-us
-LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
- id
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Frente Cumbiero
 DTSTART;TZID=Europe/Madrid:20260708T210000
 UID:2e8a6a1d2af8b36c5178ff3ecb66d44f5c2e3300a6c2c56f88e3025dca03f16f
 CATEGORIES:music
 DESCRIPTION:Concierto / Latin / Pop / Rock\n\nhttps://salavillanos.es/even
  to/frente-cumbiero/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mama Nat & 32.20 Blues Band
+DTSTART;TZID=Europe/Madrid:20260709T210000
+UID:e23ed1c71649d6be1254a96ca71a2c45e5f5c405a940397eccfc4233c6e35baf
+CATEGORIES:music
+DESCRIPTION:Blues en la Villa / Concierto\n\nhttps://salavillanos.es/event
+ o/mama-nat-32-20-blues-band/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 END:VCALENDAR
