@@ -2,33 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Prisoner/Terrorist
-DTSTART;TZID=Europe/Madrid:20260625T190000
-UID:6b3afb275d4f1da2a67afe64da8a16636b94ad07c7244502872829af9fbaa9b4
-CATEGORIES:cinema
-DESCRIPTION:Durante un ataque suicida contra un aeropuerto\, la granada de
-  mano de 'M'\, uno de los tres terroristas\, no explosiona y es capturado.
-  Expuesto a maltratos en la prisión poco a poco pierde contacto con la re
- alidad\, mientras se ve obligado a enfrentarse a sus convicciones ideológ
- icas.\n\nAudio: VOSE\n\nhttps://www.cinetecamadrid.com/programacion/prison
- erterrorist
-LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Red Spectacles
-DTSTART;TZID=Europe/Madrid:20260625T200000
-UID:5183ec7a540bc40854af55c1bc8defbe5147cdc57c600996ce687d21f40c9551
-CATEGORIES:cinema
-DESCRIPTION:En un futuro distópico en Japón\, el orden es impuesto por l
- os Kerberos Panzer Cops\, una violenta unidad paramilitar equipada con arm
- aduras conocidas como “Protect Gear”. Tras el rechazo público a sus m
- étodos extremos\, el gobierno decide desmantelar el cuerpo\, pero un grup
- o de oficiales se rebela y solo uno de ellos\, Koichi Todome\, logra escap
- ar.\n\nAudio: VOSE\n\nhttps://www.cinetecamadrid.com/programacion/red-spec
- tacles
-LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:El príncipe de Nanawa
 DTSTART;TZID=Europe/Madrid:20260626T183000
 UID:85ef58123ad92a2f7fca5a1d61ac3e2d9f889c021034295063a458bdc1690b65
@@ -271,6 +244,20 @@ DESCRIPTION:En el cineclub Linterna \, Brays Efe y Miguel Agnes nos invita
  da de una conversación con Brays Efe y Miguel Agnes.\n\nAudio: VOSE\n\nht
  tps://www.cinetecamadrid.com/programacion/cineplaza-superestrellas-3-linte
  rna-xl-la-sala-de-baile
+LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CinePlaza: Superestrellas 3 / Pánico en la calle 110
+DTSTART;TZID=Europe/Madrid:20260710T221500
+UID:9612cbcf85687b2f6bb76a0ccf9b65b2d5cdc6597cc80083af0da06f6e4377c7
+CATEGORIES:cinema
+DESCRIPTION:Tras un robo sangriento en Harlem\, dos policías muy distinto
+ s entre sí y varios mafiosos se lanzan a la caza de los responsables. Sit
+ uada en la frontera simbólica entre Harlem y Central Park\, la película 
+ mezcla thriller policial\, violencia urbana y conflicto racial en un retra
+ to especialmente sombrío del Nueva York de comienzos de los 70.\n\nAudio:
+  VOSE\n\nhttps://www.cinetecamadrid.com/programacion/cineplaza-superestrel
+ las-3-panico-en-la-calle-110
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 END:VCALENDAR
