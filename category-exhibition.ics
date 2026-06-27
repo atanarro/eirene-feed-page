@@ -69,7 +69,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Un rato con Torcuato. El origen de una colección
 DTSTART;TZID=Europe/Madrid:20241219T000000
-DTEND;TZID=Europe/Madrid:20260731T000000
+DTEND;TZID=Europe/Madrid:20260724T000000
 UID:da91fb7de87fcc9d5f157cd71c81b3a8c46fc2f2a8b38cc6b0761a4074359da3
 CATEGORIES:exhibition
 DESCRIPTION:Exposición que reúne aspectos más significativos de la Col
@@ -373,6 +373,30 @@ DESCRIPTION:El artista José María Sicilia instala obras creadas ex profe
 LOCATION:Palacio de Liria - de la Princesa\, 20\, Madrid\, 28008
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Madrid Colecciona. 50 colecciones de arte contemporáneo
+DTSTART;TZID=Europe/Madrid:20260226T000000
+DTEND;TZID=Europe/Madrid:20260906T000000
+UID:607a81e6d1149fa5daa112ff49ec0c026b356202c9926602c51ed2a6b5438f18
+CATEGORIES:exhibition
+DESCRIPTION:Una selección de 100 obras contemporáneas pone en valor el p
+ apel indispensable de los coleccionistas para preservar la creación artí
+ stica (CentroCentro. Hasta 6 septiembre).\n\nhttps://www.centrocentro.org/
+ exposicion/madrid-colecciona
+LOCATION:CentroCentro - de Cibeles\, 1\, Madrid\, 28014
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MÍRAME. Retratos y retratistas en la Colección ABC
+DTSTART;TZID=Europe/Madrid:20260227T000000
+DTEND;TZID=Europe/Madrid:20260724T000000
+UID:c6b7fae5e86900344a640f7f598666e30bd4c886a6b1f73109bede0251564f4b
+CATEGORIES:exhibition
+DESCRIPTION:Recorrido por la historia del retrato de prensa a través de v
+ arias ilustraciones publicadas en el diario ABC y la revista Blanco y Negr
+ o (Museo ABC. Hasta 24 julio).\n\nhttps://museo.abc.es/exposiciones/2026/0
+ 2/mirame-retratos-y-retratistas-en-la-coleccion-abc/1218054
+LOCATION:Museo ABC - de Amaniel\, 29\, Madrid\, 28015
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Gloria Fuertes (hoy)
 DTSTART;TZID=Europe/Madrid:20260303T000000
 DTEND;TZID=Europe/Madrid:20260915T000000
@@ -477,13 +501,13 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HELNWEIN: mundos invertidos
 DTSTART;TZID=Europe/Madrid:20260325T000000
-DTEND;TZID=Europe/Madrid:20260730T000000
+DTEND;TZID=Europe/Madrid:20261230T000000
 UID:589bff2b47fe2569cb5e1920515f441c0e2aa7c4a42b54347667e7768faccc2a
 CATEGORIES:exhibition
 DESCRIPTION:El extraordinario universo visual del artista austro irlandés
   Gottfried Helnwein protagoniza esta exposición que reúne varias de sus 
- más icónicas obras (SOLO Independencia. Hasta 30 julio).\n\nhttps://solo
- contemporary.com/projects/helnwein-mundos-invertidos/
+ más icónicas obras (SOLO Independencia. Hasta 30 diciembre).\n\nhttps://
+ solocontemporary.com/projects/helnwein-mundos-invertidos/
 LOCATION:SOLO Independencia - de la Independencia\, 5\, Madrid\, 28001
 END:VEVENT
 BEGIN:VEVENT
@@ -1136,18 +1160,6 @@ LOCATION:Fundación Casa de México en España - de Alberto Aguilera\, 20\
  , Madrid\, 28015
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Planeta azul ¿Planeta agua?
-DTSTART;TZID=Europe/Madrid:20260522T000000
-DTEND;TZID=Europe/Madrid:20260719T000000
-UID:f7036b29cd0ca3a4ca6f4d435a08c171b0913294337316e0bf8c51d08e6645ad
-CATEGORIES:exhibition
-DESCRIPTION:Instalación artística que invita a reflexionar de forma lúd
- ica sobre el agua como un bien escaso que debemos cuidar (Puerta del Sol. 
- Hasta 19 julio).\n\nhttps://www.fundacioncanal.com/material-para-medios/pl
- aneta-azul-planeta-agua/
-LOCATION:Puerta del Sol - Puerta del Sol\,\, Madrid\, 28013
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ewa Juszkiewicz
 DTSTART;TZID=Europe/Madrid:20260526T000000
 DTEND;TZID=Europe/Madrid:20260906T000000
@@ -1366,12 +1378,12 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Black Mirror Experience™
 DTSTART;TZID=Europe/Madrid:20260604T000000
-DTEND;TZID=Europe/Madrid:20260809T000000
+DTEND;TZID=Europe/Madrid:20260802T000000
 UID:1531cbc3bd0ce881a68114b3225502330dbfdd440738c128bbe466446b631968
 CATEGORIES:exhibition
 DESCRIPTION:Una experiencia inmersiva colectiva inspirada en el universo d
  e la popular serie Black Mirror® (Espacio Delicias. Miércoles a domingos
- . Hasta 9 ago).\n\nhttps://madrid.theblackmirrorexperience.com/
+ . Hasta 2 ago).\n\nhttps://madrid.theblackmirrorexperience.com/
 LOCATION:Espacio Delicias - de las Delicias\, 61\, Madrid\, 28045
 END:VEVENT
 BEGIN:VEVENT
@@ -1677,6 +1689,18 @@ DESCRIPTION:Exposición de los murales creados por los alumnos de Bellas A
  toid=3e947f751bcae910VgnVCM100000891ecb1aRCRD&vgnextchannel=6381f073808fe4
  10Vg
 LOCATION:Museo de Historia - de Fuencarral\, 78\, Madrid\, 28004
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Antón Casamor: luz y escultura
+DTSTART;TZID=Europe/Madrid:20260612T000000
+DTEND;TZID=Europe/Madrid:20260823T000000
+UID:3a11e9ffd955fb0c99e0ba9105fc7e44a68bef98b41f9006358a2a7690e832a2
+CATEGORIES:exhibition
+DESCRIPTION:Una selección de esculturas del destacado escultor catalán s
+ e exponen en el Parque Florido\, enfrentándose a la naturaleza y a la luz
+  cambiante del día (Museo Lázaro Galdiano.\n\nhttps://www.museolazarogal
+ diano.es/actividades/anton-casamor-luz-y-escultura
+LOCATION:Museo Lázaro Galdiano - de Serrano\, 122\, Madrid\, 28006
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Conducir por Palestina | التحرّك في فلسطين
@@ -2078,86 +2102,6 @@ DESCRIPTION:Exposición que revisita el papel de la mitología en el arte
  ividades/2026/exposicion-mitologias-modernas-ouka-leele-co
 LOCATION:Sala Alcalá 31 de la Comunidad de Madrid - de Alcalá\, 31\, Mad
  rid\, 28014
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Los 40 Y La Canción Del Verano (De La Villa)
-DTSTART;TZID=Europe/Madrid:20260707T203000
-UID:ddca8d2defc909183a51e261ade5ffd5147abc0ed820176fab1c3ca03c40cef3
-CATEGORIES:exhibition
-DESCRIPTION:El 7 de julio el Ayuntamiento de Madrid y Los40 Classic inaugu
- ran Los Veranos de la Villa con una fiesta musical que será un homenaje y
-  un repaso a “la canción del verano”. “La canción del verano” es
-  sinónimo de felicidad y buen rollo. Es olvidarse de los problemas y quer
- er bailar toda la noche. Es esa canción pegadiza que tiene un estribillo 
- contagioso\, un baile sencillo que se puede practicar en colectividad y un
- a melodía pegajosa que se repite en la cabeza una y otra vez. Los40 Class
- ic con su emblemático DJ Fernadisco va a repasar todos los éxitos que se
-  han convertido en canción del verano desde el año 1985\, año el en que
-  nacieron Los Veranos de la Villa . Sobre el escenario además de Fernandi
- sco\, un grupo de baile nos recordará lo pasos de La Macarena \, el Asere
- je o del Danza Kuduro . Bailaremos y cantaremos con Georgie Dann y con Sha
- kira\, con Rosalía y con King Africa\, con Sonia y Selena y con Lou Bega\
- , con Jarabe de Palo y con Jennifer Lopez. Y con muchos más. Todo en un a
- mbiente festivo\, veraniego y casi playero para celebrar el inicio de Los 
- Veranos de la Villa .\n\nhttps://www.mataderomadrid.org/programacion/los-4
- 0-y-la-cancion-del-verano-de-la-villa
-LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spasticus Artisticus. Presentación del proyecto con el grupo prom
- otor y la participación de Gustavo A. Díaz y Blanki Izuzquiza
-DTSTART;TZID=Europe/Madrid:20260709T090000
-UID:6534eca02f691111223eef958b954b8fbee3f98dbe191a78d5d78eeb0f5b6948
-CATEGORIES:exhibition
-DESCRIPTION:Spasticus Artisticus nace como grupo colectivo y autogestionad
- o en Matadero Madrid\, durante el curso 2025/26\, derivado del deseo y la 
- necesidad de encontrarnos enfermas\, locas\, discapacitades/diversas funci
- onales\, cuerpos diversos\, convivientes con dolor\, tullidas\, taradas y 
- demás diagnosticades… para pensarnos y colectivizar a través de propue
- stas artísticas. Vinculado al proyecto Sintomatologías: aprendizajes de 
- Elena Prous\, de enero a julio de este año el grupo promotor inició y ex
- perimentó esta nueva etapa en Matadero Madrid organizada desde lo colecti
- vo y en colaboración con el departamento de Educación y Públicos. A lo 
- largo de su estancia\, ha generado un espacio de encuentro e intercambio d
- e conocimientos y experiencias entre personas con discapacidad\, neurodive
- rgentes\, psiquiatrizadas o con enfermedades de larga duración. Investig
- ó formas colectivas en torno a conceptos como “ crip ” o “ tullido 
- ” y exploró sus potencialidades políticas y culturales. El objetivo es
-  cuestionar los paradigmas tradicionales\, que suelen situar a estos colec
- tivos en marcos de caridad o lástima\, y sustituirlos por perspectivas qu
- e reconozcan su agencia\, creatividad y poder de acción. En esta ocasión
- \, Gustavo A. Díaz y Blanki Izuzquiza se harán eco de sus experiencias e
- n el proyecto\, mostrando algunas de sus piezas de documentación expandid
- a realizadas en paralelo durante las sesiones de encuentros mensuales. “
- Spasticus Artisticus nace como grupo colectivo y autogestionado en Matader
- o Madrid\, durante el curso 2025/26\, derivado del deseo y la necesidad de
-  encontrarnos enfermas\, locas\, discapacitadas/diversas funcionales\, cue
- rpos diversos\, convivientes con dolor\, tullidas\, taradas y demás diagn
- osticadas… para pensarnos y colectivizar a través de propuestas artíst
- icas. Nos conocimos y vinculamos en el proyecto Sintomatologías: aprendiz
- ajes espásticos hace casi dos años –impulsado por Elena Prous en el ma
- rco de la residencia en torno al arte y la educación\, del CRA Centro de 
- Residencias Artísticas de Matadero– y ahora iniciamos esta nueva etapa\
- , en la que queremos organizarnos desde lo colectivo.” Blanki Izuzquiza 
- es dibujante desde siempre\, graduada en Bellas Artes en la URJC – Unive
- rsidad Rey Juan Carlos. Directora de animación\, y amante de las viñetas
-  y el fanzine. Es co-impulsora del colectivo Spasticus Artisticus. Gustav
- o A. Díaz es diseñador y artista multidisciplinario\, nacido en Venezuel
- a y enraizado en Madrid. Desarrolló sus sensibilidades y habilidades crea
- tivas en una vida autodidacta\, y en el encuentro con múltiples formas de
-  creatividad y creación. Se define como artivista\, crip\, migra nieto de
-  migras\, geek y freak. El proyecto 'Spasticus Artisticus' forma parte de 
- 'Metodologías experimentales'\, la línea de trabajo de Intermediae para 
- la innovación metodológica\, que en la edición 2025-2026 se desarrolla 
- en colaboración con el Departamento de Educación y Públicos\, en su obj
- etivo común de diversificar perfiles de público y fomentar los derechos 
- culturales. Asimismo\, la actividad forma parte de ' Un cuarto de estar pa
- ra la ciudad ' (edición 2026)\, un programa gratuito de Intermediae que c
- onvierte la Nave Una de Matadero Madrid en un espacio de encuentro\, desca
- nso y descubrimiento desde la perspectiva del refugio climático.\n\nhttps
- ://www.mataderomadrid.org/programacion/spasticus-artisticus-presentacion-d
- el-proyecto-con-el-grupo-promotor-y-la
-LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Un viaje al Mar de Sombra. Caballeros de salitre

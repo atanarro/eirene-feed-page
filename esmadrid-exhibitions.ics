@@ -69,7 +69,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Un rato con Torcuato. El origen de una colección
 DTSTART;TZID=Europe/Madrid:20241219T000000
-DTEND;TZID=Europe/Madrid:20260731T000000
+DTEND;TZID=Europe/Madrid:20260724T000000
 UID:da91fb7de87fcc9d5f157cd71c81b3a8c46fc2f2a8b38cc6b0761a4074359da3
 CATEGORIES:exhibition
 DESCRIPTION:Exposición que reúne aspectos más significativos de la Col
@@ -373,6 +373,30 @@ DESCRIPTION:El artista José María Sicilia instala obras creadas ex profe
 LOCATION:Palacio de Liria - de la Princesa\, 20\, Madrid\, 28008
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Madrid Colecciona. 50 colecciones de arte contemporáneo
+DTSTART;TZID=Europe/Madrid:20260226T000000
+DTEND;TZID=Europe/Madrid:20260906T000000
+UID:607a81e6d1149fa5daa112ff49ec0c026b356202c9926602c51ed2a6b5438f18
+CATEGORIES:exhibition
+DESCRIPTION:Una selección de 100 obras contemporáneas pone en valor el p
+ apel indispensable de los coleccionistas para preservar la creación artí
+ stica (CentroCentro. Hasta 6 septiembre).\n\nhttps://www.centrocentro.org/
+ exposicion/madrid-colecciona
+LOCATION:CentroCentro - de Cibeles\, 1\, Madrid\, 28014
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MÍRAME. Retratos y retratistas en la Colección ABC
+DTSTART;TZID=Europe/Madrid:20260227T000000
+DTEND;TZID=Europe/Madrid:20260724T000000
+UID:c6b7fae5e86900344a640f7f598666e30bd4c886a6b1f73109bede0251564f4b
+CATEGORIES:exhibition
+DESCRIPTION:Recorrido por la historia del retrato de prensa a través de v
+ arias ilustraciones publicadas en el diario ABC y la revista Blanco y Negr
+ o (Museo ABC. Hasta 24 julio).\n\nhttps://museo.abc.es/exposiciones/2026/0
+ 2/mirame-retratos-y-retratistas-en-la-coleccion-abc/1218054
+LOCATION:Museo ABC - de Amaniel\, 29\, Madrid\, 28015
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Gloria Fuertes (hoy)
 DTSTART;TZID=Europe/Madrid:20260303T000000
 DTEND;TZID=Europe/Madrid:20260915T000000
@@ -477,13 +501,13 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HELNWEIN: mundos invertidos
 DTSTART;TZID=Europe/Madrid:20260325T000000
-DTEND;TZID=Europe/Madrid:20260730T000000
+DTEND;TZID=Europe/Madrid:20261230T000000
 UID:589bff2b47fe2569cb5e1920515f441c0e2aa7c4a42b54347667e7768faccc2a
 CATEGORIES:exhibition
 DESCRIPTION:El extraordinario universo visual del artista austro irlandés
   Gottfried Helnwein protagoniza esta exposición que reúne varias de sus 
- más icónicas obras (SOLO Independencia. Hasta 30 julio).\n\nhttps://solo
- contemporary.com/projects/helnwein-mundos-invertidos/
+ más icónicas obras (SOLO Independencia. Hasta 30 diciembre).\n\nhttps://
+ solocontemporary.com/projects/helnwein-mundos-invertidos/
 LOCATION:SOLO Independencia - de la Independencia\, 5\, Madrid\, 28001
 END:VEVENT
 BEGIN:VEVENT
@@ -1136,18 +1160,6 @@ LOCATION:Fundación Casa de México en España - de Alberto Aguilera\, 20\
  , Madrid\, 28015
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Planeta azul ¿Planeta agua?
-DTSTART;TZID=Europe/Madrid:20260522T000000
-DTEND;TZID=Europe/Madrid:20260719T000000
-UID:f7036b29cd0ca3a4ca6f4d435a08c171b0913294337316e0bf8c51d08e6645ad
-CATEGORIES:exhibition
-DESCRIPTION:Instalación artística que invita a reflexionar de forma lúd
- ica sobre el agua como un bien escaso que debemos cuidar (Puerta del Sol. 
- Hasta 19 julio).\n\nhttps://www.fundacioncanal.com/material-para-medios/pl
- aneta-azul-planeta-agua/
-LOCATION:Puerta del Sol - Puerta del Sol\,\, Madrid\, 28013
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ewa Juszkiewicz
 DTSTART;TZID=Europe/Madrid:20260526T000000
 DTEND;TZID=Europe/Madrid:20260906T000000
@@ -1366,12 +1378,12 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Black Mirror Experience™
 DTSTART;TZID=Europe/Madrid:20260604T000000
-DTEND;TZID=Europe/Madrid:20260809T000000
+DTEND;TZID=Europe/Madrid:20260802T000000
 UID:1531cbc3bd0ce881a68114b3225502330dbfdd440738c128bbe466446b631968
 CATEGORIES:exhibition
 DESCRIPTION:Una experiencia inmersiva colectiva inspirada en el universo d
  e la popular serie Black Mirror® (Espacio Delicias. Miércoles a domingos
- . Hasta 9 ago).\n\nhttps://madrid.theblackmirrorexperience.com/
+ . Hasta 2 ago).\n\nhttps://madrid.theblackmirrorexperience.com/
 LOCATION:Espacio Delicias - de las Delicias\, 61\, Madrid\, 28045
 END:VEVENT
 BEGIN:VEVENT
@@ -1677,6 +1689,18 @@ DESCRIPTION:Exposición de los murales creados por los alumnos de Bellas A
  toid=3e947f751bcae910VgnVCM100000891ecb1aRCRD&vgnextchannel=6381f073808fe4
  10Vg
 LOCATION:Museo de Historia - de Fuencarral\, 78\, Madrid\, 28004
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Antón Casamor: luz y escultura
+DTSTART;TZID=Europe/Madrid:20260612T000000
+DTEND;TZID=Europe/Madrid:20260823T000000
+UID:3a11e9ffd955fb0c99e0ba9105fc7e44a68bef98b41f9006358a2a7690e832a2
+CATEGORIES:exhibition
+DESCRIPTION:Una selección de esculturas del destacado escultor catalán s
+ e exponen en el Parque Florido\, enfrentándose a la naturaleza y a la luz
+  cambiante del día (Museo Lázaro Galdiano.\n\nhttps://www.museolazarogal
+ diano.es/actividades/anton-casamor-luz-y-escultura
+LOCATION:Museo Lázaro Galdiano - de Serrano\, 122\, Madrid\, 28006
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Conducir por Palestina | التحرّك في فلسطين

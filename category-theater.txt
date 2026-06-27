@@ -1,57 +1,7 @@
 Eirene feed debug
-Total events: 16
+Total events: 13
 
-[1] Niño de Elche y Paul B. Preciado
-  id: a119ee91989b6f5c28ab2646c30af440cf762f860da3f1dcfe1c099f0dd5e8a0
-  start: 2026-06-26T19:30:00+02:00
-  end: 2026-06-28T19:30:00+02:00
-  category: theater
-  source: nave_10
-  location: Nave 10 - Paseo de la Chopera, 14, Madrid
-  coordinates: 40.3920606, -3.6978319
-  url: https://tienda.madrid-destino.com/es/nave-10/nino-de-elche-y-paul-b-preciado/
-  description: Entradas agotadas desde 21.00€ | Tags: JOBO
-
-[2] Carcoma
-  id: 5ebad53474248f09b5ed35dd5d9b7a023f99f29cd89225455e61b540ed16cff8
-  start: 2026-06-26T19:30:00+02:00
-  end: N/A
-  category: theater
-  source: teatro_del_barrio
-  location: Teatro del Barrio - Calle de Zurita, 20, Madrid
-  coordinates: 40.4096081, -3.699174
-  url: https://teatrodelbarrio.com/carcoma/
-  description: ¡Ya solo quedan 1 plazas!
-
-[3] Esto no es culpa de nadie, con Facu Díaz
-  id: ad10f9442be8b09ad13c9ee888b35137f0662e99cffec9730109c4c5a9ab102c
-  start: 2026-06-26T21:00:00+02:00
-  end: N/A
-  category: theater
-  source: la_mirador
-  location: Sala Mirador - Calle Doctor Fourquet, 31, 28012 Madrid
-  coordinates: 40.4070512, -3.6988713
-  url: https://lamirador.com/funcion?nombre=esto-no-es-culpa-de-nadie-con-facu-diaz-2026
-  description: Esto no es culpa de nadie, con Facu Díaz
-
-El nuevo mundo se derrumba ante nuestros ojos y nadie quiere hacerse cargo. Mientras tanto, Facu Díaz ha decidido volver al stand up para entretener a los seres humanos mientras todo arde a su alrededor.
-
-Una suerte de violinista del Titanic que, micrófono en mano, analiza de manera escandalosamente sesgada lo que sucede en el planeta.
-
-Lo que está pasando es culpa de todos y a la vez culpa de nadie, o esa es la confusa teoría que pretende desarrollar el comediante uruguayo con este nuevo texto plagado de autoreferencias, proclamas políticas propias del siglo pasado y chistes vilmente usurpados a su compañero murciano.
-
-[4] Paloma Calle que se calle
-  id: dc6efda0ce5e92b99947e29e7391e9c32fcba9204730b8a589313f22e72ab88d
-  start: 2026-06-26T22:15:00+02:00
-  end: N/A
-  category: theater
-  source: teatro_del_barrio
-  location: Teatro del Barrio - Calle de Zurita, 20, Madrid
-  coordinates: 40.4096081, -3.699174
-  url: https://teatrodelbarrio.com/paloma-calle-que-se-calle/
-  description: Disponible
-
-[5] Arte Compacto. El vermut
+[1] Arte Compacto. El vermut
   id: 19062aada1146dee45de963a16a7284cf2958462a67b295a731e93d62b2f128c
   start: 2026-06-27T13:00:00+02:00
   end: N/A
@@ -60,9 +10,9 @@ Lo que está pasando es culpa de todos y a la vez culpa de nadie, o esa es la co
   location: Teatro del Barrio - Calle de Zurita, 20, Madrid
   coordinates: 40.4096081, -3.699174
   url: https://teatrodelbarrio.com/arte-compacto/
-  description: ¡Ya solo quedan 19 plazas!
+  description: ¡Ya solo quedan 16 plazas!
 
-[6] Niño de Elche y Paul B. Preciado
+[2] Niño de Elche y Paul B. Preciado
   id: eb092b0578f60b0315eaf9ffddfc666009163def9f7a09c32fd5135573db9691
   start: 2026-06-27T19:30:00+02:00
   end: N/A
@@ -73,7 +23,18 @@ Lo que está pasando es culpa de todos y a la vez culpa de nadie, o esa es la co
   url: https://www.mataderomadrid.org/programacion/nino-de-elche-y-paul-b-preciado
   description: Haga su transición Esta conferencia es fruto del encuentro entre el pensamiento plural y las múltiples voces de dos monstruos de la filosofía y del flamenco contemporáneos, o más bien de la exfilosofía y del exflamenco. Historia de la violencia epistémica, genealogía política de cuerpos no-binarios, anecdotario de travestismo, atlas de supervivencia de los disidentes, oda al nombre trans…en esta obra abierta Niño de Elche y Paul B. Preciado claman a la audiencia, al siglo, al mundo, al cosmos: “Haga su transición.” Dos referentes imprescindibles de la cultura contemporánea cierran la temporada. Música, literatura y pensamiento en forma de conferencia escénica, de la mano de dos artistas que apuestan por la visibilidad y la investigación en cada una de sus disciplinas. Nave 10 los reúne en escena para darnos la posibilidad, como fiesta final, de la sorpresa.
 
-[7] Mujeres y memoria democrática. Borrando el olvido
+[3] Niño de Elche y Paul B. Preciado
+  id: a119ee91989b6f5c28ab2646c30af440cf762f860da3f1dcfe1c099f0dd5e8a0
+  start: 2026-06-27T19:30:00+02:00
+  end: 2026-06-28T19:30:00+02:00
+  category: theater
+  source: nave_10
+  location: Nave 10 - Paseo de la Chopera, 14, Madrid
+  coordinates: 40.3920606, -3.6978319
+  url: https://tienda.madrid-destino.com/es/nave-10/nino-de-elche-y-paul-b-preciado/
+  description: Entradas agotadas desde 21.00€
+
+[4] Mujeres y memoria democrática. Borrando el olvido
   id: 0d7ecf35dee54aed0eeed0471d25abe37cf5873d1455165383a586b75ede7266
   start: 2026-06-27T19:30:00+02:00
   end: N/A
@@ -82,9 +43,9 @@ Lo que está pasando es culpa de todos y a la vez culpa de nadie, o esa es la co
   location: Teatro del Barrio - Calle de Zurita, 20, Madrid
   coordinates: 40.4096081, -3.699174
   url: https://teatrodelbarrio.com/mujeres-y-memoria-democratica-borrando-el-olvido/
-  description: ¡Ya solo quedan 15 plazas!
+  description: ¡Ya solo quedan 14 plazas!
 
-[8] Esto no es culpa de nadie, con Facu Díaz
+[5] Esto no es culpa de nadie, con Facu Díaz
   id: ddcc2f13045ca49d42d2b3d607ab2ba342a39267711e6fc700ba677481ccd57b
   start: 2026-06-27T21:00:00+02:00
   end: N/A
@@ -101,7 +62,7 @@ Una suerte de violinista del Titanic que, micrófono en mano, analiza de manera 
 
 Lo que está pasando es culpa de todos y a la vez culpa de nadie, o esa es la confusa teoría que pretende desarrollar el comediante uruguayo con este nuevo texto plagado de autoreferencias, proclamas políticas propias del siglo pasado y chistes vilmente usurpados a su compañero murciano.
 
-[9] Malas
+[6] Malas
   id: 463a230a4a3e048ee4d8443261847ea8ddc23fff67a2d76e0771dae0dc7f857a
   start: 2026-06-27T22:00:00+02:00
   end: N/A
@@ -112,7 +73,7 @@ Lo que está pasando es culpa de todos y a la vez culpa de nadie, o esa es la co
   url: https://teatrodelbarrio.com/malas/
   description: Disponible
 
-[10] Recital de poesía antibelicista.
+[7] Recital de poesía antibelicista.
   id: 8656d0ff3b584a9a9d16bd768151e4e7d7e4b0811d1cbc3cc193e2b6fd041741
   start: 2026-06-28T18:00:00+02:00
   end: N/A
@@ -123,7 +84,7 @@ Lo que está pasando es culpa de todos y a la vez culpa de nadie, o esa es la co
   url: https://teatrodelbarrio.com/recital-de-poesia-antibelicista/
   description: Disponible
 
-[11] Esto no es culpa de nadie, con Facu Díaz
+[8] Esto no es culpa de nadie, con Facu Díaz
   id: 9eb306edb0ea92af31e8d4dab87e12bba9ae041aeb73774f285d0d8bee26fc23
   start: 2026-06-28T19:00:00+02:00
   end: N/A
@@ -140,7 +101,7 @@ Una suerte de violinista del Titanic que, micrófono en mano, analiza de manera 
 
 Lo que está pasando es culpa de todos y a la vez culpa de nadie, o esa es la confusa teoría que pretende desarrollar el comediante uruguayo con este nuevo texto plagado de autoreferencias, proclamas políticas propias del siglo pasado y chistes vilmente usurpados a su compañero murciano.
 
-[12] José del Curro (cante) y Jerónimo Maya (toque). PEÑA FLAMENCA DE LAVAPIÉS
+[9] José del Curro (cante) y Jerónimo Maya (toque). PEÑA FLAMENCA DE LAVAPIÉS
   id: 43e6769b8aa2886d9cc7e12ea1813424025780c0b9e32680a30f78247073068c
   start: 2026-06-28T21:00:00+02:00
   end: N/A
@@ -151,7 +112,7 @@ Lo que está pasando es culpa de todos y a la vez culpa de nadie, o esa es la co
   url: https://teatrodelbarrio.com/jose-del-curro-cante-y-jeronimo-maya-toque-pena-flamenca-de-lavapies/
   description: Disponible
 
-[13] AYER DEJÉ DE MATARME - Muestra "Raquel Pérez Formación Actoral"
+[10] AYER DEJÉ DE MATARME - Muestra "Raquel Pérez Formación Actoral"
   id: 620bbffb39aa804232fa8a7aa38dc07b8d4dc23f0e2694eeb862d94bacfc29e0
   start: 2026-06-29T19:00:00+02:00
   end: N/A
@@ -160,9 +121,9 @@ Lo que está pasando es culpa de todos y a la vez culpa de nadie, o esa es la co
   location: Teatro del Barrio - Calle de Zurita, 20, Madrid
   coordinates: 40.4096081, -3.699174
   url: https://teatrodelbarrio.com/ayer-deje-de-matarme-raquel-perez-formacion-actoral/
-  description: Disponible
+  description: ¡Ya solo quedan 21 plazas!
 
-[14] AYER DEJÉ DE MATARME - Muestra "Raquel Pérez Formación Actoral"
+[11] AYER DEJÉ DE MATARME - Muestra "Raquel Pérez Formación Actoral"
   id: 68d74f10282abc4e351093704d5743fdb26b73538a55170253580c9bb6f121b2
   start: 2026-06-29T21:00:00+02:00
   end: N/A
@@ -171,9 +132,9 @@ Lo que está pasando es culpa de todos y a la vez culpa de nadie, o esa es la co
   location: Teatro del Barrio - Calle de Zurita, 20, Madrid
   coordinates: 40.4096081, -3.699174
   url: https://teatrodelbarrio.com/ayer-deje-de-matarme-raquel-perez-formacion-actoral/
-  description: ¡Ya solo quedan 26 plazas!
+  description: ¡Ya solo quedan 18 plazas!
 
-[15] El golpe Nora - Muestra "Raquel Pérez Formación actoral"
+[12] El golpe Nora - Muestra "Raquel Pérez Formación actoral"
   id: 11f8e8f0bb92b7dcd0461f7385d0b3d0ec3ec3e89e36dc24def2c596f7836200
   start: 2026-06-30T19:00:00+02:00
   end: N/A
@@ -184,7 +145,7 @@ Lo que está pasando es culpa de todos y a la vez culpa de nadie, o esa es la co
   url: https://teatrodelbarrio.com/el-golpe-nora-raquel-perez-formacion-actoral/
   description: Disponible
 
-[16] El golpe Nora - Muestra "Raquel Pérez Formación actoral"
+[13] El golpe Nora - Muestra "Raquel Pérez Formación actoral"
   id: 6ea9aec2b94c83aa7e4fe729127470b6933ff5707c9895d96c820b1c8fb7b521
   start: 2026-06-30T21:00:00+02:00
   end: N/A
@@ -193,4 +154,4 @@ Lo que está pasando es culpa de todos y a la vez culpa de nadie, o esa es la co
   location: Teatro del Barrio - Calle de Zurita, 20, Madrid
   coordinates: 40.4096081, -3.699174
   url: https://teatrodelbarrio.com/el-golpe-nora-raquel-perez-formacion-actoral/
-  description: ¡Ya solo quedan 16 plazas!
+  description: ¡Ya solo quedan 9 plazas!
