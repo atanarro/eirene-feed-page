@@ -2,69 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Piano City 2026. David Cabañas Alonso
-DTSTART;TZID=Europe/Madrid:20260627T170000
-UID:43dbce323ac48d7b419d3f6704615b1c7d5057ba9b4d11291fef0ff5be8cfe9d
-CATEGORIES:music
-DESCRIPTION:Chopin: Estudio n.º 11 op. 10\; Debussy: Fuegos artificiales\
- ; Óscar Gallego Covarrubias: Paisaje (estreno absoluto con el apoyo de Id
- ealista)\; Schumann: Fantasía op. 17. CLÁSICA.\n\nhttps://www.mataderoma
- drid.org/programacion/piano-city-2026-david-cabanas-alonso
-LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Piano City 2026. Mónica López
-DTSTART;TZID=Europe/Madrid:20260627T181500
-UID:7cf265d2686608ed173d19cbd73721e3e300b0ada06d3b8dfa249013e9a07d14
-CATEGORIES:music
-DESCRIPTION:Habitar y marchar\, improvisación modal libre. JAZZ.\n\nhttps
- ://www.mataderomadrid.org/programacion/piano-city-2026-monica-lopez
-LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Piano City 2026. Yuley Díaz
-DTSTART;TZID=Europe/Madrid:20260627T193000
-UID:bef5c4b5732b5e4246cbd89960b52128182affe414d38057c58ff7a4632c38e0
-CATEGORIES:music
-DESCRIPTION:Crisálida\; Mariposa\; H. Arlen: Over the rainbow: Y. Díaz: 
- Oye\, Guajira!\; C. Valdés: De la Habana a París\; Y. Díaz: Nadie con t
- u luz\; Ella\; Gershwin: Summertime\; Y. Díaz: Soledad 518\; Preludio Fla
- menco\; La Cubañola\; Cajkovskij en la Habana. JAZZ LATINO.\n\nhttps://ww
- w.mataderomadrid.org/programacion/piano-city-2026-yuley-diaz
-LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Excepción
-DTSTART;TZID=Europe/Madrid:20260627T203000
-UID:6add3844c172892557d9f71706e77274072b1f3f2e0eb70ebcfbba843e7762cb
-CATEGORIES:music
-DESCRIPTION:Apertura Puertas: 19:00 pm\n\nhttps://www.entradas.com/artist/
- la-excepcion/?Affiliate=RIV
-LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
- id
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Noches de La Parcería presenta:
-DTSTART;TZID=Europe/Madrid:20260627T213000
-UID:192f4988ed9cca6acd0ced036f0907a60c4ba9c8863544a152a19c6dcf23ab7a
-CATEGORIES:music
-DESCRIPTION:Concierto / Latin\n\nhttps://salavillanos.es/evento/noches-de-
- la-parceria-presenta/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Radio Clash (tributo a The Clash)
-DTSTART;TZID=Europe/Madrid:20260627T213000
-UID:2a016c7d60e3d2eb4d480c8e6814d5ec67d0fa8752a55b740d29c0e77de444bf
-CATEGORIES:music
-DESCRIPTION:Precio de las entradas: 7€/10€ Entradas a la venta en movi
- ngtickets Bio/enlaces bandas: Radio Clash_intagram Más información: Radi
- o Clash comparte con The Clash ellos los orígenes musicales en un barrio 
- de la periferia\,\n\nhttps://gruta77.com/events/radio-clash-2/var/ri-0.l-L
- 2
-LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Club Arte 23 presenta "El misterio de Chamberí. El musical"
 DTSTART;TZID=Europe/Madrid:20260628T120000
 DTEND;TZID=Europe/Madrid:20260628T120000
@@ -266,10 +203,10 @@ DTSTART;TZID=Europe/Madrid:20260704T213000
 UID:075e4840132bb916198979bac683f187a06e9a238b4cc7a562fd977efba47f72
 CATEGORIES:music
 DESCRIPTION:Precio de las entradas: 7€/10€ Entradas a la venta en movi
- ngtickets Bio/enlaces bandas: Los Hijos de la Kalle_facebook Glandes Gland
- es_facebook + Glandes Glandes_instagram Puto Donal_instagram\n\nhttps://gr
- uta77.com/events/los-hijos-de-la-kalle-puto-donal-glandes-glandes-festival
- -punk/var/ri-0.l-L2
+ ngtickets Bio/enlaces bandas: Los Hijos de la Kalle_facebook + Los Hijos d
+ e la Kalle_instagram Glandes Glandes_facebook + Glandes Glandes_instagram 
+ Puto\n\nhttps://gruta77.com/events/los-hijos-de-la-kalle-puto-donal-glande
+ s-glandes-festival-punk/var/ri-0.l-L2
 LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -332,6 +269,57 @@ CATEGORIES:music
 DESCRIPTION:Concierto / Latin / Pop / Rock\n\nhttps://salavillanos.es/even
  to/frente-cumbiero/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ecstatic Dance. Sesión con Izaskun Barbàrie
+DTSTART;TZID=Europe/Madrid:20260709T184500
+UID:7019e66e099bdfb87dba3abe4c8612262cf725e28bd051f2cd028d06223b5369
+CATEGORIES:music
+DESCRIPTION:Actividad de cierre del proyecto Spasticus Artisticus que ener
+ o a junio ha habitado el espacio Taller de Matadero de la mano del departa
+ mento de Educación y Públicos e Intermediae Matadero. Este grupo autoges
+ tionado ha reunido a personas viviendo con experiencias de discapacidad\, 
+ neurodivergencia y enfermedades de largo recorrido interesados en encontra
+ rse en torno a vivencias comunes y la creación artística. Para esta acti
+ vidad de carácter lúdico\, y abierto a personas con y sin discapacidad\,
+  el grupo convoca a Izaskun Barbàrie \, músico\, DJ y facilitadore en Ec
+ static Dance \, una práctica de movimiento libre y consciente donde mover
+ se y bailar libremente\, sin pasos coreografiados ni palabras\, guiado por
+  una ola musical. En palabras de las proponentes\, “no es necesario bail
+ ar bonito\, ni rítmico\, sino sencillamente movernos y expresarnos desde 
+ el cuerpo y la voz\, descansar o estirarnos y viajar con la música.” De
+  la mano de Izaskun Barbàrie y los integrantes de Spasticus Artisticus \,
+  Un cuarto de estar para la ciudad se transformará en un espacio relacion
+ al donde jugar\, reivindicarse\, disfrutar\, celebrar en diversidad y armo
+ nizarse desde un lenguaje no verbal. La presencia de la música será fund
+ amental\, invitando a movernos a partir de diferentes ritmos y paisajes so
+ noros\, desde la música orgánica a la electrónica\, pasando por la lír
+ ica y el juego\, para conectar con un espacio de seguridad y no juicio. Iz
+ askun Barbàrie \, persona queer y disca\, DJ facilitadore en Ecstatic Dan
+ ce\, pianista\, compositore y performer. Es integrante de la compañía de
+  danza integrada “Liant la Troca”\, dirigida por Jordi Cortés\, y la 
+ compañía “Caravana de Centàurides”\, ganadora de la convocatoria Mo
+ ving Identities Europe 2023-2024\, residente en Nau Ivanow\, Barcelona\, d
+ onde investiga las alianzas crip-queer en las artes escénicas. Dedica su 
+ tiempo a participar y promover la visibilidad de movimientos transfeminist
+ as y de diversidad funcional. Se formó en Facilitación de Ecstatic Dance
+  en 2019-2020 y desde entonces está en activo. Todas las sesiones que fac
+ ilita tienen perspectiva transfeminista y anticapactista. En Barcelona ha 
+ pasado por espacios como Ca La Dona\, Ateneu el Poblet\, Inusual Project\,
+  La Caldera de Les Corts\, así como el Festival Agrocuir (Ulloa\, Galicia
+ )\, Fiestas de Lakabe (Navarra) y La Posidònia (Ultramort\, Girona). @ecs
+ taticdancebarbarie @izaskun_barbarie Esta actividad forma parte del proyec
+ to 'Spasticus Artisticus ”' que se enmarca en 'Metodologías experimenta
+ les'\, la línea de trabajo de Intermediae para la innovación metodológi
+ ca\, que en la edición 2025-2026 se desarrolla en colaboración con el De
+ partamento de Educación y Públicos\, en su objetivo común de diversific
+ ar perfiles de público y fomentar los derechos culturales. Asimismo\, la 
+ actividad forma parte de ' Un cuarto de estar para la ciudad ' (edición 2
+ 026)\, un programa gratuito de Intermediae que convierte la Nave Una de Ma
+ tadero Madrid en un espacio de encuentro\, descanso y descubrimiento desde
+  la perspectiva del refugio climático.\n\nhttps://www.mataderomadrid.org/
+ programacion/ecstatic-dance-sesion-con-izaskun-barbarie
+LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:32-20 BLUES BAND feat MAMA NAT
@@ -398,5 +386,23 @@ CATEGORIES:music
 DESCRIPTION:Concierto / Latin\n\nhttps://salavillanos.es/evento/cuba-conne
  ction-2/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Donovan Keith
+DTSTART;TZID=Europe/Madrid:20260712T203000
+UID:d95aa7a422c2b4d76831a110c66a682a9e456fc4a93e103badffac44a0426f41
+CATEGORIES:music
+DESCRIPTION:Blues en la Villa / Concierto\n\nhttps://salavillanos.es/event
+ o/donovan-keith/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bacilos
+DTSTART;TZID=Europe/Madrid:20260712T210000
+UID:2a565be69895a8279d7147177c249a913f3228102e12a6a18652e44f48935e84
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://feverup.com/m/476505
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
 END:VEVENT
 END:VCALENDAR

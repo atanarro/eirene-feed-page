@@ -2,81 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Arte Compacto. El vermut
-DTSTART;TZID=Europe/Madrid:20260627T130000
-UID:19062aada1146dee45de963a16a7284cf2958462a67b295a731e93d62b2f128c
-CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 16 plazas!\n\nhttps://teatrodelbarrio.com/art
- e-compacto/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Niño de Elche y Paul B. Preciado
-DTSTART;TZID=Europe/Madrid:20260627T193000
-UID:eb092b0578f60b0315eaf9ffddfc666009163def9f7a09c32fd5135573db9691
-CATEGORIES:theater
-DESCRIPTION:Haga su transición Esta conferencia es fruto del encuentro en
- tre el pensamiento plural y las múltiples voces de dos monstruos de la fi
- losofía y del flamenco contemporáneos\, o más bien de la exfilosofía y
-  del exflamenco. Historia de la violencia epistémica\, genealogía polít
- ica de cuerpos no-binarios\, anecdotario de travestismo\, atlas de supervi
- vencia de los disidentes\, oda al nombre trans…en esta obra abierta Niñ
- o de Elche y Paul B. Preciado claman a la audiencia\, al siglo\, al mundo\
- , al cosmos: “Haga su transición.” Dos referentes imprescindibles de 
- la cultura contemporánea cierran la temporada. Música\, literatura y pen
- samiento en forma de conferencia escénica\, de la mano de dos artistas qu
- e apuestan por la visibilidad y la investigación en cada una de sus disci
- plinas. Nave 10 los reúne en escena para darnos la posibilidad\, como fie
- sta final\, de la sorpresa.\n\nhttps://www.mataderomadrid.org/programacion
- /nino-de-elche-y-paul-b-preciado
-LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Niño de Elche y Paul B. Preciado
-DTSTART;TZID=Europe/Madrid:20260627T193000
-DTEND;TZID=Europe/Madrid:20260628T193000
-UID:a119ee91989b6f5c28ab2646c30af440cf762f860da3f1dcfe1c099f0dd5e8a0
-CATEGORIES:theater
-DESCRIPTION:Entradas agotadas desde 21.00€\n\nhttps://tienda.madrid-dest
- ino.com/es/nave-10/nino-de-elche-y-paul-b-preciado/
-LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mujeres y memoria democrática. Borrando el olvido
-DTSTART;TZID=Europe/Madrid:20260627T193000
-UID:0d7ecf35dee54aed0eeed0471d25abe37cf5873d1455165383a586b75ede7266
-CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 14 plazas!\n\nhttps://teatrodelbarrio.com/muj
- eres-y-memoria-democratica-borrando-el-olvido/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Esto no es culpa de nadie\, con Facu Díaz
-DTSTART;TZID=Europe/Madrid:20260627T210000
-UID:ddcc2f13045ca49d42d2b3d607ab2ba342a39267711e6fc700ba677481ccd57b
-CATEGORIES:theater
-DESCRIPTION:Esto no es culpa de nadie\, con Facu Díaz\n\nEl nuevo mundo s
- e derrumba ante nuestros ojos y nadie quiere hacerse cargo. Mientras tant
- o\, Facu Díaz ha decidido volver al stand up para entretener a los seres 
- humanos mientras todo arde a su alrededor.\n\nUna suerte de violinista del
-  Titanic que\, micrófono en mano\, analiza de manera escandalosamente ses
- gada lo que sucede en el planeta.\n\nLo que está pasando es culpa de todo
- s y a la vez culpa de nadie\, o esa es la confusa teoría que pretende des
- arrollar el comediante uruguayo con este nuevo texto plagado de autorefere
- ncias\, proclamas políticas propias del siglo pasado y chistes vilmente u
- surpados a su compañero murciano.\n\nhttps://lamirador.com/funcion?nombre
- =esto-no-es-culpa-de-nadie-con-facu-diaz-2026
-LOCATION:Sala Mirador - Calle Doctor Fourquet\, 31\, 28012 Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Malas
-DTSTART;TZID=Europe/Madrid:20260627T220000
-UID:463a230a4a3e048ee4d8443261847ea8ddc23fff67a2d76e0771dae0dc7f857a
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/malas/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Recital de poesía antibelicista.
 DTSTART;TZID=Europe/Madrid:20260628T180000
 UID:8656d0ff3b584a9a9d16bd768151e4e7d7e4b0811d1cbc3cc193e2b6fd041741
@@ -104,6 +29,16 @@ DESCRIPTION:Esto no es culpa de nadie\, con Facu Díaz\n\nEl nuevo mundo s
 LOCATION:Sala Mirador - Calle Doctor Fourquet\, 31\, 28012 Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Niño de Elche y Paul B. Preciado
+DTSTART;TZID=Europe/Madrid:20260628T193000
+DTEND;TZID=Europe/Madrid:20260628T193000
+UID:a119ee91989b6f5c28ab2646c30af440cf762f860da3f1dcfe1c099f0dd5e8a0
+CATEGORIES:theater
+DESCRIPTION:Entradas agotadas desde 21.00€\n\nhttps://tienda.madrid-dest
+ ino.com/es/nave-10/nino-de-elche-y-paul-b-preciado/
+LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:José del Curro (cante) y Jerónimo Maya (toque). PEÑA FLAMENCA D
  E LAVAPIÉS
 DTSTART;TZID=Europe/Madrid:20260628T210000
@@ -118,7 +53,7 @@ SUMMARY:AYER DEJÉ DE MATARME - Muestra "Raquel Pérez Formación Actoral"
 DTSTART;TZID=Europe/Madrid:20260629T190000
 UID:620bbffb39aa804232fa8a7aa38dc07b8d4dc23f0e2694eeb862d94bacfc29e0
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 21 plazas!\n\nhttps://teatrodelbarrio.com/aye
+DESCRIPTION:¡Ya solo quedan 20 plazas!\n\nhttps://teatrodelbarrio.com/aye
  r-deje-de-matarme-raquel-perez-formacion-actoral/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
@@ -127,7 +62,7 @@ SUMMARY:AYER DEJÉ DE MATARME - Muestra "Raquel Pérez Formación Actoral"
 DTSTART;TZID=Europe/Madrid:20260629T210000
 UID:68d74f10282abc4e351093704d5743fdb26b73538a55170253580c9bb6f121b2
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 18 plazas!\n\nhttps://teatrodelbarrio.com/aye
+DESCRIPTION:¡Ya solo quedan 11 plazas!\n\nhttps://teatrodelbarrio.com/aye
  r-deje-de-matarme-raquel-perez-formacion-actoral/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
@@ -145,7 +80,7 @@ SUMMARY:El golpe Nora - Muestra "Raquel Pérez Formación actoral"
 DTSTART;TZID=Europe/Madrid:20260630T210000
 UID:6ea9aec2b94c83aa7e4fe729127470b6933ff5707c9895d96c820b1c8fb7b521
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 9 plazas!\n\nhttps://teatrodelbarrio.com/el-g
+DESCRIPTION:¡Ya solo quedan 5 plazas!\n\nhttps://teatrodelbarrio.com/el-g
  olpe-nora-raquel-perez-formacion-actoral/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
