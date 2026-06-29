@@ -2,19 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Los Desayunos del Ateneo con Teresa Ribera
-DTSTART;TZID=Europe/Madrid:20260629T093000
-DTEND;TZID=Europe/Madrid:20260629T093000
-UID:373c7109b08693f20a4fbbacf2b75acd0e13a239dca0b2ea5db15da4f2d9bdc9
-CATEGORIES:talk
-DESCRIPTION:Con Teresa Ribera\, vicepresidenta Ejecutiva de la Comisión E
- uropea para una Transición Limpia\, Justa y Competitiva en conversación 
- con los periodistas Esther Palomera\, Lucía Méndez y Pilar Santos.  \nC
- átedra Mayor. 9:30h.\n\nhttps://ateneodemadrid.com/evento/los-desayunos-d
- el-ateneo-con-teresa-ribera/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Presentación del disco "Sólo NMC"\, de Nostrum Mare Camerata
 DTSTART;TZID=Europe/Madrid:20260629T190000
 DTEND;TZID=Europe/Madrid:20260629T190000
@@ -347,6 +334,26 @@ DESCRIPTION:Agrupación para el Estudio de las Culturas Orientales Gaman.
  Interviene: Bríghid de Fez\, astróloga. Presenta y modera: Jenny Shen. 
   Salón Ciudad de Úbeda. 19:00h.\n\nhttps://ateneodemadrid.com/evento/chi
  na-actual-y-futura-segun-la-astrologia/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Comunidad en la era del tiempo atomizado
+DTSTART;TZID=Europe/Madrid:20260713T193000
+DTEND;TZID=Europe/Madrid:20260713T193000
+UID:0c7057edc24d466142f7c4a3a98e5087b556c4c90a18921f604ebde703058980
+CATEGORIES:talk
+DESCRIPTION:Sección de Filosofía. Ciclo Sin tiempo: filosofía de la vid
+ a apresurada. Reflexiones sobre amistad\, familia\, ciudad y comunidad en 
+ sociedades hiperactivas. Intervienen: Jorge Moruno\, sociólogo y diputado
+  de Más Madrid en la Asamblea de Madrid\, autor del libro «No tengo tiem
+ po. Geografías de la precariedad»\; Alejandro Cencerrado\, analista de d
+ atos del Instituto de Investigación de la Felicidad de Copenhague\, autor
+  del libro En defensa de la infelicidad\; y Patricia Fernández Martín\, 
+ psicóloga\, especialista en la relación entre humanidades y salud mental
+ \, cofundadora del espacio de reflexión InquietaMENTE y colaboradora habi
+ tual en medios como El País y Ethic. Modera: Daniel Fernández de Miguel.
+  Sala Ramón y Cajal. 19:30h.\n\nhttps://ateneodemadrid.com/evento/comunid
+ ad-en-la-era-del-tiempo-atomizado/
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 END:VCALENDAR

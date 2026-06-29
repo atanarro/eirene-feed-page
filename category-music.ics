@@ -2,92 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Club Arte 23 presenta "El misterio de Chamberí. El musical"
-DTSTART;TZID=Europe/Madrid:20260628T120000
-DTEND;TZID=Europe/Madrid:20260628T120000
-UID:47c0eb7620088522b4c87f4c97c249d6dbb41d25ee598b6bc35da3fbf896fdbd
-CATEGORIES:music
-DESCRIPTION:Entrada libre hasta completar aforo. \n \nClub Arte 23 invita 
- a la presentación del estreno del musical en Madrid. Pedro Ordóñez\, gu
- ión original. Pablo Miyar\, música original. Cátedra Mayor. 12:00h.\n\n
- https://ateneodemadrid.com/evento/el-misterio-de-chamberi-el-musical/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Piano City 2026. Pedro López
-DTSTART;TZID=Europe/Madrid:20260628T170000
-UID:bcc0e5ea4786a637844a2b301a516d93211d6e48e43f84430940b2a3bf08f374
-CATEGORIES:music
-DESCRIPTION:Haydn: Sonata Hob. XVI:12\; Chopin: Nocturno n.º 2 op. 62\; A
- . Soler: Sonatas R. 87 y R. 84\; A. Ginastera: Sonata n.º 1\; Gounod/Lisz
- t: Vals de Fausto. CLÁSICA.\n\nhttps://www.mataderomadrid.org/programacio
- n/piano-city-2026-pedro-lopez
-LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Piano City 2026. Miguel Ángel Acebo
-DTSTART;TZID=Europe/Madrid:20260628T181000
-UID:164b70a36fc96c3acaecc601dd987a13180f706dc3096705b24ed997a8dcb375
-CATEGORIES:music
-DESCRIPTION:J. Torres: Laberinto de silencios\; J. Torres: Semejante a la 
- noche\; Scriabin: Piezas op. 57\; Poema-nocturno op. 61\; Poemas op. 63\; 
- Vers la flamme op. 72\; Danzas op. 73\; J.M. Sánchez-Verdú: Jardín de f
- uego\; F. Domínguez: Approaching Mysterium (estreno en España). CONTEMPO
- RÁNEA.\n\nhttps://www.mataderomadrid.org/programacion/piano-city-2026-mig
- uel-angel-acebo
-LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Piano City 2026. Toko Furuta
-DTSTART;TZID=Europe/Madrid:20260628T192000
-UID:bc4fbb77e03679f2858b91ab46bef4661ed63646a48c9c0e5bfc7f6b22997c6d
-CATEGORIES:music
-DESCRIPTION:Rameau: Gavota con Variaciones en la menor\; Ligeti: Estudio 
- “En suspens"\; Ravel: Miroirs\; Bartók: Improvisaciones sobre canciones
-  campesinas húngaras op. 20. CLÁSICA.\n\nhttps://www.mataderomadrid.org/
- programacion/piano-city-2026-toko-furuta
-LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Excepción (Segunda Fecha)
-DTSTART;TZID=Europe/Madrid:20260628T193000
-UID:18ab6e5faa380aef3f6aade9a03549019e8eb59f7a0ab603eb0b2cc17b9bac70
-CATEGORIES:music
-DESCRIPTION:Apertura Puertas: 18:00\n\nhttps://www.ticketmaster.es/event/l
- a-excepcion-entradas/1230068036
-LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
- id
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Marina Albero & Luis Gallo Quartet
-DTSTART;TZID=Europe/Madrid:20260628T200000
-DTEND;TZID=Europe/Madrid:20260628T200000
-UID:21c82df29469bd6411a240ea2e27cbe8f0ac495ca3969b4b727f3060959b4d45
-CATEGORIES:music
-DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
-  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
- s://ateneodemadrid.com/evento/marina-albero-luis-gallo-quartet/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Piano City 2026. Álvaro Torres
-DTSTART;TZID=Europe/Madrid:20260628T203000
-UID:984609129fb056e32002d16a1aec60f6e44608e59093cf12c2307b1c3a2644c9
-CATEGORIES:music
-DESCRIPTION:Jazz contemporáneo desde Manhattan. JAZZ.\n\nhttps://www.mata
- deromadrid.org/programacion/piano-city-2026-alvaro-torres
-LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Busty and the Bass
-DTSTART;TZID=Europe/Madrid:20260628T210000
-UID:c9ba6d24b050750c92310efb7e94f7205a1d41eb4bb4530fdb0805ccd758c5ef
-CATEGORIES:music
-DESCRIPTION:Concierto / Villanos del Jazz\n\nhttps://salavillanos.es/event
- o/busty-and-the-bass/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Álvaro del Valle Quartet
 DTSTART;TZID=Europe/Madrid:20260629T200000
 DTEND;TZID=Europe/Madrid:20260630T200000
@@ -331,6 +245,17 @@ DESCRIPTION:Blues en la Villa / Concierto\n\nhttps://salavillanos.es/event
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:José Luis Gutiérrez Trío
+DTSTART;TZID=Europe/Madrid:20260710T200000
+DTEND;TZID=Europe/Madrid:20260711T200000
+UID:082e0c9592d3ccb92c228b738fce69a176b6a894f3e8c2721fcfc3ab0b9c37c5
+CATEGORIES:music
+DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
+  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
+ s://ateneodemadrid.com/evento/jose-luis-gutierrez-trio/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Orquesta Internacional Sandunga
 DTSTART;TZID=Europe/Madrid:20260710T210000
 UID:1b3fd2d153dc7d137d3321b7d45a701f022c791f97fb18c86c66524758fe7918
@@ -388,6 +313,17 @@ DESCRIPTION:Concierto / Latin\n\nhttps://salavillanos.es/evento/cuba-conne
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Leo Sidran & Friends
+DTSTART;TZID=Europe/Madrid:20260712T200000
+DTEND;TZID=Europe/Madrid:20260712T200000
+UID:7714142ca14bbd3b87be179020be989d6ca8b2459c9b5f4ea0b65c50f84733b0
+CATEGORIES:music
+DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
+  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
+ s://ateneodemadrid.com/evento/leo-sidran-friends/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Donovan Keith
 DTSTART;TZID=Europe/Madrid:20260712T203000
 UID:d95aa7a422c2b4d76831a110c66a682a9e456fc4a93e103badffac44a0426f41
@@ -404,5 +340,14 @@ CATEGORIES:music
 DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://feverup.com/m/476505
 LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
  id
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ledisi
+DTSTART;TZID=Europe/Madrid:20260713T203000
+UID:f3c81e43766bc29b52b417272951b9a518a8700f4fb74f1dac9b4c78c2f5a178
+CATEGORIES:music
+DESCRIPTION:Concierto / Villanos del Jazz\n\nhttps://salavillanos.es/event
+ o/ledisi-2/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 END:VCALENDAR

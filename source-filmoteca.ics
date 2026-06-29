@@ -2,33 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Amigos apasionados
-DTSTART;TZID=Europe/Madrid:20260628T173000
-UID:436c5b39fa1bbfac66c582e75b9e52b1988bd11102e88432836d0ec6d56b195e
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Domingo 28 de junio a las 17:30h (Sala 1. Grande
- s expectativas: Cine británico de posguerra) *Aunque las entradas aparezc
- an como agotadas en web\, pueden adquirirse en taquilla entradas para las 
- sesiones del día (de 17h a 20h)\n\nOriginal title: The Passionate Friends
- \n\nRelease year: 1949\n\nOriginal language: EN\n\nhttps://entradasfilmote
- ca.sacatuentrada.es/es/productos/descripcion/amigos-apasionados-28-junio-
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Llámame Kuchu
-DTSTART;TZID=Europe/Madrid:20260628T203000
-UID:782205ccdfb64b30684764280b6d7606d2a8ec5d6080a20d0ba6b99da5563475
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Domingo 28 de junio a las 20:30h (Sala 1. Fuera 
- del Radar / Día del Orgullo) *Aunque las entradas aparezcan como agotadas
-  en web\, pueden adquirirse en taquilla entradas para las sesiones del dí
- a (de 17h a 20h)\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/producto
- s/descripcion/llamame-kuchu-28-junio-
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Un hombre va por el camino
 DTSTART;TZID=Europe/Madrid:20260630T173000
 UID:cb585e791de50c24c2e945fdefdb896f3ea7ab553d3eeb4583ce956317de6f69
@@ -221,6 +194,20 @@ DESCRIPTION:Fecha y Hora: Sábado 4 de Julio a las 22:00h (Sala de verano.
  ada
 LOCATION:Filmoteca Espanola - Cine Dore Sala de verano - Calle de Santa Is
  abel\, 3\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Viridiana
+DTSTART;TZID=Europe/Madrid:20260705T180000
+UID:11c1b749277be5d1daf5b9b9f69e934aa5f706490c1815a6556bbf8beac67e09
+CATEGORIES:cinema
+DESCRIPTION:Fecha y Hora: Domingo 5 de Julio a las 18:00h (Sala 1. Silvia 
+ Pinal - Semana cine mexicano) *Aunque las entradas aparezcan como agotadas
+  en web\, pueden adquirirse en taquilla entradas para las sesiones del dí
+ a (de 17h a 20h)\n\nRelease year: 1962\n\nOriginal language: ES\n\nhttps:/
+ /entradasfilmoteca.sacatuentrada.es/es/productos/descripcion/viridiana-lui
+ s-buñuel-1961-
+LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
+ \, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hunted
