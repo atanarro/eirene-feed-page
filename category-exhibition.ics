@@ -28,6 +28,19 @@ LOCATION:MAD (Madrid Artes Digitales) Centro de Experiencias Inmersivas -
  de Legazpi\, 8\, Madrid\, 28045
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Exponencial. De analógicos a digitales
+DTSTART;TZID=Europe/Madrid:20240514T000000
+DTEND;TZID=Europe/Madrid:20271231T000000
+UID:f5757770ba2619f835632f368e9ae1c25e8353ae577ea62f600b1f84611272c3
+CATEGORIES:exhibition
+DESCRIPTION:Exposición permanente que explora el creciente impacto que ha
+  tenido el desarrollo de las telecomunicaciones en todos los ámbitos de n
+ uestras vidas (Espacio Fundación Telefónica.\n\nhttp://espacio.fundacio
+ ntelefonica.com/
+LOCATION:Espacio Fundación Telefónica - de Fuencarral\, 3\, Madrid\, 280
+ 04
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Colección Masaveu. Arte español del siglo XX. De Picasso a Barce
  ló
 DTSTART;TZID=Europe/Madrid:20241009T000000
@@ -297,6 +310,17 @@ DESCRIPTION:Exposición de la artista Agnes Essonti que forma parte del pr
  vidades/agenda/2026/expotemporales2026/hotel.html
 LOCATION:Museo Nacional de Antropología - de Alfonso XII\, 68\, Madrid\, 
  28014
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dinoverse: viaje a la era de los dinosaurios
+DTSTART;TZID=Europe/Madrid:20260213T000000
+DTEND;TZID=Europe/Madrid:20260725T000000
+UID:26e86bb388fcccfae92a21b664c6a1b96854d710905a04677287d6f7186addc6
+CATEGORIES:exhibition
+DESCRIPTION:Exposición inmersiva que permite adentrarse en la fascinante 
+ era de los dinosaurios (Nomad Museo Inmersivo. Sábados. Hasta 25 julio).\
+ n\nhttps://www.nomadmuseo.es/
+LOCATION:Nomad Museo Inmersivo - Gran Vía\, 78\, Madrid\, 28013
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dorothy Iannone. Una y otra vez
@@ -897,23 +921,10 @@ DESCRIPTION:La destacada diseñadora catalana de ropa de alta costura y ve
 LOCATION:Museo del Traje - de Juan de Herrera\, 2\, Madrid\, 28040
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Insectos al detalle: vecinos urbanos
-DTSTART;TZID=Europe/Madrid:20260508T000000
-DTEND;TZID=Europe/Madrid:20270104T000000
-UID:be5c66cac9113fcd9ef6efa98dde59759fdfb8de186cc3271a3eee60b61d9990
-CATEGORIES:exhibition
-DESCRIPTION:Máher Fahim Fernández presenta una sorprendente mirada micro
- scópica a los insectos y artrópodos que habitan las ciudades (Museo Naci
- onal de Ciencias Naturales. Hasta enero 2027).\n\nhttps://www.mncn.csic.es
- /es/visita-el-mncn/exposiciones/insectos-al-detalle-vecinos-urbanos
-LOCATION:Museo Nacional de Ciencias Naturales - de José Gutierrez Abascal
- \, 2\, Madrid\, 28006
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Gil Parrondo\, creador de sueños. 75 años de Dirección Artísti
  ca Cinematográfica
 DTSTART;TZID=Europe/Madrid:20260511T000000
-DTEND;TZID=Europe/Madrid:20260630T000000
+DTEND;TZID=Europe/Madrid:20260718T000000
 UID:61afc8db7363cf2da5576400092c309cdd6cf90c311ecad29b111e433af42583
 CATEGORIES:exhibition
 DESCRIPTION:Homenaje a una de las figuras más influyentes en la historia 
@@ -1093,9 +1104,9 @@ UID:990061e054160f2af567d06d2e9968e3ef1ecea95a0bd6b5d930641b2a3476a8
 CATEGORIES:exhibition
 DESCRIPTION:Exposición que tiene como objetivo acercar un fascinante peri
  odo artístico a través de una selección de más de un centenar de obras
-  (Museo del Prado. 26 may a 20 sept).\n\nhttps://www.museodelprado.es/actu
- alidad/exposicion/a-la-manera-de-italia-espaa-y-el-gotico/ba6db59c-501f-65
- 0b-583a-b9587ded7e47
+  (Museo del Prado. Hasta 20 sept).\n\nhttps://www.museodelprado.es/actuali
+ dad/exposicion/a-la-manera-de-italia-espaa-y-el-gotico/ba6db59c-501f-650b-
+ 583a-b9587ded7e47
 LOCATION:Museo del Prado - del Prado\, s/n\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
@@ -1162,18 +1173,6 @@ DESCRIPTION:Muestra que reúne la serie completa de Los Americanos realiza
  os-americanos/
 LOCATION:Espacio Fundación Telefónica - de Fuencarral\, 3\, Madrid\, 280
  04
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:De Monet a Kandinski. Arte revolucionario
-DTSTART;TZID=Europe/Madrid:20260601T000000
-DTEND;TZID=Europe/Madrid:20260629T000000
-UID:ff0d48bb6666949ad34988b531b4a16a4800eb4fca00fb53240821c8d01456d9
-CATEGORIES:exhibition
-DESCRIPTION:Experiencia que reúne los movimientos artísticos más inf
- luyentes de finales del siglo XIX y principios del XX: impresionismo\, pun
- tillismo\, posimpresionismo\, cubismo y expresionismo (Nomad Museo\n\nhttp
- s://www.nomadmuseo.es/
-LOCATION:Nomad Museo Inmersivo - Gran Vía\, 78\, Madrid\, 28013
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Endometriosis. Laia Abril (PHotoESPAÑA 2026)
@@ -1505,9 +1504,9 @@ DTEND;TZID=Europe/Madrid:20260930T000000
 UID:a2b963290f71030b22d62562cb7bb34c0cade3d1605ddd6420ecf27937734edb
 CATEGORIES:exhibition
 DESCRIPTION:Exposición que se adentra en un universo donde el vínculo en
- tre humanas y perros se convierte en danza compartida (Casa de América. 1
- 0 jun a 30 sept).\n\nhttps://phe.es/exposicion/everybody-loves-to-cha-cha-
- cha/
+ tre humanas y perros se convierte en danza compartida (Casa de América. H
+ asta 30 sept).\n\nhttps://phe.es/exposicion/everybody-loves-to-cha-cha-cha
+ /
 LOCATION:Casa de América - de Cibeles\, 2\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
@@ -1556,10 +1555,10 @@ UID:6d69765ed6973989567a810d3b51277ef6733d8dcf5e020bebeda5ae4161127e
 CATEGORIES:exhibition
 DESCRIPTION:Conjunto de obras que permiten aproximarse a algunas de las m
  ás antiguas piezas textiles que conservan las Colecciones Reales (Galerí
- a de las Colecciones Reales. 11 jun a 12 oct).\n\nhttps://www.galeriadelas
- coleccionesreales.es/exposicion/tejiendo-la-vida-cortesana-tejidos-y-borda
- dos-de/9e11dfeb-df46-e40c-d305-4b10c87b3eab?utm_source=Newsletter+Patrimon
- io+Nacional&utm_campaign=Newsletter%20Externa%20260520&utm_medium=email
+ a de las Colecciones Reales. Hasta 12 oct).\n\nhttps://www.galeriadelascol
+ eccionesreales.es/exposicion/tejiendo-la-vida-cortesana-tejidos-y-bordados
+ -de/9e11dfeb-df46-e40c-d305-4b10c87b3eab?utm_source=Newsletter+Patrimonio+
+ Nacional&utm_campaign=Newsletter%20Externa%20260520&utm_medium=email
 LOCATION:Galería de las Colecciones Reales - de Bailén\, 8\, Madrid\, 28
  013
 END:VEVENT
@@ -1611,8 +1610,8 @@ UID:da9b7917bba3a10e0de508eafa78f99e57ab11b9d9308c70bffeb96581f671ae
 CATEGORIES:exhibition
 DESCRIPTION:Exposición que conecta imagen\, política y cuerpo\, reflexio
  nando sobre el archivo\, la IA y la materia a través de una innovadora in
- stalación site-specific (Museo Cerralbo. 12 jun\n\nhttps://phe.es/expos
- icion/disfuncionarias/
+ stalación site-specific (Museo Cerralbo. Hasta 2\n\nhttps://phe.es/expo
+ sicion/disfuncionarias/
 LOCATION:Museo Cerralbo - de Ventura Rodríguez\, 17\, Madrid\, 28008
 END:VEVENT
 BEGIN:VEVENT
@@ -1622,8 +1621,8 @@ DTEND;TZID=Europe/Madrid:20260913T000000
 UID:251b9bfecaf0908b3f7378916b039919d0953f5f94dc6ff97581e778cebb926a
 CATEGORIES:exhibition
 DESCRIPTION:Exposición que reúne el trabajo de siete fotógrafos mexican
- os de reconocida trayectoria (Fundación Casa de México en España. 12 ju
- n a 13 sept).\n\nhttps://phe.es/exposicion/espectros-enigmas-de-la-mirada/
+ os de reconocida trayectoria (Fundación Casa de México en España. Hasta
+  13 sept).\n\nhttps://phe.es/exposicion/espectros-enigmas-de-la-mirada/
 LOCATION:Fundación Casa de México en España - de Alberto Aguilera\, 20\
  , Madrid\, 28015
 END:VEVENT
@@ -1658,8 +1657,8 @@ DTEND;TZID=Europe/Madrid:20261025T000000
 UID:67bb3dca55cfd89c6ca686676e60e98140bb1c33d10e7f63f6d771302913c7a7
 CATEGORIES:exhibition
 DESCRIPTION:Proyecto que explora lo doméstico como espacio ritual a trav
- és del textil y la imagen (Museo Nacional de Artes Decorativas. 13 jun a 
- 25 oct).\n\nhttps://phe.es/exposicion/toda-mi-casa-es-un-altar/
+ és del textil y la imagen (Museo Nacional de Artes Decorativas. Hasta 25 
+ oct).\n\nhttps://phe.es/exposicion/toda-mi-casa-es-un-altar/
 LOCATION:Museo Nacional de Artes Decorativas - de Montalbán\, 12\, Madrid
  \, 28014
 END:VEVENT
@@ -1681,10 +1680,10 @@ DTEND;TZID=Europe/Madrid:20260913T000000
 UID:d1564a93e82e31ef15c1a7aeb34b7f9bfe2350f9151d23348b1400f17c5afbf1
 CATEGORIES:exhibition
 DESCRIPTION:Cuatro fotógrafos contemporáneos reinterpretan los espacios 
- y colecciones de la galería (Galería de las Colecciones Reales. 16 jun a
-  13 sept).\n\nhttps://www.galeriadelascoleccionesreales.es/exposicion/alte
- raciones-historias-relatos-y-nuevas-narrativas/b44ea583-8567-41de-39b8-01a
- b04daba52
+ y colecciones de la galería (Galería de las Colecciones Reales. Hasta 13
+  sept).\n\nhttps://www.galeriadelascoleccionesreales.es/exposicion/alterac
+ iones-historias-relatos-y-nuevas-narrativas/b44ea583-8567-41de-39b8-01ab04
+ daba52
 LOCATION:Galería de las Colecciones Reales - de Bailén\, 8\, Madrid\, 28
  013
 END:VEVENT
@@ -1696,8 +1695,8 @@ DTEND;TZID=Europe/Madrid:20260920T000000
 UID:627c2096410a9364a9d3e23d9425d4205dcb5ca6ddb46cb1eafefbe1bd815279
 CATEGORIES:exhibition
 DESCRIPTION:La artista presenta un proyecto fotográfico concebido como un
- a intervención site-specific (Museo Arqueológico Nacional. 16 jun a 20 s
- ept).\n\nhttps://phe.es/exposicion/on-the-geography-of-the-river/
+ a intervención site-specific (Museo Arqueológico Nacional. Hasta 20 sept
+ ).\n\nhttps://phe.es/exposicion/on-the-geography-of-the-river/
 LOCATION:Museo Arqueológico Nacional - de Serrano\, 13\, Madrid\, 28001
 END:VEVENT
 BEGIN:VEVENT
@@ -1707,8 +1706,8 @@ DTEND;TZID=Europe/Madrid:20260830T000000
 UID:d36dfa717e897d8ff58b5c0fcc4f6613b234b291041327a7a1929ecdc3e02724
 CATEGORIES:exhibition
 DESCRIPTION:Exposición fotográfica que retrata la vida en los océanos\,
-  de Álvaro Herrero López-Beltrán (Parque de Santander. 16 jun a 30 ago)
- .\n\nhttps://www.comunidad.madrid/actividades/2025/exposicion-gran-azul
+  de Álvaro Herrero López-Beltrán (Parque de Santander. Hasta 30 ago).\n
+ \nhttps://www.comunidad.madrid/actividades/2025/exposicion-gran-azul
 LOCATION:Parque de Santander (Parque del Tercer Depósito) - de Filipinas\
  , 11\, Madrid\, 28003
 END:VEVENT
@@ -1759,8 +1758,8 @@ UID:595c85cf3a019cff22ac0507a0b1d58bcb723f34d0a01b04bc912737d2645e50
 CATEGORIES:exhibition
 DESCRIPTION:Exposicion colectiva que da la oportunidad de ver Madrid y su 
  cambio extraordinario a través de la fotografía (Museo de Arte Contempor
- áneo. 18 jun a 22 feb).\n\nhttps://phe.es/exposicion/topografia-de-un-con
- traste-una-lectura-de-madrid-a-traves-de-la-fotografia-del-mac/
+ áneo. Hasta 22 feb).\n\nhttps://phe.es/exposicion/topografia-de-un-contra
+ ste-una-lectura-de-madrid-a-traves-de-la-fotografia-del-mac/
 LOCATION:Museo de Arte Contemporáneo - del Conde Duque\, 9\, Madrid\, 280
  15
 END:VEVENT
@@ -1786,8 +1785,8 @@ UID:2ebbab200df96f03a91b5d14ed3d1c99c49a40eed9e5fde58fcdc20e960578d0
 CATEGORIES:exhibition
 DESCRIPTION:La artista argentina propone una exploración de la memoria\, 
  la identidad y la herencia cultural desde una mirada íntima y contemporá
- nea (Centro Sefarad-Israel. 19 jun a 26 jul).\n\nhttps://www.sefarad-israe
- l.es/exposiciones/silvina-mizrahi-ecos-de-un-espiritu-sefardi/
+ nea (Centro Sefarad-Israel. Hasta 30 sep).\n\nhttps://www.sefarad-israel.e
+ s/exposiciones/silvina-mizrahi-ecos-de-un-espiritu-sefardi/
 LOCATION:Centro Sefarad-Israel - Mayor\, 69\, Madrid\, 28013
 END:VEVENT
 BEGIN:VEVENT
@@ -1965,6 +1964,33 @@ LOCATION:Museo Nacional Thyssen-Bornemisza - del Prado\, 8\, Madrid\, 2801
  4
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Verano en el Museo
+DTSTART;TZID=Europe/Madrid:20260701T000000
+DTEND;TZID=Europe/Madrid:20260906T000000
+UID:8061066b6a767af78b31b2edf6dc094aafe68fcb047a495c39ade8248cb679c6
+CATEGORIES:exhibition
+DESCRIPTION:Propuesta cultural y de ocio que incluye visitas exclusivas a 
+ vehículos históricos\, talleres familiares\, un recorrido cinematográfi
+ co y una exposición con fotografías ferroviarias (Museo del F\n\nhttps:
+ //museodelferrocarril.org/comunicacion/noticia.asp?item=812
+LOCATION:Museo del Ferrocarril - de las Delicias\, 61\, Madrid\, 28045
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Home Sweet Home
+DTSTART;TZID=Europe/Madrid:20260702T000000
+DTEND;TZID=Europe/Madrid:20260726T000000
+UID:5ddd5a3194e56bb02d33464a0955d035dfdd34d33b7a59b290472161340ec8b9
+CATEGORIES:exhibition
+DESCRIPTION:El artista Bryan Bucheli expone una mirada única y crític
+ a sobre la relación entre espacio\, identidad y representación en el con
+ texto particular (Centro Cultural Casa de Vacas.\n\nhttps://www.madrid.es/
+ portales/munimadrid/es/Inicio/El-Ayuntamiento/Retiro/Programacion-cultural
+ -de-Retiro/Agenda-de-actividades-en-Retiro/Home-Sweet-Home/?vgnextfmt=defa
+ ult&vgnextoid=76d13477341aa910VgnVCM100000891ecb1aRCRD&vgnextchannel=3f4ce
+ df006a51910
+LOCATION:Centro Cultural Casa de Vacas - de Colombia\, 1\, Madrid\, 28009
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Joyas numismáticas del Instituto Valencia de Don Juan: de los car
  olingios a Fernando VII
 DTSTART;TZID=Europe/Madrid:20260702T000000
@@ -1990,86 +2016,6 @@ DESCRIPTION:Exposición que revisita el papel de la mitología en el arte
  ividades/2026/exposicion-mitologias-modernas-ouka-leele-co
 LOCATION:Sala Alcalá 31 de la Comunidad de Madrid - de Alcalá\, 31\, Mad
  rid\, 28014
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Los 40 Y La Canción Del Verano (De La Villa)
-DTSTART;TZID=Europe/Madrid:20260707T203000
-UID:ddca8d2defc909183a51e261ade5ffd5147abc0ed820176fab1c3ca03c40cef3
-CATEGORIES:exhibition
-DESCRIPTION:El 7 de julio el Ayuntamiento de Madrid y Los40 Classic inaugu
- ran Los Veranos de la Villa con una fiesta musical que será un homenaje y
-  un repaso a “la canción del verano”. “La canción del verano” es
-  sinónimo de felicidad y buen rollo. Es olvidarse de los problemas y quer
- er bailar toda la noche. Es esa canción pegadiza que tiene un estribillo 
- contagioso\, un baile sencillo que se puede practicar en colectividad y un
- a melodía pegajosa que se repite en la cabeza una y otra vez. Los40 Class
- ic con su emblemático DJ Fernadisco va a repasar todos los éxitos que se
-  han convertido en canción del verano desde el año 1985\, año el en que
-  nacieron Los Veranos de la Villa . Sobre el escenario además de Fernandi
- sco\, un grupo de baile nos recordará lo pasos de La Macarena \, el Asere
- je o del Danza Kuduro . Bailaremos y cantaremos con Georgie Dann y con Sha
- kira\, con Rosalía y con King Africa\, con Sonia y Selena y con Lou Bega\
- , con Jarabe de Palo y con Jennifer Lopez. Y con muchos más. Todo en un a
- mbiente festivo\, veraniego y casi playero para celebrar el inicio de Los 
- Veranos de la Villa .\n\nhttps://www.mataderomadrid.org/programacion/los-4
- 0-y-la-cancion-del-verano-de-la-villa
-LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spasticus Artisticus. Presentación del proyecto con el grupo prom
- otor y la participación de Gustavo A. Díaz y Blanki Izuzquiza
-DTSTART;TZID=Europe/Madrid:20260709T090000
-UID:6534eca02f691111223eef958b954b8fbee3f98dbe191a78d5d78eeb0f5b6948
-CATEGORIES:exhibition
-DESCRIPTION:Spasticus Artisticus nace como grupo colectivo y autogestionad
- o en Matadero Madrid\, durante el curso 2025/26\, derivado del deseo y la 
- necesidad de encontrarnos enfermas\, locas\, discapacitades/diversas funci
- onales\, cuerpos diversos\, convivientes con dolor\, tullidas\, taradas y 
- demás diagnosticades… para pensarnos y colectivizar a través de propue
- stas artísticas. Vinculado al proyecto Sintomatologías: aprendizajes de 
- Elena Prous\, de enero a julio de este año el grupo promotor inició y ex
- perimentó esta nueva etapa en Matadero Madrid organizada desde lo colecti
- vo y en colaboración con el departamento de Educación y Públicos. A lo 
- largo de su estancia\, ha generado un espacio de encuentro e intercambio d
- e conocimientos y experiencias entre personas con discapacidad\, neurodive
- rgentes\, psiquiatrizadas o con enfermedades de larga duración. Investig
- ó formas colectivas en torno a conceptos como “ crip ” o “ tullido 
- ” y exploró sus potencialidades políticas y culturales. El objetivo es
-  cuestionar los paradigmas tradicionales\, que suelen situar a estos colec
- tivos en marcos de caridad o lástima\, y sustituirlos por perspectivas qu
- e reconozcan su agencia\, creatividad y poder de acción. En esta ocasión
- \, Gustavo A. Díaz y Blanki Izuzquiza se harán eco de sus experiencias e
- n el proyecto\, mostrando algunas de sus piezas de documentación expandid
- a realizadas en paralelo durante las sesiones de encuentros mensuales. “
- Spasticus Artisticus nace como grupo colectivo y autogestionado en Matader
- o Madrid\, durante el curso 2025/26\, derivado del deseo y la necesidad de
-  encontrarnos enfermas\, locas\, discapacitadas/diversas funcionales\, cue
- rpos diversos\, convivientes con dolor\, tullidas\, taradas y demás diagn
- osticadas… para pensarnos y colectivizar a través de propuestas artíst
- icas. Nos conocimos y vinculamos en el proyecto Sintomatologías: aprendiz
- ajes espásticos hace casi dos años –impulsado por Elena Prous en el ma
- rco de la residencia en torno al arte y la educación\, del CRA Centro de 
- Residencias Artísticas de Matadero– y ahora iniciamos esta nueva etapa\
- , en la que queremos organizarnos desde lo colectivo.” Blanki Izuzquiza 
- es dibujante desde siempre\, graduada en Bellas Artes en la URJC – Unive
- rsidad Rey Juan Carlos. Directora de animación\, y amante de las viñetas
-  y el fanzine. Es co-impulsora del colectivo Spasticus Artisticus. Gustav
- o A. Díaz es diseñador y artista multidisciplinario\, nacido en Venezuel
- a y enraizado en Madrid. Desarrolló sus sensibilidades y habilidades crea
- tivas en una vida autodidacta\, y en el encuentro con múltiples formas de
-  creatividad y creación. Se define como artivista\, crip\, migra nieto de
-  migras\, geek y freak. El proyecto 'Spasticus Artisticus' forma parte de 
- 'Metodologías experimentales'\, la línea de trabajo de Intermediae para 
- la innovación metodológica\, que en la edición 2025-2026 se desarrolla 
- en colaboración con el Departamento de Educación y Públicos\, en su obj
- etivo común de diversificar perfiles de público y fomentar los derechos 
- culturales. Asimismo\, la actividad forma parte de ' Un cuarto de estar pa
- ra la ciudad ' (edición 2026)\, un programa gratuito de Intermediae que c
- onvierte la Nave Una de Matadero Madrid en un espacio de encuentro\, desca
- nso y descubrimiento desde la perspectiva del refugio climático.\n\nhttps
- ://www.mataderomadrid.org/programacion/spasticus-artisticus-presentacion-d
- el-proyecto-con-el-grupo-promotor-y-la
-LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Un viaje al Mar de Sombra. Caballeros de salitre
