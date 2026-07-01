@@ -79,18 +79,6 @@ DESCRIPTION:Exposición que reúne aspectos más significativos de la Col
 LOCATION:Museo ABC - de Amaniel\, 29\, Madrid\, 28015
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:El martirio de San Andrés
-DTSTART;TZID=Europe/Madrid:20250303T000000
-DTEND;TZID=Europe/Madrid:20260630T000000
-UID:c56452e24e8fd3c171cbe4476576a664eb831b3e40e93f150e0e31a5675aacab
-CATEGORIES:exhibition
-DESCRIPTION:El museo incorpora a su colección una obra maestra de la últ
- ima época del artista del pintor germano (Museo del Prado. Hasta 30 junio
-  2026).\n\nhttps://www.museodelprado.es/actualidad/exposicion/el-martirio-
- de-san-andres/812ff002-8b36-b329-bbcd-ac809fdb1f27
-LOCATION:Museo del Prado - del Prado\, s/n\, Madrid\, 28014
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:I Creative Campus Awards. Finalistas
 DTSTART;TZID=Europe/Madrid:20250614T000000
 DTEND;TZID=Europe/Madrid:20260731T000000
@@ -897,18 +885,6 @@ LOCATION:Espacio Fundación Telefónica - de Fuencarral\, 3\, Madrid\, 280
  04
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:El Greco\, Velázquez\, Goya: La Triada Inmortal
-DTSTART;TZID=Europe/Madrid:20260508T000000
-DTEND;TZID=Europe/Madrid:20260630T000000
-UID:3ba7bc7811ba6c18393cb5e1112abf6df99b5a8603395b2a6778a5a339740786
-CATEGORIES:exhibition
-DESCRIPTION:Inmersión profunda en el alma de España a través de sus tre
- s pintores más icónicos que redefinieron la trayectoria de la pintura oc
- cidental (Nomad Museo Inmersivo. Jueves a domingos).\n\nhttps://www.nomadm
- useo.es/
-LOCATION:Nomad Museo Inmersivo - Gran Vía\, 78\, Madrid\, 28013
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Helbig Archive: 96 - 26
 DTSTART;TZID=Europe/Madrid:20260508T000000
 DTEND;TZID=Europe/Madrid:20260927T000000
@@ -919,6 +895,19 @@ DESCRIPTION:La destacada diseñadora catalana de ropa de alta costura y ve
  de profesión (Museo del Traje. Hasta 27 sept).\n\nhttps://www.cultura.gob
  .es/mtraje/exposicion/temporales/2026/helbig.html
 LOCATION:Museo del Traje - de Juan de Herrera\, 2\, Madrid\, 28040
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Insectos al detalle: vecinos urbanos
+DTSTART;TZID=Europe/Madrid:20260508T000000
+DTEND;TZID=Europe/Madrid:20270104T000000
+UID:be5c66cac9113fcd9ef6efa98dde59759fdfb8de186cc3271a3eee60b61d9990
+CATEGORIES:exhibition
+DESCRIPTION:Máher Fahim Fernández presenta una sorprendente mirada micro
+ scópica a los insectos y artrópodos que habitan las ciudades (Museo Naci
+ onal de Ciencias Naturales. Hasta enero 2027).\n\nhttps://www.mncn.csic.es
+ /es/visita-el-mncn/exposiciones/insectos-al-detalle-vecinos-urbanos
+LOCATION:Museo Nacional de Ciencias Naturales - de José Gutierrez Abascal
+ \, 2\, Madrid\, 28006
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gil Parrondo\, creador de sueños. 75 años de Dirección Artísti
@@ -1175,6 +1164,18 @@ LOCATION:Espacio Fundación Telefónica - de Fuencarral\, 3\, Madrid\, 280
  04
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:De Monet a Kandinski. Arte revolucionario
+DTSTART;TZID=Europe/Madrid:20260601T000000
+DTEND;TZID=Europe/Madrid:20260727T000000
+UID:ff0d48bb6666949ad34988b531b4a16a4800eb4fca00fb53240821c8d01456d9
+CATEGORIES:exhibition
+DESCRIPTION:Experiencia que reúne los movimientos artísticos más inf
+ luyentes de finales del siglo XIX y principios del XX: impresionismo\, pun
+ tillismo\, posimpresionismo\, cubismo y expresionismo (Nomad Museo\n\nhttp
+ s://www.nomadmuseo.es/
+LOCATION:Nomad Museo Inmersivo - Gran Vía\, 78\, Madrid\, 28013
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Endometriosis. Laia Abril (PHotoESPAÑA 2026)
 DTSTART;TZID=Europe/Madrid:20260602T000000
 DTEND;TZID=Europe/Madrid:20260913T000000
@@ -1198,19 +1199,6 @@ DESCRIPTION:Exposición dedicada a la colección artística que reunieron
  exposiciones/goya-y-las-escuelas-flamenca-e-italiana-un-siglo-de-filantrop
  ia-de-carlota-de-santamarca-y-antonia-gonzalez-madrid/
 LOCATION:Museo de Historia - de Fuencarral\, 78\, Madrid\, 28004
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:XII Mes del Diseño Emergente (MDE 2026)
-DTSTART;TZID=Europe/Madrid:20260602T000000
-DTEND;TZID=Europe/Madrid:20260630T000000
-UID:ec8654738ea439b62a95b88869a1219bd1277e37f3bb41f096b7d95cb091956f
-CATEGORIES:exhibition
-DESCRIPTION:Decimosegunda edición de esta exposción que reúne los proy
- ectos más relevantes de los alumnas y alumnos de los principales centros 
- de diseño de moda del panorama nacional (Museo del Traje\n\nhttps://www.
- cultura.gob.es/mtraje/exposicion/temporales/2026/mes-del-diseno-emergente.
- html
-LOCATION:Museo del Traje - de Juan de Herrera\, 2\, Madrid\, 28040
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vitrina 0. Fragmento de la titulatura real de Adijalamani
@@ -1298,18 +1286,6 @@ DESCRIPTION:Diálogo entre una selección de obras de la Colección de Art
  3e07010VgnVCM100000dc0ca8c0RCRD&idCapitulo=
 LOCATION:Museo de Arte Contemporáneo - del Conde Duque\, 9\, Madrid\, 280
  15
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Los mismos lugares. Jorge Yeregui (PHotoESPAÑA 2026)
-DTSTART;TZID=Europe/Madrid:20260604T000000
-DTEND;TZID=Europe/Madrid:20260906T000000
-UID:ea4126f928acf1c74b6f5c4b9038603a2aea8e36a2df65df6466110b31e886e6
-CATEGORIES:exhibition
-DESCRIPTION:Muestra que analiza la transformación del territorio mediante
-  fotografía\, vídeo e instalación\, abordando dinámicas sociales\, urb
- anas y ambientales contemporáneas (Museo ICO. Hasta 6 sept).\n\nhttps://p
- he.es/exposicion/los-mismos-lugares/
-LOCATION:Museo ICO - de Zorrilla\, 3\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ofertorio. Greta Alfaro (PHotoESPAÑA 2026)
@@ -1483,19 +1459,6 @@ DESCRIPTION:Un recorrido por el proceso de transformación experimentado p
  un a 27 sept).\n\nhttps://www.museodelprado.es/actualidad/exposicion/prado
  -siglo-xxi/c973ccff-de65-880f-2753-40c9ec03dfec
 LOCATION:Museo del Prado - del Prado\, s/n\, Madrid\, 28014
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:¿Dulce o amargo? y Sol roto. Mohamed Bakri y Abboud Abu Tair
-DTSTART;TZID=Europe/Madrid:20260610T000000
-DTEND;TZID=Europe/Madrid:20260630T000000
-UID:023de89c7aba7df487e320ba58a7e2fe4391f4b29eebf52758d0ecaa44078209
-CATEGORIES:exhibition
-DESCRIPTION:La realidad de los ciudadanos palestinos a través de dos inst
- alaciones realizadas por el fotógrafo Mohamed Bakri y el artista multi
- disciplinar Abboud Abu Tair (La Casa Encendida.\n\nhttps://www.lacasaencen
- dida.es/exposiciones/dulce-o-amargo-y-sol-roto-mohamed-bakri-y-abboud-abu-
- tair
-LOCATION:La Casa Encendida - de Valencia\, 2\, Madrid\, 28012
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Everybody loves to Cha Cha Cha. Bego Antón (PHotoESPAÑA 2026)
@@ -1748,20 +1711,6 @@ DESCRIPTION:Exposición colectiva en la que se aborda la memoria como un p
  icion/latencia/
 LOCATION:Fundación Casa de México en España - de Alberto Aguilera\, 20\
  , Madrid\, 28015
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Topografía de un contraste. Una lectura de Madrid a través de la
-  fotografía (PHotoESPAÑA 2026)
-DTSTART;TZID=Europe/Madrid:20260618T000000
-DTEND;TZID=Europe/Madrid:20270222T000000
-UID:595c85cf3a019cff22ac0507a0b1d58bcb723f34d0a01b04bc912737d2645e50
-CATEGORIES:exhibition
-DESCRIPTION:Exposicion colectiva que da la oportunidad de ver Madrid y su 
- cambio extraordinario a través de la fotografía (Museo de Arte Contempor
- áneo. Hasta 22 feb).\n\nhttps://phe.es/exposicion/topografia-de-un-contra
- ste-una-lectura-de-madrid-a-traves-de-la-fotografia-del-mac/
-LOCATION:Museo de Arte Contemporáneo - del Conde Duque\, 9\, Madrid\, 280
- 15
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:México 86. El mundo unido por un balón. Annie Leibovitz (PHotoES
@@ -2042,5 +1991,18 @@ DESCRIPTION:El museo reúne por primera vez los ocho cuadros que realizó
  ualidad/exposicion/valeriano-d-becquer-1834-1870-los-cuadros-de/2ad8915c-8
  9d9-3274-8466-26c879ec6c97
 LOCATION:Museo del Prado - del Prado\, s/n\, Madrid\, 28014
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arte plumario: naturaleza\, identidad y poder
+DTSTART;TZID=Europe/Madrid:20260716T000000
+DTEND;TZID=Europe/Madrid:20270117T000000
+UID:5aa0e5c6bf5416a6ac534ba5ba701f6d1786a202cd267a6233189af86254aee0
+CATEGORIES:exhibition
+DESCRIPTION:Exposición sobre la evolución del uso de las plumas en diver
+ sas culturas (Museo Nacional de Ciencias Naturales. 16 jul a 17 ene 2027).
+ \n\nhttps://www.mncn.csic.es/es/visita-el-mncn/exposiciones/arte-plumario-
+ naturaleza-identidad-y-poder
+LOCATION:Museo Nacional de Ciencias Naturales - de José Gutierrez Abascal
+ \, 2\, Madrid\, 28006
 END:VEVENT
 END:VCALENDAR

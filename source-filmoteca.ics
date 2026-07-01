@@ -2,34 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Un hombre va por el camino
-DTSTART;TZID=Europe/Madrid:20260630T173000
-UID:cb585e791de50c24c2e945fdefdb896f3ea7ab553d3eeb4583ce956317de6f69
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Martes 30 de junio a las 17:30h (Sala 1. Manuel 
- Mur Oti: La estética del desgarro) *Aunque las entradas aparezcan como ag
- otadas en web\, pueden adquirirse en taquilla entradas para las sesiones d
- el día (de 17h a 20h)\n\nRelease year: 1949\n\nOriginal language: ES\n\nh
- ttps://entradasfilmoteca.sacatuentrada.es/es/productos/descripcion/un-homb
- re-va-por-el-camino-30-junio-
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ladybird\, Ladybird
-DTSTART;TZID=Europe/Madrid:20260630T203000
-UID:903fd6f95a42337f3a0b902ee2b0cc5886ab6723299c18f02d43a3d789e74830
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Martes 30 de junio a las 20:30h (Sala 1. Ken Loa
- ch: Crónicas de la conciencia) *Aunque las entradas aparezcan como agotad
- as en web\, pueden adquirirse en taquilla entradas para las sesiones del d
- ía (de 17h a 20h)\n\nRelease year: 1994\n\nOriginal language: EN\n\nhttps
- ://entradasfilmoteca.sacatuentrada.es/es/productos/descripcion/ladybird-la
- dybird-30-junio-
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Felices dieciséis
 DTSTART;TZID=Europe/Madrid:20260701T180000
 UID:7663edcfaed5e4c3b49fe3a96825e5032bbe241f382cd062035191a4f179676f
@@ -287,9 +259,9 @@ CATEGORIES:cinema
 DESCRIPTION:Fecha y Hora: Miércoles 8 de Julio a las 22:00h (Sala de vera
  no. Grandes expectativas: Cine británico de posguerra) *Aunque las entrad
  as aparezcan como agotadas en web\, pueden adquirirse en taquilla entradas
-  para las sesiones del día (de 17h a 20h)\n\nOriginal title: You Belong t
- o Me\n\nRelease year: 2008\n\nOriginal language: EN\n\nhttps://entradasfil
- moteca.sacatuentrada.es/es/productos/descripcion/tragica-obsesion
+  para las sesiones del día (de 17h a 20h)\n\nOriginal title: The Clouded 
+ Yellow\n\nRelease year: 1950\n\nOriginal language: EN\n\nhttps://entradasf
+ ilmoteca.sacatuentrada.es/es/productos/descripcion/tragica-obsesion
 LOCATION:Filmoteca Espanola - Cine Dore Sala de verano - Calle de Santa Is
  abel\, 3\, Madrid
 END:VEVENT
@@ -470,5 +442,46 @@ DESCRIPTION:Fecha y Hora: Domingo 5 de Julio a las 20:30h (Sala 1. Grandes
  n/hunted
 LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
  \, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nowhere to Go
+DTSTART;TZID=Europe/Madrid:20260715T180000
+UID:0dcba041c7b9e6244756b38be467cb4e204db98651bdd80cab80ebdfa96347c4
+CATEGORIES:cinema
+DESCRIPTION:Fecha y Hora: Miércoles 15 de Julio a las 18:00h (Sala 1. Gra
+ ndes expectativas: Cine británico de posguerra) *Aunque las entradas apar
+ ezcan como agotadas en web\, pueden adquirirse en taquilla entradas para l
+ as sesiones del día (de 17h a 20h)\n\nhttps://entradasfilmoteca.sacatuent
+ rada.es/es/productos/descripcion/nowhere-to-go
+LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
+ \, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El rey del barrio
+DTSTART;TZID=Europe/Madrid:20260715T203000
+UID:11fa4941b6d966ac07c57be42c25d33c508cd83e831c6ebea598dcc158525885
+CATEGORIES:cinema
+DESCRIPTION:Fecha y Hora: Miércoles 15 de Julio a las 20:30h (Sala 1. Sil
+ via Pinal - Semana cine mexicano) *Aunque las entradas aparezcan como agot
+ adas en web\, pueden adquirirse en taquilla entradas para las sesiones del
+  día (de 17h a 20h)\n\nOriginal title: The King of Staten Island\n\nRelea
+ se year: 2020\n\nOriginal language: EN\n\nhttps://entradasfilmoteca.sacatu
+ entrada.es/es/productos/descripcion/el-rey-del-barrio-2
+LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
+ \, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Buscando a Eric
+DTSTART;TZID=Europe/Madrid:20260715T220000
+UID:099953abcc6876c4151fce0cab4cd8b1416d4efc2a9a085d87a0f861ebf305c0
+CATEGORIES:cinema
+DESCRIPTION:Fecha y Hora: Miércoles 15 de Julio a las 22:00h (Sala de ver
+ ano. Ken Loach: Crónicas de la conciencia) *Aunque las entradas aparezcan
+  como agotadas en web\, pueden adquirirse en taquilla entradas para las se
+ siones del día (de 17h a 20h)\n\nOriginal title: Looking for Eric\n\nRele
+ ase year: 2009\n\nOriginal language: EN\n\nhttps://entradasfilmoteca.sacat
+ uentrada.es/es/productos/descripcion/buscando-a-eric
+LOCATION:Filmoteca Espanola - Cine Dore Sala de verano - Calle de Santa Is
+ abel\, 3\, Madrid
 END:VEVENT
 END:VCALENDAR

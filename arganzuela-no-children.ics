@@ -52,18 +52,6 @@ DESCRIPTION:Una exposición que presenta la belleza y el misterio de la Lu
 LOCATION:Planetario - del Planetario\, 16\, Madrid\, 28045
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:El martirio de San Andrés
-DTSTART;TZID=Europe/Madrid:20250303T000000
-DTEND;TZID=Europe/Madrid:20260630T000000
-UID:c56452e24e8fd3c171cbe4476576a664eb831b3e40e93f150e0e31a5675aacab
-CATEGORIES:exhibition
-DESCRIPTION:El museo incorpora a su colección una obra maestra de la últ
- ima época del artista del pintor germano (Museo del Prado. Hasta 30 junio
-  2026).\n\nhttps://www.museodelprado.es/actualidad/exposicion/el-martirio-
- de-san-andres/812ff002-8b36-b329-bbcd-ac809fdb1f27
-LOCATION:Museo del Prado - del Prado\, s/n\, Madrid\, 28014
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:I Creative Campus Awards. Finalistas
 DTSTART;TZID=Europe/Madrid:20250614T000000
 DTEND;TZID=Europe/Madrid:20260731T000000
@@ -567,18 +555,6 @@ LOCATION:Espacio Fundación Telefónica - de Fuencarral\, 3\, Madrid\, 280
  04
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:El Greco\, Velázquez\, Goya: La Triada Inmortal
-DTSTART;TZID=Europe/Madrid:20260508T000000
-DTEND;TZID=Europe/Madrid:20260630T000000
-UID:3ba7bc7811ba6c18393cb5e1112abf6df99b5a8603395b2a6778a5a339740786
-CATEGORIES:exhibition
-DESCRIPTION:Inmersión profunda en el alma de España a través de sus tre
- s pintores más icónicos que redefinieron la trayectoria de la pintura oc
- cidental (Nomad Museo Inmersivo. Jueves a domingos).\n\nhttps://www.nomadm
- useo.es/
-LOCATION:Nomad Museo Inmersivo - Gran Vía\, 78\, Madrid\, 28013
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Carteles de San Isidro. La imagen de las fiestas
 DTSTART;TZID=Europe/Madrid:20260513T000000
 DTEND;TZID=Europe/Madrid:20260920T000000
@@ -743,6 +719,18 @@ LOCATION:Espacio Fundación Telefónica - de Fuencarral\, 3\, Madrid\, 280
  04
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:De Monet a Kandinski. Arte revolucionario
+DTSTART;TZID=Europe/Madrid:20260601T000000
+DTEND;TZID=Europe/Madrid:20260727T000000
+UID:ff0d48bb6666949ad34988b531b4a16a4800eb4fca00fb53240821c8d01456d9
+CATEGORIES:exhibition
+DESCRIPTION:Experiencia que reúne los movimientos artísticos más inf
+ luyentes de finales del siglo XIX y principios del XX: impresionismo\, pun
+ tillismo\, posimpresionismo\, cubismo y expresionismo (Nomad Museo\n\nhttp
+ s://www.nomadmuseo.es/
+LOCATION:Nomad Museo Inmersivo - Gran Vía\, 78\, Madrid\, 28013
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Endometriosis. Laia Abril (PHotoESPAÑA 2026)
 DTSTART;TZID=Europe/Madrid:20260602T000000
 DTEND;TZID=Europe/Madrid:20260913T000000
@@ -838,18 +826,6 @@ DESCRIPTION:Exposición fotográfica en la que se descubre el paisaje arb
  óreo y floral de la capital argentina (Real Jardín Botánico. Hasta 30 a
  gosto).\n\nhttps://rjb.csic.es/evento/exposicion-buenos-aires-en-flor/
 LOCATION:Real Jardín Botánico - de Murillo\, 2\, Madrid\, 28014
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Los mismos lugares. Jorge Yeregui (PHotoESPAÑA 2026)
-DTSTART;TZID=Europe/Madrid:20260604T000000
-DTEND;TZID=Europe/Madrid:20260906T000000
-UID:ea4126f928acf1c74b6f5c4b9038603a2aea8e36a2df65df6466110b31e886e6
-CATEGORIES:exhibition
-DESCRIPTION:Muestra que analiza la transformación del territorio mediante
-  fotografía\, vídeo e instalación\, abordando dinámicas sociales\, urb
- anas y ambientales contemporáneas (Museo ICO. Hasta 6 sept).\n\nhttps://p
- he.es/exposicion/los-mismos-lugares/
-LOCATION:Museo ICO - de Zorrilla\, 3\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ofertorio. Greta Alfaro (PHotoESPAÑA 2026)
@@ -1012,19 +988,6 @@ DESCRIPTION:Un recorrido por el proceso de transformación experimentado p
  un a 27 sept).\n\nhttps://www.museodelprado.es/actualidad/exposicion/prado
  -siglo-xxi/c973ccff-de65-880f-2753-40c9ec03dfec
 LOCATION:Museo del Prado - del Prado\, s/n\, Madrid\, 28014
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:¿Dulce o amargo? y Sol roto. Mohamed Bakri y Abboud Abu Tair
-DTSTART;TZID=Europe/Madrid:20260610T000000
-DTEND;TZID=Europe/Madrid:20260630T000000
-UID:023de89c7aba7df487e320ba58a7e2fe4391f4b29eebf52758d0ecaa44078209
-CATEGORIES:exhibition
-DESCRIPTION:La realidad de los ciudadanos palestinos a través de dos inst
- alaciones realizadas por el fotógrafo Mohamed Bakri y el artista multi
- disciplinar Abboud Abu Tair (La Casa Encendida.\n\nhttps://www.lacasaencen
- dida.es/exposiciones/dulce-o-amargo-y-sol-roto-mohamed-bakri-y-abboud-abu-
- tair
-LOCATION:La Casa Encendida - de Valencia\, 2\, Madrid\, 28012
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Everybody loves to Cha Cha Cha. Bego Antón (PHotoESPAÑA 2026)
@@ -1290,702 +1253,6 @@ DESCRIPTION:Recorrido por la trayectoria de la gestora\, coleccionista y c
 LOCATION:Museo Reina Sofía - de Santa Isabel\, 52\, Madrid\, 28012
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pioneras: Solo querían jugar
-DTSTART;TZID=Europe/Madrid:20260630T154000
-DTEND;TZID=Europe/Madrid:20260630T172600
-UID:14f5f8b37ee5e034a6d89443438174bf94c984721cd70545f35240b2e40fa2a1
-CATEGORIES:cinema
-DESCRIPTION:En la España de principios de los años 70\, con el franquism
- o aún profundamente arraigado\, un grupo de jovencísimas y ninguneadas c
- racks del balón y un soñador promotor deportivo unen fuerzas para romper
-  barreras e iniciar lo que será la historia del fútbol femenino en nuest
- ro país.\n\nRelease year: 2026\n\nOriginal language: ES\n\nAudio: Doblada
-  ES\n\nhttps://yelmocines.es/sinopsis/pioneras-solo-querian-jugar
-LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Caso 137
-DTSTART;TZID=Europe/Madrid:20260630T154500
-DTEND;TZID=Europe/Madrid:20260630T174100
-UID:ce963e1af7b64684a7db6875724011f42b2281cfbdfad70d38e064066aa3dd1c
-CATEGORIES:cinema
-DESCRIPTION:Stéphanie\, agente de policia\, recibe el encargo de investig
- ar la grave lesión sufrida por un joven durante una manifestación tensa 
- en París. A medida que avanza en el caso\, no logra encontrar indicios cl
- aros de uso ilegítimo de la fuerza por parte de la policía. Sin embargo\
- , todo cambia cuando descubre que la víctima procede de su misma ciudad n
- atal.\n\nOriginal title: Dossier 137\n\nRelease year: 2025\n\nOriginal lan
- guage: FR\n\nAudio: VOSE\n\nhttps://yelmocines.es/sinopsis/caso-137
-LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Toy Story 5
-DTSTART;TZID=Europe/Madrid:20260630T154500
-DTEND;TZID=Europe/Madrid:20260630T172700
-UID:a12cf1937c460a57be2c716c05c33461f4895f68eb854c941a4ca6831cd92e19
-CATEGORIES:cinema
-DESCRIPTION:Los juguetes están de vuelta en "Toy Story 5"\, de Disney y P
- ixar\, y esta vez se enfrentan los juguetes y la tecnología. El trabajo d
- e Buzz\, Woody\, Jessie y el resto de la pandilla se complica exponencialm
- ente cuando se enfrentan a esta nueva amenaza para el tiempo de juego.\n\n
- Release year: 2026\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://yelm
- ocines.es/sinopsis/toy-story-5
-LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Supergirl
-DTSTART;TZID=Europe/Madrid:20260630T155000
-DTEND;TZID=Europe/Madrid:20260630T173800
-UID:30a55715cb4d054110b4418369758d2b2b8a217979c4031b69764bc12a52e7fd
-CATEGORIES:cinema
-DESCRIPTION:Tomando como referencia la reciente miniserie escrita por Tom 
- King\, esta película promete una visión diferente de lo que la mayoría 
- piensa cuando le viene a la mente la prima de Superman. "Veremos la difere
- ncia entre Superman\, que fue enviado a la Tierra y criado por unos padres
-  cariñosos desde que era un bebé\, y Supergirl\, criada en una roca\, un
- a astilla de Krypton\, y que vio morir y ser asesinados de formas terrible
- s a todos los que la rodeaban durante los primeros 14 años de su vida par
- a luego venir a la Tierra. Ella es mucho más dura y no es la Supergirl a 
- la que estamos acostumbrados".\n\nRelease year: 2026\n\nOriginal language:
-  EN\n\nAudio: VOSE\n\nhttps://yelmocines.es/sinopsis/supergirl
-LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Un Poeta
-DTSTART;TZID=Europe/Madrid:20260630T155000
-UID:064402f0a12a7d1a225da61ac4c7d3542c1dbe05b769035e776f449269354a92
-CATEGORIES:cinema
-DESCRIPTION:Versión Original Castellano | Duración 123 minutos | No reco
- mendada para menores de 16 años\n\nRelease year: 2025\n\nOriginal languag
- e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1075931/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Viaje Al País De Los Blancos
-DTSTART;TZID=Europe/Madrid:20260630T155000
-UID:2a2364c957b62ca8f449d6dcec27e5927ac402e2778eda58368d33a31cc60f54
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 110 min
- utos | No recomendada para menores de 12 años\n\nRelease year: 2026\n\nOr
- iginal language: CA\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/107587
- 6/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Viva
-DTSTART;TZID=Europe/Madrid:20260630T155000
-UID:d78883b45be1cc3ebd80b1feddbf26e6adbdf9664ced20bf7225958908d01233
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 113 min
- utos | No recomendada para menores de 16 años\n\nRelease year: 2026\n\nOr
- iginal language: CA\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/107593
- 0/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El día de la revelación
-DTSTART;TZID=Europe/Madrid:20260630T155500
-DTEND;TZID=Europe/Madrid:20260630T182100
-UID:df227681ce16c44e763c78f918a3a03e75dd2648dfd9b43b95382fe62ec587f4
-CATEGORIES:cinema
-DESCRIPTION:Si descubrieras que no estamos solos\, si alguien te abriera l
- os ojos y te lo demostrase\, ¿te asustarías? Este verano\, la verdad ser
- á revelada a siete mil millones de personas. Llega... EL DÍA DE LA REVEL
- ACIÓN.\n\nOriginal title: Disclosure Day\n\nRelease year: 2026\n\nOrigina
- l language: EN\n\nAudio: VOSE\n\nhttps://yelmocines.es/sinopsis/el-dia-de-
- la-revelacion
-LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Obsession
-DTSTART;TZID=Europe/Madrid:20260630T160000
-DTEND;TZID=Europe/Madrid:20260630T174800
-UID:1a206154b2439d0dff1e6fa72456a0614b991c5d1b1267b20674f805dc2e6c4f
-CATEGORIES:cinema
-DESCRIPTION:Tras usar un misterioso objeto para conquistar a su amor plat
- ónico\, un romántico empedernido verá cumplido su mayor anhelo…\, per
- o no tardará en descubrir el oscuro y siniestro precio de algunos deseos.
- \n\nRelease year: 2026\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://
- yelmocines.es/sinopsis/obsession
-LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Mujer Sin Nombre
-DTSTART;TZID=Europe/Madrid:20260630T160000
-UID:29e6feb21fada60f35062be9c77c326179baea151f5b88b1ac8483664e004f27
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 99 minu
- tos | Pendiente de calificación\n\nOriginal title: المجهولة\n\nRe
- lease year: 2026\n\nOriginal language: AR\n\nAudio: VOSE\n\nhttps://www.pi
- llalas.com/pase/1075877/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Toy Story 5
-DTSTART;TZID=Europe/Madrid:20260630T165000
-DTEND;TZID=Europe/Madrid:20260630T183200
-UID:942260bf8569a1773816487fb05b9e409f8ef8cc712c797d4f8d39bcc227b56f
-CATEGORIES:cinema
-DESCRIPTION:Los juguetes están de vuelta en "Toy Story 5"\, de Disney y P
- ixar\, y esta vez se enfrentan los juguetes y la tecnología. El trabajo d
- e Buzz\, Woody\, Jessie y el resto de la pandilla se complica exponencialm
- ente cuando se enfrentan a esta nueva amenaza para el tiempo de juego.\n\n
- Release year: 2026\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://yelm
- ocines.es/sinopsis/toy-story-5
-LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Supergirl
-DTSTART;TZID=Europe/Madrid:20260630T170000
-DTEND;TZID=Europe/Madrid:20260630T184800
-UID:8c7cdb426135499004120f3c8be7c59384ed3bad6e8f67b73dea2e8097ed2b42
-CATEGORIES:cinema
-DESCRIPTION:Tomando como referencia la reciente miniserie escrita por Tom 
- King\, esta película promete una visión diferente de lo que la mayoría 
- piensa cuando le viene a la mente la prima de Superman. "Veremos la difere
- ncia entre Superman\, que fue enviado a la Tierra y criado por unos padres
-  cariñosos desde que era un bebé\, y Supergirl\, criada en una roca\, un
- a astilla de Krypton\, y que vio morir y ser asesinados de formas terrible
- s a todos los que la rodeaban durante los primeros 14 años de su vida par
- a luego venir a la Tierra. Ella es mucho más dura y no es la Supergirl a 
- la que estamos acostumbrados".\n\nRelease year: 2026\n\nOriginal language:
-  EN\n\nAudio: VOSE\n\nhttps://yelmocines.es/sinopsis/supergirl
-LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Un hombre va por el camino
-DTSTART;TZID=Europe/Madrid:20260630T173000
-UID:cb585e791de50c24c2e945fdefdb896f3ea7ab553d3eeb4583ce956317de6f69
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Martes 30 de junio a las 17:30h (Sala 1. Manuel 
- Mur Oti: La estética del desgarro) *Aunque las entradas aparezcan como ag
- otadas en web\, pueden adquirirse en taquilla entradas para las sesiones d
- el día (de 17h a 20h)\n\nRelease year: 1949\n\nOriginal language: ES\n\nh
- ttps://entradasfilmoteca.sacatuentrada.es/es/productos/descripcion/un-homb
- re-va-por-el-camino-30-junio-
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Backrooms
-DTSTART;TZID=Europe/Madrid:20260630T173000
-DTEND;TZID=Europe/Madrid:20260630T192000
-UID:9c6fedde3b861a20e6c223c44f076078f46813b7482980e68005b6676ed85d42
-CATEGORIES:cinema
-DESCRIPTION:Cuando el paciente de una terapeuta desaparece en una dimensi
- ón más allá de la realidad\, ella deberá adentrarse en lo desconocido 
- para salvarlo.\n\nRelease year: 2026\n\nOriginal language: EN\n\nAudio: VO
- SE\n\nhttps://yelmocines.es/sinopsis/backrooms
-LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Toy Story 5
-DTSTART;TZID=Europe/Madrid:20260630T175000
-DTEND;TZID=Europe/Madrid:20260630T193200
-UID:a01a6359efd80b4c67cf2a27c4d0d21665e609104e41c554175552fc7589d7ce
-CATEGORIES:cinema
-DESCRIPTION:Los juguetes están de vuelta en "Toy Story 5"\, de Disney y P
- ixar\, y esta vez se enfrentan los juguetes y la tecnología. El trabajo d
- e Buzz\, Woody\, Jessie y el resto de la pandilla se complica exponencialm
- ente cuando se enfrentan a esta nueva amenaza para el tiempo de juego.\n\n
- Release year: 2026\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://yelm
- ocines.es/sinopsis/toy-story-5
-LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El drama
-DTSTART;TZID=Europe/Madrid:20260630T175000
-DTEND;TZID=Europe/Madrid:20260630T193600
-UID:24d9fe0a2649be47232d96ca80f8a9583a69169dc74b7eb835c49f74cb5cb15a
-CATEGORIES:cinema
-DESCRIPTION:Una pareja\, en los días previos a su boda\, se enfrenta a un
- a crisis cuando unas inesperadas revelaciones desbaratan lo que uno de ell
- os creía saber sobre el otro.\n\nOriginal title: The Drama\n\nRelease yea
- r: 2026\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://yelmocines.es/s
- inopsis/el-drama
-LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Mujer Sin Nombre
-DTSTART;TZID=Europe/Madrid:20260630T175500
-UID:ac0550f92b0c56f63d8b087748f1d225190c073afabe909cfeaf26a59bf1223e
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 99 minu
- tos | Pendiente de calificación\n\nOriginal title: المجهولة\n\nRe
- lease year: 2026\n\nOriginal language: AR\n\nAudio: VOSE\n\nhttps://www.pi
- llalas.com/pase/1075878/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Viaje Al País De Los Blancos
-DTSTART;TZID=Europe/Madrid:20260630T175500
-UID:7920ed5a30654472f1807fdbbd0bf8fc2f1e9a62226c37e73630d468bff4465c
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 110 min
- utos | No recomendada para menores de 12 años\n\nRelease year: 2026\n\nOr
- iginal language: CA\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/107587
- 9/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Viaje al país de los blancos
-DTSTART;TZID=Europe/Madrid:20260630T180000
-DTEND;TZID=Europe/Madrid:20260630T195000
-UID:7539c89242f172913be6e238256a657f3dd50d630842a47c6aabc5a2d154bcf9
-CATEGORIES:cinema
-DESCRIPTION:Basada en la historia real de Ousman Umar\, un joven ghanés q
- ue abandona su aldea atraído por la idea del “país de los blancos”\,
-  un lugar lejano que alimenta su curiosidad. Tras una travesía llena de o
- bstáculos llega a Barcelona y descubre que la vida allí no es como él l
- a imaginaba. Hasta que conoce a Montse\, que le acoge en su familia y le o
- frece\, además de amor y apoyo\, la posibilidad de un futuro. Ousman no s
- olo la aprovecha\, sino que la transforma en algo mucho mayor.\n\nRelease 
- year: 2026\n\nOriginal language: CA\n\nAudio: VOSE\n\nhttps://yelmocines.e
- s/sinopsis/viaje-al-pais-de-los-blancos
-LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Un Poeta
-DTSTART;TZID=Europe/Madrid:20260630T180000
-UID:d36eaf1fe433804fb4ce582b1e2b9b0aaf060ce69b1c17fed7a29406c44f0c0c
-CATEGORIES:cinema
-DESCRIPTION:Versión Original Castellano | Duración 123 minutos | No reco
- mendada para menores de 16 años\n\nRelease year: 2025\n\nOriginal languag
- e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1075932/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Supergirl
-DTSTART;TZID=Europe/Madrid:20260630T180500
-DTEND;TZID=Europe/Madrid:20260630T195300
-UID:f7e77babafd6371a27e1402ba8f3a4c9f6cacf13b83c06857eee8fde1322ee7c
-CATEGORIES:cinema
-DESCRIPTION:Tomando como referencia la reciente miniserie escrita por Tom 
- King\, esta película promete una visión diferente de lo que la mayoría 
- piensa cuando le viene a la mente la prima de Superman. "Veremos la difere
- ncia entre Superman\, que fue enviado a la Tierra y criado por unos padres
-  cariñosos desde que era un bebé\, y Supergirl\, criada en una roca\, un
- a astilla de Krypton\, y que vio morir y ser asesinados de formas terrible
- s a todos los que la rodeaban durante los primeros 14 años de su vida par
- a luego venir a la Tierra. Ella es mucho más dura y no es la Supergirl a 
- la que estamos acostumbrados".\n\nRelease year: 2026\n\nOriginal language:
-  EN\n\nAudio: VOSE\n\nhttps://yelmocines.es/sinopsis/supergirl
-LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:15 Pruebas De Amor
-DTSTART;TZID=Europe/Madrid:20260630T181000
-UID:836f62a8cc921927eae984458119c8b8208c0a227f7c44a252e827f3a2bc0017
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 97 minu
- tos | Pendiente de calificación\n\nOriginal title: Des preuves d'amour\n\
- nRelease year: 2025\n\nOriginal language: FR\n\nAudio: VOSE\n\nhttps://www
- .pillalas.com/pase/1075933/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Obsession
-DTSTART;TZID=Europe/Madrid:20260630T181500
-DTEND;TZID=Europe/Madrid:20260630T200300
-UID:c548b67684acfc2c1d8fb4377690b5e3cd59bb1ba9a44324596ebe9b4ce16d77
-CATEGORIES:cinema
-DESCRIPTION:Tras usar un misterioso objeto para conquistar a su amor plat
- ónico\, un romántico empedernido verá cumplido su mayor anhelo…\, per
- o no tardará en descubrir el oscuro y siniestro precio de algunos deseos.
- \n\nRelease year: 2026\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://
- yelmocines.es/sinopsis/obsession
-LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El día de la revelación
-DTSTART;TZID=Europe/Madrid:20260630T190000
-DTEND;TZID=Europe/Madrid:20260630T212600
-UID:0eea0f42ee916c78cf6ee51e2b8459671f9a4d8d91c6b6a5fbb9cb591fd422fa
-CATEGORIES:cinema
-DESCRIPTION:Si descubrieras que no estamos solos\, si alguien te abriera l
- os ojos y te lo demostrase\, ¿te asustarías? Este verano\, la verdad ser
- á revelada a siete mil millones de personas. Llega... EL DÍA DE LA REVEL
- ACIÓN.\n\nOriginal title: Disclosure Day\n\nRelease year: 2026\n\nOrigina
- l language: EN\n\nAudio: VOSE\n\nhttps://yelmocines.es/sinopsis/el-dia-de-
- la-revelacion
-LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Michael
-DTSTART;TZID=Europe/Madrid:20260630T190000
-DTEND;TZID=Europe/Madrid:20260630T210700
-UID:24bbc0100881cddb4661147b70d7867072e0902c8c63243c72f37f09ff5f66dd
-CATEGORIES:cinema
-DESCRIPTION:MICHAEL es el retrato en la gran pantalla de la vida y el lega
- do de uno de los artistas más influyentes que el mundo haya conocido.\n\n
- Release year: 2026\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://yelm
- ocines.es/sinopsis/michael
-LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El golpe Nora - Muestra "Raquel Pérez Formación actoral"
-DTSTART;TZID=Europe/Madrid:20260630T190000
-UID:11f8e8f0bb92b7dcd0461f7385d0b3d0ec3ec3e89e36dc24def2c596f7836200
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/el-golpe-nora-raquel
- -perez-formacion-actoral/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Obsession
-DTSTART;TZID=Europe/Madrid:20260630T191000
-DTEND;TZID=Europe/Madrid:20260630T205800
-UID:6eb44d7017c0c3fca94e3c552627d8700497c9672d1ea0cbf6a56728b1ae866c
-CATEGORIES:cinema
-DESCRIPTION:Tras usar un misterioso objeto para conquistar a su amor plat
- ónico\, un romántico empedernido verá cumplido su mayor anhelo…\, per
- o no tardará en descubrir el oscuro y siniestro precio de algunos deseos.
- \n\nRelease year: 2026\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://
- yelmocines.es/sinopsis/obsession
-LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Proyección de la película "Contando ovejas"
-DTSTART;TZID=Europe/Madrid:20260630T193000
-DTEND;TZID=Europe/Madrid:20260630T193000
-UID:b84385523b9f478a6a2d35b0d62daec2007c46bf9c26c84061af8233efbc081f
-CATEGORIES:other
-DESCRIPTION:Sección de Cine. Presenta: Jimena Tercero\, directora. Sala P
- érez Galdós. 19:30h.\n\nhttps://ateneodemadrid.com/evento/proyeccion-de-
- la-pelicula-contando-ovejas/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Backrooms
-DTSTART;TZID=Europe/Madrid:20260630T195000
-DTEND;TZID=Europe/Madrid:20260630T214000
-UID:303fb27b33679125ae8305b40345449543a372b35e65bd76c8f7a2821b86d4b0
-CATEGORIES:cinema
-DESCRIPTION:Cuando el paciente de una terapeuta desaparece en una dimensi
- ón más allá de la realidad\, ella deberá adentrarse en lo desconocido 
- para salvarlo.\n\nRelease year: 2026\n\nOriginal language: EN\n\nAudio: VO
- SE\n\nhttps://yelmocines.es/sinopsis/backrooms
-LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Un Mundo Para Mí - SDCM 2026
-DTSTART;TZID=Europe/Madrid:20260630T200000
-DTEND;TZID=Europe/Madrid:20260630T214200
-UID:57111109073720954cace6c71f9293ae9887841a45d428a9515b09a344b43e60
-CATEGORIES:cinema
-DESCRIPTION:Cuando el primer bebé de una joven pareja nace intersexual\, 
- se ven abocados a un difícil viaje de descubrimiento y toma de decisiones
- . A medida que navegan por las complejidades de la intersexualidad\, se en
- frentan tanto a sus propias incertidumbres como a las presiones sociales q
- ue rodean la identidad de su hijo.\n\nAudio: Doblada ES\n\nhttps://yelmoci
- nes.es/sinopsis/un-mundo-para-mi-sdcm-2026
-LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Toy Story 5
-DTSTART;TZID=Europe/Madrid:20260630T200000
-DTEND;TZID=Europe/Madrid:20260630T214200
-UID:2db09ebc8e6cf521c7648530a8dfc55f58a27663ab116cbb4a2e2cd7ee87767e
-CATEGORIES:cinema
-DESCRIPTION:Los juguetes están de vuelta en "Toy Story 5"\, de Disney y P
- ixar\, y esta vez se enfrentan los juguetes y la tecnología. El trabajo d
- e Buzz\, Woody\, Jessie y el resto de la pandilla se complica exponencialm
- ente cuando se enfrentan a esta nueva amenaza para el tiempo de juego.\n\n
- Release year: 2026\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://yelm
- ocines.es/sinopsis/toy-story-5
-LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Viaje Al País De Los Blancos
-DTSTART;TZID=Europe/Madrid:20260630T200000
-UID:58ca4c0d8f594d7915196b46399d40a8a8a73fba7c2bec2d0c5f46ef698d6a71
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 110 min
- utos | No recomendada para menores de 12 años\n\nRelease year: 2026\n\nOr
- iginal language: CA\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/107588
- 0/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:15 Pruebas De Amor
-DTSTART;TZID=Europe/Madrid:20260630T200500
-UID:85c9c130e98bb927a51561cf61a27ff1bc4567e5ef2fb3ceea4a952bcec8d332
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 97 minu
- tos | Pendiente de calificación\n\nOriginal title: Des preuves d'amour\n\
- nRelease year: 2025\n\nOriginal language: FR\n\nAudio: VOSE\n\nhttps://www
- .pillalas.com/pase/1075934/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Viaje al país de los blancos
-DTSTART;TZID=Europe/Madrid:20260630T201000
-DTEND;TZID=Europe/Madrid:20260630T220000
-UID:52f81277c214d0b239bdd938df613d61279384a690abce4d381b13bf5b7546e0
-CATEGORIES:cinema
-DESCRIPTION:Basada en la historia real de Ousman Umar\, un joven ghanés q
- ue abandona su aldea atraído por la idea del “país de los blancos”\,
-  un lugar lejano que alimenta su curiosidad. Tras una travesía llena de o
- bstáculos llega a Barcelona y descubre que la vida allí no es como él l
- a imaginaba. Hasta que conoce a Montse\, que le acoge en su familia y le o
- frece\, además de amor y apoyo\, la posibilidad de un futuro. Ousman no s
- olo la aprovecha\, sino que la transforma en algo mucho mayor.\n\nRelease 
- year: 2026\n\nOriginal language: CA\n\nAudio: VOSE\n\nhttps://yelmocines.e
- s/sinopsis/viaje-al-pais-de-los-blancos
-LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Supergirl
-DTSTART;TZID=Europe/Madrid:20260630T202000
-DTEND;TZID=Europe/Madrid:20260630T220800
-UID:60cf263740130ee0295dcf82f8f7aca74d455ee81c91937c49977a086a9ad9e4
-CATEGORIES:cinema
-DESCRIPTION:Tomando como referencia la reciente miniserie escrita por Tom 
- King\, esta película promete una visión diferente de lo que la mayoría 
- piensa cuando le viene a la mente la prima de Superman. "Veremos la difere
- ncia entre Superman\, que fue enviado a la Tierra y criado por unos padres
-  cariñosos desde que era un bebé\, y Supergirl\, criada en una roca\, un
- a astilla de Krypton\, y que vio morir y ser asesinados de formas terrible
- s a todos los que la rodeaban durante los primeros 14 años de su vida par
- a luego venir a la Tierra. Ella es mucho más dura y no es la Supergirl a 
- la que estamos acostumbrados".\n\nRelease year: 2026\n\nOriginal language:
-  EN\n\nAudio: VOSE\n\nhttps://yelmocines.es/sinopsis/supergirl
-LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Viva
-DTSTART;TZID=Europe/Madrid:20260630T202000
-UID:c0baf2685ea2d49120f6ed128d5fcc7277c04ae54a1a804dc99c419414dcdbe5
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 113 min
- utos | No recomendada para menores de 16 años\n\nRelease year: 2026\n\nOr
- iginal language: CA\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/107593
- 5/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ladybird\, Ladybird
-DTSTART;TZID=Europe/Madrid:20260630T203000
-UID:903fd6f95a42337f3a0b902ee2b0cc5886ab6723299c18f02d43a3d789e74830
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Martes 30 de junio a las 20:30h (Sala 1. Ken Loa
- ch: Crónicas de la conciencia) *Aunque las entradas aparezcan como agotad
- as en web\, pueden adquirirse en taquilla entradas para las sesiones del d
- ía (de 17h a 20h)\n\nRelease year: 1994\n\nOriginal language: EN\n\nhttps
- ://entradasfilmoteca.sacatuentrada.es/es/productos/descripcion/ladybird-la
- dybird-30-junio-
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Obsession
-DTSTART;TZID=Europe/Madrid:20260630T203000
-DTEND;TZID=Europe/Madrid:20260630T221800
-UID:4821d106ca412de92617ae30855616ffa465a8dc50a39fe38a0dad053d87d604
-CATEGORIES:cinema
-DESCRIPTION:Tras usar un misterioso objeto para conquistar a su amor plat
- ónico\, un romántico empedernido verá cumplido su mayor anhelo…\, per
- o no tardará en descubrir el oscuro y siniestro precio de algunos deseos.
- \n\nRelease year: 2026\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://
- yelmocines.es/sinopsis/obsession
-LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El Activista [Cine Con Orgullo Renoir]
-DTSTART;TZID=Europe/Madrid:20260630T203000
-UID:b8107eeea5a21215cf2ce24f146a9ed8a4a42115fd892d926ea6c6755a60a171
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 94 minu
- tos | No recomendada para menores de 16 años\n\nAudio: VOSE\n\nhttps://ww
- w.pillalas.com/pase/1075420/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:John Primer And Giles Robson
-DTSTART;TZID=Europe/Madrid:20260630T203000
-UID:e73b16afda50610b56fb482557d615b3860674b6c01df1acb96437efaf81fa09
-CATEGORIES:music
-DESCRIPTION:Concierto / Soul & R&B\n\nhttps://salavillanos.es/evento/john-
- primer-and-giles-robson/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El golpe Nora - Muestra "Raquel Pérez Formación actoral"
-DTSTART;TZID=Europe/Madrid:20260630T210000
-UID:6ea9aec2b94c83aa7e4fe729127470b6933ff5707c9895d96c820b1c8fb7b521
-CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 1 plazas!\n\nhttps://teatrodelbarrio.com/el-g
- olpe-nora-raquel-perez-formacion-actoral/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Scary Movie
-DTSTART;TZID=Europe/Madrid:20260630T212500
-DTEND;TZID=Europe/Madrid:20260630T230000
-UID:210166ddf9985ab3dcf303bc0727119a28d2f7d5736337fcdd84e7af1b04d46d
-CATEGORIES:cinema
-DESCRIPTION:Sexta entrega de la saga de "Scary Movie". Veintiséis años d
- espués de conseguir escapar de un asesino enmascarado sospechosamente fam
- iliar (Ghostface)\, el Core Four están de vuelta en el punto de mira del 
- asesino y ninguna película de terror está a salvo. Marlon Wayans (Shorty
- )\, Shawn Wayans (Ray)\, Anna Faris (Cindy)\, y Regina Hall (Brenda) se re
- únen en Scary Movie junto a favoritos que vuelven y nuevas caras frescas 
- para acuchillar sin piedad reboots\, remakes\, requels\, precuelas\, secue
- las\, spin-offs\, terror elevado\, historias de origen\, todo lo que tenga
-  la palabra legacy en el título y cada capítulo final que\, por supuesto
- \, no es final. Nada es sagrado. Ningún tópico sobrevive. Se cruzan toda
- s las líneas. Los Wayans están de vuelta para cancelar la cultura de can
- celación.\n\nRelease year: 2026\n\nOriginal language: EN\n\nAudio: VOSE\n
- \nhttps://yelmocines.es/sinopsis/scary-movie
-LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El diablo viste de Prada 2
-DTSTART;TZID=Europe/Madrid:20260630T214500
-DTEND;TZID=Europe/Madrid:20260630T234500
-UID:87e594c4456409c33d0d97075788dc7b4f3440d5246f10db42f81dd1e9d2b017
-CATEGORIES:cinema
-DESCRIPTION:Casi veinte años después de interpretar a los icónicos pers
- onajes de Miranda\, Andy\, Emily y Nigel\, Meryl Streep\, Anne Hathaway\, 
- Emily Blunt y Stanley Tucci regresan a las calles de Nueva York y a las of
- icinas de la revista Runway en la secuela del fenómeno de 2006 que defini
- ó a toda una generación.\n\nOriginal title: The Devil Wears Prada 2\n\nR
- elease year: 2026\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://yelmo
- cines.es/sinopsis/el-diablo-viste-de-prada-2
-LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El día de la revelación
-DTSTART;TZID=Europe/Madrid:20260630T220000
-DTEND;TZID=Europe/Madrid:20260701T002600
-UID:85fadf0be66a410b6725856df9873f158505853454adf214f23e00620516441e
-CATEGORIES:cinema
-DESCRIPTION:Si descubrieras que no estamos solos\, si alguien te abriera l
- os ojos y te lo demostrase\, ¿te asustarías? Este verano\, la verdad ser
- á revelada a siete mil millones de personas. Llega... EL DÍA DE LA REVEL
- ACIÓN.\n\nOriginal title: Disclosure Day\n\nRelease year: 2026\n\nOrigina
- l language: EN\n\nAudio: VOSE\n\nhttps://yelmocines.es/sinopsis/el-dia-de-
- la-revelacion
-LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Un Poeta
-DTSTART;TZID=Europe/Madrid:20260630T220000
-UID:cb05f60ff1c91ff6477bac510e78bdc72f235b301ee7dc27d28756a20c986d3a
-CATEGORIES:cinema
-DESCRIPTION:Versión Original Castellano | Duración 123 minutos | No reco
- mendada para menores de 16 años\n\nRelease year: 2025\n\nOriginal languag
- e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1075936/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Grazia
-DTSTART;TZID=Europe/Madrid:20260630T220500
-UID:c0b9217903895688cb7b2f604633cb5696f8697a0b8f6ad5aaa73abb04a53dbe
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 132 min
- utos | No recomendada para menores de 12 años\n\nRelease year: 2025\n\nOr
- iginal language: IT\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/107588
- 1/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Backrooms
-DTSTART;TZID=Europe/Madrid:20260630T221000
-DTEND;TZID=Europe/Madrid:20260701T000000
-UID:66876a1fb7a08ce923aaf45f29acde5504265a8b80164c9c3db3fe3ccd6291a3
-CATEGORIES:cinema
-DESCRIPTION:Cuando el paciente de una terapeuta desaparece en una dimensi
- ón más allá de la realidad\, ella deberá adentrarse en lo desconocido 
- para salvarlo.\n\nRelease year: 2026\n\nOriginal language: EN\n\nAudio: VO
- SE\n\nhttps://yelmocines.es/sinopsis/backrooms
-LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Toy Story 5
-DTSTART;TZID=Europe/Madrid:20260630T221500
-DTEND;TZID=Europe/Madrid:20260630T235700
-UID:c6802c1f33b45e1622c570ff33b0241acd27a76266d3aeb04d394525209a1730
-CATEGORIES:cinema
-DESCRIPTION:Los juguetes están de vuelta en "Toy Story 5"\, de Disney y P
- ixar\, y esta vez se enfrentan los juguetes y la tecnología. El trabajo d
- e Buzz\, Woody\, Jessie y el resto de la pandilla se complica exponencialm
- ente cuando se enfrentan a esta nueva amenaza para el tiempo de juego.\n\n
- Release year: 2026\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://yelm
- ocines.es/sinopsis/toy-story-5
-LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Mandalorian and Grogu
-DTSTART;TZID=Europe/Madrid:20260630T222500
-DTEND;TZID=Europe/Madrid:20260701T003700
-UID:784d3d4ca50e412cfb93130e58ffb9d5141ebe6c27b273d0fd3020a11363f933
-CATEGORIES:cinema
-DESCRIPTION:El malvado Imperio ha caído y los señores de la guerra imper
- iales siguen dispersos por toda la galaxia. Mientras la incipiente Nueva R
- epública trabaja para proteger todo por lo que luchó la Rebelión\, ha r
- eclutado la ayuda del legendario cazarrecompensas mandaloriano Din Djarin 
- (Pedro Pascal) y su joven aprendiz Grogu.\n\nRelease year: 2026\n\nOrigina
- l language: EN\n\nAudio: VOSE\n\nhttps://yelmocines.es/sinopsis/the-mandal
- orian-and-grogu
-LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:15 Pruebas De Amor
-DTSTART;TZID=Europe/Madrid:20260630T223000
-UID:7ddcfc8f0d5bd9ff4848efe10d1a9510b3c12ac466a8da9afd6107a02ea5411e
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 97 minu
- tos | Pendiente de calificación\n\nOriginal title: Des preuves d'amour\n\
- nRelease year: 2025\n\nOriginal language: FR\n\nAudio: VOSE\n\nhttps://www
- .pillalas.com/pase/1075937/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Supergirl
-DTSTART;TZID=Europe/Madrid:20260630T223500
-DTEND;TZID=Europe/Madrid:20260701T002300
-UID:afcda50bb27f42f68341373b43e7f03b49d75bc51c727b994741e0047b2dc501
-CATEGORIES:cinema
-DESCRIPTION:Tomando como referencia la reciente miniserie escrita por Tom 
- King\, esta película promete una visión diferente de lo que la mayoría 
- piensa cuando le viene a la mente la prima de Superman. "Veremos la difere
- ncia entre Superman\, que fue enviado a la Tierra y criado por unos padres
-  cariñosos desde que era un bebé\, y Supergirl\, criada en una roca\, un
- a astilla de Krypton\, y que vio morir y ser asesinados de formas terrible
- s a todos los que la rodeaban durante los primeros 14 años de su vida par
- a luego venir a la Tierra. Ella es mucho más dura y no es la Supergirl a 
- la que estamos acostumbrados".\n\nRelease year: 2026\n\nOriginal language:
-  EN\n\nAudio: VOSE\n\nhttps://yelmocines.es/sinopsis/supergirl
-LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Obsession
-DTSTART;TZID=Europe/Madrid:20260630T224500
-DTEND;TZID=Europe/Madrid:20260701T003300
-UID:0949fc3b96f41d34fb65cc77ab7be0f19241d4049bf6b9f5c75fcdd9c98b0537
-CATEGORIES:cinema
-DESCRIPTION:Tras usar un misterioso objeto para conquistar a su amor plat
- ónico\, un romántico empedernido verá cumplido su mayor anhelo…\, per
- o no tardará en descubrir el oscuro y siniestro precio de algunos deseos.
- \n\nRelease year: 2026\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://
- yelmocines.es/sinopsis/obsession
-LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El drama
-DTSTART;TZID=Europe/Madrid:20260630T224500
-DTEND;TZID=Europe/Madrid:20260701T003100
-UID:eec120ef092d2308827daf17defa03f7229d7defa411a6a8142a3313622d09d2
-CATEGORIES:cinema
-DESCRIPTION:Una pareja\, en los días previos a su boda\, se enfrenta a un
- a crisis cuando unas inesperadas revelaciones desbaratan lo que uno de ell
- os creía saber sobre el otro.\n\nOriginal title: The Drama\n\nRelease yea
- r: 2026\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://yelmocines.es/s
- inopsis/el-drama
-LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:El encanto de la ilusión. Un puente entre realidad y percepción
 DTSTART;TZID=Europe/Madrid:20260701T000000
 DTEND;TZID=Europe/Madrid:20261011T000000
@@ -2022,6 +1289,118 @@ DESCRIPTION:Propuesta cultural y de ocio que incluye visitas exclusivas a
  co y una exposición con fotografías ferroviarias (Museo del F\n\nhttps:
  //museodelferrocarril.org/comunicacion/noticia.asp?item=812
 LOCATION:Museo del Ferrocarril - de las Delicias\, 61\, Madrid\, 28045
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Refugio climático 'Un cuarto de estar para la ciudad'
+DTSTART;TZID=Europe/Madrid:20260701T120000
+UID:db73eb3a843faf4c9b918fe7d57d3e10544a2cda6f65a59c1e4dacac030f7494
+CATEGORIES:other
+DESCRIPTION:Entre el 1 y el 31 de julio Intermediae propone la apertura de
+  la Nave Una en un horario extendido\, bajo la perspectiva de refugio clim
+ ático\, consolidando la línea iniciada con éxito en 2025 y que más de 
+ 11 mil personas pudieron disfrutar. Urgida por la crisis climática y los 
+ efectos vinculados a las elevadas temperaturas\, la Nave Una volverá a co
+ nvertirse en un lugar donde estar\, protegerse y descansar\, además de pr
+ esentar una variada programación cultural. En este cuarto de estar\, la c
+ ultura se vivirá como un refugio físico\, creativo e intelectual frente 
+ a la intemperie. La idea de casa nos conecta con el refugio desde el biene
+ star\, más que desde el peligro. También con la exploración de un lugar
+  donde en la actualidad se ensayan formas inspiradoras y críticas de conv
+ ivencia e intercambio basadas en los cuidados en su amplio sentido\, desde
+  la amistad\, la familia\, lo colectivo\, los compañeros de piso\, la vec
+ indad. Partiendo de esta imagen\, la nave se transforma en Un cuarto de es
+ tar para la ciudad \, un espacio y programa en el que refugiarse en el tip
+ o de prácticas culturales que podríamos llevar a cabo en el “salón de
+  nuestra casa”\, en combinación con aquello que deseamos hacer y proyec
+ tar si pudiéramos explorar nuevos usos\, de otras dimensiones\, por conoc
+ er\, con otros. Un lugar para la hospitalidad y el encuentro\, también 
+ donde se desarrollan prácticas culturales artísticas y domésticas\, que
+  van desde estar juntas y compartir\, el cine\, la escritura\, la conversa
+ ción\, la escucha… Una propuesta que explora la pregunta por ese lugar 
+ entre lo íntimo/privado y lo público\, para llevarnos a un espacio de lo
+  común articulado desde lo cultural. En esta edición de Un cuarto de est
+ ar para la ciudad \, toma fuerza la perspectiva de la comunidad y del habi
+ tar. ¿Qué comunidades habitan Intermediae y cómo se producen nuevas man
+ eras de habitar y entrelazarse en (un) Cuarto de estar? ¿Qué comunidad e
+ s la que habita y se forma en un espacio vegetal cultural? ¿Qué comunida
+ des se forman en torno a situaciones como la escucha\, la escritura\, el c
+ ine o la lectura? ¿Qué ideas de amabilidad y cuidado permiten la hospita
+ lidad y el anfitrionaje en un lugar? ¿Quiénes hacen de anfitrionas\, qui
+ enes acogen y son acogidas\, en una comunidad temporal\, en movimiento\, r
+ otación y construcción? ¿Qué momentos y situaciones nos unen como cole
+ ctivo? La búsqueda de un espacio común entre lo público y lo privado\, 
+ el sonido y la performatividad\, la creación y el observar\, la acción y
+  el estar\, conforman un contexto afectivo que desborda lo espacial. La ne
+ cesidad de buscar cobijo ante el calor se resignifica como dispositivo cul
+ tural capaz de detonar la construcción comunidades afectivas\, temporal
+ es y en movimiento (más que estables o autorreferenciales). Esta intuici
+ ón nos lleva a poner en el centro una espacialidad y temporalidad para qu
+ e la quietud\, el juego\, la filosofía\, la poesía\, el arte\, lo imprev
+ isto\, lo urbano\, la literatura\, la oralidad\, la música\, la narració
+ n\, los cuentos y el encuentro transformen nuestro yo en “nosotros”. C
+ omo comunidad que evoluciona dentro de un entramado más-que-humano\, entr
+ elazado con el mundo vegetal que habita también el cuarto de estar y form
+ a parte de la comunidad. Desde una perspectiva de lo comunitario\, Un cuar
+ to de estar invita a artistas y colectivos que trabajan desde una práctic
+ a definida por la apertura y la coproducción \, involucrando a otras pers
+ onas\, una multitud que baila\, escribe y escucha\, extendiendo la noción
+  de autoría a la comunidad que la realiza y dota sentido. Esta perspectiv
+ a se traduce al propio espacio que encuentra su sentido en el otro\, en lo
+  comunitario\, y se constituye por innumerables posibilidades\, expuesto a
+  un público capaz de completarlo. Más allá de los límites de una conce
+ pción estable de la comunidad\, se invoca una multiplicidad de prácticas
+  y culturas\, al plural de las comunidades que habitan o experimentan 
+ este espacio. Un enfoque radicalmente público que reconoce a los visitant
+ es\, participantes\, vecinos\, comunidades\, transeúntes como su sentido 
+ y propósito\, junto a cuestiones como la sostenibilidad y huella ambienta
+ l de una programación basada en la proximidad y el tejido del territorio.
+  Como parte de estas comunidades y cuerpos en alianza se encuentran las pr
+ ocedentes de proyectos activos en Usera y Arganzuela —como los impulsado
+ s por la convocatoria Intermediae Distribuido\, que se incorporan a la pro
+ gramación—. Yuan iuan compartirá en modo estudio abierto materiales y 
+ conversaciones sobre el proyecto Where is my friends______? \, Gada 7 pres
+ entará junto a las protagonistas del proceso la pieza y muestra final Des
+ construcción de las violencias a través del cuerpo \, seguidos de una co
+ munidad de jóvenes que diseñarán laboratorios y rutas para prevenir y s
+ ensibilizar ante el cambio climático. Destaca igualmente Spasticus Artist
+ icus \, una comunidad vinculada a Matadero Madrid que reúne a personas co
+ n discapacidad\, neurodivergentes\, psiquiatrizadas o con enfermedades de 
+ larga duración\, y que ha acompañado al centro a lo largo de este año. 
+ Cuarto de estar acogerá también la concepción de comunidad habitadas po
+ r las vivas y las que ya no están\, todas ellas presentes en un espacio d
+ e escritura compartido con Inés Plasencia y Las Lindas Pobres . Una comun
+ idad que escucha\, lee\, baila y compone música se entrelazará con Josep
+ hine’s Soundscapes \, Marco Padiya \, Marta Echaves y Natalia Piñuel . 
+ Para acabar el programa una comunidad en movimiento nos guiará en una der
+ iva nocturna y sonora en torno al río\, patrimonio de la ciudad y el mejo
+ r refugio ante el calor\, de la mano de Iren Márquez Dos Santos y Euyín 
+ Eugene . El espacio cuenta con plantas cedidas en préstamo por la Unidad
+  de Producción Vegetal de Viveros Estufas del Retiro \, de la Subdirecci
+ ón General de Parques y Viveros del Ayuntamiento de Madrid\, al cuidado d
+ e la experta en botánica urbana Elena Páez (Planthae) . PROGRAMA DE ACTI
+ VIDADES: >Estudio abierto Yuan iuan Del 30 junio al 3 de julio en Terrario
+  de Nave Una de 12 a 17 h. > Construyendo comunidad desde la autodefensa. 
+ Encuentro popular de deportes de contacto Gada 7\, de la mano Guantes Manc
+ hados y Asociación Gata Tramuntana Domingo 5 de julio en Nave Una\, 18.30
+  h. > Tarde en Un cuarto de estar para la ciudad de la mano de Spasticus A
+ rtisticus. Jueves 9 de julio Incluir salidas. Una presentación cuando se 
+ pudo Presentación de la publicación Sintomatologías: aprendizajes espá
+ sticos de Elena Prous\, con Vito Gil-delgado\, Ana Castro y Maite Barrera\
+ , en colaboración con el Centro de Residencias Artísticas de Matadero Ma
+ drid. A las 17.30 h. Spasticus Artisticus Presentación del proyecto con e
+ l grupo promotor y la participación de Gustavo A. Díaz y Blanki Izuzquiz
+ a. A las 18.15 h Ecstatic Dance Sesión con Izaskun Barbárie A partir de 
+ las de 18.45 h. >Madrid 360 Joven Organizado por el Departamento de Juvent
+ ud del Ayuntamiento de Madrid Viernes 10 de julio de 16 a 21 h. >Comunidad
+ es emocionales. Escritura con quienes no están Inés Plasencia Camps y La
+ s Lindas Pobres Miércoles 15 de julio a las 19 h. >Tardes de escucha y re
+ fugio Comisariado por Campos de Marte + Actuación de Marco Padiya. Con 
+ la contribución Marta Echaves (Caja Negra) y Natalia Piñuel. Miércoles 
+ 22 y jueves 23 de julio a las 19 h. Transferencia Euyín Eugene e Iren M
+ árquez Dos Santos Jueves 30 de julio a las 20.30 h.\n\nhttps://www.matade
+ romadrid.org/programacion/refugio-climatico-un-cuarto-de-estar-para-la-ciu
+ dad
+LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Supergirl
@@ -2354,6 +1733,15 @@ DESCRIPTION:Este capítulo cuenta la desvergonzada\, disparatada y verdade
 LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:IDIOTA. El Musical - Muestra "Raquel Pérez Formación Actoral"
+DTSTART;TZID=Europe/Madrid:20260701T190000
+UID:61ab3de8aac33f4208a307c6d836e7f9254829da804c1ce5d2dc065c9d09d3ba
+CATEGORIES:theater
+DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/idiota-el-musical-mu
+ estra-raquel-perez-formacion-actoral/
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:El día de la revelación
 DTSTART;TZID=Europe/Madrid:20260701T191500
 DTEND;TZID=Europe/Madrid:20260701T214100
@@ -2557,6 +1945,25 @@ CATEGORIES:music
 DESCRIPTION:Concierto / Villanos del Jazz\n\nhttps://salavillanos.es/event
  o/ghost-note/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pennywise + End It
+DTSTART;TZID=Europe/Madrid:20260701T210000
+UID:8f2a406d5c59de43aaa711c34f3aa8458fa71c3a1c4efead7b9bc33c1226005c
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://tickets.hfmncrew.com/web
+ /?menu=1162&pagina=entradas&item=58898&siteID=hfmncrew
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IDIOTA. El Musical - Muestra "Raquel Pérez Formación Actoral"
+DTSTART;TZID=Europe/Madrid:20260701T210000
+UID:bf13656383b05eb787c6496fa09cf2ed220e82ee8b3897d2ea58cff79258a424
+CATEGORIES:theater
+DESCRIPTION:¡Ya solo quedan 1 plazas!\n\nhttps://teatrodelbarrio.com/idio
+ ta-el-musical-muestra-raquel-perez-formacion-actoral/
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Backrooms
@@ -2971,6 +2378,42 @@ LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
  \, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Jornadas de Intercambio de Semillas 2026
+DTSTART;TZID=Europe/Madrid:20260702T180000
+UID:747af616f30a1b5ec4364cb1cfd5d5e2ece1512ddf9d0028deffa2ebc1bc687b
+CATEGORIES:other
+DESCRIPTION:El Banco de Intercambio de Semillas es una iniciativa encamina
+ da hacia la descentralización del control de la semilla y un modo de pone
+ r en cuestión los modelos de gestión que generamos o de los que formamos
+  parte en la cultura y en la vida. Su misión no es la conservación sino 
+ el intercambio de la propia semilla y con ella del conocimiento acumulado 
+ a su alrededor. Recuperar\, producir y compartir semillas adaptadas a las 
+ condiciones locales de cultivo. El Banco de Intercambio de Semillas y las 
+ actividades que desde el mismo se llevarán a cabo van dirigidas a todo aq
+ uel que trabaja o quiere con la semilla\, ya sea con ella directamente o c
+ omo metáfora de una necesidad de transformación en nuestra sociedad. El 
+ Banco de Intercambio de semillas se propone también como una iniciativa p
+ or la soberanía alimentaria y una revisión crítica de la forma de explo
+ tación de las semillas propietarias\, modificadas genéticamente para dar
+  un mayor rendimiento en cualquier clima y situación. Semillas que están
+  diseñadas para producir grano una sola temporada\, patentadas y cuyos de
+ rechos están reservados a las empresas corporaciones que las idearon. Des
+ de el año 2007 Intermediae trabaja en el ámbito de la permacultura\, la 
+ ecología y la sostenibilidad. Programa actividades periódicas en el jard
+ ín urbano Avant Garden \, situado en la entrada de Matadero\, además de 
+ otra serie de actividades en torno al activismo ecológico y la participac
+ ión entre las que se encuentran El Club de los Dedos Verdes \, Acción Fr
+ uta Urbana y Semillando . En 2026\, las jornadas de intercambio serán coo
+ rdinadas por la Asociación Ecosecha. > Las Jornadas de Intercambio de Sem
+ illas 2026\, de 18 a 20 h. en el Terrario de Intermediae: •    Jueve
+ s 12 de marzo •    Jueves 09 de abril •    Jueves 07 de mayo •
+     Jueves 04 de junio •    Jueves 02 de julio ·     Jueves 17
+  de septiembre •    Jueves 08 de octubre •    Jueves 05 de novie
+ mbre •    Jueves 03 de diciembre\n\nhttps://www.mataderomadrid.org/pr
+ ogramacion/jornadas-de-intercambio-de-semillas-2026
+LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Minions & Monsters
 DTSTART;TZID=Europe/Madrid:20260702T180000
 DTEND;TZID=Europe/Madrid:20260702T193000
@@ -3052,6 +2495,16 @@ DESCRIPTION:Los juguetes están de vuelta en "Toy Story 5"\, de Disney y P
 LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:"LA CORTE DE LA AMBICIOSA" de sor Amparo Nájera De la Vega - Mues
+ tra "Raquel Pérez Formación Actoral"
+DTSTART;TZID=Europe/Madrid:20260702T183000
+UID:32e266d33656fc524b91acbda5fd856438e703b7563e443f51f4999751471832
+CATEGORIES:theater
+DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/la-corte-de-la-ambic
+ iosa-muestra-raquel-perez-formacion-actoral/
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:El día de la revelación
 DTSTART;TZID=Europe/Madrid:20260702T191500
 DTEND;TZID=Europe/Madrid:20260702T214100
@@ -3078,6 +2531,21 @@ DESCRIPTION:Cuando el paciente de una terapeuta desaparece en una dimensi
 LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Acto de entrega del premio "Don Justo José Manuel Maza 2025"
+DTSTART;TZID=Europe/Madrid:20260702T193000
+DTEND;TZID=Europe/Madrid:20260702T193000
+UID:cb71f9f80d40945fd2b5bd19c8c3cb6215d8a901e6aea780e6ef3207a02b8102
+CATEGORIES:other
+DESCRIPTION:Agrupación Justicia y Cultura\, Casa de Úbeda\, Asociación 
+ Justicia y Opinión. Premiado: Javier Parra García\, letrado de la Admini
+ stración de Justicia. Secretario de Gobierno del TSJ de Murcia. Laudatio:
+  Juan Martínez Moya\, magistrado de la Sala de lo Social del Tribunal Sup
+ remo. Entrega el premio: Mariano José Herrador Guardia. Salón Ciudad de
+  Úbeda. 19:30h.\n\nhttps://ateneodemadrid.com/evento/acto-de-entrega-del-
+ premio-don-justo-jose-manuel-maza-2025/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:La Grazia
 DTSTART;TZID=Europe/Madrid:20260702T195000
 UID:34af65c8163ae4198d22a08a9da94cac40b2664a8b6d122c93c76cd36047afd0
@@ -3087,20 +2555,6 @@ DESCRIPTION:Versión Original subtitulada a Castellano | Duración 132 min
  iginal language: IT\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/107589
  4/
 LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Acto de entrega del premio "Don Justo José Manuel Maza 2025"
-DTSTART;TZID=Europe/Madrid:20260702T200000
-DTEND;TZID=Europe/Madrid:20260702T200000
-UID:7fc35dab93f6d15a39607727351727466c5f1371f62fd8a2f8f4ad04884ea5e0
-CATEGORIES:other
-DESCRIPTION:Agrupación Justicia y Cultura\, Casa de Úbeda\, Asociación 
- Justicia y Opinión. Premiado: Javier Parra García\, letrado de la Admini
- stración de Justicia. Secretario de Gobierno del TSJ de Murcia. Laudatio:
-  Juan Martínez Moya\, magistrado de la Sala de lo Social del Tribunal Sup
- remo. Salón Ciudad de Úbeda. 20:00h.\n\nhttps://ateneodemadrid.com/event
- o/acto-de-entrega-del-premio-don-justo-jose-manuel-maza-2025/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tormento - Semana de Cine Mexicano 2026
@@ -3259,6 +2713,16 @@ DESCRIPTION:Concierto / Villanos del Jazz\n\nhttps://salavillanos.es/event
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:"LA CORTE DE LA AMBICIOSA" de sor Amparo Nájera De la Vega - Mues
+ tra "Raquel Pérez Formación Actoral"
+DTSTART;TZID=Europe/Madrid:20260702T210000
+UID:f80e2ea61981187900c43e4c5be5eea4dee7f0841033df79d56e517081bed0dc
+CATEGORIES:theater
+DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/la-corte-de-la-ambic
+ iosa-muestra-raquel-perez-formacion-actoral/
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Backrooms
 DTSTART;TZID=Europe/Madrid:20260702T214000
 DTEND;TZID=Europe/Madrid:20260702T233000
@@ -3319,31 +2783,6 @@ DESCRIPTION:Si descubrieras que no estamos solos\, si alguien te abriera l
  l language: EN\n\nAudio: VOSE\n\nhttps://yelmocines.es/sinopsis/el-dia-de-
  la-revelacion
 LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CinePlaza: Superestrellas 3 / Christina Rosenvinge: un concierto d
- e cine
-DTSTART;TZID=Europe/Madrid:20260702T221500
-UID:eb38f03a308088d74cc3f515dce419b72ce79704fd0c9bd454be40a2c3edcc4f
-CATEGORIES:cinema
-DESCRIPTION:Una carrera de más de 30 años\, con joyas como Tu labio supe
- rior o Un hombre rubio \, han convertido a Christina Rosenvinge en un mito
-  de la música indie en español. Pero no solo de música vive la leyenda 
- de esta artista que también ha probado suerte en los escenarios de la man
- o de Marta Pazos y en la gran pantalla. Desde su debut como actriz en los 
- 90 con la icónica Todo es mentira \, con Penélope Cruz y Coque Malla\, R
- osenvinge ha actuado junto a Viggo Mortensen en La pistola de mi hermano y
-  también ha protagonizado Karen \, sobre la vida de Isak Dinesen\, seudó
- nimo de la escritora danesa Karen Blixen. Sus últimas incursiones en el c
- ine como actriz son Balearic \, de Ion de Sosa\, y Después de Kim \, de 
- Ángeles González Sinde. Durante su concierto en Matadero Madrid repasar
- á estas incursiones en el cine así como su faceta como compositora de ba
- ndas sonaras en un concierto evocador en el que también dará rienda suel
- ta a su cinefilia. En definitiva\, una velada única junto a una de las gr
- andes damas de la música española.\n\nhttps://www.cinetecamadrid.com/pro
- gramacion/cineplaza-superestrellas-3-christina-rosenvinge-un-concierto-de-
- cine
-LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Scary Movie
@@ -3526,6 +2965,28 @@ DESCRIPTION:Tomando como referencia la reciente miniserie escrita por Tom
 LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Viaje Al País De Los Blancos
+DTSTART;TZID=Europe/Madrid:20260703T155000
+UID:926c1be641919bbb0f12a38575741790110282ed0c25bffb951f7bb4e9cc3f94
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 110 min
+ utos | No recomendada para menores de 12 años\n\nRelease year: 2026\n\nOr
+ iginal language: CA\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/107694
+ 4/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Viva
+DTSTART;TZID=Europe/Madrid:20260703T155000
+UID:e6f9511df1c4588075d9766a9f79840fa96b9555a5d8a1dff3ce038a9fdb2c1f
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 113 min
+ utos | No recomendada para menores de 16 años\n\nRelease year: 2026\n\nOr
+ iginal language: CA\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/107694
+ 3/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Minions & Monsters
 DTSTART;TZID=Europe/Madrid:20260703T160000
 DTEND;TZID=Europe/Madrid:20260703T173000
@@ -3539,6 +3000,38 @@ DESCRIPTION:Este capítulo cuenta la desvergonzada\, disparatada y verdade
  nguage: EN\n\nAudio: VOSE\n\nhttps://yelmocines.es/sinopsis/minions-monste
  rs
 LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cosas Que No Olvidaré
+DTSTART;TZID=Europe/Madrid:20260703T160000
+UID:8227bbbcdad16c3182b1910ca2a5d565c4e1437a3ec49c72b0f73df5bbc4d647
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 114 min
+ utos | No recomendada para menores de 12 años\n\nOriginal title: Per Te\n
+ \nRelease year: 2025\n\nOriginal language: IT\n\nAudio: VOSE\n\nhttps://ww
+ w.pillalas.com/pase/1076902/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Músicos
+DTSTART;TZID=Europe/Madrid:20260703T160000
+UID:250a6a8209dadb092741e7ba21bd9f4c2e96b9dc5f5a510ddd264d86163ec6e6
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 102 min
+ utos | Pendiente de calificación\n\nOriginal title: Les Musiciens\n\nRele
+ ase year: 2025\n\nOriginal language: FR\n\nAudio: VOSE\n\nhttps://www.pill
+ alas.com/pase/1076945/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Un Poeta
+DTSTART;TZID=Europe/Madrid:20260703T160000
+UID:6e17a669b900ba14fa9f14535f515705cc97af4a849c4f65ab10707500f59108
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 123 minutos | No reco
+ mendada para menores de 16 años\n\nRelease year: 2025\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1076901/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Toy Story 5
@@ -3622,6 +3115,17 @@ DESCRIPTION:Una pareja\, en los días previos a su boda\, se enfrenta a un
 LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Viaje Al País De Los Blancos
+DTSTART;TZID=Europe/Madrid:20260703T175500
+UID:3a0330b94b74e0f061f0b0c1d3633b14cfda81a3f8397b6d7e84ee7cebe024ee
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 110 min
+ utos | No recomendada para menores de 12 años\n\nRelease year: 2026\n\nOr
+ iginal language: CA\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/107694
+ 6/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Akira
 DTSTART;TZID=Europe/Madrid:20260703T180000
 DTEND;TZID=Europe/Madrid:20260703T200400
@@ -3655,6 +3159,39 @@ DESCRIPTION:Este capítulo cuenta la desvergonzada\, disparatada y verdade
  nguage: EN\n\nAudio: VOSE\n\nhttps://yelmocines.es/sinopsis/minions-monste
  rs
 LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Grazia
+DTSTART;TZID=Europe/Madrid:20260703T180000
+UID:467a91048db793fb5615d7f4df0abba903200981d47a440ec1a21f5c722463bd
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 132 min
+ utos | No recomendada para menores de 12 años\n\nRelease year: 2025\n\nOr
+ iginal language: IT\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/107694
+ 8/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Músicos
+DTSTART;TZID=Europe/Madrid:20260703T180000
+UID:641aafced9e9b362b8adb9d962906c0a2ff786e247fd341f68d300e527398f8e
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 102 min
+ utos | Pendiente de calificación\n\nOriginal title: Les Musiciens\n\nRele
+ ase year: 2025\n\nOriginal language: FR\n\nAudio: VOSE\n\nhttps://www.pill
+ alas.com/pase/1076947/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cosas Que No Olvidaré
+DTSTART;TZID=Europe/Madrid:20260703T181000
+UID:57651fa80740bda7408e9b959449437f2161543ae7edd4e26ec9a21a0f0fc489
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 114 min
+ utos | No recomendada para menores de 12 años\n\nOriginal title: Per Te\n
+ \nRelease year: 2025\n\nOriginal language: IT\n\nAudio: VOSE\n\nhttps://ww
+ w.pillalas.com/pase/1076903/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Supergirl
@@ -3777,6 +3314,27 @@ DESCRIPTION:MICHAEL es el retrato en la gran pantalla de la vida y el lega
 LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Los Músicos
+DTSTART;TZID=Europe/Madrid:20260703T200000
+UID:f6783cdba0f96382f9ed1ff1f83064d6bafbc656b9a06023ec08a08eda4ea7aa
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 102 min
+ utos | Pendiente de calificación\n\nOriginal title: Les Musiciens\n\nRele
+ ase year: 2025\n\nOriginal language: FR\n\nAudio: VOSE\n\nhttps://www.pill
+ alas.com/pase/1076950/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Un Poeta
+DTSTART;TZID=Europe/Madrid:20260703T200000
+UID:72583aa00a84461252ab65012dd5ea783c5a49512f2748c7a090662d45b2ab04
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 123 minutos | No reco
+ mendada para menores de 16 años\n\nRelease year: 2025\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1076949/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Obsession
 DTSTART;TZID=Europe/Madrid:20260703T200500
 DTEND;TZID=Europe/Madrid:20260703T215300
@@ -3788,6 +3346,17 @@ DESCRIPTION:Tras usar un misterioso objeto para conquistar a su amor plat
  \n\nRelease year: 2026\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://
  yelmocines.es/sinopsis/obsession
 LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cosas Que No Olvidaré
+DTSTART;TZID=Europe/Madrid:20260703T202000
+UID:4ae45377e51d9f8afad7d9e509f311061e1a62586f77cf3155fc08da89cd9575
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 114 min
+ utos | No recomendada para menores de 12 años\n\nOriginal title: Per Te\n
+ \nRelease year: 2025\n\nOriginal language: IT\n\nAudio: VOSE\n\nhttps://ww
+ w.pillalas.com/pase/1076904/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:El rey del barrio
@@ -3834,6 +3403,17 @@ DESCRIPTION:Tomando como referencia la reciente miniserie escrita por Tom
  la que estamos acostumbrados".\n\nRelease year: 2026\n\nOriginal language:
   EN\n\nAudio: VOSE\n\nhttps://yelmocines.es/sinopsis/supergirl
 LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:15 Pruebas De Amor
+DTSTART;TZID=Europe/Madrid:20260703T203000
+UID:d16b1b791195ec73d448277e8fe343cb409a17471d1854a4e448431c7af2d84a
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 97 minu
+ tos | Pendiente de calificación\n\nOriginal title: Des preuves d'amour\n\
+ nRelease year: 2025\n\nOriginal language: FR\n\nAudio: VOSE\n\nhttps://www
+ .pillalas.com/pase/1077013/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Los músicos
@@ -3909,6 +3489,28 @@ DESCRIPTION:Este capítulo cuenta la desvergonzada\, disparatada y verdade
 LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:La Grazia
+DTSTART;TZID=Europe/Madrid:20260703T220000
+UID:e670e5ddf2c51d4e0a436aba8d947152630118a38b4c9465d2b4cce4bfac5d03
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 132 min
+ utos | No recomendada para menores de 12 años\n\nRelease year: 2025\n\nOr
+ iginal language: IT\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/107695
+ 1/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Viaje Al País De Los Blancos
+DTSTART;TZID=Europe/Madrid:20260703T220000
+UID:33e4a595f43b522ef40623dd3d92b89c3506627d7b2452c4f267682bcf6f60a3
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 110 min
+ utos | No recomendada para menores de 12 años\n\nRelease year: 2026\n\nOr
+ iginal language: CA\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/107690
+ 5/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:El día de la revelación
 DTSTART;TZID=Europe/Madrid:20260703T221000
 DTEND;TZID=Europe/Madrid:20260704T003600
@@ -3921,20 +3523,6 @@ DESCRIPTION:Si descubrieras que no estamos solos\, si alguien te abriera l
  l language: EN\n\nAudio: VOSE\n\nhttps://yelmocines.es/sinopsis/el-dia-de-
  la-revelacion
 LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CinePlaza: Superestrellas 3 / Coffy
-DTSTART;TZID=Europe/Madrid:20260703T221500
-UID:64822e8bc55cfbf9ae21d162e2295f7fa0f1b927d9d11bd8773fb840d6e4cd47
-CATEGORIES:cinema
-DESCRIPTION:Coffy es una enfermera cuya hermana ha quedado destrozada por 
- la heroína adulterada. A partir de ahí emprende una vengativa cruzada co
- ntra traficantes\, proxenetas y políticos corruptos. Con una Pam Grier en
-  estado de gracia\, la película combina explotación\, acción y comentar
- io social\, y convirtió a su protagonista en uno de los grandes iconos fe
- meninos del cine negro de los 70.\n\nAudio: VOSE\n\nhttps://www.cinetecama
- drid.com/programacion/cineplaza-superestrellas-3-coffy
-LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Obsession
@@ -3950,6 +3538,27 @@ DESCRIPTION:Tras usar un misterioso objeto para conquistar a su amor plat
 LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Un Poeta
+DTSTART;TZID=Europe/Madrid:20260703T222000
+UID:055c08fb858a392228a301d9bb19be9dcbd281b20ee57cb3058fd156bca64789
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 123 minutos | No reco
+ mendada para menores de 16 años\n\nRelease year: 2025\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1076952/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Músicos
+DTSTART;TZID=Europe/Madrid:20260703T222500
+UID:9dcdeb8ea703ff364b9b031619c3be320b1cbaa2c6f1eaf3adafc9adbe3394b2
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 102 min
+ utos | Pendiente de calificación\n\nOriginal title: Les Musiciens\n\nRele
+ ase year: 2025\n\nOriginal language: FR\n\nAudio: VOSE\n\nhttps://www.pill
+ alas.com/pase/1077014/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:El diablo viste de Prada 2
 DTSTART;TZID=Europe/Madrid:20260703T223000
 DTEND;TZID=Europe/Madrid:20260704T003000
@@ -3963,6 +3572,16 @@ DESCRIPTION:Casi veinte años después de interpretar a los icónicos pers
  elease year: 2026\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://yelmo
  cines.es/sinopsis/el-diablo-viste-de-prada-2
 LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:9 Lunas
+DTSTART;TZID=Europe/Madrid:20260703T223000
+UID:a4d226abaead0937c3290fda77af9458b47b1dc61ef0c4002f41de55e66ba078
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 101 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2026\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1076906/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Scary Movie
@@ -4280,6 +3899,28 @@ DESCRIPTION:Tomando como referencia la reciente miniserie escrita por Tom
 LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Viaje Al País De Los Blancos
+DTSTART;TZID=Europe/Madrid:20260704T155000
+UID:0dc172111370ec61aac22ab61490ec5de067a89882e6c67b86a0a1b30a4b0b78
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 110 min
+ utos | No recomendada para menores de 12 años\n\nRelease year: 2026\n\nOr
+ iginal language: CA\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/107695
+ 3/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Viva
+DTSTART;TZID=Europe/Madrid:20260704T155000
+UID:7a5950bffeeb18b091110a54a367536112bcb129ed378b2485ad4e19a405390d
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 113 min
+ utos | No recomendada para menores de 16 años\n\nRelease year: 2026\n\nOr
+ iginal language: CA\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/107695
+ 4/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Minions & Monsters
 DTSTART;TZID=Europe/Madrid:20260704T160000
 DTEND;TZID=Europe/Madrid:20260704T173000
@@ -4293,6 +3934,38 @@ DESCRIPTION:Este capítulo cuenta la desvergonzada\, disparatada y verdade
  nguage: EN\n\nAudio: VOSE\n\nhttps://yelmocines.es/sinopsis/minions-monste
  rs
 LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cosas Que No Olvidaré
+DTSTART;TZID=Europe/Madrid:20260704T160000
+UID:9a46fa5d4666b5fb2d8df45652ad795e17d555357ada78c6677ffeb1e7980366
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 114 min
+ utos | No recomendada para menores de 12 años\n\nOriginal title: Per Te\n
+ \nRelease year: 2025\n\nOriginal language: IT\n\nAudio: VOSE\n\nhttps://ww
+ w.pillalas.com/pase/1076908/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Músicos
+DTSTART;TZID=Europe/Madrid:20260704T160000
+UID:886169e599d67f7029cf5b9a34619b7939c499484ca6d6a3dc5dc2ee41d170e1
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 102 min
+ utos | Pendiente de calificación\n\nOriginal title: Les Musiciens\n\nRele
+ ase year: 2025\n\nOriginal language: FR\n\nAudio: VOSE\n\nhttps://www.pill
+ alas.com/pase/1076955/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Un Poeta
+DTSTART;TZID=Europe/Madrid:20260704T160000
+UID:953286390b0a57ac4ff3bb8dd0cb4f6b52392a551c0c77047a292d0766fe381d
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 123 minutos | No reco
+ mendada para menores de 16 años\n\nRelease year: 2025\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1076907/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Toy Story 5
@@ -4376,6 +4049,17 @@ DESCRIPTION:Una pareja\, en los días previos a su boda\, se enfrenta a un
 LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Viaje Al País De Los Blancos
+DTSTART;TZID=Europe/Madrid:20260704T175500
+UID:99766c1b139d08bbf834eb078eb4ded58fbbd246b218e7f74e21de611d66d08f
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 110 min
+ utos | No recomendada para menores de 12 años\n\nRelease year: 2026\n\nOr
+ iginal language: CA\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/107695
+ 6/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Simon y Laura
 DTSTART;TZID=Europe/Madrid:20260704T180000
 UID:102f0ace5facb31e76deb1f31150264bdda4de46321371782a9b71555ecc3f49
@@ -4422,6 +4106,39 @@ DESCRIPTION:Este capítulo cuenta la desvergonzada\, disparatada y verdade
  nguage: EN\n\nAudio: VOSE\n\nhttps://yelmocines.es/sinopsis/minions-monste
  rs
 LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Grazia
+DTSTART;TZID=Europe/Madrid:20260704T180000
+UID:33d54eba6d29271bb80de2d7ba56772286bc6f391bd691769f4561dcd99e039f
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 132 min
+ utos | No recomendada para menores de 12 años\n\nRelease year: 2025\n\nOr
+ iginal language: IT\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/107695
+ 7/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Músicos
+DTSTART;TZID=Europe/Madrid:20260704T180000
+UID:6081a036a099b01edc5ada513dff19da149b899ee3ba5fb381c093a67466f333
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 102 min
+ utos | Pendiente de calificación\n\nOriginal title: Les Musiciens\n\nRele
+ ase year: 2025\n\nOriginal language: FR\n\nAudio: VOSE\n\nhttps://www.pill
+ alas.com/pase/1076958/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cosas Que No Olvidaré
+DTSTART;TZID=Europe/Madrid:20260704T181000
+UID:f23274c8a1df86b29c9300391a43202ab8db66b4dd06ecbd442d4f0e2714fae8
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 114 min
+ utos | No recomendada para menores de 12 años\n\nOriginal title: Per Te\n
+ \nRelease year: 2025\n\nOriginal language: IT\n\nAudio: VOSE\n\nhttps://ww
+ w.pillalas.com/pase/1076909/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Supergirl
@@ -4497,6 +4214,14 @@ DESCRIPTION:Robin Hood (Hugh Jackman) intenta lidiar con sus demonios tras
 LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Tobogán
+DTSTART;TZID=Europe/Madrid:20260704T193000
+UID:0c93c54f1e4b498cf0efc18d6d0f347d8a4de4d7a237292a48f3bf4cadbe05eb
+CATEGORIES:theater
+DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/tobogan/
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Minions & Monsters
 DTSTART;TZID=Europe/Madrid:20260704T200000
 DTEND;TZID=Europe/Madrid:20260704T213000
@@ -4524,6 +4249,27 @@ DESCRIPTION:MICHAEL es el retrato en la gran pantalla de la vida y el lega
 LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Los Músicos
+DTSTART;TZID=Europe/Madrid:20260704T200000
+UID:1345839e3c47f097095090725a2a52700edcf8dd3c0e4c8f466c2f4f24d68d8d
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 102 min
+ utos | Pendiente de calificación\n\nOriginal title: Les Musiciens\n\nRele
+ ase year: 2025\n\nOriginal language: FR\n\nAudio: VOSE\n\nhttps://www.pill
+ alas.com/pase/1076959/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Un Poeta
+DTSTART;TZID=Europe/Madrid:20260704T200000
+UID:9e4681a23795ae6360598d11de7a644098226edb519571729f091ad1ea28c788
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 123 minutos | No reco
+ mendada para menores de 16 años\n\nRelease year: 2025\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1076960/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Obsession
 DTSTART;TZID=Europe/Madrid:20260704T200500
 DTEND;TZID=Europe/Madrid:20260704T215300
@@ -4535,6 +4281,17 @@ DESCRIPTION:Tras usar un misterioso objeto para conquistar a su amor plat
  \n\nRelease year: 2026\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://
  yelmocines.es/sinopsis/obsession
 LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cosas Que No Olvidaré
+DTSTART;TZID=Europe/Madrid:20260704T202000
+UID:98fbbe087f460b36cfc6819d96bbaf8b17c1b131ca5a19f730107ebe6cfe9b78
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 114 min
+ utos | No recomendada para menores de 12 años\n\nOriginal title: Per Te\n
+ \nRelease year: 2025\n\nOriginal language: IT\n\nAudio: VOSE\n\nhttps://ww
+ w.pillalas.com/pase/1076910/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Tied Up Balloon
@@ -4566,6 +4323,17 @@ DESCRIPTION:Tomando como referencia la reciente miniserie escrita por Tom
  la que estamos acostumbrados".\n\nRelease year: 2026\n\nOriginal language:
   EN\n\nAudio: VOSE\n\nhttps://yelmocines.es/sinopsis/supergirl
 LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:15 Pruebas De Amor
+DTSTART;TZID=Europe/Madrid:20260704T203000
+UID:4e18a0d4f0448970e977591ce3d6ebde01b86de793e91597dc8e94d606434b41
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 97 minu
+ tos | Pendiente de calificación\n\nOriginal title: Des preuves d'amour\n\
+ nRelease year: 2025\n\nOriginal language: FR\n\nAudio: VOSE\n\nhttps://www
+ .pillalas.com/pase/1077015/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Los músicos
@@ -4663,6 +4431,28 @@ DESCRIPTION:Este capítulo cuenta la desvergonzada\, disparatada y verdade
 LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:La Grazia
+DTSTART;TZID=Europe/Madrid:20260704T220000
+UID:9228edfa4b1c5c86c8b2e4bc3ec12f997be97f3cd78cd56664571a83a848cf56
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 132 min
+ utos | No recomendada para menores de 12 años\n\nRelease year: 2025\n\nOr
+ iginal language: IT\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/107696
+ 1/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Viaje Al País De Los Blancos
+DTSTART;TZID=Europe/Madrid:20260704T220000
+UID:4ac0cecc35455ba397d705d3ca5c0aad6affc680518ac6f6a8778491be48baab
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 110 min
+ utos | No recomendada para menores de 12 años\n\nRelease year: 2026\n\nOr
+ iginal language: CA\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/107691
+ 1/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:El día de la revelación
 DTSTART;TZID=Europe/Madrid:20260704T221000
 DTEND;TZID=Europe/Madrid:20260705T003600
@@ -4677,18 +4467,12 @@ DESCRIPTION:Si descubrieras que no estamos solos\, si alguien te abriera l
 LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CinePlaza: Superestrellas 3 / Bixa Travesty
+SUMMARY:Tobogán
 DTSTART;TZID=Europe/Madrid:20260704T221500
-UID:a6f84dbdbfc7a9423fb0b3d8841738fea7e861bc0844e2adb306bdab0667aaf7
-CATEGORIES:cinema
-DESCRIPTION:Retrato de la artista y activista brasileña Linn da Quebrada\
- , figura central de una escena donde música\, sexualidad\, rabia y perfor
- mance se funden en un solo gesto político. El documental sigue sus concie
- rtos\, sus intervenciones públicas y su manera de convertir el cuerpo tra
- vesti en un espacio de confrontación con el racismo\, el machismo y la tr
- ansfobia.\n\nAudio: VOSE\n\nhttps://www.cinetecamadrid.com/programacion/ci
- neplaza-superestrellas-3-bixa-travesty
-LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
+UID:edea7a22981dfd9b3c2ff7a542df1ef0da62f132d265a6fca45f738d2845dd45
+CATEGORIES:theater
+DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/tobogan/
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Obsession
@@ -4704,6 +4488,27 @@ DESCRIPTION:Tras usar un misterioso objeto para conquistar a su amor plat
 LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Un Poeta
+DTSTART;TZID=Europe/Madrid:20260704T222000
+UID:cab7004f4b5e8050c486b9698e4ae5f182b300aaa1be1b34e0a6c5eed517b605
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 123 minutos | No reco
+ mendada para menores de 16 años\n\nRelease year: 2025\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1076962/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Músicos
+DTSTART;TZID=Europe/Madrid:20260704T222500
+UID:39fc55ebf4ac9b66d90956bbb63d3cb02cc4748e0f61e1d9a6394c7fee24d5c6
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 102 min
+ utos | Pendiente de calificación\n\nOriginal title: Les Musiciens\n\nRele
+ ase year: 2025\n\nOriginal language: FR\n\nAudio: VOSE\n\nhttps://www.pill
+ alas.com/pase/1077016/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:El diablo viste de Prada 2
 DTSTART;TZID=Europe/Madrid:20260704T223000
 DTEND;TZID=Europe/Madrid:20260705T003000
@@ -4717,6 +4522,16 @@ DESCRIPTION:Casi veinte años después de interpretar a los icónicos pers
  elease year: 2026\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://yelmo
  cines.es/sinopsis/el-diablo-viste-de-prada-2
 LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:9 Lunas
+DTSTART;TZID=Europe/Madrid:20260704T223000
+UID:26f494b0e5b986bef9f9b2b192a826264c9139d97c067800624f3a17088c52c9
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 101 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2026\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1076912/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Scary Movie
@@ -5023,6 +4838,28 @@ DESCRIPTION:Tomando como referencia la reciente miniserie escrita por Tom
 LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Viaje Al País De Los Blancos
+DTSTART;TZID=Europe/Madrid:20260705T155000
+UID:96550f0d955c7ea4763a1a9cce6e24f6cf462b6b969183144547c9f9c400c6b9
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 110 min
+ utos | No recomendada para menores de 12 años\n\nRelease year: 2026\n\nOr
+ iginal language: CA\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/107696
+ 4/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Viva
+DTSTART;TZID=Europe/Madrid:20260705T155000
+UID:10a6e835ef87a09ec0798042db407cab0dbe89523c7a324a42daab769ed2d538
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 113 min
+ utos | No recomendada para menores de 16 años\n\nRelease year: 2026\n\nOr
+ iginal language: CA\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/107696
+ 3/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Minions & Monsters
 DTSTART;TZID=Europe/Madrid:20260705T160000
 DTEND;TZID=Europe/Madrid:20260705T173000
@@ -5036,6 +4873,38 @@ DESCRIPTION:Este capítulo cuenta la desvergonzada\, disparatada y verdade
  nguage: EN\n\nAudio: VOSE\n\nhttps://yelmocines.es/sinopsis/minions-monste
  rs
 LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cosas Que No Olvidaré
+DTSTART;TZID=Europe/Madrid:20260705T160000
+UID:18834878e37061c6050ce4df2245b85cd720f1982192f98ec50b57c1913a17be
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 114 min
+ utos | No recomendada para menores de 12 años\n\nOriginal title: Per Te\n
+ \nRelease year: 2025\n\nOriginal language: IT\n\nAudio: VOSE\n\nhttps://ww
+ w.pillalas.com/pase/1076913/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Músicos
+DTSTART;TZID=Europe/Madrid:20260705T160000
+UID:37aafbad88b6abff5101805221848521e6a6694217446b1e7191b2bd189830ba
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 102 min
+ utos | Pendiente de calificación\n\nOriginal title: Les Musiciens\n\nRele
+ ase year: 2025\n\nOriginal language: FR\n\nAudio: VOSE\n\nhttps://www.pill
+ alas.com/pase/1076965/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Un Poeta
+DTSTART;TZID=Europe/Madrid:20260705T160000
+UID:b09da855363f1e66ff36f9acd992afb0ddbe564a64bc0625e12815ae39ff166c
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 123 minutos | No reco
+ mendada para menores de 16 años\n\nRelease year: 2025\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1076914/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Toy Story 5
@@ -5119,6 +4988,17 @@ DESCRIPTION:Una pareja\, en los días previos a su boda\, se enfrenta a un
 LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Viaje Al País De Los Blancos
+DTSTART;TZID=Europe/Madrid:20260705T175500
+UID:ebd4efb099a2bfaa84d20449019a18e3135ace7a5ee65519e40f672102c866c8
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 110 min
+ utos | No recomendada para menores de 12 años\n\nRelease year: 2026\n\nOr
+ iginal language: CA\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/107696
+ 6/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Viridiana
 DTSTART;TZID=Europe/Madrid:20260705T180000
 UID:11c1b749277be5d1daf5b9b9f69e934aa5f706490c1815a6556bbf8beac67e09
@@ -5166,6 +5046,39 @@ DESCRIPTION:Este capítulo cuenta la desvergonzada\, disparatada y verdade
  nguage: EN\n\nAudio: VOSE\n\nhttps://yelmocines.es/sinopsis/minions-monste
  rs
 LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Grazia
+DTSTART;TZID=Europe/Madrid:20260705T180000
+UID:610e12b5a06dc1bb1ce2a1fb63a4b8c9039798d36fc12cbf6501dbb1b80a4db4
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 132 min
+ utos | No recomendada para menores de 12 años\n\nRelease year: 2025\n\nOr
+ iginal language: IT\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/107696
+ 8/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Músicos
+DTSTART;TZID=Europe/Madrid:20260705T180000
+UID:80a4108273f6e04834bec1ef52695e88a12e4b8c896af14818a0931538c1cc48
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 102 min
+ utos | Pendiente de calificación\n\nOriginal title: Les Musiciens\n\nRele
+ ase year: 2025\n\nOriginal language: FR\n\nAudio: VOSE\n\nhttps://www.pill
+ alas.com/pase/1076967/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cosas Que No Olvidaré
+DTSTART;TZID=Europe/Madrid:20260705T181000
+UID:ea73b1abca7fd008ae752015e007c8709ca02c8678390ac3de8457cf5609ac34
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 114 min
+ utos | No recomendada para menores de 12 años\n\nOriginal title: Per Te\n
+ \nRelease year: 2025\n\nOriginal language: IT\n\nAudio: VOSE\n\nhttps://ww
+ w.pillalas.com/pase/1076915/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Supergirl
@@ -5279,6 +5192,27 @@ DESCRIPTION:MICHAEL es el retrato en la gran pantalla de la vida y el lega
 LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Los Músicos
+DTSTART;TZID=Europe/Madrid:20260705T200000
+UID:b5de50fee6fca33e1f7dbfc6a9cb7e8883008e81fffc7f6e12c47cb69876c536
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 102 min
+ utos | Pendiente de calificación\n\nOriginal title: Les Musiciens\n\nRele
+ ase year: 2025\n\nOriginal language: FR\n\nAudio: VOSE\n\nhttps://www.pill
+ alas.com/pase/1076970/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Un Poeta
+DTSTART;TZID=Europe/Madrid:20260705T200000
+UID:12e882738e86d0dc9e7640b65186a004678d220523767a01c5af7280e4f44e83
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 123 minutos | No reco
+ mendada para menores de 16 años\n\nRelease year: 2025\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1076969/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Obsession
 DTSTART;TZID=Europe/Madrid:20260705T200500
 DTEND;TZID=Europe/Madrid:20260705T215300
@@ -5290,6 +5224,17 @@ DESCRIPTION:Tras usar un misterioso objeto para conquistar a su amor plat
  \n\nRelease year: 2026\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://
  yelmocines.es/sinopsis/obsession
 LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cosas Que No Olvidaré
+DTSTART;TZID=Europe/Madrid:20260705T202000
+UID:1845f277b724f9ff46b334a8948a950c3fd05eb4f6c7197922bfa1ab09c7eb33
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 114 min
+ utos | No recomendada para menores de 12 años\n\nOriginal title: Per Te\n
+ \nRelease year: 2025\n\nOriginal language: IT\n\nAudio: VOSE\n\nhttps://ww
+ w.pillalas.com/pase/1076916/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hunted
@@ -5322,6 +5267,26 @@ DESCRIPTION:Tomando como referencia la reciente miniserie escrita por Tom
  la que estamos acostumbrados".\n\nRelease year: 2026\n\nOriginal language:
   EN\n\nAudio: VOSE\n\nhttps://yelmocines.es/sinopsis/supergirl
 LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:15 Pruebas De Amor
+DTSTART;TZID=Europe/Madrid:20260705T203000
+UID:7ce7d0057ce3f3c5f079b58a486c61d75b8e36c11636f7cd185b446dde1f9455
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 97 minu
+ tos | Pendiente de calificación\n\nOriginal title: Des preuves d'amour\n\
+ nRelease year: 2025\n\nOriginal language: FR\n\nAudio: VOSE\n\nhttps://www
+ .pillalas.com/pase/1077017/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paloma Calle que se calle
+DTSTART;TZID=Europe/Madrid:20260705T203000
+UID:eca7a8c218b605ca491cfb1d4f0a0864f9b8038927c543b44f055f69ab850c91
+CATEGORIES:theater
+DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/paloma-calle-que-se-
+ calle/
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Los músicos
@@ -5406,6 +5371,28 @@ DESCRIPTION:Este capítulo cuenta la desvergonzada\, disparatada y verdade
 LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:La Grazia
+DTSTART;TZID=Europe/Madrid:20260705T220000
+UID:7a587300d0aa4538cf117024995bf6c9c757ff1322c46266050f3df732621cad
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 132 min
+ utos | No recomendada para menores de 12 años\n\nRelease year: 2025\n\nOr
+ iginal language: IT\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/107697
+ 1/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Viaje Al País De Los Blancos
+DTSTART;TZID=Europe/Madrid:20260705T220000
+UID:3977a123f41f132e88e8cf14ba7a2daeba3f6efbef24f4368c7c448bcaf4c4ed
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 110 min
+ utos | No recomendada para menores de 12 años\n\nRelease year: 2026\n\nOr
+ iginal language: CA\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/107691
+ 7/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:El día de la revelación
 DTSTART;TZID=Europe/Madrid:20260705T221000
 DTEND;TZID=Europe/Madrid:20260706T003600
@@ -5418,26 +5405,6 @@ DESCRIPTION:Si descubrieras que no estamos solos\, si alguien te abriera l
  l language: EN\n\nAudio: VOSE\n\nhttps://yelmocines.es/sinopsis/el-dia-de-
  la-revelacion
 LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CinePlaza: Superestrellas 3 / Velada sorpresa con Nacho Vigalondo
-DTSTART;TZID=Europe/Madrid:20260705T221500
-UID:b198f6a47a4b356aa512a8a0e04045aca39d56f15871afb2b18e11f2d53d4571
-CATEGORIES:cinema
-DESCRIPTION:Nacho Vigalondo es una de esas rarezas inclasificables del cin
- e español. Ha hecho cortos virales antes de que existiera el concepto\, h
- a dirigido monstruos gigantes en Los Ángeles\, ha revivido el ‘tamarism
- o’ y ha logrado que el humor y la ciencia ficción se den la mano de una
-  forma única. Su visión del cine es inteligente\, juguetona y con un pun
- to de ternura. En esta velada sorpresa\, los espectadores tendrán la opor
- tunidad de conocer mejor sus influencias y su pensamiento a través de una
-  selección sorpresa de fragmentos y películas comentadas en directo por 
- el cineasta. Una reunión de amigos cinéfilos. Un acercamiento lúdico y 
- fresco\, ideal para quien quiera pasar un rato diferente\, reírse\, sorpr
- enderse y redescubrir que el cine puede ser muchas cosas. Casi todas diver
- tidas si las mira Vigalondo.\n\nhttps://www.cinetecamadrid.com/programacio
- n/cineplaza-superestrellas-3-velada-sorpresa-con-nacho-vigalondo
-LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Obsession
@@ -5453,6 +5420,27 @@ DESCRIPTION:Tras usar un misterioso objeto para conquistar a su amor plat
 LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Un Poeta
+DTSTART;TZID=Europe/Madrid:20260705T222000
+UID:a28dc8b934eb0650cbdbeb6e6eeff712086801d5761ee49330f4b11f54465c99
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 123 minutos | No reco
+ mendada para menores de 16 años\n\nRelease year: 2025\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1076972/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Músicos
+DTSTART;TZID=Europe/Madrid:20260705T222500
+UID:ac7abbccbe286177426fd0434f2da66ceb74d3a42ff58040cac0bcaf0e9ddf30
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 102 min
+ utos | Pendiente de calificación\n\nOriginal title: Les Musiciens\n\nRele
+ ase year: 2025\n\nOriginal language: FR\n\nAudio: VOSE\n\nhttps://www.pill
+ alas.com/pase/1077018/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:El diablo viste de Prada 2
 DTSTART;TZID=Europe/Madrid:20260705T223000
 DTEND;TZID=Europe/Madrid:20260706T003000
@@ -5466,6 +5454,16 @@ DESCRIPTION:Casi veinte años después de interpretar a los icónicos pers
  elease year: 2026\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://yelmo
  cines.es/sinopsis/el-diablo-viste-de-prada-2
 LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:9 Lunas
+DTSTART;TZID=Europe/Madrid:20260705T223000
+UID:14063c40f66d4b43168f446656e633bd2b136258e0221d3d7d8e3f8ec7e52600
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 101 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2026\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1076918/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Scary Movie
@@ -5586,6 +5584,28 @@ DESCRIPTION:Tomando como referencia la reciente miniserie escrita por Tom
 LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Viaje Al País De Los Blancos
+DTSTART;TZID=Europe/Madrid:20260706T155000
+UID:e3346ae42a4046d6b79c894873ea1c0c770f0666504d7835aaf16a2153139d7c
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 110 min
+ utos | No recomendada para menores de 12 años\n\nRelease year: 2026\n\nOr
+ iginal language: CA\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/107697
+ 3/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Viva
+DTSTART;TZID=Europe/Madrid:20260706T155000
+UID:b939ad6d0bbdc4607c21cd23fea835062aa97b69bd8de02a196c4f9e674f82ce
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 113 min
+ utos | No recomendada para menores de 16 años\n\nRelease year: 2026\n\nOr
+ iginal language: CA\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/107697
+ 4/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Minions & Monsters
 DTSTART;TZID=Europe/Madrid:20260706T160000
 DTEND;TZID=Europe/Madrid:20260706T173000
@@ -5599,6 +5619,38 @@ DESCRIPTION:Este capítulo cuenta la desvergonzada\, disparatada y verdade
  nguage: EN\n\nAudio: VOSE\n\nhttps://yelmocines.es/sinopsis/minions-monste
  rs
 LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cosas Que No Olvidaré
+DTSTART;TZID=Europe/Madrid:20260706T160000
+UID:410b662586fca938ce19c99f15d9ce5a719da45e36b75508b8b9cbf8e854d74c
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 114 min
+ utos | No recomendada para menores de 12 años\n\nOriginal title: Per Te\n
+ \nRelease year: 2025\n\nOriginal language: IT\n\nAudio: VOSE\n\nhttps://ww
+ w.pillalas.com/pase/1076920/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Músicos
+DTSTART;TZID=Europe/Madrid:20260706T160000
+UID:3fe48bda7f1d57d2bc24d3a1a1611ef5820a0be661dbe1efe9efe9191c32bd7a
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 102 min
+ utos | Pendiente de calificación\n\nOriginal title: Les Musiciens\n\nRele
+ ase year: 2025\n\nOriginal language: FR\n\nAudio: VOSE\n\nhttps://www.pill
+ alas.com/pase/1076975/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Un Poeta
+DTSTART;TZID=Europe/Madrid:20260706T160000
+UID:a9667f6848cc36fc14e682da9d2fd9ab464a763e90141db767da18135a387bcd
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 123 minutos | No reco
+ mendada para menores de 16 años\n\nRelease year: 2025\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1076919/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Toy Story 5
@@ -5682,6 +5734,17 @@ DESCRIPTION:Una pareja\, en los días previos a su boda\, se enfrenta a un
 LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Viaje Al País De Los Blancos
+DTSTART;TZID=Europe/Madrid:20260706T175500
+UID:5aebe3a4cf187ac454536dde97f5e38fe952b6b48b90c5c09710763142c5a85f
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 110 min
+ utos | No recomendada para menores de 12 años\n\nRelease year: 2026\n\nOr
+ iginal language: CA\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/107697
+ 6/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Akira
 DTSTART;TZID=Europe/Madrid:20260706T180000
 DTEND;TZID=Europe/Madrid:20260706T200400
@@ -5717,6 +5780,39 @@ DESCRIPTION:Este capítulo cuenta la desvergonzada\, disparatada y verdade
 LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:La Grazia
+DTSTART;TZID=Europe/Madrid:20260706T180000
+UID:661e72c7fbb4c81ddc074e82f8dc3913654cf285ca88b752651d73fb267e0f9c
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 132 min
+ utos | No recomendada para menores de 12 años\n\nRelease year: 2025\n\nOr
+ iginal language: IT\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/107697
+ 7/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Músicos
+DTSTART;TZID=Europe/Madrid:20260706T180000
+UID:53b3ffe0ac8fae5b104c2ac4c86c3f6b70907f78916acc03631f5e1b234fd83d
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 102 min
+ utos | Pendiente de calificación\n\nOriginal title: Les Musiciens\n\nRele
+ ase year: 2025\n\nOriginal language: FR\n\nAudio: VOSE\n\nhttps://www.pill
+ alas.com/pase/1076978/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cosas Que No Olvidaré
+DTSTART;TZID=Europe/Madrid:20260706T181000
+UID:5f066dcc34b96eb5f45fedcb97538aebd12819be0af15405b7ac0249dcb47749
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 114 min
+ utos | No recomendada para menores de 12 años\n\nOriginal title: Per Te\n
+ \nRelease year: 2025\n\nOriginal language: IT\n\nAudio: VOSE\n\nhttps://ww
+ w.pillalas.com/pase/1076921/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Supergirl
 DTSTART;TZID=Europe/Madrid:20260706T181500
 DTEND;TZID=Europe/Madrid:20260706T200300
@@ -5747,6 +5843,15 @@ DESCRIPTION:Los juguetes están de vuelta en "Toy Story 5"\, de Disney y P
  Release year: 2026\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://yelm
  ocines.es/sinopsis/toy-story-5
 LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La tejedora de tramas
+DTSTART;TZID=Europe/Madrid:20260706T183000
+UID:0f6c3f417fa583865b67fad6b0cea7fac3a18c48369fbd4eef5e6c807a5d0673
+CATEGORIES:theater
+DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/la-tejedora-de-trama
+ s/
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:El día de la revelación
@@ -5816,6 +5921,27 @@ DESCRIPTION:Este capítulo cuenta la desvergonzada\, disparatada y verdade
 LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Los Músicos
+DTSTART;TZID=Europe/Madrid:20260706T200000
+UID:403a21eb6ee2a2dbea57e2290529d7845e7253406dc89b79ae3aa637868617c7
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 102 min
+ utos | Pendiente de calificación\n\nOriginal title: Les Musiciens\n\nRele
+ ase year: 2025\n\nOriginal language: FR\n\nAudio: VOSE\n\nhttps://www.pill
+ alas.com/pase/1076979/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Un Poeta
+DTSTART;TZID=Europe/Madrid:20260706T200000
+UID:096e10c9e2017536d98fed6c0420f6fdd56ebb90cc58c5ea16e6bb0a8450855e
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 123 minutos | No reco
+ mendada para menores de 16 años\n\nRelease year: 2025\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1076980/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Obsession
 DTSTART;TZID=Europe/Madrid:20260706T200500
 DTEND;TZID=Europe/Madrid:20260706T215300
@@ -5827,6 +5953,17 @@ DESCRIPTION:Tras usar un misterioso objeto para conquistar a su amor plat
  \n\nRelease year: 2026\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://
  yelmocines.es/sinopsis/obsession
 LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cosas Que No Olvidaré
+DTSTART;TZID=Europe/Madrid:20260706T202000
+UID:3651052fe599f4c54bff4de959453235417996355b5a89d4151b4322ceac629a
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 114 min
+ utos | No recomendada para menores de 12 años\n\nOriginal title: Per Te\n
+ \nRelease year: 2025\n\nOriginal language: IT\n\nAudio: VOSE\n\nhttps://ww
+ w.pillalas.com/pase/1076922/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Supergirl
@@ -5847,6 +5984,17 @@ DESCRIPTION:Tomando como referencia la reciente miniserie escrita por Tom
 LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:15 Pruebas De Amor
+DTSTART;TZID=Europe/Madrid:20260706T203000
+UID:d36aaa96a0d0942d286aebc66f3b48e2c5f90be795c615563e25f2c3adecec8d
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 97 minu
+ tos | Pendiente de calificación\n\nOriginal title: Des preuves d'amour\n\
+ nRelease year: 2025\n\nOriginal language: FR\n\nAudio: VOSE\n\nhttps://www
+ .pillalas.com/pase/1077019/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Toy Story 5
 DTSTART;TZID=Europe/Madrid:20260706T203500
 DTEND;TZID=Europe/Madrid:20260706T221700
@@ -5859,6 +6007,24 @@ DESCRIPTION:Los juguetes están de vuelta en "Toy Story 5"\, de Disney y P
  Release year: 2026\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://yelm
  ocines.es/sinopsis/toy-story-5
 LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elena Rose
+DTSTART;TZID=Europe/Madrid:20260706T210000
+UID:bccd15d7d50d52a958346983d1b2dfe61079d6d0c80bd2f968b3458c96b8c9e2
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://www.ticketmaster.es/even
+ t/elena-rose-entradas/269343439?language=en-us
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La gran cacería
+DTSTART;TZID=Europe/Madrid:20260706T210000
+UID:13a97b90f362f91fff6f13faff3a8d54aa767a7b41aa9b23db016af6b7834043
+CATEGORIES:theater
+DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/la-gran-caceria/
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Backrooms
@@ -5903,6 +6069,28 @@ DESCRIPTION:Este capítulo cuenta la desvergonzada\, disparatada y verdade
 LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:La Grazia
+DTSTART;TZID=Europe/Madrid:20260706T220000
+UID:516c8cd301fdf5840820d667fdf61c6852b124334e41094f8ac191b1d1b1a740
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 132 min
+ utos | No recomendada para menores de 12 años\n\nRelease year: 2025\n\nOr
+ iginal language: IT\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/107698
+ 1/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Viaje Al País De Los Blancos
+DTSTART;TZID=Europe/Madrid:20260706T220000
+UID:ed91f918a4df906f221bc11597a5af3962bc6d1f6c34a348443b9ac0652e0681
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 110 min
+ utos | No recomendada para menores de 12 años\n\nRelease year: 2026\n\nOr
+ iginal language: CA\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/107692
+ 3/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:El día de la revelación
 DTSTART;TZID=Europe/Madrid:20260706T221000
 DTEND;TZID=Europe/Madrid:20260707T003600
@@ -5928,6 +6116,37 @@ DESCRIPTION:Tras usar un misterioso objeto para conquistar a su amor plat
  \n\nRelease year: 2026\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://
  yelmocines.es/sinopsis/obsession
 LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Un Poeta
+DTSTART;TZID=Europe/Madrid:20260706T222000
+UID:4f5679539db475ab6c9ee7f94282cc4036602042f4c52c2585dc57f1ac989114
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 123 minutos | No reco
+ mendada para menores de 16 años\n\nRelease year: 2025\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1076982/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Músicos
+DTSTART;TZID=Europe/Madrid:20260706T222500
+UID:18d579945f43ff582a352036abfa35b48123681b647f08afd143c546e953bfaf
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 102 min
+ utos | Pendiente de calificación\n\nOriginal title: Les Musiciens\n\nRele
+ ase year: 2025\n\nOriginal language: FR\n\nAudio: VOSE\n\nhttps://www.pill
+ alas.com/pase/1077020/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:9 Lunas
+DTSTART;TZID=Europe/Madrid:20260706T223000
+UID:061eddac99d1a19364d623cd8e41ca169dffc3f08f31214c7c3b4387ecfe902a
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 101 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2026\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1076924/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Supergirl
@@ -6027,6 +6246,28 @@ DESCRIPTION:Tomando como referencia la reciente miniserie escrita por Tom
 LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Viaje Al País De Los Blancos
+DTSTART;TZID=Europe/Madrid:20260707T155000
+UID:8119add9e14df96bd55c7f0ad127d9c1a6b858a6de1581728e0edeafb20ee1de
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 110 min
+ utos | No recomendada para menores de 12 años\n\nRelease year: 2026\n\nOr
+ iginal language: CA\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/107698
+ 3/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Viva
+DTSTART;TZID=Europe/Madrid:20260707T155000
+UID:5d90eee4d0fc693818cf83443f0efba679177e6a324d84565d7fe568f31a264a
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 113 min
+ utos | No recomendada para menores de 16 años\n\nRelease year: 2026\n\nOr
+ iginal language: CA\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/107698
+ 4/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Minions & Monsters
 DTSTART;TZID=Europe/Madrid:20260707T160000
 DTEND;TZID=Europe/Madrid:20260707T173000
@@ -6040,6 +6281,38 @@ DESCRIPTION:Este capítulo cuenta la desvergonzada\, disparatada y verdade
  nguage: EN\n\nAudio: VOSE\n\nhttps://yelmocines.es/sinopsis/minions-monste
  rs
 LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cosas Que No Olvidaré
+DTSTART;TZID=Europe/Madrid:20260707T160000
+UID:9cad1a8640f9c48e33831b2e06f6fa29bf66a10769fd4e5fbea319327e5d9eab
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 114 min
+ utos | No recomendada para menores de 12 años\n\nOriginal title: Per Te\n
+ \nRelease year: 2025\n\nOriginal language: IT\n\nAudio: VOSE\n\nhttps://ww
+ w.pillalas.com/pase/1076925/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Músicos
+DTSTART;TZID=Europe/Madrid:20260707T160000
+UID:9df0b7a6e7c073f71aa227372feee4b61ffb8adff71576317e4f5165b4541424
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 102 min
+ utos | Pendiente de calificación\n\nOriginal title: Les Musiciens\n\nRele
+ ase year: 2025\n\nOriginal language: FR\n\nAudio: VOSE\n\nhttps://www.pill
+ alas.com/pase/1076985/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Un Poeta
+DTSTART;TZID=Europe/Madrid:20260707T160000
+UID:813dd5b83bf3715507314929053dcc92fde11fca27f0ee20d50fd31696329a50
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 123 minutos | No reco
+ mendada para menores de 16 años\n\nRelease year: 2025\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1076926/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Toy Story 5
@@ -6123,6 +6396,17 @@ DESCRIPTION:Una pareja\, en los días previos a su boda\, se enfrenta a un
 LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Viaje Al País De Los Blancos
+DTSTART;TZID=Europe/Madrid:20260707T175500
+UID:4eddc6b3bbf0e8ba0a10f9a8ef19c2cbbf851e16a2e3d791035848c8f6ba08fa
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 110 min
+ utos | No recomendada para menores de 12 años\n\nRelease year: 2026\n\nOr
+ iginal language: CA\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/107698
+ 6/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:La cuadrilla
 DTSTART;TZID=Europe/Madrid:20260707T180000
 UID:2d91848634b9a619328d071bcddef4eef57f8ac134490e0c49deb8cefbd77540
@@ -6172,6 +6456,39 @@ DESCRIPTION:Este capítulo cuenta la desvergonzada\, disparatada y verdade
 LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:La Grazia
+DTSTART;TZID=Europe/Madrid:20260707T180000
+UID:a689e05e5690820f34e5eaaf9e2bba2de0ec74380e131a716c71cf8d22ddc7f8
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 132 min
+ utos | No recomendada para menores de 12 años\n\nRelease year: 2025\n\nOr
+ iginal language: IT\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/107698
+ 8/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Músicos
+DTSTART;TZID=Europe/Madrid:20260707T180000
+UID:fbd9194af480be8932afbb08c40320a39e53e2a006ab4c51a5bac45cb015feb5
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 102 min
+ utos | Pendiente de calificación\n\nOriginal title: Les Musiciens\n\nRele
+ ase year: 2025\n\nOriginal language: FR\n\nAudio: VOSE\n\nhttps://www.pill
+ alas.com/pase/1076987/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cosas Que No Olvidaré
+DTSTART;TZID=Europe/Madrid:20260707T181000
+UID:329cbf00b63160d95addbe232193b3b6bd1848d2a49115f8726afb18e0fcd37c
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 114 min
+ utos | No recomendada para menores de 12 años\n\nOriginal title: Per Te\n
+ \nRelease year: 2025\n\nOriginal language: IT\n\nAudio: VOSE\n\nhttps://ww
+ w.pillalas.com/pase/1076927/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Supergirl
 DTSTART;TZID=Europe/Madrid:20260707T181500
 DTEND;TZID=Europe/Madrid:20260707T200300
@@ -6202,6 +6519,15 @@ DESCRIPTION:Los juguetes están de vuelta en "Toy Story 5"\, de Disney y P
  Release year: 2026\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://yelm
  ocines.es/sinopsis/toy-story-5
 LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tai Sonora
+DTSTART;TZID=Europe/Madrid:20260707T190000
+UID:b9a428ca1278f88a0e98b12a4eed6f6a3160d84b6eeccc3dd61d142756a1c57d
+CATEGORIES:music
+DESCRIPTION:Concierto / Pop / Rock / World Music & Folk / Urban\n\nhttps:/
+ /salavillanos.es/evento/tai-sonora/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:El día de la revelación
@@ -6272,6 +6598,27 @@ DESCRIPTION:MICHAEL es el retrato en la gran pantalla de la vida y el lega
 LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Los Músicos
+DTSTART;TZID=Europe/Madrid:20260707T200000
+UID:04a22cff01b309ec6a3dc750dbf42d64d4ff4703e81220bb804580c7e61e03be
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 102 min
+ utos | Pendiente de calificación\n\nOriginal title: Les Musiciens\n\nRele
+ ase year: 2025\n\nOriginal language: FR\n\nAudio: VOSE\n\nhttps://www.pill
+ alas.com/pase/1076989/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Un Poeta
+DTSTART;TZID=Europe/Madrid:20260707T200000
+UID:b1d0e5b70d13f9dc9f50e3a40e34c4f2dcc401f2d59a8068115dfd941d5c0ff0
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 123 minutos | No reco
+ mendada para menores de 16 años\n\nRelease year: 2025\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1076990/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Obsession
 DTSTART;TZID=Europe/Madrid:20260707T200500
 DTEND;TZID=Europe/Madrid:20260707T215300
@@ -6283,6 +6630,41 @@ DESCRIPTION:Tras usar un misterioso objeto para conquistar a su amor plat
  \n\nRelease year: 2026\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://
  yelmocines.es/sinopsis/obsession
 LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cosas Que No Olvidaré
+DTSTART;TZID=Europe/Madrid:20260707T202000
+UID:4379d06e7cef4f906ee925bdd8ac35466b6a774f28461d0937c367bfd02b5bfa
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 114 min
+ utos | No recomendada para menores de 12 años\n\nOriginal title: Per Te\n
+ \nRelease year: 2025\n\nOriginal language: IT\n\nAudio: VOSE\n\nhttps://ww
+ w.pillalas.com/pase/1076928/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los 40 Y La Canción Del Verano (De La Villa)
+DTSTART;TZID=Europe/Madrid:20260707T203000
+UID:ddca8d2defc909183a51e261ade5ffd5147abc0ed820176fab1c3ca03c40cef3
+CATEGORIES:exhibition
+DESCRIPTION:El 7 de julio el Ayuntamiento de Madrid y Los40 Classic inaugu
+ ran Los Veranos de la Villa con una fiesta musical que será un homenaje y
+  un repaso a “la canción del verano”. “La canción del verano” es
+  sinónimo de felicidad y buen rollo. Es olvidarse de los problemas y quer
+ er bailar toda la noche. Es esa canción pegadiza que tiene un estribillo 
+ contagioso\, un baile sencillo que se puede practicar en colectividad y un
+ a melodía pegajosa que se repite en la cabeza una y otra vez. Los40 Class
+ ic con su emblemático DJ Fernadisco va a repasar todos los éxitos que se
+  han convertido en canción del verano desde el año 1985\, año el en que
+  nacieron Los Veranos de la Villa . Sobre el escenario además de Fernandi
+ sco\, un grupo de baile nos recordará lo pasos de La Macarena \, el Asere
+ je o del Danza Kuduro . Bailaremos y cantaremos con Georgie Dann y con Sha
+ kira\, con Rosalía y con King Africa\, con Sonia y Selena y con Lou Bega\
+ , con Jarabe de Palo y con Jennifer Lopez. Y con muchos más. Todo en un a
+ mbiente festivo\, veraniego y casi playero para celebrar el inicio de Los 
+ Veranos de la Villa .\n\nhttps://www.mataderomadrid.org/programacion/los-4
+ 0-y-la-cancion-del-verano-de-la-villa
+LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Supergirl
@@ -6301,6 +6683,17 @@ DESCRIPTION:Tomando como referencia la reciente miniserie escrita por Tom
  la que estamos acostumbrados".\n\nRelease year: 2026\n\nOriginal language:
   EN\n\nAudio: VOSE\n\nhttps://yelmocines.es/sinopsis/supergirl
 LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:15 Pruebas De Amor
+DTSTART;TZID=Europe/Madrid:20260707T203000
+UID:24c87e84e47f51b6f66e299b969e252719c073bcc90795a2bcbbc17f54387fee
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 97 minu
+ tos | Pendiente de calificación\n\nOriginal title: Des preuves d'amour\n\
+ nRelease year: 2025\n\nOriginal language: FR\n\nAudio: VOSE\n\nhttps://www
+ .pillalas.com/pase/1077021/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Los músicos
@@ -6390,6 +6783,28 @@ DESCRIPTION:Este capítulo cuenta la desvergonzada\, disparatada y verdade
 LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:La Grazia
+DTSTART;TZID=Europe/Madrid:20260707T220000
+UID:b0070af3f59c76ad9390674dd071629bdf963374d68c09f3fbb0154f70b14418
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 132 min
+ utos | No recomendada para menores de 12 años\n\nRelease year: 2025\n\nOr
+ iginal language: IT\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/107699
+ 1/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Viaje Al País De Los Blancos
+DTSTART;TZID=Europe/Madrid:20260707T220000
+UID:2fe6635adb41229d014bf1cbbde5472be9f45635a656d4f19e8f3657b3631998
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 110 min
+ utos | No recomendada para menores de 12 años\n\nRelease year: 2026\n\nOr
+ iginal language: CA\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/107692
+ 9/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:El día de la revelación
 DTSTART;TZID=Europe/Madrid:20260707T221000
 DTEND;TZID=Europe/Madrid:20260708T003600
@@ -6417,6 +6832,27 @@ DESCRIPTION:Tras usar un misterioso objeto para conquistar a su amor plat
 LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Un Poeta
+DTSTART;TZID=Europe/Madrid:20260707T222000
+UID:66d3dbefd001fe8ff7206396bea4e79a7653fdcade2a0831ca72bab71f9e3d3a
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 123 minutos | No reco
+ mendada para menores de 16 años\n\nRelease year: 2025\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1076992/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Músicos
+DTSTART;TZID=Europe/Madrid:20260707T222500
+UID:c393d487226136e6e90992c304afb1df6c67dbceb5119059385267ebe8eb2adb
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 102 min
+ utos | Pendiente de calificación\n\nOriginal title: Les Musiciens\n\nRele
+ ase year: 2025\n\nOriginal language: FR\n\nAudio: VOSE\n\nhttps://www.pill
+ alas.com/pase/1077022/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:El diablo viste de Prada 2
 DTSTART;TZID=Europe/Madrid:20260707T223000
 DTEND;TZID=Europe/Madrid:20260708T003000
@@ -6430,6 +6866,16 @@ DESCRIPTION:Casi veinte años después de interpretar a los icónicos pers
  elease year: 2026\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://yelmo
  cines.es/sinopsis/el-diablo-viste-de-prada-2
 LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:9 Lunas
+DTSTART;TZID=Europe/Madrid:20260707T223000
+UID:6ad288acbfa57ce70bec19edbc02cb493cce6bd57c5180db78efc3ce532cf29a
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 101 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2026\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1076930/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Scary Movie
@@ -6485,6 +6931,60 @@ DESCRIPTION:Los juguetes están de vuelta en "Toy Story 5"\, de Disney y P
 LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Viaje Al País De Los Blancos
+DTSTART;TZID=Europe/Madrid:20260708T155000
+UID:72d493f684c918351347a8d758183f6eb4853ef60e555a79f2217c36c4575f13
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 110 min
+ utos | No recomendada para menores de 12 años\n\nRelease year: 2026\n\nOr
+ iginal language: CA\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/107699
+ 3/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Viva
+DTSTART;TZID=Europe/Madrid:20260708T155000
+UID:ba28e7a2206079561b488ebf3ae7adde0221e8b60d77a5f3cf87df2b018a3f82
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 113 min
+ utos | No recomendada para menores de 16 años\n\nRelease year: 2026\n\nOr
+ iginal language: CA\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/107699
+ 4/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cosas Que No Olvidaré
+DTSTART;TZID=Europe/Madrid:20260708T160000
+UID:84ffab608eacdd31d810e1303048907b0e750799faa72aef61e0444b6854630a
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 114 min
+ utos | No recomendada para menores de 12 años\n\nOriginal title: Per Te\n
+ \nRelease year: 2025\n\nOriginal language: IT\n\nAudio: VOSE\n\nhttps://ww
+ w.pillalas.com/pase/1076932/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Músicos
+DTSTART;TZID=Europe/Madrid:20260708T160000
+UID:4f219361d34cf799b492f1d0dbf9f2ac2dc2dead48ffa1212774e3e82fc8af25
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 102 min
+ utos | Pendiente de calificación\n\nOriginal title: Les Musiciens\n\nRele
+ ase year: 2025\n\nOriginal language: FR\n\nAudio: VOSE\n\nhttps://www.pill
+ alas.com/pase/1076995/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Un Poeta
+DTSTART;TZID=Europe/Madrid:20260708T160000
+UID:e0b2232b2f2c2d536bb722996a39e162f3dc14d0102fcf0fa52732dc481a2c9d
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 123 minutos | No reco
+ mendada para menores de 16 años\n\nRelease year: 2025\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1076931/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Vaiana
 DTSTART;TZID=Europe/Madrid:20260708T170000
 DTEND;TZID=Europe/Madrid:20260708T185500
@@ -6497,6 +6997,17 @@ DESCRIPTION:Vaiana (Catherine Lagaʻaia) responde a la llamada del océano
  2026\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://yelmocines.es/sino
  psis/vaiana
 LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Viaje Al País De Los Blancos
+DTSTART;TZID=Europe/Madrid:20260708T175500
+UID:54934cf17e54e12fade10302999c1b54fc793158e5df01222ac9c78d2abb78d2
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 110 min
+ utos | No recomendada para menores de 12 años\n\nRelease year: 2026\n\nOr
+ iginal language: CA\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/107699
+ 6/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Loca juventud
@@ -6533,6 +7044,39 @@ DESCRIPTION:Año 2019. Megalópolis de Tokio. Kaneda\, líder de una banda
 LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:La Grazia
+DTSTART;TZID=Europe/Madrid:20260708T180000
+UID:023fc8111ab38954420fa6cb120485a3e9614301732ea9483e4219fc8ccbd2a2
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 132 min
+ utos | No recomendada para menores de 12 años\n\nRelease year: 2025\n\nOr
+ iginal language: IT\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/107699
+ 8/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Músicos
+DTSTART;TZID=Europe/Madrid:20260708T180000
+UID:d5bbca6d3d4d220f1bf1bf3281dfcc5662822bd28203d8afbca77e091a359d88
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 102 min
+ utos | Pendiente de calificación\n\nOriginal title: Les Musiciens\n\nRele
+ ase year: 2025\n\nOriginal language: FR\n\nAudio: VOSE\n\nhttps://www.pill
+ alas.com/pase/1076997/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cosas Que No Olvidaré
+DTSTART;TZID=Europe/Madrid:20260708T181000
+UID:7a17cff32e54f813f66344d91905fdcb691596dfbfcc229f69b34de09035bbbf
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 114 min
+ utos | No recomendada para menores de 12 años\n\nOriginal title: Per Te\n
+ \nRelease year: 2025\n\nOriginal language: IT\n\nAudio: VOSE\n\nhttps://ww
+ w.pillalas.com/pase/1076933/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Vaiana
 DTSTART;TZID=Europe/Madrid:20260708T193000
 DTEND;TZID=Europe/Madrid:20260708T212500
@@ -6547,6 +7091,15 @@ DESCRIPTION:Vaiana (Catherine Lagaʻaia) responde a la llamada del océano
 LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Panza de Burro
+DTSTART;TZID=Europe/Madrid:20260708T193000
+UID:b23800ab42f1b7092dacb96876b9192a7fd816953cbc46a821f0b7bbe70dea80
+CATEGORIES:theater
+DESCRIPTION:¡Ya solo quedan 1 plazas!\n\nhttps://teatrodelbarrio.com/panz
+ a-de-burro/
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Crazy Cabin Quintet
 DTSTART;TZID=Europe/Madrid:20260708T200000
 DTEND;TZID=Europe/Madrid:20260709T200000
@@ -6556,6 +7109,38 @@ DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
   el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
  s://ateneodemadrid.com/evento/crazy-cabin-quintet/
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Músicos
+DTSTART;TZID=Europe/Madrid:20260708T200000
+UID:f0783c4b656c97a2d768d76623b98554f9b5c1bbae36b4846033491560001757
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 102 min
+ utos | Pendiente de calificación\n\nOriginal title: Les Musiciens\n\nRele
+ ase year: 2025\n\nOriginal language: FR\n\nAudio: VOSE\n\nhttps://www.pill
+ alas.com/pase/1077000/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Un Poeta
+DTSTART;TZID=Europe/Madrid:20260708T200000
+UID:6ad974f0ca4889d7b7ae1938c266452cb801b829ee3cf6cf61fb46c0060d03bb
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 123 minutos | No reco
+ mendada para menores de 16 años\n\nRelease year: 2025\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1076999/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cosas Que No Olvidaré
+DTSTART;TZID=Europe/Madrid:20260708T202000
+UID:e12fdfd3b1c6cd3041c40f9d4e13afb41916f5952271c99b60d6addc1c5f8339
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 114 min
+ utos | No recomendada para menores de 12 años\n\nOriginal title: Per Te\n
+ \nRelease year: 2025\n\nOriginal language: IT\n\nAudio: VOSE\n\nhttps://ww
+ w.pillalas.com/pase/1076934/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Solo un beso
@@ -6570,6 +7155,17 @@ DESCRIPTION:Fecha y Hora: Miércoles 8 de Julio a las 20:30h (Sala 1. Ken
  s/es/productos/descripcion/solo-un-beso
 LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
  \, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:15 Pruebas De Amor
+DTSTART;TZID=Europe/Madrid:20260708T203000
+UID:c5eace35f41f211235f1b9f445f5a49d99a69ff3668d9daf320323bf55327fc0
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 97 minu
+ tos | Pendiente de calificación\n\nOriginal title: Des preuves d'amour\n\
+ nRelease year: 2025\n\nOriginal language: FR\n\nAudio: VOSE\n\nhttps://www
+ .pillalas.com/pase/1077023/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Frente Cumbiero
@@ -6595,6 +7191,169 @@ DESCRIPTION:Vaiana (Catherine Lagaʻaia) responde a la llamada del océano
 LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:La Grazia
+DTSTART;TZID=Europe/Madrid:20260708T220000
+UID:5a5ef80a2f4db159ef208c20b6f119ecaca23bd17a5ea26f190d73eaa8c91dd9
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 132 min
+ utos | No recomendada para menores de 12 años\n\nRelease year: 2025\n\nOr
+ iginal language: IT\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/107700
+ 1/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Viaje Al País De Los Blancos
+DTSTART;TZID=Europe/Madrid:20260708T220000
+UID:c0bdc7ab91550b4190148ffed6733a3cde2eff93a59be614894f69d744a3a5bc
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 110 min
+ utos | No recomendada para menores de 12 años\n\nRelease year: 2026\n\nOr
+ iginal language: CA\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/107693
+ 5/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Un Poeta
+DTSTART;TZID=Europe/Madrid:20260708T222000
+UID:d13ec688fd1e08286531610c195f38cc159e16db663f24112003240aa03b036a
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 123 minutos | No reco
+ mendada para menores de 16 años\n\nRelease year: 2025\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1077002/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Músicos
+DTSTART;TZID=Europe/Madrid:20260708T222500
+UID:18eabfd0c2da31d2051d5f7675b7fdd814bfb7cdc1abc992afc62e025e6c7b1c
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 102 min
+ utos | Pendiente de calificación\n\nOriginal title: Les Musiciens\n\nRele
+ ase year: 2025\n\nOriginal language: FR\n\nAudio: VOSE\n\nhttps://www.pill
+ alas.com/pase/1077024/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:9 Lunas
+DTSTART;TZID=Europe/Madrid:20260708T223000
+UID:72dbbd2bd83448052d9d61d78eab2e818ece103437b473c0ab48eb3fd06585e0
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 101 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2026\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1076936/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spasticus Artisticus. Presentación del proyecto con el grupo prom
+ otor y la participación de Gustavo A. Díaz y Blanki Izuzquiza
+DTSTART;TZID=Europe/Madrid:20260709T090000
+UID:6534eca02f691111223eef958b954b8fbee3f98dbe191a78d5d78eeb0f5b6948
+CATEGORIES:exhibition
+DESCRIPTION:Spasticus Artisticus nace como grupo colectivo y autogestionad
+ o en Matadero Madrid\, durante el curso 2025/26\, derivado del deseo y la 
+ necesidad de encontrarnos enfermas\, locas\, discapacitades/diversas funci
+ onales\, cuerpos diversos\, convivientes con dolor\, tullidas\, taradas y 
+ demás diagnosticades… para pensarnos y colectivizar a través de propue
+ stas artísticas. Vinculado al proyecto Sintomatologías: aprendizajes de 
+ Elena Prous\, de enero a julio de este año el grupo promotor inició y ex
+ perimentó esta nueva etapa en Matadero Madrid organizada desde lo colecti
+ vo y en colaboración con el departamento de Educación y Públicos. A lo 
+ largo de su estancia\, ha generado un espacio de encuentro e intercambio d
+ e conocimientos y experiencias entre personas con discapacidad\, neurodive
+ rgentes\, psiquiatrizadas o con enfermedades de larga duración. Investig
+ ó formas colectivas en torno a conceptos como “ crip ” o “ tullido 
+ ” y exploró sus potencialidades políticas y culturales. El objetivo es
+  cuestionar los paradigmas tradicionales\, que suelen situar a estos colec
+ tivos en marcos de caridad o lástima\, y sustituirlos por perspectivas qu
+ e reconozcan su agencia\, creatividad y poder de acción. En esta ocasión
+ \, Gustavo A. Díaz y Blanki Izuzquiza se harán eco de sus experiencias e
+ n el proyecto\, mostrando algunas de sus piezas de documentación expandid
+ a realizadas en paralelo durante las sesiones de encuentros mensuales. “
+ Spasticus Artisticus nace como grupo colectivo y autogestionado en Matader
+ o Madrid\, durante el curso 2025/26\, derivado del deseo y la necesidad de
+  encontrarnos enfermas\, locas\, discapacitadas/diversas funcionales\, cue
+ rpos diversos\, convivientes con dolor\, tullidas\, taradas y demás diagn
+ osticadas… para pensarnos y colectivizar a través de propuestas artíst
+ icas. Nos conocimos y vinculamos en el proyecto Sintomatologías: aprendiz
+ ajes espásticos hace casi dos años –impulsado por Elena Prous en el ma
+ rco de la residencia en torno al arte y la educación\, del CRA Centro de 
+ Residencias Artísticas de Matadero– y ahora iniciamos esta nueva etapa\
+ , en la que queremos organizarnos desde lo colectivo.” Blanki Izuzquiza 
+ es dibujante desde siempre\, graduada en Bellas Artes en la URJC – Unive
+ rsidad Rey Juan Carlos. Directora de animación\, y amante de las viñetas
+  y el fanzine. Es co-impulsora del colectivo Spasticus Artisticus. Gustav
+ o A. Díaz es diseñador y artista multidisciplinario\, nacido en Venezuel
+ a y enraizado en Madrid. Desarrolló sus sensibilidades y habilidades crea
+ tivas en una vida autodidacta\, y en el encuentro con múltiples formas de
+  creatividad y creación. Se define como artivista\, crip\, migra nieto de
+  migras\, geek y freak. El proyecto 'Spasticus Artisticus' forma parte de 
+ 'Metodologías experimentales'\, la línea de trabajo de Intermediae para 
+ la innovación metodológica\, que en la edición 2025-2026 se desarrolla 
+ en colaboración con el Departamento de Educación y Públicos\, en su obj
+ etivo común de diversificar perfiles de público y fomentar los derechos 
+ culturales. Asimismo\, la actividad forma parte de ' Un cuarto de estar pa
+ ra la ciudad ' (edición 2026)\, un programa gratuito de Intermediae que c
+ onvierte la Nave Una de Matadero Madrid en un espacio de encuentro\, desca
+ nso y descubrimiento desde la perspectiva del refugio climático.\n\nhttps
+ ://www.mataderomadrid.org/programacion/spasticus-artisticus-presentacion-d
+ el-proyecto-con-el-grupo-promotor-y-la
+LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Viaje Al País De Los Blancos
+DTSTART;TZID=Europe/Madrid:20260709T155000
+UID:d8314bfdb7a08156e99d2e9c8cd3648031c221b6868313f3fd9776e7a4407e2c
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 110 min
+ utos | No recomendada para menores de 12 años\n\nRelease year: 2026\n\nOr
+ iginal language: CA\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/107700
+ 3/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Viva
+DTSTART;TZID=Europe/Madrid:20260709T155000
+UID:282b90d665316f96328cbc7766915b71064874ab32b0a212c717d4d31f424d30
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 113 min
+ utos | No recomendada para menores de 16 años\n\nRelease year: 2026\n\nOr
+ iginal language: CA\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/107700
+ 4/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cosas Que No Olvidaré
+DTSTART;TZID=Europe/Madrid:20260709T160000
+UID:0c60ddbc2c4d3766c092e6b7c0c5063d0e1babf6813d4eb7342591a4b0988edf
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 114 min
+ utos | No recomendada para menores de 12 años\n\nOriginal title: Per Te\n
+ \nRelease year: 2025\n\nOriginal language: IT\n\nAudio: VOSE\n\nhttps://ww
+ w.pillalas.com/pase/1076938/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Músicos
+DTSTART;TZID=Europe/Madrid:20260709T160000
+UID:a19f2e22f345e7d116d4d63cb83cd05115b4e8fa884e90c2bc3ff6ecf12c2910
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 102 min
+ utos | Pendiente de calificación\n\nOriginal title: Les Musiciens\n\nRele
+ ase year: 2025\n\nOriginal language: FR\n\nAudio: VOSE\n\nhttps://www.pill
+ alas.com/pase/1077005/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Un Poeta
+DTSTART;TZID=Europe/Madrid:20260709T160000
+UID:a7388798496747c3ad341dddbf3ed7b0b9b3c70f5f8cd77532adcabd445ed359
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 123 minutos | No reco
+ mendada para menores de 16 años\n\nRelease year: 2025\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1076937/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Vaiana
 DTSTART;TZID=Europe/Madrid:20260709T170000
 DTEND;TZID=Europe/Madrid:20260709T185500
@@ -6607,6 +7366,17 @@ DESCRIPTION:Vaiana (Catherine Lagaʻaia) responde a la llamada del océano
  2026\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://yelmocines.es/sino
  psis/vaiana
 LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Viaje Al País De Los Blancos
+DTSTART;TZID=Europe/Madrid:20260709T175500
+UID:55324a6b10cefc1d795f3bff032e67f6c576fde74f68a1038655e9a04d599db8
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 110 min
+ utos | No recomendada para menores de 12 años\n\nRelease year: 2026\n\nOr
+ iginal language: CA\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/107700
+ 6/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:La última palabra
@@ -6623,6 +7393,90 @@ LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
  \, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:La Grazia
+DTSTART;TZID=Europe/Madrid:20260709T180000
+UID:17c82fcc22937cb3db87f608e89faa7bc7be3085291f9e5cd364ceb40e9b666a
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 132 min
+ utos | No recomendada para menores de 12 años\n\nRelease year: 2025\n\nOr
+ iginal language: IT\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/107700
+ 7/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Músicos
+DTSTART;TZID=Europe/Madrid:20260709T180000
+UID:b64e6be7ecb99e4a93d3a0300f14d14138eb1006cbe2d62b102be91dada17c08
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 102 min
+ utos | Pendiente de calificación\n\nOriginal title: Les Musiciens\n\nRele
+ ase year: 2025\n\nOriginal language: FR\n\nAudio: VOSE\n\nhttps://www.pill
+ alas.com/pase/1077008/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cosas Que No Olvidaré
+DTSTART;TZID=Europe/Madrid:20260709T181000
+UID:86b5b59e12c849348a29ca17e9e7b0985fcb0c7e32f2ad2740638247aa2d5ee1
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 114 min
+ utos | No recomendada para menores de 12 años\n\nOriginal title: Per Te\n
+ \nRelease year: 2025\n\nOriginal language: IT\n\nAudio: VOSE\n\nhttps://ww
+ w.pillalas.com/pase/1076939/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ecstatic Dance. Sesión con Izaskun Barbàrie
+DTSTART;TZID=Europe/Madrid:20260709T184500
+UID:7019e66e099bdfb87dba3abe4c8612262cf725e28bd051f2cd028d06223b5369
+CATEGORIES:music
+DESCRIPTION:Actividad de cierre del proyecto Spasticus Artisticus que ener
+ o a junio ha habitado el espacio Taller de Matadero de la mano del departa
+ mento de Educación y Públicos e Intermediae Matadero. Este grupo autoges
+ tionado ha reunido a personas viviendo con experiencias de discapacidad\, 
+ neurodivergencia y enfermedades de largo recorrido interesados en encontra
+ rse en torno a vivencias comunes y la creación artística. Para esta acti
+ vidad de carácter lúdico\, y abierto a personas con y sin discapacidad\,
+  el grupo convoca a Izaskun Barbàrie \, músico\, DJ y facilitadore en Ec
+ static Dance \, una práctica de movimiento libre y consciente donde mover
+ se y bailar libremente\, sin pasos coreografiados ni palabras\, guiado por
+  una ola musical. En palabras de las proponentes\, “no es necesario bail
+ ar bonito\, ni rítmico\, sino sencillamente movernos y expresarnos desde 
+ el cuerpo y la voz\, descansar o estirarnos y viajar con la música.” De
+  la mano de Izaskun Barbàrie y los integrantes de Spasticus Artisticus \,
+  Un cuarto de estar para la ciudad se transformará en un espacio relacion
+ al donde jugar\, reivindicarse\, disfrutar\, celebrar en diversidad y armo
+ nizarse desde un lenguaje no verbal. La presencia de la música será fund
+ amental\, invitando a movernos a partir de diferentes ritmos y paisajes so
+ noros\, desde la música orgánica a la electrónica\, pasando por la lír
+ ica y el juego\, para conectar con un espacio de seguridad y no juicio. Iz
+ askun Barbàrie \, persona queer y disca\, DJ facilitadore en Ecstatic Dan
+ ce\, pianista\, compositore y performer. Es integrante de la compañía de
+  danza integrada “Liant la Troca”\, dirigida por Jordi Cortés\, y la 
+ compañía “Caravana de Centàurides”\, ganadora de la convocatoria Mo
+ ving Identities Europe 2023-2024\, residente en Nau Ivanow\, Barcelona\, d
+ onde investiga las alianzas crip-queer en las artes escénicas. Dedica su 
+ tiempo a participar y promover la visibilidad de movimientos transfeminist
+ as y de diversidad funcional. Se formó en Facilitación de Ecstatic Dance
+  en 2019-2020 y desde entonces está en activo. Todas las sesiones que fac
+ ilita tienen perspectiva transfeminista y anticapactista. En Barcelona ha 
+ pasado por espacios como Ca La Dona\, Ateneu el Poblet\, Inusual Project\,
+  La Caldera de Les Corts\, así como el Festival Agrocuir (Ulloa\, Galicia
+ )\, Fiestas de Lakabe (Navarra) y La Posidònia (Ultramort\, Girona). @ecs
+ taticdancebarbarie @izaskun_barbarie Esta actividad forma parte del proyec
+ to 'Spasticus Artisticus ”' que se enmarca en 'Metodologías experimenta
+ les'\, la línea de trabajo de Intermediae para la innovación metodológi
+ ca\, que en la edición 2025-2026 se desarrolla en colaboración con el De
+ partamento de Educación y Públicos\, en su objetivo común de diversific
+ ar perfiles de público y fomentar los derechos culturales. Asimismo\, la 
+ actividad forma parte de ' Un cuarto de estar para la ciudad ' (edición 2
+ 026)\, un programa gratuito de Intermediae que convierte la Nave Una de Ma
+ tadero Madrid en un espacio de encuentro\, descanso y descubrimiento desde
+  la perspectiva del refugio climático.\n\nhttps://www.mataderomadrid.org/
+ programacion/ecstatic-dance-sesion-con-izaskun-barbarie
+LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Vaiana
 DTSTART;TZID=Europe/Madrid:20260709T193000
 DTEND;TZID=Europe/Madrid:20260709T212500
@@ -6635,6 +7489,46 @@ DESCRIPTION:Vaiana (Catherine Lagaʻaia) responde a la llamada del océano
  2026\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://yelmocines.es/sino
  psis/vaiana
 LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Panza de Burro
+DTSTART;TZID=Europe/Madrid:20260709T193000
+UID:211482bd70272ccc68a127093007840ff7165e264f4103d5f384d390236d6db8
+CATEGORIES:theater
+DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/panza-de-burro/
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Músicos
+DTSTART;TZID=Europe/Madrid:20260709T200000
+UID:5a4334091077be8297f4b9e8e9dfef79309280366dba6aea4d74a88793722760
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 102 min
+ utos | Pendiente de calificación\n\nOriginal title: Les Musiciens\n\nRele
+ ase year: 2025\n\nOriginal language: FR\n\nAudio: VOSE\n\nhttps://www.pill
+ alas.com/pase/1077010/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Un Poeta
+DTSTART;TZID=Europe/Madrid:20260709T200000
+UID:d125b72d2658a7977307a7ce80602bc4348ecebcc6a5df50557a9f4323bb7800
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 123 minutos | No reco
+ mendada para menores de 16 años\n\nRelease year: 2025\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1077009/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cosas Que No Olvidaré
+DTSTART;TZID=Europe/Madrid:20260709T202000
+UID:5cb1cdbd64b3ba1ba894d4b7993be75056346075708a263364a409e547fac86c
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 114 min
+ utos | No recomendada para menores de 12 años\n\nOriginal title: Per Te\n
+ \nRelease year: 2025\n\nOriginal language: IT\n\nAudio: VOSE\n\nhttps://ww
+ w.pillalas.com/pase/1076940/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Simon y Laura
@@ -6650,6 +7544,17 @@ LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
  \, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:15 Pruebas De Amor
+DTSTART;TZID=Europe/Madrid:20260709T203000
+UID:fd4d9e88a2502bc1079b211f3dd39f7d729da689658922855fe9d96951198ee6
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 97 minu
+ tos | Pendiente de calificación\n\nOriginal title: Des preuves d'amour\n\
+ nRelease year: 2025\n\nOriginal language: FR\n\nAudio: VOSE\n\nhttps://www
+ .pillalas.com/pase/1077025/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:32-20 BLUES BAND feat MAMA NAT
 DTSTART;TZID=Europe/Madrid:20260709T210000
 UID:08ba32f39b8b873d64b82114ae5e2bd07b72bbfecb23f11b4e967c6535ea54e9
@@ -6657,26 +7562,6 @@ CATEGORIES:music
 DESCRIPTION:Blues en la Villa / Concierto\n\nhttps://salavillanos.es/event
  o/mama-nat-32-20-blues-band/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CinePlaza: Superestrellas 3 / Linterna XL: La sala de baile
-DTSTART;TZID=Europe/Madrid:20260709T213000
-UID:001d41de90e1433be3f2645026ac27b758216a5a239e3aef38ddb704f466aba9
-CATEGORIES:cinema
-DESCRIPTION:En el cineclub Linterna \, Brays Efe y Miguel Agnes nos invita
- n a compartir sus películas favoritas\, revisitando desde otro ángulo pe
- lículas de culto\, proponiendo una relectura irreverente y luminosa del c
- anon cinematográfico: una forma de reencantar la cinefilia desde la charl
- a\, el humor y la inteligencia. En esta ocasión\, revisitan La sala de ba
- ile de Ettore Scola\, una obra singular que condensa medio siglo de histor
- ia europea a través del lenguaje universal de la música y la danza. Cons
- iderada una de las cumbres del cine musical europeo\, constituye una exper
- iencia cinematográfica profundamente original que demuestra la capacidad 
- del cine para contar la historia sin palabras. La proyección irá precedi
- da de una conversación con Brays Efe y Miguel Agnes.\n\nAudio: VOSE\n\nht
- tps://www.cinetecamadrid.com/programacion/cineplaza-superestrellas-3-linte
- rna-xl-la-sala-de-baile
-LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vaiana
@@ -6691,6 +7576,59 @@ DESCRIPTION:Vaiana (Catherine Lagaʻaia) responde a la llamada del océano
  2026\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://yelmocines.es/sino
  psis/vaiana
 LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Grazia
+DTSTART;TZID=Europe/Madrid:20260709T220000
+UID:7a532b3fb2d93875f36d1a878b192156b561f4e632452b8ab1ef379dd95d4568
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 132 min
+ utos | No recomendada para menores de 12 años\n\nRelease year: 2025\n\nOr
+ iginal language: IT\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/107701
+ 1/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Viaje Al País De Los Blancos
+DTSTART;TZID=Europe/Madrid:20260709T220000
+UID:f7a392e13d30807f2fa5faa6b444d85da0af2e15a04ae1b561669b250dd08c04
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 110 min
+ utos | No recomendada para menores de 12 años\n\nRelease year: 2026\n\nOr
+ iginal language: CA\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/107694
+ 1/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Un Poeta
+DTSTART;TZID=Europe/Madrid:20260709T222000
+UID:0df5c08c59e9b46b479a66917dedf0d82536c4aff97a5198c8138fd1aabce9a9
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 123 minutos | No reco
+ mendada para menores de 16 años\n\nRelease year: 2025\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1077012/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Músicos
+DTSTART;TZID=Europe/Madrid:20260709T222500
+UID:1d9ab47e0bc3b6dae9d2aca9dfc872de0ee1303261e71618b9b1b858bba47974
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 102 min
+ utos | Pendiente de calificación\n\nOriginal title: Les Musiciens\n\nRele
+ ase year: 2025\n\nOriginal language: FR\n\nAudio: VOSE\n\nhttps://www.pill
+ alas.com/pase/1077026/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:9 Lunas
+DTSTART;TZID=Europe/Madrid:20260709T223000
+UID:88aa3fb866f9352d35d9d9f3638781acd47ba0ce2989e162586f00ad2008a31a
+CATEGORIES:cinema
+DESCRIPTION:Versión Original Castellano | Duración 101 minutos | No reco
+ mendada para menores de 12 años\n\nRelease year: 2026\n\nOriginal languag
+ e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1076942/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Un viaje al Mar de Sombra. Caballeros de salitre
@@ -6745,6 +7683,14 @@ DESCRIPTION:Vaiana (Catherine Lagaʻaia) responde a la llamada del océano
  2026\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://yelmocines.es/sino
  psis/vaiana
 LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Panza de Burro
+DTSTART;TZID=Europe/Madrid:20260710T193000
+UID:d3e783c46cab55ac2c185fdd962a23ece4c99a20d9e473409eac64cf027a989d
+CATEGORIES:theater
+DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/panza-de-burro/
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:José Luis Gutiérrez Trío
@@ -6805,20 +7751,6 @@ DESCRIPTION:Vaiana (Catherine Lagaʻaia) responde a la llamada del océano
  2026\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://yelmocines.es/sino
  psis/vaiana
 LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CinePlaza: Superestrellas 3 / Pánico en la calle 110
-DTSTART;TZID=Europe/Madrid:20260710T221500
-UID:9612cbcf85687b2f6bb76a0ccf9b65b2d5cdc6597cc80083af0da06f6e4377c7
-CATEGORIES:cinema
-DESCRIPTION:Tras un robo sangriento en Harlem\, dos policías muy distinto
- s entre sí y varios mafiosos se lanzan a la caza de los responsables. Sit
- uada en la frontera simbólica entre Harlem y Central Park\, la película 
- mezcla thriller policial\, violencia urbana y conflicto racial en un retra
- to especialmente sombrío del Nueva York de comienzos de los 70.\n\nAudio:
-  VOSE\n\nhttps://www.cinetecamadrid.com/programacion/cineplaza-superestrel
- las-3-panico-en-la-calle-110
-LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AFTER / AltaFacha (México) x MAZO CLUB
@@ -6899,6 +7831,14 @@ DESCRIPTION:Vaiana (Catherine Lagaʻaia) responde a la llamada del océano
 LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Panza de Burro
+DTSTART;TZID=Europe/Madrid:20260711T193000
+UID:0b271bd30f350896110365832910f2e643ef895f7f208daae580c624c3636bc1
+CATEGORIES:theater
+DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/panza-de-burro/
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Concierto de coros
 DTSTART;TZID=Europe/Madrid:20260711T200000
 DTEND;TZID=Europe/Madrid:20260711T200000
@@ -6952,20 +7892,6 @@ DESCRIPTION:Vaiana (Catherine Lagaʻaia) responde a la llamada del océano
  2026\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://yelmocines.es/sino
  psis/vaiana
 LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CinePlaza: Superestrellas 3 / Reír\, cantar\, tal vez llorar
-DTSTART;TZID=Europe/Madrid:20260711T221500
-UID:5be3f292c0ef8836a78540caa5b78f7ff97cd288335b4a6ef3ba9e429a874e36
-CATEGORIES:cinema
-DESCRIPTION:Toñi\, una mujer trans de mediana edad\, pide en una iglesia 
- encontrar novio. Poco después entra en su vida Lahcen\, un joven inmigran
- te marroquí recién llegado a Barcelona. Ferrer convierte esta historia d
- e amor improbable en una mezcla libre de melodrama\, comedia y musical pop
- ular\, atravesada por el humor\, la ternura y una mirada afectuosa hacia l
- os márgenes urbanos y sentimentales.\n\nhttps://www.cinetecamadrid.com/pr
- ogramacion/cineplaza-superestrellas-3-reir-cantar-tal-vez-llorar
-LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cuba Connection
@@ -7033,6 +7959,14 @@ LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
  \, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Panza de Burro
+DTSTART;TZID=Europe/Madrid:20260712T180000
+UID:24163716206fd5ba36314ffbc33774619da6cbf56c6e43303e92b8a8de377471
+CATEGORIES:theater
+DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/panza-de-burro/
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Vaiana
 DTSTART;TZID=Europe/Madrid:20260712T193000
 DTEND;TZID=Europe/Madrid:20260712T212500
@@ -7081,6 +8015,15 @@ DESCRIPTION:Blues en la Villa / Concierto\n\nhttps://salavillanos.es/event
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bacilos
+DTSTART;TZID=Europe/Madrid:20260712T210000
+UID:2a565be69895a8279d7147177c249a913f3228102e12a6a18652e44f48935e84
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://feverup.com/m/476505
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Vaiana
 DTSTART;TZID=Europe/Madrid:20260712T220000
 DTEND;TZID=Europe/Madrid:20260712T235500
@@ -7093,21 +8036,6 @@ DESCRIPTION:Vaiana (Catherine Lagaʻaia) responde a la llamada del océano
  2026\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://yelmocines.es/sino
  psis/vaiana
 LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CinePlaza: Superestrellas 3 / Barbarella
-DTSTART;TZID=Europe/Madrid:20260712T221500
-UID:d0b3a76b671617bb0c5736bf7d6e145750a5c93992df02766c164d9a18735d35
-CATEGORIES:cinema
-DESCRIPTION:Año 40.000. La aventurera espacial Barbarella emprende una mi
- sión para encontrar a un científico desaparecido y acaba atravesando un 
- universo de monstruos\, tiranos\, erotismo camp y decorados psicodélicos.
-  Adaptación del cómic de Jean-Claude Forest\, la película es una cápsu
- la perfecta de la imaginación pop de finales de los 60. Ciencia ficción\
- , sexualidad kitsch y fantasía lisérgica se mezclan en una obra tan inge
- nua como delirante.\n\nAudio: VOSE\n\nhttps://www.cinetecamadrid.com/progr
- amacion/cineplaza-superestrellas-3-barbarella
-LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Valeriano D. Bécquer (1834-1870): Los cuadros de costumbres
@@ -7172,6 +8100,77 @@ DESCRIPTION:Vaiana (Catherine Lagaʻaia) responde a la llamada del océano
  2026\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://yelmocines.es/sino
  psis/vaiana
 LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Memorias funerarias al sur de Madrid. Gabinete efímero de escritu
+ ra
+DTSTART;TZID=Europe/Madrid:20260714T010000
+UID:f4474c47fefe102a4d69dabcdb85f8c84668b5a292dfed53bb9aef0b5ab1344c
+CATEGORIES:other
+DESCRIPTION:Inés Plasencia Camps y Magui Dávila (Las Lindas Pobres) 1\, 
+ 7\, 14 julio de 2026\, de 18 a 21h\, en Aulario Actividad con inscripción
+  previa rellenando este formulario o escribiendo a info@intermediae.es 15 
+ de julio de 2026\, 19h presentación Comunidades emocionales. Escritura co
+ n quienes no están\, en Nave Una Actividad de acceso libre hasta completa
+ r aforo. Partiendo de la literatura testimonial y autobiográfica\, esta a
+ ctividad propone la creación de un grupo\, que no taller\, de escritura y
+  la realización de un fanzine con los textos resultantes en colaboración
+  con Magui Dávila (Las Lindas Pobres). Y forma parte del proyecto Cultura
+ s del duelo al sur de Madrid (seleccionado dentro de la convocatoria Inter
+ mediae Distribuido 2025-2026 \, destinada a propuestas comunitarias y part
+ icipativas). El Gabinete efímero de escritura está dirigido a personas q
+ ue hayan tenido una experiencia con la enfermedad terminal\, la muerte\, e
+ l duelo o rituales funerarios en los distritos de Usera\, Villaverde\, Car
+ abanchel o Arganzuela\, de manera directa o indirecta. Personas que hayan 
+ acudido a alguno de sus tanatorios o cementerios por un ser querido o que 
+ hayan trabajado en uno de ellos\; personas que trabajen en la atención al
+  duelo o en cuidados paliativos. Personas que trabajen en una funeraria de
+ l sur o hayan recurrido a una. Vecinas de personas que van a diario a ver 
+ a su ser querido al cementerio o que visiten ellas mismas cada año visite
+ n a alguien en las necrópolis del sur. Personas que hayan investigado est
+ e tema y sus espacios\, o por cualquier motivo\, visitado de manera recurr
+ ente. Personas que hayan perdido a alguien en algún hospital de estos dis
+ tritos y\, sobre todo\, que quiera escribirlo. Esto son solo algunos ejemp
+ los. En definitiva\, se invita a un abanico amplio de experiencias para re
+ coger una posible memoria sobre “el duelo al sur de Madrid”\, necesari
+ amente parcial y fragmentada\, pero situada y atravesada por nuestra relac
+ ión con la pérdida. Nuestras historias\, a menudo\, no nos parecen en s
+ í mismas “excepcionales”\, pero ¿Qué ocurre cuando se juntan con ot
+ ras o encontramos el instante justo de nuestra historia que sí la hace ú
+ nica? La vida\, y también la muerte\, se transforman al ser narradas. No 
+ decidimos mucho sobre ellas\, pero sí podemos intentar tener la última p
+ alabra y pensar cómo narrarlas. Si bien no se plantea como un taller\, s
+ í que se darán algunas pinceladas y ejemplos de literatura autobiográfi
+ ca vinculada con el duelo\, y se trabajarán algunas partes de los textos 
+ a partir de propuestas y pautas. La colaboración con Magui Dávila tendr
+ á una doble dimensión. Por un lado\, veremos un muestrario de sus fanzin
+ es para conocer su práctica y conectar con ella nuestra escritura de cara
+  orientarla a la realización de la publicación. Por otro\, invitará a u
+ na pequeña aportación de las participantes para una instalación sonora 
+ con la que culminará el gabinete. Este cierre será 15 de julio con la pr
+ esentación Comunidades emocionales. Escritura con quienes no están en el
+  marco del programa Un cuarto de estar para la ciudad de Intermediae y la 
+ presentación del fanzine será en otoño. * Proyecto seleccionado dentro 
+ de la convocatoria “Intermediae Distribuido” 2025-2026\, destinada a p
+ ropuestas comunitarias y participativas. Las Lindas Pobres es una editoria
+ l independiente creada por Magui Dávila que se dedica a producir edicione
+ s lindas con pocos recursos\, o con muchos\, pero con los que haya. Llp 
+ convertido en espacio de investigación que reflexiona a través de sus pu
+ blicaciones sobre el campo de la música electrónica y la cultura popular
+ \, dando visibilidad a aquellas formas de conocimiento práctico que se da
+  en la pista de baile\, en las salas de ensayo\, en las tapas de discos y 
+ en las comunidades de Internet como forma de acción y producción artíst
+ ica. Entre las publicaciones pasadas y las futuras va atendiendo a cuestio
+ nes sociopolíticas\, de género\, de biopolítica y más. (www.maguidavil
+ a.com). Inés Plasencia Camps es investigadora\, docente y escritora. Ahor
+ a mismo centrada en el duelo y en la investigación y escritura sobre el m
+ iedo y los límites de lo real y la ficción para asimilar la muerte. Le i
+ nteresan el comisariado de programas públicos por las posibilidades que o
+ frecen de crear espacios temporales de intimidad y escribir en busca de un
+  lenguaje para comprender y recordar.\n\nhttps://www.mataderomadrid.org/pr
+ ogramacion/memorias-funerarias-al-sur-de-madrid-gabinete-efimero-de-escrit
+ ura
+LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vaiana
@@ -7243,6 +8242,159 @@ SUMMARY:Vaiana
 DTSTART;TZID=Europe/Madrid:20260714T220000
 DTEND;TZID=Europe/Madrid:20260714T235500
 UID:b55e61adcf50ace549fa1d5850318184bead738afe815f49d74a2d1c8c28315d
+CATEGORIES:cinema
+DESCRIPTION:Vaiana (Catherine Lagaʻaia) responde a la llamada del océano
+  y\, por primera vez\, viaja más allá del arrecife de su isla de Motunui
+  con el semidiós Maui (Dwayne Johnson) en un viaje inolvidable para devol
+ ver la prosperidad a su pueblo.\n\nOriginal title: Moana\n\nRelease year: 
+ 2026\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://yelmocines.es/sino
+ psis/vaiana
+LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exposición colectiva de dibujo y pintura "Matices. Enfoques y div
+ ersidad en la pintura figurativa"
+DTSTART;TZID=Europe/Madrid:20260715T100000
+DTEND;TZID=Europe/Madrid:20260730T100000
+UID:19f098a70108651e4bb249cac1335e6c28b2f7597a2830966f182f51db5649b9
+CATEGORIES:exhibition
+DESCRIPTION:Artistas de la Academia de pintura de Cristián Avillés. Expo
+ sición abierta al público del 15 al 30 de julio. Horario de visita: lune
+ s a domingo de 10:00 -14:00 y de 17:00 – 21:00. Entrada libre hasta comp
+ letar aforo. Sala Anselma.\n\nhttps://ateneodemadrid.com/evento/exposicion
+ -colectiva-de-dibujo-y-pintura-matices-enfoques-y-diversidad-en-la-pintura
+ -figurativa/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vaiana
+DTSTART;TZID=Europe/Madrid:20260715T170000
+DTEND;TZID=Europe/Madrid:20260715T185500
+UID:8473e8f72496147a8a7de895447def212c72170f6b5e8f7a8a8d430eb8c21ac2
+CATEGORIES:cinema
+DESCRIPTION:Vaiana (Catherine Lagaʻaia) responde a la llamada del océano
+  y\, por primera vez\, viaja más allá del arrecife de su isla de Motunui
+  con el semidiós Maui (Dwayne Johnson) en un viaje inolvidable para devol
+ ver la prosperidad a su pueblo.\n\nOriginal title: Moana\n\nRelease year: 
+ 2026\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://yelmocines.es/sino
+ psis/vaiana
+LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nowhere to Go
+DTSTART;TZID=Europe/Madrid:20260715T180000
+UID:0dcba041c7b9e6244756b38be467cb4e204db98651bdd80cab80ebdfa96347c4
+CATEGORIES:cinema
+DESCRIPTION:Fecha y Hora: Miércoles 15 de Julio a las 18:00h (Sala 1. Gra
+ ndes expectativas: Cine británico de posguerra) *Aunque las entradas apar
+ ezcan como agotadas en web\, pueden adquirirse en taquilla entradas para l
+ as sesiones del día (de 17h a 20h)\n\nhttps://entradasfilmoteca.sacatuent
+ rada.es/es/productos/descripcion/nowhere-to-go
+LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
+ \, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Comunidades emocionales. Escritura con quienes no están
+DTSTART;TZID=Europe/Madrid:20260715T190000
+UID:8c47f43ba73fda903db174d6ab6065aa921809b2310407226f4524d144a15f23
+CATEGORIES:other
+DESCRIPTION:Inés Plasencia Camps y Las Lindas Pobres Nuestras historias\,
+  a menudo\, no nos parecen en sí mismas “excepcionales”\, ¿pero qu
+ é ocurre cuando se juntan con otras o encontramos el instante justo de nu
+ estra historia que sí la hace única? Esta activación comparte una visi
+ ón de de la literatura testimonial y autobiográfica partiendo de un grup
+ o de escritura activo en Intermediae durante el mes de julio del proyecto 
+ Culturas del duelo al sur de Madrid \, comisariado por la investigadora In
+ és Plasencia\, que reúne escritura y experiencias con la enfermedad\, el
+  duelo y rituales funerarios en los distritos de Usera\, Villaverde\, Cara
+ banchel o Arganzuela. Las Lindas Pobres es una editorial independiente cre
+ ada por Magui Dávila que se dedica a producir ediciones lindas con pocos 
+ recursos\, o con muchos\, pero con los que haya. Llp convertido en espacio
+  de investigación que reflexiona a través de sus publicaciones sobre el 
+ campo de la música electrónica y la cultura popular\, dando visibilidad 
+ a aquellas formas de conocimiento práctico que se da en la pista de baile
+ \, en las salas de ensayo\, en las tapas de discos y en las comunidades de
+  Internet como forma de acción y producción artística. Entre las public
+ aciones pasadas y las futuras va atendiendo a cuestiones sociopolíticas\,
+  de género\, de biopolítica y más. (www.maguidavila.com). Inés Plasenc
+ ia Camps es investigadora\, docente y escritora. Ahora mismo centrada en e
+ l duelo y en la investigación y escritura sobre el miedo y los límites d
+ e lo real y la ficción para asimilar la muerte. Le interesan el comisaria
+ do de programas públicos por las posibilidades que ofrecen de crear espac
+ ios temporales de intimidad y escribir en busca de un lenguaje para compre
+ nder y recordar. * Proyecto seleccionado dentro de la convocatoria 'Interm
+ ediae Distribuido' 2025-2026\, destinada a propuestas comunitarias y parti
+ cipativas. La actividad forma parte de ' Un cuarto de estar para la ciudad
+  ' (edición 2026)\, un programa gratuito de Intermediae que convierte la 
+ Nave Una de Matadero Madrid en un espacio de encuentro\, descanso y descub
+ rimiento desde la perspectiva del refugio climático.\n\nhttps://www.matad
+ eromadrid.org/programacion/comunidades-emocionales-escritura-con-quienes-n
+ o-estan
+LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vivaldi. Nueva Experiencia
+DTSTART;TZID=Europe/Madrid:20260715T193000
+DTEND;TZID=Europe/Madrid:20260715T193000
+UID:84c5848006416eab63cc4f73b57858b6e12c9d241d1f0e44893c4c2a35e31754
+CATEGORIES:music
+DESCRIPTION:Venta de entradas (aquí). Socios\, código descuento en el Á
+ rea del Socio. \n \nLas cuatro estaciones. OFF TUNE. Ilustración con aren
+ a. Artistas: Weronika Jozefina Dziadek\, violín\; Anastasia Vorotnaya\, p
+ iano\; y Alejandro Álvarez\, piano. Cátedra Mayor. 19:30h.\n\nhttps://at
+ eneodemadrid.com/evento/vivaldi-nueva-experiencia/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vaiana
+DTSTART;TZID=Europe/Madrid:20260715T193000
+DTEND;TZID=Europe/Madrid:20260715T212500
+UID:d5c1fdfc95101ad5aeb277d759a603351104804ef626334450c7b07bb078969d
+CATEGORIES:cinema
+DESCRIPTION:Vaiana (Catherine Lagaʻaia) responde a la llamada del océano
+  y\, por primera vez\, viaja más allá del arrecife de su isla de Motunui
+  con el semidiós Maui (Dwayne Johnson) en un viaje inolvidable para devol
+ ver la prosperidad a su pueblo.\n\nOriginal title: Moana\n\nRelease year: 
+ 2026\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://yelmocines.es/sino
+ psis/vaiana
+LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El rey del barrio
+DTSTART;TZID=Europe/Madrid:20260715T203000
+UID:11fa4941b6d966ac07c57be42c25d33c508cd83e831c6ebea598dcc158525885
+CATEGORIES:cinema
+DESCRIPTION:Fecha y Hora: Miércoles 15 de Julio a las 20:30h (Sala 1. Sil
+ via Pinal - Semana cine mexicano) *Aunque las entradas aparezcan como agot
+ adas en web\, pueden adquirirse en taquilla entradas para las sesiones del
+  día (de 17h a 20h)\n\nOriginal title: The King of Staten Island\n\nRelea
+ se year: 2020\n\nOriginal language: EN\n\nhttps://entradasfilmoteca.sacatu
+ entrada.es/es/productos/descripcion/el-rey-del-barrio-2
+LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
+ \, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ghalia Volt
+DTSTART;TZID=Europe/Madrid:20260715T203000
+UID:588ab397d4a1f26286bf22b6b73250e8021ed05738b9fc9e6d2b730aa5efd79a
+CATEGORIES:music
+DESCRIPTION:Blues en la Villa / Concierto\n\nhttps://salavillanos.es/event
+ o/ghalia-volt/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El hambre imposible
+DTSTART;TZID=Europe/Madrid:20260715T210000
+UID:7ba65d9467fe4a831905f5a1b5ed852d52beb5e360d26d54507d4d3a0a78371c
+CATEGORIES:theater
+DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/el-hambre-imposible/
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vaiana
+DTSTART;TZID=Europe/Madrid:20260715T220000
+DTEND;TZID=Europe/Madrid:20260715T235500
+UID:809c8843997c7929f2da0ab9e842f9233d96c9975ef7e9f89b7b9fce727dc43d
 CATEGORIES:cinema
 DESCRIPTION:Vaiana (Catherine Lagaʻaia) responde a la llamada del océano
   y\, por primera vez\, viaja más allá del arrecife de su isla de Motunui
