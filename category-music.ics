@@ -2,36 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Daniel Juárez Quartet
-DTSTART;TZID=Europe/Madrid:20260701T200000
-DTEND;TZID=Europe/Madrid:20260702T200000
-UID:94e42a861811979141d3d808e64dcf2cb846663972b85c37a8d0d3bdc333dbba
-CATEGORIES:music
-DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
-  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
- s://ateneodemadrid.com/evento/daniel-juarez-quartet/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ghost-Note
-DTSTART;TZID=Europe/Madrid:20260701T210000
-UID:d8cc9d7824a48d1ca438e8f4fb73d9ca689757792bda2d6103716069c9a125e9
-CATEGORIES:music
-DESCRIPTION:Concierto / Villanos del Jazz\n\nhttps://salavillanos.es/event
- o/ghost-note/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pennywise + End It
-DTSTART;TZID=Europe/Madrid:20260701T210000
-UID:8f2a406d5c59de43aaa711c34f3aa8458fa71c3a1c4efead7b9bc33c1226005c
-CATEGORIES:music
-DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://tickets.hfmncrew.com/web
- /?menu=1162&pagina=entradas&item=58898&siteID=hfmncrew
-LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
- id
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bianca Gismonti & Manuel de Oliveira
 DTSTART;TZID=Europe/Madrid:20260702T210000
 UID:47a435a12f2708f8f4790ce26810ec633f085c5e4127ebe8b5eb3d2d07181ece
@@ -322,6 +292,17 @@ LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
  id
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:GERMÁN KUCICH QUARTET
+DTSTART;TZID=Europe/Madrid:20260713T200000
+DTEND;TZID=Europe/Madrid:20260714T200000
+UID:87380579f3882b2760e2c71e901fa881a620451aed99640f7e1e119505f0f5fd
+CATEGORIES:music
+DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
+  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
+ s://ateneodemadrid.com/evento/german-kucich-quartet/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ledisi
 DTSTART;TZID=Europe/Madrid:20260713T203000
 UID:f3c81e43766bc29b52b417272951b9a518a8700f4fb74f1dac9b4c78c2f5a178
@@ -353,12 +334,32 @@ DESCRIPTION:Venta de entradas (aquí). Socios\, código descuento en el Á
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:JORGE VISTEL - CUBAN SONGBOOK
+DTSTART;TZID=Europe/Madrid:20260715T200000
+DTEND;TZID=Europe/Madrid:20260716T200000
+UID:d4604f10515794d7047a630ea3d399658bbf02a19bf21830df8cec818ece1f7e
+CATEGORIES:music
+DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
+  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
+ s://ateneodemadrid.com/evento/jorge-vistel-cuban-songbook/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ghalia Volt
 DTSTART;TZID=Europe/Madrid:20260715T203000
 UID:588ab397d4a1f26286bf22b6b73250e8021ed05738b9fc9e6d2b730aa5efd79a
 CATEGORIES:music
 DESCRIPTION:Blues en la Villa / Concierto\n\nhttps://salavillanos.es/event
  o/ghalia-volt/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Zawose Queens
+DTSTART;TZID=Europe/Madrid:20260716T203000
+UID:2f35499274369faaf898b1c37145a7d446e0e936c0f4a60bf3291a3ba294de6c
+CATEGORIES:music
+DESCRIPTION:Concierto / Afro\n\nhttps://salavillanos.es/evento/the-zawose-
+ queens/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 END:VCALENDAR

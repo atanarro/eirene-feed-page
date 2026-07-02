@@ -2,24 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:IDIOTA. El Musical - Muestra "Raquel Pérez Formación Actoral"
-DTSTART;TZID=Europe/Madrid:20260701T190000
-UID:61ab3de8aac33f4208a307c6d836e7f9254829da804c1ce5d2dc065c9d09d3ba
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/idiota-el-musical-mu
- estra-raquel-perez-formacion-actoral/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IDIOTA. El Musical - Muestra "Raquel Pérez Formación Actoral"
-DTSTART;TZID=Europe/Madrid:20260701T210000
-UID:bf13656383b05eb787c6496fa09cf2ed220e82ee8b3897d2ea58cff79258a424
-CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 1 plazas!\n\nhttps://teatrodelbarrio.com/idio
- ta-el-musical-muestra-raquel-perez-formacion-actoral/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:"LA CORTE DE LA AMBICIOSA" de sor Amparo Nájera De la Vega - Mues
  tra "Raquel Pérez Formación Actoral"
 DTSTART;TZID=Europe/Madrid:20260702T183000
@@ -78,7 +60,8 @@ SUMMARY:La gran cacería
 DTSTART;TZID=Europe/Madrid:20260706T210000
 UID:13a97b90f362f91fff6f13faff3a8d54aa767a7b41aa9b23db016af6b7834043
 CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/la-gran-caceria/
+DESCRIPTION:¡Ya solo quedan 5 plazas!\n\nhttps://teatrodelbarrio.com/la-g
+ ran-caceria/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -95,7 +78,8 @@ SUMMARY:Panza de Burro
 DTSTART;TZID=Europe/Madrid:20260709T193000
 UID:211482bd70272ccc68a127093007840ff7165e264f4103d5f384d390236d6db8
 CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/panza-de-burro/
+DESCRIPTION:¡Ya solo quedan 29 plazas!\n\nhttps://teatrodelbarrio.com/pan
+ za-de-burro/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -126,6 +110,14 @@ BEGIN:VEVENT
 SUMMARY:El hambre imposible
 DTSTART;TZID=Europe/Madrid:20260715T210000
 UID:7ba65d9467fe4a831905f5a1b5ed852d52beb5e360d26d54507d4d3a0a78371c
+CATEGORIES:theater
+DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/el-hambre-imposible/
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El hambre imposible
+DTSTART;TZID=Europe/Madrid:20260716T210000
+UID:13c633222c0ad3decde95a5bdf11b784c4c46f45932747e59a4a57cea62432b9
 CATEGORIES:theater
 DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/el-hambre-imposible/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid

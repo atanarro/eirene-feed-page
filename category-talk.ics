@@ -2,18 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Crisis sanitaria en Cuba
-DTSTART;TZID=Europe/Madrid:20260701T193000
-DTEND;TZID=Europe/Madrid:20260701T193000
-UID:71309c725e11121979d7983dee1ac937afec5c17de1e13d7f6b72f3440055d41
-CATEGORIES:talk
-DESCRIPTION:Sección de Ciencias de la Salud y Médicos del Mundo. Intervi
- enen: Juan Garay\, médico Salud Global y Gaspar Llamazares\, médico y po
- lítico. Presenta y modera: Celina Pereda. Salón Ciudad de Úbeda. 19:30h
- .\n\nhttps://ateneodemadrid.com/evento/crisis-sanitaria-en-cuba/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:De Juan de Yepes a San Juan de la Cruz
 DTSTART;TZID=Europe/Madrid:20260702T180000
 DTEND;TZID=Europe/Madrid:20260702T180000
@@ -159,11 +147,12 @@ DTSTART;TZID=Europe/Madrid:20260707T193000
 DTEND;TZID=Europe/Madrid:20260707T193000
 UID:99d1af3c7a37335085a1169900b4a4805be5d4fe464820931c49b5aa94edc0c6
 CATEGORIES:talk
-DESCRIPTION:Agrupación pictóricos y sociales Francisco de Goya. Intervie
- ne: Antonino Nieto\, autor. Presenta: Mayte Pedraza. Modera: Carmen Mart
- ínez Coello. Salón Ciudad de Úbeda. 19:30h.\n\nhttps://ateneodemadrid.c
- om/evento/presentacion-de-los-poemarios-un-fantasma-perfecto-y-la-voz-del-
- escorpion/
+DESCRIPTION:Agrupación pictóricos y sociales Francisco de Goya.  \nInter
+ viene: Antonino Nieto Rodríguez\, autor.  \nPresenta: Mayte Pedraza.  \nM
+ odera: Carmen Martínez Coello.  \nCon los músicos Gloria\, Antonino Niet
+ o y José Luis Pardo. \nSalón Ciudad de Úbeda. 19:30h.\n\nhttps://ateneo
+ demadrid.com/evento/presentacion-de-los-poemarios-un-fantasma-perfecto-y-l
+ a-voz-del-escorpion/
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -268,6 +257,18 @@ DESCRIPTION:Tras casi dos años de la publicación de Sobrevivir mientras
  om/agenda/sobrevivir-mientras-llega-el-rescate-toma-de-decisiones-y-emerge
  ncias-en-actividades-al-aire-libre-con-jordi-fernandez/437/
 LOCATION:Libreria Desnivel - Plaza de Matute\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Presentación del libro «Cómo ganar unas elecciones»
+DTSTART;TZID=Europe/Madrid:20260709T193000
+DTEND;TZID=Europe/Madrid:20260709T193000
+UID:ce35919feac7b9fc6e0ca16c6f2660aac2f2c52df56bc2e64dee7f83dcd4081b
+CATEGORIES:talk
+DESCRIPTION:Sección de Ciencias Sociales. \nIntervienen: Lucía Méndez\,
+  Juanma Lamet\, Gabriel Sanz\, Ignacio Varela\, Pilar Santos y César Cald
+ erón\, autor. \nSala Ramón y Cajal. \n19:30 horas.\n\nhttps://ateneodema
+ drid.com/evento/presentacion-del-libro-como-ganar-unas-elecciones/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:China actual y futura según la astrología
