@@ -2,15 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Bianca Gismonti & Manuel de Oliveira
-DTSTART;TZID=Europe/Madrid:20260702T210000
-UID:47a435a12f2708f8f4790ce26810ec633f085c5e4127ebe8b5eb3d2d07181ece
-CATEGORIES:music
-DESCRIPTION:Concierto / Villanos del Jazz\n\nhttps://salavillanos.es/event
- o/bianca-gismonti-manuel-de-oliveira/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Día Internacional de las Cooperativas.  Premios "Es_Mad 2026"
 DTSTART;TZID=Europe/Madrid:20260703T103000
 DTEND;TZID=Europe/Madrid:20260703T103000
@@ -94,16 +85,6 @@ DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
   el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
  s://ateneodemadrid.com/evento/playing-petrucciani/
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Elena Rose
-DTSTART;TZID=Europe/Madrid:20260706T210000
-UID:bccd15d7d50d52a958346983d1b2dfe61079d6d0c80bd2f968b3458c96b8c9e2
-CATEGORIES:music
-DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://www.ticketmaster.es/even
- t/elena-rose-entradas/269343439?language=en-us
-LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
- id
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tai Sonora
@@ -227,6 +208,15 @@ DESCRIPTION:Precio de las entradas: 10€/13€ Entradas a la venta en mov
 LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Jornada Solidaria Por Venezuela
+DTSTART;TZID=Europe/Madrid:20260711T160000
+UID:c01db3b00b1b995c10a470b453ac4dffdb7e0a3f44391ea333848e4015f80754
+CATEGORIES:music
+DESCRIPTION:Concierto / Latin\n\nhttps://salavillanos.es/evento/jornada-so
+ lidaria-por-venezuela/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Concierto de coros
 DTSTART;TZID=Europe/Madrid:20260711T200000
 DTEND;TZID=Europe/Madrid:20260711T200000
@@ -281,15 +271,6 @@ CATEGORIES:music
 DESCRIPTION:Blues en la Villa / Concierto\n\nhttps://salavillanos.es/event
  o/donovan-keith/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bacilos
-DTSTART;TZID=Europe/Madrid:20260712T210000
-UID:2a565be69895a8279d7147177c249a913f3228102e12a6a18652e44f48935e84
-CATEGORIES:music
-DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://feverup.com/m/476505
-LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
- id
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:GERMÁN KUCICH QUARTET
@@ -361,5 +342,38 @@ CATEGORIES:music
 DESCRIPTION:Concierto / Afro\n\nhttps://salavillanos.es/evento/the-zawose-
  queens/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NATALIA CALDERÓN & SEBASTIÁN CHAMES QUARTET
+DTSTART;TZID=Europe/Madrid:20260717T200000
+DTEND;TZID=Europe/Madrid:20260718T200000
+UID:d6c9317cf5dfa2355f325f14c1634af06eb639855be3207a94fac346d9a990f1
+CATEGORIES:music
+DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
+  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
+ s://ateneodemadrid.com/evento/natalia-calderon-sebastian-chames-quartet/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Joe King Carrasco
+DTSTART;TZID=Europe/Madrid:20260717T213000
+UID:f48bdac671526d1a518e2eafb70129cfbbb19d8dcb3a644db4cdb3c11c5cce2f
+CATEGORIES:music
+DESCRIPTION:Blues en la Villa / Concierto\n\nhttps://salavillanos.es/event
+ o/joe-king-carrasco/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Homenaje A Ángel: Anti Idols + Matarte Sería Poco + El Señor Qu
+ e Te Molesta + El Monje Y Los Ansias
+DTSTART;TZID=Europe/Madrid:20260717T213000
+UID:0313c701dc4a2884a5d411e0b9d2b8e46e56d8fc71b566c9cd904d92a824b54c
+CATEGORIES:music
+DESCRIPTION:Precio de las entradas: 5€/8€ Entradas a la venta en movin
+ gtickets Bio/enlaces bandas: Anti Idols_facebook + Anti Idols_bandcamp + A
+ nti Idols_X + Anti Idols_instagram Matarte Sería Poco_instagram El Señor
+  que te\n\nhttps://gruta77.com/events/homenaje-a-angel-anti-idols-matarte-
+ seria-poco-el-senor-que-te-molesta-el-monje-y-los-ansias/var/ri-0.l-L2
+LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
 END:VEVENT
 END:VCALENDAR

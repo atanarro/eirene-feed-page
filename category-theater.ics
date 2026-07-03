@@ -2,26 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:"LA CORTE DE LA AMBICIOSA" de sor Amparo Nájera De la Vega - Mues
- tra "Raquel Pérez Formación Actoral"
-DTSTART;TZID=Europe/Madrid:20260702T183000
-UID:32e266d33656fc524b91acbda5fd856438e703b7563e443f51f4999751471832
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/la-corte-de-la-ambic
- iosa-muestra-raquel-perez-formacion-actoral/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:"LA CORTE DE LA AMBICIOSA" de sor Amparo Nájera De la Vega - Mues
- tra "Raquel Pérez Formación Actoral"
-DTSTART;TZID=Europe/Madrid:20260702T210000
-UID:f80e2ea61981187900c43e4c5be5eea4dee7f0841033df79d56e517081bed0dc
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/la-corte-de-la-ambic
- iosa-muestra-raquel-perez-formacion-actoral/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tobogán
 DTSTART;TZID=Europe/Madrid:20260704T193000
 UID:0c93c54f1e4b498cf0efc18d6d0f347d8a4de4d7a237292a48f3bf4cadbe05eb
@@ -60,7 +40,7 @@ SUMMARY:La gran cacería
 DTSTART;TZID=Europe/Madrid:20260706T210000
 UID:13a97b90f362f91fff6f13faff3a8d54aa767a7b41aa9b23db016af6b7834043
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 5 plazas!\n\nhttps://teatrodelbarrio.com/la-g
+DESCRIPTION:¡Ya solo quedan 1 plazas!\n\nhttps://teatrodelbarrio.com/la-g
  ran-caceria/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
@@ -78,7 +58,7 @@ SUMMARY:Panza de Burro
 DTSTART;TZID=Europe/Madrid:20260709T193000
 UID:211482bd70272ccc68a127093007840ff7165e264f4103d5f384d390236d6db8
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 29 plazas!\n\nhttps://teatrodelbarrio.com/pan
+DESCRIPTION:¡Ya solo quedan 14 plazas!\n\nhttps://teatrodelbarrio.com/pan
  za-de-burro/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
@@ -103,7 +83,8 @@ SUMMARY:Panza de Burro
 DTSTART;TZID=Europe/Madrid:20260712T180000
 UID:24163716206fd5ba36314ffbc33774619da6cbf56c6e43303e92b8a8de377471
 CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/panza-de-burro/
+DESCRIPTION:¡Ya solo quedan 30 plazas!\n\nhttps://teatrodelbarrio.com/pan
+ za-de-burro/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -120,6 +101,16 @@ DTSTART;TZID=Europe/Madrid:20260716T210000
 UID:13c633222c0ad3decde95a5bdf11b784c4c46f45932747e59a4a57cea62432b9
 CATEGORIES:theater
 DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/el-hambre-imposible/
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Porque nos da la gana\, por Psicosis Gonsales & Supremme de Luxe. 
+ MÁS BONITA QUE NINGUNA
+DTSTART;TZID=Europe/Madrid:20260717T221500
+UID:f03cf7197a7943c9173f3aa712376dd74130a6aae31004f7b492dd02332c99df
+CATEGORIES:theater
+DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/porque-nos-da-la-gan
+ a-por-psicosis-gonsales-supremme-de-luxe-mas-bonita-que-ninguna/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 END:VCALENDAR

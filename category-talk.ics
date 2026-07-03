@@ -2,18 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:De Juan de Yepes a San Juan de la Cruz
-DTSTART;TZID=Europe/Madrid:20260702T180000
-DTEND;TZID=Europe/Madrid:20260702T180000
-UID:4e11335de0666dca078eb4d94d91f94be787c330d426ee39c91e6249e36434a6
-CATEGORIES:talk
-DESCRIPTION:Sección de Literatura. Interviene: Ángel García Galiano. Am
- enizan la velada: Lucía Rodríguez\, violín. Presentan: Joaquín Pérez 
- Azáustre y Sara Cantó. Sala Pérez Galdós. 18:00h.\n\nhttps://ateneodem
- adrid.com/evento/de-juan-de-yepes-a-san-juan-de-la-cruz/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Encuentro popular de deportes de contacto: Construyendo comunidad 
  desde la autodefensa
 DTSTART;TZID=Europe/Madrid:20260705T183000
@@ -313,5 +301,19 @@ DESCRIPTION:Sección de Literatura. Intervienen: Cristina Coriasso Martín
  re y Sara Cantó. Sala Pérez Galdós. 19:00h.\n\nhttps://ateneodemadrid.c
  om/evento/tempestividad-de-los-opusculos-morales-de-giacomo-leopardi/
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Presentación: «Preparación para la supervivencia»\, por David 
+ Santos
+DTSTART;TZID=Europe/Madrid:20260717T190000
+UID:57df81092a95773b6409d595b046e27544b5ecfc1a41d391bdb28165f72d96d7
+CATEGORIES:talk
+DESCRIPTION:El autor David Santos visita la librería Desnivel para presen
+ tarnos su libro y una de las últimas publicaciones de la editorial\, Prep
+ aración para la supervivencia . El evento será el próximo viernes 17 de
+  julio a las 19 h de la tarde . ¡No te lo pierdas!\n\nhttps://www.libreri
+ adesnivel.com/agenda/preparacion-para-la-supervivencia-por-david-santos/44
+ 2/
+LOCATION:Libreria Desnivel - Plaza de Matute\, 6\, Madrid
 END:VEVENT
 END:VCALENDAR
