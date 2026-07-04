@@ -1,40 +1,7 @@
 Eirene feed debug
-Total events: 32
+Total events: 31
 
-[1] Día Internacional de las Cooperativas.  Premios "Es_Mad 2026"
-  id: c3e4e1df50060a5c3ad51ab9cbf69c37225e8ec6e65a4388ee714b5c84c3ea2e
-  start: 2026-07-03T10:30:00+02:00
-  end: 2026-07-03T10:30:00+02:00
-  category: music
-  source: ateneo_madrid
-  location: Ateneo de Madrid - C. del Prado, 21, Madrid
-  coordinates: 40.415242, -3.697079
-  url: https://ateneodemadrid.com/evento/dia-internacional-de-las-cooperativas-premios-es_mad-2026/
-  description: Inauguración: Carlos de la Higuera, Cristina Garmendia, Oscar Romera y M.ª del Carmen Tejera. Cátedra Mayor. 10:30h.
-
-[2] Festival Colectivo Yupanqui
-  id: ed0f87f153129b06ff44b0528bf8e0ef727fad99891d603fd5e93c046d51916c
-  start: 2026-07-03T19:30:00+02:00
-  end: N/A
-  category: music
-  source: sala_villanos
-  location: Sala Villanos - Calle de Bernardino Obregon, 18, Madrid
-  coordinates: 40.4039493, -3.7002239
-  url: https://salavillanos.es/evento/festival-colectivo-yupanqui/
-  description: Concierto / Latin
-
-[3] Mariano Díaz Quartet
-  id: c535d01917b5a6bc89905037e24d0b08148d0fbdbadddce49f2593ded6bb87e2
-  start: 2026-07-03T20:00:00+02:00
-  end: 2026-07-04T20:00:00+02:00
-  category: music
-  source: ateneo_madrid
-  location: Ateneo de Madrid - C. del Prado, 21, Madrid
-  coordinates: 40.415242, -3.697079
-  url: https://ateneodemadrid.com/evento/mariano-diaz-quartet/
-  description: Información y entradas (aquí). Socios, código descuento en el Área del Socio. Santa Catalina, 10. Pases: 20:00h. y 22:00h.
-
-[4] Nestor Ló Y Los Caminantes
+[1] Nestor Ló Y Los Caminantes
   id: 28424e1999fe8ae50fb94f1c8bac255ec980c5ae8cae89c49b54d78b3a11b404
   start: 2026-07-04T21:00:00+02:00
   end: N/A
@@ -45,7 +12,7 @@ Total events: 32
   url: https://salavillanos.es/evento/nestor-lo-y-los-caminantes/
   description: Concierto / Latin / Pop
 
-[5] Los Hijos De La Kalle + Puto Donal + Glandes Glandes; Festival Punk
+[2] Los Hijos De La Kalle + Puto Donal + Glandes Glandes; Festival Punk
   id: 075e4840132bb916198979bac683f187a06e9a238b4cc7a562fd977efba47f72
   start: 2026-07-04T21:30:00+02:00
   end: N/A
@@ -56,7 +23,7 @@ Total events: 32
   url: https://gruta77.com/events/los-hijos-de-la-kalle-puto-donal-glandes-glandes-festival-punk/var/ri-0.l-L2
   description: Precio de las entradas: 7€/10€ Entradas a la venta en movingtickets Bio/enlaces bandas: Los Hijos de la Kalle_facebook + Los Hijos de la Kalle_instagram Glandes Glandes_facebook + Glandes Glandes_instagram Puto
 
-[6] Gabriel Szternsztejn Cuarteto
+[3] Gabriel Szternsztejn Cuarteto
   id: d6c15cb2a826b8df042a36d24f570668719db56d5cb5d06f2ec0278fd356f8c1
   start: 2026-07-05T20:00:00+02:00
   end: 2026-07-05T20:00:00+02:00
@@ -67,7 +34,7 @@ Total events: 32
   url: https://ateneodemadrid.com/evento/gabriel-szternsztejn-cuarteto/
   description: Información y entradas (aquí). Socios, código descuento en el Área del Socio. Santa Catalina, 10. Pases: 20:00h. y 22:00h.
 
-[7] Yellowjackets
+[4] Yellowjackets
   id: 191475c58c55bb540dd0d5f24a3325e1f6125f28aa313e82e998fdbebf279975
   start: 2026-07-05T21:00:00+02:00
   end: N/A
@@ -78,7 +45,7 @@ Total events: 32
   url: https://salavillanos.es/evento/yellowjackets/
   description: Concierto / Villanos del Jazz
 
-[8] Playing Petrucciani
+[5] Playing Petrucciani
   id: be6cfabd2a30f61234a743313cc3a1b728b83ae54815506381a2d37a2cd687fe
   start: 2026-07-06T20:00:00+02:00
   end: 2026-07-07T20:00:00+02:00
@@ -89,7 +56,18 @@ Total events: 32
   url: https://ateneodemadrid.com/evento/playing-petrucciani/
   description: Información y entradas (aquí). Socios, código descuento en el Área del Socio. Santa Catalina, 10. Pases: 20:00h. y 22:00h.
 
-[9] Tai Sonora
+[6] Elena Rose
+  id: bccd15d7d50d52a958346983d1b2dfe61079d6d0c80bd2f968b3458c96b8c9e2
+  start: 2026-07-06T21:00:00+02:00
+  end: N/A
+  category: music
+  source: sala_la_riviera
+  location: Sala La Riviera - Paseo Bajo de la Virgen del Puerto, s/n, Madrid
+  coordinates: 40.4129548, -3.7221336
+  url: https://www.ticketmaster.es/event/elena-rose-entradas/269343439?language=en-us
+  description: Apertura Puertas: 19:30 pm
+
+[7] Tai Sonora
   id: b9a428ca1278f88a0e98b12a4eed6f6a3160d84b6eeccc3dd61d142756a1c57d
   start: 2026-07-07T19:00:00+02:00
   end: N/A
@@ -100,7 +78,7 @@ Total events: 32
   url: https://salavillanos.es/evento/tai-sonora/
   description: Concierto / Pop / Rock / World Music & Folk / Urban
 
-[10] Crazy Cabin Quintet
+[8] Crazy Cabin Quintet
   id: f79981f1c58145a5aeb44f593748b95ce9df893e25b375229c7336766f39399c
   start: 2026-07-08T20:00:00+02:00
   end: 2026-07-09T20:00:00+02:00
@@ -111,7 +89,7 @@ Total events: 32
   url: https://ateneodemadrid.com/evento/crazy-cabin-quintet/
   description: Información y entradas (aquí). Socios, código descuento en el Área del Socio. Santa Catalina, 10. Pases: 20:00h. y 22:00h.
 
-[11] Frente Cumbiero
+[9] Frente Cumbiero
   id: 2e8a6a1d2af8b36c5178ff3ecb66d44f5c2e3300a6c2c56f88e3025dca03f16f
   start: 2026-07-08T21:00:00+02:00
   end: N/A
@@ -122,7 +100,7 @@ Total events: 32
   url: https://salavillanos.es/evento/frente-cumbiero/
   description: Concierto / Latin / Pop / Rock
 
-[12] Ecstatic Dance. Sesión con Izaskun Barbàrie
+[10] Ecstatic Dance. Sesión con Izaskun Barbàrie
   id: 7019e66e099bdfb87dba3abe4c8612262cf725e28bd051f2cd028d06223b5369
   start: 2026-07-09T18:45:00+02:00
   end: N/A
@@ -133,7 +111,7 @@ Total events: 32
   url: https://www.mataderomadrid.org/programacion/ecstatic-dance-sesion-con-izaskun-barbarie
   description: Actividad de cierre del proyecto Spasticus Artisticus que enero a junio ha habitado el espacio Taller de Matadero de la mano del departamento de Educación y Públicos e Intermediae Matadero. Este grupo autogestionado ha reunido a personas viviendo con experiencias de discapacidad, neurodivergencia y enfermedades de largo recorrido interesados en encontrarse en torno a vivencias comunes y la creación artística. Para esta actividad de carácter lúdico, y abierto a personas con y sin discapacidad, el grupo convoca a Izaskun Barbàrie , músico, DJ y facilitadore en Ecstatic Dance , una práctica de movimiento libre y consciente donde moverse y bailar libremente, sin pasos coreografiados ni palabras, guiado por una ola musical. En palabras de las proponentes, “no es necesario bailar bonito, ni rítmico, sino sencillamente movernos y expresarnos desde el cuerpo y la voz, descansar o estirarnos y viajar con la música.” De la mano de Izaskun Barbàrie y los integrantes de Spasticus Artisticus , Un cuarto de estar para la ciudad se transformará en un espacio relacional donde jugar, reivindicarse, disfrutar, celebrar en diversidad y armonizarse desde un lenguaje no verbal. La presencia de la música será fundamental, invitando a movernos a partir de diferentes ritmos y paisajes sonoros, desde la música orgánica a la electrónica, pasando por la lírica y el juego, para conectar con un espacio de seguridad y no juicio. Izaskun Barbàrie , persona queer y disca, DJ facilitadore en Ecstatic Dance, pianista, compositore y performer. Es integrante de la compañía de danza integrada “Liant la Troca”, dirigida por Jordi Cortés, y la compañía “Caravana de Centàurides”, ganadora de la convocatoria Moving Identities Europe 2023-2024, residente en Nau Ivanow, Barcelona, donde investiga las alianzas crip-queer en las artes escénicas. Dedica su tiempo a participar y promover la visibilidad de movimientos transfeministas y de diversidad funcional. Se formó en Facilitación de Ecstatic Dance en 2019-2020 y desde entonces está en activo. Todas las sesiones que facilita tienen perspectiva transfeminista y anticapactista. En Barcelona ha pasado por espacios como Ca La Dona, Ateneu el Poblet, Inusual Project, La Caldera de Les Corts, así como el Festival Agrocuir (Ulloa, Galicia), Fiestas de Lakabe (Navarra) y La Posidònia (Ultramort, Girona). @ecstaticdancebarbarie @izaskun_barbarie Esta actividad forma parte del proyecto 'Spasticus Artisticus ”' que se enmarca en 'Metodologías experimentales', la línea de trabajo de Intermediae para la innovación metodológica, que en la edición 2025-2026 se desarrolla en colaboración con el Departamento de Educación y Públicos, en su objetivo común de diversificar perfiles de público y fomentar los derechos culturales. Asimismo, la actividad forma parte de ' Un cuarto de estar para la ciudad ' (edición 2026), un programa gratuito de Intermediae que convierte la Nave Una de Matadero Madrid en un espacio de encuentro, descanso y descubrimiento desde la perspectiva del refugio climático.
 
-[13] 32-20 BLUES BAND feat MAMA NAT
+[11] 32-20 BLUES BAND feat MAMA NAT
   id: 08ba32f39b8b873d64b82114ae5e2bd07b72bbfecb23f11b4e967c6535ea54e9
   start: 2026-07-09T21:00:00+02:00
   end: N/A
@@ -144,7 +122,7 @@ Total events: 32
   url: https://salavillanos.es/evento/mama-nat-32-20-blues-band/
   description: Blues en la Villa / Concierto
 
-[14] José Luis Gutiérrez Trío
+[12] José Luis Gutiérrez Trío
   id: 082e0c9592d3ccb92c228b738fce69a176b6a894f3e8c2721fcfc3ab0b9c37c5
   start: 2026-07-10T20:00:00+02:00
   end: 2026-07-11T20:00:00+02:00
@@ -155,7 +133,7 @@ Total events: 32
   url: https://ateneodemadrid.com/evento/jose-luis-gutierrez-trio/
   description: Información y entradas (aquí). Socios, código descuento en el Área del Socio. Santa Catalina, 10. Pases: 20:00h. y 22:00h.
 
-[15] Orquesta Internacional Sandunga
+[13] Orquesta Internacional Sandunga
   id: 1b3fd2d153dc7d137d3321b7d45a701f022c791f97fb18c86c66524758fe7918
   start: 2026-07-10T21:00:00+02:00
   end: N/A
@@ -166,7 +144,7 @@ Total events: 32
   url: https://salavillanos.es/evento/orquesta-internacional-sandunga-2/
   description: Concierto / Jazz
 
-[16] Ayatoláis (Tributo Siniestro Total) + Juan Abarca
+[14] Ayatoláis (Tributo Siniestro Total) + Juan Abarca
   id: 5ada4ab05c2d5cb74f0ed693dbbc5ea2a6f8550040cf73b41c3a6a3033ed520b
   start: 2026-07-10T21:30:00+02:00
   end: N/A
@@ -177,7 +155,7 @@ Total events: 32
   url: https://gruta77.com/events/ayatolais-tributo-siniestro-total-juan-abarca/var/ri-0.l-L2
   description: Precio de las entradas: 10€/13€ Entradas a la venta en movingtickets Bio/enlaces bandas: Ayatoláis_instagram + Ayatoláis_X Juan Abarca_facebook + Juan Abarca_twitter + Juan Abarca_instagram Más información: El mejor tributo
 
-[17] Jornada Solidaria Por Venezuela
+[15] Jornada Solidaria Por Venezuela
   id: c01db3b00b1b995c10a470b453ac4dffdb7e0a3f44391ea333848e4015f80754
   start: 2026-07-11T16:00:00+02:00
   end: N/A
@@ -188,7 +166,7 @@ Total events: 32
   url: https://salavillanos.es/evento/jornada-solidaria-por-venezuela/
   description: Concierto / Latin
 
-[18] Concierto de coros
+[16] Concierto de coros
   id: 999ad6e779e2909891b0b8b5c5e44dca8820d0570e8da2f2a42124efe30ac3cf
   start: 2026-07-11T20:00:00+02:00
   end: 2026-07-11T20:00:00+02:00
@@ -201,7 +179,7 @@ Total events: 32
  
 Fundación Più Mosso. Coro Sidney Sussex College.- Universidad de Cambridge, director David Skinner y Coro del Trinity College.- Universidad de Melbourne, director Chris Watson. Cátedra Mayor. 20;00h.
 
-[19] The Dirty Cats + Gwen & The Sailors + Aparición De Los Dirty Payos En Dirty´S Rockin' Party II
+[17] The Dirty Cats + Gwen & The Sailors + Aparición De Los Dirty Payos En Dirty´S Rockin' Party II
   id: 621d510f4f868f5a58b53993db7117052c2e5f11e1eb7504b3de856ab47fd0c3
   start: 2026-07-11T21:30:00+02:00
   end: N/A
@@ -212,7 +190,7 @@ Fundación Più Mosso. Coro Sidney Sussex College.- Universidad de Cambridge, di
   url: https://gruta77.com/events/the-dirty-cats-gwen-the-sailors-aparicion-de-los-dirty-payos-en-dirtys-rockin-party-ii/var/ri-0.l-L2
   description: Precio de las entradas: 10€/14€ Entradas a la venta en movingtickets Bio/enlaces bandas: The Dirty Cats_facebook + The Dirty Cats_instagram Gwen and the Sailors_instagram Más información:
 
-[20] Cuba Connection
+[18] Cuba Connection
   id: d52fb819f05836ae3ad07cd7ef6aa52d080e562d06b56611d542847926041b51
   start: 2026-07-11T23:59:00+02:00
   end: N/A
@@ -223,7 +201,7 @@ Fundación Più Mosso. Coro Sidney Sussex College.- Universidad de Cambridge, di
   url: https://salavillanos.es/evento/cuba-connection-2/
   description: Concierto / Latin
 
-[21] Leo Sidran & Friends
+[19] Leo Sidran & Friends
   id: 7714142ca14bbd3b87be179020be989d6ca8b2459c9b5f4ea0b65c50f84733b0
   start: 2026-07-12T20:00:00+02:00
   end: 2026-07-12T20:00:00+02:00
@@ -234,7 +212,7 @@ Fundación Più Mosso. Coro Sidney Sussex College.- Universidad de Cambridge, di
   url: https://ateneodemadrid.com/evento/leo-sidran-friends/
   description: Información y entradas (aquí). Socios, código descuento en el Área del Socio. Santa Catalina, 10. Pases: 20:00h. y 22:00h.
 
-[22] Donovan Keith
+[20] Donovan Keith
   id: d95aa7a422c2b4d76831a110c66a682a9e456fc4a93e103badffac44a0426f41
   start: 2026-07-12T20:30:00+02:00
   end: N/A
@@ -245,7 +223,18 @@ Fundación Più Mosso. Coro Sidney Sussex College.- Universidad de Cambridge, di
   url: https://salavillanos.es/evento/donovan-keith/
   description: Blues en la Villa / Concierto
 
-[23] GERMÁN KUCICH QUARTET
+[21] Bacilos
+  id: 2a565be69895a8279d7147177c249a913f3228102e12a6a18652e44f48935e84
+  start: 2026-07-12T21:00:00+02:00
+  end: N/A
+  category: music
+  source: sala_la_riviera
+  location: Sala La Riviera - Paseo Bajo de la Virgen del Puerto, s/n, Madrid
+  coordinates: 40.4129548, -3.7221336
+  url: https://feverup.com/m/476505
+  description: Apertura Puertas: 19:30 pm
+
+[22] GERMÁN KUCICH QUARTET
   id: 87380579f3882b2760e2c71e901fa881a620451aed99640f7e1e119505f0f5fd
   start: 2026-07-13T20:00:00+02:00
   end: 2026-07-14T20:00:00+02:00
@@ -256,7 +245,7 @@ Fundación Più Mosso. Coro Sidney Sussex College.- Universidad de Cambridge, di
   url: https://ateneodemadrid.com/evento/german-kucich-quartet/
   description: Información y entradas (aquí). Socios, código descuento en el Área del Socio. Santa Catalina, 10. Pases: 20:00h. y 22:00h.
 
-[24] Ledisi
+[23] Ledisi
   id: f3c81e43766bc29b52b417272951b9a518a8700f4fb74f1dac9b4c78c2f5a178
   start: 2026-07-13T20:30:00+02:00
   end: N/A
@@ -267,7 +256,7 @@ Fundación Più Mosso. Coro Sidney Sussex College.- Universidad de Cambridge, di
   url: https://salavillanos.es/evento/ledisi-2/
   description: Concierto / Villanos del Jazz
 
-[25] Sun Ra Arkestra
+[24] Sun Ra Arkestra
   id: 2e670d5e9faec1e2609fa940c397c3ff8c84a99744485d2d121ce2a0ca541071
   start: 2026-07-14T20:30:00+02:00
   end: N/A
@@ -278,7 +267,7 @@ Fundación Più Mosso. Coro Sidney Sussex College.- Universidad de Cambridge, di
   url: https://salavillanos.es/evento/sun-ra-arkestra/
   description: Concierto / Villanos del Jazz
 
-[26] Vivaldi. Nueva Experiencia
+[25] Vivaldi. Nueva Experiencia
   id: 84c5848006416eab63cc4f73b57858b6e12c9d241d1f0e44893c4c2a35e31754
   start: 2026-07-15T19:30:00+02:00
   end: 2026-07-15T19:30:00+02:00
@@ -291,7 +280,7 @@ Fundación Più Mosso. Coro Sidney Sussex College.- Universidad de Cambridge, di
  
 Las cuatro estaciones. OFF TUNE. Ilustración con arena. Artistas: Weronika Jozefina Dziadek, violín; Anastasia Vorotnaya, piano; y Alejandro Álvarez, piano. Cátedra Mayor. 19:30h.
 
-[27] JORGE VISTEL - CUBAN SONGBOOK
+[26] JORGE VISTEL - CUBAN SONGBOOK
   id: d4604f10515794d7047a630ea3d399658bbf02a19bf21830df8cec818ece1f7e
   start: 2026-07-15T20:00:00+02:00
   end: 2026-07-16T20:00:00+02:00
@@ -302,7 +291,7 @@ Las cuatro estaciones. OFF TUNE. Ilustración con arena. Artistas: Weronika Joze
   url: https://ateneodemadrid.com/evento/jorge-vistel-cuban-songbook/
   description: Información y entradas (aquí). Socios, código descuento en el Área del Socio. Santa Catalina, 10. Pases: 20:00h. y 22:00h.
 
-[28] Ghalia Volt
+[27] Ghalia Volt
   id: 588ab397d4a1f26286bf22b6b73250e8021ed05738b9fc9e6d2b730aa5efd79a
   start: 2026-07-15T20:30:00+02:00
   end: N/A
@@ -313,7 +302,7 @@ Las cuatro estaciones. OFF TUNE. Ilustración con arena. Artistas: Weronika Joze
   url: https://salavillanos.es/evento/ghalia-volt/
   description: Blues en la Villa / Concierto
 
-[29] The Zawose Queens
+[28] The Zawose Queens
   id: 2f35499274369faaf898b1c37145a7d446e0e936c0f4a60bf3291a3ba294de6c
   start: 2026-07-16T20:30:00+02:00
   end: N/A
@@ -324,7 +313,7 @@ Las cuatro estaciones. OFF TUNE. Ilustración con arena. Artistas: Weronika Joze
   url: https://salavillanos.es/evento/the-zawose-queens/
   description: Concierto / Afro
 
-[30] NATALIA CALDERÓN & SEBASTIÁN CHAMES QUARTET
+[29] NATALIA CALDERÓN & SEBASTIÁN CHAMES QUARTET
   id: d6c9317cf5dfa2355f325f14c1634af06eb639855be3207a94fac346d9a990f1
   start: 2026-07-17T20:00:00+02:00
   end: 2026-07-18T20:00:00+02:00
@@ -335,7 +324,7 @@ Las cuatro estaciones. OFF TUNE. Ilustración con arena. Artistas: Weronika Joze
   url: https://ateneodemadrid.com/evento/natalia-calderon-sebastian-chames-quartet/
   description: Información y entradas (aquí). Socios, código descuento en el Área del Socio. Santa Catalina, 10. Pases: 20:00h. y 22:00h.
 
-[31] Joe King Carrasco
+[30] Joe King Carrasco
   id: f48bdac671526d1a518e2eafb70129cfbbb19d8dcb3a644db4cdb3c11c5cce2f
   start: 2026-07-17T21:30:00+02:00
   end: N/A
@@ -346,7 +335,7 @@ Las cuatro estaciones. OFF TUNE. Ilustración con arena. Artistas: Weronika Joze
   url: https://salavillanos.es/evento/joe-king-carrasco/
   description: Blues en la Villa / Concierto
 
-[32] Homenaje A Ángel: Anti Idols + Matarte Sería Poco + El Señor Que Te Molesta + El Monje Y Los Ansias
+[31] Homenaje A Ángel: Anti Idols + Matarte Sería Poco + El Señor Que Te Molesta + El Monje Y Los Ansias
   id: 0313c701dc4a2884a5d411e0b9d2b8e46e56d8fc71b566c9cd904d92a824b54c
   start: 2026-07-17T21:30:00+02:00
   end: N/A

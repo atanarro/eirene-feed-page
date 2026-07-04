@@ -2,38 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Día Internacional de las Cooperativas.  Premios "Es_Mad 2026"
-DTSTART;TZID=Europe/Madrid:20260703T103000
-DTEND;TZID=Europe/Madrid:20260703T103000
-UID:c3e4e1df50060a5c3ad51ab9cbf69c37225e8ec6e65a4388ee714b5c84c3ea2e
-CATEGORIES:music
-DESCRIPTION:Inauguración: Carlos de la Higuera\, Cristina Garmendia\, O
- scar Romera y M.ª del Carmen Tejera. Cátedra Mayor. 10:30h.\n\nhttps://
- ateneodemadrid.com/evento/dia-internacional-de-las-cooperativas-premios-es
- _mad-2026/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Festival Colectivo Yupanqui
-DTSTART;TZID=Europe/Madrid:20260703T193000
-UID:ed0f87f153129b06ff44b0528bf8e0ef727fad99891d603fd5e93c046d51916c
-CATEGORIES:music
-DESCRIPTION:Concierto / Latin\n\nhttps://salavillanos.es/evento/festival-c
- olectivo-yupanqui/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mariano Díaz Quartet
-DTSTART;TZID=Europe/Madrid:20260703T200000
-DTEND;TZID=Europe/Madrid:20260704T200000
-UID:c535d01917b5a6bc89905037e24d0b08148d0fbdbadddce49f2593ded6bb87e2
-CATEGORIES:music
-DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
-  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
- s://ateneodemadrid.com/evento/mariano-diaz-quartet/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Nestor Ló Y Los Caminantes
 DTSTART;TZID=Europe/Madrid:20260704T210000
 UID:28424e1999fe8ae50fb94f1c8bac255ec980c5ae8cae89c49b54d78b3a11b404
@@ -85,6 +53,16 @@ DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
   el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
  s://ateneodemadrid.com/evento/playing-petrucciani/
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elena Rose
+DTSTART;TZID=Europe/Madrid:20260706T210000
+UID:bccd15d7d50d52a958346983d1b2dfe61079d6d0c80bd2f968b3458c96b8c9e2
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://www.ticketmaster.es/even
+ t/elena-rose-entradas/269343439?language=en-us
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tai Sonora
@@ -271,6 +249,15 @@ CATEGORIES:music
 DESCRIPTION:Blues en la Villa / Concierto\n\nhttps://salavillanos.es/event
  o/donovan-keith/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bacilos
+DTSTART;TZID=Europe/Madrid:20260712T210000
+UID:2a565be69895a8279d7147177c249a913f3228102e12a6a18652e44f48935e84
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://feverup.com/m/476505
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:GERMÁN KUCICH QUARTET
