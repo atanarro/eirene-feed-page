@@ -2,28 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Nestor Ló Y Los Caminantes
-DTSTART;TZID=Europe/Madrid:20260704T210000
-UID:28424e1999fe8ae50fb94f1c8bac255ec980c5ae8cae89c49b54d78b3a11b404
-CATEGORIES:music
-DESCRIPTION:Concierto / Latin / Pop\n\nhttps://salavillanos.es/evento/nest
- or-lo-y-los-caminantes/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Los Hijos De La Kalle + Puto Donal + Glandes Glandes\; Festival Pu
- nk
-DTSTART;TZID=Europe/Madrid:20260704T213000
-UID:075e4840132bb916198979bac683f187a06e9a238b4cc7a562fd977efba47f72
-CATEGORIES:music
-DESCRIPTION:Precio de las entradas: 7€/10€ Entradas a la venta en movi
- ngtickets Bio/enlaces bandas: Los Hijos de la Kalle_facebook + Los Hijos d
- e la Kalle_instagram Glandes Glandes_facebook + Glandes Glandes_instagram 
- Puto\n\nhttps://gruta77.com/events/los-hijos-de-la-kalle-puto-donal-glande
- s-glandes-festival-punk/var/ri-0.l-L2
-LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Gabriel Szternsztejn Cuarteto
 DTSTART;TZID=Europe/Madrid:20260705T200000
 DTEND;TZID=Europe/Madrid:20260705T200000
@@ -180,9 +158,9 @@ UID:5ada4ab05c2d5cb74f0ed693dbbc5ea2a6f8550040cf73b41c3a6a3033ed520b
 CATEGORIES:music
 DESCRIPTION:Precio de las entradas: 10€/13€ Entradas a la venta en mov
  ingtickets Bio/enlaces bandas: Ayatoláis_instagram + Ayatoláis_X Juan Ab
- arca_facebook + Juan Abarca_twitter + Juan Abarca_instagram Más informaci
- ón: El mejor tributo\n\nhttps://gruta77.com/events/ayatolais-tributo-sini
- estro-total-juan-abarca/var/ri-0.l-L2
+ arca_facebook + Juan Abarca_X + Juan Abarca_instagram Más información: E
+ l mejor tributo\n\nhttps://gruta77.com/events/ayatolais-tributo-siniestro-
+ total-juan-abarca/var/ri-0.l-L2
 LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -362,5 +340,25 @@ DESCRIPTION:Precio de las entradas: 5€/8€ Entradas a la venta en movin
   que te\n\nhttps://gruta77.com/events/homenaje-a-angel-anti-idols-matarte-
  seria-poco-el-senor-que-te-molesta-el-monje-y-los-ansias/var/ri-0.l-L2
 LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:THE VELVET SERENADES
+DTSTART;TZID=Europe/Madrid:20260719T200000
+DTEND;TZID=Europe/Madrid:20260719T200000
+UID:0441db4009ba0e70bd0d15a2eae2f49e15ef555785be8ea72463aa20ee8e0eb2
+CATEGORIES:music
+DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
+  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
+ s://ateneodemadrid.com/evento/the-velvet-serenades/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Danielle Nicole Band
+DTSTART;TZID=Europe/Madrid:20260719T210000
+UID:6ca17c5722202250e67f2bee87063730df48be7123f1a51957dab18879f58b44
+CATEGORIES:music
+DESCRIPTION:Blues en la Villa / Concierto\n\nhttps://salavillanos.es/event
+ o/danielle-nicole-band/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 END:VCALENDAR

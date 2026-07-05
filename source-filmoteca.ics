@@ -2,47 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Simon y Laura
-DTSTART;TZID=Europe/Madrid:20260704T180000
-UID:102f0ace5facb31e76deb1f31150264bdda4de46321371782a9b71555ecc3f49
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Sábado 4 de Julio a las 18:00h (Sala 1. Grandes
-  expectativas: Cine británico de posguerra) *Aunque las entradas aparezca
- n como agotadas en web\, pueden adquirirse en taquilla entradas para las s
- esiones del día (de 17h a 20h)\n\nhttps://entradasfilmoteca.sacatuentrada
- .es/es/productos/descripcion/simon-y-laura
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Tied Up Balloon
-DTSTART;TZID=Europe/Madrid:20260704T203000
-UID:1b9e1cb51a13b74394e82bc935919baa83ea160c11e22c21ce73dfc9a6cf8383
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Sábado 4 de Julio a las 20:30h (Sala 1. Binka Z
- helyazkova: Alegorías de la Resistencia) *Aunque las entradas aparezcan c
- omo agotadas en web\, pueden adquirirse en taquilla entradas para las sesi
- ones del día (de 17h a 20h)\n\nhttps://entradasfilmoteca.sacatuentrada.es
- /es/productos/descripcion/the-tied-up-balloon
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El viento que agita la cebada
-DTSTART;TZID=Europe/Madrid:20260704T220000
-UID:ba965b9d3bba620e68eeed18730a9bac3d996160f41335b1ad7bb4c2c3b08875
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Sábado 4 de Julio a las 22:00h (Sala de verano.
-  Ken Loach: Crónicas de la conciencia) *Aunque las entradas aparezcan com
- o agotadas en web\, pueden adquirirse en taquilla entradas para las sesion
- es del día (de 17h a 20h)\n\nOriginal title: The Wind That Shakes the Bar
- ley\n\nRelease year: 2006\n\nOriginal language: EN\n\nhttps://entradasfilm
- oteca.sacatuentrada.es/es/productos/descripcion/el-viento-que-agita-la-ceb
- ada
-LOCATION:Filmoteca Espanola - Cine Dore Sala de verano - Calle de Santa Is
- abel\, 3\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Viridiana
 DTSTART;TZID=Europe/Madrid:20260705T180000
 UID:11c1b749277be5d1daf5b9b9f69e934aa5f706490c1815a6556bbf8beac67e09
@@ -470,5 +429,33 @@ DESCRIPTION:Fecha y Hora: Sábado 18 de Julio a las 22:00h (Sala de verano
  lmoteca.sacatuentrada.es/es/productos/descripcion/mujeres-en-la-calle
 LOCATION:Filmoteca Espanola - Cine Dore Sala de verano - Calle de Santa Is
  abel\, 3\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Astonished Heart
+DTSTART;TZID=Europe/Madrid:20260719T180000
+UID:7eeea6419192105f5e6255b9f35aa4a8bbd2ac3b45f7bb26a4a9a0f8ef33fde6
+CATEGORIES:cinema
+DESCRIPTION:Fecha y Hora: Domingo 19 de Julio a las 18:00h (Sala 1. Grande
+ s expectativas: Cine británico de posguerra) *Aunque las entradas aparezc
+ an como agotadas en web\, pueden adquirirse en taquilla entradas para las 
+ sesiones del día (de 17h a 20h)\n\nRelease year: 1950\n\nOriginal languag
+ e: EN\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/productos/descripci
+ on/the-astonished-heart
+LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
+ \, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nazareno Cruz y el lobo
+DTSTART;TZID=Europe/Madrid:20260719T203000
+UID:619627d97d43ca0ca89fa1f7b181b3fa7b171a046c0a9941b68887b02713d662
+CATEGORIES:cinema
+DESCRIPTION:Fecha y Hora: Domingo 19 de Julio a las 20:30h (Sala 1. Leonar
+ do Favio: Testimoniar el llanto) *Aunque las entradas aparezcan como agota
+ das en web\, pueden adquirirse en taquilla entradas para las sesiones del 
+ día (de 17h a 20h)\n\nRelease year: 1975\n\nOriginal language: ES\n\nhttp
+ s://entradasfilmoteca.sacatuentrada.es/es/productos/descripcion/nazareno-c
+ ruz-y-el-lobo
+LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
+ \, Madrid
 END:VEVENT
 END:VCALENDAR
