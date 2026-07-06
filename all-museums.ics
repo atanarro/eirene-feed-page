@@ -91,19 +91,6 @@ DESCRIPTION:La exposición ofrece un recorrido por las ideas\, estilos y v
 LOCATION:Casa del Lector (Matadero) - de la Chopera\, 14\, Madrid\, 28045
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dinosaurios entre nosotros
-DTSTART;TZID=Europe/Madrid:20250711T000000
-DTEND;TZID=Europe/Madrid:20260705T000000
-UID:283f9677b9b852f4083e9a569c69eaff2dbb3e009e8bbe3a2c6c2c6f19aaef49
-CATEGORIES:exhibition
-DESCRIPTION:Los dinosaurios siguen entre nosotros a través de sus descend
- ientes más directos: las aves. (Museo Nacional de Ciencias Naturales. Has
- ta el 5 de julio).\n\nhttps://www.mncn.csic.es/es/visita-el-mncn/exposicio
- nes/dinosaurios-entre-nosotros
-LOCATION:Museo Nacional de Ciencias Naturales - de José Gutierrez Abascal
- \, 2\, Madrid\, 28006
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Frida Kahlo: Experiencia Live Art y Muestra Gastronómica
 DTSTART;TZID=Europe/Madrid:20250827T000000
 DTEND;TZID=Europe/Madrid:20260730T000000
@@ -137,19 +124,6 @@ DESCRIPTION:Experiencia de realidad virtual que transporta 450 años atrá
  ingos).\n\nhttps://machupicchuexp.com/madrid/
 LOCATION:Madrid - Raimundo Fernández Villaverde\, 57\, Madrid\, Madrid\, 
  28003
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Disney: The Exhibition. 100 Años de Magia
-DTSTART;TZID=Europe/Madrid:20251001T000000
-DTEND;TZID=Europe/Madrid:20260705T000000
-UID:b5ae34b2ff245143f0929d2705c823edba259237a5c1bbf8a835794172e75cee
-CATEGORIES:exhibition
-DESCRIPTION:Gran experiencia interactiva que incluye desde clásicos de Di
- sney hasta los lanzamientos recientes de Marvel\, Pixar y Star Wars (Funda
- ción Canal Sala Castellana 214. Hasta 5 julio).\n\nhttps://disney100exhib
- it.com/es/madrid/
-LOCATION:Fundación Canal Sala Castellana 214 - de la Castellana\, 214\, M
- adrid\, 28046
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Luis Pérez Calvo. Cromos de artista
@@ -347,18 +321,6 @@ DESCRIPTION:Exposición fotográfica que incluye una selección de imágen
  ndacioncristinamasaveu.com/portfolio/gabinete-de-obra-en-papel-iv/
 LOCATION:Fundación María Cristina Masaveu Peterson - de Alcalá Galiano\
  , 6\, Madrid\, 28071
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Noches y Días
-DTSTART;TZID=Europe/Madrid:20260219T000000
-DTEND;TZID=Europe/Madrid:20260705T000000
-UID:e15dca6494c73af926154ddaab17bca8372ec72f93e086cc4fd71067a7994525
-CATEGORIES:exhibition
-DESCRIPTION:El artista José María Sicilia instala obras creadas ex profe
- so en las estancias más emblemáticas del palacio (Palacio de Liria. Hast
- a 5 julio).\n\nhttps://www.palaciodeliria.com/actividades-exposiciones-mad
- rid/noches-y-dias-jose-maria-sicilia-palacio-de-liria-madrid
-LOCATION:Palacio de Liria - de la Princesa\, 20\, Madrid\, 28008
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Madrid Colecciona. 50 colecciones de arte contemporáneo
@@ -564,19 +526,6 @@ LOCATION:Centro de Arte Dos de Mayo (CA2M) / Móstoles - de la Constituci
  ón \, 23\, (Móstoles)\, Móstoles\, 28931
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:El universo del artista ante la cámara
-DTSTART;TZID=Europe/Madrid:20260413T000000
-DTEND;TZID=Europe/Madrid:20260705T000000
-UID:42c862cba63d01bbb4a7a1601a46fc9eab5dd91d18cb864caea90a6696dd9cdf
-CATEGORIES:exhibition
-DESCRIPTION:Exposición que analiza el impacto de la fotografía desde su 
- aparición en el siglo XIX como una nueva disciplina artística (Museo del
-  Prado. Hasta 5 jul).\n\nhttps://www.museodelprado.es/actualidad/exposicio
- n/el-universo-del-artista-ante-la-camara/b581a759-4ab0-b459-f3d4-8168c8492
- 3f2
-LOCATION:Museo del Prado - del Prado\, s/n\, Madrid\, 28014
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:La tempestad. El jardín de los senderos que se bifurcan. Avelino 
  Sala
 DTSTART;TZID=Europe/Madrid:20260416T000000
@@ -602,18 +551,6 @@ DESCRIPTION:Exposición fotográfica que recorre las dos décadas de vida
  s/show/tiempo-juntos-2006-2026-20-anos-de-casa-arabe-y-de-amistad-entre-es
  pana-y-el-mundo-arabe
 LOCATION:Casa Árabe - de Alcalá\, 62\, Madrid\, 28009
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Arcade Origins: el comienzo de la industria del videojuego
-DTSTART;TZID=Europe/Madrid:20260417T000000
-DTEND;TZID=Europe/Madrid:20261004T000000
-UID:2e8b846737eab8f2b63751e9353eb1f742394a9931ea713d6e80cd198571a6f5
-CATEGORIES:exhibition
-DESCRIPTION:Exposición que recorre la historia del videojuego\, desde sus
-  inicios hasta la actualidad (OXO. Museo del Videjuego en Madrid. Lunes a 
- domingos).\n\nhttps://oxomuseomadrid.com/exposicion-arcade-origins/
-LOCATION:OXO. Museo del Videojuego en Madrid - del Postigo de San Martín\
- , 8\, Madrid\, 28013
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vitrina CERO. ¿Verdadero o falso? La ficción de la autenticidad 
@@ -1374,6 +1311,17 @@ DESCRIPTION:Un análisis sobre poder\, propaganda y acción colectiva en E
 LOCATION:Círculo de Bellas Artes - de Alcalá\, 42\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ruina Montium. Raphaëlle Peria (PHotoESPAÑA 2026)
+DTSTART;TZID=Europe/Madrid:20260605T000000
+DTEND;TZID=Europe/Madrid:20260927T000000
+UID:39498a0b8a75d71d7ebd70bec9a7a3d25b697d2e5161064175e637151c0e1ffd
+CATEGORIES:exhibition
+DESCRIPTION:La artista reinterpreta el paisaje de Las Médulas mediante fo
+ tografía intervenida y materia mineral (Círculo de Bellas Artes - Sala M
+ inerva. Hasta 27 septiembre).\n\nhttps://phe.es/exposicion/ruina-montium/
+LOCATION:Círculo de Bellas Artes - de Alcalá\, 42\, Madrid\, 28014
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Volver a imaginar (PHotoESPAÑA 2026)
 DTSTART;TZID=Europe/Madrid:20260605T000000
 DTEND;TZID=Europe/Madrid:20260927T000000
@@ -1536,6 +1484,21 @@ DESCRIPTION:Conjunto de obras que permiten aproximarse a algunas de las m
  Nacional&utm_campaign=Newsletter%20Externa%20260520&utm_medium=email
 LOCATION:Galería de las Colecciones Reales - de Bailén\, 8\, Madrid\, 28
  013
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Universidad Pública Pinta Malasaña. II edición
+DTSTART;TZID=Europe/Madrid:20260611T000000
+DTEND;TZID=Europe/Madrid:20260906T000000
+UID:80c03e2c2d16015e7c700211f66c693f0b6d004a3f09771d4ec6fd3792640b2c
+CATEGORIES:exhibition
+DESCRIPTION:Exposición de los murales creados por los alumnos de Bellas A
+ rtes de las facultades públicas de Madrid para el festival de arte urbano
+  (Museo de Historia. Hasta 6 septiembre).\n\nhttps://www.madrid.es/portale
+ s/munimadrid/es/Inicio/Cultura-ocio-y-deporte/Actividades-y-eventos/Exposi
+ cion-La-Universidad-Publica-Pinta-Malasana-II-ed-/?vgnextfmt=default&vgnex
+ toid=3e947f751bcae910VgnVCM100000891ecb1aRCRD&vgnextchannel=6381f073808fe4
+ 10Vg
+LOCATION:Museo de Historia - de Fuencarral\, 78\, Madrid\, 28004
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Antón Casamor: luz y escultura
@@ -2040,16 +2003,16 @@ DESCRIPTION:Una oportunidad para descubrir a una de las figuras pioneras y
 LOCATION:Museo Lázaro Galdiano - de Serrano\, 122\, Madrid\, 28006
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spasticus Artisticus. Presentación del proyecto con el grupo prom
- otor y la participación de Gustavo A. Díaz y Blanki Izuzquiza
+SUMMARY:'Spasticus Artisticus'\, Presentación del proyecto con el grupo p
+ romotor y la participación de Gustavo A. Díaz y Blanki Izuzquiza
 DTSTART;TZID=Europe/Madrid:20260709T090000
-UID:6534eca02f691111223eef958b954b8fbee3f98dbe191a78d5d78eeb0f5b6948
+UID:d39f076691df7506a461aec9386dec49337d85f73972ed477a174fe6c16030fe
 CATEGORIES:exhibition
 DESCRIPTION:Spasticus Artisticus nace como grupo colectivo y autogestionad
  o en Matadero Madrid\, durante el curso 2025/26\, derivado del deseo y la 
- necesidad de encontrarnos enfermas\, locas\, discapacitades/diversas funci
- onales\, cuerpos diversos\, convivientes con dolor\, tullidas\, taradas y 
- demás diagnosticades… para pensarnos y colectivizar a través de propue
+ necesidad de encontrarnos enfermos\, locos\, discapacitades/diversas funci
+ onales\, cuerpos diversos\, convivientes con dolor\, tullidos\, tarados y 
+ demás diagnosticados… para pensarnos y colectivizar a través de propue
  stas artísticas. Vinculado al proyecto Sintomatologías: aprendizajes de 
  Elena Prous\, de enero a julio de este año el grupo promotor inició y ex
  perimentó esta nueva etapa en Matadero Madrid organizada desde lo colecti
