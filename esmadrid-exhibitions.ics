@@ -3,9 +3,9 @@ VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
 SUMMARY:Euphoяia – Art is in the Air
-DTSTART;TZID=Europe/Madrid:20160328T000000
+DTSTART;TZID=Europe/Madrid:20190328T000000
 DTEND;TZID=Europe/Madrid:20260906T000000
-UID:ea28d34a2cee293e8188fd20f35954ed15fee14085cfcd120d2fab24b96843d4
+UID:a93fce2a7a245139a8642fa471b4003577d9e73866437e2f4bddb7326082698f
 CATEGORIES:exhibition
 DESCRIPTION:Tras conquistar a visitantes de toda Europa\, la nueva expo
  sición de Balloon Museum visita Madrid con obras donde el aire se convie
@@ -551,6 +551,18 @@ DESCRIPTION:Exposición fotográfica que recorre las dos décadas de vida
  s/show/tiempo-juntos-2006-2026-20-anos-de-casa-arabe-y-de-amistad-entre-es
  pana-y-el-mundo-arabe
 LOCATION:Casa Árabe - de Alcalá\, 62\, Madrid\, 28009
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arcade Origins: el comienzo de la industria del videojuego
+DTSTART;TZID=Europe/Madrid:20260417T000000
+DTEND;TZID=Europe/Madrid:20261004T000000
+UID:2e8b846737eab8f2b63751e9353eb1f742394a9931ea713d6e80cd198571a6f5
+CATEGORIES:exhibition
+DESCRIPTION:Exposición que recorre la historia del videojuego\, desde sus
+  inicios hasta la actualidad (OXO. Museo del Videjuego en Madrid. Lunes a 
+ domingos).\n\nhttps://oxomuseomadrid.com/exposicion-arcade-origins/
+LOCATION:OXO. Museo del Videojuego en Madrid - del Postigo de San Martín\
+ , 8\, Madrid\, 28013
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vitrina CERO. ¿Verdadero o falso? La ficción de la autenticidad 
@@ -1433,18 +1445,6 @@ DESCRIPTION:Exposición que se adentra en un universo donde el vínculo en
 LOCATION:Casa de América - de Cibeles\, 2\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Un punto particular en una particular forma de verlo
-DTSTART;TZID=Europe/Madrid:20260610T000000
-DTEND;TZID=Europe/Madrid:20260706T000000
-UID:4b6aa15aa491c78e60957aaee339fcd8a76bfc31326a457c1d68c8774cf14d91
-CATEGORIES:exhibition
-DESCRIPTION:Exposición colectiva que reúne a 44 jóvenes creadores que r
- econfiguran tiempo\, espacio y percepción en una experiencia crítica y a
- bierta de lo real (C Arte C. 10 jun a 6 jul).\n\nhttps://www.ucm.es/cultur
- a/un-punto-particular-en-una-particular-forma
-LOCATION:C Arte C - de Juan de Herrera\, 2\, Madrid\, 28040
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Nada espontáneo. Una mirada a los 90
 DTSTART;TZID=Europe/Madrid:20260611T000000
 DTEND;TZID=Europe/Madrid:20260831T000000
@@ -1593,7 +1593,7 @@ UID:a421cd1815e6ee7b78cfecfcc8f6be6032913d9526c31726ef18161c2c7b4e52
 CATEGORIES:exhibition
 DESCRIPTION:Proyecto que aborda el vínculo entre cuerpo\, arquitectura y 
  fragilidad a partir de la experiencia de la escoliosis de la hija de la ar
- tista (COAM. 15 jun a 21 ago).\n\nhttps://phe.es/exposicion/columna/
+ tista (COAM. Hasta 21 ago).\n\nhttps://phe.es/exposicion/columna/
 LOCATION:COAM - de Hortaleza\, 63\, Madrid\, 28004
 END:VEVENT
 BEGIN:VEVENT
@@ -1667,8 +1667,8 @@ UID:5b4547dcf43cfe92ec15a0558701db77f3f2551e1ddf71bc4a5ecce9fe68fbde
 CATEGORIES:exhibition
 DESCRIPTION:Exposición colectiva en la que se aborda la memoria como un p
  roceso vivo\, maleable y en constante transformación (Fundación Casa de 
- México en España. 18 jun a 30 ago).\n\nhttps://www.casademexico.es/expos
- icion/latencia/
+ México en España. Hasta 30 ago).\n\nhttps://www.casademexico.es/exposici
+ on/latencia/
 LOCATION:Fundación Casa de México en España - de Alberto Aguilera\, 20\
  , Madrid\, 28015
 END:VEVENT
@@ -1782,8 +1782,8 @@ UID:f9f968b9127982c23995506f01fd6b09d2e6bdbb2412952909e44036ac83e09c
 CATEGORIES:exhibition
 DESCRIPTION:Una exposición inmersiva recorre la memoria de las comunidade
  s hispanas en EE. UU. a través de fotografía histórica (Casa de Améric
- a. 25 jun a 30 sept).\n\nhttps://www.casamerica.es/exposiciones/american-l
- atinos-1935-1945
+ a. Hasta 30 sept).\n\nhttps://www.casamerica.es/exposiciones/american-lati
+ nos-1935-1945
 LOCATION:Casa de América - de Cibeles\, 2\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
@@ -1857,8 +1857,8 @@ UID:652ce1d55f3b410746977f24ca47ebad4868b1d8d2695c0ddac4fab80fd8a640
 CATEGORIES:exhibition
 DESCRIPTION:Recorrido por la trayectoria de la gestora\, coleccionista y c
  omisaria de exposiciones española\, figura destacada de la Movida Madrile
- ña (Museo Reina Sofía. 26 jun a 9 oct).\n\nhttps://www.museoreinasofia.e
- s/exposicion/leche-nieve-lagrima-mano
+ ña (Museo Reina Sofía. Hasta 9 oct).\n\nhttps://www.museoreinasofia.es/e
+ xposicion/leche-nieve-lagrima-mano
 LOCATION:Museo Reina Sofía - de Santa Isabel\, 52\, Madrid\, 28012
 END:VEVENT
 BEGIN:VEVENT

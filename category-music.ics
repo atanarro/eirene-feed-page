@@ -2,17 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Playing Petrucciani
-DTSTART;TZID=Europe/Madrid:20260706T200000
-DTEND;TZID=Europe/Madrid:20260707T200000
-UID:be6cfabd2a30f61234a743313cc3a1b728b83ae54815506381a2d37a2cd687fe
-CATEGORIES:music
-DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
-  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
- s://ateneodemadrid.com/evento/playing-petrucciani/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tai Sonora
 DTSTART;TZID=Europe/Madrid:20260707T190000
 UID:b9a428ca1278f88a0e98b12a4eed6f6a3160d84b6eeccc3dd61d142756a1c57d
@@ -122,6 +111,18 @@ DESCRIPTION:Concierto / Jazz\n\nhttps://salavillanos.es/evento/orquesta-in
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ayatoláis (Tributo Siniestro Total) + Juan Abarca
+DTSTART;TZID=Europe/Madrid:20260710T213000
+UID:5ada4ab05c2d5cb74f0ed693dbbc5ea2a6f8550040cf73b41c3a6a3033ed520b
+CATEGORIES:music
+DESCRIPTION:Precio de las entradas: 10€/13€ Entradas a la venta en mov
+ ingtickets Bio/enlaces bandas: Ayatoláis_instagram + Ayatoláis_X Juan Ab
+ arca_facebook + Juan Abarca_X + Juan Abarca_instagram Más información: E
+ l mejor tributo\n\nhttps://gruta77.com/events/ayatolais-tributo-siniestro-
+ total-juan-abarca/var/ri-0.l-L2
+LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Jornada Solidaria Por Venezuela
 DTSTART;TZID=Europe/Madrid:20260711T160000
 UID:c01db3b00b1b995c10a470b453ac4dffdb7e0a3f44391ea333848e4015f80754
@@ -143,6 +144,19 @@ DESCRIPTION:Venta de entradas con promoción especial (2 entradas por el p
  rector Chris Watson. Cátedra Mayor. 20\;00h.\n\nhttps://ateneodemadrid.co
  m/evento/concierto-de-coros/
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Dirty Cats + Gwen & The Sailors + Aparición De Los Dirty Payo
+ s En Dirty´S Rockin' Party II
+DTSTART;TZID=Europe/Madrid:20260711T213000
+UID:621d510f4f868f5a58b53993db7117052c2e5f11e1eb7504b3de856ab47fd0c3
+CATEGORIES:music
+DESCRIPTION:Precio de las entradas: 10€/14€ Entradas a la venta en mov
+ ingtickets Bio/enlaces bandas: The Dirty Cats_facebook + The Dirty Cats_in
+ stagram Gwen and the Sailors_instagram Más información:\n\nhttps://gruta
+ 77.com/events/the-dirty-cats-gwen-the-sailors-aparicion-de-los-dirty-payos
+ -en-dirtys-rockin-party-ii/var/ri-0.l-L2
+LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cuba Connection
@@ -172,6 +186,15 @@ CATEGORIES:music
 DESCRIPTION:Blues en la Villa / Concierto\n\nhttps://salavillanos.es/event
  o/donovan-keith/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bacilos
+DTSTART;TZID=Europe/Madrid:20260712T210000
+UID:2a565be69895a8279d7147177c249a913f3228102e12a6a18652e44f48935e84
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://feverup.com/m/476505
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:GERMÁN KUCICH QUARTET
@@ -265,6 +288,28 @@ DESCRIPTION:Blues en la Villa / Concierto\n\nhttps://salavillanos.es/event
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Homenaje A Ángel: Anti Idols + Matarte Sería Poco + El Señor Qu
+ e Te Molesta + El Monje Y Los Ansias
+DTSTART;TZID=Europe/Madrid:20260717T213000
+UID:0313c701dc4a2884a5d411e0b9d2b8e46e56d8fc71b566c9cd904d92a824b54c
+CATEGORIES:music
+DESCRIPTION:Precio de las entradas: 5€/8€ Entradas a la venta en movin
+ gtickets Bio/enlaces bandas: Anti Idols_facebook + Anti Idols_bandcamp + A
+ nti Idols_X + Anti Idols_instagram Matarte Sería Poco_instagram El Señor
+  que te\n\nhttps://gruta77.com/events/homenaje-a-angel-anti-idols-matarte-
+ seria-poco-el-senor-que-te-molesta-el-monje-y-los-ansias/var/ri-0.l-L2
+LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Buenos\, Gitanos Y Villanos
+DTSTART;TZID=Europe/Madrid:20260718T220000
+UID:3863bafcb50bbe52fe9cea1cf05b857734b7be063dbc68dcfe4558b98d717fae
+CATEGORIES:music
+DESCRIPTION:Concierto / Flamenco\n\nhttps://salavillanos.es/evento/buenosg
+ itanos-y-villanos/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:THE VELVET SERENADES
 DTSTART;TZID=Europe/Madrid:20260719T200000
 DTEND;TZID=Europe/Madrid:20260719T200000
@@ -283,5 +328,16 @@ CATEGORIES:music
 DESCRIPTION:Blues en la Villa / Concierto\n\nhttps://salavillanos.es/event
  o/danielle-nicole-band/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RAY COLOM & RICHARD KRULL TRIO
+DTSTART;TZID=Europe/Madrid:20260720T200000
+DTEND;TZID=Europe/Madrid:20260721T200000
+UID:9c9992f59bfe1212db38e0d1a16816a5615baf8086c8f984c040499d7bf493d1
+CATEGORIES:music
+DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
+  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
+ s://ateneodemadrid.com/evento/61929/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 END:VCALENDAR
