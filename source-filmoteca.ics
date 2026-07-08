@@ -2,34 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:La cuadrilla
-DTSTART;TZID=Europe/Madrid:20260707T180000
-UID:2d91848634b9a619328d071bcddef4eef57f8ac134490e0c49deb8cefbd77540
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Martes 7 de Julio a las 18:00h (Sala 1. Ken Loac
- h: Crónicas de la conciencia) *Aunque las entradas aparezcan como agotada
- s en web\, pueden adquirirse en taquilla entradas para las sesiones del d
- ía (de 17h a 20h)\n\nOriginal title: The Navigators\n\nRelease year: 2001
- \n\nOriginal language: EN\n\nhttps://entradasfilmoteca.sacatuentrada.es/es
- /productos/descripcion/la-cuadrilla
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Juan Moreira
-DTSTART;TZID=Europe/Madrid:20260707T210000
-UID:c0b7200b58884fa9c292c19f9c3b68792b09e265fdf589551e4bfbc2f6276c90
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Martes 7 de Julio a las 21:00h (Sala 1. Leonardo
-  Favio: Testimoniar el llanto / Fuera del radar) *Aunque las entradas apar
- ezcan como agotadas en web\, pueden adquirirse en taquilla entradas para l
- as sesiones del día (de 17h a 20h)\n\nRelease year: 1973\n\nOriginal lang
- uage: ES\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/productos/descri
- pcion/juan-moreira
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Loca juventud
 DTSTART;TZID=Europe/Madrid:20260708T180000
 UID:4da04ca369492d71302cf8e66bf86bb620c914993d64163572933187256d4036
@@ -457,5 +429,47 @@ DESCRIPTION:Fecha y Hora: Martes 21 de Julio a las 20:30h (Sala 1. Grandes
  .sacatuentrada.es/es/productos/descripcion/una-mujer-en-entredicho-1
 LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
  \, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A hierro muere
+DTSTART;TZID=Europe/Madrid:20260722T180000
+UID:ae73eb292bc5c408619d8bb912eee778b5fd681f11938161f85d1cceb1d00c65
+CATEGORIES:cinema
+DESCRIPTION:Fecha y Hora: Miércoles 22 de Julio a las 18:00h (Sala 1. Man
+ uel Mur Oti: La estética del desgarro) *Aunque las entradas aparezcan com
+ o agotadas en web\, pueden adquirirse en taquilla entradas para las sesion
+ es del día (de 17h a 20h)\n\nRelease year: 1962\n\nOriginal language: ES\
+ n\nhttps://entradasfilmoteca.sacatuentrada.es/es/productos/descripcion/a-h
+ ierro-muere-1
+LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
+ \, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:This Was a Woman
+DTSTART;TZID=Europe/Madrid:20260722T203000
+UID:3b9336c61960baea9836919dc43321fb676daa4fc1ccbed6f5efd21bf2344a8a
+CATEGORIES:cinema
+DESCRIPTION:Fecha y Hora: Miércoles 22 de Julio a las 20:30h (Sala 1. Gra
+ ndes expectativas: Cine británico de posguerra) *Aunque las entradas apar
+ ezcan como agotadas en web\, pueden adquirirse en taquilla entradas para l
+ as sesiones del día (de 17h a 20h)\n\nRelease year: 1948\n\nOriginal lang
+ uage: EN\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/productos/descri
+ pcion/this-was-a-woman-1
+LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
+ \, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El espíritu del 45
+DTSTART;TZID=Europe/Madrid:20260722T220000
+UID:ba13a98553d2fd3740a3a2a1de9bced293a4ea6c70ed98af7d9d586ebdc966f0
+CATEGORIES:cinema
+DESCRIPTION:Fecha y Hora: Miércoles 22 de Julio a las 22:00h (Sala de ver
+ ano. Ken Loach: Crónicas de la conciencia) *Aunque las entradas aparezcan
+  como agotadas en web\, pueden adquirirse en taquilla entradas para las se
+ siones del día (de 17h a 20h)\n\nOriginal title: The Spirit of '45\n\nRel
+ ease year: 2013\n\nOriginal language: EN\n\nhttps://entradasfilmoteca.saca
+ tuentrada.es/es/productos/descripcion/el-espiritu-del-45
+LOCATION:Filmoteca Espanola - Cine Dore Sala de verano - Calle de Santa Is
+ abel\, 3\, Madrid
 END:VEVENT
 END:VCALENDAR
