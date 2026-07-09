@@ -2,26 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Crazy Cabin Quintet
-DTSTART;TZID=Europe/Madrid:20260708T200000
-DTEND;TZID=Europe/Madrid:20260709T200000
-UID:f79981f1c58145a5aeb44f593748b95ce9df893e25b375229c7336766f39399c
-CATEGORIES:music
-DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
-  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
- s://ateneodemadrid.com/evento/crazy-cabin-quintet/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Frente Cumbiero
-DTSTART;TZID=Europe/Madrid:20260708T210000
-UID:2e8a6a1d2af8b36c5178ff3ecb66d44f5c2e3300a6c2c56f88e3025dca03f16f
-CATEGORIES:music
-DESCRIPTION:Concierto / Latin / Pop / Rock\n\nhttps://salavillanos.es/even
- to/frente-cumbiero/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ecstatic Dance. Sesión con Izaskun Barbàrie
 DTSTART;TZID=Europe/Madrid:20260709T184500
 UID:7019e66e099bdfb87dba3abe4c8612262cf725e28bd051f2cd028d06223b5369
@@ -93,6 +73,19 @@ DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:¡¡Cambio De Horario!!: Se Adelanta Ayatoláis (Tributo Siniestro
+  Total) + Juan Abarca
+DTSTART;TZID=Europe/Madrid:20260710T200000
+UID:976c7721c76e58d9821350692507c9208d949aa5b24efff0f282068b2dd07375
+CATEGORIES:music
+DESCRIPTION:Precio de las entradas: 10€/13€ Entradas a la venta en mov
+ ingtickets Bio/enlaces bandas: Ayatoláis_instagram + Ayatoláis_X Juan Ab
+ arca_facebook + Juan Abarca_X + Juan Abarca_instagram Más información: A
+ delantamos el concierto\n\nhttps://gruta77.com/events/ayatolais-tributo-si
+ niestro-total-juan-abarca/var/ri-0.l-L2
+LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Orquesta Internacional Sandunga
 DTSTART;TZID=Europe/Madrid:20260710T210000
 UID:1b3fd2d153dc7d137d3321b7d45a701f022c791f97fb18c86c66524758fe7918
@@ -100,18 +93,6 @@ CATEGORIES:music
 DESCRIPTION:Concierto / Jazz\n\nhttps://salavillanos.es/evento/orquesta-in
  ternacional-sandunga-2/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ayatoláis (Tributo Siniestro Total) + Juan Abarca
-DTSTART;TZID=Europe/Madrid:20260710T213000
-UID:5ada4ab05c2d5cb74f0ed693dbbc5ea2a6f8550040cf73b41c3a6a3033ed520b
-CATEGORIES:music
-DESCRIPTION:Precio de las entradas: 10€/13€ Entradas a la venta en mov
- ingtickets Bio/enlaces bandas: Ayatoláis_instagram + Ayatoláis_X Juan Ab
- arca_facebook + Juan Abarca_X + Juan Abarca_instagram Más información: E
- l mejor tributo\n\nhttps://gruta77.com/events/ayatolais-tributo-siniestro-
- total-juan-abarca/var/ri-0.l-L2
-LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jornada Solidaria Por Venezuela
