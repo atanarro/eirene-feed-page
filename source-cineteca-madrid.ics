@@ -2,20 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:CinePlaza: Superestrellas 3 / Pánico en la calle 110
-DTSTART;TZID=Europe/Madrid:20260710T221500
-UID:9612cbcf85687b2f6bb76a0ccf9b65b2d5cdc6597cc80083af0da06f6e4377c7
-CATEGORIES:cinema
-DESCRIPTION:Tras un robo sangriento en Harlem\, dos policías muy distinto
- s entre sí y varios mafiosos se lanzan a la caza de los responsables. Sit
- uada en la frontera simbólica entre Harlem y Central Park\, la película 
- mezcla thriller policial\, violencia urbana y conflicto racial en un retra
- to especialmente sombrío del Nueva York de comienzos de los 70.\n\nAudio:
-  VOSE\n\nhttps://www.cinetecamadrid.com/programacion/cineplaza-superestrel
- las-3-panico-en-la-calle-110
-LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CinePlaza: Superestrellas 3 / Reír\, cantar\, tal vez llorar
 DTSTART;TZID=Europe/Madrid:20260711T221500
 UID:5be3f292c0ef8836a78540caa5b78f7ff97cd288335b4a6ef3ba9e429a874e36
@@ -137,6 +123,20 @@ DESCRIPTION:Foxy Brown jura vengarse de la organización criminal que ha a
  ica que décadas después sigue inspirando a la cultura pop.\n\nAudio: VOS
  E\n\nhttps://www.cinetecamadrid.com/programacion/cineplaza-superestrellas-
  3-foxy-brown
+LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CinePlaza: Superestrellas 3 / Solo nos queda bailar
+DTSTART;TZID=Europe/Madrid:20260725T221500
+UID:da9fe812fbe3d20f3e59d9c9f6ddcd6de5fa04c769ddd75e6136d79ebcce24ef
+CATEGORIES:cinema
+DESCRIPTION:Merab\, joven bailarín del Conjunto Nacional de Georgia\, ve 
+ alterada toda su vida cuando aparece Irakli\, un nuevo compañero que desp
+ ierta en él rivalidad\, deseo y una crisis profunda respecto a su identid
+ ad. Ambientada en un entorno conservador donde la tradición pesa sobre lo
+ s cuerpos\, la película convierte la danza en un espacio de disciplina\, 
+ conflicto y posible liberación.\n\nAudio: VOSE\n\nhttps://www.cinetecamad
+ rid.com/programacion/cineplaza-superestrellas-3-solo-nos-queda-bailar
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 END:VCALENDAR

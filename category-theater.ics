@@ -3,24 +3,6 @@ VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
 SUMMARY:Cápsula radio
-DTSTART;TZID=Europe/Madrid:20260710T183000
-UID:99e8f1d72c86366775ea5f26a0008499c4c259891494f775b4b5c00a3db875df
-CATEGORIES:theater
-DESCRIPTION:Programación en Teatro del Barrio\n\nhttps://teatrodelbarrio.
- com/capsula-radio/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Panza de Burro
-DTSTART;TZID=Europe/Madrid:20260710T193000
-UID:d3e783c46cab55ac2c185fdd962a23ece4c99a20d9e473409eac64cf027a989d
-CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 3 plazas!\n\nhttps://teatrodelbarrio.com/panz
- a-de-burro/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cápsula radio
 DTSTART;TZID=Europe/Madrid:20260711T183000
 UID:4844dcdfcbf1d2d5a6e2d4b4947de3141803f7135637789822ad9869c8c4e966
 CATEGORIES:theater
@@ -113,7 +95,7 @@ SUMMARY:Porque nos da la gana\, por Psicosis Gonsales & Supremme de Luxe.
 DTSTART;TZID=Europe/Madrid:20260717T221500
 UID:f03cf7197a7943c9173f3aa712376dd74130a6aae31004f7b492dd02332c99df
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 24 plazas!\n\nhttps://teatrodelbarrio.com/por
+DESCRIPTION:¡Ya solo quedan 21 plazas!\n\nhttps://teatrodelbarrio.com/por
  que-nos-da-la-gana-por-psicosis-gonsales-supremme-de-luxe-mas-bonita-que-n
  inguna/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
@@ -197,6 +179,25 @@ UID:458a3d9b5dd2f23d8906644ad294d367bffd4950f7cc343e8d9ffc411940159e
 CATEGORIES:theater
 DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/ultrashow-de-miguel-
  noguera/
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cápsula radio
+DTSTART;TZID=Europe/Madrid:20260725T183000
+UID:ebd7006957ccee5ec92107138a7968a3ee32ee8910a09dfaba7d7ac2419f2962
+CATEGORIES:theater
+DESCRIPTION:Programación en Teatro del Barrio\n\nhttps://teatrodelbarrio.
+ com/capsula-radio/
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Misión Drag King: El secuestro supremo\, por Distrito Drag King. 
+ MÁS BONITA QUE NINGUNA
+DTSTART;TZID=Europe/Madrid:20260725T193000
+UID:75fa5aeb00054f19bb92c819ca13f36933a27b3e1879635713fa09b204c3fbcd
+CATEGORIES:theater
+DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/mision-drag-king-el-
+ secuestro-supremo-por-distrito-drag-king-mas-bonita-que-ninguna/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 END:VCALENDAR

@@ -2,39 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:José Luis Gutiérrez Trío
-DTSTART;TZID=Europe/Madrid:20260710T200000
-DTEND;TZID=Europe/Madrid:20260711T200000
-UID:082e0c9592d3ccb92c228b738fce69a176b6a894f3e8c2721fcfc3ab0b9c37c5
-CATEGORIES:music
-DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
-  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
- s://ateneodemadrid.com/evento/jose-luis-gutierrez-trio/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:¡¡Cambio De Horario!!: Se Adelanta Ayatoláis (Tributo Siniestro
-  Total) + Juan Abarca
-DTSTART;TZID=Europe/Madrid:20260710T200000
-UID:976c7721c76e58d9821350692507c9208d949aa5b24efff0f282068b2dd07375
-CATEGORIES:music
-DESCRIPTION:Precio de las entradas: 10€/13€ Entradas a la venta en mov
- ingtickets Bio/enlaces bandas: Ayatoláis_instagram + Ayatoláis_X Juan Ab
- arca_facebook + Juan Abarca_X + Juan Abarca_instagram Más información: A
- delantamos el concierto\n\nhttps://gruta77.com/events/ayatolais-tributo-si
- niestro-total-juan-abarca/var/ri-0.l-L2
-LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Orquesta Internacional Sandunga
-DTSTART;TZID=Europe/Madrid:20260710T210000
-UID:1b3fd2d153dc7d137d3321b7d45a701f022c791f97fb18c86c66524758fe7918
-CATEGORIES:music
-DESCRIPTION:Concierto / Jazz\n\nhttps://salavillanos.es/evento/orquesta-in
- ternacional-sandunga-2/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Jornada Solidaria Por Venezuela
 DTSTART;TZID=Europe/Madrid:20260711T160000
 UID:c01db3b00b1b995c10a470b453ac4dffdb7e0a3f44391ea333848e4015f80754
@@ -405,5 +372,25 @@ DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
   el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
  s://ateneodemadrid.com/evento/slim-slam-tribute/
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Andara Festival
+DTSTART;TZID=Europe/Madrid:20260725T200000
+UID:eb26c51bf93acc97135ddbe362f87d518f1db661438d129fafe6cf336903b941
+CATEGORIES:music
+DESCRIPTION:Concierto / Rock / Latin\n\nhttps://salavillanos.es/evento/and
+ ara-festival/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rosendadas Acústicas
+DTSTART;TZID=Europe/Madrid:20260725T213000
+UID:2e1c6ec976c67d1269ce7a7837d9b91240cd2caf727a1f9ac5804aa196cea02e
+CATEGORIES:music
+DESCRIPTION:Precio de las entradas: 9€/12€ Entradas a la venta en movi
+ ngtickets Más información: Con Juan Conan Carmona en guitarra y voz y Gl
+ oria Ramos en contrabajo y coros\, interpretando piezas de\n\nhttps://grut
+ a77.com/events/rosendadas-acusticas/var/ri-0.l-L2
+LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
 END:VEVENT
 END:VCALENDAR
