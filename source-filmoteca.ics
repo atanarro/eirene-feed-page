@@ -2,60 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Gatica\, el mono
-DTSTART;TZID=Europe/Madrid:20260711T180000
-UID:a6bef0fb662a7cbde8dffca05c9806013b1e2481d189914dea0c6d0dc6f800ab
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Sábado 11 de Julio a las 18:00h (Sala 1. Leonar
- do Favio) *Aunque las entradas aparezcan como agotadas en web\, pueden adq
- uirirse en taquilla entradas para las sesiones del día (de 17h a 20h)\n\n
- Release year: 1993\n\nOriginal language: ES\n\nhttps://entradasfilmoteca.s
- acatuentrada.es/es/productos/descripcion/gatica-el-mono
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Flying Scot
-DTSTART;TZID=Europe/Madrid:20260711T210000
-UID:72e869aff671951625f01a2117996880284aa8098a666fe50426d2b183626b75
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Sábado 11 de Julio a las 21:00h (Sala 1. Grande
- s expectativas: Cine británico de posguerra) *Aunque las entradas aparezc
- an como agotadas en web\, pueden adquirirse en taquilla entradas para las 
- sesiones del día (de 17h a 20h)\n\nRelease year: 1957\n\nOriginal languag
- e: EN\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/productos/descripci
- on/the-flying-scot
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La route de Salina
-DTSTART;TZID=Europe/Madrid:20260711T220000
-UID:7cd8baca74cc56369cdeec6e738b855f3134dce256369244760de16efbe64c0d
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Sábado 11 de Julio a las 22:00h (Sala de verano
- . Gótico Mediterráneo: Eros y Thanatos bajo el sol) *Aunque las entradas
-  aparezcan como agotadas en web\, pueden adquirirse en taquilla entradas p
- ara las sesiones del día (de 17h a 20h)\n\nhttps://entradasfilmoteca.saca
- tuentrada.es/es/productos/descripcion/la-route-de-salina
-LOCATION:Filmoteca Espanola - Cine Dore Sala de verano - Calle de Santa Is
- abel\, 3\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Morir... dormir... tal vez soñar
-DTSTART;TZID=Europe/Madrid:20260712T180000
-UID:15160f75b2252e721e18ddb549ef84ddb15f958cca1f952a06319a2400a3dc95
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Domingo 12 de Julio a las 18:00h (Sala 1. Manuel
-  Mur Oti: La estética del desgarro) *Aunque las entradas aparezcan como a
- gotadas en web\, pueden adquirirse en taquilla entradas para las sesiones 
- del día (de 17h a 20h)\n\nRelease year: 1976\n\nOriginal language: ES\n\n
- https://entradasfilmoteca.sacatuentrada.es/es/productos/descripcion/morir-
- dormir-tal-vez-soñar
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Mi nombre es Joe
 DTSTART;TZID=Europe/Madrid:20260712T203000
 UID:cb24974f203b4ccbbe5e3512a6ea6b615a98455beba462cefa2c80125c0b7ba8
@@ -470,5 +416,32 @@ DESCRIPTION:Fecha y Hora: Sábado 25 de Julio a las 22:00h (Sala de verano
  tuentrada.es/es/productos/descripcion/nowhere-to-go-25-julio
 LOCATION:Filmoteca Espanola - Cine Dore Sala de verano - Calle de Santa Is
  abel\, 3\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Big Night Bathe
+DTSTART;TZID=Europe/Madrid:20260726T180000
+UID:5907f4998ae43d845e281b21d1f840fd544e79d8f6632df94b2b9ece3a130fa9
+CATEGORIES:cinema
+DESCRIPTION:Fecha y Hora: Domingo 26 de Julio a las 18:00h (Sala 1. Binka 
+ Zhelyazkova: Alegorías de la Resistencia) *Aunque las entradas aparezcan 
+ como agotadas en web\, pueden adquirirse en taquilla entradas para las ses
+ iones del día (de 17h a 20h)\n\nhttps://entradasfilmoteca.sacatuentrada.e
+ s/es/productos/descripcion/the-big-night-bathe-26-julio
+LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
+ \, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yo\, Daniel Blake
+DTSTART;TZID=Europe/Madrid:20260726T210000
+UID:c318669edce90af0bcca28934e052663e758cc8a4959e7281af64e9904a8910b
+CATEGORIES:cinema
+DESCRIPTION:Fecha y Hora: Domingo 26 de Julio a las 21:00h (Sala 1. Ken Lo
+ ach: Crónicas de la conciencia) *Aunque las entradas aparezcan como agota
+ das en web\, pueden adquirirse en taquilla entradas para las sesiones del 
+ día (de 17h a 20h)\n\nOriginal title: I\, Daniel Blake\n\nRelease year: 2
+ 016\n\nOriginal language: EN\n\nhttps://entradasfilmoteca.sacatuentrada.es
+ /es/productos/descripcion/yo-daniel-blake
+LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
+ \, Madrid
 END:VEVENT
 END:VCALENDAR

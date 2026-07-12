@@ -2,51 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Jornada Solidaria Por Venezuela
-DTSTART;TZID=Europe/Madrid:20260711T160000
-UID:c01db3b00b1b995c10a470b453ac4dffdb7e0a3f44391ea333848e4015f80754
-CATEGORIES:music
-DESCRIPTION:Concierto / Latin\n\nhttps://salavillanos.es/evento/jornada-so
- lidaria-por-venezuela/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Concierto de coros
-DTSTART;TZID=Europe/Madrid:20260711T200000
-DTEND;TZID=Europe/Madrid:20260711T200000
-UID:999ad6e779e2909891b0b8b5c5e44dca8820d0570e8da2f2a42124efe30ac3cf
-CATEGORIES:music
-DESCRIPTION:Venta de entradas con promoción especial (2 entradas por el p
- recio de 1) (aquí). Socios\, consultar Área del Socio \n \nFundación P
- iù Mosso. Coro Sidney Sussex College.- Universidad de Cambridge\, directo
- r David Skinner y Coro del Trinity College.- Universidad de Melbourne\, di
- rector Chris Watson. Cátedra Mayor. 20\;00h.\n\nhttps://ateneodemadrid.co
- m/evento/concierto-de-coros/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Dirty Cats + Gwen & The Sailors + Aparición De Los Dirty Payo
- s En Dirty´S Rockin' Party II
-DTSTART;TZID=Europe/Madrid:20260711T213000
-UID:621d510f4f868f5a58b53993db7117052c2e5f11e1eb7504b3de856ab47fd0c3
-CATEGORIES:music
-DESCRIPTION:Precio de las entradas: 10€/14€ Entradas a la venta en mov
- ingtickets Bio/enlaces bandas: The Dirty Cats_facebook + The Dirty Cats_in
- stagram Gwen and the Sailors_instagram Más información:\n\nhttps://gruta
- 77.com/events/the-dirty-cats-gwen-the-sailors-aparicion-de-los-dirty-payos
- -en-dirtys-rockin-party-ii/var/ri-0.l-L2
-LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cuba Connection
-DTSTART;TZID=Europe/Madrid:20260711T235900
-UID:d52fb819f05836ae3ad07cd7ef6aa52d080e562d06b56611d542847926041b51
-CATEGORIES:music
-DESCRIPTION:Concierto / Latin\n\nhttps://salavillanos.es/evento/cuba-conne
- ction-2/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Leo Sidran & Friends
 DTSTART;TZID=Europe/Madrid:20260712T200000
 DTEND;TZID=Europe/Madrid:20260712T200000
@@ -392,5 +347,16 @@ DESCRIPTION:Precio de las entradas: 9€/12€ Entradas a la venta en movi
  oria Ramos en contrabajo y coros\, interpretando piezas de\n\nhttps://grut
  a77.com/events/rosendadas-acusticas/var/ri-0.l-L2
 LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VÍCTOR CORREA - MOVIMIENTO
+DTSTART;TZID=Europe/Madrid:20260726T200000
+DTEND;TZID=Europe/Madrid:20260726T200000
+UID:6eb039bd04dff62b7b981f507c8efbf2ca09feadad1d2b30337276ce5361a9e3
+CATEGORIES:music
+DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
+  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
+ s://ateneodemadrid.com/evento/victor-correa-movimiento/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 END:VCALENDAR

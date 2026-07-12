@@ -2,20 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:CinePlaza: Superestrellas 3 / Reír\, cantar\, tal vez llorar
-DTSTART;TZID=Europe/Madrid:20260711T221500
-UID:5be3f292c0ef8836a78540caa5b78f7ff97cd288335b4a6ef3ba9e429a874e36
-CATEGORIES:cinema
-DESCRIPTION:Toñi\, una mujer trans de mediana edad\, pide en una iglesia 
- encontrar novio. Poco después entra en su vida Lahcen\, un joven inmigran
- te marroquí recién llegado a Barcelona. Ferrer convierte esta historia d
- e amor improbable en una mezcla libre de melodrama\, comedia y musical pop
- ular\, atravesada por el humor\, la ternura y una mirada afectuosa hacia l
- os márgenes urbanos y sentimentales.\n\nhttps://www.cinetecamadrid.com/pr
- ogramacion/cineplaza-superestrellas-3-reir-cantar-tal-vez-llorar
-LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CinePlaza: Superestrellas 3 / Barbarella
 DTSTART;TZID=Europe/Madrid:20260712T221500
 UID:d0b3a76b671617bb0c5736bf7d6e145750a5c93992df02766c164d9a18735d35
@@ -137,6 +123,21 @@ DESCRIPTION:Merab\, joven bailarín del Conjunto Nacional de Georgia\, ve
  s cuerpos\, la película convierte la danza en un espacio de disciplina\, 
  conflicto y posible liberación.\n\nAudio: VOSE\n\nhttps://www.cinetecamad
  rid.com/programacion/cineplaza-superestrellas-3-solo-nos-queda-bailar
+LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CinePlaza: Superestrellas 3 / El knack... y cómo conseguirlo
+DTSTART;TZID=Europe/Madrid:20260726T221500
+UID:281905d578a96aeb64eb6dc450cc7264d74bacb2a024d90523c86873b06eacfa
+CATEGORIES:cinema
+DESCRIPTION:Un tímido profesor londinense intenta descubrir el secreto de
+  seducción de su compañero de piso\, convencido de que existe una fórmu
+ la para conquistar mujeres. Richard Lester lleva esa premisa a una comedia
+  nerviosa\, fragmentaria y juguetona\, emblema del “Swinging London” y
+  de una nueva sensibilidad juvenil que mezcla libertad sexual\, ironía fo
+ rmal y crítica de los roles de género.\n\nAudio: VOSE\n\nhttps://www.cin
+ etecamadrid.com/programacion/cineplaza-superestrellas-3-el-knack-y-como-co
+ nseguirlo
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 END:VCALENDAR
