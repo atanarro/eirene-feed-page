@@ -1,18 +1,7 @@
 Eirene feed debug
 Total events: 32
 
-[1] Mi nombre es Joe
-  id: cb24974f203b4ccbbe5e3512a6ea6b615a98455beba462cefa2c80125c0b7ba8
-  start: 2026-07-12T20:30:00+02:00
-  end: N/A
-  category: cinema
-  source: filmoteca
-  location: Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel, 3, Madrid
-  coordinates: 40.409968, -3.698778
-  url: https://entradasfilmoteca.sacatuentrada.es/es/productos/descripcion/mi-nombre-es-joe
-  description: Fecha y Hora: Domingo 12 de Julio a las 20:30h (Sala 1. Ken Loach: Crónicas de la conciencia) *Aunque las entradas aparezcan como agotadas en web, pueden adquirirse en taquilla entradas para las sesiones del día (de 17h a 20h)
-
-[2] Sleep My Baby
+[1] Sleep My Baby
   id: d6a39bd092a73897f5dd894d5da586d4a79fd39f0e993b3f6571c014b13c205a
   start: 2026-07-14T18:00:00+02:00
   end: N/A
@@ -23,7 +12,7 @@ Total events: 32
   url: https://entradasfilmoteca.sacatuentrada.es/es/productos/descripcion/sleep-my-baby
   description: Fecha y Hora: Martes 14 de Julio a las 18:00h (Sala 1. Binka Zhelyazkova: Alegorías de la Resistencia) *Aunque las entradas aparezcan como agotadas en web, pueden adquirirse en taquilla entradas para las sesiones del día (de 17h a 20h)
 
-[3] Hunted
+[2] Hunted
   id: 7417f431a3851d2b25520745ea2641971aeb420d039812853501d9e80ee4939e
   start: 2026-07-14T20:30:00+02:00
   end: N/A
@@ -34,7 +23,7 @@ Total events: 32
   url: https://entradasfilmoteca.sacatuentrada.es/es/productos/descripcion/hunted-14-julio
   description: Fecha y Hora: Martes 14 de Julio a las 20:30h (Sala 1. Grandes expectativas: Cine británico de posguerra) *Aunque las entradas aparezcan como agotadas en web, pueden adquirirse en taquilla entradas para las sesiones del día (de 17h a 20h)
 
-[4] Nowhere to Go
+[3] Nowhere to Go
   id: 0dcba041c7b9e6244756b38be467cb4e204db98651bdd80cab80ebdfa96347c4
   start: 2026-07-15T18:00:00+02:00
   end: N/A
@@ -44,6 +33,17 @@ Total events: 32
   coordinates: 40.409968, -3.698778
   url: https://entradasfilmoteca.sacatuentrada.es/es/productos/descripcion/nowhere-to-go
   description: Fecha y Hora: Miércoles 15 de Julio a las 18:00h (Sala 1. Grandes expectativas: Cine británico de posguerra) *Aunque las entradas aparezcan como agotadas en web, pueden adquirirse en taquilla entradas para las sesiones del día (de 17h a 20h)
+
+[4] El rey del barrio
+  id: b42c2dfb35165c262cef82f89180959b958c8719305b39ea7a45fdd71ea43241
+  start: 2026-07-15T20:30:00+02:00
+  end: N/A
+  category: cinema
+  source: filmoteca
+  location: Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel, 3, Madrid
+  coordinates: 40.409968, -3.698778
+  url: https://entradasfilmoteca.sacatuentrada.es/es/productos/descripcion/el-rey-del-barrio-1
+  description: Fecha y Hora: Miércoles 15 de Julio a las 20:30h (Sala 1. Silvia Pinal - Semana cine mexicano) *Aunque las entradas aparezcan como agotadas en web, pueden adquirirse en taquilla entradas para las sesiones del día (de 17h a 20h)
 
 [5] Buscando a Eric
   id: 099953abcc6876c4151fce0cab4cd8b1416d4efc2a9a085d87a0f861ebf305c0

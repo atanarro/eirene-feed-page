@@ -2,20 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Mi nombre es Joe
-DTSTART;TZID=Europe/Madrid:20260712T203000
-UID:cb24974f203b4ccbbe5e3512a6ea6b615a98455beba462cefa2c80125c0b7ba8
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Domingo 12 de Julio a las 20:30h (Sala 1. Ken Lo
- ach: Crónicas de la conciencia) *Aunque las entradas aparezcan como agota
- das en web\, pueden adquirirse en taquilla entradas para las sesiones del 
- día (de 17h a 20h)\n\nOriginal title: My Name Is Joe\n\nRelease year: 199
- 8\n\nOriginal language: EN\n\nhttps://entradasfilmoteca.sacatuentrada.es/e
- s/productos/descripcion/mi-nombre-es-joe
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Sleep My Baby
 DTSTART;TZID=Europe/Madrid:20260714T180000
 UID:d6a39bd092a73897f5dd894d5da586d4a79fd39f0e993b3f6571c014b13c205a
@@ -53,6 +39,20 @@ DESCRIPTION:Fecha y Hora: Miércoles 15 de Julio a las 18:00h (Sala 1. Gra
  ezcan como agotadas en web\, pueden adquirirse en taquilla entradas para l
  as sesiones del día (de 17h a 20h)\n\nhttps://entradasfilmoteca.sacatuent
  rada.es/es/productos/descripcion/nowhere-to-go
+LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
+ \, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El rey del barrio
+DTSTART;TZID=Europe/Madrid:20260715T203000
+UID:b42c2dfb35165c262cef82f89180959b958c8719305b39ea7a45fdd71ea43241
+CATEGORIES:cinema
+DESCRIPTION:Fecha y Hora: Miércoles 15 de Julio a las 20:30h (Sala 1. Si
+ lvia Pinal - Semana cine mexicano) *Aunque las entradas aparezcan como ago
+ tadas en web\, pueden adquirirse en taquilla entradas para las sesiones de
+ l día (de 17h a 20h)\n\nOriginal title: The King of Staten Island\n\nRele
+ ase year: 2020\n\nOriginal language: EN\n\nhttps://entradasfilmoteca.sacat
+ uentrada.es/es/productos/descripcion/el-rey-del-barrio-1
 LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
  \, Madrid
 END:VEVENT
@@ -357,9 +357,9 @@ CATEGORIES:cinema
 DESCRIPTION:Fecha y Hora: Viernes 24 de Julio a las 20:30h (Sala 1. Binka 
  Zhelyazkova: Alegorías de la Resistencia) *Aunque las entradas aparezcan 
  como agotadas en web\, pueden adquirirse en taquilla entradas para las ses
- iones del día (de 17h a 20h)\n\nOriginal title: The Last Word\n\nRelease 
- year: 2008\n\nOriginal language: EN\n\nhttps://entradasfilmoteca.sacatuent
- rada.es/es/productos/descripcion/la-ultima-palabra-1
+ iones del día (de 17h a 20h)\n\nRelease year: 2017\n\nOriginal language: 
+ ES\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/productos/descripcion/
+ la-ultima-palabra-1
 LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
  \, Madrid
 END:VEVENT
