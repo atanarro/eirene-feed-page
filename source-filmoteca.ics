@@ -2,34 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Sleep My Baby
-DTSTART;TZID=Europe/Madrid:20260714T180000
-UID:d6a39bd092a73897f5dd894d5da586d4a79fd39f0e993b3f6571c014b13c205a
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Martes 14 de Julio a las 18:00h (Sala 1. Binka Z
- helyazkova: Alegorías de la Resistencia) *Aunque las entradas aparezcan c
- omo agotadas en web\, pueden adquirirse en taquilla entradas para las sesi
- ones del día (de 17h a 20h)\n\nOriginal title: Sleep Well My Baby\n\nOrig
- inal language: KO\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/product
- os/descripcion/sleep-my-baby
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hunted
-DTSTART;TZID=Europe/Madrid:20260714T203000
-UID:7417f431a3851d2b25520745ea2641971aeb420d039812853501d9e80ee4939e
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Martes 14 de Julio a las 20:30h (Sala 1. Grandes
-  expectativas: Cine británico de posguerra) *Aunque las entradas aparezca
- n como agotadas en web\, pueden adquirirse en taquilla entradas para las s
- esiones del día (de 17h a 20h)\n\nRelease year: 2021\n\nOriginal language
- : EN\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/productos/descripcio
- n/hunted-14-julio
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Nowhere to Go
 DTSTART;TZID=Europe/Madrid:20260715T180000
 UID:0dcba041c7b9e6244756b38be467cb4e204db98651bdd80cab80ebdfa96347c4
@@ -37,8 +9,9 @@ CATEGORIES:cinema
 DESCRIPTION:Fecha y Hora: Miércoles 15 de Julio a las 18:00h (Sala 1. Gra
  ndes expectativas: Cine británico de posguerra) *Aunque las entradas apar
  ezcan como agotadas en web\, pueden adquirirse en taquilla entradas para l
- as sesiones del día (de 17h a 20h)\n\nhttps://entradasfilmoteca.sacatuent
- rada.es/es/productos/descripcion/nowhere-to-go
+ as sesiones del día (de 17h a 20h)\n\nRelease year: 1998\n\nOriginal lang
+ uage: EN\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/productos/descri
+ pcion/nowhere-to-go
 LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
  \, Madrid
 END:VEVENT
@@ -302,9 +275,9 @@ CATEGORIES:cinema
 DESCRIPTION:Fecha y Hora: Jueves 23 de Julio a las 18:00h (Sala 1. Grandes
   expectativas: Cine británico de posguerra) *Aunque las entradas aparezca
  n como agotadas en web\, pueden adquirirse en taquilla entradas para las s
- esiones del día (de 17h a 20h)\n\nOriginal title: The Clouded Yellow\n\nR
- elease year: 1950\n\nOriginal language: EN\n\nhttps://entradasfilmoteca.sa
- catuentrada.es/es/productos/descripcion/tragica-obsesion-1
+ esiones del día (de 17h a 20h)\n\nOriginal title: You Belong to Me\n\nRel
+ ease year: 2008\n\nOriginal language: EN\n\nhttps://entradasfilmoteca.saca
+ tuentrada.es/es/productos/descripcion/tragica-obsesion-1
 LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
  \, Madrid
 END:VEVENT
@@ -412,8 +385,9 @@ CATEGORIES:cinema
 DESCRIPTION:Fecha y Hora: Sábado 25 de Julio a las 22:00h (Sala de verano
  . Grandes expectativas: Cine británico de posguerra) *Aunque las entradas
   aparezcan como agotadas en web\, pueden adquirirse en taquilla entradas p
- ara las sesiones del día (de 17h a 20h)\n\nhttps://entradasfilmoteca.saca
- tuentrada.es/es/productos/descripcion/nowhere-to-go-25-julio
+ ara las sesiones del día (de 17h a 20h)\n\nRelease year: 1998\n\nOriginal
+  language: EN\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/productos/d
+ escripcion/nowhere-to-go-25-julio
 LOCATION:Filmoteca Espanola - Cine Dore Sala de verano - Calle de Santa Is
  abel\, 3\, Madrid
 END:VEVENT
@@ -470,5 +444,47 @@ DESCRIPTION:Fecha y Hora: Martes 28 de Julio a las 20:30h (Sala 1. Leonard
  ://entradasfilmoteca.sacatuentrada.es/es/productos/descripcion/aniceto
 LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
  \, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Astonished Heart
+DTSTART;TZID=Europe/Madrid:20260729T180000
+UID:9157908e5efbabf88067b60b01e5376ad37d2aadb67a8f3de57c84042785a6b4
+CATEGORIES:cinema
+DESCRIPTION:Fecha y Hora: Miércoles 29 de Julio a las 18:00h (Sala 1. Gra
+ ndes expectativas: Cine británico de posguerra) *Aunque las entradas apar
+ ezcan como agotadas en web\, pueden adquirirse en taquilla entradas para l
+ as sesiones del día (de 17h a 20h)\n\nRelease year: 1950\n\nOriginal lang
+ uage: EN\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/productos/descri
+ pcion/the-astonished-heart-29-julio
+LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
+ \, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El ojo del huracán
+DTSTART;TZID=Europe/Madrid:20260729T203000
+UID:edb386d67bca379cf22930b5190b2797691c32d84df175f8f1dc0cb6ce6d4e74
+CATEGORIES:cinema
+DESCRIPTION:Fecha y Hora: Miércoles 29 de Julio a las 20:30h (Sala 1. Gó
+ tico Mediterráneo: Eros y Thanatos bajo el sol) *Aunque las entradas apar
+ ezcan como agotadas en web\, pueden adquirirse en taquilla entradas para l
+ as sesiones del día (de 17h a 20h)\n\nRelease year: 1971\n\nOriginal lang
+ uage: ES\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/productos/descri
+ pcion/el-ojo-del-huracan
+LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
+ \, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Viridiana
+DTSTART;TZID=Europe/Madrid:20260729T220000
+UID:abb800a92dd6b93a3615895760916dc99024605bae4f1750d944d3028ba44252
+CATEGORIES:cinema
+DESCRIPTION:Fecha y Hora: Miércoles 29 de Julio a las 22:00h (Sala de ver
+ ano. Silvia Pinal - Semana cine mexicano) *Aunque las entradas aparezcan c
+ omo agotadas en web\, pueden adquirirse en taquilla entradas para las sesi
+ ones del día (de 17h a 20h)\n\nRelease year: 1962\n\nOriginal language: E
+ S\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/productos/descripcion/v
+ iridiana
+LOCATION:Filmoteca Espanola - Cine Dore Sala de verano - Calle de Santa Is
+ abel\, 3\, Madrid
 END:VEVENT
 END:VCALENDAR

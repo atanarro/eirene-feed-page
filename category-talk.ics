@@ -2,18 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Presentación del libro «Ese lugar de las sillas vacías»
-DTSTART;TZID=Europe/Madrid:20260714T193000
-DTEND;TZID=Europe/Madrid:20260714T193000
-UID:6335ae96ef8d0f042157da9f214e7a25f4e7d3f92e1b9485b80e9dbe8a6f64db
-CATEGORIES:talk
-DESCRIPTION:Agrupación 92 Liberales. Bienvenida: Javier de la Vega. Autor
- a: Clara Freire. Intervienen: Kevin da Silva Laura de Lucas. Sala Pérez G
- aldós. 19:30h.\n\nhttps://ateneodemadrid.com/evento/presentacion-del-libr
- o-ese-lugar-de-las-sillas-vacias/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tempestividad de los "Opúsculos morales" de Giacomo Leopardi
 DTSTART;TZID=Europe/Madrid:20260715T190000
 DTEND;TZID=Europe/Madrid:20260715T190000
@@ -79,6 +67,19 @@ DESCRIPTION:Agrupación Ateneísta Juan Negrín. Intervienen: Rafael Egido
  az González López. Presentan: Pedro García Bilbao y Miguel Pastrana de 
  Almeida. Cátedra Mayor. 19:15h.\n\nhttps://ateneodemadrid.com/evento/nues
  tro-homenaje-ateneista-a-la-resistencia-de-la-republica-espanola/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los eclipses de Sol
+DTSTART;TZID=Europe/Madrid:20260720T200000
+DTEND;TZID=Europe/Madrid:20260720T200000
+UID:e13dde15e0b916d714c7b90ea9dc31a96c5c2b19630571f7ef9202c5acc9372a
+CATEGORIES:talk
+DESCRIPTION:Sección de Ciencias y tecnología en colaboración con Stars4
+ all. Presentación del libro y testeo insitu de la seguridad de las gafas 
+ de eclipse.  Sara Cantó. Participan Alejandro Sánchez de Miguel autor 
+ Jesús Gallego Sandra Benítez Herrera. Sala Ramón y Cajal. 20:00h.\n\nht
+ tps://ateneodemadrid.com/evento/los-eclipses-de-sol/
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 END:VCALENDAR

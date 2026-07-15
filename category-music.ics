@@ -2,15 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Sun Ra Arkestra
-DTSTART;TZID=Europe/Madrid:20260714T203000
-UID:2e670d5e9faec1e2609fa940c397c3ff8c84a99744485d2d121ce2a0ca541071
-CATEGORIES:music
-DESCRIPTION:Concierto / Villanos del Jazz\n\nhttps://salavillanos.es/event
- o/sun-ra-arkestra/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Vivaldi. Nueva Experiencia
 DTSTART;TZID=Europe/Madrid:20260715T193000
 DTEND;TZID=Europe/Madrid:20260715T193000
@@ -84,15 +75,6 @@ DESCRIPTION:Precio de las entradas: 5€/8€ Entradas a la venta en movin
   que te\n\nhttps://gruta77.com/events/homenaje-a-angel-anti-idols-matarte-
  seria-poco-el-senor-que-te-molesta-el-monje-y-los-ansias/var/ri-0.l-L2
 LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Buenos\, Gitanos Y Villanos
-DTSTART;TZID=Europe/Madrid:20260718T220000
-UID:3863bafcb50bbe52fe9cea1cf05b857734b7be063dbc68dcfe4558b98d717fae
-CATEGORIES:music
-DESCRIPTION:Concierto / Flamenco\n\nhttps://salavillanos.es/evento/buenosg
- itanos-y-villanos/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:THE VELVET SERENADES
@@ -295,5 +277,14 @@ DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
   el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
  s://ateneodemadrid.com/evento/abe-rabade-trio/
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Siames
+DTSTART;TZID=Europe/Madrid:20260729T203000
+UID:af9825c0fab3343a225ce0cc5a53c150c99a56c89af6d2c1b085c5539f39a3dc
+CATEGORIES:music
+DESCRIPTION:Concierto / Rock / Pop\n\nhttps://salavillanos.es/evento/siame
+ s/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 END:VCALENDAR
