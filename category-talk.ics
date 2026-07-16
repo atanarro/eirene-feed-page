@@ -2,18 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Tempestividad de los "Opúsculos morales" de Giacomo Leopardi
-DTSTART;TZID=Europe/Madrid:20260715T190000
-DTEND;TZID=Europe/Madrid:20260715T190000
-UID:79e44e94af23b0f420afe0a45bf41476b85da1f4959f196c2dc9f37f7f056292
-CATEGORIES:talk
-DESCRIPTION:Sección de Literatura. Intervienen: Cristina Coriasso Martín
- -Posadillo y  Alessandro Ryker. Presenta: Sara Cantó. Sala Pérez Galdós
- . 19:00h.\n\nhttps://ateneodemadrid.com/evento/tempestividad-de-los-opuscu
- los-morales-de-giacomo-leopardi/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:El apoyo de España a la independencia de los Estados Unidos
 DTSTART;TZID=Europe/Madrid:20260716T190000
 DTEND;TZID=Europe/Madrid:20260716T190000
@@ -24,6 +12,25 @@ DESCRIPTION:Sección de Ciencia y Cultura Militar. \nPresenta y modera: Is
  19:30 h.\n\nhttps://ateneodemadrid.com/evento/el-apoyo-de-espana-a-la-inde
  pendencia-de-los-estados-unidos/
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Presentación "Tontos tus fieles"
+DTSTART;TZID=Europe/Madrid:20260717T190000
+UID:0e8f8058d97b75c6759716253c302c8da3dda672f10a793f39fb112a63fc9348
+CATEGORIES:talk
+DESCRIPTION:17 Julio 2026 Queridas anónimas: El próximo 17 de julio tend
+ remos a Sophia Hidalgo Hernández para presentar su novela Tontos tus fiel
+ es ( Baile del sol \, 2026) . La ausencia se cuela en la piel como la hum
+ edad en La Laguna. Carteles con la palabra desaparecida\, culpa\, charcos\
+ , grupo de amigas\, pinzas\, el diario sin remitente y un monstruo hilvana
+ n esta búsqueda. Autoridad\, devotas e individuo. Pelos bajo las uñas y 
+ muelas arrancadas serán el preludio del desastre. Además nos acompañar
+ á para conversar con la autora\, Aida Gonzalez Rossi autora de Leche cond
+ ensada \, Gorda Sinvergüenza y Pueblo yo . ¡Os esperamos! Cuándo: viern
+ es 17 de julio a las 19:00 Dónde: La Anónima Librería (C/Embajadores\, 
+ 166 - Metro Delicias / Legazpi) Entrada libre hasta completar aforo.\n\nht
+ tps://laanonimalibreria.com/evento/182/presentacion-tontos-tus-fieles/
+LOCATION:La Anonima Libreria - C/ Embajadores\, 166 - Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Presentación: «Preparación para la supervivencia»\, por David 
@@ -40,10 +47,10 @@ DESCRIPTION:El autor David Santos visita la librería Desnivel para presen
 LOCATION:Libreria Desnivel - Plaza de Matute\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:En busca de la convergencia perdida en renta Pér cápita
+SUMMARY:En busca de la convergencia perdida en renta pér cápita
 DTSTART;TZID=Europe/Madrid:20260717T193000
 DTEND;TZID=Europe/Madrid:20260717T193000
-UID:944ba5e534f3d4e75d78b317f6ebe0c35662781dbdbb8a871296efb2db481321
+UID:a8f91f8ae06e0bbd833204d822529373ee6ae3f3e59dd56a1c5d164cee87d233
 CATEGORIES:talk
 DESCRIPTION:Sección de Ciencias Económicas. Intervienen: Esmeralda Góme
  z\, Antonio Urda\, Javier Santacruz. Sala Pérez Galdós. 19:30h.\n\nhttps
@@ -52,11 +59,10 @@ DESCRIPTION:Sección de Ciencias Económicas. Intervienen: Esmeralda Góme
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nuestro homenaje ateneísta a la resistencia de la República espa
- ñola
+SUMMARY:Homenaje a la resistencia de la República española
 DTSTART;TZID=Europe/Madrid:20260719T191500
 DTEND;TZID=Europe/Madrid:20260719T191500
-UID:da995bdff99769ae0c2d068c262c1313b9644bf2c102d379923fbcfa211bc4a6
+UID:e2e6e0ee49b9c3eb008eba79cf61290fb8e78b0f21c54ebf607dab82e5ec495e
 CATEGORIES:talk
 DESCRIPTION:Agrupación Ateneísta Juan Negrín. Intervienen: Rafael Egido
   Pérez\, Mirta Núñez Díaz-Balart\, Eliseo Sánchez Caro\, Goyi Sanz de
@@ -67,6 +73,18 @@ DESCRIPTION:Agrupación Ateneísta Juan Negrín. Intervienen: Rafael Egido
  az González López. Presentan: Pedro García Bilbao y Miguel Pastrana de 
  Almeida. Cátedra Mayor. 19:15h.\n\nhttps://ateneodemadrid.com/evento/nues
  tro-homenaje-ateneista-a-la-resistencia-de-la-republica-espanola/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Desayunos del Ateneo con Francisco de la Torre
+DTSTART;TZID=Europe/Madrid:20260720T093000
+DTEND;TZID=Europe/Madrid:20260720T093000
+UID:aeaf1926a137b89324c534473e7a8952b6aa9d3d17bdd369962a445cebaba62c
+CATEGORIES:talk
+DESCRIPTION:Con Francisco de la Torre\, Alcalde de Málaga\, en conversaci
+ ón con los periodistas Ana Pardo de Vera\, Guillermo Lerma y Paula de las
+  Heras. \n\nCátedra Mayor. 9:30h.\n\nhttps://ateneodemadrid.com/evento/lo
+ s-desayunos-del-ateneo-con-francisco-de-la-torre/
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -81,5 +99,20 @@ DESCRIPTION:Sección de Ciencias y tecnología en colaboración con Stars4
  Jesús Gallego Sandra Benítez Herrera. Sala Ramón y Cajal. 20:00h.\n\nht
  tps://ateneodemadrid.com/evento/los-eclipses-de-sol/
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Presentación: «Soldados y senderos. Un mundo fronterizo entre el
+  Pirineo y el Ebro»\, por el Ministerio de Defensa
+DTSTART;TZID=Europe/Madrid:20260723T190000
+UID:b571e4b6fae0bf73593af78f4ae8bd2691a3c77f8ff5b9c70cd15b1e1413c618
+CATEGORIES:talk
+DESCRIPTION:Manuel Martos Roldán y el coronel D. Alfonso Garro Novillo vi
+ sitarán la librería Desnivel para presentarnos la nueva publicación del
+  Ministerio de Defensa \, Soldados y senderos. Un mundo fronterizo entre e
+ l Pirineo y el Ebro . El evento será el próximo jueves 23 de julio a las
+  19 h de la tarde . ¡No pierdas esta oportunidad!\n\nhttps://www.libreria
+ desnivel.com/agenda/soldados-y-senderos-un-mundo-fronterizo-entre-el-pirin
+ eo-y-el-ebro-por-el-ministerio-de-defensa/443/
+LOCATION:Libreria Desnivel - Plaza de Matute\, 6\, Madrid
 END:VEVENT
 END:VCALENDAR

@@ -2,48 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Nowhere to Go
-DTSTART;TZID=Europe/Madrid:20260715T180000
-UID:0dcba041c7b9e6244756b38be467cb4e204db98651bdd80cab80ebdfa96347c4
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Miércoles 15 de Julio a las 18:00h (Sala 1. Gra
- ndes expectativas: Cine británico de posguerra) *Aunque las entradas apar
- ezcan como agotadas en web\, pueden adquirirse en taquilla entradas para l
- as sesiones del día (de 17h a 20h)\n\nRelease year: 1998\n\nOriginal lang
- uage: EN\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/productos/descri
- pcion/nowhere-to-go
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El rey del barrio
-DTSTART;TZID=Europe/Madrid:20260715T203000
-UID:b42c2dfb35165c262cef82f89180959b958c8719305b39ea7a45fdd71ea43241
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Miércoles 15 de Julio a las 20:30h (Sala 1. Si
- lvia Pinal - Semana cine mexicano) *Aunque las entradas aparezcan como ago
- tadas en web\, pueden adquirirse en taquilla entradas para las sesiones de
- l día (de 17h a 20h)\n\nOriginal title: The King of Staten Island\n\nRele
- ase year: 2020\n\nOriginal language: EN\n\nhttps://entradasfilmoteca.sacat
- uentrada.es/es/productos/descripcion/el-rey-del-barrio-1
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Buscando a Eric
-DTSTART;TZID=Europe/Madrid:20260715T220000
-UID:099953abcc6876c4151fce0cab4cd8b1416d4efc2a9a085d87a0f861ebf305c0
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Miércoles 15 de Julio a las 22:00h (Sala de ver
- ano. Ken Loach: Crónicas de la conciencia) *Aunque las entradas aparezcan
-  como agotadas en web\, pueden adquirirse en taquilla entradas para las se
- siones del día (de 17h a 20h)\n\nOriginal title: Looking for Eric\n\nRele
- ase year: 2009\n\nOriginal language: EN\n\nhttps://entradasfilmoteca.sacat
- uentrada.es/es/productos/descripcion/buscando-a-eric
-LOCATION:Filmoteca Espanola - Cine Dore Sala de verano - Calle de Santa Is
- abel\, 3\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:La canción de Carla
 DTSTART;TZID=Europe/Madrid:20260716T180000
 UID:149f9ab47ed4731583609d790e37e37bced177a7127193ca3c41a6324f867719
@@ -385,9 +343,8 @@ CATEGORIES:cinema
 DESCRIPTION:Fecha y Hora: Sábado 25 de Julio a las 22:00h (Sala de verano
  . Grandes expectativas: Cine británico de posguerra) *Aunque las entradas
   aparezcan como agotadas en web\, pueden adquirirse en taquilla entradas p
- ara las sesiones del día (de 17h a 20h)\n\nRelease year: 1998\n\nOriginal
-  language: EN\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/productos/d
- escripcion/nowhere-to-go-25-julio
+ ara las sesiones del día (de 17h a 20h)\n\nhttps://entradasfilmoteca.saca
+ tuentrada.es/es/productos/descripcion/nowhere-to-go-25-julio
 LOCATION:Filmoteca Espanola - Cine Dore Sala de verano - Calle de Santa Is
  abel\, 3\, Madrid
 END:VEVENT
@@ -484,6 +441,48 @@ DESCRIPTION:Fecha y Hora: Miércoles 29 de Julio a las 22:00h (Sala de ver
  ones del día (de 17h a 20h)\n\nRelease year: 1962\n\nOriginal language: E
  S\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/productos/descripcion/v
  iridiana
+LOCATION:Filmoteca Espanola - Cine Dore Sala de verano - Calle de Santa Is
+ abel\, 3\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eugenie (Historia de una perversión)
+DTSTART;TZID=Europe/Madrid:20260730T180000
+UID:469fad09ac193defeb5577a44995ce82655e3ee0869884b3648610a5f4a71925
+CATEGORIES:cinema
+DESCRIPTION:Fecha y Hora: Jueves 30 de Julio a las 18:00h (Sala 1. Gótico
+  Mediterráneo: Eros y Thanatos bajo el sol) *Aunque las entradas aparezca
+ n como agotadas en web\, pueden adquirirse en taquilla entradas para las s
+ esiones del día (de 17h a 20h)\n\nRelease year: 1980\n\nOriginal language
+ : ES\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/productos/descripcio
+ n/eugenie
+LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
+ \, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mujeres en la calle
+DTSTART;TZID=Europe/Madrid:20260730T203000
+UID:7d8909dad453c143586f6f5b920ead1833ebb7120dcaacf52876c36f2715ac91
+CATEGORIES:cinema
+DESCRIPTION:Fecha y Hora: Jueves 30 de Julio a las 20:30h (Sala 1. Grandes
+  expectativas: Cine británico de posguerra) *Aunque las entradas aparezca
+ n como agotadas en web\, pueden adquirirse en taquilla entradas para las s
+ esiones del día (de 17h a 20h)\n\nOriginal title: Turn the Key Softly\n\n
+ Release year: 1953\n\nOriginal language: EN\n\nhttps://entradasfilmoteca.s
+ acatuentrada.es/es/productos/descripcion/mujeres-en-la-calle-1
+LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
+ \, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El viejo roble
+DTSTART;TZID=Europe/Madrid:20260730T220000
+UID:803c72b76d2b17c467236c9dc9437e0121a07220ccdc90bdad8aff17ec29e38a
+CATEGORIES:cinema
+DESCRIPTION:Fecha y Hora: Jueves 30 de Julio a las 22:00h (Sala de verano.
+  Ken Loach: Crónicas de la conciencia) *Aunque las entradas aparezcan com
+ o agotadas en web\, pueden adquirirse en taquilla entradas para las sesion
+ es del día (de 17h a 20h)\n\nOriginal title: The Old Oak\n\nRelease year:
+  2023\n\nOriginal language: EN\n\nhttps://entradasfilmoteca.sacatuentrada.
+ es/es/productos/descripcion/el-viejo-roble-22
 LOCATION:Filmoteca Espanola - Cine Dore Sala de verano - Calle de Santa Is
  abel\, 3\, Madrid
 END:VEVENT
