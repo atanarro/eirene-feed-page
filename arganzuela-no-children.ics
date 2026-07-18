@@ -2,19 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Euphoяia – Art is in the Air
-DTSTART;TZID=Europe/Madrid:20190328T000000
-DTEND;TZID=Europe/Madrid:20260906T000000
-UID:a93fce2a7a245139a8642fa471b4003577d9e73866437e2f4bddb7326082698f
-CATEGORIES:exhibition
-DESCRIPTION:Tras conquistar a visitantes de toda Europa\, la nueva expo
- sición de Balloon Museum visita Madrid con obras donde el aire se convie
- rte en protagonista (Escenari\n\nhttps://tickets.balloonmuseum.world/es/ma
- drid/
-LOCATION:Escenario Puerta del Ángel - del Embarcadero\, Recinto Ferial de
-  la Casa de Campo\, Madrid\, 28011
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Cleopatra\, la exposición inmersiva
 DTSTART;TZID=Europe/Madrid:20190912T000000
 DTEND;TZID=Europe/Madrid:20260719T000000
@@ -338,6 +325,19 @@ LOCATION:Galería de las Colecciones Reales - de Bailén\, 8\, Madrid\, 28
  013
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Euphoяia – Art is in the Air
+DTSTART;TZID=Europe/Madrid:20260328T000000
+DTEND;TZID=Europe/Madrid:20260906T000000
+UID:3c0d094b75249174989627cc322bb29600fee862fa6945ffe1884e8742d7ae14
+CATEGORIES:exhibition
+DESCRIPTION:Tras conquistar a visitantes de toda Europa\, la nueva expo
+ sición de Balloon Museum visita Madrid con obras donde el aire se convie
+ rte en protagonista (Escenari\n\nhttps://tickets.balloonmuseum.world/es/ma
+ drid/
+LOCATION:Escenario Puerta del Ángel - del Embarcadero\, Recinto Ferial de
+  la Casa de Campo\, Madrid\, 28011
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Soy Asurbanipal\, rey del mundo\, rey de Asiria
 DTSTART;TZID=Europe/Madrid:20260409T000000
 DTEND;TZID=Europe/Madrid:20261004T000000
@@ -482,12 +482,12 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:El Imperio Fan Contraataca
 DTSTART;TZID=Europe/Madrid:20260506T000000
-DTEND;TZID=Europe/Madrid:20260802T000000
+DTEND;TZID=Europe/Madrid:20260726T000000
 UID:a76656511e2168bdc1e91abaccff1de550a46b6feb9d917677b5cd5f49667380
 CATEGORIES:exhibition
 DESCRIPTION:Llega a Madrid la mayor exposición del mundo hecha por y para
-  fans de la saga más emblemática (Espacio Ibercaja Delicias. Hasta 2 ago
- sto).\n\nhttps://imperiofancontraataca.com/
+  fans de la saga más emblemática (Espacio Ibercaja Delicias. Hasta 26 ju
+ lio).\n\nhttps://imperiofancontraataca.com/
 LOCATION:Espacio Delicias - de las Delicias\, 61\, Madrid\, 28045
 END:VEVENT
 BEGIN:VEVENT
@@ -902,14 +902,14 @@ BEGIN:VEVENT
 SUMMARY:RECORRIDOS: Aproximaciones de la joyería contemporánea a la arqu
  itectura de Luis Gutiérrez Soto
 DTSTART;TZID=Europe/Madrid:20260608T000000
-DTEND;TZID=Europe/Madrid:20260828T000000
+DTEND;TZID=Europe/Madrid:20260924T000000
 UID:2db4b778022cf0c79e538cb4e23554e56fe5b098f758fcc7f97aa1e961d687f1
 CATEGORIES:exhibition
 DESCRIPTION:Proyecto expositivo de estudiantes de la Escuela de Arte 3 en 
  el que los edificios creados por el arquitecto madrileño sirven de inspir
- ación para sus diseños de joyas (COAM. Hasta 28 agosto).\n\nhttps://www.
- coam.org/actualidad-agenda-coam-recorridos-aproximaciones-de-la-joyeria-co
- ntemporanea-a-la-arquitectura-de-luis-gutierrez-soto/
+ ación para sus diseños de joyas (COAM.\n\nhttps://www.coam.org/actualida
+ d-agenda-coam-recorridos-aproximaciones-de-la-joyeria-contemporanea-a-la-a
+ rquitectura-de-luis-gutierrez-soto/
 LOCATION:COAM - de Hortaleza\, 63\, Madrid\, 28004
 END:VEVENT
 BEGIN:VEVENT
@@ -964,13 +964,13 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nada espontáneo. Una mirada a los 90
 DTSTART;TZID=Europe/Madrid:20260611T000000
-DTEND;TZID=Europe/Madrid:20260831T000000
+DTEND;TZID=Europe/Madrid:20261004T000000
 UID:ff8d1adf96ea90068b9796b350661fa045ccae886eb1fbbea545c534c8ef31df
 CATEGORIES:exhibition
 DESCRIPTION:Muestra del fotógrafo Jesús Ugalde que incluye retratos de g
  randes figuras de la música española como Alejandro Sanz o Andrés Calam
- aro (Matadero Madrid. A partir 11 junio).\n\nhttps://www.mataderomadrid.or
- g/programacion/nada-espontaneo-una-mirada-los-90
+ aro (Matadero Madrid. Hasta octubre).\n\nhttps://www.mataderomadrid.org/pr
+ ogramacion/nada-espontaneo-una-mirada-los-90
 LOCATION:Matadero Madrid - de Legazpi\, 8\, Madrid\, 28045
 END:VEVENT
 BEGIN:VEVENT
@@ -1250,19 +1250,6 @@ DESCRIPTION:Propuesta cultural y de ocio que incluye visitas exclusivas a
 LOCATION:Museo del Ferrocarril - de las Delicias\, 61\, Madrid\, 28045
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mitologías modernas: Ouka Leele & Co
-DTSTART;TZID=Europe/Madrid:20260702T000000
-DTEND;TZID=Europe/Madrid:20261018T000000
-UID:0656dc6567002ca560c050169bdf081eb09a494f3f32d76aad7e8c05b30645f1
-CATEGORIES:exhibition
-DESCRIPTION:Exposición que revisita el papel de la mitología en el arte 
- madrileño de la década de 1980 a partir de la obra de la artista Ouka Le
- ele (Sala Alcalá 31. Hasta 18 oct).\n\nhttps://www.comunidad.madrid/activ
- idades/2026/exposicion-mitologias-modernas-ouka-leele-co
-LOCATION:Sala Alcalá 31 de la Comunidad de Madrid - de Alcalá\, 31\, Mad
- rid\, 28014
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Pura Biodiversidad Canaria
 DTSTART;TZID=Europe/Madrid:20260702T000000
 DTEND;TZID=Europe/Madrid:20260830T000000
@@ -1352,463 +1339,6 @@ DESCRIPTION:Relevantes fondos bibliográficos y museográficos que permite
 LOCATION:Museo Arqueológico Nacional - de Serrano\, 13\, Madrid\, 28001
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hombres De Acero (Wasteman)
-DTSTART;TZID=Europe/Madrid:20260717T155000
-UID:8fd740cff2c4a8d464d3fbbc6eed94387c358f79699f246b7c1e6f7c8b572282
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 90 minu
- tos | No recomendada para menores de 18 años\n\nOriginal title: Wasteman\
- n\nRelease year: 2026\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://w
- ww.pillalas.com/pase/1079040/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Copia Perfecta
-DTSTART;TZID=Europe/Madrid:20260717T155000
-UID:5abd9846341d53ded5d34e60a53b803c1aa701377c39b21f06cf4427061e37bf
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 128 min
- utos | No recomendada para menores de 16 años\n\nOriginal title: L'Affair
- e Bojarski\n\nRelease year: 2026\n\nOriginal language: FR\n\nAudio: VOSE\n
- \nhttps://www.pillalas.com/pase/1079041/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Un Poeta
-DTSTART;TZID=Europe/Madrid:20260717T155000
-UID:7aaf6fd6997a338a745167937b7985eca3ece107f3b8e83fabaa89543d43ec4f
-CATEGORIES:cinema
-DESCRIPTION:Versión Original Castellano | Duración 123 minutos | No reco
- mendada para menores de 16 años\n\nRelease year: 2025\n\nOriginal languag
- e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1079155/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La odisea
-DTSTART;TZID=Europe/Madrid:20260717T160000
-DTEND;TZID=Europe/Madrid:20260717T185200
-UID:9c4c5303b1c5b18dd5ad8f50811b2fa9c3d05e13620fa9e5be63b2a1d8c4dcc1
-CATEGORIES:cinema
-DESCRIPTION:Epopeya mitológica que sigue la historia de Odiseo y su largo
-  viaje a casa\, de 10 años de duración\, tras la guerra de Troya.\n\nOri
- ginal title: The Odyssey\n\nRelease year: 2026\n\nOriginal language: EN\n\
- nAudio: VOSE\n\nhttps://cinesembajadores.es/pelicula/la-odisea-vose/?ciuda
- d=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Minions & Monsters
-DTSTART;TZID=Europe/Madrid:20260717T160000
-DTEND;TZID=Europe/Madrid:20260717T173000
-UID:16a9c0be030ab03c9ba2327ddff951b5d51d470bc73589a36c0cfe84b99a9ad8
-CATEGORIES:cinema
-DESCRIPTION:La historia de cómo los Minions conquistaron Hollywood\, se c
- onvirtieron en estrellas de cine\, lo perdieron todo\, desataron monstruos
-  en el mundo y luego se unieron para intentar salvar al planeta del caos q
- ue acababan de crear.\n\nRelease year: 2026\n\nOriginal language: EN\n\nAu
- dio: Doblada ES\n\nhttps://cinesembajadores.es/pelicula/minions-monsters-d
- oblada-al-espanol/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Grazia
-DTSTART;TZID=Europe/Madrid:20260717T160000
-UID:5f2b75e6759d25d8f05a655ff50fb5cb1697cba3a61dcdbc6212a57c4f6168e6
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 132 min
- utos | No recomendada para menores de 12 años\n\nRelease year: 2025\n\nOr
- iginal language: IT\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/107904
- 2/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Los Músicos
-DTSTART;TZID=Europe/Madrid:20260717T160000
-UID:41d02d6ddac912515a6fd979f4ba683b28877da12e8faa630fdb376ef3af6766
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 102 min
- utos | No recomendada para menores de 7 años\n\nOriginal title: Les Music
- iens\n\nRelease year: 2025\n\nOriginal language: FR\n\nAudio: VOSE\n\nhttp
- s://www.pillalas.com/pase/1079043/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Toy Story 5
-DTSTART;TZID=Europe/Madrid:20260717T161000
-DTEND;TZID=Europe/Madrid:20260717T175200
-UID:effbaacef2d4fdfdb28df4c2ba339fa3b01400d7c1486635337bca34fdd4b045
-CATEGORIES:cinema
-DESCRIPTION:Los juguetes están de vuelta. Esta vez\, Buzz Lightyear\, Woo
- dy\, Jessie y el resto de la pandilla se enfrentan a un nuevo reto cuando 
- conocen a Lilypad\, una nueva tablet que llega con sus propias ideas disru
- ptivas sobre lo que es mejor para Bonnie. ¿Volverá a ser lo mismo la hor
- a de jugar?\n\nRelease year: 2026\n\nOriginal language: EN\n\nAudio: Dobla
- da ES\n\nhttps://cinesembajadores.es/pelicula/toy-story-5-doblada-al-espan
- ol/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Copia Perfecta
-DTSTART;TZID=Europe/Madrid:20260717T173500
-UID:88f8f9299d4313dc099337e5285215af83df2b86092241088f1ee00813647f3b
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 128 min
- utos | No recomendada para menores de 16 años\n\nOriginal title: L'Affair
- e Bojarski\n\nRelease year: 2026\n\nOriginal language: FR\n\nAudio: VOSE\n
- \nhttps://www.pillalas.com/pase/1079044/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Swimming Pool
-DTSTART;TZID=Europe/Madrid:20260717T180000
-UID:0b0d4c4e6a0de526b4c9a3de5ad1da56c2b21b4b29b8b5f98ff104a573653e92
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Viernes 17 de Julio a las 18:00h (Sala 1. Binka 
- Zhelyazkova: Alegorías de la Resistencia) *Aunque las entradas aparezcan 
- como agotadas en web\, pueden adquirirse en taquilla entradas para las ses
- iones del día (de 17h a 20h)\n\nOriginal title: The Old Swimming Pool\n\n
- Original language: EN\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/pro
- ductos/descripcion/the-swimming-pool
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La odisea
-DTSTART;TZID=Europe/Madrid:20260717T180000
-DTEND;TZID=Europe/Madrid:20260717T205200
-UID:5ac6e0e50c6aabfa65fa8e50a7dfda2e9882dca381f93167a409812a238cbdd8
-CATEGORIES:cinema
-DESCRIPTION:Epopeya mitológica que sigue la historia de Odiseo y su largo
-  viaje a casa\, de 10 años de duración\, tras la guerra de Troya.\n\nOri
- ginal title: The Odyssey\n\nRelease year: 2026\n\nOriginal language: EN\n\
- nAudio: VOSE\n\nhttps://cinesembajadores.es/pelicula/la-odisea-vose/?ciuda
- d=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Viaje Al País De Los Blancos
-DTSTART;TZID=Europe/Madrid:20260717T180000
-UID:7db0ba74979a7d435b916353cb3525ace38ab811d74ea9ad91c4ec0543b31b48
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 110 min
- utos | No recomendada para menores de 12 años\n\nRelease year: 2026\n\nOr
- iginal language: CA\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/107915
- 6/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Toy Story 5
-DTSTART;TZID=Europe/Madrid:20260717T181000
-DTEND;TZID=Europe/Madrid:20260717T195200
-UID:e9c694737e077db8cc39701f9bb190cb48f1daf7b17acc1c926c94ad630dd7cb
-CATEGORIES:cinema
-DESCRIPTION:Los juguetes están de vuelta. Esta vez\, Buzz Lightyear\, Woo
- dy\, Jessie y el resto de la pandilla se enfrentan a un nuevo reto cuando 
- conocen a Lilypad\, una nueva tablet que llega con sus propias ideas disru
- ptivas sobre lo que es mejor para Bonnie. ¿Volverá a ser lo mismo la hor
- a de jugar?\n\nRelease year: 2026\n\nOriginal language: EN\n\nAudio: Dobla
- da ES\n\nhttps://cinesembajadores.es/pelicula/toy-story-5-doblada-al-espan
- ol/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Los Músicos
-DTSTART;TZID=Europe/Madrid:20260717T181000
-UID:304cbac20e286fca3622212b4b25da98bc9dd76813526d9d715d6bb5131ed6b7
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 102 min
- utos | No recomendada para menores de 7 años\n\nOriginal title: Les Music
- iens\n\nRelease year: 2025\n\nOriginal language: FR\n\nAudio: VOSE\n\nhttp
- s://www.pillalas.com/pase/1079157/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hombres De Acero (Wasteman)
-DTSTART;TZID=Europe/Madrid:20260717T181500
-UID:ed5698beff31e815e83fa62e873348fd7a08ed9b475ae99842578abd6fd6a859
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 90 minu
- tos | No recomendada para menores de 18 años\n\nOriginal title: Wasteman\
- n\nRelease year: 2026\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://w
- ww.pillalas.com/pase/1079045/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La odisea
-DTSTART;TZID=Europe/Madrid:20260717T191500
-DTEND;TZID=Europe/Madrid:20260717T220700
-UID:c42eb4851c52eeaef294a9c1b221f8ac6abe454e97fc8913767701a0331c6ff5
-CATEGORIES:cinema
-DESCRIPTION:Epopeya mitológica que sigue la historia de Odiseo y su largo
-  viaje a casa\, de 10 años de duración\, tras la guerra de Troya.\n\nOri
- ginal title: The Odyssey\n\nRelease year: 2026\n\nOriginal language: EN\n\
- nAudio: VOSE\n\nhttps://cinesembajadores.es/pelicula/la-odisea-vose/?ciuda
- d=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NATALIA CALDERÓN & SEBASTIÁN CHAMES QUARTET
-DTSTART;TZID=Europe/Madrid:20260717T200000
-DTEND;TZID=Europe/Madrid:20260718T200000
-UID:d6c9317cf5dfa2355f325f14c1634af06eb639855be3207a94fac346d9a990f1
-CATEGORIES:music
-DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
-  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
- s://ateneodemadrid.com/evento/natalia-calderon-sebastian-chames-quartet/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hombres De Acero (Wasteman)
-DTSTART;TZID=Europe/Madrid:20260717T200000
-UID:f2a1a0967a1ac5335e65b839376d09d828405df426cebc0e097d033122c3daa2
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 90 minu
- tos | No recomendada para menores de 18 años\n\nOriginal title: Wasteman\
- n\nRelease year: 2026\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://w
- ww.pillalas.com/pase/1079047/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Copia Perfecta
-DTSTART;TZID=Europe/Madrid:20260717T200000
-UID:f784ac20109e2b8e865d68e9f5a323dd9cee47a9b27ca52bb65edec7a8846ef0
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 128 min
- utos | No recomendada para menores de 16 años\n\nOriginal title: L'Affair
- e Bojarski\n\nRelease year: 2026\n\nOriginal language: FR\n\nAudio: VOSE\n
- \nhttps://www.pillalas.com/pase/1079046/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Un Poeta
-DTSTART;TZID=Europe/Madrid:20260717T200500
-UID:b821df710d3085267158fd6c23f17887908af05b11d0c6508501ffcfc2bb9759
-CATEGORIES:cinema
-DESCRIPTION:Versión Original Castellano | Duración 123 minutos | No reco
- mendada para menores de 16 años\n\nRelease year: 2025\n\nOriginal languag
- e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1079158/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Los Músicos
-DTSTART;TZID=Europe/Madrid:20260717T201000
-UID:cfe25f623031f3bfd1cf5e04d1bece472f95227451b0f85eb0e2896377e0189a
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 102 min
- utos | No recomendada para menores de 7 años\n\nOriginal title: Les Music
- iens\n\nRelease year: 2025\n\nOriginal language: FR\n\nAudio: VOSE\n\nhttp
- s://www.pillalas.com/pase/1079159/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Día de caza
-DTSTART;TZID=Europe/Madrid:20260717T201500
-DTEND;TZID=Europe/Madrid:20260717T214900
-UID:ebadcd1cdb00d8c1288eb82535dc8e2a043068b7c757553f6fc18f7f7b7c51c7
-CATEGORIES:cinema
-DESCRIPTION:Verano 2024. Blanca\, Rosa y Carmen son tres amigas de mediana
-  edad que tras mucho tiempo sin coincidir todas juntas\, quedan junto con 
- Alicia\, la joven y taciturna sobrina de Rosa\, para ir a cazar conejos a 
- un coto de caza que Blanca heredó de su tío José. Entre risas comparten
-  los complicados momentos por los que están pasando en sus vidas. La rela
- ción con los hijos\, separaciones\, infidelidades\, la menopausia\, probl
- emas con el alcohol\, importantes proyectos profesionales… El calor\, in
- soportable\, asfixiante\, y las conversaciones sobre temas del pasado van 
- subiendo de tono hasta acabar enfrentando a las mujeres. Imposible no reco
- rdar que casi 60 años atrás\, otro día de caza\, en aquella misma finca
- \, acabó en tragedia... Una revisión moderna de "La caza" (1966) de Carl
- os Saura.\n\nRelease year: 2026\n\nOriginal language: ES\n\nhttps://cinese
- mbajadores.es/pelicula/dia-de-caza/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El ángel exterminador
-DTSTART;TZID=Europe/Madrid:20260717T203000
-UID:b4f387f3d99701d6f96181c965c75904c89064f37a4976911e6dd3845c219532
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Viernes 17 de Julio a las 20:30h (Sala 1. Silvia
-  Pinal - Semana cine mexicano) *Aunque las entradas aparezcan como agotada
- s en web\, pueden adquirirse en taquilla entradas para las sesiones del d
- ía (de 17h a 20h)\n\nRelease year: 1962\n\nOriginal language: ES\n\nhttps
- ://entradasfilmoteca.sacatuentrada.es/es/productos/descripcion/el-angel-ex
- terminador-1
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vaiana
-DTSTART;TZID=Europe/Madrid:20260717T203000
-UID:0e256d8454f3b527abed27a6b52d7130c8c12f7fae6e2fa808e673e5ad2d2e47
-CATEGORIES:cinema
-DESCRIPTION:Vaiana (Catherine Lagaʻaia) responde a la llamada del océano
-  y\, por primera vez\, viaja más allá del arrecife de su isla de Motunui
-  con el semidiós Maui (Dwayne Johnson) en un viaje inolvidable para devol
- ver la prosperidad a su pueblo.\n\nOriginal title: Moana\n\nRelease year: 
- 2026\n\nOriginal language: EN\n\nAudio: Doblada ES\n\nhttps://cinesembajad
- ores.es/pelicula/vaiana-doblada-al-espanol/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La odisea
-DTSTART;TZID=Europe/Madrid:20260717T211500
-DTEND;TZID=Europe/Madrid:20260718T000700
-UID:98aae3c3a947e8cb8980dbaff13782c9769fef3cff6eb6e4c98864553e4d3487
-CATEGORIES:cinema
-DESCRIPTION:Epopeya mitológica que sigue la historia de Odiseo y su largo
-  viaje a casa\, de 10 años de duración\, tras la guerra de Troya.\n\nOri
- ginal title: The Odyssey\n\nRelease year: 2026\n\nOriginal language: EN\n\
- nAudio: VOSE\n\nhttps://cinesembajadores.es/pelicula/la-odisea-vose/?ciuda
- d=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cápsula radio
-DTSTART;TZID=Europe/Madrid:20260717T211500
-UID:1608881dd7a51fb14f79912b9535b5f57f84d388fc44330b0e6c798ef8ec7cab
-CATEGORIES:theater
-DESCRIPTION:Programación en Teatro del Barrio\n\nhttps://teatrodelbarrio.
- com/capsula-radio/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Joe King Carrasco
-DTSTART;TZID=Europe/Madrid:20260717T213000
-UID:f48bdac671526d1a518e2eafb70129cfbbb19d8dcb3a644db4cdb3c11c5cce2f
-CATEGORIES:music
-DESCRIPTION:Blues en la Villa / Concierto\n\nhttps://salavillanos.es/event
- o/joe-king-carrasco/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Homenaje A Ángel: Anti Idols + El Señor Que Te Molesta + El Monj
- e Y Los Ansias
-DTSTART;TZID=Europe/Madrid:20260717T213000
-UID:1f85d33680a936798cc6f68efe978306202942edf5ed08feb33e027a34d03962
-CATEGORIES:music
-DESCRIPTION:Precio de las entradas: 5€/8€ Entradas a la venta en movin
- gtickets Bio/enlaces bandas: Anti Idols_facebook + Anti Idols_bandcamp + A
- nti Idols_X + Anti Idols_instagram El Señor que te molesta_facebook + El\
- n\nhttps://gruta77.com/events/homenaje-a-angel-anti-idols-matarte-seria-po
- co-el-senor-que-te-molesta-el-monje-y-los-ansias/var/ri-0.l-L2
-LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Copia Perfecta
-DTSTART;TZID=Europe/Madrid:20260717T220000
-UID:3073a256f0759fd6968e381a91e917f6dc80098813fe88f53c6b2d8fb5ac412d
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 128 min
- utos | No recomendada para menores de 16 años\n\nOriginal title: L'Affair
- e Bojarski\n\nRelease year: 2026\n\nOriginal language: FR\n\nAudio: VOSE\n
- \nhttps://www.pillalas.com/pase/1079048/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Grazia
-DTSTART;TZID=Europe/Madrid:20260717T220000
-UID:220538ba75672c1db1c89c721fd4759d2831b564a1802389d4745b8914b8c475
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 132 min
- utos | No recomendada para menores de 12 años\n\nRelease year: 2025\n\nOr
- iginal language: IT\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/107904
- 9/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El día de la revelación
-DTSTART;TZID=Europe/Madrid:20260717T221000
-DTEND;TZID=Europe/Madrid:20260718T003600
-UID:c7e965c9946f172755bede186133a34f320bc56fd23d658487e6c1ef09c43cce
-CATEGORIES:cinema
-DESCRIPTION:Si descubrieras que no estamos solos\, si alguien te abriera l
- os ojos y te lo demostrase\, ¿te asustarías? Este verano\, la verdad ser
- á revelada a siete mil millones de personas. Llega... el día de la revel
- ación.\n\nOriginal title: Disclosure Day\n\nRelease year: 2026\n\nOrigina
- l language: EN\n\nAudio: VOSE\n\nhttps://cinesembajadores.es/pelicula/el-d
- ia-de-la-revelacion-vose/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Un Poeta
-DTSTART;TZID=Europe/Madrid:20260717T221000
-UID:5d90d5a67c5f6b393c1679be41957a83e1d6e714c617507de6a17a4c0e0aa47b
-CATEGORIES:cinema
-DESCRIPTION:Versión Original Castellano | Duración 123 minutos | No reco
- mendada para menores de 16 años\n\nRelease year: 2025\n\nOriginal languag
- e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1079160/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Super Fly
-DTSTART;TZID=Europe/Madrid:20260717T221500
-UID:94bbea7775b5e0d9e3a08c60ef4cd0b5d1d28cce972e3fafb0605c8cc4f4f311
-CATEGORIES:cinema
-DESCRIPTION:Priest\, un traficante de cocaína que disfruta de una vida lu
- josa en Harlem\, decide retirarse con un último gran golpe: vender 30 kil
- os para conseguir medio millón de dólares. Con una banda sonora compuest
- a por Curtis Mayfield\, considerada un hito del soul y el funk que superó
-  en impacto a la propia película\, Super Fly se convirtió en una de las 
- obras más taquilleras y polémicas del blaxploitation .\n\nRelease year: 
- 1972\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://www.cinetecamadrid
- .com/programacion/cineplaza-superestrellas-3-super-fly
-LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Porque nos da la gana\, por Psicosis Gonsales & Supremme de Luxe. 
- MÁS BONITA QUE NINGUNA
-DTSTART;TZID=Europe/Madrid:20260717T221500
-UID:f03cf7197a7943c9173f3aa712376dd74130a6aae31004f7b492dd02332c99df
-CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 1 plazas!\n\nhttps://teatrodelbarrio.com/porq
- ue-nos-da-la-gana-por-psicosis-gonsales-supremme-de-luxe-mas-bonita-que-ni
- nguna/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hombres De Acero (Wasteman)
-DTSTART;TZID=Europe/Madrid:20260717T222500
-UID:acd55c680a728d7ad99d623cab871510871452c9f208adf2c43a079e30e148f1
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 90 minu
- tos | No recomendada para menores de 18 años\n\nOriginal title: Wasteman\
- n\nRelease year: 2026\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://w
- ww.pillalas.com/pase/1079050/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Viaje Al País De Los Blancos
-DTSTART;TZID=Europe/Madrid:20260717T222500
-UID:955987c6379862943e25e109792cd1207d01c985786729aa1620cdf9b6b7a819
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 110 min
- utos | No recomendada para menores de 12 años\n\nRelease year: 2026\n\nOr
- iginal language: CA\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/107916
- 1/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El Drama
-DTSTART;TZID=Europe/Madrid:20260717T223000
-DTEND;TZID=Europe/Madrid:20260718T001600
-UID:7bc33e0733db352418ad6225c0156deec0584676f613c6dba26107fab8483e18
-CATEGORIES:cinema
-DESCRIPTION:Una pareja\, en los días previos a su boda\, se enfrenta a un
- a crisis cuando unas inesperadas revelaciones desbaratan lo que uno de ell
- os creía saber sobre el otro.\n\nOriginal title: The Drama\n\nRelease yea
- r: 2026\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://cinesembajadore
- s.es/pelicula/el-drama-vose/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Velito El Bufon
-DTSTART;TZID=Europe/Madrid:20260717T235900
-UID:b6db0e05190dac90522cfc32b5139d98711bb302c5861e809712e315dd5126a2
-CATEGORIES:other
-DESCRIPTION:Club / Latin / Urban\n\nhttps://salavillanos.es/evento/velito-
- el-bufon-2/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:La odisea
 DTSTART;TZID=Europe/Madrid:20260718T114500
 DTEND;TZID=Europe/Madrid:20260718T143700
@@ -1875,7 +1405,7 @@ SUMMARY:Los que hablan
 DTSTART;TZID=Europe/Madrid:20260718T130000
 UID:a6711ffe76634c031ee071f861538d40db4a375abd7c460805c3c6f07f857d62
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 1 plazas!\n\nhttps://teatrodelbarrio.com/los-
+DESCRIPTION:¡Ya solo quedan 3 plazas!\n\nhttps://teatrodelbarrio.com/los-
  que-hablan-teatro-del-barrio/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
@@ -2103,7 +1633,7 @@ SUMMARY:Ultrashow de Miguel Noguera.
 DTSTART;TZID=Europe/Madrid:20260718T193000
 UID:9e0e041ccac22726c88a37d47152cb3289ab1988c2d653848c5e597455886d85
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 7 plazas!\n\nhttps://teatrodelbarrio.com/ultr
+DESCRIPTION:¡Ya solo quedan 2 plazas!\n\nhttps://teatrodelbarrio.com/ultr
  ashow-de-miguel-noguera/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
@@ -2898,10 +2428,10 @@ DESCRIPTION:Epopeya mitológica que sigue la historia de Odiseo y su largo
 LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:RAY COLOM & RICHARD KRULL TRIO
+SUMMARY:RICHARD KRULL - REUNIÓN
 DTSTART;TZID=Europe/Madrid:20260720T200000
 DTEND;TZID=Europe/Madrid:20260721T200000
-UID:9c9992f59bfe1212db38e0d1a16816a5615baf8086c8f984c040499d7bf493d1
+UID:a62d31bb0d8d4bc477bf199d3ba9b48a869d40c620c51c58c86e571fdb31cbfc
 CATEGORIES:music
 DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
   el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
@@ -4654,8 +4184,9 @@ SUMMARY:Misión Drag King: El secuestro supremo\, por Distrito Drag King.
 DTSTART;TZID=Europe/Madrid:20260725T193000
 UID:75fa5aeb00054f19bb92c819ca13f36933a27b3e1879635713fa09b204c3fbcd
 CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/mision-drag-king-el-
- secuestro-supremo-por-distrito-drag-king-mas-bonita-que-ninguna/
+DESCRIPTION:¡Ya solo quedan 26 plazas!\n\nhttps://teatrodelbarrio.com/mis
+ ion-drag-king-el-secuestro-supremo-por-distrito-drag-king-mas-bonita-que-n
+ inguna/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -5074,6 +4605,26 @@ UID:615f40bb6f29d8178b588a3e99fafb628c2482ea3a24b1ccc2c13354249ff17f
 CATEGORIES:other
 DESCRIPTION:Club\n\nhttps://salavillanos.es/evento/after-party-tony-succar
  -2/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mercado de las Ranas
+DTSTART;TZID=Europe/Madrid:20260801T120000
+DTEND;TZID=Europe/Madrid:20260801T200000
+UID:65e826142aced1338112c506f415192caa7f1335fcd3188d03c9104a76209f24
+CATEGORIES:market
+DESCRIPTION:Mercado del Barrio de las Letras con puestos de artesanía\, d
+ iseño\, moda y gastronomía en la calle Huertas.\n\nhttps://barrioletras.
+ com/mercado-de-las-ranas/
+LOCATION:Barrio de las Letras - Calle de las Huertas\, 2-47\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Noche De Las Cuerdas Africanas
+DTSTART;TZID=Europe/Madrid:20260801T210000
+UID:b775fbecbbd92d7873282609793a39dd3dbae088aaf0599a632fec8c5e5fd4c5
+CATEGORIES:music
+DESCRIPTION:Concierto / Afro\n\nhttps://salavillanos.es/evento/la-noche-de
+ -las-cuerdas-africanas/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 END:VCALENDAR

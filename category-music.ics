@@ -2,39 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:NATALIA CALDERÓN & SEBASTIÁN CHAMES QUARTET
-DTSTART;TZID=Europe/Madrid:20260717T200000
-DTEND;TZID=Europe/Madrid:20260718T200000
-UID:d6c9317cf5dfa2355f325f14c1634af06eb639855be3207a94fac346d9a990f1
-CATEGORIES:music
-DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
-  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
- s://ateneodemadrid.com/evento/natalia-calderon-sebastian-chames-quartet/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Joe King Carrasco
-DTSTART;TZID=Europe/Madrid:20260717T213000
-UID:f48bdac671526d1a518e2eafb70129cfbbb19d8dcb3a644db4cdb3c11c5cce2f
-CATEGORIES:music
-DESCRIPTION:Blues en la Villa / Concierto\n\nhttps://salavillanos.es/event
- o/joe-king-carrasco/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Homenaje A Ángel: Anti Idols + El Señor Que Te Molesta + El Monj
- e Y Los Ansias
-DTSTART;TZID=Europe/Madrid:20260717T213000
-UID:1f85d33680a936798cc6f68efe978306202942edf5ed08feb33e027a34d03962
-CATEGORIES:music
-DESCRIPTION:Precio de las entradas: 5€/8€ Entradas a la venta en movin
- gtickets Bio/enlaces bandas: Anti Idols_facebook + Anti Idols_bandcamp + A
- nti Idols_X + Anti Idols_instagram El Señor que te molesta_facebook + El\
- n\nhttps://gruta77.com/events/homenaje-a-angel-anti-idols-matarte-seria-po
- co-el-senor-que-te-molesta-el-monje-y-los-ansias/var/ri-0.l-L2
-LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:THE VELVET SERENADES
 DTSTART;TZID=Europe/Madrid:20260719T200000
 DTEND;TZID=Europe/Madrid:20260719T200000
@@ -55,10 +22,10 @@ DESCRIPTION:Blues en la Villa / Concierto\n\nhttps://salavillanos.es/event
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:RAY COLOM & RICHARD KRULL TRIO
+SUMMARY:RICHARD KRULL - REUNIÓN
 DTSTART;TZID=Europe/Madrid:20260720T200000
 DTEND;TZID=Europe/Madrid:20260721T200000
-UID:9c9992f59bfe1212db38e0d1a16816a5615baf8086c8f984c040499d7bf493d1
+UID:a62d31bb0d8d4bc477bf199d3ba9b48a869d40c620c51c58c86e571fdb31cbfc
 CATEGORIES:music
 DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
   el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
@@ -354,6 +321,15 @@ UID:a154f2c96e247526dac573a55165450b74573f34c45dc3f5cadf8f8a5170eb55
 CATEGORIES:music
 DESCRIPTION:Concierto / Latin\n\nhttps://salavillanos.es/evento/tony-mimi-
  succar-2/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Noche De Las Cuerdas Africanas
+DTSTART;TZID=Europe/Madrid:20260801T210000
+UID:b775fbecbbd92d7873282609793a39dd3dbae088aaf0599a632fec8c5e5fd4c5
+CATEGORIES:music
+DESCRIPTION:Concierto / Afro\n\nhttps://salavillanos.es/evento/la-noche-de
+ -las-cuerdas-africanas/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 END:VCALENDAR
