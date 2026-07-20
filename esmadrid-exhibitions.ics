@@ -2,19 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Cleopatra\, la exposición inmersiva
-DTSTART;TZID=Europe/Madrid:20190912T000000
-DTEND;TZID=Europe/Madrid:20260719T000000
-UID:68443e7f138201dd482616240171cb3eee084f8f033645d5eec1b4259124d587
-CATEGORIES:exhibition
-DESCRIPTION:Experiencia que transporta al corazón del Egipto helenístico
-  para redescubrir a una de las mujeres más fascinantes de la historia (MA
- D - Madrid Artes Digitales. Centro de Experiencias Inmersiv\n\nhttps://ma
- dridartesdigitales.com/agenda/cleopatra/
-LOCATION:MAD (Madrid Artes Digitales) Centro de Experiencias Inmersivas - 
- de Legazpi\, 8\, Madrid\, 28045
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Exponencial. De analógicos a digitales
 DTSTART;TZID=Europe/Madrid:20240514T000000
 DTEND;TZID=Europe/Madrid:20271231T000000
@@ -26,21 +13,6 @@ DESCRIPTION:Exposición permanente que explora el creciente impacto que ha
  ntelefonica.com/
 LOCATION:Espacio Fundación Telefónica - de Fuencarral\, 3\, Madrid\, 280
  04
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Colección Masaveu. Arte español del siglo XX. De Picasso a Barce
- ló
-DTSTART;TZID=Europe/Madrid:20241009T000000
-DTEND;TZID=Europe/Madrid:20260719T000000
-UID:5379dd6228430bbfe565fcc929092fca70fe08517a1d791e5aa75105d9d59704
-CATEGORIES:exhibition
-DESCRIPTION:Exposición que reúne las obras más destacadas del arte del 
- siglo XX presentes en las colecciones Masaveu de artistas como Pablo Pica
- sso\, Sorolla o Salvador Dalí (Fundación María\n\nhttps://www.fundac
- ioncristinamasaveu.com/portfolio/exposicion-coleccion-masaveu-de-picasso-a
- -barcelo/
-LOCATION:Fundación María Cristina Masaveu Peterson - de Alcalá Galiano\
- , 6\, Madrid\, 28071
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Artemisa: la magia de la Luna
@@ -297,19 +269,6 @@ DESCRIPTION:La muestra presenta un excepcional conjunto de tablas policrom
 LOCATION:Museo Arqueológico Nacional - de Serrano\, 13\, Madrid\, 28001
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gabinete de obra en papel (IV)
-DTSTART;TZID=Europe/Madrid:20260219T000000
-DTEND;TZID=Europe/Madrid:20260719T000000
-UID:fd000f973d8ea3e4f8aaabf0c4ee472e576d68f4bac2ab8b9c3274dcc3689576
-CATEGORIES:exhibition
-DESCRIPTION:Exposición fotográfica que incluye una selección de imágen
- es realizadas entre la generación de 1930 y comienzos del siglo XXI (Fund
- ación María Cristina Masaveu Peterson. Hasta 19 julio).\n\nhttp://www.fu
- ndacioncristinamasaveu.com/portfolio/gabinete-de-obra-en-papel-iv/
-LOCATION:Fundación María Cristina Masaveu Peterson - de Alcalá Galiano\
- , 6\, Madrid\, 28071
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Madrid Colecciona. 50 colecciones de arte contemporáneo
 DTSTART;TZID=Europe/Madrid:20260226T000000
 DTEND;TZID=Europe/Madrid:20260906T000000
@@ -343,21 +302,6 @@ DESCRIPTION:Exposición que presenta un recorrido por la obra y vida de la
   reconocida poetisa madrileña (Casa del Lector - Matadero. Hasta 15 sept)
  .\n\nhttps://casalector.fundaciongsr.org/gloria-fuertes-hoy/
 LOCATION:Casa del Lector (Matadero) - de la Chopera\, 14\, Madrid\, 28045
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Plaza Mayor de Madrid: miradas que habitan
-DTSTART;TZID=Europe/Madrid:20260305T000000
-DTEND;TZID=Europe/Madrid:20260719T000000
-UID:55d3b2ceace78841800017a842e5d30b4b019127177e2af75da6e9025c5c4bd7
-CATEGORIES:exhibition
-DESCRIPTION:Exposición que reúne fotografías realizadas por vecinos\, m
- ostrando las miradas y vidas que dan sentido cotidiano a este espacio hist
- órico (Imprenta Municipal-Artes del Libr\n\nhttps://www.madrid.es/portale
- s/munimadrid/es/Plaza-Mayor-de-Madrid-miradas-que-la-habitan/?vgnextfmt=de
- fault&vgnextoid=62f40edcccdac910VgnVCM100000891ecb1aRCRD&vgnextchannel=a68
- fed8a96b06010VgnVCM100000dc0ca8c0RCRD
-LOCATION:Imprenta Municipal-Artes del Libro - de Concepción Jerónima\, 1
- 5\, Madrid\, 28012
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:De brebajes y serpientes: entre la triaca magna y una emergencia d
@@ -594,20 +538,6 @@ LOCATION:La Casa de la Arquitectura (Arquería de Nuevos Ministerios) - de
   la Castellana\, 67\, Madrid\, 28046
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Las mejores letras en español
-DTSTART;TZID=Europe/Madrid:20260423T000000
-DTEND;TZID=Europe/Madrid:20260719T000000
-UID:dbddbfc5060e67bf527ebf19d812e6dc9d608fe303d7a9d9b1273cc1a2ec54a3
-CATEGORIES:exhibition
-DESCRIPTION:Esta exposición proponer buscar el punto de vista literario e
- n varias letras de canciones de artistas españoles (Instituto Cervantes. 
- Hasta 19 julio).\n\nhttps://cultura.cervantes.es/ESPANYA/es/id/188979?_gl=
- 1*1ntdg3a*port_ga*ODIxMDY0Mjg2LjE3NzY3NjYzMDE.*port_ga_Z9V7YFW9ZK*czE3NzY3
- NjYzMDEkbzEkZzEkdDE3NzY3NjYzOTkkajU1JGwwJGgw*glob_ga*ODIxMDY0Mjg2LjE3NzY3N
- jYzMDE.*glob_ga_57JPCLFY9Z*czE3NzY3NjYzMDEkbzEkZzEkdD
-LOCATION:Instituto Cervantes - de Alcalá\, 49\, Madrid\, 28014
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Radical Rehab. Arquitectura y Patrimonio en España (1975–2025)
 DTSTART;TZID=Europe/Madrid:20260423T000000
 DTEND;TZID=Europe/Madrid:20270328T000000
@@ -631,18 +561,6 @@ DESCRIPTION:Exposición sobre la historia del Archivo de la Fundación Fed
   Estudiantes. Hasta 26 julio).\n\nhttps://residenciadeestudiantes.com/expo
  siciones/lorca-y-el-archivo-memoria-en-movimiento
 LOCATION:Residencia de Estudiantes - del Pinar\, 21-23\, Madrid\, 28006
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mariela Scafati. Nombrar el mundo
-DTSTART;TZID=Europe/Madrid:20260424T000000
-DTEND;TZID=Europe/Madrid:20260719T000000
-UID:03fd0477e492425f665917e8e4850b8b7f4ff7c8d7edc917b8950bc3c181981e
-CATEGORIES:exhibition
-DESCRIPTION:La artista argentina expone varias de sus instalaciones en est
- a muestra que supone un recorrido por su trayectoria artística (Conde Duq
- ue. Hasta 19 jul).\n\nhttps://www.condeduquemadrid.es/actividades/mariela-
- scafati
-LOCATION:Conde Duque - del Conde Duque\, 11\, Madrid\, 28015
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Horizonte de Keops: Una expedición por el Antiguo Egipto
@@ -845,18 +763,6 @@ LOCATION:Centro Cultural Coreano en España - de la Castellana\, 15\, Madr
  id\, 28046
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nueva-Vieja Pintura
-DTSTART;TZID=Europe/Madrid:20260514T000000
-DTEND;TZID=Europe/Madrid:20260719T000000
-UID:ec3d8663cd21904ad591cf7950a114afbf1d03bcb5a2ad8344fed395df1dfe84
-CATEGORIES:exhibition
-DESCRIPTION:Exposición colectiva que reflexiona sobre la situación actua
- l de la pintura contemporánea (Sala de Arte Joven. Hasta 19 julio).\n\nht
- tps://www.comunidad.madrid/actividades/2026/exposicion-nueva-vieja-pintura
-LOCATION:Sala de Arte Joven de la Comunidad de Madrid - de América\, 13\,
-  Madrid\, 28002
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Drift. Yann Gross
 DTSTART;TZID=Europe/Madrid:20260516T000000
 DTEND;TZID=Europe/Madrid:20260726T000000
@@ -941,18 +847,6 @@ DESCRIPTION:Instalación de gran formato del artista Carlos Amorales que e
  sademexico.es/exposicion/nube-negra-de-carlos-amorales/
 LOCATION:Fundación Casa de México en España - de Alberto Aguilera\, 20\
  , Madrid\, 28015
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Planeta azul ¿Planeta agua?
-DTSTART;TZID=Europe/Madrid:20260522T000000
-DTEND;TZID=Europe/Madrid:20260719T000000
-UID:f7036b29cd0ca3a4ca6f4d435a08c171b0913294337316e0bf8c51d08e6645ad
-CATEGORIES:exhibition
-DESCRIPTION:Instalación artística que invita a reflexionar de forma lúd
- ica sobre el agua como un bien escaso que debemos cuidar (Puerta del Sol. 
- Hasta 19 julio).\n\nhttps://www.fundacioncanal.com/material-para-medios/pl
- aneta-azul-planeta-agua/
-LOCATION:Puerta del Sol - Puerta del Sol\,\, Madrid\, 28013
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ewa Juszkiewicz
@@ -1246,17 +1140,6 @@ DESCRIPTION:Un análisis sobre poder\, propaganda y acción colectiva en E
 LOCATION:Círculo de Bellas Artes - de Alcalá\, 42\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ruina Montium. Raphaëlle Peria (PHotoESPAÑA 2026)
-DTSTART;TZID=Europe/Madrid:20260605T000000
-DTEND;TZID=Europe/Madrid:20260927T000000
-UID:39498a0b8a75d71d7ebd70bec9a7a3d25b697d2e5161064175e637151c0e1ffd
-CATEGORIES:exhibition
-DESCRIPTION:La artista reinterpreta el paisaje de Las Médulas mediante fo
- tografía intervenida y materia mineral (Círculo de Bellas Artes - Sala M
- inerva. Hasta 27 septiembre).\n\nhttps://phe.es/exposicion/ruina-montium/
-LOCATION:Círculo de Bellas Artes - de Alcalá\, 42\, Madrid\, 28014
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Volver a imaginar (PHotoESPAÑA 2026)
 DTSTART;TZID=Europe/Madrid:20260605T000000
 DTEND;TZID=Europe/Madrid:20260927T000000
@@ -1329,6 +1212,19 @@ DESCRIPTION:Exposición fotográfica que invita a reflexionar sobre la rel
  Madrid. Hasta 2 septiembre).\n\nhttps://leica-camera.com/es-ES/eventos/exp
  osicion-among-alone
 LOCATION:Madrid - de José Ortega y Gasset\, 34\, Madrid\, Madrid\, 28006
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elena Jiménez. National Prize for Graphic Art
+DTSTART;TZID=Europe/Madrid:20260609T000000
+DTEND;TZID=Europe/Madrid:20260726T000000
+UID:f8c4bd9ea6367257b88d2a644af2cfee2b799f51440467dea55b28039e383013
+CATEGORIES:exhibition
+DESCRIPTION:Exposición dedicada al trabajo de la artista visual recientem
+ ente galardonada con el más importante premio de arte gráfico en Espa
+ ña (Real Academia de Bellas Artes de San Fernando.\n\nhttps://www.realaca
+ demiabellasartessanfernando.com/actividades/exposiciones/elena-jimenez/
+LOCATION:Real Academia de Bellas Artes de San Fernando - de Alcalá\, 13\,
+  Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Prado. Siglo XXI
@@ -1671,19 +1567,6 @@ DESCRIPTION:Los alumnos participantes en la cuarta edición de este progra
  useo (Museo del Traje. 24 jun - 7 sept).\n\nhttps://www.cultura.gob.es/mtr
  aje/exposicion/temporales/2026/disenart04.html
 LOCATION:Museo del Traje - de Juan de Herrera\, 2\, Madrid\, 28040
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Obras invitadas. Fernando Mignoni
-DTSTART;TZID=Europe/Madrid:20260624T000000
-DTEND;TZID=Europe/Madrid:20260719T000000
-UID:adcd609be6a67d550448c0cb885ddd86fe2407b20b81cd45a602eee532b9fe54
-CATEGORIES:exhibition
-DESCRIPTION:La muestra presenta una obra perteneciente a la serie Arquite
- ctura espacial\, culminación de una larga investigación sobre las posibi
- lidades de la pintura y su relación con el espacio\n\nhttps://www.fundaci
- oncristinamasaveu.com/portfolio/obras-invitadas-fernando-mignoni/
-LOCATION:Fundación María Cristina Masaveu Peterson - de Alcalá Galiano\
- , 6\, Madrid\, 28071
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:La Perla Peregrina. Fernando Sánchez Castillo
