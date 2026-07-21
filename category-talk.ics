@@ -2,31 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Los Desayunos del Ateneo con Francisco de la Torre
-DTSTART;TZID=Europe/Madrid:20260720T093000
-DTEND;TZID=Europe/Madrid:20260720T093000
-UID:aeaf1926a137b89324c534473e7a8952b6aa9d3d17bdd369962a445cebaba62c
-CATEGORIES:talk
-DESCRIPTION:Con Francisco de la Torre\, Alcalde de Málaga\, en conversaci
- ón con los periodistas Ana Pardo de Vera\, Guillermo Lerma y Paula de las
-  Heras. \n\nCátedra Mayor. 9:30h.\n\nhttps://ateneodemadrid.com/evento/lo
- s-desayunos-del-ateneo-con-francisco-de-la-torre/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Los eclipses de Sol
-DTSTART;TZID=Europe/Madrid:20260720T200000
-DTEND;TZID=Europe/Madrid:20260720T200000
-UID:e13dde15e0b916d714c7b90ea9dc31a96c5c2b19630571f7ef9202c5acc9372a
-CATEGORIES:talk
-DESCRIPTION:Sección de Ciencias y tecnología en colaboración con Stars4
- all. Presentación del libro y testeo insitu de la seguridad de las gafas 
- de eclipse.  Sara Cantó. Participan Alejandro Sánchez de Miguel autor 
- Jesús Gallego Sandra Benítez Herrera. Sala Ramón y Cajal. 20:00h.\n\nht
- tps://ateneodemadrid.com/evento/los-eclipses-de-sol/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Presentación: «Soldados y senderos. Un mundo fronterizo entre el
   Pirineo y el Ebro»\, por el Ministerio de Defensa
 DTSTART;TZID=Europe/Madrid:20260723T190000
@@ -40,5 +15,18 @@ DESCRIPTION:Manuel Martos Roldán y el coronel D. Alfonso Garro Novillo vi
  desnivel.com/agenda/soldados-y-senderos-un-mundo-fronterizo-entre-el-pirin
  eo-y-el-ebro-por-el-ministerio-de-defensa/443/
 LOCATION:Libreria Desnivel - Plaza de Matute\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los eclipses de Sol
+DTSTART;TZID=Europe/Madrid:20260723T200000
+DTEND;TZID=Europe/Madrid:20260723T200000
+UID:956eea91122cd04192c983cbdafc10760af68492cfc93fffea3aaa08fb874e39
+CATEGORIES:talk
+DESCRIPTION:Sección de Ciencias y tecnología en colaboración con Stars4
+ all. Presentación del libro y testeo insitu de la seguridad de las gafas 
+ de eclipse. Participan Alejandro Sánchez de Miguel autor del libro\, Jes
+ ús Gallego Maestro\, Sandra Benítez Herrera. Sala Ramón y Cajal. 20:00h
+ .\n\nhttps://ateneodemadrid.com/evento/los-eclipses-de-sol/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 END:VCALENDAR
