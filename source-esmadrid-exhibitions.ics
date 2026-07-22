@@ -2,19 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Exponencial. De analógicos a digitales
-DTSTART;TZID=Europe/Madrid:20240514T000000
-DTEND;TZID=Europe/Madrid:20271231T000000
-UID:f5757770ba2619f835632f368e9ae1c25e8353ae577ea62f600b1f84611272c3
-CATEGORIES:exhibition
-DESCRIPTION:Exposición permanente que explora el creciente impacto que ha
-  tenido el desarrollo de las telecomunicaciones en todos los ámbitos de n
- uestras vidas (Espacio Fundación Telefónica.\n\nhttp://espacio.fundacio
- ntelefonica.com/
-LOCATION:Espacio Fundación Telefónica - de Fuencarral\, 3\, Madrid\, 280
- 04
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Artemisa: la magia de la Luna
 DTSTART;TZID=Europe/Madrid:20241206T000000
 DTEND;TZID=Europe/Madrid:20261227T000000
@@ -332,12 +319,12 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HELNWEIN: mundos invertidos
 DTSTART;TZID=Europe/Madrid:20260325T000000
-DTEND;TZID=Europe/Madrid:20261230T000000
+DTEND;TZID=Europe/Madrid:20261130T000000
 UID:589bff2b47fe2569cb5e1920515f441c0e2aa7c4a42b54347667e7768faccc2a
 CATEGORIES:exhibition
 DESCRIPTION:El extraordinario universo visual del artista austro irlandés
   Gottfried Helnwein protagoniza esta exposición que reúne varias de sus 
- más icónicas obras (SOLO Independencia. Hasta 30 diciembre).\n\nhttps://
+ más icónicas obras (SOLO Independencia. Hasta 30 noviembre).\n\nhttps://
  solocontemporary.com/projects/helnwein-mundos-invertidos/
 LOCATION:SOLO Independencia - de la Independencia\, 5\, Madrid\, 28001
 END:VEVENT
@@ -1744,6 +1731,18 @@ DESCRIPTION:Viaje visual por las estaciones y el ferrocarril de la España
 LOCATION:Museo del Ferrocarril - de las Delicias\, 61\, Madrid\, 28045
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:La mirada de Wyrsch
+DTSTART;TZID=Europe/Madrid:20260701T000000
+DTEND;TZID=Europe/Madrid:20260927T000000
+UID:d2376a62a9af9f022230993aa05666bdef0ac29745fe7932851b8f3704bcf913
+CATEGORIES:exhibition
+DESCRIPTION:Una selección de fotografías tomadas por el ferroviario y fo
+ tógrafo suizo retratan la red ferroviaria española entre 1950 y 1960 (Mu
+ seo del Ferrocarril. 1 jul - 27 sept).\n\nhttps://museodelferrocarril.org/
+ exposiciones/la-mirada-de-wyrsch/
+LOCATION:Museo del Ferrocarril - de las Delicias\, 61\, Madrid\, 28045
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Verano en el Museo
 DTSTART;TZID=Europe/Madrid:20260701T000000
 DTEND;TZID=Europe/Madrid:20260906T000000
@@ -1864,6 +1863,19 @@ LOCATION:Centro de Arte Dos de Mayo (CA2M) / Móstoles - de la Constituci
  ón \, 23\, (Móstoles)\, Móstoles\, 28931
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Antidotum tarantulae. Blanca Gracia
+DTSTART;TZID=Europe/Madrid:20260709T000000
+DTEND;TZID=Europe/Madrid:20270110T000000
+UID:a17cfddf31d038b7a50366be27adc44580317e0affd2c99a115be017423b5202
+CATEGORIES:exhibition
+DESCRIPTION:Instalación audiovisual realizada por la artista madrileña e
+ n la que se reflexiona sobre el poder del lenguaje y la voz como herramien
+ ta social (CA2M. 9 jul - 10 ene).\n\nhttps://ca2m.org/exposiciones/blanca-
+ gracia-antidotum-tarantulae
+LOCATION:Centro de Arte Dos de Mayo (CA2M) / Móstoles - de la Constituci
+ ón \, 23\, (Móstoles)\, Móstoles\, 28931
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Uneasy Riders. La ciudad en ruta
 DTSTART;TZID=Europe/Madrid:20260710T000000
 DTEND;TZID=Europe/Madrid:20261025T000000
@@ -1914,19 +1926,6 @@ DESCRIPTION:Relevantes fondos bibliográficos y museográficos que permite
  ógico Nacional. 14 jul a 18 oct).\n\nhttps://www.man.es/man/exposiciones/
  vitrina0/20260714-teatro-clasico.html
 LOCATION:Museo Arqueológico Nacional - de Serrano\, 13\, Madrid\, 28001
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Arte plumario: naturaleza\, identidad y poder
-DTSTART;TZID=Europe/Madrid:20260716T000000
-DTEND;TZID=Europe/Madrid:20270117T000000
-UID:5aa0e5c6bf5416a6ac534ba5ba701f6d1786a202cd267a6233189af86254aee0
-CATEGORIES:exhibition
-DESCRIPTION:Exposición sobre la evolución del uso de las plumas en diver
- sas culturas (Museo Nacional de Ciencias Naturales. 16 jul a 17 ene 2027).
- \n\nhttps://www.mncn.csic.es/es/visita-el-mncn/exposiciones/arte-plumario-
- naturaleza-identidad-y-poder
-LOCATION:Museo Nacional de Ciencias Naturales - de José Gutierrez Abascal
- \, 2\, Madrid\, 28006
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pedro Moreno. Pro domo sua. Arte teatral y cinematográfico
