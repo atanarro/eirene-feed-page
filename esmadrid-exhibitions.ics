@@ -2,6 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
+SUMMARY:Exponencial. De analógicos a digitales
+DTSTART;TZID=Europe/Madrid:20240514T000000
+DTEND;TZID=Europe/Madrid:20271231T000000
+UID:f5757770ba2619f835632f368e9ae1c25e8353ae577ea62f600b1f84611272c3
+CATEGORIES:exhibition
+DESCRIPTION:Exposición permanente que explora el creciente impacto que ha
+  tenido el desarrollo de las telecomunicaciones en todos los ámbitos de n
+ uestras vidas (Espacio Fundación Telefónica.\n\nhttp://espacio.fundacio
+ ntelefonica.com/
+LOCATION:Espacio Fundación Telefónica - de Fuencarral\, 3\, Madrid\, 280
+ 04
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Artemisa: la magia de la Luna
 DTSTART;TZID=Europe/Madrid:20241206T000000
 DTEND;TZID=Europe/Madrid:20261227T000000
@@ -304,19 +317,6 @@ DESCRIPTION:Una exposición que reúne más de 100 piezas de alto valor qu
 LOCATION:Real Academia de Medicina - de Arrieta\, 12\, Madrid\, 28012
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Un instante atrapado en bronce: patrimonio recuperado
-DTSTART;TZID=Europe/Madrid:20260324T000000
-DTEND;TZID=Europe/Madrid:20261025T000000
-UID:e17142fd5b6bf10be8f2b9b67a6ef31abca1b9e25093331e91611ea6fea3c3a2
-CATEGORIES:exhibition
-DESCRIPTION:Dos excepcioales grupos escultóricos elaborados en bronce vue
- lven al patrimonio arqueológico español y se pueden conocer en esta mues
- tra (Museo Arqueológico Nacional. Hasta 25 octubre).\n\nhttps://www.man.e
- s/man/exposiciones/exposiciones-temporales-en-exposicion-permanente/202604
- 24-instante-atrapado-bronce.html
-LOCATION:Museo Arqueológico Nacional - de Serrano\, 13\, Madrid\, 28001
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:HELNWEIN: mundos invertidos
 DTSTART;TZID=Europe/Madrid:20260325T000000
 DTEND;TZID=Europe/Madrid:20261130T000000
@@ -445,18 +445,6 @@ DESCRIPTION:Exposición fotográfica que recorre las dos décadas de vida
  s/show/tiempo-juntos-2006-2026-20-anos-de-casa-arabe-y-de-amistad-entre-es
  pana-y-el-mundo-arabe
 LOCATION:Casa Árabe - de Alcalá\, 62\, Madrid\, 28009
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Arcade Origins: el comienzo de la industria del videojuego
-DTSTART;TZID=Europe/Madrid:20260417T000000
-DTEND;TZID=Europe/Madrid:20261004T000000
-UID:2e8b846737eab8f2b63751e9353eb1f742394a9931ea713d6e80cd198571a6f5
-CATEGORIES:exhibition
-DESCRIPTION:Exposición que recorre la historia del videojuego\, desde sus
-  inicios hasta la actualidad (OXO. Museo del Videjuego en Madrid. Lunes a 
- domingos).\n\nhttps://oxomuseomadrid.com/exposicion-arcade-origins/
-LOCATION:OXO. Museo del Videojuego en Madrid - del Postigo de San Martín\
- , 8\, Madrid\, 28013
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Volver a mirar
@@ -1453,19 +1441,6 @@ LOCATION:Museo Nacional Thyssen-Bornemisza - del Prado\, 8\, Madrid\, 2801
  4
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Latencia
-DTSTART;TZID=Europe/Madrid:20260618T000000
-DTEND;TZID=Europe/Madrid:20260830T000000
-UID:5b4547dcf43cfe92ec15a0558701db77f3f2551e1ddf71bc4a5ecce9fe68fbde
-CATEGORIES:exhibition
-DESCRIPTION:Exposición colectiva en la que se aborda la memoria como un p
- roceso vivo\, maleable y en constante transformación (Fundación Casa de 
- México en España. Hasta 30 ago).\n\nhttps://www.casademexico.es/exposici
- on/latencia/
-LOCATION:Fundación Casa de México en España - de Alberto Aguilera\, 20\
- , Madrid\, 28015
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Madrid en construcción\, 1940-1985
 DTSTART;TZID=Europe/Madrid:20260618T000000
 DTEND;TZID=Europe/Madrid:20260922T000000
@@ -1876,6 +1851,32 @@ LOCATION:Centro de Arte Dos de Mayo (CA2M) / Móstoles - de la Constituci
  ón \, 23\, (Móstoles)\, Móstoles\, 28931
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ciclo de vídeo animado de las colecciones del Museo CA2M
+DTSTART;TZID=Europe/Madrid:20260709T000000
+DTEND;TZID=Europe/Madrid:20270110T000000
+UID:a7c11f997c05741a3cfe735c5a5aed3b3ef2178facbfef54b7cc0f31b67f1141
+CATEGORIES:exhibition
+DESCRIPTION:Ciclo expositivo que invita a reflexionar sobre el potencial d
+ el medio audiovisual para la experimentación artística (CA2M. 9 jul - 10
+  sept).\n\nhttps://ca2m.org/exposiciones/ciclo-de-video-animado-de-las-col
+ ecciones-del-museo-ca2m
+LOCATION:Centro de Arte Dos de Mayo (CA2M) / Móstoles - de la Constituci
+ ón \, 23\, (Móstoles)\, Móstoles\, 28931
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Escaparate de Arquitecturas. HORMIGÓN CONCRETO: Diseño experimen
+ tal de lámparas en hormigón
+DTSTART;TZID=Europe/Madrid:20260710T000000
+DTEND;TZID=Europe/Madrid:20260930T000000
+UID:03a05467a2ad5ca8d9b6dbc375290a69dcdb74372789c060838358590c01843d
+CATEGORIES:exhibition
+DESCRIPTION:Varios alumnos de la ETSAM muestran sus trabajos realizados co
+ n este material durante el último cuatrimestre del curso (COAM. 10 jul - 
+ 30 sept).\n\nhttps://www.coam.org/actualidad-agenda-coam-escaparate-de-arq
+ uitecturas-hormigon-concreto-diseno-experimental-de-lamparas-en-hormigon/
+LOCATION:COAM - de Hortaleza\, 63\, Madrid\, 28004
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Uneasy Riders. La ciudad en ruta
 DTSTART;TZID=Europe/Madrid:20260710T000000
 DTEND;TZID=Europe/Madrid:20261025T000000
@@ -1926,6 +1927,19 @@ DESCRIPTION:Relevantes fondos bibliográficos y museográficos que permite
  ógico Nacional. 14 jul a 18 oct).\n\nhttps://www.man.es/man/exposiciones/
  vitrina0/20260714-teatro-clasico.html
 LOCATION:Museo Arqueológico Nacional - de Serrano\, 13\, Madrid\, 28001
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arte plumario: naturaleza\, identidad y poder
+DTSTART;TZID=Europe/Madrid:20260716T000000
+DTEND;TZID=Europe/Madrid:20270117T000000
+UID:5aa0e5c6bf5416a6ac534ba5ba701f6d1786a202cd267a6233189af86254aee0
+CATEGORIES:exhibition
+DESCRIPTION:Exposición sobre la evolución del uso de las plumas en diver
+ sas culturas (Museo Nacional de Ciencias Naturales. 16 jul a 17 ene 2027).
+ \n\nhttps://www.mncn.csic.es/es/visita-el-mncn/exposiciones/arte-plumario-
+ naturaleza-identidad-y-poder
+LOCATION:Museo Nacional de Ciencias Naturales - de José Gutierrez Abascal
+ \, 2\, Madrid\, 28006
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pedro Moreno. Pro domo sua. Arte teatral y cinematográfico
