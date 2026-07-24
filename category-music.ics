@@ -2,14 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Jet
-DTSTART;TZID=Europe/Madrid:20260723T203000
-UID:5d44e72d86c58363ca554576069f576a45690538f44b6bed3eabae1b34d5f557
+SUMMARY:SLIM SLAM TRIBUTE
+DTSTART;TZID=Europe/Madrid:20260724T200000
+DTEND;TZID=Europe/Madrid:20260725T200000
+UID:46ccead52ef7a2ffe425808f0eb04d236ee19c7064cd0d07d247adaf225b123a
 CATEGORIES:music
-DESCRIPTION:Apertura Puertas: 19:00 pm\n\nhttps://www.livenation.es/event/
- jet-madrid-tickets-edp1649674
-LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
- id
+DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
+  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
+ s://ateneodemadrid.com/evento/slim-slam-tribute/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Andara Festival
@@ -21,15 +22,46 @@ DESCRIPTION:Concierto / Rock / Latin\n\nhttps://salavillanos.es/evento/and
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rosendadas Acústicas
-DTSTART;TZID=Europe/Madrid:20260725T213000
-UID:2e1c6ec976c67d1269ce7a7837d9b91240cd2caf727a1f9ac5804aa196cea02e
+SUMMARY:El Sonido Popular Del Andara Festival
+DTSTART;TZID=Europe/Madrid:20260725T235900
+UID:3cdf5df4b894e82d9dff7ddfd759940fc4fa57111a2d05c8dc6774d49b3c611b
 CATEGORIES:music
-DESCRIPTION:Precio de las entradas: 9€/12€ Entradas a la venta en movi
- ngtickets Más información: Con Juan Conan Carmona en guitarra y voz y Gl
- oria Ramos en contrabajo y coros\, interpretando piezas de\n\nhttps://grut
- a77.com/events/rosendadas-acusticas/var/ri-0.l-L2
-LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
+DESCRIPTION:Club\n\nhttps://salavillanos.es/evento/el-sonido-popular-del-a
+ ndara-festival/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VÍCTOR CORREA - MOVIMIENTO
+DTSTART;TZID=Europe/Madrid:20260726T200000
+DTEND;TZID=Europe/Madrid:20260726T200000
+UID:6eb039bd04dff62b7b981f507c8efbf2ca09feadad1d2b30337276ce5361a9e3
+CATEGORIES:music
+DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
+  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
+ s://ateneodemadrid.com/evento/victor-correa-movimiento/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABE RÁBADE TRÍO
+DTSTART;TZID=Europe/Madrid:20260727T200000
+DTEND;TZID=Europe/Madrid:20260728T200000
+UID:185612204deea3a49dc465c843d5cd0c6abfa1dd0476e95c39303698a93cf69c
+CATEGORIES:music
+DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
+  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
+ s://ateneodemadrid.com/evento/abe-rabade-trio/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SOULMAMA
+DTSTART;TZID=Europe/Madrid:20260729T200000
+DTEND;TZID=Europe/Madrid:20260730T200000
+UID:ca752dfe1712bdbc882024eff3ccb1814928462287f9f04e12c36878829638a1
+CATEGORIES:music
+DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
+  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
+ s://ateneodemadrid.com/evento/soulmama/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Siames
@@ -50,6 +82,17 @@ DESCRIPTION:Concierto / Latin\n\nhttps://salavillanos.es/evento/tony-mimi-
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:LEO MINAX QUARTET
+DTSTART;TZID=Europe/Madrid:20260731T200000
+DTEND;TZID=Europe/Madrid:20260801T200000
+UID:276cfb260a45e2ac468e2385fc6623135b8309aa52f56b232153ff23739d0730
+CATEGORIES:music
+DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
+  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
+ s://ateneodemadrid.com/evento/leo-minax-quartet-3/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Tony & Mimi Succar
 DTSTART;TZID=Europe/Madrid:20260731T210000
 UID:a154f2c96e247526dac573a55165450b74573f34c45dc3f5cadf8f8a5170eb55
@@ -68,16 +111,47 @@ DESCRIPTION:Concierto / Afro\n\nhttps://salavillanos.es/evento/la-noche-de
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ratos De Porao (Brasil) + El Bigote De Aznar + Lobötomics + Toxik
-  76
-DTSTART;TZID=Europe/Madrid:20260804T203000
-UID:f3b7785dc6668978a91d27824700e38d77cfd7579bd85fe5279c2447199d8938
+SUMMARY:LARA VIZUETE QUARTET
+DTSTART;TZID=Europe/Madrid:20260802T200000
+DTEND;TZID=Europe/Madrid:20260802T200000
+UID:d194dc0208f5c358677e08013199fae14b9903ac26c99fcb8a2e30f3a16cd1e3
 CATEGORIES:music
-DESCRIPTION:Precio de las entradas: 25€/30€ Entradas a la venta en mov
- ingtickets Bio/enlaces bandas: Ratos de Porao_facebook + Ratos de Porao_in
- stagram + Ratos de Porao_youtube El Bigote de Aznar_facebook + El Bigote\n
- \nhttps://gruta77.com/events/ratos-de-porao-brasil-el-bigote-de-aznar-lobo
- tomics-toxik-76/var/ri-0.l-L2
-LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
+DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
+  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
+ s://ateneodemadrid.com/evento/lara-vizuete-quartet/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BARBA DIXIE BAND
+DTSTART;TZID=Europe/Madrid:20260803T200000
+DTEND;TZID=Europe/Madrid:20260804T200000
+UID:cb2c5d8a23a1cf553f98d97e7ebc4a79aac9f0a868eab0e2efaac76f6503902d
+CATEGORIES:music
+DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
+  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
+ s://ateneodemadrid.com/evento/barba-dixie-band/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BEATRIZ MORENO QUARTET
+DTSTART;TZID=Europe/Madrid:20260805T200000
+DTEND;TZID=Europe/Madrid:20260806T200000
+UID:926705a0fa816f8d975888d76c0a6ca677400cd0c3267f34b98786b100656515
+CATEGORIES:music
+DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
+  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
+ s://ateneodemadrid.com/evento/beatriz-moreno-quartet/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GREGORY GROOVER JR
+DTSTART;TZID=Europe/Madrid:20260807T200000
+DTEND;TZID=Europe/Madrid:20260807T200000
+UID:db7a30b57537d50d3748ad22318131ef7924cdc323db338b7deec0b8f389a4cf
+CATEGORIES:music
+DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
+  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
+ s://ateneodemadrid.com/evento/gregory-groover-jr/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 END:VCALENDAR
