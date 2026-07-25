@@ -2,20 +2,9 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:SLIM SLAM TRIBUTE
-DTSTART;TZID=Europe/Madrid:20260724T200000
-DTEND;TZID=Europe/Madrid:20260725T200000
-UID:46ccead52ef7a2ffe425808f0eb04d236ee19c7064cd0d07d247adaf225b123a
-CATEGORIES:music
-DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
-  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
- s://ateneodemadrid.com/evento/slim-slam-tribute/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Andara Festival
-DTSTART;TZID=Europe/Madrid:20260725T200000
-UID:eb26c51bf93acc97135ddbe362f87d518f1db661438d129fafe6cf336903b941
+DTSTART;TZID=Europe/Madrid:20260725T183000
+UID:80d68f95a858a54a009549c883eedfdf50c51128446214c1e11898685a1bee60
 CATEGORIES:music
 DESCRIPTION:Concierto / Rock / Latin\n\nhttps://salavillanos.es/evento/and
  ara-festival/
@@ -152,6 +141,17 @@ CATEGORIES:music
 DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
   el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
  s://ateneodemadrid.com/evento/gregory-groover-jr/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ISRAEL SANDOVAL FUSION TRIO
+DTSTART;TZID=Europe/Madrid:20260808T200000
+DTEND;TZID=Europe/Madrid:20260809T200000
+UID:f1e8b2a8c08cb3879f780031e5d9883de7797e5a0f3e2157fc3c1017d53984be
+CATEGORIES:music
+DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
+  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
+ s://ateneodemadrid.com/evento/israel-sandoval-fusion-trio/
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 END:VCALENDAR
