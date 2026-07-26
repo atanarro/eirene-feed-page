@@ -2,24 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Andara Festival
-DTSTART;TZID=Europe/Madrid:20260725T183000
-UID:80d68f95a858a54a009549c883eedfdf50c51128446214c1e11898685a1bee60
-CATEGORIES:music
-DESCRIPTION:Concierto / Rock / Latin\n\nhttps://salavillanos.es/evento/and
- ara-festival/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El Sonido Popular Del Andara Festival
-DTSTART;TZID=Europe/Madrid:20260725T235900
-UID:3cdf5df4b894e82d9dff7ddfd759940fc4fa57111a2d05c8dc6774d49b3c611b
-CATEGORIES:music
-DESCRIPTION:Club\n\nhttps://salavillanos.es/evento/el-sonido-popular-del-a
- ndara-festival/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:VÍCTOR CORREA - MOVIMIENTO
 DTSTART;TZID=Europe/Madrid:20260726T200000
 DTEND;TZID=Europe/Madrid:20260726T200000
@@ -153,5 +135,15 @@ DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
   el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
  s://ateneodemadrid.com/evento/israel-sandoval-fusion-trio/
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godsmack
+DTSTART;TZID=Europe/Madrid:20260809T183000
+UID:f32961deba63c2ebec94552c287e77fd8fde246a2b7dadac20f581d9a3c1e74a
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 18:00\n\nhttps://ticketgate.es/events/godsma
+ ck-en-madrid
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
 END:VEVENT
 END:VCALENDAR
