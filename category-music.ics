@@ -2,17 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:VÍCTOR CORREA - MOVIMIENTO
-DTSTART;TZID=Europe/Madrid:20260726T200000
-DTEND;TZID=Europe/Madrid:20260726T200000
-UID:6eb039bd04dff62b7b981f507c8efbf2ca09feadad1d2b30337276ce5361a9e3
-CATEGORIES:music
-DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
-  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
- s://ateneodemadrid.com/evento/victor-correa-movimiento/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ABE RÁBADE TRÍO
 DTSTART;TZID=Europe/Madrid:20260727T200000
 DTEND;TZID=Europe/Madrid:20260728T200000
@@ -104,6 +93,19 @@ DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ratos De Porao (Brasil) + El Bigote De Aznar + Lobötomics + Toxik
+  76
+DTSTART;TZID=Europe/Madrid:20260804T203000
+UID:f3b7785dc6668978a91d27824700e38d77cfd7579bd85fe5279c2447199d8938
+CATEGORIES:music
+DESCRIPTION:Precio de las entradas: 25€/30€ Entradas a la venta en mov
+ ingtickets Bio/enlaces bandas: Ratos de Porao_facebook + Ratos de Porao_in
+ stagram + Ratos de Porao_youtube El Bigote de Aznar_facebook + El Bigote\n
+ \nhttps://gruta77.com/events/ratos-de-porao-brasil-el-bigote-de-aznar-lobo
+ tomics-toxik-76/var/ri-0.l-L2
+LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:BEATRIZ MORENO QUARTET
 DTSTART;TZID=Europe/Madrid:20260805T200000
 DTEND;TZID=Europe/Madrid:20260806T200000
@@ -137,6 +139,17 @@ DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:La Leñera (tributo a Leño)
+DTSTART;TZID=Europe/Madrid:20260808T213000
+UID:b3803dc8749aa5887e84672f7fb56a354e8f48fc774935040342a234803f3c93
+CATEGORIES:music
+DESCRIPTION:Precio de las entradas: 12€/15€ Entradas a la venta en mov
+ ingtickets Bio/enlaces bandas: La Leñera_facebook Más información: La L
+ eñera\, lo más parecido a escuchar\n\nhttps://gruta77.com/events/la-lene
+ ra-tributo-a-leno-8/var/ri-0.l-L2
+LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Godsmack
 DTSTART;TZID=Europe/Madrid:20260809T183000
 UID:f32961deba63c2ebec94552c287e77fd8fde246a2b7dadac20f581d9a3c1e74a
@@ -145,5 +158,16 @@ DESCRIPTION:Apertura Puertas: 18:00\n\nhttps://ticketgate.es/events/godsma
  ck-en-madrid
 LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
  id
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MINGO BALAGUER & PABLO SANPA BLUES BLAST
+DTSTART;TZID=Europe/Madrid:20260810T200000
+DTEND;TZID=Europe/Madrid:20260811T200000
+UID:8cb58eb6b3117dfdc52ddcfd987959b27be50b13f7f62727040e4e14b312dbca
+CATEGORIES:music
+DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
+  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
+ s://ateneodemadrid.com/evento/mingo-balaguer-pablo-sanpa-blues-blast/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 END:VCALENDAR
