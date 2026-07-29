@@ -1564,20 +1564,6 @@ DESCRIPTION:Propuesta cultural y de ocio que incluye visitas exclusivas a
 LOCATION:Museo del Ferrocarril - de las Delicias\, 61\, Madrid\, 28045
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Joyas numismáticas del Instituto Valencia de Don Juan: de los car
- olingios a Fernando VII
-DTSTART;TZID=Europe/Madrid:20260702T000000
-DTEND;TZID=Europe/Madrid:20270530T000000
-UID:e742c681aa6b480d5aec8087ced4152aa450ae959805e3aa2df7272b3c3a964b
-CATEGORIES:exhibition
-DESCRIPTION:Exposición que muestra una selección de monedas utilizadas e
- n España desde la Edad Media hasta el siglo XIX (Museo Casa de la Moneda.
-  Hasta 30 may).\n\nhttps://www.museocasadelamoneda.es/exposiciones-tempora
- les
-LOCATION:Museo Casa de La Moneda - del Doctor Esquerdo\, 36\, Madrid\, 280
- 28
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Mitologías modernas: Ouka Leele & Co
 DTSTART;TZID=Europe/Madrid:20260702T000000
 DTEND;TZID=Europe/Madrid:20261018T000000
@@ -1785,5 +1771,16 @@ DESCRIPTION:Pequeña exposición de objetos que forma parte de la colecci
  e2026/cotidiano-extraordinario.html
 LOCATION:Museo Nacional de Antropología - de Alfonso XII\, 68\, Madrid\, 
  28014
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El mundo de Van Gogh
+DTSTART;TZID=Europe/Madrid:20260729T000000
+DTEND;TZID=Europe/Madrid:20260830T000000
+UID:7138d28c99ddaabf235c72a80537a112e7e69471320bce4151cfe7aacab0f3aa
+CATEGORIES:exhibition
+DESCRIPTION:Una experiencia sensorial única en la que disfrutar de las ob
+ ras del pintor a gran escala y en movimiento (Nomad Museo Inmersivo. Miér
+ coles a domingos. Hasta 30 agosto).\n\nhttps://www.nomadmuseo.es/van-gogh/
+LOCATION:Nomad Museo Inmersivo - Gran Vía\, 78\, Madrid\, 28013
 END:VEVENT
 END:VCALENDAR
