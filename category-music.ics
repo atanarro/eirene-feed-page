@@ -2,15 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Tony & Mimi Succar
-DTSTART;TZID=Europe/Madrid:20260730T210000
-UID:ebaf2cd3db3a2ff8d8e02d5f219485c382597c8e72cb11ea124e8e2299b45790
-CATEGORIES:music
-DESCRIPTION:Concierto / Latin\n\nhttps://salavillanos.es/evento/tony-mimi-
- succar/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:LEO MINAX QUARTET
 DTSTART;TZID=Europe/Madrid:20260731T200000
 DTEND;TZID=Europe/Madrid:20260801T200000
@@ -148,6 +139,17 @@ CATEGORIES:music
 DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
   el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
  s://ateneodemadrid.com/evento/the-jazz-warriors/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CHAMES MEETS HERMON MEHARI
+DTSTART;TZID=Europe/Madrid:20260814T200000
+DTEND;TZID=Europe/Madrid:20260815T200000
+UID:6a4a6fe68f650e17f9faa3729c8db3bb52ea785f199b2f07386749fe20924659
+CATEGORIES:music
+DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
+  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
+ s://ateneodemadrid.com/evento/chames-meets-hermon-mehari/
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 END:VCALENDAR

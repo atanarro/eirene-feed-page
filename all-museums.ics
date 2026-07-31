@@ -582,17 +582,6 @@ LOCATION:Espacio Fundación Telefónica - de Fuencarral\, 3\, Madrid\, 280
  04
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:El Greco\, Velázquez\, Goya: La Triada Inmortal
-DTSTART;TZID=Europe/Madrid:20260508T000000
-DTEND;TZID=Europe/Madrid:20260731T000000
-UID:3ba7bc7811ba6c18393cb5e1112abf6df99b5a8603395b2a6778a5a339740786
-CATEGORIES:exhibition
-DESCRIPTION:Inmersión profunda en el alma de España a través de sus tre
- s pintores más icónicos que redefinieron la trayectoria de la pintura o
- ccidental (Nomad Museo Inmersivo.\n\nhttps://www.nomadmuseo.es/
-LOCATION:Nomad Museo Inmersivo - Gran Vía\, 78\, Madrid\, 28013
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Helbig Archive: 96 - 26
 DTSTART;TZID=Europe/Madrid:20260508T000000
 DTEND;TZID=Europe/Madrid:20260927T000000
@@ -908,18 +897,6 @@ DESCRIPTION:Muestra que analiza la transformación del territorio mediante
  anas y ambientales contemporáneas (Museo ICO. Hasta 6 sept).\n\nhttps://p
  he.es/exposicion/los-mismos-lugares/
 LOCATION:Museo ICO - de Zorrilla\, 3\, Madrid\, 28014
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ofertorio. Greta Alfaro (PHotoESPAÑA 2026)
-DTSTART;TZID=Europe/Madrid:20260604T000000
-DTEND;TZID=Europe/Madrid:20260730T000000
-UID:0528fe792d901061dc35ec994033b2bb84325d8eacd6fae2a92d851069ce363f
-CATEGORIES:exhibition
-DESCRIPTION:Muestra que explora el paso de lo ritual a los actuales sistem
- as de consumo e imagen\, analizando nuevas formas de ofrecer y transformar
-  la materia (Nave 0 - Matadero. Hasta 30 jul).\n\nhttps://phe.es/exposicio
- n/ofertorio/
-LOCATION:Nave 0 (Matadero) - de Legazpi \, 8\, Madrid\, 28045
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Las piedras del cielo. Isabel Muñoz (PHotoESPAÑA 2026)
@@ -1783,6 +1760,17 @@ CATEGORIES:exhibition
 DESCRIPTION:Una experiencia sensorial única en la que disfrutar de las ob
  ras del pintor a gran escala y en movimiento (Nomad Museo Inmersivo. Miér
  coles a domingos. Hasta 30 agosto).\n\nhttps://www.nomadmuseo.es/van-gogh/
+LOCATION:Nomad Museo Inmersivo - Gran Vía\, 78\, Madrid\, 28013
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El Greco\, Velázquez\, Goya: La Triada Inmortal
+DTSTART;TZID=Europe/Madrid:20260730T000000
+DTEND;TZID=Europe/Madrid:20260831T000000
+UID:a415492c16f59890bf3f5800936e51e3d395b9bea401a2884e0192bbfebf0b9c
+CATEGORIES:exhibition
+DESCRIPTION:Inmersión profunda en el alma de España a través de sus tre
+ s pintores más icónicos que redefinieron la trayectoria de la pintura o
+ ccidental (Nomad Museo Inmersivo.\n\nhttps://www.nomadmuseo.es/
 LOCATION:Nomad Museo Inmersivo - Gran Vía\, 78\, Madrid\, 28013
 END:VEVENT
 END:VCALENDAR
