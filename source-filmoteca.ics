@@ -2,48 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:El viento que agita la cebada
-DTSTART;TZID=Europe/Madrid:20260801T180000
-UID:b11bf4bfaa34c4f491b219906046e8cb3f8eb8ad3433ef6ab43cee0dec6bf6b7
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Sábado 1 de agosto a las 18:00h (Sala 1. Ken Lo
- ach: Crónicas de la conciencia) *Aunque las entradas aparezcan como agota
- das en web\, pueden adquirirse en taquilla entradas para las sesiones del 
- día (de 17h a 20h)\n\nOriginal title: The Wind That Shakes the Barley\n\n
- Release year: 2006\n\nOriginal language: EN\n\nhttps://entradasfilmoteca.s
- acatuentrada.es/es/productos/descripcion/el-viento-que-agita-la-cebada-1
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sleep My Baby
-DTSTART;TZID=Europe/Madrid:20260801T203000
-UID:52fdd104b01a8078951480c5ccd0e3a22720b68e5a7600e18a68d70dd9e3ba7f
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Sábado 1 de agosto a las 20:30h (Sala 1. Binka 
- Zhelyazkova: Alegorías de la resistencia) *Aunque las entradas aparezcan 
- como agotadas en web\, pueden adquirirse en taquilla entradas para las ses
- iones del día (de 17h a 20h)\n\nOriginal title: Sleep Well My Baby\n\nOri
- ginal language: KO\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/produc
- tos/descripcion/sleep-my-baby-1-agosto
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gente corriente
-DTSTART;TZID=Europe/Madrid:20260801T220000
-UID:ba0773d224d5eb1ac941fd13dc330d6394d8fc6d55e25796f3e50c5592a85818
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Sábado 1 de agosto a las 22:00h (Sala de verano
- . Robert Redford: Del mito a la mirada) *Aunque las entradas aparezcan com
- o agotadas en web\, pueden adquirirse en taquilla entradas para las sesion
- es del día (de 17h a 20h)\n\nOriginal title: Ordinary People\n\nRelease y
- ear: 1980\n\nOriginal language: EN\n\nhttps://entradasfilmoteca.sacatuentr
- ada.es/es/productos/descripcion/gente-corriente
-LOCATION:Filmoteca Espanola - Cine Dore Sala de verano - Calle de Santa Is
- abel\, 3\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Swimming Pool
 DTSTART;TZID=Europe/Madrid:20260802T180000
 UID:d53a6f4a6d96d4037de857c2b45efa78e737a8f65095c0f54e2f9c4a4e36123e
@@ -443,5 +401,33 @@ DESCRIPTION:Fecha y Hora: Viernes 14 de agosto a las 22:00h (Sala de veran
  -agosto
 LOCATION:Filmoteca Espanola - Cine Dore Sala de verano - Calle de Santa Is
  abel\, 3\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sorry\, We Missed You
+DTSTART;TZID=Europe/Madrid:20260816T180000
+UID:7bbd2290d190d84a198c3f2be1ab4bd8adc525bbdaf5ed4d76fe679b9375cdb1
+CATEGORIES:cinema
+DESCRIPTION:Fecha y Hora: Domingo 16 de agosto a las 18:00h (Sala 1. Ken L
+ oach: Crónicas de la conciencia) *Aunque las entradas aparezcan como agot
+ adas en web\, pueden adquirirse en taquilla entradas para las sesiones del
+  día (de 17h a 20h)\n\nRelease year: 2019\n\nOriginal language: EN\n\nhtt
+ ps://entradasfilmoteca.sacatuentrada.es/es/productos/descripcion/sorry-we-
+ missed-you-13
+LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
+ \, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aniceto
+DTSTART;TZID=Europe/Madrid:20260816T203000
+UID:16fd5a5a3bbf321ba6ca99c83f4d5becfd2d9daa7bd5ca729f275e14a6d50052
+CATEGORIES:cinema
+DESCRIPTION:Fecha y Hora: Domingo 16 de agosto a las 20:30h (Sala 1. Leona
+ rdo Favio: Testimoniar el llanto) *Aunque las entradas aparezcan como agot
+ adas en web\, pueden adquirirse en taquilla entradas para las sesiones del
+  día (de 17h a 20h)\n\nRelease year: 2008\n\nOriginal language: ES\n\nhtt
+ ps://entradasfilmoteca.sacatuentrada.es/es/productos/descripcion/aniceto-1
+ 6-agosto
+LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
+ \, Madrid
 END:VEVENT
 END:VCALENDAR
