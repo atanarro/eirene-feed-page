@@ -2,17 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:LARA VIZUETE QUARTET
-DTSTART;TZID=Europe/Madrid:20260802T200000
-DTEND;TZID=Europe/Madrid:20260802T200000
-UID:d194dc0208f5c358677e08013199fae14b9903ac26c99fcb8a2e30f3a16cd1e3
-CATEGORIES:music
-DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
-  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
- s://ateneodemadrid.com/evento/lara-vizuete-quartet/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:BARBA DIXIE BAND
 DTSTART;TZID=Europe/Madrid:20260803T200000
 DTEND;TZID=Europe/Madrid:20260804T200000
@@ -132,6 +121,17 @@ CATEGORIES:music
 DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
   el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
  s://ateneodemadrid.com/evento/tony-moreno-quartet/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INOIDEL GONZÁLEZ TRÍO
+DTSTART;TZID=Europe/Madrid:20260817T200000
+DTEND;TZID=Europe/Madrid:20260818T200000
+UID:22dc84a556028fc8bc5921d45c91dd1885f34b7f2d68fc64cfe3ec91dfe4ea76
+CATEGORIES:music
+DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
+  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
+ s://ateneodemadrid.com/evento/inoidel-gonzalez-trio/
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 END:VCALENDAR
