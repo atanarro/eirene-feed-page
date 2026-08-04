@@ -26,6 +26,18 @@ DESCRIPTION:Una exposición que presenta la belleza y el misterio de la Lu
 LOCATION:Planetario - del Planetario\, 16\, Madrid\, 28045
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Machu Picchu: Viaje a la Ciudad Perdida
+DTSTART;TZID=Europe/Madrid:20250925T000000
+DTEND;TZID=Europe/Madrid:20260930T000000
+UID:5598fedba9e87a2899379c01c63ca439a2676737138a809d5891a861fe2dd172
+CATEGORIES:exhibition
+DESCRIPTION:Experiencia de realidad virtual que transporta 450 años atrá
+ s al corazón del antiguo Imperio Inca (Fever Hub Madrid. Miércoles a dom
+ ingos).\n\nhttps://machupicchuexp.com/madrid/
+LOCATION:Madrid - Raimundo Fernández Villaverde\, 57\, Madrid\, Madrid\, 
+ 28003
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Luis Pérez Calvo. Cromos de artista
 DTSTART;TZID=Europe/Madrid:20251023T000000
 DTEND;TZID=Europe/Madrid:20260920T000000
@@ -35,17 +47,6 @@ DESCRIPTION:El artista multidisciplinar presenta una exposición integrada
   por una selección de «cromos» y un mural realizado in situ (CentroCent
  ro. Hasta 20 sept).\n\nhttps://www.centrocentro.org/exposicion/luis-perez-
  calvo
-LOCATION:CentroCentro - de Cibeles\, 1\, Madrid\, 28014
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Miluca Sanz. Estratos. La inmortalidad de lo efímero
-DTSTART;TZID=Europe/Madrid:20251023T000000
-DTEND;TZID=Europe/Madrid:20260920T000000
-UID:a6e10ea49be1d7a3e78235e2c58c637d794692e4b473069a9f09d9c2b5a66b7e
-CATEGORIES:exhibition
-DESCRIPTION:Exposición que reúne en formato audiovisual una selección d
- e los conocidos diarios de la artista (CentroCentro. Hasta 20 sept).\n\nht
- tps://www.centrocentro.org/exposicion/miluca-sanz-estratos
 LOCATION:CentroCentro - de Cibeles\, 1\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
@@ -686,6 +687,19 @@ DESCRIPTION:Muestra que rinde homenaje a las escritoras del Siglo de Oro y
  seolopedevega.org/es/actividades/colaboraciones-y-proyectos/778-exposicion
  -2026
 LOCATION:Casa Museo Lope de Vega - de Cervantes\, 11\, Madrid\, 28014
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Robert Frank y Los Americanos (PHotoESPAÑA 2026)
+DTSTART;TZID=Europe/Madrid:20260529T000000
+DTEND;TZID=Europe/Madrid:20261101T000000
+UID:b3296fa28127ee986c2dee308ab39faf21427ff4934e31b9f8b2962ac014250e
+CATEGORIES:exhibition
+DESCRIPTION:Muestra que reúne la serie completa de Los Americanos realiza
+ da durante el viaje que el fotógrafo emprendió por Estados Unidos (Espac
+ io Fundación Telefónica. 29 may a 1 nov).\n\nhttps://phe.es/exposicion/l
+ os-americanos/
+LOCATION:Espacio Fundación Telefónica - de Fuencarral\, 3\, Madrid\, 280
+ 04
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Endometriosis. Laia Abril (PHotoESPAÑA 2026)
@@ -1404,19 +1418,6 @@ LOCATION:Museo Casa de La Moneda - del Doctor Esquerdo\, 36\, Madrid\, 280
  28
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mitologías modernas: Ouka Leele & Co
-DTSTART;TZID=Europe/Madrid:20260702T000000
-DTEND;TZID=Europe/Madrid:20261018T000000
-UID:0656dc6567002ca560c050169bdf081eb09a494f3f32d76aad7e8c05b30645f1
-CATEGORIES:exhibition
-DESCRIPTION:Exposición que revisita el papel de la mitología en el arte 
- madrileño de la década de 1980 a partir de la obra de la artista Ouka Le
- ele (Sala Alcalá 31. Hasta 18 oct).\n\nhttps://www.comunidad.madrid/activ
- idades/2026/exposicion-mitologias-modernas-ouka-leele-co
-LOCATION:Sala Alcalá 31 de la Comunidad de Madrid - de Alcalá\, 31\, Mad
- rid\, 28014
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Pura Biodiversidad Canaria
 DTSTART;TZID=Europe/Madrid:20260702T000000
 DTEND;TZID=Europe/Madrid:20260830T000000
@@ -1599,6 +1600,18 @@ DESCRIPTION:Una amplia retrospectiva dedicada a uno de los grandes creador
 LOCATION:Biblioteca Nacional - de Recoletos\, 20 - 22\, Madrid\, 28071
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Leyendas del Motor
+DTSTART;TZID=Europe/Madrid:20260728T000000
+DTEND;TZID=Europe/Madrid:20260823T000000
+UID:a00891febb5e3262c745d08322d4bed24840940a3284ec9034b3d559a250dbb2
+CATEGORIES:exhibition
+DESCRIPTION:Exposición para los amantes de la velocidad que reúne vehí
+ culos\, equipaciones y objetos vinculados a grandes nombres del automovil
+ ismo y el motociclismo (CC Gran Plaza 2.\n\nhttps://www.centrocomercialgra
+ nplaza2.com/noticia/31923-exposicion-leyendas-del-motor
+LOCATION:Madrid - C. de los Químicos\, 1\, Majadahonda\, 28222
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Vitrina de Antropología (In)Visible. Cotidiano o extraordinario. 
  Dos formas de mirar
 DTSTART;TZID=Europe/Madrid:20260728T000000
@@ -1611,6 +1624,17 @@ DESCRIPTION:Pequeña exposición de objetos que forma parte de la colecci
  e2026/cotidiano-extraordinario.html
 LOCATION:Museo Nacional de Antropología - de Alfonso XII\, 68\, Madrid\, 
  28014
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El mundo de Van Gogh
+DTSTART;TZID=Europe/Madrid:20260729T000000
+DTEND;TZID=Europe/Madrid:20260830T000000
+UID:7138d28c99ddaabf235c72a80537a112e7e69471320bce4151cfe7aacab0f3aa
+CATEGORIES:exhibition
+DESCRIPTION:Una experiencia sensorial única en la que disfrutar de las ob
+ ras del pintor a gran escala y en movimiento (Nomad Museo Inmersivo. Miér
+ coles a domingos. Hasta 30 agosto).\n\nhttps://www.nomadmuseo.es/van-gogh/
+LOCATION:Nomad Museo Inmersivo - Gran Vía\, 78\, Madrid\, 28013
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:El Greco\, Velázquez\, Goya: La Triada Inmortal
