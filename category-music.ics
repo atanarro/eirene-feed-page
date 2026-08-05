@@ -2,19 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Ratos De Porao (Brasil) + El Bigote De Aznar + Lobötomics + Toxik
-  76
-DTSTART;TZID=Europe/Madrid:20260804T203000
-UID:f3b7785dc6668978a91d27824700e38d77cfd7579bd85fe5279c2447199d8938
-CATEGORIES:music
-DESCRIPTION:Precio de las entradas: 25€/30€ Entradas a la venta en mov
- ingtickets Bio/enlaces bandas: Ratos de Porao_facebook + Ratos de Porao_in
- stagram + Ratos de Porao_youtube El Bigote de Aznar_facebook + El Bigote\n
- \nhttps://gruta77.com/events/ratos-de-porao-brasil-el-bigote-de-aznar-lobo
- tomics-toxik-76/var/ri-0.l-L2
-LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:BEATRIZ MORENO QUARTET
 DTSTART;TZID=Europe/Madrid:20260805T200000
 DTEND;TZID=Europe/Madrid:20260806T200000
@@ -121,6 +108,17 @@ CATEGORIES:music
 DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
   el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
  s://ateneodemadrid.com/evento/inoidel-gonzalez-trio/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HAROLD REY QUARTET
+DTSTART;TZID=Europe/Madrid:20260819T200000
+DTEND;TZID=Europe/Madrid:20260820T200000
+UID:55ebd88e9c4ff0f1cb04f78a47a2eeb12153c93fdf1e51b7e00771ce35997ebc
+CATEGORIES:music
+DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
+  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
+ s://ateneodemadrid.com/evento/harold-rey-quartet/
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 END:VCALENDAR

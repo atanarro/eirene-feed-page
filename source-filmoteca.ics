@@ -2,34 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:El hombre que susurraba a los caballos
-DTSTART;TZID=Europe/Madrid:20260804T180000
-UID:3cc36ac91def11b52fac23e6872acd4ec343f5558b0d566567eeea0355101f96
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Martes 4 agosto a las 18:00h (Sala 1. Robert Red
- ford) *Aunque las entradas aparezcan como agotadas en web\, pueden adquiri
- rse en taquilla entradas para las sesiones del día (de 17h a 20h)\n\nOrig
- inal title: The Horse Whisperer\n\nRelease year: 1998\n\nOriginal language
- : EN\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/productos/descripcio
- n/el-hombre-que-susurraba-a-los-caballos
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pan y rosas
-DTSTART;TZID=Europe/Madrid:20260804T213000
-UID:640dde5087aa99801063a95012d7a6f6f33e103edfd0d74aa1fbc2f7c0467db8
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Martes 4 agosto a las 21:30h (Sala 1. Ken Loach:
-  Crónicas de la conciencia) *Aunque las entradas aparezcan como agotadas 
- en web\, pueden adquirirse en taquilla entradas para las sesiones del día
-  (de 17h a 20h)\n\nOriginal title: Bread and Roses\n\nRelease year: 2000\n
- \nOriginal language: EN\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/p
- roductos/descripcion/pan-y-rosas-4-agosto
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Vlasta\, el recuerdo no es eterno
 DTSTART;TZID=Europe/Madrid:20260805T180000
 UID:3531f122bc7dcc81793e8f320962699adeab5e7e50a2e9acbac2fd96f3a1b2c0
@@ -202,9 +174,9 @@ CATEGORIES:cinema
 DESCRIPTION:Fecha y Hora: Domingo 9 de agosto a las 18:00h (Sala 1. Leonar
  do Favio: Testimoniar el llanto) *Aunque las entradas aparezcan como agota
  das en web\, pueden adquirirse en taquilla entradas para las sesiones del 
- día (de 17h a 20h)\n\nRelease year: 1976\n\nOriginal language: ES\n\nhttp
- s://entradasfilmoteca.sacatuentrada.es/es/productos/descripcion/soñar-so
- ñar
+ día (de 17h a 20h)\n\nOriginal title: Va' sonar\n\nRelease year: 2024\n\n
+ Original language: EN\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/pro
+ ductos/descripcion/soñar-soñar
 LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
  \, Madrid
 END:VEVENT
@@ -430,5 +402,47 @@ DESCRIPTION:Fecha y Hora: Martes 18 de agosto a las 20:30h (Sala 1. Robert
  uctos/descripcion/quiz-show-el-dilema-
 LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
  \, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Un lugar llamado Milagro
+DTSTART;TZID=Europe/Madrid:20260819T180000
+UID:48e879ff52cb445b7aa67b37561f09cb2ef57052adcf393fbe8dda6a424b41a5
+CATEGORIES:cinema
+DESCRIPTION:Fecha y Hora: Miércoles 19 de agosto a las 18:00h (Sala 1. Ro
+ bert Redford: Del mito a la mirada) *Aunque las entradas aparezcan como ag
+ otadas en web\, pueden adquirirse en taquilla entradas para las sesiones d
+ el día (de 17h a 20h)\n\nOriginal title: The Milagro Beanfield War\n\nRel
+ ease year: 1988\n\nOriginal language: EN\n\nhttps://entradasfilmoteca.saca
+ tuentrada.es/es/productos/descripcion/un-lugar-llamado-milagro-19-agosto
+LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
+ \, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El dependiente
+DTSTART;TZID=Europe/Madrid:20260819T203000
+UID:03114815337bbb9e29c03631ecff0e78d6b219e1f5f10f7c09f1598bedb150ff
+CATEGORIES:cinema
+DESCRIPTION:Fecha y Hora: Miércoles 19 de agosto a las 20:30h (Sala 1. Le
+ onardo Favio: Testimoniar el llanto) *Aunque las entradas aparezcan como a
+ gotadas en web\, pueden adquirirse en taquilla entradas para las sesiones 
+ del día (de 17h a 20h).\n\nRelease year: 1969\n\nOriginal language: ES\n\
+ nhttps://entradasfilmoteca.sacatuentrada.es/es/productos/descripcion/el-de
+ pendiente-19-agosto
+LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
+ \, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Route Irish
+DTSTART;TZID=Europe/Madrid:20260819T220000
+UID:feee8dea59d5cdb4278df26cddd0209418895f895b63b0e950de35a334fc2b4d
+CATEGORIES:cinema
+DESCRIPTION:Fecha y Hora: Miércoles 19 de agosto a las 22:00h (Sala de ve
+ rano. Ken Loach: Crónicas de la conciencia) *Aunque las entradas aparezca
+ n como agotadas en web\, pueden adquirirse en taquilla entradas para las s
+ esiones del día (de 17h a 20h)\n\nRelease year: 2011\n\nOriginal language
+ : EN\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/productos/descripcio
+ n/route-irish-19-agosto
+LOCATION:Filmoteca Espanola - Cine Dore Sala de verano - Calle de Santa Is
+ abel\, 3\, Madrid
 END:VEVENT
 END:VCALENDAR
