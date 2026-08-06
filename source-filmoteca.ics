@@ -2,48 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Vlasta\, el recuerdo no es eterno
-DTSTART;TZID=Europe/Madrid:20260805T180000
-UID:3531f122bc7dcc81793e8f320962699adeab5e7e50a2e9acbac2fd96f3a1b2c0
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Miércoles 5 agosto a las 18:00h (Sala 1. Vlasta
-  Lah: La memoria recobrada) *Aunque las entradas aparezcan como agotadas e
- n web\, pueden adquirirse en taquilla entradas para las sesiones del día 
- (de 17h a 20h)\n\nRelease year: 2025\n\nOriginal language: ES\n\nhttps://e
- ntradasfilmoteca.sacatuentrada.es/es/productos/descripcion/vlasta-el-recue
- rdo-no-es-eterno
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Buscando a Eric
-DTSTART;TZID=Europe/Madrid:20260805T203000
-UID:9ccea3313ba8a4ae9c488f63e056eb9a569a273395bba1524d3d1afc12ed4171
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Miércoles 5 agosto a las 20:30h (Sala 1. Ken Lo
- ach: Crónicas de la conciencia) *Aunque las entradas aparezcan como agota
- das en web\, pueden adquirirse en taquilla entradas para las sesiones del 
- día (de 17h a 20h)\n\nOriginal title: Looking for Eric\n\nRelease year: 2
- 009\n\nOriginal language: EN\n\nhttps://entradasfilmoteca.sacatuentrada.es
- /es/productos/descripcion/buscando-a-eric-1
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La iguana
-DTSTART;TZID=Europe/Madrid:20260805T220000
-UID:ee2de378a92dfceb1d2960c84df8bceae92b7d2112f5aa1e837a37c4d0596182
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Miércoles 5 agosto a las 22:00h (Sala de verano
- . Gótico Mediterráneo: Eros y Thanatos bajo el sol) *Aunque las entradas
-  aparezcan como agotadas en web\, pueden adquirirse en taquilla entradas p
- ara las sesiones del día (de 17h a 20h)\n\nOriginal title: Iguana\n\nRele
- ase year: 1988\n\nOriginal language: EN\n\nhttps://entradasfilmoteca.sacat
- uentrada.es/es/productos/descripcion/la-iguana
-LOCATION:Filmoteca Espanola - Cine Dore Sala de verano - Calle de Santa Is
- abel\, 3\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Las furias
 DTSTART;TZID=Europe/Madrid:20260806T180000
 UID:fd31676fd79277b42347440325ca12226ac13eaf8df1b5f982e2f05c60b5cace
@@ -51,9 +9,8 @@ CATEGORIES:cinema
 DESCRIPTION:Fecha y Hora: Jueves 6 de agosto a las 18:00h (Sala 1. Vlasta 
  Lah: La memoria recobrada) *Aunque las entradas aparezcan como agotadas en
   web\, pueden adquirirse en taquilla entradas para las sesiones del día (
- de 17h a 20h)\n\nOriginal title: The Furies\n\nRelease year: 2019\n\nOrigi
- nal language: EN\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/producto
- s/descripcion/las-furias
+ de 17h a 20h)\n\nRelease year: 1960\n\nOriginal language: ES\n\nhttps://en
+ tradasfilmoteca.sacatuentrada.es/es/productos/descripcion/las-furias
 LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
  \, Madrid
 END:VEVENT
@@ -174,9 +131,9 @@ CATEGORIES:cinema
 DESCRIPTION:Fecha y Hora: Domingo 9 de agosto a las 18:00h (Sala 1. Leonar
  do Favio: Testimoniar el llanto) *Aunque las entradas aparezcan como agota
  das en web\, pueden adquirirse en taquilla entradas para las sesiones del 
- día (de 17h a 20h)\n\nOriginal title: Va' sonar\n\nRelease year: 2024\n\n
- Original language: EN\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/pro
- ductos/descripcion/soñar-soñar
+ día (de 17h a 20h)\n\nRelease year: 1976\n\nOriginal language: ES\n\nhttp
+ s://entradasfilmoteca.sacatuentrada.es/es/productos/descripcion/soñar-so
+ ñar
 LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
  \, Madrid
 END:VEVENT
@@ -442,6 +399,48 @@ DESCRIPTION:Fecha y Hora: Miércoles 19 de agosto a las 22:00h (Sala de ve
  esiones del día (de 17h a 20h)\n\nRelease year: 2011\n\nOriginal language
  : EN\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/productos/descripcio
  n/route-irish-19-agosto
+LOCATION:Filmoteca Espanola - Cine Dore Sala de verano - Calle de Santa Is
+ abel\, 3\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:En un mundo libre…
+DTSTART;TZID=Europe/Madrid:20260820T180000
+UID:fd01559e041868411539b8ab2720f69e6f55a4fab1f481f10bf3b8479acffbf6
+CATEGORIES:cinema
+DESCRIPTION:Fecha y Hora: Jueves 20 de agosto a las 18:00h (Sala 1. Ken Lo
+ ach: Crónicas de la conciencia) *Aunque las entradas aparezcan como agota
+ das en web\, pueden adquirirse en taquilla entradas para las sesiones del 
+ día (de 17h a 20h)\n\nOriginal title: It's a Free World...\n\nRelease yea
+ r: 2007\n\nOriginal language: EN\n\nhttps://entradasfilmoteca.sacatuentrad
+ a.es/es/productos/descripcion/en-un-mundo-libre-20-agosto
+LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
+ \, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kinetta
+DTSTART;TZID=Europe/Madrid:20260820T203000
+UID:483573ed5794f911e60065df3f24a5521beac6a88f1baac353114e081a086e8d
+CATEGORIES:cinema
+DESCRIPTION:Fecha y Hora: Jueves 20 de agosto a las 20:30h (Sala 1. Gótic
+ o Mediterráneo: Eros y Thanatos bajo el sol) *Aunque las entradas aparezc
+ an como agotadas en web\, pueden adquirirse en taquilla entradas para las 
+ sesiones del día (de 17h a 20h)\n\nOriginal title: Κινέττα\n\nRele
+ ase year: 2005\n\nOriginal language: EL\n\nhttps://entradasfilmoteca.sacat
+ uentrada.es/es/productos/descripcion/kinetta
+LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
+ \, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La conspiración
+DTSTART;TZID=Europe/Madrid:20260820T220000
+UID:2d0e596c5d320db3521821064dc0822cefb34f4891dc1122def74909cbbd00b2
+CATEGORIES:cinema
+DESCRIPTION:Fecha y Hora: Jueves 20 de agosto a las 22:00h (Sala de verano
+ . Robert Redford: Del mito a la mirada) *Aunque las entradas aparezcan co
+ mo agotadas en web\, pueden adquirirse en taquilla entradas para las sesio
+ nes del día (de 17h a 20h)\n\nOriginal title: The Conspirator\n\nRelease 
+ year: 2011\n\nOriginal language: EN\n\nhttps://entradasfilmoteca.sacatuent
+ rada.es/es/productos/descripcion/la-conspiracion
 LOCATION:Filmoteca Espanola - Cine Dore Sala de verano - Calle de Santa Is
  abel\, 3\, Madrid
 END:VEVENT
