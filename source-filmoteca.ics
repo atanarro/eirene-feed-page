@@ -2,46 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Las furias
-DTSTART;TZID=Europe/Madrid:20260806T180000
-UID:fd31676fd79277b42347440325ca12226ac13eaf8df1b5f982e2f05c60b5cace
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Jueves 6 de agosto a las 18:00h (Sala 1. Vlasta 
- Lah: La memoria recobrada) *Aunque las entradas aparezcan como agotadas en
-  web\, pueden adquirirse en taquilla entradas para las sesiones del día (
- de 17h a 20h)\n\nRelease year: 1960\n\nOriginal language: ES\n\nhttps://en
- tradasfilmoteca.sacatuentrada.es/es/productos/descripcion/las-furias
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Crónica de un niño solo
-DTSTART;TZID=Europe/Madrid:20260806T203000
-UID:2bf79ce4b2acdb5efa4bae27bed839faaebef68cbc4f53c1b417eba05057da29
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Jueves 6 de agosto a las 20:30h (Sala 1. Leonard
- o Favio: testimoniar el llanto) *Aunque las entradas aparezcan como agotad
- as en web\, pueden adquirirse en taquilla entradas para las sesiones del d
- ía (de 17h a 20h)\n\nRelease year: 1965\n\nOriginal language: ES\n\nhttps
- ://entradasfilmoteca.sacatuentrada.es/es/productos/descripcion/cronica-de-
- un-niño-solo
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Tied Up Balloon
-DTSTART;TZID=Europe/Madrid:20260806T220000
-UID:39d9bc333ed77999780539d65c135e9126bdfc4cc70d515b74de0dd1a1275e8e
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Jueves 6 de agosto a las 22:00h (Sala de verano.
-  Binka Zhelyazkova: Alegorías de la resistencia) *Aunque las entradas apa
- rezcan como agotadas en web\, pueden adquirirse en taquilla entradas para 
- las sesiones del día (de 17h a 20h)\n\nhttps://entradasfilmoteca.sacatuen
- trada.es/es/productos/descripcion/the-tied-up-balloon-6-agosto
-LOCATION:Filmoteca Espanola - Cine Dore Sala de verano - Calle de Santa Is
- abel\, 3\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Las modelos
 DTSTART;TZID=Europe/Madrid:20260807T180000
 UID:ccfabafde728fabd11dabdbc171bf2a83b12d34de0ac6081917c7d82b382d186
@@ -441,6 +401,47 @@ DESCRIPTION:Fecha y Hora: Jueves 20 de agosto a las 22:00h (Sala de verano
  nes del día (de 17h a 20h)\n\nOriginal title: The Conspirator\n\nRelease 
  year: 2011\n\nOriginal language: EN\n\nhttps://entradasfilmoteca.sacatuent
  rada.es/es/productos/descripcion/la-conspiracion
+LOCATION:Filmoteca Espanola - Cine Dore Sala de verano - Calle de Santa Is
+ abel\, 3\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La route de Salina
+DTSTART;TZID=Europe/Madrid:20260821T180000
+UID:0372c4b7639c4da5c49dc6bf5f54efc8771432db398fc6bc2166e7178b5e0e00
+CATEGORIES:cinema
+DESCRIPTION:Fecha y Hora: Viernes 21 de agosto a las 18:00h (Sala 1. Góti
+ co Mediterráneo: Eros y Thanatos bajo el sol) *Aunque las entradas aparez
+ can como agotadas en web\, pueden adquirirse en taquilla entradas para las
+  sesiones del día (de 17h a 20h)\n\nhttps://entradasfilmoteca.sacatuentra
+ da.es/es/productos/descripcion/la-route-de-salina-21-agosto
+LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
+ \, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Soñar\, soñar
+DTSTART;TZID=Europe/Madrid:20260821T203000
+UID:ac46dfed6261f997ebfd2de5f76f3405c7c9685aa74df9391c971ca7856de247
+CATEGORIES:cinema
+DESCRIPTION:Fecha y Hora: Viernes 21 de agosto a las 20:30h (Sala 1. Leona
+ rdo Favio: Testimoniar el llanto) *Aunque las entradas aparezcan como agot
+ adas en web\, pueden adquirirse en taquilla entradas para las sesiones del
+  día (de 17h a 20h)\n\nRelease year: 1976\n\nOriginal language: ES\n\nhtt
+ ps://entradasfilmoteca.sacatuentrada.es/es/productos/descripcion/soñar-so
+ ñar-21-agosto
+LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
+ \, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jimmy’s Hall
+DTSTART;TZID=Europe/Madrid:20260821T220000
+UID:486cd85a7447f32500a8f11cf7fe3b9124d879e9a5934be485c0be341d8c67d0
+CATEGORIES:cinema
+DESCRIPTION:Fecha y Hora: Viernes 21 de agosto a las 22:00h (Sala de veran
+ o. Kean Loach: Crónicas de la conciencia) *Aunque las entradas aparezcan 
+ como agotadas en web\, pueden adquirirse en taquilla entradas para las ses
+ iones del día (de 17h a 20h)\n\nRelease year: 2014\n\nOriginal language: 
+ EN\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/productos/descripcion/
+ jimmy-s-hall-21-agosto
 LOCATION:Filmoteca Espanola - Cine Dore Sala de verano - Calle de Santa Is
  abel\, 3\, Madrid
 END:VEVENT
