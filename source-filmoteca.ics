@@ -2,48 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:El dependiente
-DTSTART;TZID=Europe/Madrid:20260808T180000
-UID:f5a8616e90d040df2dcff84a02081c655edd7f1a372bdd5461f42bc3e9d3c8b0
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Sábado 8 de agosto a las 18:00h (Sala 1. Leonar
- do Favio: Testimoniar el llanto) *Aunque las entradas aparezcan como agota
- das en web\, pueden adquirirse en taquilla entradas para las sesiones del 
- día (de 17h a 20h)\n\nRelease year: 1969\n\nOriginal language: ES\n\nhttp
- s://entradasfilmoteca.sacatuentrada.es/es/productos/descripcion/el-dependi
- ente
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El viejo roble
-DTSTART;TZID=Europe/Madrid:20260808T203000
-UID:75bbb798730d604751d8a63021cda5034ad77f5a03c5aed2566ef5e796a676e0
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Sábado 8 de agosto a las 20:30h (Sala 1. Kean L
- oach: Crónicas de la conciencia) *Aunque las entradas aparezcan como agot
- adas en web\, pueden adquirirse en taquilla entradas para las sesiones del
-  día (de 17h a 20h)\n\nOriginal title: The Old Oak\n\nRelease year: 2023\
- n\nOriginal language: EN\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/
- productos/descripcion/el-viejo-roble-8-agosto
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Un lugar llamado Milagro
-DTSTART;TZID=Europe/Madrid:20260808T220000
-UID:c61eea524a6ca32000f8b56625bdb9930e876bc349c2e50a3d2b8e7977922521
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Sábado 8 de agosto a las 22:00h (Sala de verano
- . Robert Redford: Del mito a la mirada) *Aunque las entradas aparezcan com
- o agotadas en web\, pueden adquirirse en taquilla entradas para las sesion
- es del día (de 17h a 20h)\n\nOriginal title: The Milagro Beanfield War\n\
- nRelease year: 1988\n\nOriginal language: EN\n\nhttps://entradasfilmoteca.
- sacatuentrada.es/es/productos/descripcion/un-lugar-llamado-milagro
-LOCATION:Filmoteca Espanola - Cine Dore Sala de verano - Calle de Santa Is
- abel\, 3\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Soñar\, soñar
 DTSTART;TZID=Europe/Madrid:20260809T180000
 UID:9211ed74741e62dc6ed57ad2fb7b977fbbb45df133dd9e5043c8e06883795187
@@ -51,9 +9,9 @@ CATEGORIES:cinema
 DESCRIPTION:Fecha y Hora: Domingo 9 de agosto a las 18:00h (Sala 1. Leonar
  do Favio: Testimoniar el llanto) *Aunque las entradas aparezcan como agota
  das en web\, pueden adquirirse en taquilla entradas para las sesiones del 
- día (de 17h a 20h)\n\nRelease year: 1976\n\nOriginal language: ES\n\nhttp
- s://entradasfilmoteca.sacatuentrada.es/es/productos/descripcion/soñar-so
- ñar
+ día (de 17h a 20h)\n\nOriginal title: Va' sonar\n\nRelease year: 2024\n\n
+ Original language: EN\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/pro
+ ductos/descripcion/soñar-soñar
 LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
  \, Madrid
 END:VEVENT
@@ -385,9 +343,9 @@ CATEGORIES:cinema
 DESCRIPTION:Fecha y Hora: Viernes 21 de agosto a las 20:30h (Sala 1. Leona
  rdo Favio: Testimoniar el llanto) *Aunque las entradas aparezcan como agot
  adas en web\, pueden adquirirse en taquilla entradas para las sesiones del
-  día (de 17h a 20h)\n\nRelease year: 1976\n\nOriginal language: ES\n\nhtt
- ps://entradasfilmoteca.sacatuentrada.es/es/productos/descripcion/soñar-so
- ñar-21-agosto
+  día (de 17h a 20h)\n\nOriginal title: Va' sonar\n\nRelease year: 2024\n\
+ nOriginal language: EN\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/pr
+ oductos/descripcion/soñar-soñar-21-agosto
 LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
  \, Madrid
 END:VEVENT
@@ -445,5 +403,33 @@ DESCRIPTION:Fecha y Hora: Sábado 22 de agosto a las 22:00h (Sala de veran
  es/productos/descripcion/pacto-de-silencio-1
 LOCATION:Filmoteca Espanola - Cine Dore Sala de verano - Calle de Santa Is
  abel\, 3\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La parte de los ángeles
+DTSTART;TZID=Europe/Madrid:20260823T180000
+UID:6e70c150b48f279735bd5251ae3f1187d814c012f5cc6dc1f734a2fbc06e3ec2
+CATEGORIES:cinema
+DESCRIPTION:Fecha y Hora: Domingo 23 de agosto a las 18:00h (Sala 1. Ken L
+ oach: Crónicas de la conciencia) *Aunque las entradas aparezcan como agot
+ adas en web\, pueden adquirirse en taquilla entradas para las sesiones del
+  día (de 17h a 20h)\n\nOriginal title: The Angels' Share\n\nRelease year:
+  2012\n\nOriginal language: EN\n\nhttps://entradasfilmoteca.sacatuentrada.
+ es/es/productos/descripcion/la-parte-de-los-angeles-23-agosto
+LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
+ \, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Juan Moreira
+DTSTART;TZID=Europe/Madrid:20260823T203000
+UID:d0416c2a5ff6d87aa380f802e3f6113ff4e1ac3f57fb5cc7c82240e9329a1e18
+CATEGORIES:cinema
+DESCRIPTION:Fecha y Hora : Domingo 23 de agosto a las 20:30h (Sala 1. Leon
+ ardo Favio: Testimoniar el llanto / Fuera del radar) *Aunque las entradas 
+ aparezcan como agotadas en web\, pueden adquirirse en taquilla entradas pa
+ ra las sesiones del día (de 17h a 20h)\n\nRelease year: 1936\n\nOriginal 
+ language: ES\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/productos/de
+ scripcion/juan-moreira-23-agosto
+LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
+ \, Madrid
 END:VEVENT
 END:VCALENDAR

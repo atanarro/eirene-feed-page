@@ -2,28 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:ISRAEL SANDOVAL FUSION TRIO
-DTSTART;TZID=Europe/Madrid:20260808T200000
-DTEND;TZID=Europe/Madrid:20260809T200000
-UID:f1e8b2a8c08cb3879f780031e5d9883de7797e5a0f3e2157fc3c1017d53984be
-CATEGORIES:music
-DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
-  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
- s://ateneodemadrid.com/evento/israel-sandoval-fusion-trio/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Leñera (tributo a Leño)
-DTSTART;TZID=Europe/Madrid:20260808T213000
-UID:b3803dc8749aa5887e84672f7fb56a354e8f48fc774935040342a234803f3c93
-CATEGORIES:music
-DESCRIPTION:Precio de las entradas: 12€/15€ Entradas a la venta en mov
- ingtickets Bio/enlaces bandas: La Leñera_facebook Más información: La L
- eñera\, lo más parecido a escuchar\n\nhttps://gruta77.com/events/la-lene
- ra-tributo-a-leno-8/var/ri-0.l-L2
-LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Godsmack
 DTSTART;TZID=Europe/Madrid:20260809T183000
 UID:f32961deba63c2ebec94552c287e77fd8fde246a2b7dadac20f581d9a3c1e74a
@@ -122,5 +100,16 @@ DESCRIPTION:Precio de las entradas: 15€/18€ Entradas a la venta en ent
  a77.com/events/american-rock-punk-fest-neverminders-tributo-a-nirvana-smas
  h-tributo-a-the-offspring-suburbia-tributo-a-green-day-2/var/ri-0.l-L2
 LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANAL STREET JAZZ BAND
+DTSTART;TZID=Europe/Madrid:20260823T200000
+DTEND;TZID=Europe/Madrid:20260823T200000
+UID:6e33c79e1e883e86231eae5765f6801f9ce09593422cefc8984b6e869b15429a
+CATEGORIES:music
+DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
+  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
+ s://ateneodemadrid.com/evento/canal-street-jazz-band/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 END:VCALENDAR
