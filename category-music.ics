@@ -2,16 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Godsmack
-DTSTART;TZID=Europe/Madrid:20260809T183000
-UID:f32961deba63c2ebec94552c287e77fd8fde246a2b7dadac20f581d9a3c1e74a
-CATEGORIES:music
-DESCRIPTION:Apertura Puertas: 18:00\n\nhttps://ticketgate.es/events/godsma
- ck-en-madrid
-LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
- id
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:MINGO BALAGUER & PABLO SANPA BLUES BLAST
 DTSTART;TZID=Europe/Madrid:20260810T200000
 DTEND;TZID=Europe/Madrid:20260811T200000
@@ -89,19 +79,6 @@ DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:American Rock Punk Fest.: Neverminders (tributo a Nirvana) + Smash
-  (tributo a The Offspring) + Suburbia (tributo a Green Day)
-DTSTART;TZID=Europe/Madrid:20260822T213000
-UID:84e5ec14d8c1a34cd65c640db22b1ba6600236b7c1b1d9e4e286d89cab1fdc8e
-CATEGORIES:music
-DESCRIPTION:Precio de las entradas: 15€/18€ Entradas a la venta en ent
- radium Más información: “American Rock Punk” festival revivir las ca
- nciones de las grandes bandas del punk-rock americano\, de\n\nhttps://grut
- a77.com/events/american-rock-punk-fest-neverminders-tributo-a-nirvana-smas
- h-tributo-a-the-offspring-suburbia-tributo-a-green-day-2/var/ri-0.l-L2
-LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CANAL STREET JAZZ BAND
 DTSTART;TZID=Europe/Madrid:20260823T200000
 DTEND;TZID=Europe/Madrid:20260823T200000
@@ -110,6 +87,17 @@ CATEGORIES:music
 DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
   el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
  s://ateneodemadrid.com/evento/canal-street-jazz-band/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GASTÓN JOYA TRIO FEAT. IDANIA VALDÉS
+DTSTART;TZID=Europe/Madrid:20260824T200000
+DTEND;TZID=Europe/Madrid:20260825T200000
+UID:4fd8a96ce4ad9af8b6453ea13117262ca34b0d022c60ddb919c4f15ffeeac0a7
+CATEGORIES:music
+DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
+  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
+ s://ateneodemadrid.com/evento/gaston-joya-trio-feat-idania-valdes/
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 END:VCALENDAR
