@@ -2,34 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Gatica\, el mono
-DTSTART;TZID=Europe/Madrid:20260811T180000
-UID:b7ba364a577f2f1fc488aea68b7f0ab2ce1483eea64be7a412b87039dfede0d7
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Martes 11 de agosto a las 18:00h (Sala 1. Leonar
- do Favio: Testimoniar el llanto) *Aunque las entradas aparezcan como agota
- das en web\, pueden adquirirse en taquilla entradas para las sesiones del 
- día (de 17h a 20h)\n\nRelease year: 1993\n\nOriginal language: ES\n\nhttp
- s://entradasfilmoteca.sacatuentrada.es/es/productos/descripcion/gatica-el-
- mono-11-agosto
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:En un mundo libre…
-DTSTART;TZID=Europe/Madrid:20260811T210000
-UID:75c47d8b66469f688c1fd333bfe440e30780bc9a4fa2d08e46b1b2c1f0f74519
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Martes 11 de agosto a las 21:00h (Sala 1. Ken Lo
- ach: Crónicas de la conciencia) *Aunque las entradas aparezcan como agota
- das en web\, pueden adquirirse en taquilla entradas para las sesiones del 
- día (de 17h a 20h)\n\nOriginal title: It's a Free World...\n\nRelease yea
- r: 2007\n\nOriginal language: EN\n\nhttps://entradasfilmoteca.sacatuentrad
- a.es/es/productos/descripcion/en-un-mundo-libre-
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Life Flows Slowly By…
 DTSTART;TZID=Europe/Madrid:20260812T180000
 UID:a91ad0cada8c3f0ae292eeac747b18c6f5316d251fdb0414e092cf4397eb8db2
@@ -431,5 +403,47 @@ DESCRIPTION:Fecha y Hora: Martes 25 de agosto a las 20:30h (Sala 1. Ken Lo
  s/productos/descripcion/la-cuadrilla-1
 LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
  \, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El río de la vida
+DTSTART;TZID=Europe/Madrid:20260826T180000
+UID:2d06b00a38dcbbf4a32bf96d0c94a6b37aa9d4106177d10231e687a66c82f388
+CATEGORIES:cinema
+DESCRIPTION:Fecha y Hora : Miércoles 26 de agosto a las 18:00h (Sala 1. R
+ obert Redford: Del mito a la mirada) *Aunque las entradas aparezcan como a
+ gotadas en web\, pueden adquirirse en taquilla entradas para las sesiones 
+ del día (de 17h a 20h)\n\nOriginal title: A River Runs Through It\n\nRele
+ ase year: 1992\n\nOriginal language: EN\n\nhttps://entradasfilmoteca.sacat
+ uentrada.es/es/productos/descripcion/el-rio-de-la-vida-1
+LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
+ \, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:More
+DTSTART;TZID=Europe/Madrid:20260826T203000
+UID:8ff977580cb9247c29314aa51ae6bedfb747642c3c873b7d2e6bf2757f39a16a
+CATEGORIES:cinema
+DESCRIPTION:Fecha y Hora: Miércoles 26 de agosto a las 20:30h (Sala 1. G
+ ótico Mediterráneo: Eros y Thanatos bajo el sol) *Aunque las entradas ap
+ arezcan como agotadas en web\, pueden adquirirse en taquilla entradas para
+  las sesiones del día (de 17h a 20h)\n\nRelease year: 1969\n\nOriginal la
+ nguage: EN\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/productos/desc
+ ripcion/more-26-agosto
+LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
+ \, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nazareno Cruz y el lobo
+DTSTART;TZID=Europe/Madrid:20260826T220000
+UID:1ae0502fe85b928363c1a5a64bfd4a2166c102618a41c1165f20130860e80455
+CATEGORIES:cinema
+DESCRIPTION:Fecha y Hora: Miércoles 26 de agosto a las 22:00h (Sala de ve
+ rano. Leonardo Favio: Testimoniar el llanto) *Aunque las entradas aparezca
+ n como agotadas en web\, pueden adquirirse en taquilla entradas para las s
+ esiones del día (de 17h a 20h)\n\nRelease year: 1975\n\nOriginal language
+ : ES\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/productos/descripcio
+ n/nazareno-cruz-y-el-lobo-1
+LOCATION:Filmoteca Espanola - Cine Dore Sala de verano - Calle de Santa Is
+ abel\, 3\, Madrid
 END:VEVENT
 END:VCALENDAR
