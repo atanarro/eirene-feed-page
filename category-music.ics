@@ -2,17 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:THE JAZZ WARRIORS
-DTSTART;TZID=Europe/Madrid:20260812T200000
-DTEND;TZID=Europe/Madrid:20260813T200000
-UID:f8e586f86f2f8aeba699c2de5bfdd1f4c17117d3b77af86cc9e60a0e6f4e8dd9
-CATEGORIES:music
-DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
-  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
- s://ateneodemadrid.com/evento/the-jazz-warriors/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CHAMES MEETS HERMON MEHARI
 DTSTART;TZID=Europe/Madrid:20260814T200000
 DTEND;TZID=Europe/Madrid:20260815T200000
@@ -112,5 +101,17 @@ DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
   el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
  s://ateneodemadrid.com/evento/inaki-arakistain-quartet/
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Upchuck (EEUU) + Ikhorium + Los Pólipos
+DTSTART;TZID=Europe/Madrid:20260827T203000
+UID:63297b84fdf7ac182e161b67015f3ff193c10784c3a2d7f630d193f514554f96
+CATEGORIES:music
+DESCRIPTION:Precio de las entradas: 13€/16€ Entradas a la venta en Gru
+ ta77 y en entradium Bio/enlaces bandas: Upchuck_facebook + Upchuck_instagr
+ am Ikhorium_instagram Los Pólipos_instagram + Los Pólipos_bandcamp Más 
+ información: Desde Atlanta\, USA\, llega Upchuck\,\n\nhttps://gruta77.com
+ /events/upchuck-eeuu-ikhorium-slow-trauma-kiss/var/ri-0.l-L2
+LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
 END:VEVENT
 END:VCALENDAR
