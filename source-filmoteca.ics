@@ -2,47 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Gente corriente
-DTSTART;TZID=Europe/Madrid:20260813T180000
-UID:37f639584f12b4b57558884ef855fea3555e7bd12a9138a841578f4ad9d7177f
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Jueves 13 de agosto a las 18:00h (Sala 1. Robert
-  Redford: Del mito a la mirada) *Aunque las entradas aparezcan como agotad
- as en web\, pueden adquirirse en taquilla entradas para las sesiones del d
- ía (de 17h a 20h)\n\nOriginal title: Ordinary People\n\nRelease year: 198
- 0\n\nOriginal language: EN\n\nhttps://entradasfilmoteca.sacatuentrada.es/e
- s/productos/descripcion/gente-corriente-13-agosto
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Bright and Dark Sides of Things
-DTSTART;TZID=Europe/Madrid:20260813T203000
-UID:23bf50caa5edfa5b68c5333b2096a28b8558358f8e9deae0b2f86bc49073a99f
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Jueves 13 de agosto a las 20:30h (Sala 1. Binka 
- Zhelyazkova: Alegorías de la resistencia) *Aunque las entradas aparezcan 
- como agotadas en web\, pueden adquirirse en taquilla entradas para las ses
- iones del día (de 17h a 20h)\n\nhttps://entradasfilmoteca.sacatuentrada.e
- s/es/productos/descripcion/the-bright-and-dark-sides-of-things
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La isla de la muerte
-DTSTART;TZID=Europe/Madrid:20260813T220000
-UID:c83ad594d3f28fb0d99bc24293ec0a4c3a247e9b6cfc6ffd777ca09c6df99d58
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Jueves 13 de agosto a las 22:00h (Sala de verano
- . Gótico Mediterráneo: Eros y Thanatos bajo el sol) *Aunque las entradas
-  aparezcan como agotadas en web\, pueden adquirirse en taquilla entradas p
- ara las sesiones del día (de 17h a 20h)\n\nOriginal title: De Sade 70\n\n
- Release year: 1970\n\nOriginal language: ES\n\nhttps://entradasfilmoteca.s
- acatuentrada.es/es/productos/descripcion/la-isla-de-la-muerte
-LOCATION:Filmoteca Espanola - Cine Dore Sala de verano - Calle de Santa Is
- abel\, 3\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Crónica de un niño solo
 DTSTART;TZID=Europe/Madrid:20260814T180000
 UID:86b39ef75a829b96143e8f556fd9202c6b3be49429f3c602dde8e9daf9bd189b
@@ -246,9 +205,9 @@ CATEGORIES:cinema
 DESCRIPTION:Fecha y Hora: Viernes 21 de agosto a las 20:30h (Sala 1. Leona
  rdo Favio: Testimoniar el llanto) *Aunque las entradas aparezcan como agot
  adas en web\, pueden adquirirse en taquilla entradas para las sesiones del
-  día (de 17h a 20h)\n\nRelease year: 1976\n\nOriginal language: ES\n\nhtt
- ps://entradasfilmoteca.sacatuentrada.es/es/productos/descripcion/soñar-so
- ñar-21-agosto
+  día (de 17h a 20h)\n\nOriginal title: Va' sonar\n\nRelease year: 2024\n\
+ nOriginal language: EN\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/pr
+ oductos/descripcion/soñar-soñar-21-agosto
 LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
  \, Madrid
 END:VEVENT
@@ -443,6 +402,46 @@ DESCRIPTION:Fecha y Hora: Jueves 27 de agosto a las 22:00h (Sala de verano
  es del día (de 17h a 20h)\n\nOriginal title: Quiz Show\n\nRelease year: 1
  994\n\nOriginal language: EN\n\nhttps://entradasfilmoteca.sacatuentrada.es
  /es/productos/descripcion/quiz-show-el-dilema-1
+LOCATION:Filmoteca Espanola - Cine Dore Sala de verano - Calle de Santa Is
+ abel\, 3\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Bright and Dark Sides of Things
+DTSTART;TZID=Europe/Madrid:20260828T180000
+UID:9cb8adf2df912efc8dc7ea46b9c31b500e0a7d3ed5473876410acb237b2d3366
+CATEGORIES:cinema
+DESCRIPTION:Fecha y Hora: Viernes 28 de agosto a las 18:00h (Sala 1. Binka
+  Zhelyazkova: Alegorías de la resistencia) *Aunque las entradas aparezcan
+  como agotadas en web\, pueden adquirirse en taquilla entradas para las se
+ siones del día (de 17h a 20h)\n\nhttps://entradasfilmoteca.sacatuentrada.
+ es/es/productos/descripcion/the-bright-and-dark-sides-of-things-28-agosto
+LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
+ \, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La conspiración (The Conspirator\, 2010).
+DTSTART;TZID=Europe/Madrid:20260828T210000
+UID:188e9a9a7cce3603e6dc7c8d6da9128a588dfc847ee11d63348ff5f025a4039a
+CATEGORIES:cinema
+DESCRIPTION:Fecha y Hora: Viernes 28 de agosto a las 21:00h (Sala 1. Rober
+ t Redford: Del mito a la mirada) *Aunque las entradas aparezcan como agota
+ das en web\, pueden adquirirse en taquilla entradas para las sesiones del 
+ día (de 17h a 20h)\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/produ
+ ctos/descripcion/la-conspiracion-28-agosto
+LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
+ \, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kinetta
+DTSTART;TZID=Europe/Madrid:20260828T220000
+UID:71ee96442d6d6dcd185443c5bc4ec293772047038e6061fd1b0872338c0f8996
+CATEGORIES:cinema
+DESCRIPTION:Fecha y Hora: Viernes 28 de agosto a las 22:00h (Sala de veran
+ o. Gótico Mediterráneo: Eros y Thanatos bajo el sol) *Aunque las entrada
+ s aparezcan como agotadas en web\, pueden adquirirse en taquilla entradas 
+ para las sesiones del día (de 17h a 20h)\n\nOriginal title: Κινέττ
+ α\n\nRelease year: 2005\n\nOriginal language: EL\n\nhttps://entradasfilmo
+ teca.sacatuentrada.es/es/productos/descripcion/kinetta-28-agosto
 LOCATION:Filmoteca Espanola - Cine Dore Sala de verano - Calle de Santa Is
  abel\, 3\, Madrid
 END:VEVENT
