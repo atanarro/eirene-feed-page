@@ -2,17 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:INOIDEL GONZÁLEZ TRÍO
-DTSTART;TZID=Europe/Madrid:20260817T200000
-DTEND;TZID=Europe/Madrid:20260818T200000
-UID:22dc84a556028fc8bc5921d45c91dd1885f34b7f2d68fc64cfe3ec91dfe4ea76
-CATEGORIES:music
-DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
-  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
- s://ateneodemadrid.com/evento/inoidel-gonzalez-trio/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:HAROLD REY QUARTET
 DTSTART;TZID=Europe/Madrid:20260819T200000
 DTEND;TZID=Europe/Madrid:20260820T200000
@@ -172,6 +161,18 @@ CATEGORIES:music
 DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
   el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
  s://ateneodemadrid.com/evento/ogun-afrobeat/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:II Festival Internacional de Piano
+DTSTART;TZID=Europe/Madrid:20260901T190000
+DTEND;TZID=Europe/Madrid:20260901T190000
+UID:d30739e69b4cf52c944c4fa7f10be0e20d2d4573148c2fef3c206645c81b1250
+CATEGORIES:music
+DESCRIPTION:Concierto inaugural. Programa. \n \nCon Maurizio Arroyo y Karl
+ a Martínez\, Mario Mora\, Saša Gerželj & Fali Pavri\, piano a 4 manos. 
+ \nCátedra Mayor\, 19:00 h.\n\nhttps://ateneodemadrid.com/evento/ii-festiv
+ al-internacional-de-piano/
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 END:VCALENDAR
