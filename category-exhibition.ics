@@ -2,19 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Exponencial. De analógicos a digitales
-DTSTART;TZID=Europe/Madrid:20240514T000000
-DTEND;TZID=Europe/Madrid:20271231T000000
-UID:f5757770ba2619f835632f368e9ae1c25e8353ae577ea62f600b1f84611272c3
-CATEGORIES:exhibition
-DESCRIPTION:Exposición permanente que explora el creciente impacto que ha
-  tenido el desarrollo de las telecomunicaciones en todos los ámbitos de n
- uestras vidas (Espacio Fundación Telefónica.\n\nhttp://espacio.fundacio
- ntelefonica.com/
-LOCATION:Espacio Fundación Telefónica - de Fuencarral\, 3\, Madrid\, 280
- 04
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Artemisa: la magia de la Luna
 DTSTART;TZID=Europe/Madrid:20241206T000000
 DTEND;TZID=Europe/Madrid:20261227T000000
@@ -594,18 +581,6 @@ DESCRIPTION:El Festival Internacional de Fotografía y Artes Visuales cele
 LOCATION:Madrid - Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fueron tejidos. Teresa Lanceta
-DTSTART;TZID=Europe/Madrid:20260519T000000
-DTEND;TZID=Europe/Madrid:20261115T000000
-UID:b6f06a565e3da5d3b126f070066b1ba31b913eeb04edc29b460750424f0922e0
-CATEGORIES:exhibition
-DESCRIPTION:La artista presenta un proyecto insólito que busca reconstrui
- r el pasado a través de la práctica textil (Museo Arqueológico Nacional
- . Hasta 15 nov).\n\nhttps://www.man.es/man/exposiciones/exposiciones-tempo
- rales-en-exposicion-permanente/20260519-teresa-lanceta.html
-LOCATION:Museo Arqueológico Nacional - de Serrano\, 13\, Madrid\, 28001
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bateas novo-hispanas. Una encrucijada cultural
 DTSTART;TZID=Europe/Madrid:20260521T000000
 DTEND;TZID=Europe/Madrid:20261018T000000
@@ -1141,16 +1116,16 @@ LOCATION:Galería de las Colecciones Reales - de Bailén\, 8\, Madrid\, 28
  013
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:On the Geography of the River. Linarejos Moreno (PHotoESPAÑA 2026
- )
+SUMMARY:El Gran Azul
 DTSTART;TZID=Europe/Madrid:20260616T000000
-DTEND;TZID=Europe/Madrid:20260920T000000
-UID:627c2096410a9364a9d3e23d9425d4205dcb5ca6ddb46cb1eafefbe1bd815279
+DTEND;TZID=Europe/Madrid:20260830T000000
+UID:d36dfa717e897d8ff58b5c0fcc4f6613b234b291041327a7a1929ecdc3e02724
 CATEGORIES:exhibition
-DESCRIPTION:La artista presenta un proyecto fotográfico concebido como un
- a intervención site-specific (Museo Arqueológico Nacional. Hasta 20 sept
- ).\n\nhttps://phe.es/exposicion/on-the-geography-of-the-river/
-LOCATION:Museo Arqueológico Nacional - de Serrano\, 13\, Madrid\, 28001
+DESCRIPTION:Exposición fotográfica que retrata la vida en los océanos\,
+  de Álvaro Herrero López-Beltrán (Parque de Santander. Hasta 30 ago).\n
+ \nhttps://www.comunidad.madrid/actividades/2025/exposicion-gran-azul
+LOCATION:Parque de Santander (Parque del Tercer Depósito) - de Filipinas\
+ , 11\, Madrid\, 28003
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rubens. La restauración de Venus y Cupido
@@ -1327,19 +1302,6 @@ DESCRIPTION:EL colectivo PSJM presenta dos proyectos que ofrecen una refle
  de datos y geometría (Casa de América. 25 jun a 30 sept).\n\nhttps://www
  .casamerica.es/exposiciones/democracia-americana
 LOCATION:Casa de América - de Cibeles\, 2\, Madrid\, 28014
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Genealogía del hueco. Capítulo Venezuela
-DTSTART;TZID=Europe/Madrid:20260625T000000
-DTEND;TZID=Europe/Madrid:20260927T000000
-UID:b1b4b3a1c155dd26e1d3a1e5e61d87fdac028336968ee110818aaa18885d8a82
-CATEGORIES:exhibition
-DESCRIPTION:Ángela Bonadies y Cristian Guardia proponen una instalación
-  con piezas del Museo de América junto a archivos personales\, piezas 
- propias y de otras artistas (Museo de Améric\n\nhttps://www.cultura.gob.
- es/museodeamerica/exposiciones/exposiciones-temporales/2026-genealogia-del
- -hueco.html
-LOCATION:Museo de América - de los Reyes Católicos\, 6\, Madrid\, 28040
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:La lentitud de la luz. María Lara
@@ -1746,5 +1708,16 @@ DESCRIPTION:Exposición «Sinergias en Armonía». Sala Anselma. Del 1 al
  anuel Fdz. Gochi.\n\nhttps://ateneodemadrid.com/evento/sinergias-en-armoni
  a/
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Modos de ver (PHotoESPAÑA 2026)
+DTSTART;TZID=Europe/Madrid:20260903T000000
+DTEND;TZID=Europe/Madrid:20260927T000000
+UID:71e641f77a5ec36508a7bf205a7b26b9684162958b99aad9dab2891b589baf7b
+CATEGORIES:exhibition
+DESCRIPTION:Exposición colectiva con 50 artistas que redefine la fotograf
+ ía contemporánea\, la identidad y el archivo visual (C Arte C. 3 a 27 se
+ ptiembre).\n\nhttps://phe.es/exposicion/modos-de-ver/
+LOCATION:C Arte C - de Juan de Herrera\, 2\, Madrid\, 28040
 END:VEVENT
 END:VCALENDAR
