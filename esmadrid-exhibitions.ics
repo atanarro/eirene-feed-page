@@ -2,6 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
+SUMMARY:Exponencial. De analógicos a digitales
+DTSTART;TZID=Europe/Madrid:20240514T000000
+DTEND;TZID=Europe/Madrid:20271231T000000
+UID:f5757770ba2619f835632f368e9ae1c25e8353ae577ea62f600b1f84611272c3
+CATEGORIES:exhibition
+DESCRIPTION:Exposición permanente que explora el creciente impacto que ha
+  tenido el desarrollo de las telecomunicaciones en todos los ámbitos de n
+ uestras vidas (Espacio Fundación Telefónica.\n\nhttp://espacio.fundacio
+ ntelefonica.com/
+LOCATION:Espacio Fundación Telefónica - de Fuencarral\, 3\, Madrid\, 280
+ 04
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Artemisa: la magia de la Luna
 DTSTART;TZID=Europe/Madrid:20241206T000000
 DTEND;TZID=Europe/Madrid:20261227T000000
@@ -86,18 +99,6 @@ DESCRIPTION:Exposición organizada por Renfe que muestra un viaje por 85 a
 LOCATION:Museo del Ferrocarril - de las Delicias\, 61\, Madrid\, 28045
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Julia\, de Jaume Plensa
-DTSTART;TZID=Europe/Madrid:20251221T000000
-DTEND;TZID=Europe/Madrid:20271231T000000
-UID:7171f6f50b0beab2efb6aa0071ff19f668c52e8be99bf2701e8ecdc14a1dd592
-CATEGORIES:exhibition
-DESCRIPTION:Una escultura de 12 metros del artista barcelonés se ubica so
- bre el pedestal donde estaba la estatua del navegante genovés (Plaza de C
- olón. Hasta diciembre 2027).\n\nhttps://www.fundacioncristinamasaveu.com/
- portfolio/julia-de-jaume-plensa/
-LOCATION:Plaza de Colón - de Colón\, Madrid\, 28004
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Fardo. Andrea Canepa
 DTSTART;TZID=Europe/Madrid:20260113T000000
 DTEND;TZID=Europe/Madrid:20270101T000000
@@ -141,8 +142,8 @@ DTEND;TZID=Europe/Madrid:20260830T000000
 UID:beb3f7612b407698fd27e02029e6b3745bb348a63fe10e18f1e896acddc29572
 CATEGORIES:exhibition
 DESCRIPTION:Primera exposición monográfica en España dedicada a la arti
- sta visual americana (Centro de Arte Dos de Mayo - CA2M. Hasta 30 ago).\n\
- nhttps://ca2m.org/exposiciones/dorothy-iannone-una-y-otra-vez
+ sta visual americana (Centro de Arte Dos de Mayo - CA2M. Hasta 30 ago).\n
+ \nhttps://ca2m.org/exposiciones/dorothy-iannone-una-y-otra-vez
 LOCATION:Centro de Arte Dos de Mayo (CA2M) / Móstoles - de la Constituci
  ón \, 23\, (Móstoles)\, Móstoles\, 28931
 END:VEVENT
@@ -345,8 +346,8 @@ CATEGORIES:exhibition
 DESCRIPTION:Exposición que recorre la historia del videojuego\, desde sus
   inicios hasta la actualidad (OXO. Museo del Videjuego en Madrid. Lunes a 
  domingos).\n\nhttps://oxomuseomadrid.com/exposicion-arcade-origins/
-LOCATION:OXO. Museo del Videojuego en Madrid - del Postigo de San Martín\
- , 8\, Madrid\, 28013
+LOCATION:OXO. Museo del Videojuego en Madrid - del Postigo de San Martín
+ \, 8\, Madrid\, 28013
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Volver a mirar
@@ -372,8 +373,8 @@ DESCRIPTION:El artista mexicano reinterpreta las ilustraciones de Theodor
   México en su historia reciente (Instituto Cultural de México\n\nhttps:/
  /icm.sre.gob.mx/espana/index.php/otros/953-exposicion-america-visiones-nue
  vas-desde-el-viejo-mundo-de-demian-flores
-LOCATION:Instituto Cultural de México en España - de San Jerónimo\, 46\
- , Madrid\, 28014
+LOCATION:Instituto Cultural de México en España - de San Jerónimo\, 46
+ \, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bienestar en la ciudad
@@ -581,6 +582,18 @@ DESCRIPTION:El Festival Internacional de Fotografía y Artes Visuales cele
 LOCATION:Madrid - Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Fueron tejidos. Teresa Lanceta
+DTSTART;TZID=Europe/Madrid:20260519T000000
+DTEND;TZID=Europe/Madrid:20261115T000000
+UID:b6f06a565e3da5d3b126f070066b1ba31b913eeb04edc29b460750424f0922e0
+CATEGORIES:exhibition
+DESCRIPTION:La artista presenta un proyecto insólito que busca reconstrui
+ r el pasado a través de la práctica textil (Museo Arqueológico Nacional
+ . Hasta 15 nov).\n\nhttps://www.man.es/man/exposiciones/exposiciones-tempo
+ rales-en-exposicion-permanente/20260519-teresa-lanceta.html
+LOCATION:Museo Arqueológico Nacional - de Serrano\, 13\, Madrid\, 28001
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bateas novo-hispanas. Una encrucijada cultural
 DTSTART;TZID=Europe/Madrid:20260521T000000
 DTEND;TZID=Europe/Madrid:20261018T000000
@@ -616,8 +629,8 @@ DESCRIPTION:Instalación de gran formato del artista Carlos Amorales que e
  stá formada por miles de mariposas y polillas hechas de papel negro (Fund
  ación Casa de México en España. Hasta 13 septiembre).\n\nhttps://www.ca
  sademexico.es/exposicion/nube-negra-de-carlos-amorales/
-LOCATION:Fundación Casa de México en España - de Alberto Aguilera\, 20\
- , Madrid\, 28015
+LOCATION:Fundación Casa de México en España - de Alberto Aguilera\, 20
+ \, Madrid\, 28015
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ewa Juszkiewicz
@@ -803,13 +816,13 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Los mismos lugares. Jorge Yeregui (PHotoESPAÑA 2026)
 DTSTART;TZID=Europe/Madrid:20260604T000000
-DTEND;TZID=Europe/Madrid:20260906T000000
+DTEND;TZID=Europe/Madrid:20260913T000000
 UID:ea4126f928acf1c74b6f5c4b9038603a2aea8e36a2df65df6466110b31e886e6
 CATEGORIES:exhibition
 DESCRIPTION:Muestra que analiza la transformación del territorio mediante
   fotografía\, vídeo e instalación\, abordando dinámicas sociales\, urb
- anas y ambientales contemporáneas (Museo ICO. Hasta 6 sept).\n\nhttps://p
- he.es/exposicion/los-mismos-lugares/
+ anas y ambientales contemporáneas (Museo ICO.\n\nhttps://phe.es/exposicio
+ n/los-mismos-lugares/
 LOCATION:Museo ICO - de Zorrilla\, 3\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
@@ -892,10 +905,10 @@ DTSTART;TZID=Europe/Madrid:20260606T000000
 DTEND;TZID=Europe/Madrid:20260830T000000
 UID:a80ecef7c37b48ff7369dcda5e0037af87397ae9dbf59942256693d549746816
 CATEGORIES:exhibition
-DESCRIPTION:Las imágenes del fotógrafo dominicano\, afincado en México\
- , protagonizan esta exposición donde queda patente su mirada crítica y h
- umanista (Fundación MAPFRE. Sala Recoletos.\n\nhttps://www.fundacionmapfr
- e.org/arte-y-cultura/exposiciones/
+DESCRIPTION:Las imágenes del fotógrafo dominicano\, afincado en México
+ \, protagonizan esta exposición donde queda patente su mirada crítica y 
+ humanista (Fundación MAPFRE. Sala Recoletos.\n\nhttps://www.fundacionmapf
+ re.org/arte-y-cultura/exposiciones/
 LOCATION:Fundación MAPFRE. Sala Recoletos - de Recoletos\, 23\, Madrid\, 
  28004
 END:VEVENT
@@ -994,8 +1007,8 @@ DESCRIPTION:Exposición que reúne por primera vez el reportaje fotográf
  ico de la manifestación de 1977 en Barcelona\, considerada la primera g
  ran protesta LGTBI en España (Centre Cultural Llibreri\n\nhttps://phe.es/
  exposicion/nosaltres-no-tenim-por-nosaltres-som/
-LOCATION:Centre Cultural - Librería Blanquerna - de Orense\, 62\, Madrid\
- , 28020
+LOCATION:Centre Cultural - Librería Blanquerna - de Orense\, 62\, Madrid
+ \, 28020
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tejiendo la vida cortesana. Tejidos y bordados de las Colecciones 
@@ -1075,8 +1088,8 @@ DESCRIPTION:Exposición que reúne el trabajo de siete fotógrafos mexican
  os de reconocida trayectoria (Fundación Casa de México en España. Hasta
   13 septiembre).\n\nhttps://phe.es/exposicion/espectros-enigmas-de-la-mira
  da/
-LOCATION:Fundación Casa de México en España - de Alberto Aguilera\, 20\
- , Madrid\, 28015
+LOCATION:Fundación Casa de México en España - de Alberto Aguilera\, 20
+ \, Madrid\, 28015
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Toda mi casa es un altar. Gema Polanco (PHotoESPAÑA 2026)
@@ -1116,6 +1129,18 @@ LOCATION:Galería de las Colecciones Reales - de Bailén\, 8\, Madrid\, 28
  013
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:On the Geography of the River. Linarejos Moreno (PHotoESPAÑA 2026
+ )
+DTSTART;TZID=Europe/Madrid:20260616T000000
+DTEND;TZID=Europe/Madrid:20260920T000000
+UID:627c2096410a9364a9d3e23d9425d4205dcb5ca6ddb46cb1eafefbe1bd815279
+CATEGORIES:exhibition
+DESCRIPTION:La artista presenta un proyecto fotográfico concebido como un
+ a intervención site-specific (Museo Arqueológico Nacional. Hasta 20 sept
+ ).\n\nhttps://phe.es/exposicion/on-the-geography-of-the-river/
+LOCATION:Museo Arqueológico Nacional - de Serrano\, 13\, Madrid\, 28001
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:El Gran Azul
 DTSTART;TZID=Europe/Madrid:20260616T000000
 DTEND;TZID=Europe/Madrid:20260830T000000
@@ -1124,8 +1149,8 @@ CATEGORIES:exhibition
 DESCRIPTION:Exposición fotográfica que retrata la vida en los océanos\,
   de Álvaro Herrero López-Beltrán (Parque de Santander. Hasta 30 ago).\n
  \nhttps://www.comunidad.madrid/actividades/2025/exposicion-gran-azul
-LOCATION:Parque de Santander (Parque del Tercer Depósito) - de Filipinas\
- , 11\, Madrid\, 28003
+LOCATION:Parque de Santander (Parque del Tercer Depósito) - de Filipinas
+ \, 11\, Madrid\, 28003
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rubens. La restauración de Venus y Cupido
@@ -1139,19 +1164,6 @@ DESCRIPTION:Montaje especial en el que se puede conocer cómo trabajaba el
  posiciones/rubens-restauracion-venus-cupido
 LOCATION:Museo Nacional Thyssen-Bornemisza - del Prado\, 8\, Madrid\, 2801
  4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Latencia
-DTSTART;TZID=Europe/Madrid:20260618T000000
-DTEND;TZID=Europe/Madrid:20260830T000000
-UID:5b4547dcf43cfe92ec15a0558701db77f3f2551e1ddf71bc4a5ecce9fe68fbde
-CATEGORIES:exhibition
-DESCRIPTION:Exposición colectiva en la que se aborda la memoria como un p
- roceso vivo\, maleable y en constante transformación (Fundación Casa de 
- México en España. Hasta 30 ago).\n\nhttps://www.casademexico.es/exposici
- on/latencia/
-LOCATION:Fundación Casa de México en España - de Alberto Aguilera\, 20\
- , Madrid\, 28015
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Madrid en construcción\, 1940-1985
@@ -1190,8 +1202,8 @@ DESCRIPTION:La campaña creada por la reconocida fotógrafa para el Mundi
  al de Fútbol de 1986 en México vuelve a la actualidad gracias a esta mue
  stra (Fundación Casa de México en España.\n\nhttps://www.casademexico.
  es/exposicion/photoespana-2026-mexico-86-el-mundo-unido-por-un-balon/
-LOCATION:Fundación Casa de México en España - de Alberto Aguilera\, 20\
- , Madrid\, 28015
+LOCATION:Fundación Casa de México en España - de Alberto Aguilera\, 20
+ \, Madrid\, 28015
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Silvina Mizrahi. Ecos de un espíritu sefardí
@@ -1304,6 +1316,19 @@ DESCRIPTION:EL colectivo PSJM presenta dos proyectos que ofrecen una refle
 LOCATION:Casa de América - de Cibeles\, 2\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Genealogía del hueco. Capítulo Venezuela
+DTSTART;TZID=Europe/Madrid:20260625T000000
+DTEND;TZID=Europe/Madrid:20260927T000000
+UID:b1b4b3a1c155dd26e1d3a1e5e61d87fdac028336968ee110818aaa18885d8a82
+CATEGORIES:exhibition
+DESCRIPTION:Ángela Bonadies y Cristian Guardia proponen una instalación
+  con piezas del Museo de América junto a archivos personales\, piezas 
+ propias y de otras artistas (Museo de Améric\n\nhttps://www.cultura.gob.
+ es/museodeamerica/exposiciones/exposiciones-temporales/2026-genealogia-del
+ -hueco.html
+LOCATION:Museo de América - de los Reyes Católicos\, 6\, Madrid\, 28040
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:La lentitud de la luz. María Lara
 DTSTART;TZID=Europe/Madrid:20260625T000000
 DTEND;TZID=Europe/Madrid:20261115T000000
@@ -1326,18 +1351,6 @@ DESCRIPTION:El artista puertorriqueño Bernardo Medina explora la identida
  ” (Casa de América. 25 jun a 30 sept).\n\nhttps://www.casamerica.es/exp
  osiciones/tengo-un-coco-contigo
 LOCATION:Casa de América - de Cibeles\, 2\, Madrid\, 28014
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Leche\, nieve\, lágrima\, mano. El saber hacer de Blanca Sánchez
-DTSTART;TZID=Europe/Madrid:20260626T000000
-DTEND;TZID=Europe/Madrid:20261009T000000
-UID:652ce1d55f3b410746977f24ca47ebad4868b1d8d2695c0ddac4fab80fd8a640
-CATEGORIES:exhibition
-DESCRIPTION:Recorrido por la trayectoria de la gestora\, coleccionista y c
- omisaria de exposiciones española\, figura destacada de la Movida Madrile
- ña (Museo Reina Sofía. Hasta 9 oct).\n\nhttps://www.museoreinasofia.es/e
- xposicion/leche-nieve-lagrima-mano
-LOCATION:Museo Reina Sofía - de Santa Isabel\, 52\, Madrid\, 28012
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Los reconocimientos
@@ -1387,20 +1400,6 @@ DESCRIPTION:Propuesta cultural y de ocio que incluye visitas exclusivas a
  co y una exposición con fotografías ferroviarias (Museo del F\n\nhttps:
  //museodelferrocarril.org/comunicacion/noticia.asp?item=812
 LOCATION:Museo del Ferrocarril - de las Delicias\, 61\, Madrid\, 28045
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Joyas numismáticas del Instituto Valencia de Don Juan: de los car
- olingios a Fernando VII
-DTSTART;TZID=Europe/Madrid:20260702T000000
-DTEND;TZID=Europe/Madrid:20270530T000000
-UID:e742c681aa6b480d5aec8087ced4152aa450ae959805e3aa2df7272b3c3a964b
-CATEGORIES:exhibition
-DESCRIPTION:Exposición que muestra una selección de monedas utilizadas e
- n España desde la Edad Media hasta el siglo XIX (Museo Casa de la Moneda.
-  Hasta 30 may).\n\nhttps://www.museocasadelamoneda.es/exposiciones-tempora
- les
-LOCATION:Museo Casa de La Moneda - del Doctor Esquerdo\, 36\, Madrid\, 280
- 28
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mitologías modernas: Ouka Leele & Co
@@ -1668,8 +1667,8 @@ DESCRIPTION:La exposición recorre la imagen impresa de la dinastía Habsb
  urgo a través de más de cien obras históricas (Biblioteca Histórica UC
  M Marqués de Valdecilla. Hasta 16 noviembre).\n\nhttps://biblioteca.ucm.e
  s/historica/biblioteca-habsburgica-semblanzas-impresas
-LOCATION:Biblioteca Histórica UCM Marqués de Valdecilla - del Noviciado\
- , 3\, Madrid\, 28015
+LOCATION:Biblioteca Histórica UCM Marqués de Valdecilla - del Noviciado
+ \, 3\, Madrid\, 28015
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:José Manuel Ballester (PHotoESPAÑA 2026)

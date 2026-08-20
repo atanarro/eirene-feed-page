@@ -1,7 +1,18 @@
 Eirene feed debug
 Total events: 135
 
-[1] Artemisa: la magia de la Luna
+[1] Exponencial. De analógicos a digitales
+  id: f5757770ba2619f835632f368e9ae1c25e8353ae577ea62f600b1f84611272c3
+  start: 2024-05-14T00:00:00+02:00
+  end: 2027-12-31T00:00:00+01:00
+  category: exhibition
+  source: esmadrid_exhibitions
+  location: Espacio Fundación Telefónica - de Fuencarral, 3, Madrid, 28004
+  coordinates: 40.420058, -3.702313
+  url: http://espacio.fundaciontelefonica.com/
+  description: Exposición permanente que explora el creciente impacto que ha tenido el desarrollo de las telecomunicaciones en todos los ámbitos de nuestras vidas (Espacio Fundación Telefónica.
+
+[2] Artemisa: la magia de la Luna
   id: aa86a883184c75988b42c9fc5aa9bbb73e59f4c3ad519f7d1014e3fecfd60bff
   start: 2024-12-06T00:00:00+01:00
   end: 2026-12-27T00:00:00+01:00
@@ -12,7 +23,7 @@ Total events: 135
   url: https://planetmad.es/events/event/14284/
   description: Una exposición que presenta la belleza y el misterio de la Luna a través de la creatividad de artistas, y el trabajo de científicos y científicas (Planetario.
 
-[2] Machu Picchu: Viaje a la Ciudad Perdida
+[3] Machu Picchu: Viaje a la Ciudad Perdida
   id: 5598fedba9e87a2899379c01c63ca439a2676737138a809d5891a861fe2dd172
   start: 2025-09-25T00:00:00+02:00
   end: 2026-09-30T00:00:00+02:00
@@ -23,7 +34,7 @@ Total events: 135
   url: https://machupicchuexp.com/madrid/
   description: Experiencia de realidad virtual que transporta 450 años atrás al corazón del antiguo Imperio Inca (Fever Hub Madrid. Miércoles a domingos).
 
-[3] Luis Pérez Calvo. Cromos de artista
+[4] Luis Pérez Calvo. Cromos de artista
   id: d1a38d5c3fda69f1b1cd0cbd644d7f9f891b83bb5c54d1351766903fbb53e43b
   start: 2025-10-23T00:00:00+02:00
   end: 2026-09-20T00:00:00+02:00
@@ -34,7 +45,7 @@ Total events: 135
   url: https://www.centrocentro.org/exposicion/luis-perez-calvo
   description: El artista multidisciplinar presenta una exposición integrada por una selección de «cromos» y un mural realizado in situ (CentroCentro. Hasta 20 sept).
 
-[4] Miluca Sanz. Estratos. La inmortalidad de lo efímero
+[5] Miluca Sanz. Estratos. La inmortalidad de lo efímero
   id: a6e10ea49be1d7a3e78235e2c58c637d794692e4b473069a9f09d9c2b5a66b7e
   start: 2025-10-23T00:00:00+02:00
   end: 2026-09-20T00:00:00+02:00
@@ -45,7 +56,7 @@ Total events: 135
   url: https://www.centrocentro.org/exposicion/miluca-sanz-estratos
   description: Exposición que reúne en formato audiovisual una selección de los conocidos diarios de la artista (CentroCentro. Hasta 20 sept).
 
-[5] Trenes históricos
+[6] Trenes históricos
   id: 9d0621e6c17839e3d5f40fd5b71b539d7e21581dfd79ffc32f8986d347ea8bb0
   start: 2025-12-05T00:00:00+01:00
   end: 2027-12-31T00:00:00+01:00
@@ -56,7 +67,7 @@ Total events: 135
   url: https://museosmetromadrid.es/museos/estacion-de-chamartin/
   description: Exposición permanente sobre los primeros trenes que circularon por las vías del suburbano madrileño para conmemorar sus 100 años de vida (Estación de Chamartín).
 
-[6] 75 años de la Colección Marañón: el origen del Fondo Antiguo de la Biblioteca COAM
+[7] 75 años de la Colección Marañón: el origen del Fondo Antiguo de la Biblioteca COAM
   id: 5cf4e0b75b255d2fbd9f6653a664775d331b70a2607ac694fd6413d10a0936da
   start: 2025-12-18T00:00:00+01:00
   end: 2026-08-31T00:00:00+02:00
@@ -67,7 +78,7 @@ Total events: 135
   url: https://www.coam.org/actualidad-agenda-coam-75-anos-de-la-coleccion-maranon-el-origen-del-fondo-antiguo-de-la-biblioteca-coam/
   description: Exposición que rinde homenaje a la biblioteca del Colegio Oficial de Arquitectos de Madrid y a la adquisición de un conjunto bibliográfico de gran valor que dio origen a sus fondos antiguos (COAM.
 
-[7] Viajar en el tiempo: 85 años de publicidad de Renfe
+[8] Viajar en el tiempo: 85 años de publicidad de Renfe
   id: e7f2ed4545f8ab9e74c8b72b5c36fb7fd217013ba6593ecb9accae2d800a282b
   start: 2025-12-19T00:00:00+01:00
   end: 2026-09-30T00:00:00+02:00
@@ -77,17 +88,6 @@ Total events: 135
   coordinates: 40.399322, -3.692149
   url: https://www.museodelferrocarril.org/exposiciones/viajar-en-el-tiempo/
   description: Exposición organizada por Renfe que muestra un viaje por 85 años de memoria visual (Museo del Ferrocarril. Hasta 30 septiembre).
-
-[8] Julia, de Jaume Plensa
-  id: 7171f6f50b0beab2efb6aa0071ff19f668c52e8be99bf2701e8ecdc14a1dd592
-  start: 2025-12-21T00:00:00+01:00
-  end: 2027-12-31T00:00:00+01:00
-  category: exhibition
-  source: esmadrid_exhibitions
-  location: Plaza de Colón - de Colón, Madrid, 28004
-  coordinates: 40.4254, -3.6892
-  url: https://www.fundacioncristinamasaveu.com/portfolio/julia-de-jaume-plensa/
-  description: Una escultura de 12 metros del artista barcelonés se ubica sobre el pedestal donde estaba la estatua del navegante genovés (Plaza de Colón. Hasta diciembre 2027).
 
 [9] Fardo. Andrea Canepa
   id: 99ee54aef821fae61f6483ab395a68641a89a5657eeb5743ebd79fcc58bfce65
@@ -507,7 +507,18 @@ Total events: 135
   url: http://www.phe.es/
   description: El Festival Internacional de Fotografía y Artes Visuales celebra una nueva edición acogiendo numerosas exposiciones de fotógrafos y artistas visuales (Varios espacios. Hasta 13 sept).
 
-[47] Bateas novo-hispanas. Una encrucijada cultural
+[47] Fueron tejidos. Teresa Lanceta
+  id: b6f06a565e3da5d3b126f070066b1ba31b913eeb04edc29b460750424f0922e0
+  start: 2026-05-19T00:00:00+02:00
+  end: 2026-11-15T00:00:00+01:00
+  category: exhibition
+  source: esmadrid_exhibitions
+  location: Museo Arqueológico Nacional - de Serrano, 13, Madrid, 28001
+  coordinates: 40.423088, -3.688772
+  url: https://www.man.es/man/exposiciones/exposiciones-temporales-en-exposicion-permanente/20260519-teresa-lanceta.html
+  description: La artista presenta un proyecto insólito que busca reconstruir el pasado a través de la práctica textil (Museo Arqueológico Nacional. Hasta 15 nov).
+
+[48] Bateas novo-hispanas. Una encrucijada cultural
   id: f69e188ab93228c0521e39d5359163ab81b6f182bf170ab78ef58068b7c245bf
   start: 2026-05-21T00:00:00+02:00
   end: 2026-10-18T00:00:00+02:00
@@ -518,7 +529,7 @@ Total events: 135
   url: https://www.cultura.gob.es/museodeamerica/exposiciones/exposiciones-temporales/2026-bateas.html
   description: Un recorrido por las bateas lacadas novohispanas y su valor artístico e histórico (Museo de América. Hasta 18 oct).
 
-[48] IBEX36. Cultura material = Valor global (Bienal Mayrit 2026)
+[49] IBEX36. Cultura material = Valor global (Bienal Mayrit 2026)
   id: dd48ced7b46dbdd8fe750e5dd98b1892181100918b038e1ff627b10ec7e59e41
   start: 2026-05-21T00:00:00+02:00
   end: 2026-10-04T00:00:00+02:00
@@ -529,7 +540,7 @@ Total events: 135
   url: https://www.cultura.gob.es/mnartesdecorativas/exposiciones/proximas-exposiciones.html
   description: Exposición que invita a reflexionar sobre como el sistema económico neoliberal actual condiciona nuestra relación con la materia, el patrimonio y el diseño del entorno (Museo Nacional de Artes Deco
 
-[49] Nube negra
+[50] Nube negra
   id: d52ea6316fcc1a250a423b35dc62a024a7cb74f42df822fad3113ab1674724e6
   start: 2026-05-22T00:00:00+02:00
   end: 2026-09-13T00:00:00+02:00
@@ -540,7 +551,7 @@ Total events: 135
   url: https://www.casademexico.es/exposicion/nube-negra-de-carlos-amorales/
   description: Instalación de gran formato del artista Carlos Amorales que está formada por miles de mariposas y polillas hechas de papel negro (Fundación Casa de México en España. Hasta 13 septiembre).
 
-[50] Ewa Juszkiewicz
+[51] Ewa Juszkiewicz
   id: d50e869426ba46da044681e7621f58fb9e377f662cc8e9a637c7e21b08930f87
   start: 2026-05-26T00:00:00+02:00
   end: 2026-09-06T00:00:00+02:00
@@ -551,7 +562,7 @@ Total events: 135
   url: https://www.museothyssen.org/exposiciones/ewa-juszkiewicz
   description: Una monográfica dedicada a la artista polaca cuyo trabajo combina una técnica pictórica minuciosa con un contenido provocador y subversivo (Museo Nacional Thyssen-Bornemisza.
 
-[51] A la manera de Italia. España y el gótico mediterráneo (1320-1420)
+[52] A la manera de Italia. España y el gótico mediterráneo (1320-1420)
   id: 990061e054160f2af567d06d2e9968e3ef1ecea95a0bd6b5d930641b2a3476a8
   start: 2026-05-26T00:00:00+02:00
   end: 2026-09-20T00:00:00+02:00
@@ -562,7 +573,7 @@ Total events: 135
   url: https://www.museodelprado.es/actualidad/exposicion/a-la-manera-de-italia-espaa-y-el-gotico/ba6db59c-501f-650b-583a-b9587ded7e47
   description: Exposición que tiene como objetivo acercar un fascinante periodo artístico a través de una selección de más de un centenar de obras (Museo del Prado. Hasta 20 sept).
 
-[52] Dulce venganza. Felix González-Torres
+[53] Dulce venganza. Felix González-Torres
   id: c35c540299277c79e48c91cdc3f2273b0c6664eec417c6e69146f9d780970dd8
   start: 2026-05-27T00:00:00+02:00
   end: 2026-10-12T00:00:00+02:00
@@ -573,7 +584,7 @@ Total events: 135
   url: https://www.museoreinasofia.es/exposicion/felix-gonzalez-torres
   description: Primera presentación a gran escala de la obra del artista estadounidense de origen cubano, en la que destaca su particular lenguaje visual (Museo Reina Sofía. Hasta 12 oct).
 
-[53] Misterios de la materia. Ciencia del patrimonio en las colecciones del MAN
+[54] Misterios de la materia. Ciencia del patrimonio en las colecciones del MAN
   id: 262e1e772d9d58c0ac9685930dfa1d43246107cfb19898fe0672af4b13e3ffd2
   start: 2026-05-27T00:00:00+02:00
   end: 2026-10-18T00:00:00+02:00
@@ -584,7 +595,7 @@ Total events: 135
   url: https://www.man.es/man/exposiciones/sala-exposiciones-temporales/20260527-misterios-materia.html
   description: La ciencia y la tecnología revelan nuevos secretos de las colecciones arqueológicas del MAN (Museo Arqueológico Nacional. Hasta 18 oct).
 
-[54] Fernando Brambila, pintor de los Reales Sitios
+[55] Fernando Brambila, pintor de los Reales Sitios
   id: f7c096a0fd657cac40a728013316ba1d3d658903f7e743a813ce5c92e1b7fdbd
   start: 2026-05-28T00:00:00+02:00
   end: 2026-10-12T00:00:00+02:00
@@ -595,7 +606,7 @@ Total events: 135
   url: https://www.galeriadelascoleccionesreales.es/exposicion/fernando-brambila-pintor-de-los-reales-sitios/a554032d-dab5-7f04-03b6-e3be0c0f0a41
   description: Exposición que reúne por primera vez un amplio conjunto de obras del destacado pintor italiano especializado en paisajes (Galería de las Colecciones Reales. Hasta 12 oct).
 
-[55] Mujeres de ingenio. Plumas de Oro en el Siglo de las Letras
+[56] Mujeres de ingenio. Plumas de Oro en el Siglo de las Letras
   id: 0e9e9e4f6d22509db8fabd227cd0aee20c80c80d9f4dc09df4fd16b55ab2b788
   start: 2026-05-29T00:00:00+02:00
   end: 2026-09-13T00:00:00+02:00
@@ -606,7 +617,7 @@ Total events: 135
   url: https://casamuseolopedevega.org/es/actividades/colaboraciones-y-proyectos/778-exposicion-2026
   description: Muestra que rinde homenaje a las escritoras del Siglo de Oro y contribuye a la difusión del patrimonio artístico, literario, histórico y cultural (Casa Museo Lope de Vega. Hasta 13 sept).
 
-[56] Robert Frank y Los Americanos (PHotoESPAÑA 2026)
+[57] Robert Frank y Los Americanos (PHotoESPAÑA 2026)
   id: b3296fa28127ee986c2dee308ab39faf21427ff4934e31b9f8b2962ac014250e
   start: 2026-05-29T00:00:00+02:00
   end: 2026-11-01T00:00:00+01:00
@@ -617,7 +628,7 @@ Total events: 135
   url: https://phe.es/exposicion/los-americanos/
   description: Muestra que reúne la serie completa de Los Americanos realizada durante el viaje que el fotógrafo emprendió por Estados Unidos (Espacio Fundación Telefónica. 29 may a 1 nov).
 
-[57] Endometriosis. Laia Abril (PHotoESPAÑA 2026)
+[58] Endometriosis. Laia Abril (PHotoESPAÑA 2026)
   id: 3a7ee24afc60bec4a5d711d277f14326f581eea45cc7cc7b5ca171cbb113d27c
   start: 2026-06-02T00:00:00+02:00
   end: 2026-09-13T00:00:00+02:00
@@ -628,7 +639,7 @@ Total events: 135
   url: https://phe.es/exposicion/endometriosis/
   description: Exposición donde la artista presenta una instalación sobre la endometriosis y la deslegitimación del dolor (Museo del Romanticismo. Hasta 13 sept).
 
-[58] Goya y las escuelas flamenca e italiana. Un siglo de filantropía de Carlota de Santamarca y Antonia González
+[59] Goya y las escuelas flamenca e italiana. Un siglo de filantropía de Carlota de Santamarca y Antonia González
   id: 42d1304478c73e5458b951d99a74d54e78c2cd88557a025fc5aa0f4f806efa7d
   start: 2026-06-02T00:00:00+02:00
   end: 2026-09-23T00:00:00+02:00
@@ -639,7 +650,7 @@ Total events: 135
   url: https://www.fundacionibercaja.es/actividades/exposiciones/goya-y-las-escuelas-flamenca-e-italiana-un-siglo-de-filantropia-de-carlota-de-santamarca-y-antonia-gonzalez-madrid/
   description: Exposición dedicada a la colección artística que reunieron ambas filántropas y que hoy se puede disfrutar en Madrid (Museo de Historia. Hasta 23 septiembre).
 
-[59] Vitrina 0. Fragmento de la titulatura real de Adijalamani
+[60] Vitrina 0. Fragmento de la titulatura real de Adijalamani
   id: 3aa2d895e69b05153af4fbbf2652c09a02e0dc0831df5ed88ce1cec44518ae57
   start: 2026-06-02T00:00:00+02:00
   end: 2026-09-27T00:00:00+02:00
@@ -650,7 +661,7 @@ Total events: 135
   url: https://www.madrid.es/portales/munimadrid/es/Inicio/Cultura-ocio-y-deporte/Actividades-y-eventos/Vitrina-0-Fragmento-de-la-titulatura-real-de-Adijalamani/?vgnextfmt=default&vgnextoid=a45e3a908d26e910VgnVCM100000891ecb1aRCRD&vgnextchannel=6381f073808fe410V
   description: Muestra de un fragmento de la titulatura real del rey de Meroe, sucesor del rey Arqamani, en el siglo II a.C. (Museo de San Isidro. 2 jun a 27 sept).
 
-[60] Europa ilustra
+[61] Europa ilustra
   id: 56ba5c21cc8a3c97140489ea95fd600abc0702ebd208e3969d904761118b701a
   start: 2026-06-03T00:00:00+02:00
   end: 2026-10-18T00:00:00+02:00
@@ -661,7 +672,7 @@ Total events: 135
   url: https://casalector.fundaciongsr.org/europa-ilustra-3/
   description: Once ilustradores e ilustradoras se dan cita para celebrar la diversidad cultural y creativa con motivo del Día de Europa (Casa del Lector - Matadero. Hasta 18 oct).
 
-[61] Somos Naturaleza
+[62] Somos Naturaleza
   id: 5ea4ca69949ad3e320d8eff4d26d7a52ea4300ae244e982d17d1c789b7ba1499
   start: 2026-06-03T00:00:00+02:00
   end: 2027-03-07T00:00:00+01:00
@@ -672,7 +683,7 @@ Total events: 135
   url: https://caixaforum.org/es/madrid/p/somos-naturaleza-madrid
   description: Experiencia audiovisual inmersiva que muestra la biodiversidad de forma innovadora (CaixaForum Madrid. Hasta 7 marzo 2027).
 
-[62] Buenos Aires en flor
+[63] Buenos Aires en flor
   id: c31ca3f34e7944850c4bb456ca422c268895f26f231e2b29d699777d32671d9d
   start: 2026-06-04T00:00:00+02:00
   end: 2026-08-30T00:00:00+02:00
@@ -683,7 +694,7 @@ Total events: 135
   url: https://rjb.csic.es/evento/exposicion-buenos-aires-en-flor/
   description: Exposición fotográfica en la que se descubre el paisaje arbóreo y floral de la capital argentina (Real Jardín Botánico. Hasta 30 agosto).
 
-[63] El deber de lo nuevo
+[64] El deber de lo nuevo
   id: 8ce3221077e0e7d0fdf74295714f1524b559dfc95cf1b6786b3b21756d9f16e4
   start: 2026-06-04T00:00:00+02:00
   end: 2027-01-17T00:00:00+01:00
@@ -694,18 +705,18 @@ Total events: 135
   url: https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Medios-de-comunicacion/Museo-de-Arte-Contemporaneo/?vgnextfmt=default&vgnextoid=d6b0744554b6b010VgnVCM100000d90ca8c0RCRD&vgnextchannel=1578e3d5d3e07010VgnVCM100000dc0ca8c0RCRD&idCapitulo=
   description: Diálogo entre una selección de obras de la Colección de Arte Afundación y los fondos del MAC (Museo de Arte Contemporáneo. Hasta 17 ene).
 
-[64] Los mismos lugares. Jorge Yeregui (PHotoESPAÑA 2026)
+[65] Los mismos lugares. Jorge Yeregui (PHotoESPAÑA 2026)
   id: ea4126f928acf1c74b6f5c4b9038603a2aea8e36a2df65df6466110b31e886e6
   start: 2026-06-04T00:00:00+02:00
-  end: 2026-09-06T00:00:00+02:00
+  end: 2026-09-13T00:00:00+02:00
   category: exhibition
   source: esmadrid_exhibitions
   location: Museo ICO - de Zorrilla, 3, Madrid, 28014
   coordinates: 40.415941, -3.695537
   url: https://phe.es/exposicion/los-mismos-lugares/
-  description: Muestra que analiza la transformación del territorio mediante fotografía, vídeo e instalación, abordando dinámicas sociales, urbanas y ambientales contemporáneas (Museo ICO. Hasta 6 sept).
+  description: Muestra que analiza la transformación del territorio mediante fotografía, vídeo e instalación, abordando dinámicas sociales, urbanas y ambientales contemporáneas (Museo ICO.
 
-[65] Las piedras del cielo. Isabel Muñoz (PHotoESPAÑA 2026)
+[66] Las piedras del cielo. Isabel Muñoz (PHotoESPAÑA 2026)
   id: 8a891a227211e46ce40150f345c2e907354220a0c7e1c580f37ea0bdc9345522
   start: 2026-06-04T00:00:00+02:00
   end: 2026-09-06T00:00:00+02:00
@@ -716,7 +727,7 @@ Total events: 135
   url: https://phe.es/exposicion/las-piedras-del-cielo/
   description: La fotógrafa española explora el Monasterio de El Escorial y la Herrería en este trabajo que forma parte de PHotoESPAÑA 2026 (Galería de las Colecciones Reales. Hasta 6 sept).
 
-[66] Descubre el universo TRIGGER
+[67] Descubre el universo TRIGGER
   id: 7f924e5be5d1d022509b1854f6481ec6641c754e5ff7c42f30aa7d35b929a978
   start: 2026-06-05T00:00:00+02:00
   end: 2026-08-31T00:00:00+02:00
@@ -727,7 +738,7 @@ Total events: 135
   url: https://rjb.csic.es/evento/exposicion-autoguiada-descubre-el-universo-trigger/
   description: Exposición autoguiada que invita a los visitantes a conocer cómo nos afecta el cambio climático y cómo hacerle frente (Real Jardín Botánico. Hasta 31 agosto).
 
-[67] Materia viva. Un recorrido por la botánica, el arte y la memoria andalusí
+[68] Materia viva. Un recorrido por la botánica, el arte y la memoria andalusí
   id: 6be814b4fc5dfaa8d970da248baa456b369ff7da8a0d066abc435a7857af5370
   start: 2026-06-05T00:00:00+02:00
   end: 2026-10-11T00:00:00+02:00
@@ -738,7 +749,7 @@ Total events: 135
   url: https://www.man.es/man/exposiciones/exposiciones-temporales-en-exposicion-permanente/20260605-materia-viva.html
   description: Exposición que incide en la relación entre la naturaleza y la sociedad de al-Ándalus a través de varios espacios del museo (Museo Arqueológico Nacional. 5 jun a11 oct).
 
-[68] Refusal. Second Fracture. Rafael Milach (PHotoESPAÑA 2026)
+[69] Refusal. Second Fracture. Rafael Milach (PHotoESPAÑA 2026)
   id: b0460599081cf889bf277b7a494df4445c6d1da25223c870673efd3d0d9598f9
   start: 2026-06-05T00:00:00+02:00
   end: 2026-09-27T00:00:00+02:00
@@ -749,7 +760,7 @@ Total events: 135
   url: https://phe.es/exposicion/refusal-second-fracture/
   description: Un análisis sobre poder, propaganda y acción colectiva en Europa del Este a través de la fotografía contemporánea (Círculo de Bellas Artes - Sala Goya. 5 jun a 27 sept).
 
-[69] Ruina Montium. Raphaëlle Peria (PHotoESPAÑA 2026)
+[70] Ruina Montium. Raphaëlle Peria (PHotoESPAÑA 2026)
   id: 39498a0b8a75d71d7ebd70bec9a7a3d25b697d2e5161064175e637151c0e1ffd
   start: 2026-06-05T00:00:00+02:00
   end: 2026-09-27T00:00:00+02:00
@@ -760,7 +771,7 @@ Total events: 135
   url: https://phe.es/exposicion/ruina-montium/
   description: La artista reinterpreta el paisaje de Las Médulas mediante fotografía intervenida y materia mineral (Círculo de Bellas Artes - Sala Minerva. Hasta 27 septiembre).
 
-[70] Volver a imaginar (PHotoESPAÑA 2026)
+[71] Volver a imaginar (PHotoESPAÑA 2026)
   id: fcc1cd3e45b2ee33ec3427795b67f27bcc46dd15fa3e34343e6979515068cd42
   start: 2026-06-05T00:00:00+02:00
   end: 2026-09-27T00:00:00+02:00
@@ -771,7 +782,7 @@ Total events: 135
   url: https://www.circulobellasartes.com/exposiciones/volver-a-imaginar/
   description: Exposición colectiva que indaga en el mundo de la fotografía actual a través de la creatividad de varios artistas españoles y neerlandeses (Círculo de Bellas Artes - Sala Picasso.
 
-[71] Alejandro Cartagena. Ground Rules (PHotoESPAÑA 2026)
+[72] Alejandro Cartagena. Ground Rules (PHotoESPAÑA 2026)
   id: a80ecef7c37b48ff7369dcda5e0037af87397ae9dbf59942256693d549746816
   start: 2026-06-06T00:00:00+02:00
   end: 2026-08-30T00:00:00+02:00
@@ -782,7 +793,7 @@ Total events: 135
   url: https://www.fundacionmapfre.org/arte-y-cultura/exposiciones/
   description: Las imágenes del fotógrafo dominicano, afincado en México, protagonizan esta exposición donde queda patente su mirada crítica y humanista (Fundación MAPFRE. Sala Recoletos.
 
-[72] Bunny. Talia Chetrit (PHotoESPAÑA 2026)
+[73] Bunny. Talia Chetrit (PHotoESPAÑA 2026)
   id: e2cf05243849814f35da2119e46348b193e997b96257c5ddce425c223cd2a575
   start: 2026-06-06T00:00:00+02:00
   end: 2026-08-30T00:00:00+02:00
@@ -793,7 +804,7 @@ Total events: 135
   url: https://phe.es/exposicion/bunny/
   description: El festival PHotoESPAÑA acoge la primera exposición individual institucional de la fotógrafa en España (Museo Lázaro Galdiano. Hasta 30 ago).
 
-[73] Richard Avedon. In the American West (PHotoESPAÑA 2026)
+[74] Richard Avedon. In the American West (PHotoESPAÑA 2026)
   id: f681db67f5a9de1ccdcabbf284f806106d930eee562d011481db4874f71820ab
   start: 2026-06-06T00:00:00+02:00
   end: 2026-08-30T00:00:00+02:00
@@ -804,7 +815,7 @@ Total events: 135
   url: https://www.fundacionmapfre.org/arte-y-cultura/exposiciones/
   description: El oeste americano retratado a través de las imágenes del destacado fotógrafo neoyorquino (Fundación MAPFRE. Sala Recoletos. Hasta 30 ago).
 
-[74] RECORRIDOS: Aproximaciones de la joyería contemporánea a la arquitectura de Luis Gutiérrez Soto
+[75] RECORRIDOS: Aproximaciones de la joyería contemporánea a la arquitectura de Luis Gutiérrez Soto
   id: 2db4b778022cf0c79e538cb4e23554e56fe5b098f758fcc7f97aa1e961d687f1
   start: 2026-06-08T00:00:00+02:00
   end: 2026-09-24T00:00:00+02:00
@@ -815,7 +826,7 @@ Total events: 135
   url: https://www.coam.org/actualidad-agenda-coam-recorridos-aproximaciones-de-la-joyeria-contemporanea-a-la-arquitectura-de-luis-gutierrez-soto/
   description: Proyecto expositivo de estudiantes de la Escuela de Arte 3 en el que los edificios creados por el arquitecto madrileño sirven de inspiración para sus diseños de joyas (COAM.
 
-[75] Among / Alone
+[76] Among / Alone
   id: b0a885f9e03c1448285bddba51798ea18326b05a783994fe16fb19f31ba45b52
   start: 2026-06-09T00:00:00+02:00
   end: 2026-09-02T00:00:00+02:00
@@ -826,7 +837,7 @@ Total events: 135
   url: https://leica-camera.com/es-ES/eventos/exposicion-among-alone
   description: Exposición fotográfica que invita a reflexionar sobre la relación entre el individuo y el grupo a lo largo del tiempo (Leica Gallery Madrid. Hasta 2 septiembre).
 
-[76] Prado. Siglo XXI
+[77] Prado. Siglo XXI
   id: 1db74815d061611dbb8fdc3bd4d70885e920a04ad0e18020de5ba400af2df9b6
   start: 2026-06-09T00:00:00+02:00
   end: 2026-09-27T00:00:00+02:00
@@ -837,7 +848,7 @@ Total events: 135
   url: https://www.museodelprado.es/actualidad/exposicion/prado-siglo-xxi/c973ccff-de65-880f-2753-40c9ec03dfec
   description: Un recorrido por el proceso de transformación experimentado por el museo madrileño en el último cuarto de siglo (Museo del Prado. 9 jun a 27 sept).
 
-[77] Everybody loves to Cha Cha Cha. Bego Antón (PHotoESPAÑA 2026)
+[78] Everybody loves to Cha Cha Cha. Bego Antón (PHotoESPAÑA 2026)
   id: a2b963290f71030b22d62562cb7bb34c0cade3d1605ddd6420ecf27937734edb
   start: 2026-06-10T00:00:00+02:00
   end: 2026-09-30T00:00:00+02:00
@@ -848,7 +859,7 @@ Total events: 135
   url: https://phe.es/exposicion/everybody-loves-to-cha-cha-cha/
   description: Exposición que se adentra en un universo donde el vínculo entre humanas y perros se convierte en danza compartida (Casa de América. Hasta 30 sept).
 
-[78] Nada espontáneo. Una mirada a los 90
+[79] Nada espontáneo. Una mirada a los 90
   id: ff8d1adf96ea90068b9796b350661fa045ccae886eb1fbbea545c534c8ef31df
   start: 2026-06-11T00:00:00+02:00
   end: 2026-10-04T00:00:00+02:00
@@ -859,7 +870,7 @@ Total events: 135
   url: https://www.mataderomadrid.org/programacion/nada-espontaneo-una-mirada-los-90
   description: Muestra del fotógrafo Jesús Ugalde que incluye retratos de grandes figuras de la música española como Alejandro Sanz o Andrés Calamaro (Matadero Madrid. Hasta octubre).
 
-[79] Nosaltres no tenim por, nosaltres som. Colita (PHotoESPAÑA 2026)
+[80] Nosaltres no tenim por, nosaltres som. Colita (PHotoESPAÑA 2026)
   id: 23b61762834af582b7dec5d1405f2023d829a0b7819284a0e4a34ada0343c25d
   start: 2026-06-11T00:00:00+02:00
   end: 2026-08-30T00:00:00+02:00
@@ -870,7 +881,7 @@ Total events: 135
   url: https://phe.es/exposicion/nosaltres-no-tenim-por-nosaltres-som/
   description: Exposición que reúne por primera vez el reportaje fotográfico de la manifestación de 1977 en Barcelona, considerada la primera gran protesta LGTBI en España (Centre Cultural Llibreri
 
-[80] Tejiendo la vida cortesana. Tejidos y bordados de las Colecciones Reales
+[81] Tejiendo la vida cortesana. Tejidos y bordados de las Colecciones Reales
   id: 6d69765ed6973989567a810d3b51277ef6733d8dcf5e020bebeda5ae4161127e
   start: 2026-06-11T00:00:00+02:00
   end: 2026-10-12T00:00:00+02:00
@@ -881,7 +892,7 @@ Total events: 135
   url: https://www.galeriadelascoleccionesreales.es/exposicion/tejiendo-la-vida-cortesana-tejidos-y-bordados-de/9e11dfeb-df46-e40c-d305-4b10c87b3eab?utm_source=Newsletter+Patrimonio+Nacional&utm_campaign=Newsletter%20Externa%20260520&utm_medium=email
   description: Conjunto de obras que permiten aproximarse a algunas de las más antiguas piezas textiles que conservan las Colecciones Reales (Galería de las Colecciones Reales. Hasta 12 oct).
 
-[81] La Universidad Pública Pinta Malasaña. II edición
+[82] La Universidad Pública Pinta Malasaña. II edición
   id: 80c03e2c2d16015e7c700211f66c693f0b6d004a3f09771d4ec6fd3792640b2c
   start: 2026-06-11T00:00:00+02:00
   end: 2026-09-06T00:00:00+02:00
@@ -892,7 +903,7 @@ Total events: 135
   url: https://www.madrid.es/portales/munimadrid/es/Inicio/Cultura-ocio-y-deporte/Actividades-y-eventos/Exposicion-La-Universidad-Publica-Pinta-Malasana-II-ed-/?vgnextfmt=default&vgnextoid=3e947f751bcae910VgnVCM100000891ecb1aRCRD&vgnextchannel=6381f073808fe410Vg
   description: Exposición de los murales creados por los alumnos de Bellas Artes de las facultades públicas de Madrid para el festival de arte urbano (Museo de Historia. Hasta 6 septiembre).
 
-[82] Antón Casamor: luz y escultura
+[83] Antón Casamor: luz y escultura
   id: 3a11e9ffd955fb0c99e0ba9105fc7e44a68bef98b41f9006358a2a7690e832a2
   start: 2026-06-12T00:00:00+02:00
   end: 2026-08-23T00:00:00+02:00
@@ -903,7 +914,7 @@ Total events: 135
   url: https://www.museolazarogaldiano.es/actividades/anton-casamor-luz-y-escultura
   description: Una selección de esculturas del destacado escultor catalán se exponen en el Parque Florido, enfrentándose a la naturaleza y a la luz cambiante del día (Museo Lázaro Galdiano.
 
-[83] Conducir por Palestina | التحرّك في فلسطين
+[84] Conducir por Palestina | التحرّك في فلسطين
   id: 9927ae338ae6d3de045edc16bb04e2e4e35b8c2d5539dbc81304deb98912ba9d
   start: 2026-06-12T00:00:00+02:00
   end: 2026-10-18T00:00:00+02:00
@@ -914,7 +925,7 @@ Total events: 135
   url: https://casaarabe.es/eventos-arabes/show/conducir-por-palestina-%D8%A7%D9%84%D8%AA%D8%AD%D8%B1%D9%91%D9%83-%D9%81%D9%8A-%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86
   description: Retrato fotográfico y audiovisual de la Palestina ocupada realizado por la artista multidisciplinar Rehab Nazzal (Casa Árabe. Hasta 18 octubre).
 
-[84] Disfuncionarias. Tanit Plana (PHotoESPAÑA 2026)
+[85] Disfuncionarias. Tanit Plana (PHotoESPAÑA 2026)
   id: da9b7917bba3a10e0de508eafa78f99e57ab11b9d9308c70bffeb96581f671ae
   start: 2026-06-12T00:00:00+02:00
   end: 2026-10-25T00:00:00+02:00
@@ -925,7 +936,7 @@ Total events: 135
   url: https://phe.es/exposicion/disfuncionarias/
   description: Exposición que conecta imagen, política y cuerpo, reflexionando sobre el archivo, la IA y la materia a través de una innovadora instalación site-specific (Museo Cerralbo. Hasta 2
 
-[85] Espectros. Enigmas de la mirada (PHotoESPAÑA 2026)
+[86] Espectros. Enigmas de la mirada (PHotoESPAÑA 2026)
   id: 251b9bfecaf0908b3f7378916b039919d0953f5f94dc6ff97581e778cebb926a
   start: 2026-06-12T00:00:00+02:00
   end: 2026-09-13T00:00:00+02:00
@@ -936,7 +947,7 @@ Total events: 135
   url: https://phe.es/exposicion/espectros-enigmas-de-la-mirada/
   description: Exposición que reúne el trabajo de siete fotógrafos mexicanos de reconocida trayectoria (Fundación Casa de México en España. Hasta 13 septiembre).
 
-[86] Toda mi casa es un altar. Gema Polanco (PHotoESPAÑA 2026)
+[87] Toda mi casa es un altar. Gema Polanco (PHotoESPAÑA 2026)
   id: 67bb3dca55cfd89c6ca686676e60e98140bb1c33d10e7f63f6d771302913c7a7
   start: 2026-06-13T00:00:00+02:00
   end: 2026-10-25T00:00:00+02:00
@@ -947,7 +958,7 @@ Total events: 135
   url: https://phe.es/exposicion/toda-mi-casa-es-un-altar/
   description: Proyecto que explora lo doméstico como espacio ritual a través del textil y la imagen (Museo Nacional de Artes Decorativas. Hasta 25 octubre).
 
-[87] Columna. Sonia Celma (PHotoESPAÑA 2026)
+[88] Columna. Sonia Celma (PHotoESPAÑA 2026)
   id: a421cd1815e6ee7b78cfecfcc8f6be6032913d9526c31726ef18161c2c7b4e52
   start: 2026-06-15T00:00:00+02:00
   end: 2026-08-21T00:00:00+02:00
@@ -958,7 +969,7 @@ Total events: 135
   url: https://phe.es/exposicion/columna/
   description: Proyecto que aborda el vínculo entre cuerpo, arquitectura y fragilidad a partir de la experiencia de la escoliosis de la hija de la artista (COAM. Hasta 21 ago).
 
-[88] Alteraciones. Historias, relatos y nuevas narrativas
+[89] Alteraciones. Historias, relatos y nuevas narrativas
   id: d1564a93e82e31ef15c1a7aeb34b7f9bfe2350f9151d23348b1400f17c5afbf1
   start: 2026-06-16T00:00:00+02:00
   end: 2026-09-13T00:00:00+02:00
@@ -969,7 +980,18 @@ Total events: 135
   url: https://www.galeriadelascoleccionesreales.es/exposicion/alteraciones-historias-relatos-y-nuevas-narrativas/b44ea583-8567-41de-39b8-01ab04daba52
   description: Cuatro fotógrafos contemporáneos reinterpretan los espacios y colecciones de la galería (Galería de las Colecciones Reales. Hasta 13 sept).
 
-[89] El Gran Azul
+[90] On the Geography of the River. Linarejos Moreno (PHotoESPAÑA 2026)
+  id: 627c2096410a9364a9d3e23d9425d4205dcb5ca6ddb46cb1eafefbe1bd815279
+  start: 2026-06-16T00:00:00+02:00
+  end: 2026-09-20T00:00:00+02:00
+  category: exhibition
+  source: esmadrid_exhibitions
+  location: Museo Arqueológico Nacional - de Serrano, 13, Madrid, 28001
+  coordinates: 40.423088, -3.688772
+  url: https://phe.es/exposicion/on-the-geography-of-the-river/
+  description: La artista presenta un proyecto fotográfico concebido como una intervención site-specific (Museo Arqueológico Nacional. Hasta 20 sept).
+
+[91] El Gran Azul
   id: d36dfa717e897d8ff58b5c0fcc4f6613b234b291041327a7a1929ecdc3e02724
   start: 2026-06-16T00:00:00+02:00
   end: 2026-08-30T00:00:00+02:00
@@ -980,7 +1002,7 @@ Total events: 135
   url: https://www.comunidad.madrid/actividades/2025/exposicion-gran-azul
   description: Exposición fotográfica que retrata la vida en los océanos, de Álvaro Herrero López-Beltrán (Parque de Santander. Hasta 30 ago).
 
-[90] Rubens. La restauración de Venus y Cupido
+[92] Rubens. La restauración de Venus y Cupido
   id: f8179b13e9060b2e494e89cf37b0ffe787f62d8087a8b4f25534e95a7e72d233
   start: 2026-06-16T00:00:00+02:00
   end: 2026-09-13T00:00:00+02:00
@@ -991,18 +1013,7 @@ Total events: 135
   url: https://www.museothyssen.org/exposiciones/rubens-restauracion-venus-cupido
   description: Montaje especial en el que se puede conocer cómo trabajaba el pintor flamenco y lo que permanecía oculto en la obra (Museo Nacional Thyssen-Bornemisza. Hasta 13 septiembre).
 
-[91] Latencia
-  id: 5b4547dcf43cfe92ec15a0558701db77f3f2551e1ddf71bc4a5ecce9fe68fbde
-  start: 2026-06-18T00:00:00+02:00
-  end: 2026-08-30T00:00:00+02:00
-  category: exhibition
-  source: esmadrid_exhibitions
-  location: Fundación Casa de México en España - de Alberto Aguilera, 20, Madrid, 28015
-  coordinates: 40.427094, -3.687682
-  url: https://www.casademexico.es/exposicion/latencia/
-  description: Exposición colectiva en la que se aborda la memoria como un proceso vivo, maleable y en constante transformación (Fundación Casa de México en España. Hasta 30 ago).
-
-[92] Madrid en construcción, 1940-1985
+[93] Madrid en construcción, 1940-1985
   id: ed62d7301026170eab7cee76a9892af15573d206b2e495a5e320b895744d2b16
   start: 2026-06-18T00:00:00+02:00
   end: 2026-09-22T00:00:00+02:00
@@ -1013,7 +1024,7 @@ Total events: 135
   url: https://www.comunidad.madrid/actividades/2026/exposicion-madrid-construccion-1940-1985
   description: Crónica visual de la transformación urbana de Madrid a través de grandes fotógrafos (El Águila - Sala Cristobal Portillo. Hasta 22 septiembre).
 
-[93] Topografía de un contraste. Una lectura de Madrid a través de la fotografía (PHotoESPAÑA 2026)
+[94] Topografía de un contraste. Una lectura de Madrid a través de la fotografía (PHotoESPAÑA 2026)
   id: 595c85cf3a019cff22ac0507a0b1d58bcb723f34d0a01b04bc912737d2645e50
   start: 2026-06-18T00:00:00+02:00
   end: 2027-02-21T00:00:00+01:00
@@ -1024,7 +1035,7 @@ Total events: 135
   url: https://phe.es/exposicion/topografia-de-un-contraste-una-lectura-de-madrid-a-traves-de-la-fotografia-del-mac/
   description: Exposición colectiva que da la oportunidad de ver Madrid y su cambio extraordinario a través de la fotografía (Museo de Arte Contemporáneo. Hasta 21 febrero).
 
-[94] México 86. El mundo unido por un balón. Annie Leibovitz (PHotoESPAÑA 2026)
+[95] México 86. El mundo unido por un balón. Annie Leibovitz (PHotoESPAÑA 2026)
   id: 448cb3597bff6b5e40bcbde1a7b7888dc4ce27a2b645283eaa595bb459465170
   start: 2026-06-19T00:00:00+02:00
   end: 2026-09-20T00:00:00+02:00
@@ -1035,7 +1046,7 @@ Total events: 135
   url: https://www.casademexico.es/exposicion/photoespana-2026-mexico-86-el-mundo-unido-por-un-balon/
   description: La campaña creada por la reconocida fotógrafa para el Mundial de Fútbol de 1986 en México vuelve a la actualidad gracias a esta muestra (Fundación Casa de México en España.
 
-[95] Silvina Mizrahi. Ecos de un espíritu sefardí
+[96] Silvina Mizrahi. Ecos de un espíritu sefardí
   id: 2ebbab200df96f03a91b5d14ed3d1c99c49a40eed9e5fde58fcdc20e960578d0
   start: 2026-06-19T00:00:00+02:00
   end: 2026-09-30T00:00:00+02:00
@@ -1046,7 +1057,7 @@ Total events: 135
   url: https://www.sefarad-israel.es/exposiciones/silvina-mizrahi-ecos-de-un-espiritu-sefardi/
   description: La artista argentina propone una exploración de la memoria, la identidad y la herencia cultural desde una mirada íntima y contemporánea (Centro Sefarad-Israel. Hasta 30 sep).
 
-[96] Carmen Laffón. Variaciones
+[97] Carmen Laffón. Variaciones
   id: f90c1b5af74cd90554d3dabd3bfec71473dbc70981fcd854d28bf32614a7e4ee
   start: 2026-06-23T00:00:00+02:00
   end: 2026-09-27T00:00:00+02:00
@@ -1057,7 +1068,7 @@ Total events: 135
   url: https://www.museothyssen.org/exposiciones/carmen-laffon-temas-variaciones
   description: Una gran exposición dedicada a la obra de la pintora y escultora sevillana que incluye alrededor de 80 obras (Museo Nacional Thyssen-Bornemisza. 23 jun a 27 sept).
 
-[97] Illustraciencia 13
+[98] Illustraciencia 13
   id: a7a9ad52a931d5e293ae1651abff3412c6ea0ff833ca1618395b33dc76e7f5fe
   start: 2026-06-23T00:00:00+02:00
   end: 2026-09-27T00:00:00+02:00
@@ -1068,7 +1079,7 @@ Total events: 135
   url: https://www.mncn.csic.es/es/visita-el-mncn/exposiciones/illustraciencia-13
   description: La naturaleza retratada en una amplia selección de imágenes participantes en este certamen internacional que reconoce y promueve la ilustración como herramienta para comunicar la ciencia (MNCN.
 
-[98] El artista en Italia
+[99] El artista en Italia
   id: db99d3051d0431a6ee1fa07184b51035d2753258d0d7deafa93b977533522e48
   start: 2026-06-24T00:00:00+02:00
   end: 2026-09-20T00:00:00+02:00
@@ -1079,7 +1090,7 @@ Total events: 135
   url: https://www.cultura.gob.es/mromanticismo/programacion/exposiciones/actuales/el-artista-en-italia.html
   description: Exposición de dibujos de Federico de Madrazo, Luis de Madrazo y Vicente Palmaroli creados durante sus estancias en el país alpino (Museo del Romanticismo. 24 jun a 20 sept).
 
-[99] Crónicas de Piedra y Pluma. Dúo de arte Contemporáneo Taiwanés
+[100] Crónicas de Piedra y Pluma. Dúo de arte Contemporáneo Taiwanés
   id: 3762fa1588fd92a802f1f45f242e36efdb97f4fa689e04449b86bf3a2f85c155
   start: 2026-06-24T00:00:00+02:00
   end: 2026-08-30T00:00:00+02:00
@@ -1090,7 +1101,7 @@ Total events: 135
   url: https://rjb.csic.es/evento/exposicion-cronicas-de-piedra-y-pluma-duo-de-arte-contemporaneo-taiwanes/
   description: Descubre el arte de Taiwán con las obras de papel, tinta e instalación de Pu-Chun Teng y Mia Liu (Real Jardín Botánico. Hasta 30 agosto).
 
-[100] DiseñAR-T IV
+[101] DiseñAR-T IV
   id: 074d8e0ca641c916c0e08c640afb26fd829e3cc0fc34356f01521e710995577e
   start: 2026-06-24T00:00:00+02:00
   end: 2026-09-07T00:00:00+02:00
@@ -1101,7 +1112,7 @@ Total events: 135
   url: https://www.cultura.gob.es/mtraje/exposicion/temporales/2026/disenart04.html
   description: Los alumnos participantes en la cuarta edición de este programa educativo exponen sus obras, inspiradas en otra muestra temporal del museo (Museo del Traje. 24 jun - 7 sept).
 
-[101] La Perla Peregrina. Fernando Sánchez Castillo
+[102] La Perla Peregrina. Fernando Sánchez Castillo
   id: 33a74c62ed17cdf209c4935d52dc17e4e4cb571a78a858e1651223777c97209e
   start: 2026-06-24T00:00:00+02:00
   end: 2027-03-08T00:00:00+01:00
@@ -1112,7 +1123,7 @@ Total events: 135
   url: https://www.museoreinasofia.es/exposicion/fernando-sanchez-castillo
   description: El artista madrileño refleja con su obra cómo se enfrenta el arte al poder establecido y lo transforma (Palacio de Velázquez. 24 jun a 8 mar).
 
-[102] American latinos 1935 – 1945
+[103] American latinos 1935 – 1945
   id: f9f968b9127982c23995506f01fd6b09d2e6bdbb2412952909e44036ac83e09c
   start: 2026-06-25T00:00:00+02:00
   end: 2026-09-30T00:00:00+02:00
@@ -1123,7 +1134,7 @@ Total events: 135
   url: https://www.casamerica.es/exposiciones/american-latinos-1935-1945
   description: Una exposición inmersiva recorre la memoria de las comunidades hispanas en EE. UU. a través de fotografía histórica (Casa de América. Hasta 30 sept).
 
-[103] Democracia Americana: American Colors / American De­mocracy
+[104] Democracia Americana: American Colors / American De­mocracy
   id: b97477e319a0881a1b93bd8e983b762e7ae36ec5a8e9e0660f98f21054a6c156
   start: 2026-06-25T00:00:00+02:00
   end: 2026-09-30T00:00:00+02:00
@@ -1134,7 +1145,18 @@ Total events: 135
   url: https://www.casamerica.es/exposiciones/democracia-americana
   description: EL colectivo PSJM presenta dos proyectos que ofrecen una reflexión artística sobre la historia política y social de EE.UU. a través de datos y geometría (Casa de América. 25 jun a 30 sept).
 
-[104] La lentitud de la luz. María Lara
+[105] Genealogía del hueco. Capítulo Venezuela
+  id: b1b4b3a1c155dd26e1d3a1e5e61d87fdac028336968ee110818aaa18885d8a82
+  start: 2026-06-25T00:00:00+02:00
+  end: 2026-09-27T00:00:00+02:00
+  category: exhibition
+  source: esmadrid_exhibitions
+  location: Museo de América - de los Reyes Católicos, 6, Madrid, 28040
+  coordinates: 40.438184, -3.728311
+  url: https://www.cultura.gob.es/museodeamerica/exposiciones/exposiciones-temporales/2026-genealogia-del-hueco.html
+  description: Ángela Bonadies y Cristian Guardia proponen una instalación con piezas del Museo de América junto a archivos personales, piezas propias y de otras artistas (Museo de Améric
+
+[106] La lentitud de la luz. María Lara
   id: c059840fec463a306f3bbd522fbbd836008662c6d973a804f520a3cec5becd35
   start: 2026-06-25T00:00:00+02:00
   end: 2026-11-15T00:00:00+01:00
@@ -1145,7 +1167,7 @@ Total events: 135
   url: https://www.centrocentro.org/exposicion/maria-lara
   description: Una selección de pinturas y dibujos de la artista granadina recorren 25 años de su trayectoria, marcada por su alta intensidad estética (CentroCentro. 25 jun a 15 nov).
 
-[105] Tengo un coco contigo
+[107] Tengo un coco contigo
   id: c51c0de16ad8ed03ec35b16303a2c3e47d29a38862d29b380c624b26c0d4bf35
   start: 2026-06-25T00:00:00+02:00
   end: 2026-09-30T00:00:00+02:00
@@ -1156,18 +1178,7 @@ Total events: 135
   url: https://www.casamerica.es/exposiciones/tengo-un-coco-contigo
   description: El artista puertorriqueño Bernardo Medina explora la identidad puertorriqueña y su relación con EE.UU. a través del “pop caribeño” (Casa de América. 25 jun a 30 sept).
 
-[106] Leche, nieve, lágrima, mano. El saber hacer de Blanca Sánchez
-  id: 652ce1d55f3b410746977f24ca47ebad4868b1d8d2695c0ddac4fab80fd8a640
-  start: 2026-06-26T00:00:00+02:00
-  end: 2026-10-09T00:00:00+02:00
-  category: exhibition
-  source: esmadrid_exhibitions
-  location: Museo Reina Sofía - de Santa Isabel, 52, Madrid, 28012
-  coordinates: 40.408735, -3.694224
-  url: https://www.museoreinasofia.es/exposicion/leche-nieve-lagrima-mano
-  description: Recorrido por la trayectoria de la gestora, coleccionista y comisaria de exposiciones española, figura destacada de la Movida Madrileña (Museo Reina Sofía. Hasta 9 oct).
-
-[107] Los reconocimientos
+[108] Los reconocimientos
   id: e9c03d3ee6e63832c90e92d9e5d6a3d6a3ad7fa339e4509d932516f5c946e0c8
   start: 2026-06-26T00:00:00+02:00
   end: 2026-10-18T00:00:00+02:00
@@ -1178,7 +1189,7 @@ Total events: 135
   url: https://www.cultura.gob.es/mtraje/exposicion/temporales/2026/reconocimientos.html
   description: Una original mirada a las colecciones y al trabajo interno del Museo del Traje a través de objetos cotidianos (Museo del Traje. 26 jun a 18 oct).
 
-[108] El encanto de la ilusión. Un puente entre realidad y percepción
+[109] El encanto de la ilusión. Un puente entre realidad y percepción
   id: 3e2a74d329f4aab14f24c917286b96f2b36588a7b6aecd7c1a8fb6adb2972a1c
   start: 2026-07-01T00:00:00+02:00
   end: 2026-10-11T00:00:00+02:00
@@ -1189,7 +1200,7 @@ Total events: 135
   url: https://www.centrocentro.org/exposicion/x-bienal-de-arte-contemporaneo-de-fundacion-once
   description: Exposición colectiva que reflexiona sobre cómo percibimos, construimos y transformamos la realidad a través del arte, enmarcada en la X Bienal de Arte Contemporáneo de Fundación ONCE (CentroCentro.
 
-[109] La mirada de Wyrsch - Karl Wyrsch
+[110] La mirada de Wyrsch - Karl Wyrsch
   id: 44dad938e1f2a48db5a1d3003bacd4196bf7865f75d4d16007baa403ee04a438
   start: 2026-07-01T00:00:00+02:00
   end: 2026-09-27T00:00:00+02:00
@@ -1200,7 +1211,7 @@ Total events: 135
   url: https://www.museodelferrocarril.org/comunicacion/noticia.asp?item=813
   description: Viaje visual por las estaciones y el ferrocarril de la España de las décadas de 1950 y 1960 a través de una selección de 25 fotografías (Museo del Ferrocarril. Hasta 27 septiembre).
 
-[110] Verano en el Museo
+[111] Verano en el Museo
   id: 8061066b6a767af78b31b2edf6dc094aafe68fcb047a495c39ade8248cb679c6
   start: 2026-07-01T00:00:00+02:00
   end: 2026-09-06T00:00:00+02:00
@@ -1210,17 +1221,6 @@ Total events: 135
   coordinates: 40.399322, -3.692149
   url: https://museodelferrocarril.org/comunicacion/noticia.asp?item=812
   description: Propuesta cultural y de ocio que incluye visitas exclusivas a vehículos históricos, talleres familiares, un recorrido cinematográfico y una exposición con fotografías ferroviarias (Museo del F
-
-[111] Joyas numismáticas del Instituto Valencia de Don Juan: de los carolingios a Fernando VII
-  id: e742c681aa6b480d5aec8087ced4152aa450ae959805e3aa2df7272b3c3a964b
-  start: 2026-07-02T00:00:00+02:00
-  end: 2027-05-30T00:00:00+02:00
-  category: exhibition
-  source: esmadrid_exhibitions
-  location: Museo Casa de La Moneda - del Doctor Esquerdo, 36, Madrid, 28028
-  coordinates: 40.43993, -3.670517
-  url: https://www.museocasadelamoneda.es/exposiciones-temporales
-  description: Exposición que muestra una selección de monedas utilizadas en España desde la Edad Media hasta el siglo XIX (Museo Casa de la Moneda. Hasta 30 may).
 
 [112] Mitologías modernas: Ouka Leele & Co
   id: 0656dc6567002ca560c050169bdf081eb09a494f3f32d76aad7e8c05b30645f1
