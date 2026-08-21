@@ -99,6 +99,18 @@ DESCRIPTION:Exposición organizada por Renfe que muestra un viaje por 85 a
 LOCATION:Museo del Ferrocarril - de las Delicias\, 61\, Madrid\, 28045
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Julia\, de Jaume Plensa
+DTSTART;TZID=Europe/Madrid:20251221T000000
+DTEND;TZID=Europe/Madrid:20271231T000000
+UID:7171f6f50b0beab2efb6aa0071ff19f668c52e8be99bf2701e8ecdc14a1dd592
+CATEGORIES:exhibition
+DESCRIPTION:Una escultura de 12 metros del artista barcelonés se ubica so
+ bre el pedestal donde estaba la estatua del navegante genovés (Plaza de C
+ olón. Hasta diciembre 2027).\n\nhttps://www.fundacioncristinamasaveu.com/
+ portfolio/julia-de-jaume-plensa/
+LOCATION:Plaza de Colón - de Colón\, Madrid\, 28004
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Fardo. Andrea Canepa
 DTSTART;TZID=Europe/Madrid:20260113T000000
 DTEND;TZID=Europe/Madrid:20270101T000000
@@ -1166,6 +1178,19 @@ LOCATION:Museo Nacional Thyssen-Bornemisza - del Prado\, 8\, Madrid\, 2801
  4
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Latencia
+DTSTART;TZID=Europe/Madrid:20260618T000000
+DTEND;TZID=Europe/Madrid:20260830T000000
+UID:5b4547dcf43cfe92ec15a0558701db77f3f2551e1ddf71bc4a5ecce9fe68fbde
+CATEGORIES:exhibition
+DESCRIPTION:Exposición colectiva en la que se aborda la memoria como un p
+ roceso vivo\, maleable y en constante transformación (Fundación Casa de 
+ México en España. Hasta 30 ago).\n\nhttps://www.casademexico.es/exposici
+ on/latencia/
+LOCATION:Fundación Casa de México en España - de Alberto Aguilera\, 20
+ \, Madrid\, 28015
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Madrid en construcción\, 1940-1985
 DTSTART;TZID=Europe/Madrid:20260618T000000
 DTEND;TZID=Europe/Madrid:20260922T000000
@@ -1353,6 +1378,18 @@ DESCRIPTION:El artista puertorriqueño Bernardo Medina explora la identida
 LOCATION:Casa de América - de Cibeles\, 2\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Leche\, nieve\, lágrima\, mano. El saber hacer de Blanca Sánchez
+DTSTART;TZID=Europe/Madrid:20260626T000000
+DTEND;TZID=Europe/Madrid:20261009T000000
+UID:652ce1d55f3b410746977f24ca47ebad4868b1d8d2695c0ddac4fab80fd8a640
+CATEGORIES:exhibition
+DESCRIPTION:Recorrido por la trayectoria de la gestora\, coleccionista y c
+ omisaria de exposiciones española\, figura destacada de la Movida Madrile
+ ña (Museo Reina Sofía. Hasta 9 oct).\n\nhttps://www.museoreinasofia.es/e
+ xposicion/leche-nieve-lagrima-mano
+LOCATION:Museo Reina Sofía - de Santa Isabel\, 52\, Madrid\, 28012
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Los reconocimientos
 DTSTART;TZID=Europe/Madrid:20260626T000000
 DTEND;TZID=Europe/Madrid:20261018T000000
@@ -1400,6 +1437,20 @@ DESCRIPTION:Propuesta cultural y de ocio que incluye visitas exclusivas a
  co y una exposición con fotografías ferroviarias (Museo del F\n\nhttps:
  //museodelferrocarril.org/comunicacion/noticia.asp?item=812
 LOCATION:Museo del Ferrocarril - de las Delicias\, 61\, Madrid\, 28045
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Joyas numismáticas del Instituto Valencia de Don Juan: de los car
+ olingios a Fernando VII
+DTSTART;TZID=Europe/Madrid:20260702T000000
+DTEND;TZID=Europe/Madrid:20270530T000000
+UID:e742c681aa6b480d5aec8087ced4152aa450ae959805e3aa2df7272b3c3a964b
+CATEGORIES:exhibition
+DESCRIPTION:Exposición que muestra una selección de monedas utilizadas e
+ n España desde la Edad Media hasta el siglo XIX (Museo Casa de la Moneda.
+  Hasta 30 may).\n\nhttps://www.museocasadelamoneda.es/exposiciones-tempora
+ les
+LOCATION:Museo Casa de La Moneda - del Doctor Esquerdo\, 36\, Madrid\, 280
+ 28
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mitologías modernas: Ouka Leele & Co
@@ -1718,5 +1769,17 @@ DESCRIPTION:Exposición colectiva con 50 artistas que redefine la fotograf
  ía contemporánea\, la identidad y el archivo visual (C Arte C. 3 a 27 se
  ptiembre).\n\nhttps://phe.es/exposicion/modos-de-ver/
 LOCATION:C Arte C - de Juan de Herrera\, 2\, Madrid\, 28040
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frida Kahlo: Experiencia Live Art y Muestra Gastronómica
+DTSTART;TZID=Europe/Madrid:20260905T000000
+DTEND;TZID=Europe/Madrid:20261231T000000
+UID:5e284d1850dda3ec3bef6ae2c0eb753494ada00dad1f51672013e2a011fcdce7
+CATEGORIES:exhibition
+DESCRIPTION:Una experiencia única en la que descubrir a la artista mexica
+ na desde una perspectiva inédita y profunda (Paseo del Pintor Rosales\, 3
+ 0. Miér-dom. A la venta desde 5 sept).\n\nhttps://fridawomanexperience.co
+ m/madrid/
+LOCATION:Madrid - del Pintor Rosales\, 30\, Madrid\, Madrid\, 28008
 END:VEVENT
 END:VCALENDAR
