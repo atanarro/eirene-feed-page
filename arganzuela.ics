@@ -63,6 +63,17 @@ DESCRIPTION:Exposición que rinde homenaje a la biblioteca del Colegio Ofi
 LOCATION:COAM - de Hortaleza\, 63\, Madrid\, 28004
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Viajar en el tiempo: 85 años de publicidad de Renfe
+DTSTART;TZID=Europe/Madrid:20251219T000000
+DTEND;TZID=Europe/Madrid:20260930T000000
+UID:e7f2ed4545f8ab9e74c8b72b5c36fb7fd217013ba6593ecb9accae2d800a282b
+CATEGORIES:exhibition
+DESCRIPTION:Exposición organizada por Renfe que muestra un viaje por 85 a
+ ños de memoria visual (Museo del Ferrocarril. Hasta 30 septiembre).\n\nht
+ tps://www.museodelferrocarril.org/exposiciones/viajar-en-el-tiempo/
+LOCATION:Museo del Ferrocarril - de las Delicias\, 61\, Madrid\, 28045
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Julia\, de Jaume Plensa
 DTSTART;TZID=Europe/Madrid:20251221T000000
 DTEND;TZID=Europe/Madrid:20271231T000000
@@ -510,6 +521,21 @@ DESCRIPTION:Exposición dedicada a la colección artística que reunieron
 LOCATION:Museo de Historia - de Fuencarral\, 78\, Madrid\, 28004
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Vitrina 0. Fragmento de la titulatura real de Adijalamani
+DTSTART;TZID=Europe/Madrid:20260602T000000
+DTEND;TZID=Europe/Madrid:20260927T000000
+UID:3aa2d895e69b05153af4fbbf2652c09a02e0dc0831df5ed88ce1cec44518ae57
+CATEGORIES:exhibition
+DESCRIPTION:Muestra de un fragmento de la titulatura real del rey de Meroe
+ \, sucesor del rey Arqamani\, en el siglo II a.C. (Museo de San Isidro. 2 
+ jun a 27 sept).\n\nhttps://www.madrid.es/portales/munimadrid/es/Inicio/Cul
+ tura-ocio-y-deporte/Actividades-y-eventos/Vitrina-0-Fragmento-de-la-titula
+ tura-real-de-Adijalamani/?vgnextfmt=default&vgnextoid=a45e3a908d26e910VgnV
+ CM100000891ecb1aRCRD&vgnextchannel=6381f073808fe410V
+LOCATION:Museo de San Isidro. Los Orígenes de Madrid - de San Andrés\, 2
+ \, Madrid\, 28005
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Europa ilustra
 DTSTART;TZID=Europe/Madrid:20260603T000000
 DTEND;TZID=Europe/Madrid:20261018T000000
@@ -615,6 +641,18 @@ CATEGORIES:exhibition
 DESCRIPTION:La artista reinterpreta el paisaje de Las Médulas mediante fo
  tografía intervenida y materia mineral (Círculo de Bellas Artes - Sala M
  inerva. Hasta 27 septiembre).\n\nhttps://phe.es/exposicion/ruina-montium/
+LOCATION:Círculo de Bellas Artes - de Alcalá\, 42\, Madrid\, 28014
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Volver a imaginar (PHotoESPAÑA 2026)
+DTSTART;TZID=Europe/Madrid:20260605T000000
+DTEND;TZID=Europe/Madrid:20260927T000000
+UID:fcc1cd3e45b2ee33ec3427795b67f27bcc46dd15fa3e34343e6979515068cd42
+CATEGORIES:exhibition
+DESCRIPTION:Exposición colectiva que indaga en el mundo de la fotografía
+  actual a través de la creatividad de varios artistas españoles y neerla
+ ndeses (Círculo de Bellas Artes - Sala Picasso.\n\nhttps://www.circulobel
+ lasartes.com/exposiciones/volver-a-imaginar/
 LOCATION:Círculo de Bellas Artes - de Alcalá\, 42\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
@@ -1048,6 +1086,19 @@ DESCRIPTION:El museo reúne por primera vez los ocho cuadros que realizó
 LOCATION:Museo del Prado - del Prado\, s/n\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Vitrina cero. De la tragedia griega a la comedia romana: el teatro
+  clásico
+DTSTART;TZID=Europe/Madrid:20260714T000000
+DTEND;TZID=Europe/Madrid:20261018T000000
+UID:d2bc384a3f41799d20861f35c9cb53aecaa959eb2c4e9f4cf65baba2920f90d8
+CATEGORIES:exhibition
+DESCRIPTION:Relevantes fondos bibliográficos y museográficos que permite
+ n conocer el origen y la evolución del teatro grecolatino (Museo Arqueol
+ ógico Nacional. 14 jul a 18 oct).\n\nhttps://www.man.es/man/exposiciones/
+ vitrina0/20260714-teatro-clasico.html
+LOCATION:Museo Arqueológico Nacional - de Serrano\, 13\, Madrid\, 28001
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pedro Moreno. Pro domo sua. Arte teatral y cinematográfico
 DTSTART;TZID=Europe/Madrid:20260723T000000
 DTEND;TZID=Europe/Madrid:20270110T000000
@@ -1106,1106 +1157,6 @@ DESCRIPTION:Inmersión profunda en el alma de España a través de sus tre
  s pintores más icónicos que redefinieron la trayectoria de la pintura o
  ccidental (Nomad Museo Inmersivo.\n\nhttps://www.nomadmuseo.es/
 LOCATION:Nomad Museo Inmersivo - Gran Vía\, 78\, Madrid\, 28013
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Fast & The Furious 25 aniversario
-DTSTART;TZID=Europe/Madrid:20260822T120000
-DTEND;TZID=Europe/Madrid:20260822T134900
-UID:572a5c0dec038bcb0a9d93c0fd055af7ba2324ff92d0fc9e577a9af6d0926e77
-CATEGORIES:cinema
-DESCRIPTION:Una misteriosa banda de delincuentes se dedica a robar camione
- s en marcha desde vehículos deportivos. La policía decide infiltrar un h
- ombre en el mundo de las carreras ilegales para descubrir posibles sospech
- osos. El joven y apuesto Brian entra en el mundo del tunning donde conoce 
- a Dominic\, rey indiscutible de este mundo y sospechoso número uno\, pero
-  todo se complicará cuando se enamore de su hermana.\n\nAudio: VOSE\n\nht
- tps://yelmocines.es/sinopsis/the-fast-the-furious-25-aniversario
-LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La odisea
-DTSTART;TZID=Europe/Madrid:20260822T120000
-DTEND;TZID=Europe/Madrid:20260822T145300
-UID:f6a13faf1f815f9714a8676a78be81199eac6259cb267da87949736cdc769c55
-CATEGORIES:cinema
-DESCRIPTION:Epopeya mitológica que sigue la historia de Odiseo y su largo
-  viaje a casa\, de 10 años de duración\, tras la guerra de Troya.\n\nOri
- ginal title: The Odyssey\n\nRelease year: 2026\n\nOriginal language: EN\n
- \nAudio: VOSE\n\nhttps://yelmocines.es/sinopsis/la-odisea
-LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Toy Story 5
-DTSTART;TZID=Europe/Madrid:20260822T121000
-DTEND;TZID=Europe/Madrid:20260822T135200
-UID:9dc9bc619cbdd450de4102546f2e22bf9446af8f0df7bf61eea2b9eb24757a9a
-CATEGORIES:cinema
-DESCRIPTION:Los juguetes están de vuelta en "Toy Story 5"\, de Disney y P
- ixar\, y esta vez se enfrentan los juguetes y la tecnología. El trabajo d
- e Buzz\, Woody\, Jessie y el resto de la pandilla se complica exponencialm
- ente cuando se enfrentan a esta nueva amenaza para el tiempo de juego.\n\n
- Release year: 2026\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://yelm
- ocines.es/sinopsis/toy-story-5
-LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La odisea
-DTSTART;TZID=Europe/Madrid:20260822T123000
-DTEND;TZID=Europe/Madrid:20260822T152300
-UID:ccd36aa3dc015ff9faf87a45abd896168f1620b3e940f081b13fccc495992337
-CATEGORIES:cinema
-DESCRIPTION:Epopeya mitológica que sigue la historia de Odiseo y su largo
-  viaje a casa\, de 10 años de duración\, tras la guerra de Troya.\n\nOri
- ginal title: The Odyssey\n\nRelease year: 2026\n\nOriginal language: EN\n
- \nAudio: VOSE\n\nhttps://yelmocines.es/sinopsis/la-odisea
-LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Minions & Monsters
-DTSTART;TZID=Europe/Madrid:20260822T124000
-DTEND;TZID=Europe/Madrid:20260822T141000
-UID:53da51155d60bcdd4e6094d6d1e962462c85e285d71e6827317efcb2b666aa09
-CATEGORIES:cinema
-DESCRIPTION:Este capítulo cuenta la desvergonzada\, disparatada y verdade
- ra historia de cómo los Minions conquistaron Hollywood\, se convirtieron 
- en estrellas de cine\, lo perdieron todo\, soltaron monstruos en el mundo 
- y acabaron uniéndose de nuevo en un intento de salvar el planeta del desa
- stre que ellos mismos habían creado.\n\nRelease year: 2026\n\nOriginal la
- nguage: EN\n\nAudio: VOSE\n\nhttps://yelmocines.es/sinopsis/minions-monste
- rs
-LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El final de Oak Street
-DTSTART;TZID=Europe/Madrid:20260822T125000
-DTEND;TZID=Europe/Madrid:20260822T142900
-UID:d72b083864941d3a678dd6f174cf62fd53e4bb01cc1f477341931fb990decc1c
-CATEGORIES:cinema
-DESCRIPTION:Después de que un misterioso fenómeno cósmico arranque Oak 
- Street de su entorno suburbano y transporte a sus habitantes a un lugar de
- sconocido\, la familia Platt pronto descubre que su propia supervivencia d
- epende de que permanezcan unidos mientras se orientan en un entorno que ya
-  no reconocen.\n\nOriginal title: The End of Oak Street\n\nRelease year: 2
- 026\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://yelmocines.es/sinop
- sis/el-final-de-oak-street
-LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Brand New Day
-DTSTART;TZID=Europe/Madrid:20260822T130000
-DTEND;TZID=Europe/Madrid:20260822T152500
-UID:f334879fef05987a7181644d4b76ffad2f8a8a9e632f27ee80c8cd30ea76b612
-CATEGORIES:cinema
-DESCRIPTION:Tras el gran éxito global de Spider-Man: No Way Home\, Spider
- -Man: Brand New Day marca una etapa completamente nueva para Peter Parker 
- y Spider-Man. Han pasado cuatro años desde los acontecimientos de No Way 
- Home\, y Peter Parker ahora es un adulto que vive completamente solo\, ha 
- desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Comb
- atiendo el crimen en una Nueva York que ya no conoce su nombre\, se ha ded
- icado por completo a proteger su ciudad—un Spider-Man a tiempo completo
- —\, pero a medida que aumentan las exigencias sobre él\, la presión de
- sencadena una sorprendente evolución física que amenaza su existencia\, 
- al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una 
- de las amenazas más poderosas a las que se ha enfrentado.\n\nRelease year
- : 2026\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://yelmocines.es/si
- nopsis/spider-man-brand-new-day
-LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vaiana
-DTSTART;TZID=Europe/Madrid:20260822T132000
-DTEND;TZID=Europe/Madrid:20260822T151500
-UID:5f1dec2d2c6fd995e271c967d805bbfef5ef49ffb51715249ee2610a48d00d11
-CATEGORIES:cinema
-DESCRIPTION:Vaiana (Catherine Lagaʻaia) responde a la llamada del océano
-  y\, por primera vez\, viaja más allá del arrecife de su isla de Motunui
-  con el semidiós Maui (Dwayne Johnson) en un viaje inolvidable para devol
- ver la prosperidad a su pueblo.\n\nOriginal title: Moana\n\nRelease year: 
- 2026\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://yelmocines.es/sino
- psis/vaiana
-LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Patrulla Canina: La dino película
-DTSTART;TZID=Europe/Madrid:20260822T133000
-DTEND;TZID=Europe/Madrid:20260822T145900
-UID:5c840246e59991560c3892070ab464a339b6190abe6253514c47d6d2da9b5040
-CATEGORIES:cinema
-DESCRIPTION:Después de que el barco quede atrapado en una misteriosa torm
- enta\, los cachorros de la Patrulla Canina naufragan en una isla tropical 
- inexplorada repleta de dinosaurios. Allí conocen a Rex\, un cachorro que 
- lleva años varado en la isla y que se ha convertido en un auténtico expe
- rto en todo lo relacionado con los dinos. Cuando el archienemigo de la Pat
- rulla Canina\, el alcalde Humdinger\, comienza a explotar la isla de forma
-  imprudente con la intención de aprovechar sus recursos naturales\, provo
- ca accidentalmente la erupción de un enorme volcán inactivo. Los cachorr
- os de la Patrulla Canina se enfrentan a sus rescates más importantes hast
- a ahora y deben detener a Humdinger antes de que la isla desaparezca.\n\nO
- riginal title: PAW Patrol: The Dino Movie\n\nRelease year: 2026\n\nOrigina
- l language: EN\n\nAudio: VOSE\n\nhttps://yelmocines.es/sinopsis/la-patrull
- a-canina-la-dino-pelicula
-LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A fuego
-DTSTART;TZID=Europe/Madrid:20260822T141000
-DTEND;TZID=Europe/Madrid:20260822T154700
-UID:8fc236cafbc0f0ccf86b1847f9112b3225ff9d0d20c0e38e43de8299af5cc3f2
-CATEGORIES:cinema
-DESCRIPTION:Tras la repentina muerte de su hermano Nico\, Lola\, de 17 añ
- os\, se adentra en una búsqueda que la lleva a descubrir un mundo oculto 
- que él solía frecuentar: El Búnker. Un espacio abandonado convertido en
-  epicentro de fiestas clandestinas y batallas de baile\, donde la música 
- y la libertad se viven sin reglas. Allí\, Lola encuentra un grupo de amig
- os que la acompaña en su camino\, le ayuda a reconectar con su pasión po
- r el baile y a redescubrirse. El Búnker se convierte en su refugio\, un l
- ugar donde aprender a vivir sin miedo\, sin filtros\, a fuego.\n\nRelease 
- year: 2026\n\nOriginal language: ES\n\nAudio: Doblada ES\n\nhttps://yelmoc
- ines.es/sinopsis/a-fuego
-LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Insidious: Fuera del más allá
-DTSTART;TZID=Europe/Madrid:20260822T142000
-DTEND;TZID=Europe/Madrid:20260822T160600
-UID:d293bb3dd744213ba2f89597de8e60cb77f123786c89f3b8cf22e5d3ca89ea23
-CATEGORIES:cinema
-DESCRIPTION:En Insidious: Fuera del Más Allá\, Amelia Eve interpreta a G
- emma\, una joven madre que cría a su hija en la casa en la que creció y 
- que descubre que puede viajar a “El Más Allá”\, el reino purgatorial
-  de las almas perdidas situado en el corazón del universo Insidious. Cuan
- do algo maligno va tras ella\, Gemma descubre una habilidad que lo cambia 
- todo: no solo puede viajar a "El Más Allá"\, sino que también es capaz 
- de traer de vuelta al mundo real lo que encuentra allí. Cuando los demoni
- os se dan cuenta de su poder\, nuestro mundo se convierte en su patio de r
- ecreo.\n\nOriginal title: Insidious: Out of the Further\n\nRelease year: 2
- 026\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://yelmocines.es/sinop
- sis/insidious-fuera-del-mas-alla
-LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Brand New Day
-DTSTART;TZID=Europe/Madrid:20260822T144000
-DTEND;TZID=Europe/Madrid:20260822T170500
-UID:e52a8dc0de0001564d9768a6556565ccff0c41b066bde8a3a1c1b14e17c3e5bc
-CATEGORIES:cinema
-DESCRIPTION:Tras el gran éxito global de Spider-Man: No Way Home\, Spider
- -Man: Brand New Day marca una etapa completamente nueva para Peter Parker 
- y Spider-Man. Han pasado cuatro años desde los acontecimientos de No Way 
- Home\, y Peter Parker ahora es un adulto que vive completamente solo\, ha 
- desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Comb
- atiendo el crimen en una Nueva York que ya no conoce su nombre\, se ha ded
- icado por completo a proteger su ciudad—un Spider-Man a tiempo completo
- —\, pero a medida que aumentan las exigencias sobre él\, la presión de
- sencadena una sorprendente evolución física que amenaza su existencia\, 
- al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una 
- de las amenazas más poderosas a las que se ha enfrentado.\n\nRelease year
- : 2026\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://yelmocines.es/si
- nopsis/spider-man-brand-new-day
-LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El final de Oak Street
-DTSTART;TZID=Europe/Madrid:20260822T150000
-DTEND;TZID=Europe/Madrid:20260822T163900
-UID:9f3673f99a02f7687ddbf96a83e10fb2655ccb9f5b8f56b58d4f836b2b035334
-CATEGORIES:cinema
-DESCRIPTION:Después de que un misterioso fenómeno cósmico arranque Oak 
- Street de su entorno suburbano y transporte a sus habitantes a un lugar de
- sconocido\, la familia Platt pronto descubre que su propia supervivencia d
- epende de que permanezcan unidos mientras se orientan en un entorno que ya
-  no reconocen.\n\nOriginal title: The End of Oak Street\n\nRelease year: 2
- 026\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://yelmocines.es/sinop
- sis/el-final-de-oak-street
-LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La odisea
-DTSTART;TZID=Europe/Madrid:20260822T152000
-DTEND;TZID=Europe/Madrid:20260822T181300
-UID:79cc6d1bb9f49335c348934b197bf34f0dedbc5752c1ed320fac511ac641fcf1
-CATEGORIES:cinema
-DESCRIPTION:Epopeya mitológica que sigue la historia de Odiseo y su largo
-  viaje a casa\, de 10 años de duración\, tras la guerra de Troya.\n\nOri
- ginal title: The Odyssey\n\nRelease year: 2026\n\nOriginal language: EN\n
- \nAudio: VOSE\n\nhttps://yelmocines.es/sinopsis/la-odisea
-LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vivir la tierra
-DTSTART;TZID=Europe/Madrid:20260822T153000
-DTEND;TZID=Europe/Madrid:20260822T174000
-UID:d703e379d59ac9143b9e71a81683814e49f97236fd3bbdb56da3510d74ecb407
-CATEGORIES:cinema
-DESCRIPTION:Con sus padres trabajando en la ciudad\, Chuang\, de diez año
- s\, está siendo criado por el resto de la familia en su pueblo natal. All
- í\, arropado por tíos y abuelos\, vive una época agitada entre nacimien
- tos\, matrimonios\, funerales y numerosos cambios. Mientras\, miles de añ
- os de tradición rural chocan con el progreso de China a principios de los
-  90. Un mundo en constante movimiento.\n\nOriginal title: 生息之地\n\n
- Release year: 2025\n\nOriginal language: ZH\n\nAudio: VOSE\n\nhttps://yelm
- ocines.es/sinopsis/vivir-la-tierra
-LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Manual para superhéroes: La máscara roja
-DTSTART;TZID=Europe/Madrid:20260822T154500
-DTEND;TZID=Europe/Madrid:20260822T171600
-UID:e1cced325cb5a623ab8247c5e5c9f5c13105bf3077fc60e38b7d806a92e36b46
-CATEGORIES:cinema
-DESCRIPTION:Lisa\, una niña de diez años acosada en la decadente ciudad 
- de Rosenhill\, encuentra un libro que le enseña a convertirse en superher
- oína. Como "Máscara Roja"\, debe enfrentarse a un despiadado jefe del cr
- imen y a sus miedos\, aprendiendo que el verdadero heroísmo reside en la 
- compasión y el valor.\n\nOriginal title: Handbok för superhjältar\n\nRe
- lease year: 2025\n\nOriginal language: SV\n\nAudio: Doblada ES\n\nhttps://
- cinesembajadores.es/pelicula/manual-para-superheroes-la-mascara-roja-dobla
- da-al-espanol/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vaiana
-DTSTART;TZID=Europe/Madrid:20260822T154500
-DTEND;TZID=Europe/Madrid:20260822T174000
-UID:d0d52841b170f86cff567e2f0e9952f2ca210d9a49acd455ae6d2b0d40bec8d7
-CATEGORIES:cinema
-DESCRIPTION:Vaiana (Catherine Lagaʻaia) responde a la llamada del océano
-  y\, por primera vez\, viaja más allá del arrecife de su isla de Motunui
-  con el semidiós Maui (Dwayne Johnson) en un viaje inolvidable para devol
- ver la prosperidad a su pueblo.\n\nOriginal title: Moana\n\nRelease year: 
- 2026\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://yelmocines.es/sino
- psis/vaiana
-LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Minions & Monsters
-DTSTART;TZID=Europe/Madrid:20260822T155000
-DTEND;TZID=Europe/Madrid:20260822T172000
-UID:7a49599c33bd567e4d4554938d74505157c1890e87d7564b0dc223e7d3b0a25f
-CATEGORIES:cinema
-DESCRIPTION:Este capítulo cuenta la desvergonzada\, disparatada y verdade
- ra historia de cómo los Minions conquistaron Hollywood\, se convirtieron 
- en estrellas de cine\, lo perdieron todo\, soltaron monstruos en el mundo 
- y acabaron uniéndose de nuevo en un intento de salvar el planeta del desa
- stre que ellos mismos habían creado.\n\nRelease year: 2026\n\nOriginal la
- nguage: EN\n\nAudio: VOSE\n\nhttps://yelmocines.es/sinopsis/minions-monste
- rs
-LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El Amor Que Permanece
-DTSTART;TZID=Europe/Madrid:20260822T155000
-UID:044539c2417b75f56b39588323d1882620c6a49ca88e2a3980379f5b209f7501
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 109 min
- utos | No recomendada para menores de 12 años\n\nOriginal title: Ástin s
- em eftir er\n\nRelease year: 2025\n\nOriginal language: IS\n\nAudio: VOSE
- \n\nhttps://www.pillalas.com/pase/1083849/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Última Ronda En Venecia
-DTSTART;TZID=Europe/Madrid:20260822T155000
-UID:a4f47a5fc57b061268840b701a6af448e0099060669a0cf68d2a1ea6ec9a46aa
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 100 min
- utos | No recomendada para menores de 16 años\n\nOriginal title: Le citt
- à di pianura\n\nRelease year: 2025\n\nOriginal language: IT\n\nAudio: VOS
- E\n\nhttps://www.pillalas.com/pase/1083805/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Palestina 36
-DTSTART;TZID=Europe/Madrid:20260822T155000
-UID:119fbcf220441b7f63472d09cb90b1637bac2142c3f54a55ab449d0c7b325490
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 119 min
- utos | No recomendada para menores de 16 años\n\nOriginal title: Palestin
- e 36\n\nRelease year: 2025\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttp
- s://www.pillalas.com/pase/1083806/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El coro de Praga
-DTSTART;TZID=Europe/Madrid:20260822T160000
-DTEND;TZID=Europe/Madrid:20260822T174600
-UID:f9b7a113a9e24c4109df6934569632758e65147e8808136c2d301722f16aa71f
-CATEGORIES:cinema
-DESCRIPTION:Karolina\, una niña de trece años\, recibe la oportunidad de
-  unirse a un coro de élite\, donde cantará junto a su hermana y otras ch
- icas de su ciudad. Su innegable talento pronto llamará la atención del e
- xigente director del coro\, quien poco a poco aprovechará los sueños e i
- lusiones de la joven para ir acercándose a ella.\n\nOriginal title: Sborm
- istr\n\nRelease year: 2025\n\nOriginal language: CS\n\nAudio: VOSE\n\nhttp
- s://cinesembajadores.es/pelicula/el-coro-de-praga-vose/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Brand New Day
-DTSTART;TZID=Europe/Madrid:20260822T160000
-DTEND;TZID=Europe/Madrid:20260822T182500
-UID:9eefafe13459fa8e3f9a063995508a2760741cea22b71a59730a6bdc3fab9144
-CATEGORIES:cinema
-DESCRIPTION:Tras el gran éxito global de Spider-Man: No Way Home\, Spider
- -Man: Brand New Day marca una etapa completamente nueva para Peter Parker 
- y Spider-Man. Han pasado cuatro años desde los acontecimientos de No Way 
- Home\, y Peter Parker ahora es un adulto que vive completamente solo\, ha 
- desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Comb
- atiendo el crimen en una Nueva York que ya no conoce su nombre\, se ha ded
- icado por completo a proteger su ciudad—un Spider-Man a tiempo completo
- —\, pero a medida que aumentan las exigencias sobre él\, la presión de
- sencadena una sorprendente evolución física que amenaza su existencia\, 
- al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una 
- de las amenazas más poderosas a las que se ha enfrentado.\n\nRelease year
- : 2026\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://yelmocines.es/si
- nopsis/spider-man-brand-new-day
-LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El Coro De Praga
-DTSTART;TZID=Europe/Madrid:20260822T160000
-UID:b78fa07a99537d69c3c7bb6e23fe7fff32859dbdde798f43ad77f42d369062c7
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 108 min
- utos | No recomendada para menores de 12 años\n\nOriginal title: Sbormist
- r\n\nRelease year: 2025\n\nOriginal language: CS\n\nAudio: VOSE\n\nhttps:/
- /www.pillalas.com/pase/1083851/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El Drama
-DTSTART;TZID=Europe/Madrid:20260822T160000
-UID:214d9f80a9bfa48027764b75baa4aabba6008b2aec0d81aceef0f935cb190c0e
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 106 min
- utos | No recomendada para menores de 16 años\n\nOriginal title: The Dram
- a\n\nRelease year: 2026\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps:/
- /www.pillalas.com/pase/1083850/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Patrulla Canina: La Dino Película
-DTSTART;TZID=Europe/Madrid:20260822T161000
-DTEND;TZID=Europe/Madrid:20260822T173800
-UID:6150fafcdc6f73df38d46916229beea6ae1b3c44d03c21f1fa04fd894a94023b
-CATEGORIES:cinema
-DESCRIPTION:Después de que su barco quede atrapado en una misteriosa torm
- enta\, los cachorros de la Patrulla Canina naufragan en una isla tropical 
- inexplorada repleta de dinosaurios. Allí conocen a Rex\, un cachorro que 
- lleva años varado en la isla y que se ha convertido en un auténtico expe
- rto en todo lo relacionado con los dinos. Cuando el archienemigo de la Pat
- rulla Canina\, el alcalde Humdinger\, comienza a explotar la isla de forma
-  imprudente con la intención de aprovechar sus recursos naturales\, provo
- ca accidentalmente la erupción de un enorme volcán inactivo. Los cachorr
- os de la Patrulla Canina se enfrentan a sus rescates más importantes hast
- a ahora y deben detener a Humdinger antes de que la isla desaparezca.\n\nO
- riginal title: PAW Patrol: The Dino Movie\n\nRelease year: 2026\n\nOrigina
- l language: EN\n\nAudio: Doblada ES\n\nhttps://cinesembajadores.es/pelicul
- a/la-patrulla-canina-la-dino-pelicula-doblada-al-espanol/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A fuego
-DTSTART;TZID=Europe/Madrid:20260822T161000
-DTEND;TZID=Europe/Madrid:20260822T174700
-UID:c3ae2ecedc3301a2fc35926ce44744e90bb6b6902873b8046de31c5634ddc487
-CATEGORIES:cinema
-DESCRIPTION:Tras la repentina muerte de su hermano Nico\, Lola\, de 17 añ
- os\, se adentra en una búsqueda que la lleva a descubrir un mundo oculto 
- que él solía frecuentar: El Búnker. Un espacio abandonado convertido en
-  epicentro de fiestas clandestinas y batallas de baile\, donde la música 
- y la libertad se viven sin reglas. Allí\, Lola encuentra un grupo de amig
- os que la acompaña en su camino\, le ayuda a reconectar con su pasión po
- r el baile y a redescubrirse. El Búnker se convierte en su refugio\, un l
- ugar donde aprender a vivir sin miedo\, sin filtros\, a fuego.\n\nRelease 
- year: 2026\n\nOriginal language: ES\n\nAudio: Doblada ES\n\nhttps://yelmoc
- ines.es/sinopsis/a-fuego
-LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Insidious: Fuera del más allá
-DTSTART;TZID=Europe/Madrid:20260822T165000
-DTEND;TZID=Europe/Madrid:20260822T183600
-UID:f60485cd2910af2dcc77bd599b78b5b788d2bc703ea87858375695ad19bca812
-CATEGORIES:cinema
-DESCRIPTION:En Insidious: Fuera del Más Allá\, Amelia Eve interpreta a G
- emma\, una joven madre que cría a su hija en la casa en la que creció y 
- que descubre que puede viajar a “El Más Allá”\, el reino purgatorial
-  de las almas perdidas situado en el corazón del universo Insidious. Cuan
- do algo maligno va tras ella\, Gemma descubre una habilidad que lo cambia 
- todo: no solo puede viajar a "El Más Allá"\, sino que también es capaz 
- de traer de vuelta al mundo real lo que encuentra allí. Cuando los demoni
- os se dan cuenta de su poder\, nuestro mundo se convierte en su patio de r
- ecreo.\n\nOriginal title: Insidious: Out of the Further\n\nRelease year: 2
- 026\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://yelmocines.es/sinop
- sis/insidious-fuera-del-mas-alla
-LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El final de Oak Street
-DTSTART;TZID=Europe/Madrid:20260822T172000
-DTEND;TZID=Europe/Madrid:20260822T185900
-UID:a8fab11dc8f12eed8c1e007d2c7f7027e483b7f7fc5041f5d6b99836175f8b62
-CATEGORIES:cinema
-DESCRIPTION:Después de que un misterioso fenómeno cósmico arranque Oak 
- Street de su entorno suburbano y transporte a sus habitantes a un lugar de
- sconocido\, la familia Platt pronto descubre que su propia supervivencia d
- epende de que permanezcan unidos mientras se orientan en un entorno que ya
-  no reconocen.\n\nOriginal title: The End of Oak Street\n\nRelease year: 2
- 026\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://yelmocines.es/sinop
- sis/el-final-de-oak-street
-LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La ciudad de las estrellas (La La Land)
-DTSTART;TZID=Europe/Madrid:20260822T173000
-DTEND;TZID=Europe/Madrid:20260822T193700
-UID:1b26382be282368e033a7083e3279c10b2601dd2c6fa880d28b2be5739c9ad8e
-CATEGORIES:cinema
-DESCRIPTION:Mia (Emma Stone)\, una joven aspirante a actriz que trabaja co
- mo camarera mientras acude a castings\, y Sebastian (Ryan Gosling)\, un pi
- anista de jazz que se gana la vida tocando en sórdidos tugurios\, se enam
- oran\, pero su gran ambición por llegar a la cima en sus carreras artíst
- icas amenaza con separarlos.\n\nOriginal title: La La Land\n\nRelease year
- : 2016\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://cinesembajadores
- .es/pelicula/la-ciudad-de-las-estrellas-la-la-land-vose/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Brand New Day
-DTSTART;TZID=Europe/Madrid:20260822T174000
-DTEND;TZID=Europe/Madrid:20260822T200500
-UID:eb289d81888d69ae5575d3a16df1cf2bb63656cf3963ce2c404da7cfe1fd3397
-CATEGORIES:cinema
-DESCRIPTION:Tras el gran éxito global de Spider-Man: No Way Home\, Spider
- -Man: Brand New Day marca una etapa completamente nueva para Peter Parker 
- y Spider-Man. Han pasado cuatro años desde los acontecimientos de No Way 
- Home\, y Peter Parker ahora es un adulto que vive completamente solo\, ha 
- desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Comb
- atiendo el crimen en una Nueva York que ya no conoce su nombre\, se ha ded
- icado por completo a proteger su ciudad—un Spider-Man a tiempo completo
- —\, pero a medida que aumentan las exigencias sobre él\, la presión de
- sencadena una sorprendente evolución física que amenaza su existencia\, 
- al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una 
- de las amenazas más poderosas a las que se ha enfrentado.\n\nRelease year
- : 2026\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://yelmocines.es/si
- nopsis/spider-man-brand-new-day
-LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La odisea
-DTSTART;TZID=Europe/Madrid:20260822T175000
-DTEND;TZID=Europe/Madrid:20260822T204300
-UID:f5e5e0990ac0933bba6d9803a931f9002c6aa99d92d5d707f4c6cbaf3d01a571
-CATEGORIES:cinema
-DESCRIPTION:Epopeya mitológica que sigue la historia de Odiseo y su largo
-  viaje a casa\, de 10 años de duración\, tras la guerra de Troya.\n\nOri
- ginal title: The Odyssey\n\nRelease year: 2026\n\nOriginal language: EN\n
- \nAudio: VOSE\n\nhttps://yelmocines.es/sinopsis/la-odisea
-LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Palestina 36
-DTSTART;TZID=Europe/Madrid:20260822T175000
-UID:609130064f0d1f878e1ceb3883cfd8aa56f4139d9fc4ff7592bdad06ccc952b5
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 119 min
- utos | No recomendada para menores de 16 años\n\nOriginal title: Palestin
- e 36\n\nRelease year: 2025\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttp
- s://www.pillalas.com/pase/1083807/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El espíritu del 45
-DTSTART;TZID=Europe/Madrid:20260822T180000
-UID:767d7332b69216b95b7cd14ff8caaf54c199e924bca4e06aa215af05267427a3
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Sábado 22 de agosto a las 18:00h (Sala 1. Ken L
- oach: Crónicas de la conciencia) *Aunque las entradas aparezcan como agot
- adas en web\, pueden adquirirse en taquilla entradas para las sesiones del
-  día (de 17h a 20h)\n\nOriginal title: The Spirit of '45\n\nRelease year:
-  2013\n\nOriginal language: EN\n\nhttps://entradasfilmoteca.sacatuentrada.
- es/es/productos/descripcion/el-espiritu-del-45-1
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La odisea
-DTSTART;TZID=Europe/Madrid:20260822T180000
-DTEND;TZID=Europe/Madrid:20260822T205200
-UID:368aa9cc985a6efc499163601166a0023719ed21b1194db6a358de6480bd6985
-CATEGORIES:cinema
-DESCRIPTION:Epopeya mitológica que sigue la historia de Odiseo y su largo
-  viaje a casa\, de 10 años de duración\, tras la guerra de Troya.\n\nOri
- ginal title: The Odyssey\n\nRelease year: 2026\n\nOriginal language: EN\n
- \nAudio: Doblada ES\n\nhttps://cinesembajadores.es/pelicula/la-odisea-dobl
- ada-al-espanol/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Toy Story 5
-DTSTART;TZID=Europe/Madrid:20260822T180000
-DTEND;TZID=Europe/Madrid:20260822T194200
-UID:a28b683b27271b82991a25a286a33cdce254f071697d3e1f3b20702af9eee139
-CATEGORIES:cinema
-DESCRIPTION:Los juguetes están de vuelta en "Toy Story 5"\, de Disney y P
- ixar\, y esta vez se enfrentan los juguetes y la tecnología. El trabajo d
- e Buzz\, Woody\, Jessie y el resto de la pandilla se complica exponencialm
- ente cuando se enfrentan a esta nueva amenaza para el tiempo de juego.\n\n
- Release year: 2026\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://yelm
- ocines.es/sinopsis/toy-story-5
-LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El Amor Que Permanece
-DTSTART;TZID=Europe/Madrid:20260822T180000
-UID:35ce6a11969ae831d0338c2a44f2ae54d4f28e5f3f8c91bbbdf8ba05a54b7e6f
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 109 min
- utos | No recomendada para menores de 12 años\n\nOriginal title: Ástin s
- em eftir er\n\nRelease year: 2025\n\nOriginal language: IS\n\nAudio: VOSE
- \n\nhttps://www.pillalas.com/pase/1083853/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El Drama
-DTSTART;TZID=Europe/Madrid:20260822T180000
-UID:e47234279c9a111cadf60ddcae867401a8eb1e74a203af73d70cefe89ff6442e
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 106 min
- utos | No recomendada para menores de 16 años\n\nOriginal title: The Dram
- a\n\nRelease year: 2026\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps:/
- /www.pillalas.com/pase/1083852/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Marsupilami
-DTSTART;TZID=Europe/Madrid:20260822T180500
-DTEND;TZID=Europe/Madrid:20260822T194400
-UID:b16085718247dc71888dbbaeb33db5ef0b6942c4d9b666ac0984f461730bcced
-CATEGORIES:cinema
-DESCRIPTION:Para salvar su trabajo en el zoo\, David acepta una arriesgada
-  misión: recuperar un misterioso paquete en Sudamérica. El encargo lo ll
- eva a un crucero donde viaja con su ex\, su hijo y Stéphane\, un compañe
- ro torpe. Todo se descontrola cuando Stéphane lo abre por accidente y lib
- era a un adorable bebé marsupilami que convertirá el viaje en un caos ab
- soluto. David y su familia tendrán que estar más unidos que nunca para r
- ecuperarlo.\n\nRelease year: 2026\n\nOriginal language: FR\n\nAudio: Dobla
- da ES\n\nhttps://cinesembajadores.es/pelicula/marsupilami-doblada-al-espan
- ol/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El motín
-DTSTART;TZID=Europe/Madrid:20260822T180500
-DTEND;TZID=Europe/Madrid:20260822T194000
-UID:a668f744283b7df251e44a3680c38535e03afd42a9bdc8d31db51410bc542acf
-CATEGORIES:cinema
-DESCRIPTION:Cole Reed (Jason Statham) es incriminado injustamente por el a
- sesinato de su jefe multimillonario. Tras embarcarse en un buque de carga 
- para vengar su muerte\, destapará una peligrosa conspiración internacion
- al.\n\nOriginal title: Mutiny\n\nRelease year: 2026\n\nOriginal language: 
- EN\n\nAudio: VOSE\n\nhttps://yelmocines.es/sinopsis/el-motin
-LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Última Ronda En Venecia
-DTSTART;TZID=Europe/Madrid:20260822T180500
-UID:4f40750aa970274fd44b0b1758d4289e5afbd9c2c2959cb8847aa7675e9e9316
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 100 min
- utos | No recomendada para menores de 16 años\n\nOriginal title: Le citt
- à di pianura\n\nRelease year: 2025\n\nOriginal language: IT\n\nAudio: VOS
- E\n\nhttps://www.pillalas.com/pase/1083808/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A fuego
-DTSTART;TZID=Europe/Madrid:20260822T181000
-DTEND;TZID=Europe/Madrid:20260822T194700
-UID:0f8b331d909eade0be9832786104a0a3125cbafcbab645c8fe6589fad8cac701
-CATEGORIES:cinema
-DESCRIPTION:Tras la repentina muerte de su hermano Nico\, Lola\, de 17 añ
- os\, se adentra en una búsqueda que la lleva a descubrir un mundo oculto 
- que él solía frecuentar: El Búnker. Un espacio abandonado convertido en
-  epicentro de fiestas clandestinas y batallas de baile\, donde la música 
- y la libertad se viven sin reglas. Allí\, Lola encuentra un grupo de amig
- os que la acompaña en su camino\, le ayuda a reconectar con su pasión po
- r el baile y a redescubrirse. El Búnker se convierte en su refugio\, un l
- ugar donde aprender a vivir sin miedo\, sin filtros\, a fuego.\n\nRelease 
- year: 2026\n\nOriginal language: ES\n\nAudio: Doblada ES\n\nhttps://yelmoc
- ines.es/sinopsis/a-fuego
-LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El Coro De Praga
-DTSTART;TZID=Europe/Madrid:20260822T181000
-UID:d0ae4c0b8c0f19de35bef538c09fe0c943d590b11954a3300859fd5c88e79f3d
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 108 min
- utos | No recomendada para menores de 12 años\n\nOriginal title: Sbormist
- r\n\nRelease year: 2025\n\nOriginal language: CS\n\nAudio: VOSE\n\nhttps:/
- /www.pillalas.com/pase/1083854/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La odisea
-DTSTART;TZID=Europe/Madrid:20260822T185000
-DTEND;TZID=Europe/Madrid:20260822T214300
-UID:4b75da8fbca9541d992d8748be197fe509dbef56324b95b091fb0d88ec750c0d
-CATEGORIES:cinema
-DESCRIPTION:Epopeya mitológica que sigue la historia de Odiseo y su largo
-  viaje a casa\, de 10 años de duración\, tras la guerra de Troya.\n\nOri
- ginal title: The Odyssey\n\nRelease year: 2026\n\nOriginal language: EN\n
- \nAudio: VOSE\n\nhttps://yelmocines.es/sinopsis/la-odisea
-LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Brand New Day
-DTSTART;TZID=Europe/Madrid:20260822T190000
-DTEND;TZID=Europe/Madrid:20260822T212500
-UID:844f53750f76ada780cea8786408b527d023a494dd5b4f0b4b5f95ba5b5e08b2
-CATEGORIES:cinema
-DESCRIPTION:Tras el gran éxito global de Spider-Man: No Way Home\, Spider
- -Man: Brand New Day marca una etapa completamente nueva para Peter Parker 
- y Spider-Man. Han pasado cuatro años desde los acontecimientos de No Way 
- Home\, y Peter Parker ahora es un adulto que vive completamente solo\, ha 
- desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Comb
- atiendo el crimen en una Nueva York que ya no conoce su nombre\, se ha ded
- icado por completo a proteger su ciudad—un Spider-Man a tiempo completo
- —\, pero a medida que aumentan las exigencias sobre él\, la presión de
- sencadena una sorprendente evolución física que amenaza su existencia\, 
- al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una 
- de las amenazas más poderosas a las que se ha enfrentado.\n\nRelease year
- : 2026\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://yelmocines.es/si
- nopsis/spider-man-brand-new-day
-LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Insidious: Fuera del más allá
-DTSTART;TZID=Europe/Madrid:20260822T191000
-DTEND;TZID=Europe/Madrid:20260822T205600
-UID:08c67b743ea1d450f8bc02f28a944e4b881a5767b8da99e7e4c8e38b855a582f
-CATEGORIES:cinema
-DESCRIPTION:En Insidious: Fuera del Más Allá\, Amelia Eve interpreta a G
- emma\, una joven madre que cría a su hija en la casa en la que creció y 
- que descubre que puede viajar a “El Más Allá”\, el reino purgatorial
-  de las almas perdidas situado en el corazón del universo Insidious. Cuan
- do algo maligno va tras ella\, Gemma descubre una habilidad que lo cambia 
- todo: no solo puede viajar a "El Más Allá"\, sino que también es capaz 
- de traer de vuelta al mundo real lo que encuentra allí. Cuando los demoni
- os se dan cuenta de su poder\, nuestro mundo se convierte en su patio de r
- ecreo.\n\nOriginal title: Insidious: Out of the Further\n\nRelease year: 2
- 026\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://yelmocines.es/sinop
- sis/insidious-fuera-del-mas-alla
-LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El final de Oak Street
-DTSTART;TZID=Europe/Madrid:20260822T193000
-DTEND;TZID=Europe/Madrid:20260822T210900
-UID:4c7559699f7e31a16ae98a657d833510c552e53f0aa7454444d9b714c3de5e96
-CATEGORIES:cinema
-DESCRIPTION:Después de que un misterioso fenómeno cósmico arranque Oak 
- Street de su entorno suburbano y transporte a sus habitantes a un lugar de
- sconocido\, la familia Platt pronto descubre que su propia supervivencia d
- epende de que permanezcan unidos mientras se orientan en un entorno que ya
-  no reconocen.\n\nOriginal title: The End of Oak Street\n\nRelease year: 2
- 026\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://yelmocines.es/sinop
- sis/el-final-de-oak-street
-LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La ciudad de las estrellas (La La Land)
-DTSTART;TZID=Europe/Madrid:20260822T200000
-DTEND;TZID=Europe/Madrid:20260822T220700
-UID:81521a5ec1217bfbbc3c68fd25feef47d70af5d95bfa91e29423af0d37b136b9
-CATEGORIES:cinema
-DESCRIPTION:Mia (Emma Stone)\, una joven aspirante a actriz que trabaja co
- mo camarera mientras acude a castings\, y Sebastian (Ryan Gosling)\, un pi
- anista de jazz que se gana la vida tocando en sórdidos tugurios\, se enam
- oran\, pero su gran ambición por llegar a la cima en sus carreras artíst
- icas amenaza con separarlos.\n\nOriginal title: La La Land\n\nRelease year
- : 2016\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://cinesembajadores
- .es/pelicula/la-ciudad-de-las-estrellas-la-la-land-vose/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La odisea
-DTSTART;TZID=Europe/Madrid:20260822T200000
-DTEND;TZID=Europe/Madrid:20260822T225200
-UID:7302e56f0788f2de0506597827fb2e14e8add5365937e7e85f820eb53652863b
-CATEGORIES:cinema
-DESCRIPTION:Epopeya mitológica que sigue la historia de Odiseo y su largo
-  viaje a casa\, de 10 años de duración\, tras la guerra de Troya.\n\nOri
- ginal title: The Odyssey\n\nRelease year: 2026\n\nOriginal language: EN\n
- \nAudio: VOSE\n\nhttps://cinesembajadores.es/pelicula/la-odisea-vose/?ciud
- ad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El Drama
-DTSTART;TZID=Europe/Madrid:20260822T200500
-UID:c9a7fdec8f8d806479de4d4d6a7ff0b95d59345076c4eb7dd30a2504257abd3b
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 106 min
- utos | No recomendada para menores de 16 años\n\nOriginal title: The Dram
- a\n\nRelease year: 2026\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps:/
- /www.pillalas.com/pase/1083855/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Última Ronda En Venecia
-DTSTART;TZID=Europe/Madrid:20260822T200500
-UID:c32f0ceb02b84e10b140e476875718c797cd6e7f1ee6bb2133d64688424aec39
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 100 min
- utos | No recomendada para menores de 16 años\n\nOriginal title: Le citt
- à di pianura\n\nRelease year: 2025\n\nOriginal language: IT\n\nAudio: VOS
- E\n\nhttps://www.pillalas.com/pase/1083809/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mother Mary
-DTSTART;TZID=Europe/Madrid:20260822T201000
-DTEND;TZID=Europe/Madrid:20260822T220100
-UID:e33b7eaffaabfbb6356b6b225035061b8f11670548527f7997fa15f97ae69fa5
-CATEGORIES:cinema
-DESCRIPTION:La intensa relación entre la cantante de pop Mary y Sam\, una
-  antigua amiga suya\, diseñadora de moda\, que se vuelven a reunir tras l
- a necesidad de la primera de un vestido para su nueva gira de conciertos.
- \n\nRelease year: 2026\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://
- yelmocines.es/sinopsis/mother-mary
-LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El Amor Que Permanece
-DTSTART;TZID=Europe/Madrid:20260822T201000
-UID:720def2c0fd89d47ed34b2c10a218f546071e9348c6c0892967006f9ca6ba6e5
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 109 min
- utos | No recomendada para menores de 12 años\n\nOriginal title: Ástin s
- em eftir er\n\nRelease year: 2025\n\nOriginal language: IS\n\nAudio: VOSE
- \n\nhttps://www.pillalas.com/pase/1083856/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Palestina 36
-DTSTART;TZID=Europe/Madrid:20260822T201000
-UID:5f1ebce7b1bb5bcace7b6fc6dfedf125f7ed62ba619335a7470736b9f527d95a
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 119 min
- utos | No recomendada para menores de 16 años\n\nOriginal title: Palestin
- e 36\n\nRelease year: 2025\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttp
- s://www.pillalas.com/pase/1083810/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Fast & The Furious 25 aniversario
-DTSTART;TZID=Europe/Madrid:20260822T201500
-DTEND;TZID=Europe/Madrid:20260822T220400
-UID:f5be70547464f7f50f66a0c76cc7a72c450bec9a6d85e27a749c9ca123d8ab6b
-CATEGORIES:cinema
-DESCRIPTION:Una misteriosa banda de delincuentes se dedica a robar camione
- s en marcha desde vehículos deportivos. La policía decide infiltrar un h
- ombre en el mundo de las carreras ilegales para descubrir posibles sospech
- osos. El joven y apuesto Brian entra en el mundo del tunning donde conoce 
- a Dominic\, rey indiscutible de este mundo y sospechoso número uno\, pero
-  todo se complicará cuando se enamore de su hermana.\n\nAudio: VOSE\n\nht
- tps://yelmocines.es/sinopsis/the-fast-the-furious-25-aniversario
-LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El Coro De Praga
-DTSTART;TZID=Europe/Madrid:20260822T202000
-UID:4419f1ce077925ab883f892e5921b2c8129703c16500c7dc30a7c0e4bfc5acde
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 108 min
- utos | No recomendada para menores de 12 años\n\nOriginal title: Sbormist
- r\n\nRelease year: 2025\n\nOriginal language: CS\n\nAudio: VOSE\n\nhttps:/
- /www.pillalas.com/pase/1083857/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La isla de la muerte
-DTSTART;TZID=Europe/Madrid:20260822T203000
-UID:a3abba783da1df41fec8019f460c294f2dd9513bb88a85c6bc6a0d0aaf0e1e04
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Sábado 22 de agosto a las 20:30h (Sala 1. Góti
- co Mediterráneo: Eros y Thanatos bajo el sol) *Aunque las entradas aparez
- can como agotadas en web\, pueden adquirirse en taquilla entradas para las
-  sesiones del día (de 17h a 20h)\n\nOriginal title: De Sade 70\n\nRelease
-  year: 1970\n\nOriginal language: ES\n\nhttps://entradasfilmoteca.sacatuen
- trada.es/es/productos/descripcion/la-isla-de-la-muerte-22-agosto
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Obsession
-DTSTART;TZID=Europe/Madrid:20260822T203000
-DTEND;TZID=Europe/Madrid:20260822T221800
-UID:e0a3f4e3976d1f58e0f1ccbf41ccb9a160413e513e8cd98bf8918440a066efdf
-CATEGORIES:cinema
-DESCRIPTION:Tras usar un misterioso objeto para conquistar a su amor plat
- ónico\, un romántico empedernido verá cumplido su mayor anhelo…\, per
- o no tardará en descubrir el oscuro y siniestro precio de algunos deseos.
- \n\nRelease year: 2026\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://
- yelmocines.es/sinopsis/obsession
-LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Brand New Day
-DTSTART;TZID=Europe/Madrid:20260822T204000
-DTEND;TZID=Europe/Madrid:20260822T230500
-UID:2230ad784eb5337196579f0ef8761a6a9daca2eb3ea048040435f90cd7b1134e
-CATEGORIES:cinema
-DESCRIPTION:Tras el gran éxito global de Spider-Man: No Way Home\, Spider
- -Man: Brand New Day marca una etapa completamente nueva para Peter Parker 
- y Spider-Man. Han pasado cuatro años desde los acontecimientos de No Way 
- Home\, y Peter Parker ahora es un adulto que vive completamente solo\, ha 
- desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Comb
- atiendo el crimen en una Nueva York que ya no conoce su nombre\, se ha ded
- icado por completo a proteger su ciudad—un Spider-Man a tiempo completo
- —\, pero a medida que aumentan las exigencias sobre él\, la presión de
- sencadena una sorprendente evolución física que amenaza su existencia\, 
- al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una 
- de las amenazas más poderosas a las que se ha enfrentado.\n\nRelease year
- : 2026\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://yelmocines.es/si
- nopsis/spider-man-brand-new-day
-LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La ciudad de las estrellas (La La Land)
-DTSTART;TZID=Europe/Madrid:20260822T211000
-DTEND;TZID=Europe/Madrid:20260822T231700
-UID:14f2b8c66c3969518d078f40d05aa77e10a281275e0272c5459df5d5e77f2b5b
-CATEGORIES:cinema
-DESCRIPTION:Mia (Emma Stone)\, una joven aspirante a actriz que trabaja co
- mo camarera mientras acude a castings\, y Sebastian (Ryan Gosling)\, un pi
- anista de jazz que se gana la vida tocando en sórdidos tugurios\, se enam
- oran\, pero su gran ambición por llegar a la cima en sus carreras artíst
- icas amenaza con separarlos.\n\nOriginal title: La La Land\n\nRelease year
- : 2016\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://cinesembajadores
- .es/pelicula/la-ciudad-de-las-estrellas-la-la-land-vose/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La odisea
-DTSTART;TZID=Europe/Madrid:20260822T212000
-DTEND;TZID=Europe/Madrid:20260823T001300
-UID:607db0940b7a68528cd2c34a9552097e880f1ff96b8d516c4e8a6b253960ee25
-CATEGORIES:cinema
-DESCRIPTION:Epopeya mitológica que sigue la historia de Odiseo y su largo
-  viaje a casa\, de 10 años de duración\, tras la guerra de Troya.\n\nOri
- ginal title: The Odyssey\n\nRelease year: 2026\n\nOriginal language: EN\n
- \nAudio: VOSE\n\nhttps://yelmocines.es/sinopsis/la-odisea
-LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Insidious: Fuera del más allá
-DTSTART;TZID=Europe/Madrid:20260822T213000
-DTEND;TZID=Europe/Madrid:20260822T231600
-UID:46c80df12462bebbe13c878271bd4ecd06c03bda2fa9a5f19a55c782bc7f7881
-CATEGORIES:cinema
-DESCRIPTION:En Insidious: Fuera del Más Allá\, Amelia Eve interpreta a G
- emma\, una joven madre que cría a su hija en la casa en la que creció y 
- que descubre que puede viajar a “El Más Allá”\, el reino purgatorial
-  de las almas perdidas situado en el corazón del universo Insidious. Cuan
- do algo maligno va tras ella\, Gemma descubre una habilidad que lo cambia 
- todo: no solo puede viajar a "El Más Allá"\, sino que también es capaz 
- de traer de vuelta al mundo real lo que encuentra allí. Cuando los demoni
- os se dan cuenta de su poder\, nuestro mundo se convierte en su patio de r
- ecreo.\n\nOriginal title: Insidious: Out of the Further\n\nRelease year: 2
- 026\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://yelmocines.es/sinop
- sis/insidious-fuera-del-mas-alla
-LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:American Rock Punk Fest.: Neverminders (tributo a Nirvana) + Smash
-  (tributo a The Offspring) + Suburbia (tributo a Green Day)
-DTSTART;TZID=Europe/Madrid:20260822T213000
-UID:84e5ec14d8c1a34cd65c640db22b1ba6600236b7c1b1d9e4e286d89cab1fdc8e
-CATEGORIES:music
-DESCRIPTION:Precio de las entradas: 15€/18€ Entradas a la venta en ent
- radium Más información: “American Rock Punk” festival revivir las ca
- nciones de las grandes bandas del punk-rock americano\, de\n\nhttps://grut
- a77.com/events/american-rock-punk-fest-neverminders-tributo-a-nirvana-smas
- h-tributo-a-the-offspring-suburbia-tributo-a-green-day-2/var/ri-0.l-L2
-LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El final de Oak Street
-DTSTART;TZID=Europe/Madrid:20260822T214000
-DTEND;TZID=Europe/Madrid:20260822T231900
-UID:25c735c4bab53738254dd82d4119eeccf9179db310d606454acd1ec2e1e68039
-CATEGORIES:cinema
-DESCRIPTION:Después de que un misterioso fenómeno cósmico arranque Oak 
- Street de su entorno suburbano y transporte a sus habitantes a un lugar de
- sconocido\, la familia Platt pronto descubre que su propia supervivencia d
- epende de que permanezcan unidos mientras se orientan en un entorno que ya
-  no reconocen.\n\nOriginal title: The End of Oak Street\n\nRelease year: 2
- 026\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://yelmocines.es/sinop
- sis/el-final-de-oak-street
-LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Brand New Day
-DTSTART;TZID=Europe/Madrid:20260822T220000
-DTEND;TZID=Europe/Madrid:20260823T002500
-UID:6c661ba49f1b5c3b6563c8bcb24071a39603f01a227f5f38bd184ce4a510b21c
-CATEGORIES:cinema
-DESCRIPTION:Tras el gran éxito global de Spider-Man: No Way Home\, Spider
- -Man: Brand New Day marca una etapa completamente nueva para Peter Parker 
- y Spider-Man. Han pasado cuatro años desde los acontecimientos de No Way 
- Home\, y Peter Parker ahora es un adulto que vive completamente solo\, ha 
- desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Comb
- atiendo el crimen en una Nueva York que ya no conoce su nombre\, se ha ded
- icado por completo a proteger su ciudad—un Spider-Man a tiempo completo
- —\, pero a medida que aumentan las exigencias sobre él\, la presión de
- sencadena una sorprendente evolución física que amenaza su existencia\, 
- al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una 
- de las amenazas más poderosas a las que se ha enfrentado.\n\nRelease year
- : 2026\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://yelmocines.es/si
- nopsis/spider-man-brand-new-day
-LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Palestina 36
-DTSTART;TZID=Europe/Madrid:20260822T220500
-UID:0d25f0512fede83d9e8848cb4e5514bfb3cbae456baef0efe2b8b78166185e84
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 119 min
- utos | No recomendada para menores de 16 años\n\nOriginal title: Palestin
- e 36\n\nRelease year: 2025\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttp
- s://www.pillalas.com/pase/1083811/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El Drama
-DTSTART;TZID=Europe/Madrid:20260822T221000
-UID:ee4bb87f479865981d0d369650586e5de72613b72932d417258034d6fb539dad
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 106 min
- utos | No recomendada para menores de 16 años\n\nOriginal title: The Dram
- a\n\nRelease year: 2026\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps:/
- /www.pillalas.com/pase/1083858/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La odisea
-DTSTART;TZID=Europe/Madrid:20260822T222000
-DTEND;TZID=Europe/Madrid:20260823T011300
-UID:990ca9aef70da316c4b76f2093a9fc012ea6e0db9c014e25a8a9a5e96f2c09e7
-CATEGORIES:cinema
-DESCRIPTION:Epopeya mitológica que sigue la historia de Odiseo y su largo
-  viaje a casa\, de 10 años de duración\, tras la guerra de Troya.\n\nOri
- ginal title: The Odyssey\n\nRelease year: 2026\n\nOriginal language: EN\n
- \nAudio: VOSE\n\nhttps://yelmocines.es/sinopsis/la-odisea
-LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El Amor Que Permanece
-DTSTART;TZID=Europe/Madrid:20260822T222000
-UID:7d1c4191db55fda6b19ccb11ac722c768139d02be4976bfe7a0034304d9eb79f
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 109 min
- utos | No recomendada para menores de 12 años\n\nOriginal title: Ástin s
- em eftir er\n\nRelease year: 2025\n\nOriginal language: IS\n\nAudio: VOSE
- \n\nhttps://www.pillalas.com/pase/1083859/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El motín
-DTSTART;TZID=Europe/Madrid:20260822T222500
-DTEND;TZID=Europe/Madrid:20260823T000000
-UID:16b867ba3ac23c21b2730632583c8c752aa5dfae0f6aaa4ceb480b98fc970ea9
-CATEGORIES:cinema
-DESCRIPTION:Cole Reed (Jason Statham) es incriminado injustamente por el a
- sesinato de su jefe multimillonario. Tras embarcarse en un buque de carga 
- para vengar su muerte\, destapará una peligrosa conspiración internacion
- al.\n\nOriginal title: Mutiny\n\nRelease year: 2026\n\nOriginal language: 
- EN\n\nAudio: VOSE\n\nhttps://yelmocines.es/sinopsis/el-motin
-LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El Coro De Praga
-DTSTART;TZID=Europe/Madrid:20260822T222500
-UID:0e9e481da3fb1d991a5e30f44fd4f67b7645e0c82218ab99da680c8da3c8c6d4
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 108 min
- utos | No recomendada para menores de 12 años\n\nOriginal title: Sbormist
- r\n\nRelease year: 2025\n\nOriginal language: CS\n\nAudio: VOSE\n\nhttps:/
- /www.pillalas.com/pase/1083860/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Última Ronda En Venecia
-DTSTART;TZID=Europe/Madrid:20260822T222500
-UID:0d8ef67e19b2211c506d1a4ed5870252eb8020053cf348bc8dd79c13fd348fdd
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 100 min
- utos | No recomendada para menores de 16 años\n\nOriginal title: Le citt
- à di pianura\n\nRelease year: 2025\n\nOriginal language: IT\n\nAudio: VOS
- E\n\nhttps://www.pillalas.com/pase/1083812/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Carretera perdida
-DTSTART;TZID=Europe/Madrid:20260822T223000
-DTEND;TZID=Europe/Madrid:20260823T004400
-UID:74907130ac07e5673bc4edbdb02b75b64c3ab9a80c0d0f01d40ca2bba6472aff
-CATEGORIES:cinema
-DESCRIPTION:Fred Madison\, un músico de Jazz\, recibe una serie de mister
- iosas cintas de video en las que aparece con su mujer Renée dentro de su 
- propia casa. En la última de ellas\, que Fred ve a solas\, él está junt
- o a su esposa muerta.\n\nOriginal title: Lost Highway\n\nRelease year: 199
- 7\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://cinesembajadores.es/p
- elicula/carretera-perdida-vose/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A fuego
-DTSTART;TZID=Europe/Madrid:20260822T224000
-DTEND;TZID=Europe/Madrid:20260823T001700
-UID:63d1e0a21ea5ac12a8197a866deedfedc096975dec7c59821cad1b3deb4c33e7
-CATEGORIES:cinema
-DESCRIPTION:Tras la repentina muerte de su hermano Nico\, Lola\, de 17 añ
- os\, se adentra en una búsqueda que la lleva a descubrir un mundo oculto 
- que él solía frecuentar: El Búnker. Un espacio abandonado convertido en
-  epicentro de fiestas clandestinas y batallas de baile\, donde la música 
- y la libertad se viven sin reglas. Allí\, Lola encuentra un grupo de amig
- os que la acompaña en su camino\, le ayuda a reconectar con su pasión po
- r el baile y a redescubrirse. El Búnker se convierte en su refugio\, un l
- ugar donde aprender a vivir sin miedo\, sin filtros\, a fuego.\n\nRelease 
- year: 2026\n\nOriginal language: ES\n\nAudio: Doblada ES\n\nhttps://yelmoc
- ines.es/sinopsis/a-fuego
-LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Obsession
-DTSTART;TZID=Europe/Madrid:20260822T225000
-DTEND;TZID=Europe/Madrid:20260823T003800
-UID:453b873a0ae75e101919781dc0c0e2f7fd3e81dff6111028130c5ad76de7a899
-CATEGORIES:cinema
-DESCRIPTION:Tras usar un misterioso objeto para conquistar a su amor plat
- ónico\, un romántico empedernido verá cumplido su mayor anhelo…\, per
- o no tardará en descubrir el oscuro y siniestro precio de algunos deseos.
- \n\nRelease year: 2026\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://
- yelmocines.es/sinopsis/obsession
-LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mother Mary
-DTSTART;TZID=Europe/Madrid:20260822T233500
-DTEND;TZID=Europe/Madrid:20260823T012600
-UID:c443732b891e0a98f85f6699d157846464eaeaef1247e6b41dc94940ec033c6a
-CATEGORIES:cinema
-DESCRIPTION:La intensa relación entre la cantante de pop Mary y Sam\, una
-  antigua amiga suya\, diseñadora de moda\, que se vuelven a reunir tras l
- a necesidad de la primera de un vestido para su nueva gira de conciertos.
- \n\nRelease year: 2026\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://
- yelmocines.es/sinopsis/mother-mary
-LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Fast & The Furious 25 aniversario
@@ -2421,9 +1372,9 @@ LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:La odisea
-DTSTART;TZID=Europe/Madrid:20260823T152000
-DTEND;TZID=Europe/Madrid:20260823T181300
-UID:148721022b904c7d968a554fc2278ea90c8d8240daaf40f3a3d10f47d75d9513
+DTSTART;TZID=Europe/Madrid:20260823T152500
+DTEND;TZID=Europe/Madrid:20260823T181800
+UID:cadbe105a4534089bb495c9e5a967fca66b69d10c712b1ab2d0ebc3b37af0c34
 CATEGORIES:cinema
 DESCRIPTION:Epopeya mitológica que sigue la historia de Odiseo y su largo
   viaje a casa\, de 10 años de duración\, tras la guerra de Troya.\n\nOri
@@ -2629,9 +1580,9 @@ LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Insidious: Fuera del más allá
-DTSTART;TZID=Europe/Madrid:20260823T165000
-DTEND;TZID=Europe/Madrid:20260823T183600
-UID:a237ceeb5902781c111d9decf71660550c8b7b687082e316531f5746eb31d4f9
+DTSTART;TZID=Europe/Madrid:20260823T164000
+DTEND;TZID=Europe/Madrid:20260823T182600
+UID:8c49e1e76cd46445045ddd040553558663765425830e5d7945b691e9fee545d1
 CATEGORIES:cinema
 DESCRIPTION:En Insidious: Fuera del Más Allá\, Amelia Eve interpreta a G
  emma\, una joven madre que cría a su hija en la casa en la que creció y 
@@ -2792,8 +1743,7 @@ CATEGORIES:cinema
 DESCRIPTION:Cole Reed (Jason Statham) es incriminado injustamente por el a
  sesinato de su jefe multimillonario. Tras embarcarse en un buque de carga 
  para vengar su muerte\, destapará una peligrosa conspiración internacion
- al.\n\nOriginal title: Mutiny\n\nRelease year: 2026\n\nOriginal language: 
- EN\n\nAudio: VOSE\n\nhttps://yelmocines.es/sinopsis/el-motin
+ al.\n\nAudio: VOSE\n\nhttps://yelmocines.es/sinopsis/el-motin
 LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -2888,9 +1838,9 @@ LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Insidious: Fuera del más allá
-DTSTART;TZID=Europe/Madrid:20260823T191000
-DTEND;TZID=Europe/Madrid:20260823T205600
-UID:2384d403656420023420920de0195978f3610422b8c8dd5f2d6b0bbab1af25c1
+DTSTART;TZID=Europe/Madrid:20260823T190500
+DTEND;TZID=Europe/Madrid:20260823T205100
+UID:b1915490a8ff8456303e7070a8850db24a20b700763275503780f116238a4f15
 CATEGORIES:cinema
 DESCRIPTION:En Insidious: Fuera del Más Allá\, Amelia Eve interpreta a G
  emma\, una joven madre que cría a su hija en la casa en la que creció y 
@@ -3057,6 +2007,19 @@ DESCRIPTION:Mia (Emma Stone)\, una joven aspirante a actriz que trabaja co
 LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:La odisea
+DTSTART;TZID=Europe/Madrid:20260823T203000
+DTEND;TZID=Europe/Madrid:20260823T232200
+UID:47bf7a748ad07a84125f69310d95711f1bb34fb31e3e5fd898245c0b595337e2
+CATEGORIES:cinema
+DESCRIPTION:Epopeya mitológica que sigue la historia de Odiseo y su largo
+  viaje a casa\, de 10 años de duración\, tras la guerra de Troya.\n\nOri
+ ginal title: The Odyssey\n\nRelease year: 2026\n\nOriginal language: EN\n
+ \nAudio: VOSE\n\nhttps://cinesembajadores.es/pelicula/la-odisea-vose/?ciud
+ ad=madrid
+LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Spider-Man: Brand New Day
 DTSTART;TZID=Europe/Madrid:20260823T204000
 DTEND;TZID=Europe/Madrid:20260823T230500
@@ -3202,8 +2165,7 @@ CATEGORIES:cinema
 DESCRIPTION:Cole Reed (Jason Statham) es incriminado injustamente por el a
  sesinato de su jefe multimillonario. Tras embarcarse en un buque de carga 
  para vengar su muerte\, destapará una peligrosa conspiración internacion
- al.\n\nOriginal title: Mutiny\n\nRelease year: 2026\n\nOriginal language: 
- EN\n\nAudio: VOSE\n\nhttps://yelmocines.es/sinopsis/el-motin
+ al.\n\nAudio: VOSE\n\nhttps://yelmocines.es/sinopsis/el-motin
 LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -3283,21 +2245,6 @@ DESCRIPTION:Epopeya mitológica que sigue la historia de Odiseo y su largo
 LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Minions & Monsters
-DTSTART;TZID=Europe/Madrid:20260824T155000
-DTEND;TZID=Europe/Madrid:20260824T172000
-UID:ee0cc996dbf88803b0cba7b0960b36d7093cba98e2bdbada9cc0644ea315fef8
-CATEGORIES:cinema
-DESCRIPTION:Este capítulo cuenta la desvergonzada\, disparatada y verdade
- ra historia de cómo los Minions conquistaron Hollywood\, se convirtieron 
- en estrellas de cine\, lo perdieron todo\, soltaron monstruos en el mundo 
- y acabaron uniéndose de nuevo en un intento de salvar el planeta del desa
- stre que ellos mismos habían creado.\n\nRelease year: 2026\n\nOriginal la
- nguage: EN\n\nAudio: VOSE\n\nhttps://yelmocines.es/sinopsis/minions-monste
- rs
-LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:El Amor Que Permanece
 DTSTART;TZID=Europe/Madrid:20260824T155000
 UID:0f7f042ceb1504c1eab8e700690d206927686fd04f1d7e88313b9ecb425d83de
@@ -3329,6 +2276,21 @@ DESCRIPTION:Versión Original subtitulada a Castellano | Duración 119 min
  e 36\n\nRelease year: 2025\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttp
  s://www.pillalas.com/pase/1083821/
 LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minions & Monsters
+DTSTART;TZID=Europe/Madrid:20260824T155500
+DTEND;TZID=Europe/Madrid:20260824T172500
+UID:e819162b4f0243bd2301b685a8e14daa06d6de90c4121ffdf6bbf9d19e1c521e
+CATEGORIES:cinema
+DESCRIPTION:Este capítulo cuenta la desvergonzada\, disparatada y verdade
+ ra historia de cómo los Minions conquistaron Hollywood\, se convirtieron 
+ en estrellas de cine\, lo perdieron todo\, soltaron monstruos en el mundo 
+ y acabaron uniéndose de nuevo en un intento de salvar el planeta del desa
+ stre que ellos mismos habían creado.\n\nRelease year: 2026\n\nOriginal la
+ nguage: EN\n\nAudio: VOSE\n\nhttps://yelmocines.es/sinopsis/minions-monste
+ rs
+LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:El coro de Praga
@@ -3581,8 +2543,7 @@ CATEGORIES:cinema
 DESCRIPTION:Cole Reed (Jason Statham) es incriminado injustamente por el a
  sesinato de su jefe multimillonario. Tras embarcarse en un buque de carga 
  para vengar su muerte\, destapará una peligrosa conspiración internacion
- al.\n\nOriginal title: Mutiny\n\nRelease year: 2026\n\nOriginal language: 
- EN\n\nAudio: VOSE\n\nhttps://yelmocines.es/sinopsis/el-motin
+ al.\n\nAudio: VOSE\n\nhttps://yelmocines.es/sinopsis/el-motin
 LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -4005,8 +2966,7 @@ CATEGORIES:cinema
 DESCRIPTION:Cole Reed (Jason Statham) es incriminado injustamente por el a
  sesinato de su jefe multimillonario. Tras embarcarse en un buque de carga 
  para vengar su muerte\, destapará una peligrosa conspiración internacion
- al.\n\nOriginal title: Mutiny\n\nRelease year: 2026\n\nOriginal language: 
- EN\n\nAudio: VOSE\n\nhttps://yelmocines.es/sinopsis/el-motin
+ al.\n\nAudio: VOSE\n\nhttps://yelmocines.es/sinopsis/el-motin
 LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -4074,33 +3034,6 @@ DESCRIPTION:Vaiana (Catherine Lagaʻaia) responde a la llamada del océano
 LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:La odisea
-DTSTART;TZID=Europe/Madrid:20260825T155000
-DTEND;TZID=Europe/Madrid:20260825T184300
-UID:ceb2d82d66519acc7510f7b07ebd8231838e93046c2fb3fbee8f47c032746028
-CATEGORIES:cinema
-DESCRIPTION:Epopeya mitológica que sigue la historia de Odiseo y su largo
-  viaje a casa\, de 10 años de duración\, tras la guerra de Troya.\n\nOri
- ginal title: The Odyssey\n\nRelease year: 2026\n\nOriginal language: EN\n
- \nAudio: VOSE\n\nhttps://yelmocines.es/sinopsis/la-odisea
-LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Minions & Monsters
-DTSTART;TZID=Europe/Madrid:20260825T155000
-DTEND;TZID=Europe/Madrid:20260825T172000
-UID:8dafe8e7f7297a6aa8e1c2307c92dae8c14ac501197692f276b151614974658f
-CATEGORIES:cinema
-DESCRIPTION:Este capítulo cuenta la desvergonzada\, disparatada y verdade
- ra historia de cómo los Minions conquistaron Hollywood\, se convirtieron 
- en estrellas de cine\, lo perdieron todo\, soltaron monstruos en el mundo 
- y acabaron uniéndose de nuevo en un intento de salvar el planeta del desa
- stre que ellos mismos habían creado.\n\nRelease year: 2026\n\nOriginal la
- nguage: EN\n\nAudio: VOSE\n\nhttps://yelmocines.es/sinopsis/minions-monste
- rs
-LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:El Amor Que Permanece
 DTSTART;TZID=Europe/Madrid:20260825T155000
 UID:3a25441303c5691155c2ecc96bd70dec3a977b1b476908ed45a9ec6ed9e0ea44
@@ -4132,6 +3065,21 @@ DESCRIPTION:Versión Original subtitulada a Castellano | Duración 119 min
  e 36\n\nRelease year: 2025\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttp
  s://www.pillalas.com/pase/1083829/
 LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minions & Monsters
+DTSTART;TZID=Europe/Madrid:20260825T155500
+DTEND;TZID=Europe/Madrid:20260825T172500
+UID:4f7110500e43fc0923708453b751b34fafc38c35b3a229002fcb4ac06f66fdc0
+CATEGORIES:cinema
+DESCRIPTION:Este capítulo cuenta la desvergonzada\, disparatada y verdade
+ ra historia de cómo los Minions conquistaron Hollywood\, se convirtieron 
+ en estrellas de cine\, lo perdieron todo\, soltaron monstruos en el mundo 
+ y acabaron uniéndose de nuevo en un intento de salvar el planeta del desa
+ stre que ellos mismos habían creado.\n\nRelease year: 2026\n\nOriginal la
+ nguage: EN\n\nAudio: VOSE\n\nhttps://yelmocines.es/sinopsis/minions-monste
+ rs
+LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:El coro de Praga
@@ -4263,25 +3211,6 @@ DESCRIPTION:Después de que el barco quede atrapado en una misteriosa torm
  riginal title: PAW Patrol: The Dino Movie\n\nRelease year: 2026\n\nOrigina
  l language: EN\n\nAudio: VOSE\n\nhttps://yelmocines.es/sinopsis/la-patrull
  a-canina-la-dino-pelicula
-LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Insidious: Fuera del más allá
-DTSTART;TZID=Europe/Madrid:20260825T165000
-DTEND;TZID=Europe/Madrid:20260825T183600
-UID:0bd53ab3453aca1f559f52ae1828e9460dd05d5f9c10e9d7671371c9831af3a0
-CATEGORIES:cinema
-DESCRIPTION:En Insidious: Fuera del Más Allá\, Amelia Eve interpreta a G
- emma\, una joven madre que cría a su hija en la casa en la que creció y 
- que descubre que puede viajar a “El Más Allá”\, el reino purgatorial
-  de las almas perdidas situado en el corazón del universo Insidious. Cuan
- do algo maligno va tras ella\, Gemma descubre una habilidad que lo cambia 
- todo: no solo puede viajar a "El Más Allá"\, sino que también es capaz 
- de traer de vuelta al mundo real lo que encuentra allí. Cuando los demoni
- os se dan cuenta de su poder\, nuestro mundo se convierte en su patio de r
- ecreo.\n\nOriginal title: Insidious: Out of the Further\n\nRelease year: 2
- 026\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://yelmocines.es/sinop
- sis/insidious-fuera-del-mas-alla
 LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -4417,8 +3346,7 @@ CATEGORIES:cinema
 DESCRIPTION:Cole Reed (Jason Statham) es incriminado injustamente por el a
  sesinato de su jefe multimillonario. Tras embarcarse en un buque de carga 
  para vengar su muerte\, destapará una peligrosa conspiración internacion
- al.\n\nOriginal title: Mutiny\n\nRelease year: 2026\n\nOriginal language: 
- EN\n\nAudio: VOSE\n\nhttps://yelmocines.es/sinopsis/el-motin
+ al.\n\nAudio: VOSE\n\nhttps://yelmocines.es/sinopsis/el-motin
 LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -4511,25 +3439,6 @@ DESCRIPTION:Tras el gran éxito global de Spider-Man: No Way Home\, Spider
  de las amenazas más poderosas a las que se ha enfrentado.\n\nRelease year
  : 2026\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://yelmocines.es/si
  nopsis/spider-man-brand-new-day
-LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Insidious: Fuera del más allá
-DTSTART;TZID=Europe/Madrid:20260825T191000
-DTEND;TZID=Europe/Madrid:20260825T205600
-UID:15a98d49d8da289fc33f6c527c0be389a4ca2975c853406a61c46b941324576b
-CATEGORIES:cinema
-DESCRIPTION:En Insidious: Fuera del Más Allá\, Amelia Eve interpreta a G
- emma\, una joven madre que cría a su hija en la casa en la que creció y 
- que descubre que puede viajar a “El Más Allá”\, el reino purgatorial
-  de las almas perdidas situado en el corazón del universo Insidious. Cuan
- do algo maligno va tras ella\, Gemma descubre una habilidad que lo cambia 
- todo: no solo puede viajar a "El Más Allá"\, sino que también es capaz 
- de traer de vuelta al mundo real lo que encuentra allí. Cuando los demoni
- os se dan cuenta de su poder\, nuestro mundo se convierte en su patio de r
- ecreo.\n\nOriginal title: Insidious: Out of the Further\n\nRelease year: 2
- 026\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://yelmocines.es/sinop
- sis/insidious-fuera-del-mas-alla
 LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -4835,8 +3744,7 @@ CATEGORIES:cinema
 DESCRIPTION:Cole Reed (Jason Statham) es incriminado injustamente por el a
  sesinato de su jefe multimillonario. Tras embarcarse en un buque de carga 
  para vengar su muerte\, destapará una peligrosa conspiración internacion
- al.\n\nOriginal title: Mutiny\n\nRelease year: 2026\n\nOriginal language: 
- EN\n\nAudio: VOSE\n\nhttps://yelmocines.es/sinopsis/el-motin
+ al.\n\nAudio: VOSE\n\nhttps://yelmocines.es/sinopsis/el-motin
 LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -6752,6 +5660,135 @@ SUMMARY:Cronos
 DTSTART;TZID=Europe/Madrid:20260905T222000
 DTEND;TZID=Europe/Madrid:20260906T001800
 UID:4271f9574e64a9b2b152d764be0766d0dc6a40234be71c71ae509db30363cdb0
+CATEGORIES:cinema
+DESCRIPTION:Basada en testimonios reales de los diferentes implicados\, la
+  película narra el desarrollo de la operación Cronos\, el dispositivo ac
+ tivado el 17 de agosto de 2017 como reacción al acto terrorista de las Ra
+ mblas. Cuatro días interminables de confusión\, tensión\, dolor\, frust
+ ración\, rabia y confrontación política que acabaron con el abatimiento
+  del último terrorista huido y muchas heridas dejadas abiertas.\n\nReleas
+ e year: 1993\n\nOriginal language: ES\n\nAudio: VOSE\n\nhttps://yelmocines
+ .es/sinopsis/cronos
+LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mercado Productores Planetario
+DTSTART;TZID=Europe/Madrid:20260906T100000
+DTEND;TZID=Europe/Madrid:20260906T160000
+UID:0a7264ba1d969da09db51a7689b345619f4cdd86f861fc2ebc7a5e1d41c46f64
+CATEGORIES:market
+DESCRIPTION:Mercado de productores locales y artesanos en Planetario con a
+ limentacion sostenible\, productos de cercania y actividades al aire libre
+ .\n\nhttps://mercadoproductores.es/mp-planetario/
+LOCATION:Mercado Productores Planetario - Avenida del Planetario esquina C
+ alle Meneses\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Berdea
+DTSTART;TZID=Europe/Madrid:20260906T120000
+DTEND;TZID=Europe/Madrid:20260906T130700
+UID:2b6d15820fea5b73a751afd157a262f9bb6f0655817943c29578cfedf9c18a05
+CATEGORIES:cinema
+DESCRIPTION:La arquitecta Oihane Ruiz y la paisajista Ane Barrutia recorre
+ n el ciclo de la madera en Euskadi\, desde el bosque hasta la industria\, 
+ preguntándose: ¿quién define hoy el bosque del mañana? Berdea ofrece u
+ n retrato coral del presente forestal vasco\, marcado por el declive del p
+ ino radiata\, el avance del eucalipto y el agotamiento del territorio. Fre
+ nte a un modelo en crisis\, protagonistas del sector reflexionan sobre el 
+ arraigo\, la memoria y la necesidad de imaginar otras formas de habitar.\n
+ \nAudio: VOSE\n\nhttps://cinesembajadores.es/pelicula/berdea-vose/?ciudad=
+ madrid
+LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cronos
+DTSTART;TZID=Europe/Madrid:20260906T172000
+DTEND;TZID=Europe/Madrid:20260906T191800
+UID:1814f8d5ed996122febde37cecc2c154d40abf0f1fda130f7a9db58bacc2ceac
+CATEGORIES:cinema
+DESCRIPTION:Basada en testimonios reales de los diferentes implicados\, la
+  película narra el desarrollo de la operación Cronos\, el dispositivo ac
+ tivado el 17 de agosto de 2017 como reacción al acto terrorista de las Ra
+ mblas. Cuatro días interminables de confusión\, tensión\, dolor\, frust
+ ración\, rabia y confrontación política que acabaron con el abatimiento
+  del último terrorista huido y muchas heridas dejadas abiertas.\n\nReleas
+ e year: 1993\n\nOriginal language: ES\n\nAudio: VOSE\n\nhttps://yelmocines
+ .es/sinopsis/cronos
+LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Ferryman
+DTSTART;TZID=Europe/Madrid:20260906T183000
+UID:3be8befe8faff0d842c7fb1330488b29b22e465343660732a1ae9f936dae6670
+CATEGORIES:cinema
+DESCRIPTION:Una exploración cinematográfica y coreográfica de las raíc
+ es de los rituales animistas\, la danza y la escultura\, así como de su v
+ igencia en la actualidad. A través del viaje de un personaje mitad ciervo
+ \, mitad cazador (al que da vida el propio Damien Jalet)\, la película pr
+ opone una ascensión metafórica\, poética y visceral en seis etapas a un
+ a montaña concebida como lugar de nacimiento y muerte. Rodada en paisajes
+  volcánicos de Bali\, Japón y Escocia\, así como en el Museo del Louvre
+ \, la obra retrata la compleja y ancestral relación entre el ser humano y
+  la naturaleza\, entendida a menudo como un umbral entre los mundos visibl
+ e e invisible\, mostrando impactantes ceremonias —como rituales de crema
+ ción en trance y sacrificio en Bali o cultos a la montaña en Japón—\,
+  fragmentos de danza contemporánea y textos narrados por la artista Marin
+ a Abramović\, con música del compositor Ryūichi Sakamoto.\n\nRelease ye
+ ar: 2023\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://www.cinetecama
+ drid.com/programacion/ferryman
+LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cronos
+DTSTART;TZID=Europe/Madrid:20260906T195000
+DTEND;TZID=Europe/Madrid:20260906T214800
+UID:596a7ec20ce131e2ee54beaf9cbc795f5ed2a64eb297f9b9c3682bf1a2d1e975
+CATEGORIES:cinema
+DESCRIPTION:Basada en testimonios reales de los diferentes implicados\, la
+  película narra el desarrollo de la operación Cronos\, el dispositivo ac
+ tivado el 17 de agosto de 2017 como reacción al acto terrorista de las Ra
+ mblas. Cuatro días interminables de confusión\, tensión\, dolor\, frust
+ ración\, rabia y confrontación política que acabaron con el abatimiento
+  del último terrorista huido y muchas heridas dejadas abiertas.\n\nReleas
+ e year: 1993\n\nOriginal language: ES\n\nAudio: VOSE\n\nhttps://yelmocines
+ .es/sinopsis/cronos
+LOCATION:Yelmo Cines Ideal - Calle del Doctor Cortezo\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anoche conquisté Tebas
+DTSTART;TZID=Europe/Madrid:20260906T200000
+UID:492ce7d8b6d4b5b83c516734cc6686c5250a7f39fc047f852cb67a353c5a587c
+CATEGORIES:cinema
+DESCRIPTION:En una tarde de invierno muy fría\, António y Jota regresan 
+ del frente junto a sus amigos en busca de unas antiguas termas romanas. Br
+ omean entre ellos y vadean pantanos mientras rememoran su última batalla.
+  Las termas han aparecido tras pasar mucho tiempo bajo el agua de un embal
+ se y gente de todas las edades acude a pasar el día. Pero hay algo mister
+ ioso en estas termas\, como si el agua influyera en el estado de ánimo de
+  los chicos\, dándoles el valor de decir cosas que nunca han contado a na
+ die. A medida que el día se convierte en noche\, confiesan sus sentimient
+ os y sus temores de perder para siempre a su mejor amigo.\n\nRelease year:
+  2026\n\nOriginal language: PT\n\nhttps://www.cinetecamadrid.com/programac
+ ion/anoche-conquiste-tebas-0
+LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Emilia Pérez
+DTSTART;TZID=Europe/Madrid:20260906T200000
+UID:755229e17738b451d14cf532b5843be5da62415569ca3f61dfca659b684145d4
+CATEGORIES:cinema
+DESCRIPTION:México\, hoy. La abogada Rita recibe una oferta inesperada. T
+ iene que ayudar a un temido líder de un cártel a retirarse de sus negoci
+ os y desaparecer para siempre\, convirtiéndose en la mujer que siempre ha
+  soñado ser.\n\nRelease year: 2024\n\nOriginal language: FR\n\nhttps://ww
+ w.cinetecamadrid.com/programacion/emilia-perez
+LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cronos
+DTSTART;TZID=Europe/Madrid:20260906T222000
+DTEND;TZID=Europe/Madrid:20260907T001800
+UID:4081e987a1e52b3c14a8608ad82fef87e0ddf9cd01b760100dbd27d7d48b0a0a
 CATEGORIES:cinema
 DESCRIPTION:Basada en testimonios reales de los diferentes implicados\, la
   película narra el desarrollo de la operación Cronos\, el dispositivo ac
