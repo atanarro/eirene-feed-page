@@ -1,4 +1,27 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
+BEGIN:VEVENT
+SUMMARY:Juan Díaz de Solís
+DTSTART;TZID=Europe/Madrid:20260907T183000
+DTEND;TZID=Europe/Madrid:20260907T183000
+UID:3f7a92c930f008e30ca5f246adb82c8c233130b818f765e60efb2343a5837d84
+CATEGORIES:talk
+DESCRIPTION:Agrupación de Geografía\, Exploración y Viajes Álvar Núñ
+ ez Cabeza de Vaca. \nPonente: M.ª Asunción Sordo. \nPresenta: Pío Caban
+ illas. \nSala Pérez Galdós\, 18:30 h.\n\nhttps://ateneodemadrid.com/even
+ to/juan-diaz-de-solis-2/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Presentación Informe Tierras Raras
+DTSTART;TZID=Europe/Madrid:20260907T183000
+DTEND;TZID=Europe/Madrid:20260907T183000
+UID:8379e66735affc9e9e4066b24ff9de15cfce6c1f7020ab3329fa51ce24f28378
+CATEGORIES:talk
+DESCRIPTION:Sección de Derechos Civiles y Agrupación Europeísta Cuidar 
+ el Futuro. Intervienen Concha Gutiérrez. Sala Ramón y Cajal. 18:30h.\n\n
+ https://ateneodemadrid.com/evento/62825/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
 END:VCALENDAR
