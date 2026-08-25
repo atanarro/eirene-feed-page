@@ -2,17 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:GASTÓN JOYA TRIO FEAT. IDANIA VALDÉS
-DTSTART;TZID=Europe/Madrid:20260824T200000
-DTEND;TZID=Europe/Madrid:20260825T200000
-UID:4fd8a96ce4ad9af8b6453ea13117262ca34b0d022c60ddb919c4f15ffeeac0a7
-CATEGORIES:music
-DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
-  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
- s://ateneodemadrid.com/evento/gaston-joya-trio-feat-idania-valdes/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:IÑAKI ARAKISTAIN QUARTET
 DTSTART;TZID=Europe/Madrid:20260826T200000
 DTEND;TZID=Europe/Madrid:20260827T200000
@@ -130,6 +119,27 @@ DESCRIPTION:Concierto inaugural. Programa. \n \nCon Maurizio Arroyo y Karl
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:BOBBY MARTÍNEZ QUARTET
+DTSTART;TZID=Europe/Madrid:20260902T200000
+DTEND;TZID=Europe/Madrid:20260903T220000
+UID:2eeb518882cd69c6038522159f6ea5a0f39291ef51e31cf5a8bdd8107b795656
+CATEGORIES:music
+DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
+  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h. \n \nBo
+ bby Martínez – saxo\nGermán Kucich – piano\nDarío Guibert – contr
+ abajo\nCésar de Frías – batería \nUno de los grandes nombres del saxo
+ fón en la escena jazzística madrileña. Bobby Martínez\, nacido en Fila
+ delfia y de raíces cubanas\, posee una trayectoria internacional que le h
+ a llevado a compartir escenario con artistas como Paquito D’Rivera\, Pat
+  Metheny\, Paco de Lucía o Gloria Estefan.\nCon una sólida formación am
+ ericana y una profunda conexión con la tradición cubana\, su sonido comb
+ ina jazz\, bebop y latin jazz con una personalidad propia. Un músico impr
+ escindible de la historia reciente del jazz en Madrid. \nSanta Catalina\, 
+ 10. Pases: 20:00h. y 22:00h.\n\nhttps://ateneodemadrid.com/evento/bobby-ma
+ rtinez-quartet-cafe-central-ateneo/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Damian Cordoba
 DTSTART;TZID=Europe/Madrid:20260902T210000
 UID:faa552e6c03d0758e012e73f73bc168e53967ed32ca70b68bca00c3b8bd539f0
@@ -137,6 +147,26 @@ CATEGORIES:music
 DESCRIPTION:Concierto / Latin / Pop\n\nhttps://salavillanos.es/evento/dami
  an-cordoba/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JOHN O'GALLAGHER / MASA KAMAGUCHI / ROB GARCIA
+DTSTART;TZID=Europe/Madrid:20260904T200000
+DTEND;TZID=Europe/Madrid:20260905T220000
+UID:f3dc8cc97fc3e250151d65a8d3a4414c218018c93ea3b0b04504add97fec98ea
+CATEGORIES:music
+DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
+  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h. \n \nJo
+ hn O’Gallagher – saxo\nMasa Kamaguchi – contrabajo\nRob Garcia – b
+ atería \nEl saxofonista John O’Gallagher\, el bajista Masa Kamaguchi y 
+ el baterista Rob Garcia han colaborado en la escena del jazz creativo de N
+ ueva York desde la década de 1990. En los últimos años\, consolidaron s
+ u vínculo de larga data formando un trío estable y cosechando un gran é
+ xito en sus giras por España y Portugal en 2022\, 2024 y 2025. Cada uno e
+ s un maestro de su instrumento con una voz propia y singular\; juntos\, fo
+ rjan una profunda química musical que da lugar a un sonido distintivo y d
+ e gran resonancia.\n\nhttps://ateneodemadrid.com/evento/john-ogallagher-ma
+ sa-kamaguchi-rob-garcia-cafe-central-ateneo/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Los Justicieros
@@ -189,5 +219,39 @@ DESCRIPTION:Precio de las entradas: 8€/12€ Entradas a la venta en movi
  a banda madrileña de punk-rock formada en 2018\n\nhttps://gruta77.com/eve
  nts/eruktogatos-cerraos/var/ri-0.l-L2
 LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ECOS DE LA SABANA. Danzando con el djembe\, el sabar y acrobático
+DTSTART;TZID=Europe/Madrid:20260906T203000
+UID:3f50c1c3d8bd5d04bd06e00baaefe4dcf121999b438792a2fdd90c3240445818
+CATEGORIES:music
+DESCRIPTION:Concierto / Afro\n\nhttps://salavillanos.es/evento/ecos-de-la-
+ sabana-danzando-con-el-djembe-el-sabar-y-acrobatico/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:7XMEDIO NEW FLAMENCO JAZZ
+DTSTART;TZID=Europe/Madrid:20260907T200000
+DTEND;TZID=Europe/Madrid:20260908T220000
+UID:d05ff6883c34528e246cd93bea2d3baf6386d3e8918d605c1c6b4eef5fac0ac8
+CATEGORIES:music
+DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
+  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h. \n \nJo
+ sé Luis Hernández – cante\nEnrique Rodríguez «Enriquito» – trompe
+ ta\nJosé María «Petaca» – piano\nJuanfe Pérez – bajo\nKike Terró
+ n – percusión \n“Siete x Medio” es una banda de cinco músicos reco
+ nocidos dentro de la escena del flamenco\, todos ellos tienen ya un amplio
+  recorrido en su carrera y han compartido escenario con muchos de los arti
+ stas más importantes dentro de este genero como Jorge Pardo\, Josemi Carm
+ ona o Javier Colina por citar algunos.\nEs un proyecto que nace desde las 
+ bases del flamenco\, pero que tiene la necesidad de viajar hacia otros mun
+ dos como el de el jazz o la música afro americana.\nEl amplio universo mu
+ sical de cada uno de sus componentes forma una rica amalgama de ritmos\, c
+ olores y texturas que tienen como resultado una propuesta fresca y enérgi
+ ca donde la improvisación se convierte en motor creativo y cada interpret
+ ación adquiere un carácter único. \nSanta Catalina\, 10. Pases: 20:00h.
+  y 22:00h.\n\nhttps://ateneodemadrid.com/evento/7xmedio-new-flamenco-jazz-
+ cafe-central-ateneo/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 END:VCALENDAR
