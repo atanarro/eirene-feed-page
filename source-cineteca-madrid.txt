@@ -1,5 +1,5 @@
 Eirene feed debug
-Total events: 17
+Total events: 21
 
 [1] Historia natural de Plinio
   id: cb3aeab4e6609be63adc752aa9f109b89ac06f979118c6e379afedbe9cd8a9f8
@@ -10,7 +10,7 @@ Total events: 17
   location: Cineteca Madrid - Plaza de Legazpi, 8, Madrid
   coordinates: 40.392398, -3.697762
   url: https://www.cinetecamadrid.com/programacion/historia-natural-de-plinio
-  description: El proyecto Historia Natural de Plinio (Pablo Eguía) es una pieza de cine expandido en super 8. Un concierto en directo donde el proyector analógico es un instrumento más. El programa se compone de seis películas filmadas entre 2024 y 2025 en Nueva York: El Reino del Joven Felices , una canción temática para un dibujo animado ficticio; Paisajes pequeñitos , dibujados en los márgenes de un cuaderno durante una clase; Peluquería Dalila , donde los amantes se convierten en estatua al final de un largo verano; Cantar del jeque , un cuento húngaro nocturno y acuático; Última siesta , que parpadea como Peter Hutton; y Algunos detesto , una miniatura.
+  description: Historia Natural es una sesión de cine expandido en Super 8. Bajo el pretexto de presentar por primera vez en un cine su colección de películas musicales, el joven cineasta Plinio imparte una conferencia en la que desgrana los motivos, intereses y accidentes peregrinos que le han llevado a realizarlas.
 
 [2] Anoche conquisté Tebas
   id: 45339ca94b68066dda9f50402099f61eb6a88be3f7444ed4a7297157c2382c30
@@ -194,3 +194,48 @@ Total events: 17
   coordinates: 40.392398, -3.697762
   url: https://www.cinetecamadrid.com/programacion/voces-del-cine-europeo-contemporaneo-gala-hernandez-lopez-y-elena-lopez-riera
   description: 10K (Gala Hernández López, España–Francia, 2025, 32') Pol tiene 21 años y vive con su abuela. Sueña con vivir en Miami y ganar 10k€ al mes. Asiste a eventos de desarrollo personal, sigue a coaches en línea e invierte en criptomonedas. Pol no sabe cuándo alcanzará su objetivo de convertirse en la mejor versión de sí mismo. Lo único que sabe es que, algún día, lo conseguirá.
+
+[18] El silencio de otros
+  id: 06a535f2c109778b9cf06a8e107416d5cfb0852a37d8f0f63c1b8d7f2b53f25d
+  start: 2026-09-11T18:00:00+02:00
+  end: N/A
+  category: cinema
+  source: cineteca_madrid
+  location: Cineteca Madrid - Plaza de Legazpi, 8, Madrid
+  coordinates: 40.392398, -3.697762
+  url: https://www.cinetecamadrid.com/programacion/el-silencio-de-otros-2
+  description: El silencio de otros revela la lucha silenciada de las víctimas del régimen de Francisco Franco, que continúan buscando justicia hasta nuestros días. Grabada a lo largo de seis años, con un estilo de cine directo e intimista, la película acompaña a las víctimas y los supervivientes del régimen a medida que organizan la denominada “Querella Argentina” y confrontan un “pacto del olvido” sobre los crímenes que padecieron.
+
+[19] Damien Jalet. Sesión de videoclips
+  id: 426fa82c36603257be2de3a3cdcc922193e46e8e4c5ce251fdd6eae7b1cb2661
+  start: 2026-09-11T19:00:00+02:00
+  end: N/A
+  category: cinema
+  source: cineteca_madrid
+  location: Cineteca Madrid - Plaza de Legazpi, 8, Madrid
+  coordinates: 40.392398, -3.697762
+  url: https://www.cinetecamadrid.com/programacion/damien-jalet-sesion-de-videoclips
+  description: Thom Yorke: Anima (Paul Thomas Anderson, 2020, 15') Elton John, Brandi Carlile: Swing for the Fences (Xavier Dolan, 2025, 4') Koki Nakano: Train Train (Benjamin Seroussi, 2020, 3') Koki Nakano: Oceanic Feeling (Benjamin Seroussi, 2023, 5') Madonna: Confessions II (Torso, 2026, 14') Gener8ion feat. Yung Lean: Storm (Romain Gavras, 2026, 8') Ólöf Arnalds feat. Björk: Surrender (Arni & Kinski, 2010, 5')
+
+[20] Sesión de cortometrajes 3 - DbWS 2026
+  id: f9103d8726bc0246a10cf19fcc2b4fac81aa9445c1b003980b7f238641d932ba
+  start: 2026-09-11T20:00:00+02:00
+  end: N/A
+  category: cinema
+  source: cineteca_madrid
+  movie_language: vose
+  location: Cineteca Madrid - Plaza de Legazpi, 8, Madrid
+  coordinates: 40.392398, -3.697762
+  url: https://www.cinetecamadrid.com/programacion/sesion-de-cortometrajes-3-dbws-2026
+  description: El color gris (Marina Velázquez Benítez, 20') Después de mucho tiempo sin verse, Sara tiene que volar de urgencia desde Londres a Madrid: su padre ha sido ingresado por un intento de suicidio.
+
+[21] La casa y el ternero
+  id: 4773a184ec3cffec28b6923bce6c59f488a48dea9c4c9134acc011169e821cc9
+  start: 2026-09-11T20:30:00+02:00
+  end: N/A
+  category: cinema
+  source: cineteca_madrid
+  location: Cineteca Madrid - Plaza de Legazpi, 8, Madrid
+  coordinates: 40.392398, -3.697762
+  url: https://www.cinetecamadrid.com/programacion/la-casa-y-el-ternero
+  description: Una cineasta filma un diario entre los meses de diciembre de 2023 y julio de 2024, registrando aquello que la rodea, dentro y fuera de lo doméstico y cotidiano. Los destellos, eventos y banalidades del día a día resultan inseparables de las realidades simultáneas y colectivas que van aconteciendo: las consecuencias del turismo, la especulación inmobiliaria, el genocidio en Gaza o la crisis climática. A través de la cámara se cuestionan las maneras que hay de habitar el mundo y de relacionarnos con el resto de los seres vivos.
