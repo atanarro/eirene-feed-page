@@ -2,40 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Hermanos Gutiérrez
-DTSTART;TZID=Europe/Madrid:20260829T203000
-UID:25e7f32733f84c8a2fcce52cb80aa57463b91b3ac138f7094b5ca9bceab13cc7
-CATEGORIES:music
-DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://www.ticketmaster.es/even
- t/hermanos-gutierrez-entradas/2057149757
-LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
- id
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Baye Mass
-DTSTART;TZID=Europe/Madrid:20260829T210000
-UID:b4921b04ca475f9f1ee29f7e440d3de98ae68a224d1825a0a8d8d2e124427e19
-CATEGORIES:music
-DESCRIPTION:Concierto / Afro\n\nhttps://salavillanos.es/evento/baye-mass/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Metal Four: Tribute of Destruction (tributo Megadeth) + 666 (tribu
- to Iron Maiden) + Sentinels (tributo a Judas Priest) + Thunderstruck (trib
- uto Ac/Dc)
-DTSTART;TZID=Europe/Madrid:20260829T213000
-UID:f88c937a18c7ef623859691a9cf48c8636ca5cba895b51bdb118defa7f5ddb83
-CATEGORIES:music
-DESCRIPTION:Precio de las entradas: 15€/18€ Entradas a la venta en ent
- radium Bio/enlaces bandas: 666_facebook + 666_instagram The Sentinels_inst
- agram Thunderstruck_instagram Más información: Festival metalero\, donde
-  se tributa a grandes bandas\,\n\nhttps://gruta77.com/events/metal-four-tr
- ibute-of-destruction-tributo-megadeth-666-tributo-iron-maiden-thunderstruc
- k-tributo-ac-dc-sentinels-tributo-a-judas-priest-tribute-of-destruction-tr
- ibuto-a-megadeth/var/ri-0.l-L2
-LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:JEFF ESPINOZA & RAMÓN ARROYO THE ROADRUNNERS
 DTSTART;TZID=Europe/Madrid:20260830T200000
 DTEND;TZID=Europe/Madrid:20260830T200000
@@ -386,5 +352,43 @@ DESCRIPTION:Precio de las entradas: 12€/15€ € Entradas a la venta en
  andazas madrileñas\n\nhttps://gruta77.com/events/el-gobierno-jabato-jibar
  os-playa-garufa-kizmiaz-rock-n-roll-party/var/ri-0.l-L2
 LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:3º Festival de Música Brasileira Autoral – FEMBA
+DTSTART;TZID=Europe/Madrid:20260913T190000
+UID:d8c8a6f6291102ad6debc5480a9da4dea1542fcbd3d409b9857f1797165ca050
+CATEGORIES:music
+DESCRIPTION:Concierto / Latin / Pop / World Music & Folk\n\nhttps://salavi
+ llanos.es/evento/3o-festival-de-musica-brasileira-autoral-femba/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CARMEN VELA QUARTET
+DTSTART;TZID=Europe/Madrid:20260913T200000
+DTEND;TZID=Europe/Madrid:20260913T220000
+UID:66be13301bad16fd343550f6e2504c5715957f60352325fe8295afac7044ad75
+CATEGORIES:music
+DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
+  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h. \n \nCa
+ rmen Vela – flauta\, clarinete\, composición\nJorge Castañeda – pian
+ o\nAnder García – contrabajo\nGonzalo Maestre – batería \nLa música
+  de Carmen Vela fusiona la pasión por el jazz y la fuerza interpretativa 
+ de la flauta y el clarinete. \nLas composiciones de Carmen se nutren de la
+  tradición a la vez que aportan innovación y diálogo con distintos esti
+ los. Toda su música se puede escuchar en sus dos discos\, «Camina» y «
+ En continuo». \nSanta Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttps://
+ ateneodemadrid.com/evento/carmen-vela-quartet-cafe-central-ateneo/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zhamira (Sold Out)
+DTSTART;TZID=Europe/Madrid:20260913T203000
+UID:b6f3399182d24716c8215b3df89b50006009a4447adc291bf5cde1314cf4a60c
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:00 pm\n\nhttps://www.passline.com/eventos
+ /zhamira-madrid?srsltid=AfmBOoqq7-DewH4GqKFq-RHtNq276t-hS8xiKByL3gqR4oot7S
+ yQpFoa
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
 END:VEVENT
 END:VCALENDAR
