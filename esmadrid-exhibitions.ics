@@ -74,20 +74,6 @@ LOCATION:Estación de Madrid - Chamartín - Clara Campoamor - Agustín de
  Foxa\, s/n\, Madrid\, 28036
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:75 años de la Colección Marañón: el origen del Fondo Antiguo d
- e la Biblioteca COAM
-DTSTART;TZID=Europe/Madrid:20251218T000000
-DTEND;TZID=Europe/Madrid:20260831T000000
-UID:5cf4e0b75b255d2fbd9f6653a664775d331b70a2607ac694fd6413d10a0936da
-CATEGORIES:exhibition
-DESCRIPTION:Exposición que rinde homenaje a la biblioteca del Colegio Ofi
- cial de Arquitectos de Madrid y a la adquisición de un conjunto bibliogr
- áfico de gran valor que dio origen a sus fondos antiguos (COAM.\n\nhttps:
- //www.coam.org/actualidad-agenda-coam-75-anos-de-la-coleccion-maranon-el-o
- rigen-del-fondo-antiguo-de-la-biblioteca-coam/
-LOCATION:COAM - de Hortaleza\, 63\, Madrid\, 28004
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Viajar en el tiempo: 85 años de publicidad de Renfe
 DTSTART;TZID=Europe/Madrid:20251219T000000
 DTEND;TZID=Europe/Madrid:20260930T000000
@@ -814,18 +800,6 @@ LOCATION:Galería de las Colecciones Reales - de Bailén\, 8\, Madrid\, 28
  013
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Descubre el universo TRIGGER
-DTSTART;TZID=Europe/Madrid:20260605T000000
-DTEND;TZID=Europe/Madrid:20260831T000000
-UID:7f924e5be5d1d022509b1854f6481ec6641c754e5ff7c42f30aa7d35b929a978
-CATEGORIES:exhibition
-DESCRIPTION:Exposición autoguiada que invita a los visitantes a conocer c
- ómo nos afecta el cambio climático y cómo hacerle frente (Real Jardín 
- Botánico. Hasta 31 agosto).\n\nhttps://rjb.csic.es/evento/exposicion-auto
- guiada-descubre-el-universo-trigger/
-LOCATION:Real Jardín Botánico - de Murillo\, 2\, Madrid\, 28014
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Materia viva. Un recorrido por la botánica\, el arte y la memoria
   andalusí
 DTSTART;TZID=Europe/Madrid:20260605T000000
@@ -1256,6 +1230,20 @@ DESCRIPTION:Una original mirada a las colecciones y al trabajo interno del
 LOCATION:Museo del Traje - de Juan de Herrera\, 2\, Madrid\, 28040
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Arte y misericordia. El Barroco de la Santa Caridad de Sevilla en 
+ Madrid
+DTSTART;TZID=Europe/Madrid:20260629T000000
+DTEND;TZID=Europe/Madrid:20261122T000000
+UID:6799768af726a376b6d354307df49b2f0ac5d3ff9504f1db6dcb9f35783577a0
+CATEGORIES:exhibition
+DESCRIPTION:Exposición que reúne un conjunto de obras de Murillo\, Juan 
+ de Valdés Leal o Pedro Roldán para el Hospital de la Santa Caridad y la 
+ iglesia del Señor San Jorge de Sevilla (Conde Duque - Sala Sur.\n\nhttps:
+ //www.afundacion.org/es/agenda/evento/exposicion-arte-y-misericordia-la-sa
+ nta-hermandad-de-sevilla/
+LOCATION:Conde Duque - del Conde Duque\, 11\, Madrid\, 28015
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:El encanto de la ilusión. Un puente entre realidad y percepción
 DTSTART;TZID=Europe/Madrid:20260701T000000
 DTEND;TZID=Europe/Madrid:20261011T000000
@@ -1423,6 +1411,19 @@ DESCRIPTION:Relevantes fondos bibliográficos y museográficos que permite
 LOCATION:Museo Arqueológico Nacional - de Serrano\, 13\, Madrid\, 28001
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Arte plumario: naturaleza\, identidad y poder
+DTSTART;TZID=Europe/Madrid:20260716T000000
+DTEND;TZID=Europe/Madrid:20270117T000000
+UID:5aa0e5c6bf5416a6ac534ba5ba701f6d1786a202cd267a6233189af86254aee0
+CATEGORIES:exhibition
+DESCRIPTION:Exposición sobre la evolución del uso de las plumas en diver
+ sas culturas (Museo Nacional de Ciencias Naturales. Hasta 17 ene).\n\nhttp
+ s://www.mncn.csic.es/es/visita-el-mncn/exposiciones/arte-plumario-naturale
+ za-identidad-y-poder
+LOCATION:Museo Nacional de Ciencias Naturales - de José Gutierrez Abascal
+ \, 2\, Madrid\, 28006
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pedro Moreno. Pro domo sua. Arte teatral y cinematográfico
 DTSTART;TZID=Europe/Madrid:20260723T000000
 DTEND;TZID=Europe/Madrid:20270110T000000
@@ -1449,9 +1450,20 @@ LOCATION:Museo Nacional de Antropología - de Alfonso XII\, 68\, Madrid\,
  28014
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:El mundo de Van Gogh
+DTSTART;TZID=Europe/Madrid:20260729T000000
+DTEND;TZID=Europe/Madrid:20261030T000000
+UID:7138d28c99ddaabf235c72a80537a112e7e69471320bce4151cfe7aacab0f3aa
+CATEGORIES:exhibition
+DESCRIPTION:Una experiencia sensorial única en la que disfrutar de las ob
+ ras del pintor a gran escala y en movimiento (Nomad Museo Inmersivo. Miér
+ coles\, viernes y domingos).\n\nhttps://www.nomadmuseo.es/van-gogh/
+LOCATION:Nomad Museo Inmersivo - Gran Vía\, 78\, Madrid\, 28013
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:El Greco\, Velázquez\, Goya: La Triada Inmortal
 DTSTART;TZID=Europe/Madrid:20260730T000000
-DTEND;TZID=Europe/Madrid:20260831T000000
+DTEND;TZID=Europe/Madrid:20261031T000000
 UID:a415492c16f59890bf3f5800936e51e3d395b9bea401a2884e0192bbfebf0b9c
 CATEGORIES:exhibition
 DESCRIPTION:Inmersión profunda en el alma de España a través de sus tre

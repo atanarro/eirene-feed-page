@@ -2,17 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:OGUN AFROBEAT
-DTSTART;TZID=Europe/Madrid:20260831T200000
-DTEND;TZID=Europe/Madrid:20260901T200000
-UID:cd4d862c352ef896d27f31363690c03825163efdab6c186bcd606d99035920ab
-CATEGORIES:music
-DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
-  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttp
- s://ateneodemadrid.com/evento/ogun-afrobeat/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:II Festival Internacional de Piano
 DTSTART;TZID=Europe/Madrid:20260901T190000
 DTEND;TZID=Europe/Madrid:20260901T190000
@@ -399,5 +388,14 @@ DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
  actuaciones.\n\nhttps://ateneodemadrid.com/evento/betta-the-groovers-2-caf
  e-central-ateneo/
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kumbia Queers
+DTSTART;TZID=Europe/Madrid:20260915T203000
+UID:8a0bff8d99dc631b616e687a460dfb723fa0bdccf538e9c835aa8aae5134fddd
+CATEGORIES:music
+DESCRIPTION:Concierto / Latin / Urban\n\nhttps://salavillanos.es/evento/ku
+ mbia-queers/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 END:VCALENDAR

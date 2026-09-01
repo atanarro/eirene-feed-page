@@ -74,20 +74,6 @@ LOCATION:Estación de Madrid - Chamartín - Clara Campoamor - Agustín de
  Foxa\, s/n\, Madrid\, 28036
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:75 años de la Colección Marañón: el origen del Fondo Antiguo d
- e la Biblioteca COAM
-DTSTART;TZID=Europe/Madrid:20251218T000000
-DTEND;TZID=Europe/Madrid:20260831T000000
-UID:5cf4e0b75b255d2fbd9f6653a664775d331b70a2607ac694fd6413d10a0936da
-CATEGORIES:exhibition
-DESCRIPTION:Exposición que rinde homenaje a la biblioteca del Colegio Ofi
- cial de Arquitectos de Madrid y a la adquisición de un conjunto bibliogr
- áfico de gran valor que dio origen a sus fondos antiguos (COAM.\n\nhttps:
- //www.coam.org/actualidad-agenda-coam-75-anos-de-la-coleccion-maranon-el-o
- rigen-del-fondo-antiguo-de-la-biblioteca-coam/
-LOCATION:COAM - de Hortaleza\, 63\, Madrid\, 28004
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Viajar en el tiempo: 85 años de publicidad de Renfe
 DTSTART;TZID=Europe/Madrid:20251219T000000
 DTEND;TZID=Europe/Madrid:20260930T000000
@@ -814,18 +800,6 @@ LOCATION:Galería de las Colecciones Reales - de Bailén\, 8\, Madrid\, 28
  013
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Descubre el universo TRIGGER
-DTSTART;TZID=Europe/Madrid:20260605T000000
-DTEND;TZID=Europe/Madrid:20260831T000000
-UID:7f924e5be5d1d022509b1854f6481ec6641c754e5ff7c42f30aa7d35b929a978
-CATEGORIES:exhibition
-DESCRIPTION:Exposición autoguiada que invita a los visitantes a conocer c
- ómo nos afecta el cambio climático y cómo hacerle frente (Real Jardín 
- Botánico. Hasta 31 agosto).\n\nhttps://rjb.csic.es/evento/exposicion-auto
- guiada-descubre-el-universo-trigger/
-LOCATION:Real Jardín Botánico - de Murillo\, 2\, Madrid\, 28014
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Materia viva. Un recorrido por la botánica\, el arte y la memoria
   andalusí
 DTSTART;TZID=Europe/Madrid:20260605T000000
@@ -1256,6 +1230,20 @@ DESCRIPTION:Una original mirada a las colecciones y al trabajo interno del
 LOCATION:Museo del Traje - de Juan de Herrera\, 2\, Madrid\, 28040
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Arte y misericordia. El Barroco de la Santa Caridad de Sevilla en 
+ Madrid
+DTSTART;TZID=Europe/Madrid:20260629T000000
+DTEND;TZID=Europe/Madrid:20261122T000000
+UID:6799768af726a376b6d354307df49b2f0ac5d3ff9504f1db6dcb9f35783577a0
+CATEGORIES:exhibition
+DESCRIPTION:Exposición que reúne un conjunto de obras de Murillo\, Juan 
+ de Valdés Leal o Pedro Roldán para el Hospital de la Santa Caridad y la 
+ iglesia del Señor San Jorge de Sevilla (Conde Duque - Sala Sur.\n\nhttps:
+ //www.afundacion.org/es/agenda/evento/exposicion-arte-y-misericordia-la-sa
+ nta-hermandad-de-sevilla/
+LOCATION:Conde Duque - del Conde Duque\, 11\, Madrid\, 28015
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:El encanto de la ilusión. Un puente entre realidad y percepción
 DTSTART;TZID=Europe/Madrid:20260701T000000
 DTEND;TZID=Europe/Madrid:20261011T000000
@@ -1423,6 +1411,19 @@ DESCRIPTION:Relevantes fondos bibliográficos y museográficos que permite
 LOCATION:Museo Arqueológico Nacional - de Serrano\, 13\, Madrid\, 28001
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Arte plumario: naturaleza\, identidad y poder
+DTSTART;TZID=Europe/Madrid:20260716T000000
+DTEND;TZID=Europe/Madrid:20270117T000000
+UID:5aa0e5c6bf5416a6ac534ba5ba701f6d1786a202cd267a6233189af86254aee0
+CATEGORIES:exhibition
+DESCRIPTION:Exposición sobre la evolución del uso de las plumas en diver
+ sas culturas (Museo Nacional de Ciencias Naturales. Hasta 17 ene).\n\nhttp
+ s://www.mncn.csic.es/es/visita-el-mncn/exposiciones/arte-plumario-naturale
+ za-identidad-y-poder
+LOCATION:Museo Nacional de Ciencias Naturales - de José Gutierrez Abascal
+ \, 2\, Madrid\, 28006
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pedro Moreno. Pro domo sua. Arte teatral y cinematográfico
 DTSTART;TZID=Europe/Madrid:20260723T000000
 DTEND;TZID=Europe/Madrid:20270110T000000
@@ -1449,9 +1450,20 @@ LOCATION:Museo Nacional de Antropología - de Alfonso XII\, 68\, Madrid\,
  28014
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:El mundo de Van Gogh
+DTSTART;TZID=Europe/Madrid:20260729T000000
+DTEND;TZID=Europe/Madrid:20261030T000000
+UID:7138d28c99ddaabf235c72a80537a112e7e69471320bce4151cfe7aacab0f3aa
+CATEGORIES:exhibition
+DESCRIPTION:Una experiencia sensorial única en la que disfrutar de las ob
+ ras del pintor a gran escala y en movimiento (Nomad Museo Inmersivo. Miér
+ coles\, viernes y domingos).\n\nhttps://www.nomadmuseo.es/van-gogh/
+LOCATION:Nomad Museo Inmersivo - Gran Vía\, 78\, Madrid\, 28013
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:El Greco\, Velázquez\, Goya: La Triada Inmortal
 DTSTART;TZID=Europe/Madrid:20260730T000000
-DTEND;TZID=Europe/Madrid:20260831T000000
+DTEND;TZID=Europe/Madrid:20261031T000000
 UID:a415492c16f59890bf3f5800936e51e3d395b9bea401a2884e0192bbfebf0b9c
 CATEGORIES:exhibition
 DESCRIPTION:Inmersión profunda en el alma de España a través de sus tre
@@ -1535,40 +1547,6 @@ DESCRIPTION:Exposición colectiva con 50 artistas que redefine la fotograf
 LOCATION:C Arte C - de Juan de Herrera\, 2\, Madrid\, 28040
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Complementarios
-DTSTART;TZID=Europe/Madrid:20260903T160000
-UID:80085c84e1d181e48943be4e2a7c1eb37ef2825d6b087e81b9b7b024f76df8f6
-CATEGORIES:exhibition
-DESCRIPTION:La Asociación Diseñadores de Madrid (DIMAD) presenta la cuar
- ta edición de Complementarios\, que se celebrará del 3 al 25 de septiem
- bre de 2026 en la Galería de la Central de Diseño en Matadero Madrid. Co
- misariada por Inés Sistiaga y con diseño expositivo a cargo de Studio Es
- tudio\, esta muestra reúne a 14 creadores y estudios procedentes de Espa
- ña\, Países Bajos\, Austria\, Reino Unido y Dinamarca. El proyecto sitú
- a su atención en el espacio intermedio entre la artesanía y la producci
- ón industrial\, poniendo en valor el proceso creativo\, las herramientas
- \, los ensayos materiales\, la reparación y las decisiones sostenibles qu
- e suelen quedar ocultas detrás del producto final. Frente a la sobreprodu
- cción industrial\, la exposición plantea una reflexión sobre cómo la t
- radición manual y la innovación técnica pueden complementarse para prom
- over un modelo de diseño responsable\, reivindicando la belleza de lo peq
- ueño y lo imperfecto. Los visitantes podrán contemplar desde piezas term
- inadas hasta prototipos y fragmentos del entorno de trabajo de los diseña
- dores\, lo que permite visibilizar sus diversas metodologías. Entre las p
- ropuestas destacan investigaciones sobre el patronaje de residuo cero\, la
-  cestería aplicada al diseño contemporáneo\, la sombrerería artesanal
- \, los biodiseños con tintes bacterianos\, los tejidos Jacquard tridimens
- ionales y el uso de fibras naturales certificadas o biomateriales efímera
- s. Además de la muestra\, la iniciativa abarca un programa paralelo de ac
- tividades formativas y divulgativas que incluye charlas\, talleres y maste
- rclasses con los participantes. La iniciativa es promovida por DIMAD con l
- a colaboración principal del Ministerio de Cultura de España y el apoyo 
- institucional de la Embajada de los Países Bajos\, el British Council y e
- l Foro Cultural de Austria.\n\nhttps://www.mataderomadrid.org/programacion
- /complementarios-1
-LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Frida Kahlo: Experiencia Live Art y Muestra Gastronómica
 DTSTART;TZID=Europe/Madrid:20260905T000000
 DTEND;TZID=Europe/Madrid:20261231T000000
@@ -1624,5 +1602,58 @@ DESCRIPTION:Primera exposición inmersiva que viaja hasta el interior del
  cuerpo humano en una espectacular base futurista (Espacio Delicias. 11 sep
  t a 7 ene).\n\nhttps://humanuniverse.com/
 LOCATION:Espacio Delicias - de las Delicias\, 61\, Madrid\, 28045
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cápsula Radio
+DTSTART;TZID=Europe/Madrid:20260915T100000
+DTEND;TZID=Europe/Madrid:20260915T210000
+UID:43790fcc912943d7556712fd0fa4d699a7b4dd53ce65441263cacbd605ad1ce3
+CATEGORIES:exhibition
+DESCRIPTION:Espacio: El Estudio\n\n«Cápsula Radio» es un proyecto de cr
+ eación que explora la radio como espacio de ficción\, intimidad y encuen
+ tro. A través de una colección de cápsulas escritas por distintos drama
+ turgos\, la propuesta reivindica la escucha como un acto creativo y compar
+ tido\, capaz de abrir un universo entero con el simple gesto de acercarse 
+ a una voz.\n\nInfinito Delicias presenta una de estas cápsulas: una exper
+ iencia escénica de cuatro minutos y medio para dos espectadores por pase.
+  En un dispositivo de escucha cercano e íntimo\, el público comparte una
+  emisión única en la que la palabra\, el sonido y la imaginación constr
+ uyen un pequeño mundo que solo existe durante ese breve instante.\n\nMás
+  que asistir a una representación\, los espectadores son invitados a entr
+ ar en una frecuencia. Durante unos minutos\, el tiempo parece detenerse y 
+ la radio recupera su capacidad de reunir a las personas alrededor de una h
+ istoria\, de convertir una voz desconocida en alguien cercano y de hacer e
+ xtraordinario lo cotidiano. Esa es la celebración que propone «Cápsula 
+ Radio»: la del placer de escuchar\, la emoción de imaginar y el vínculo
+  invisible que nace cuando una historia encuentra a quien está dispuesto 
+ a recibirla.\n\nLa propuesta tiene también presencia en diversos espacios
+ : Centro Dramático Nacional (Teatro Valle Inclán)\, Teatro Gayarre\, Tea
+ tre Principal de Palma\, Teatre Nacional de Catalunya\, Teatro del Barrio
+ \, Sala Beckett\, Teatro Cervantes Málaga\, Contemporánea Condeduque\, F
+ undación Municipal de Cultura\, Educación y Universidad Popular del Ayun
+ tamiento de Gijón/Xixón\, Centro Botín\, LAVA (Laboratorio de las Artes
+  de Valladolid) y Teatro Central de Sevilla.\n\nHorarios\n\nLunes a sábad
+ os: 10h a 21h\n\nDomingos: 10h a 16h\n\nSociété Mouffette es una compañ
+ ía de artes escénicas dedicada a la creación\, producción y distribuci
+ ón de espectáculos. Fundada en 2013 por Vera González\, nuestros proyec
+ tos siempre están en búsqueda de nuevos lenguajes dentro del espectro vi
+ sual y la plástica escénica\, de otras formas de comunicación entre el 
+ público y el hecho teatral\, de otras poéticas de la dramaturgia. Actual
+ mente en gira con: LA CALIDESA (coproducción con el FESTIVAL GREC y COMA1
+ 4)\, CUENTO DE NAVIDAD encapsulando a Dickens (Premio FETEN 2024\, Drac D'
+ or Mejor espectáculo para público familiar a los MAX 2025) y LA DISTANCI
+ A cápsulas de memoria.\n\nCOMA14 es un proyecto de creación escénica di
+ rigido por Tolo Ferrà\, activo desde 2018 y enfocado en la investigación
+  de nuevos lenguajes escénicos. Cada producción reúne a un amplio equip
+ o de artistas y técnicos de diversas disciplinas\, con una marcada atenci
+ ón al trabajo colectivo y al detalle. Entre sus creaciones destacan «194
+ 0 Manuscrito encontrado en el olvido» (basado en «Los girasoles ciegos»
+  de Alberto Méndez)\, candidata a los Premios MAX 2020\; «¿Dónde está
+  cuando ya no está?»\, coproducida con el Teatre Principal de Palma\; y 
+ «La Calidesa»\, en coproducción con el Festival GREC 2024.\n\nLA SALA e
+ s un programa de artes escénicas dirigido por Daniel Galindo para RNE.\n
+ \nhttps://www.infinitodelicias.com/es/agenda/capsula-radio-exposicion
+LOCATION:Infinito Delicias - C. de Juana Dona\, 5\, Arganzuela\, 28045 Mad
+ rid
 END:VEVENT
 END:VCALENDAR

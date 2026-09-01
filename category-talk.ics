@@ -327,23 +327,12 @@ BEGIN:VEVENT
 SUMMARY:"Fantasma"
 DTSTART;TZID=Europe/Madrid:20260914T190000
 DTEND;TZID=Europe/Madrid:20260914T190000
-UID:e513a7c41f775dab153c6d2e80c02638a26929448f82575e8024114120f0cf0f
-CATEGORIES:talk
-DESCRIPTION:Sección de ciencias sociales. Intervienen: Nerea Pérez de la
- s Heras autora Alana S. Portero Guillermo Alonso Irene Escolar. Cátedra M
- ayor. 18:30h.\n\nhttps://ateneodemadrid.com/evento/fantasma/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:"Fantasma"
-DTSTART;TZID=Europe/Madrid:20260914T190000
-DTEND;TZID=Europe/Madrid:20260914T190000
 UID:5a438dd96ceb7532bb5ab7cec31e6c27e5ee99a8d279a3a4445978a3ed70ea85
 CATEGORIES:talk
 DESCRIPTION:Presentación del libro. \n \nSección de Ciencias Sociales. I
- ntervienen:  Nerea Pérez de las Heras – autora\, Alana S. Portero\, Gu
- illermo Alonso\, Irene Escolar. Cátedra Mayor. 19:00h.\n\nhttps://ateneod
- emadrid.com/evento/fantasma-2/
+ ntervienen: Nerea Pérez de las Heras – autora\, Alana S. Portero\, Guil
+ lermo Alonso\, Irene Escolar. Cátedra Mayor. 19:00h.\n\nhttps://ateneodem
+ adrid.com/evento/fantasma-2/
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -355,6 +344,18 @@ CATEGORIES:talk
 DESCRIPTION:Sección de mitos\, religiones y humanidades. Interviene: Will
  iams Cárdenas Preside. Presenta: Ana Maestro. Sala Ramón y Cajal. 19:00h
  .\n\nhttps://ateneodemadrid.com/evento/la-hispanidad-nuevos-retos/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mujeres Mayores
+DTSTART;TZID=Europe/Madrid:20260915T190000
+DTEND;TZID=Europe/Madrid:20260915T190000
+UID:757cf3dd8b6cccc544309174d802342e3c37d2faa92ce37bb833c40c7abc2cd8
+CATEGORIES:talk
+DESCRIPTION:Presentación del libro. \n \nSección de Derechos Civiles. In
+ tervienen: Ángeles González-Sinde\, Mayte Sancho\, Lourdes Bermejo. Pres
+ enta: Aída Díaz-Tendero. Modera: Fernando Flores. Sala Pérez Galdós. 1
+ 9:00h.\n\nhttps://ateneodemadrid.com/evento/62463/
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 END:VCALENDAR
