@@ -2,18 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:II Festival Internacional de Piano
-DTSTART;TZID=Europe/Madrid:20260901T190000
-DTEND;TZID=Europe/Madrid:20260901T190000
-UID:d30739e69b4cf52c944c4fa7f10be0e20d2d4573148c2fef3c206645c81b1250
-CATEGORIES:music
-DESCRIPTION:Concierto inaugural. Programa. \n \nCon Maurizio Arroyo y Karl
- a Martínez\, Mario Mora\, Saša Gerželj & Fali Pavri\, piano a 4 manos. 
- \nCátedra Mayor\, 19:00 h.\n\nhttps://ateneodemadrid.com/evento/ii-festiv
- al-internacional-de-piano/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:BOBBY MARTÍNEZ QUARTET
 DTSTART;TZID=Europe/Madrid:20260902T200000
 DTEND;TZID=Europe/Madrid:20260903T220000
@@ -114,6 +102,29 @@ DESCRIPTION:Precio de las entradas: 8€/12€ Entradas a la venta en movi
  a banda madrileña de punk-rock formada en 2018\n\nhttps://gruta77.com/eve
  nts/eruktogatos-cerraos/var/ri-0.l-L2
 LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LUCÍA GREGORIO QUARTET
+DTSTART;TZID=Europe/Madrid:20260906T200000
+DTEND;TZID=Europe/Madrid:20260906T200000
+UID:872958c77094bfb4ad8549e886089cf74b328d94e3638314cf1a7fa4cddbdd44
+CATEGORIES:music
+DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
+  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h. \n \nLu
+ cía Gregorio – voz\nJuan Ortiz – piano\nFrancisco López “Loque” 
+ – contrabajo\nJuanma Barroso – batería \nLucía Gregorio es una joven
+  cantante española con raíces argentinas\, embajadora y becada por la Fu
+ ndación Cultural Latin GRAMMY por tres años consecutivos. \nInició sus 
+ estudios musicales a los 8 años en Madrid y\, tras varios años de trayec
+ toria en el país\, se trasladó a Nueva York. Allí continuó su formaci
+ ón en The New School\, becada por la propia universidad y por la Fundaci
+ ón Cultural Latin GRAMMY\, especializándose en jazz junto a artistas de 
+ la talla de Gretchen Parlato\, Veronica Swift y Reggie Workman\, entre otr
+ os destacados músicos del circuito internacional. Actualmente reside en B
+ oston\, donde continúa estudiando en Berklee College of Music\, nuevament
+ e becada al completo por la universidad y la Fundación Latin GRAMMY.\n\nh
+ ttps://ateneodemadrid.com/evento/lucia-gregorio-quartet/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ECOS DE LA SABANA. Danzando con el djembe\, el sabar y acrobático
@@ -397,5 +408,17 @@ CATEGORIES:music
 DESCRIPTION:Concierto / Latin / Urban\n\nhttps://salavillanos.es/evento/ku
  mbia-queers/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Integrity (EEUU) + Wülfcrown
+DTSTART;TZID=Europe/Madrid:20260916T210000
+UID:9120d809041387170f226dfa926cc7756abe54875160594655276df446a17bec
+CATEGORIES:music
+DESCRIPTION:Precio de las entradas: 20€ Entradas a la venta en hfmn Bio/
+ enlaces bandas: Integrity_facebook+ Integrity_instagram Wülfcrown_faceboo
+ k + Wülcrown_instagram Más información: Integrity: Nacidos en Cleveland
+ \, Ohio\, en 1988\, son una de las bandas más influyentes\n\nhttps://grut
+ a77.com/events/integrity-eeuu-wulfcrown/var/ri-0.l-L2
+LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
 END:VEVENT
 END:VCALENDAR
