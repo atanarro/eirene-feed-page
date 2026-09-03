@@ -849,18 +849,6 @@ DESCRIPTION:Proyecto expositivo de estudiantes de la Escuela de Arte 3 en
 LOCATION:COAM - de Hortaleza\, 63\, Madrid\, 28004
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Among / Alone
-DTSTART;TZID=Europe/Madrid:20260609T000000
-DTEND;TZID=Europe/Madrid:20260902T000000
-UID:b0a885f9e03c1448285bddba51798ea18326b05a783994fe16fb19f31ba45b52
-CATEGORIES:exhibition
-DESCRIPTION:Exposición fotográfica que invita a reflexionar sobre la rel
- ación entre el individuo y el grupo a lo largo del tiempo (Leica Gallery 
- Madrid. Hasta 2 septiembre).\n\nhttps://leica-camera.com/es-ES/eventos/exp
- osicion-among-alone
-LOCATION:Madrid - de José Ortega y Gasset\, 34\, Madrid\, Madrid\, 28006
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Prado. Siglo XXI
 DTSTART;TZID=Europe/Madrid:20260609T000000
 DTEND;TZID=Europe/Madrid:20260927T000000
@@ -1523,6 +1511,18 @@ LOCATION:Real Academia de Bellas Artes de San Fernando - de Alcalá\, 13\,
   Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Emociones en peligro. Fotografías de Tim Flach
+DTSTART;TZID=Europe/Madrid:20260902T000000
+DTEND;TZID=Europe/Madrid:20260925T000000
+UID:120474901d2adf2d609bb950eaddce55fcc8c00c18a9e41b4cd3ed92100b55c4
+CATEGORIES:exhibition
+DESCRIPTION:Selección de imágenes del fotógrafo británico que invita a
+  reflexionar sobre la preservación de la biodiversidad (Parque de El Reti
+ ro. 2 a 25 septiembre).\n\nhttps://www.afundacion.org/es/agenda/evento/exp
+ osicion-emociones-en-peligro-fotografias-de-tim-flach/
+LOCATION:Parque de El Retiro - de la Independencia\, 7\, Madrid\, 28001
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Complementarios 2026
 DTSTART;TZID=Europe/Madrid:20260903T000000
 DTEND;TZID=Europe/Madrid:20260926T000000
@@ -1559,6 +1559,30 @@ DESCRIPTION:Una experiencia única en la que descubrir a la artista mexica
 LOCATION:Madrid - del Pintor Rosales\, 30\, Madrid\, Madrid\, 28008
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Obras de paso. Retrato de Emilia Pardo Bazán
+DTSTART;TZID=Europe/Madrid:20260908T000000
+DTEND;TZID=Europe/Madrid:20270110T000000
+UID:7af8cf6f2b06a1980d110e9080cca4bdb6ac314334433812ec6d5906ccf05098
+CATEGORIES:exhibition
+DESCRIPTION:Muestra del retrato de la destacada escritora gallega\, quien 
+ ejerció un importante papel como filántropa (Museo Cerralbo. 8 sept a 10
+  ene).\n\nhttps://www.cultura.gob.es/mcerralbo/exposiciones/exposiciones/p
+ roximamente/obrasdepaso-emilia-pardo-bazan.html
+LOCATION:Museo Cerralbo - de Ventura Rodríguez\, 17\, Madrid\, 28008
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Circle Project. Bouchra Khalili
+DTSTART;TZID=Europe/Madrid:20260910T000000
+DTEND;TZID=Europe/Madrid:20261129T000000
+UID:652af4df8f0aba5924c677d6ec1835141613baf8ad2b1fe3d87d91cc858d30cf
+CATEGORIES:exhibition
+DESCRIPTION:La obra de la artista marroquí-francesa invita a conocer la l
+ ucha por sus derechos de los trabajadores magrebíes en Francia en la déc
+ ada de 1970 (La Casa Encendida. 10 sept a 29 nov).\n\nhttps://www.lacasaen
+ cendida.es/exposiciones/the-circle-project-bouchra-khalili
+LOCATION:La Casa Encendida - de Valencia\, 2\, Madrid\, 28012
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:"Visión en foco"
 DTSTART;TZID=Europe/Madrid:20260910T110000
 DTEND;TZID=Europe/Madrid:20260910T110000
@@ -1591,6 +1615,19 @@ DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
  mente emocional. \nSanta Catalina\, 10. Pases: 20:00h. y 22:00h.\n\nhttps:
  //ateneodemadrid.com/evento/angela-cervantes-cafe-central-ateneo/
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bailad\, bailad\, malditos. Carlos Aires
+DTSTART;TZID=Europe/Madrid:20260911T000000
+DTEND;TZID=Europe/Madrid:20270124T000000
+UID:8d9e82dff7345510739edf74ab3cecd6098debddc88757a9b68979b8d264dd6f
+CATEGORIES:exhibition
+DESCRIPTION:El artista malagueño invita al público a experimentar emocio
+ nes que transitan entre la euforia y el desasosiego en una instalación qu
+ e aprovecha las particularidades del espacio para el que ha sido\n\nhttps:
+ //www.mataderomadrid.org/programacion/exposicion-bailad-bailad-malditos-de
+ -carlos-aires
+LOCATION:Nave 0 (Matadero) - de Legazpi \, 8\, Madrid\, 28045
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Human Universe - The Experience
@@ -1655,5 +1692,45 @@ DESCRIPTION:Espacio: El Estudio\n\n«Cápsula Radio» es un proyecto de cr
  \nhttps://www.infinitodelicias.com/es/agenda/capsula-radio-exposicion
 LOCATION:Infinito Delicias - C. de Juana Dona\, 5\, Arganzuela\, 28045 Mad
  rid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:L.E.V. 2026. Performance 'Last And First Men'\, De Neon Dance
+DTSTART;TZID=Europe/Madrid:20260917T203000
+UID:ce30d2c986cde80e01830723d7ed138c577c354896c4b158db6adf665fe3cdb1
+CATEGORIES:exhibition
+DESCRIPTION:NEON DANCE es una compañía de renombre internacional que aco
+ ge a un público diverso y digital\, un lugar donde artistas\, colaborador
+ es y público general pueden participar de experiencias experimentales y o
+ riginales\, pero accesibles para todos. Elaborada durante siete años y co
+ mpletada por Yair Elazar Glotman tras la muerte prematura de Jóhann Jóha
+ nnsson\, la obra de cine experimental Last and First Men (2020) toma como 
+ punto de partida la novela homónima de 1930 escrita por Olaf Stapledon\, 
+ transformando el texto visionario de ciencia ficción en una conmovedora e
+ xploración del futuro distópico de la humanidad. La compañía NEON DANC
+ E propone ahora la adaptación escénica de la pieza\, en una performance 
+ fusiona cine y danza contemporánea\, con impresionantes imágenes de 16mm
+ \, la voz inolvidable de Tilda Swinton como narradora y una hipnótica ban
+ da sonora. Ambientada en un futuro lejano en el que la raza humana se encu
+ entra al borde la extinción\, los últimos vestigios de la humanidad (los
+  últimos hombres)\, se remontan dos billones de años en el tiempo para d
+ irigirse a nosotros\, los primeros hombres. Ahora\, el vasto imaginario su
+ rrealista de la película se convierte en un espacio para el movimiento. E
+ ste evento cuenta con el apoyo de Arts Council England y CTM Festival Berl
+ in.\n\nhttps://www.mataderomadrid.org/programacion/lev-2026-performance-la
+ st-and-first-men-de-neon-dance
+LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Odisea. El viaje inmersivo
+DTSTART;TZID=Europe/Madrid:20260918T000000
+DTEND;TZID=Europe/Madrid:20261220T000000
+UID:ac85cef3d39c5e67799edb7633758652d657c08bb8e6c61cd81ad8e393ef501c
+CATEGORIES:exhibition
+DESCRIPTION:Experiencia inmersiva que transporta a la antigua Grecia del 
+ periodo micénico para revivir\, junto al héroe Odiseo\, las pruebas y av
+ enturas de su largo regreso a Ítaca (MAD.\n\nhttps://madridartesdigitales
+ .com/agenda/
+LOCATION:MAD (Madrid Artes Digitales) Centro de Experiencias Inmersivas - 
+ de Legazpi\, 8\, Madrid\, 28045
 END:VEVENT
 END:VCALENDAR

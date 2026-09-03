@@ -2,36 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:BOBBY MARTÍNEZ QUARTET
-DTSTART;TZID=Europe/Madrid:20260902T200000
-DTEND;TZID=Europe/Madrid:20260903T220000
-UID:2eeb518882cd69c6038522159f6ea5a0f39291ef51e31cf5a8bdd8107b795656
-CATEGORIES:music
-DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
-  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h. \n \nBo
- bby Martínez – saxo\nGermán Kucich – piano\nDarío Guibert – contr
- abajo\nCésar de Frías – batería \nUno de los grandes nombres del saxo
- fón en la escena jazzística madrileña. Bobby Martínez\, nacido en Fila
- delfia y de raíces cubanas\, posee una trayectoria internacional que le h
- a llevado a compartir escenario con artistas como Paquito D’Rivera\, Pat
-  Metheny\, Paco de Lucía o Gloria Estefan.\nCon una sólida formación am
- ericana y una profunda conexión con la tradición cubana\, su sonido comb
- ina jazz\, bebop y latin jazz con una personalidad propia. Un músico impr
- escindible de la historia reciente del jazz en Madrid. \nSanta Catalina\, 
- 10. Pases: 20:00h. y 22:00h.\n\nhttps://ateneodemadrid.com/evento/bobby-ma
- rtinez-quartet-cafe-central-ateneo/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Damian Cordoba
-DTSTART;TZID=Europe/Madrid:20260902T210000
-UID:faa552e6c03d0758e012e73f73bc168e53967ed32ca70b68bca00c3b8bd539f0
-CATEGORIES:music
-DESCRIPTION:Concierto / Latin / Pop\n\nhttps://salavillanos.es/evento/dami
- an-cordoba/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:JOHN O'GALLAGHER / MASA KAMAGUCHI / ROB GARCIA
 DTSTART;TZID=Europe/Madrid:20260904T200000
 DTEND;TZID=Europe/Madrid:20260905T220000
@@ -202,6 +172,23 @@ DESCRIPTION:Precio de las entradas: 15€/20€ Entradas a la venta en ent
  ps://gruta77.com/events/cuatro-pesos-de-propina-uruguay-yo-por-vos/var/ri-
  0.l-L2
 LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Damien Jalet. Sesión de videoclips
+DTSTART;TZID=Europe/Madrid:20260911T120000
+UID:5fef73211a811780b51392590a7f58a1c2f7b83bee80732e742ee9661fa02cf7
+CATEGORIES:music
+DESCRIPTION:Programa: Thom Yorke: Anima (Paul Thomas Anderson\, 2020\, 15'
+ ) Elton John\, Brandi Carlile: Swing for the Fences (Xavier Dolan\, 2025\,
+  4') Koki Nakano: Train Train (Benjamin Seroussi\, 2020\, 3') Koki Nakano:
+  Oceanic Feeling (Benjamin Seroussi\, 2023\, 5') Madonna: Confessions II (
+ Torso\, 2026\, 14') Gener8ion feat. Yung Lean: Storm (Romain Gavras\, 2026
+ \, 8') Ólöf Arnalds feat. Björk: Surrender (Arni & Kinski\, 2010\, 5') 
+ > Conversación posterior con Damien Jalet\, María Pagés (directora art
+ ística de Centro Danza Matadero) y Luis E. Parés (director artístico de
+  Cineteca Madrid)\,\n\nhttps://www.mataderomadrid.org/programacion/damien-
+ jalet-sesion-de-videoclips
+LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Back to the book
@@ -420,5 +407,24 @@ DESCRIPTION:Precio de las entradas: 20€ Entradas a la venta en hfmn Bio/
  \, Ohio\, en 1988\, son una de las bandas más influyentes\n\nhttps://grut
  a77.com/events/integrity-eeuu-wulfcrown/var/ri-0.l-L2
 LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Otra
+DTSTART;TZID=Europe/Madrid:20260917T203000
+UID:15afb27696c2649f5f976af327635649643baba1880e5badb2ee722a05523567
+CATEGORIES:music
+DESCRIPTION:Concierto / Latin / Pop / Urban\n\nhttps://salavillanos.es/eve
+ nto/la-otra/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Akriila
+DTSTART;TZID=Europe/Madrid:20260917T210000
+UID:6e9d3eceb84d431dc8fa139956eddd47a486b68c95f19586f498910cfb7fd701
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://www.entradas.com/artist/
+ akriila/?Affiliate=RIV
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
 END:VEVENT
 END:VCALENDAR
