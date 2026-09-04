@@ -1,9 +1,9 @@
 Eirene feed debug
-Total events: 15
+Total events: 17
 
 [1] Vendrán los alienígenas y tendrán tus ojos
   id: f5e433f6bf0e495984e1ced0c19bb9734a38825c89ba0c450032265b08903891
-  start: 2026-09-03T19:30:00+02:00
+  start: 2026-09-04T19:30:00+02:00
   end: 2026-09-20T19:30:00+02:00
   category: theater
   source: nave_10
@@ -164,4 +164,26 @@ Total events: 15
   location: Teatro del Barrio - Calle de Zurita, 20, Madrid
   coordinates: 40.4096081, -3.699174
   url: https://teatrodelbarrio.com/la-jota-del-abuelo/
+  description: Disponible
+
+[16] Federico. No hay olvido, ni sueño: Carne viva
+  id: 38d0a33a2539e673ff6db7464c66cc521909adc5acfcee62b73d7d68dfbf4209
+  start: 2026-09-18T19:30:00+02:00
+  end: N/A
+  category: theater
+  source: teatro_del_barrio
+  location: Teatro del Barrio - Calle de Zurita, 20, Madrid
+  coordinates: 40.4096081, -3.699174
+  url: https://teatrodelbarrio.com/federico-no-hay-olvido-ni-sueno-carne-viva/
+  description: Disponible
+
+[17] Mongolia Show
+  id: 4445b71b7e6abc13667b7c19723db6f46c5f0201e1d876864af6e691a31c2ccb
+  start: 2026-09-18T22:15:00+02:00
+  end: N/A
+  category: theater
+  source: teatro_del_barrio
+  location: Teatro del Barrio - Calle de Zurita, 20, Madrid
+  coordinates: 40.4096081, -3.699174
+  url: https://teatrodelbarrio.com/mongoliashow/
   description: Disponible

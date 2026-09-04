@@ -222,12 +222,12 @@ BEGIN:VEVENT
 SUMMARY:La precisión del tiempo. Relojes del siglo XIX en las Colecciones
   Reales
 DTSTART;TZID=Europe/Madrid:20260326T000000
-DTEND;TZID=Europe/Madrid:20260920T000000
+DTEND;TZID=Europe/Madrid:20260927T000000
 UID:6a7b3d9c87ec67e2a3b7ae2c5797ab05aedbe6787aa2868c6666aed8e201750f
 CATEGORIES:exhibition
 DESCRIPTION:Pequeña muestra compuesta por algunos de los relojes adquirid
  os por Isabel II y Fernando VII a lo largo de sus reinados (Galería de la
- s Colecciones Reales. Hasta 20 sept).\n\nhttps://www.galeriadelascoleccion
+ s Colecciones Reales. Hasta 27 sept).\n\nhttps://www.galeriadelascoleccion
  esreales.es/exposicion/la-precision-del-tiempo-relojes-del-siglo-xix-en/f4
  89013a-1a5f-e3d3-4791-345d41ad626f
 LOCATION:Galería de las Colecciones Reales - de Bailén\, 8\, Madrid\, 28
@@ -1258,18 +1258,6 @@ DESCRIPTION:Viaje visual por las estaciones y el ferrocarril de la España
 LOCATION:Museo del Ferrocarril - de las Delicias\, 61\, Madrid\, 28045
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Verano en el Museo
-DTSTART;TZID=Europe/Madrid:20260701T000000
-DTEND;TZID=Europe/Madrid:20260906T000000
-UID:8061066b6a767af78b31b2edf6dc094aafe68fcb047a495c39ade8248cb679c6
-CATEGORIES:exhibition
-DESCRIPTION:Propuesta cultural y de ocio que incluye visitas exclusivas a 
- vehículos históricos\, talleres familiares\, un recorrido cinematográfi
- co y una exposición con fotografías ferroviarias (Museo del F\n\nhttps:
- //museodelferrocarril.org/comunicacion/noticia.asp?item=812
-LOCATION:Museo del Ferrocarril - de las Delicias\, 61\, Madrid\, 28045
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Joyas numismáticas del Instituto Valencia de Don Juan: de los car
  olingios a Fernando VII
 DTSTART;TZID=Europe/Madrid:20260702T000000
@@ -1571,6 +1559,17 @@ DESCRIPTION:Muestra del retrato de la destacada escritora gallega\, quien
 LOCATION:Museo Cerralbo - de Ventura Rodríguez\, 17\, Madrid\, 28008
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Carlos Cartaxo. In-sítu
+DTSTART;TZID=Europe/Madrid:20260909T000000
+DTEND;TZID=Europe/Madrid:20261018T000000
+UID:89fbc12418cf40e6dba07b0ce739d60ff6ea6aca6841e173fda297097b000077
+CATEGORIES:exhibition
+DESCRIPTION:Instalación site-specific en la que pintura\, escultura y arq
+ uitectura se integran simultáneamente (CentroCentro. 9 sept a 18 oct).\n
+ \nhttps://www.centrocentro.org/exposicion/carlos-cartaxo-situ
+LOCATION:CentroCentro - de Cibeles\, 1\, Madrid\, 28014
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Circle Project. Bouchra Khalili
 DTSTART;TZID=Europe/Madrid:20260910T000000
 DTEND;TZID=Europe/Madrid:20261129T000000
@@ -1581,6 +1580,19 @@ DESCRIPTION:La obra de la artista marroquí-francesa invita a conocer la l
  ada de 1970 (La Casa Encendida. 10 sept a 29 nov).\n\nhttps://www.lacasaen
  cendida.es/exposiciones/the-circle-project-bouchra-khalili
 LOCATION:La Casa Encendida - de Valencia\, 2\, Madrid\, 28012
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Raíces en tránsito: 30 artistas de la diáspora cubana
+DTSTART;TZID=Europe/Madrid:20260910T000000
+DTEND;TZID=Europe/Madrid:20260926T000000
+UID:6a366c293790d76e8f9d06ff79e067954307e507eac1d8b55d8ee982f81af376
+CATEGORIES:exhibition
+DESCRIPTION:Muestra que reúne a los artistas que han participado en el Pr
+ ograma de Becas de Resiliencia de ARC a lo largo de sus tres primeros año
+ s (Galería Nueva Carabanchel. 10 a 26 septiembre).\n\nhttps://artistsatri
+ skconnection.org/event/guarda-la-fecha-raices-en-transito-30-artistas-de-l
+ a-diaspora-cubana/
+LOCATION:Madrid - Calle Alejandro Sánchez\, 94\, Madrid\, Madrid\, 28019
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:"Visión en foco"
@@ -1623,10 +1635,9 @@ DTEND;TZID=Europe/Madrid:20270124T000000
 UID:8d9e82dff7345510739edf74ab3cecd6098debddc88757a9b68979b8d264dd6f
 CATEGORIES:exhibition
 DESCRIPTION:El artista malagueño invita al público a experimentar emocio
- nes que transitan entre la euforia y el desasosiego en una instalación qu
- e aprovecha las particularidades del espacio para el que ha sido\n\nhttps:
- //www.mataderomadrid.org/programacion/exposicion-bailad-bailad-malditos-de
- -carlos-aires
+ nes que transitan entre la euforia y el desasosiego (Nave 0. Matadero Madr
+ id. 11 sept a 24 ene).\n\nhttps://www.mataderomadrid.org/programacion/expo
+ sicion-bailad-bailad-malditos-de-carlos-aires
 LOCATION:Nave 0 (Matadero) - de Legazpi \, 8\, Madrid\, 28045
 END:VEVENT
 BEGIN:VEVENT
@@ -1692,6 +1703,32 @@ DESCRIPTION:Espacio: El Estudio\n\n«Cápsula Radio» es un proyecto de cr
  \nhttps://www.infinitodelicias.com/es/agenda/capsula-radio-exposicion
 LOCATION:Infinito Delicias - C. de Juana Dona\, 5\, Arganzuela\, 28045 Mad
  rid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Circuitos 2026
+DTSTART;TZID=Europe/Madrid:20260916T000000
+DTEND;TZID=Europe/Madrid:20261108T000000
+UID:2fd00e12c39c46e2b4ba2a975ac5604f84af1202b43273787aa2f0d4ea8d604e
+CATEGORIES:exhibition
+DESCRIPTION:Exposición colectiva formada por los trabajos de los diez gan
+ adores de este certamen anual (Sala de Arte Joven de la Comunidad de Madri
+ d. 16 sept a 8 nov).\n\nhttps://www.comunidad.madrid/actividades/2026/expo
+ sicion-circuitos-2026
+LOCATION:Sala de Arte Joven de la Comunidad de Madrid - de América\, 13\,
+  Madrid\, 28002
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gicheok. Una Corriente Silenciosa. Lyu namgwon
+DTSTART;TZID=Europe/Madrid:20260917T000000
+DTEND;TZID=Europe/Madrid:20261113T000000
+UID:6f12e20b6039301952317e6b6580b294e91dbf4207a366417966602d43aad74d
+CATEGORIES:exhibition
+DESCRIPTION:El artista coreano presenta tres nuevas obras en las que reint
+ erpreta las técnicas tradicionales de lacado (Centro Cultural Coreano. 17
+  sept a 13 nov).\n\nhttps://spain.korean-culture.org/es/1217/board/428/rea
+ d/147030
+LOCATION:Centro Cultural Coreano en España - de la Castellana\, 15\, Madr
+ id\, 28046
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:L.E.V. 2026. Performance 'Last And First Men'\, De Neon Dance
