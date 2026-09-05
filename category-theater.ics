@@ -2,15 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Vendrán los alienígenas y tendrán tus ojos
-DTSTART;TZID=Europe/Madrid:20260904T193000
-DTEND;TZID=Europe/Madrid:20260920T193000
-UID:f5e433f6bf0e495984e1ced0c19bb9734a38825c89ba0c450032265b08903891
+SUMMARY:Qué difícil es
+DTSTART;TZID=Europe/Madrid:20260904T190000
+DTEND;TZID=Europe/Madrid:20260911T190000
+UID:261e1f11f0f4c7f9053869b74158fa5337945f9ece75c1996f4036566bb5c5a6
 CATEGORIES:theater
-DESCRIPTION:Entradas disponibles desde 15.00€ | Tags: JOBO\n\nhttps://ti
- enda.madrid-destino.com/es/nave-10/vendran-los-alienigenas-y-tendran-tus-o
- jos-1/
-LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
+DESCRIPTION:Esteban Roel dirige una comedia incómoda que delibera sobre l
+ o difícil y hermosa que puede llegar a ser la vida (Teatro Infanta Isabel
+ . 4\, 5\, 6\, 9\, 10 y 11 septiembre). | 4\, 9\, 10 y 11 septiembre: 19:00
+  h 5 y 6 septiembre: 18:00 h\n\nhttps://tickets.oneboxtds.com/teatroinfant
+ aisabel/events/58360
+LOCATION:Teatro Infanta Isabel - Calle del Barquillo\, 24\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Todas las mujeres que habito
@@ -24,6 +26,17 @@ DESCRIPTION:Ángela Conde presenta un monólogo dramático que busca rendi
  septiembre: 20:00 h\n\nhttps://www.teatroinfantaisabel.es/obra/todas-las-m
  ujeres-que-habito/
 LOCATION:Teatro Infanta Isabel - Calle del Barquillo\, 24\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vendrán los alienígenas y tendrán tus ojos
+DTSTART;TZID=Europe/Madrid:20260905T193000
+DTEND;TZID=Europe/Madrid:20260920T193000
+UID:f5e433f6bf0e495984e1ced0c19bb9734a38825c89ba0c450032265b08903891
+CATEGORIES:theater
+DESCRIPTION:Entradas disponibles desde 15.00€ | Tags: JOBO\n\nhttps://ti
+ enda.madrid-destino.com/es/nave-10/vendran-los-alienigenas-y-tendran-tus-o
+ jos-1/
+LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:La biblioteca va al teatro: una visita de la biblio de Bellas Arte
@@ -153,6 +166,32 @@ DTSTART;TZID=Europe/Madrid:20260918T221500
 UID:4445b71b7e6abc13667b7c19723db6f46c5f0201e1d876864af6e691a31c2ccb
 CATEGORIES:theater
 DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/mongoliashow/
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Infiltrado en VOX
+DTSTART;TZID=Europe/Madrid:20260919T130000
+UID:4d1c52f9cce77050cecd545a20ab11e4a01bcbd29171e4326db10855f67eabc8
+CATEGORIES:theater
+DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/infiltrado-en-vox/
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Federico. No hay olvido\, ni sueño: Carne viva
+DTSTART;TZID=Europe/Madrid:20260919T193000
+UID:e0fb5dafd1de82da48391a0b24d02e49bfe996adcebb84a8b9c64a4dccf245ab
+CATEGORIES:theater
+DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/federico-no-hay-olvi
+ do-ni-sueno-carne-viva/
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Color Esmeralda. Farolillos y travestis
+DTSTART;TZID=Europe/Madrid:20260919T221500
+UID:30985af457d6deca80ea7611f236d5ae68ebbd220b941307912d380ded92a16d
+CATEGORIES:theater
+DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/color-esmeralda-faro
+ lillos-y-travestis/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 END:VCALENDAR
