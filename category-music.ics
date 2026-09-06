@@ -2,28 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Emanero
-DTSTART;TZID=Europe/Madrid:20260905T210000
-UID:68f3e9191b36a309eed9a1fed8e76eba1c7f183012cf93f80be522fc00566d74
-CATEGORIES:music
-DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://www.entradas.com/event/e
- manero-todo-por-un-beso-sala-la-riviera-21750655/?Affiliate=RIV
-LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
- id
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Eruktogatos + Cerraos
-DTSTART;TZID=Europe/Madrid:20260905T213000
-UID:9bd363629df338bc563fbcb9a7200d41072735d1e7498b052915a5cc827964b8
-CATEGORIES:music
-DESCRIPTION:Precio de las entradas: 8€/12€ Entradas a la venta en movi
- ngtickets Bio/enlaces bandas: Eruktogatos_facebook + Eruktogatos_instagram
-  Cerraos_facebook + Cerraos_instagram Más información: Eruktogatos es un
- a banda madrileña de punk-rock formada en 2018\n\nhttps://gruta77.com/eve
- nts/eruktogatos-cerraos/var/ri-0.l-L2
-LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:LUCÍA GREGORIO QUARTET
 DTSTART;TZID=Europe/Madrid:20260906T200000
 DTEND;TZID=Europe/Madrid:20260906T200000
@@ -412,5 +390,24 @@ DESCRIPTION:Precio de las entradas: 20€/24€ Entradas a la venta en mov
  gram Más información: Sex\n\nhttps://gruta77.com/events/sex-museum-the-d
  iesel-dogs/var/ri-0.l-L2
 LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Imarhan
+DTSTART;TZID=Europe/Madrid:20260920T200000
+UID:a2eddc8355c94fcfceca1fe56c66df1cb04401e12206f3a3cd2dec10ca5911d5
+CATEGORIES:music
+DESCRIPTION:Concierto / Villanos del Jazz\n\nhttps://salavillanos.es/event
+ o/imarhan/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ciro y los Persas
+DTSTART;TZID=Europe/Madrid:20260920T203000
+UID:4c4c04089f6cbab3f8d02a12636be6d1eedd762c24b39a4d9e3c55289ac5e145
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:00 pm\n\nhttps://www.entradas.com/event/c
+ iro-y-los-persas-sala-la-riviera-20732454/?Affiliate=RIV
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
 END:VEVENT
 END:VCALENDAR

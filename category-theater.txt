@@ -1,5 +1,5 @@
 Eirene feed debug
-Total events: 21
+Total events: 26
 
 [1] Qué difícil es
   id: 261e1f11f0f4c7f9053869b74158fa5337945f9ece75c1996f4036566bb5c5a6
@@ -25,7 +25,7 @@ Total events: 21
 
 [3] Vendrán los alienígenas y tendrán tus ojos
   id: f5e433f6bf0e495984e1ced0c19bb9734a38825c89ba0c450032265b08903891
-  start: 2026-09-05T19:30:00+02:00
+  start: 2026-09-06T19:30:00+02:00
   end: 2026-09-20T19:30:00+02:00
   category: theater
   source: nave_10
@@ -155,7 +155,18 @@ Total events: 21
   url: https://teatrodelbarrio.com/dos-orillas-una-voz-encuentro-coral-chile-espana/
   description: Localidades agotadas
 
-[15] El hambre imposible
+[15] Futurock Madrid
+  id: e2b1d9ac85bf441882189d47a2d31e934f52f7726878fb49b6a4ee65c675a200
+  start: 2026-09-15T22:00:00+02:00
+  end: N/A
+  category: theater
+  source: teatro_del_barrio
+  location: Teatro del Barrio - Calle de Zurita, 20, Madrid
+  coordinates: 40.4096081, -3.699174
+  url: https://teatrodelbarrio.com/futurock-madrid/
+  description: Disponible
+
+[16] El hambre imposible
   id: c0e1014116f23b38e7bc00aec6d56e7f193079ca8f69e30250d980511a529f93
   start: 2026-09-16T19:30:00+02:00
   end: N/A
@@ -166,7 +177,7 @@ Total events: 21
   url: https://teatrodelbarrio.com/el-hambre-imposible/
   description: Disponible
 
-[16] La jota del abuelo
+[17] La jota del abuelo
   id: 970e2f1caa40e229ac106bb8ada8f3168588536248bd64c1e950189fc4947e80
   start: 2026-09-17T19:30:00+02:00
   end: N/A
@@ -177,7 +188,7 @@ Total events: 21
   url: https://teatrodelbarrio.com/la-jota-del-abuelo/
   description: Disponible
 
-[17] Federico. No hay olvido, ni sueño: Carne viva
+[18] Federico. No hay olvido, ni sueño: Carne viva
   id: 38d0a33a2539e673ff6db7464c66cc521909adc5acfcee62b73d7d68dfbf4209
   start: 2026-09-18T19:30:00+02:00
   end: N/A
@@ -188,7 +199,7 @@ Total events: 21
   url: https://teatrodelbarrio.com/federico-no-hay-olvido-ni-sueno-carne-viva/
   description: Disponible
 
-[18] Mongolia Show
+[19] Mongolia Show
   id: 4445b71b7e6abc13667b7c19723db6f46c5f0201e1d876864af6e691a31c2ccb
   start: 2026-09-18T22:15:00+02:00
   end: N/A
@@ -199,7 +210,7 @@ Total events: 21
   url: https://teatrodelbarrio.com/mongoliashow/
   description: Disponible
 
-[19] Infiltrado en VOX
+[20] Infiltrado en VOX
   id: 4d1c52f9cce77050cecd545a20ab11e4a01bcbd29171e4326db10855f67eabc8
   start: 2026-09-19T13:00:00+02:00
   end: N/A
@@ -210,7 +221,7 @@ Total events: 21
   url: https://teatrodelbarrio.com/infiltrado-en-vox/
   description: Disponible
 
-[20] Federico. No hay olvido, ni sueño: Carne viva
+[21] Federico. No hay olvido, ni sueño: Carne viva
   id: e0fb5dafd1de82da48391a0b24d02e49bfe996adcebb84a8b9c64a4dccf245ab
   start: 2026-09-19T19:30:00+02:00
   end: N/A
@@ -221,7 +232,7 @@ Total events: 21
   url: https://teatrodelbarrio.com/federico-no-hay-olvido-ni-sueno-carne-viva/
   description: Disponible
 
-[21] Color Esmeralda. Farolillos y travestis
+[22] Color Esmeralda. Farolillos y travestis
   id: 30985af457d6deca80ea7611f236d5ae68ebbd220b941307912d380ded92a16d
   start: 2026-09-19T22:15:00+02:00
   end: N/A
@@ -230,4 +241,48 @@ Total events: 21
   location: Teatro del Barrio - Calle de Zurita, 20, Madrid
   coordinates: 40.4096081, -3.699174
   url: https://teatrodelbarrio.com/color-esmeralda-farolillos-y-travestis/
+  description: Disponible
+
+[23] AÚPA LERÉ. Percusión para crecer
+  id: b921f1680510b93dbdccf8e4fa09c5892a814efe4777730403bf8b7ee8bc5bbe
+  start: 2026-09-20T11:00:00+02:00
+  end: N/A
+  category: theater
+  source: teatro_del_barrio
+  location: Teatro del Barrio - Calle de Zurita, 20, Madrid
+  coordinates: 40.4096081, -3.699174
+  url: https://teatrodelbarrio.com/aupa-lere-percusion-para-crecer/
+  description: Disponible
+
+[24] Infiltrado en VOX
+  id: e626fd097afb3c36e2719e4bdbc376b2c08e49455a6aaa59e42439d178a774f7
+  start: 2026-09-20T13:00:00+02:00
+  end: N/A
+  category: theater
+  source: teatro_del_barrio
+  location: Teatro del Barrio - Calle de Zurita, 20, Madrid
+  coordinates: 40.4096081, -3.699174
+  url: https://teatrodelbarrio.com/infiltrado-en-vox/
+  description: Disponible
+
+[25] "Una habitación propia", de VIRGINIA WOOLF
+  id: 8cc75641731bb28413a274a208765f9bea2e5c33165d8cb6a0d6a20ff1c7c0ee
+  start: 2026-09-20T18:00:00+02:00
+  end: N/A
+  category: theater
+  source: teatro_del_barrio
+  location: Teatro del Barrio - Calle de Zurita, 20, Madrid
+  coordinates: 40.4096081, -3.699174
+  url: https://teatrodelbarrio.com/una-habitacion-propia-de-virginia-woolf/
+  description: ¡Ya solo quedan 20 plazas!
+
+[26] Chistes contra Franco
+  id: 34695477a163b5c78061f1d1c6df5b2b4eaccf4d89bc2355d624375783937bfc
+  start: 2026-09-20T20:30:00+02:00
+  end: N/A
+  category: theater
+  source: teatro_del_barrio
+  location: Teatro del Barrio - Calle de Zurita, 20, Madrid
+  coordinates: 40.4096081, -3.699174
+  url: https://teatrodelbarrio.com/chistes-contra-franco/
   description: Disponible

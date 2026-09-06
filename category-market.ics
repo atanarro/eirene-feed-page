@@ -2,17 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Mercado de las Ranas
-DTSTART;TZID=Europe/Madrid:20260905T120000
-DTEND;TZID=Europe/Madrid:20260905T200000
-UID:c2d91f8c83afc6956fa3214b9f1356e9f897c04581fd1ae56f663ee9ca28ee48
-CATEGORIES:market
-DESCRIPTION:Mercado del Barrio de las Letras con puestos de artesanía\, d
- iseño\, moda y gastronomía en la calle Huertas.\n\nhttps://barrioletras.
- com/mercado-de-las-ranas/
-LOCATION:Barrio de las Letras - Calle de las Huertas\, 2-47\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Mercado Productores Planetario
 DTSTART;TZID=Europe/Madrid:20260906T100000
 DTEND;TZID=Europe/Madrid:20260906T160000
@@ -59,5 +48,17 @@ DESCRIPTION:Mercado del Barrio de las Letras con puestos de artesanía\, d
  iseño\, moda y gastronomía en la calle Huertas.\n\nhttps://barrioletras.
  com/mercado-de-las-ranas/
 LOCATION:Barrio de las Letras - Calle de las Huertas\, 2-47\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mercado Productores Planetario
+DTSTART;TZID=Europe/Madrid:20260920T100000
+DTEND;TZID=Europe/Madrid:20260920T160000
+UID:22bd9529e3c3b9bf7a6063fcec1b43119bb57344a076b4e80d5922dd70a35310
+CATEGORIES:market
+DESCRIPTION:Mercado de productores locales y artesanos en Planetario con a
+ limentacion sostenible\, productos de cercania y actividades al aire libre
+ .\n\nhttps://mercadoproductores.es/mp-planetario/
+LOCATION:Mercado Productores Planetario - Avenida del Planetario esquina C
+ alle Meneses\, Madrid
 END:VEVENT
 END:VCALENDAR
