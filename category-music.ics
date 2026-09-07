@@ -2,38 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:LUCÍA GREGORIO QUARTET
-DTSTART;TZID=Europe/Madrid:20260906T200000
-DTEND;TZID=Europe/Madrid:20260906T200000
-UID:872958c77094bfb4ad8549e886089cf74b328d94e3638314cf1a7fa4cddbdd44
-CATEGORIES:music
-DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
-  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h. \n \nLu
- cía Gregorio – voz\nJuan Ortiz – piano\nFrancisco López “Loque” 
- – contrabajo\nJuanma Barroso – batería \nLucía Gregorio es una joven
-  cantante española con raíces argentinas\, embajadora y becada por la Fu
- ndación Cultural Latin GRAMMY por tres años consecutivos. \nInició sus 
- estudios musicales a los 8 años en Madrid y\, tras varios años de trayec
- toria en el país\, se trasladó a Nueva York. Allí continuó su formaci
- ón en The New School\, becada por la propia universidad y por la Fundaci
- ón Cultural Latin GRAMMY\, especializándose en jazz junto a artistas de 
- la talla de Gretchen Parlato\, Veronica Swift y Reggie Workman\, entre otr
- os destacados músicos del circuito internacional. Actualmente reside en B
- oston\, donde continúa estudiando en Berklee College of Music\, nuevament
- e becada al completo por la universidad y la Fundación Latin GRAMMY.\n\nh
- ttps://ateneodemadrid.com/evento/lucia-gregorio-quartet/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ECOS DE LA SABANA. Danzando con el djembe\, el sabar y acrobático
-DTSTART;TZID=Europe/Madrid:20260906T203000
-UID:3f50c1c3d8bd5d04bd06e00baaefe4dcf121999b438792a2fdd90c3240445818
-CATEGORIES:music
-DESCRIPTION:Concierto / Afro\n\nhttps://salavillanos.es/evento/ecos-de-la-
- sabana-danzando-con-el-djembe-el-sabar-y-acrobatico/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:7XMEDIO NEW FLAMENCO JAZZ
 DTSTART;TZID=Europe/Madrid:20260907T200000
 DTEND;TZID=Europe/Madrid:20260908T220000
@@ -409,5 +377,14 @@ DESCRIPTION:Apertura Puertas: 19:00 pm\n\nhttps://www.entradas.com/event/c
  iro-y-los-persas-sala-la-riviera-20732454/?Affiliate=RIV
 LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
  id
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Moses Yoofee Trio
+DTSTART;TZID=Europe/Madrid:20260921T203000
+UID:99c2e7344f1721306aa842e24aa895bd936bda107d464772808a5fa53a668da4
+CATEGORIES:music
+DESCRIPTION:Concierto / Villanos del Jazz\n\nhttps://salavillanos.es/event
+ o/moses-yoofee-trio-2/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 END:VCALENDAR

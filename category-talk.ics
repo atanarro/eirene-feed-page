@@ -2,18 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Los Desayunos del Ateneo con Unai Sordo
-DTSTART;TZID=Europe/Madrid:20260907T093000
-DTEND;TZID=Europe/Madrid:20260907T093000
-UID:caf180d6ef03da328a74147049b5af2c7914626acfa74cc4509d26bf90ce425c
-CATEGORIES:talk
-DESCRIPTION:Con Unai Sordo Secretario general de CCOO en conversación con
-  los periodistas Pedro G. Cuartango\, Paula de las Heras y Jesús Maraña.
-   \nCátedra Mayor. 9:30h.\n\nhttps://ateneodemadrid.com/evento/los-desayu
- nos-del-ateneo-con-unai-sordo/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Juan Díaz de Solís
 DTSTART;TZID=Europe/Madrid:20260907T183000
 DTEND;TZID=Europe/Madrid:20260907T183000
@@ -180,6 +168,43 @@ DESCRIPTION:Espacio: Auditorio Daniel y Nina\n\n¿Qué es una comunidad en
  icias.com/es/agenda/historias-energia-compartida-comunidad-energetica
 LOCATION:Infinito Delicias - C. de Juana Dona\, 5\, Arganzuela\, 28045 Mad
  rid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Club de lectura "Leonora" de Alberto Conejero
+DTSTART;TZID=Europe/Madrid:20260910T190000
+UID:513f65c8e520182013e3e20d5c783c8e9e98826230591fb47b42ea6b510c60cc
+CATEGORIES:talk
+DESCRIPTION:10 Septiembre 2026 Queridas anónimas: El próximo mes de sept
+ iembre celebramos nuestro Club de lectura de Leonora ( Pepitas de calabaza
+  \, 2024) de Alberto Conejero en colaboración con el Teatro de La Abadía
+  . Esta iniciativa se realizará en tres actos: Primero\, el jueves 10 de 
+ septiembre a las 19:00 horas tendremos el Club de lectura en La Anónima L
+ ibrería (C/ Embajadores\, 166 - Madrid). Después\, hasta el 13 de septie
+ mbre se podrá asistir a la representación teatral de Leonora en Teatro d
+ e La Abadía (C/Fernandez de los Ríos\, 42 - Madrid)\, dirigida por Alber
+ to Conejero. Finalmente\, el sábado 12 de septiembre a las 12:30 horas cu
+ lminaremos con un Encuentro en el Teatro La Abadía con Alberto Conejero.
+  Alberto Conejero —uno de los más destacados dramaturgos españoles con
+ temporáneos— ha dado forma a una pieza de una belleza deslumbrante y af
+ ilada. Leonora \, además de ser un magnífico acercamiento al universo de
+  la célebre pintora surrealista\, es un poema en el que se abordan\, entr
+ e otros\, temas como la fragua de la vocación artística\, la imaginació
+ n como potencia salvífica o la relación entre creación y herida. Para e
+ ste club recomendamos también como lectura complementaria Memorias de aba
+ jo (Alpha Decay) \, escrito originariamente en francés en 1943 por la pro
+ pia Leonora Carrington. Este libro es el recuerdo\, en forma de dietario\,
+  de aquellos días de confinamiento en que Leonora fue asediada no solo po
+ r sus propios delirios\, sino también por los métodos poco ortodoxos de 
+ su médico\, el sádico doctor Morales. Esta actividad\, que combina lectu
+ ra\, teatro y reflexión conjunta\, no tiene ningún coste de entrada\, pe
+ ro es necesario reservar plaza : puedes preguntarnos en cualquiera de nues
+ tras redes por la disponibilidad. Para más información\, consulta la pá
+ gina web de los Círculos de lectura de La Abadía . ¡Os esperamos! Cuán
+ do : martes 10 de septiembre a las 19 h. Dónde : La Anónima Librería (
+ C/Embajadores\, 166) Reserva de plaza: web\, email o mostrador.\n\nhttps:/
+ /laanonimalibreria.com/evento/185/club-de-lectura-leonora-de-alberto-conej
+ ero/
+LOCATION:La Anonima Libreria - C/ Embajadores\, 166 - Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Presentación del libro «Lo que no te cuentan sobre el aborto»
@@ -374,6 +399,28 @@ DESCRIPTION:Sección de Ciencias Sociales. Intervienen:  Nerea Pérez de
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Edmond Jabès\, el libro\, el desierto
+DTSTART;TZID=Europe/Madrid:20260915T193000
+DTEND;TZID=Europe/Madrid:20260915T193000
+UID:e2bf853896c15b8deeafc05bc77a30da769fb9da0cd2e1923ffd36e294e00fca
+CATEGORIES:talk
+DESCRIPTION:Agrupación Agalma. Intervienen: Gonzalo Jalom y Félix Recio.
+  Sala Ramón y Cajal. 19:30h.\n\nhttps://ateneodemadrid.com/evento/edmond-
+ jabes-el-libro-el-desierto/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:"Médium"
+DTSTART;TZID=Europe/Madrid:20260915T200000
+DTEND;TZID=Europe/Madrid:20260915T200000
+UID:7e78b80c85a6824ff786fe25aa94ccb42902c76d5f4f695cddd2f7a2fe2205a8
+CATEGORIES:talk
+DESCRIPTION:Presentación del libro. \n \nSección del Literatura. Intervi
+ enen: Norberto López Amado\, Marta Galatas – autora. Sala Ramón y Caja
+ l. 20:00h.\n\nhttps://ateneodemadrid.com/evento/medium/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:InPulse: La Cara B con Marta Pascual (U-ak Estudio)
 DTSTART;TZID=Europe/Madrid:20260916T170000
 DTEND;TZID=Europe/Madrid:20260916T190000
@@ -406,5 +453,37 @@ DESCRIPTION:Espacio: Sala Marina\n\n​\n\nInPulse nace como una comunidad
  .com/es/agenda/inpulse-cara-b-marta-pascual
 LOCATION:Infinito Delicias - C. de Juana Dona\, 5\, Arganzuela\, 28045 Mad
  rid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vermú y encuentro con las editoras de Manos de pan
+DTSTART;TZID=Europe/Madrid:20260919T123000
+UID:f5580085f278e0ea5210475e9b9cdacd9ab37922e625ef6cfa7b91962bc267f4
+CATEGORIES:talk
+DESCRIPTION:19 Septiembre 2026 Queridas anónimas: El 19 de septiembre cel
+ ebramos nuestro VERMÚ LITERARIO con la Editorial del mes: Manos de pan . 
+ Especializadas en poesía\, narrativa y ensayo \, el catálogo de la Edito
+ rial Manos de pan alberga algunos de nuestros títulos recomendados de nov
+ ela y poesía como Una temporada con Las Malva Roller Dolls \, Mientras pa
+ san otras cosas \, o Caer al cielo . Las editoras cuentan como comenzó to
+ do. "Un día de navidad\, conversando\, abrimos un vino y dijimos que sí 
+ a una propuesta que ya hicimos realidad: tener una editorial independiente
+  de literatura contemporánea. Manos de pan nace de soñar y arriesgarse. 
+ " Es una editorial independiente que se encuentra en el mercado desde febr
+ ero de 2025. Tiene sede en Madrid y distribución en España\, Argentina y
+  México. El equipo está conformado por cuatro mujeres con experiencia en
+  el sector literario que buscan formar un catálogo sensible\, estimulante
+  y diverso\, donde sea posible el descubrimiento de nuevas voces tanto en 
+ España como en latinoamérica. "Creemos en el poder de las historias\, co
+ mo creemos en lo mágica que fue el comienzo de la nuestra." El sábado a 
+ las 12:30 h estaremos charlando con ellas sobre su experiencia en la indus
+ tria editorial\, algunas particularidades del proyecto y mucho más. Adem
+ ás\, por ser la Editorial del mes\, todos los libros de Manos de pan tien
+ en un 5% de descuento . ¡Ven a tomarte un vermú y llévate tu próxima l
+ ectura a casa! Te esperamos\, La Anónima Librería + Manos de pan <3 Cuá
+ ndo: sábado 19 de septiembreva las 12:30 h. Dónde: La Anónima Librería
+  (C/Embajadores\, 166 - Metro Delicias / Legazpi) Entrada libre hasta comp
+ letar aforo.\n\nhttps://laanonimalibreria.com/evento/191/vermu-y-encuentro
+ -con-las-editoras-de-manos-de-pan/
+LOCATION:La Anonima Libreria - C/ Embajadores\, 166 - Madrid
 END:VEVENT
 END:VCALENDAR

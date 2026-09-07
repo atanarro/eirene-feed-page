@@ -1,5 +1,5 @@
 Eirene feed debug
-Total events: 26
+Total events: 27
 
 [1] Qué difícil es
   id: 261e1f11f0f4c7f9053869b74158fa5337945f9ece75c1996f4036566bb5c5a6
@@ -23,18 +23,7 @@ Total events: 26
   url: https://www.teatroinfantaisabel.es/obra/todas-las-mujeres-que-habito/
   description: Ángela Conde presenta un monólogo dramático que busca rendir homenaje a las mujeres invisibles de la historia (Teatro Infanta Isabel. 4, 5, 6, 11 y 12 septiembre). | 4 y 11 septiembre: 21:00 h 5, 6 y 12 septiembre: 20:00 h
 
-[3] Vendrán los alienígenas y tendrán tus ojos
-  id: f5e433f6bf0e495984e1ced0c19bb9734a38825c89ba0c450032265b08903891
-  start: 2026-09-06T19:30:00+02:00
-  end: 2026-09-20T19:30:00+02:00
-  category: theater
-  source: nave_10
-  location: Nave 10 - Paseo de la Chopera, 14, Madrid
-  coordinates: 40.3920606, -3.6978319
-  url: https://tienda.madrid-destino.com/es/nave-10/vendran-los-alienigenas-y-tendran-tus-ojos-1/
-  description: Entradas disponibles desde 15.00€ | Tags: JOBO
-
-[4] La biblioteca va al teatro: una visita de la biblio de Bellas Artes UCM a Teatro del Barrio
+[3] La biblioteca va al teatro: una visita de la biblio de Bellas Artes UCM a Teatro del Barrio
   id: 88fcc8c33b3ddf0395d45fb29d628dc83a4353879a86ab4f8e020e67826aa16a
   start: 2026-09-07T16:00:00+02:00
   end: N/A
@@ -44,6 +33,17 @@ Total events: 26
   coordinates: 40.4096081, -3.699174
   url: https://teatrodelbarrio.com/de-la-biblo-de-bbaa-al-barrio/
   description: Programación en Teatro del Barrio
+
+[4] Vendrán los alienígenas y tendrán tus ojos
+  id: f5e433f6bf0e495984e1ced0c19bb9734a38825c89ba0c450032265b08903891
+  start: 2026-09-08T19:30:00+02:00
+  end: 2026-09-20T19:30:00+02:00
+  category: theater
+  source: nave_10
+  location: Nave 10 - Paseo de la Chopera, 14, Madrid
+  coordinates: 40.3920606, -3.6978319
+  url: https://tienda.madrid-destino.com/es/nave-10/vendran-los-alienigenas-y-tendran-tus-ojos-1/
+  description: Entradas disponibles desde 15.00€ | Tags: JOBO
 
 [5] Federico. No hay olvido, ni sueño: Carne viva
   id: 069c466592fc7467231200aa007ffe3f5999961a4f5011ccedd62fe2f2111032
@@ -274,7 +274,7 @@ Total events: 26
   location: Teatro del Barrio - Calle de Zurita, 20, Madrid
   coordinates: 40.4096081, -3.699174
   url: https://teatrodelbarrio.com/una-habitacion-propia-de-virginia-woolf/
-  description: ¡Ya solo quedan 20 plazas!
+  description: ¡Ya solo quedan 19 plazas!
 
 [26] Chistes contra Franco
   id: 34695477a163b5c78061f1d1c6df5b2b4eaccf4d89bc2355d624375783937bfc
@@ -285,4 +285,15 @@ Total events: 26
   location: Teatro del Barrio - Calle de Zurita, 20, Madrid
   coordinates: 40.4096081, -3.699174
   url: https://teatrodelbarrio.com/chistes-contra-franco/
+  description: Disponible
+
+[27] La mujer fascista
+  id: 72313858c6e90c96274769c6b8985b83d68eeb4829f744844b4678903bd185f7
+  start: 2026-09-21T19:30:00+02:00
+  end: N/A
+  category: theater
+  source: teatro_del_barrio
+  location: Teatro del Barrio - Calle de Zurita, 20, Madrid
+  coordinates: 40.4096081, -3.699174
+  url: https://teatrodelbarrio.com/la-mujer-fascista/
   description: Disponible

@@ -28,17 +28,6 @@ DESCRIPTION:Ángela Conde presenta un monólogo dramático que busca rendi
 LOCATION:Teatro Infanta Isabel - Calle del Barquillo\, 24\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vendrán los alienígenas y tendrán tus ojos
-DTSTART;TZID=Europe/Madrid:20260906T193000
-DTEND;TZID=Europe/Madrid:20260920T193000
-UID:f5e433f6bf0e495984e1ced0c19bb9734a38825c89ba0c450032265b08903891
-CATEGORIES:theater
-DESCRIPTION:Entradas disponibles desde 15.00€ | Tags: JOBO\n\nhttps://ti
- enda.madrid-destino.com/es/nave-10/vendran-los-alienigenas-y-tendran-tus-o
- jos-1/
-LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:La biblioteca va al teatro: una visita de la biblio de Bellas Arte
  s UCM a Teatro del Barrio
 DTSTART;TZID=Europe/Madrid:20260907T160000
@@ -47,6 +36,17 @@ CATEGORIES:theater
 DESCRIPTION:Programación en Teatro del Barrio\n\nhttps://teatrodelbarrio.
  com/de-la-biblo-de-bbaa-al-barrio/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vendrán los alienígenas y tendrán tus ojos
+DTSTART;TZID=Europe/Madrid:20260908T193000
+DTEND;TZID=Europe/Madrid:20260920T193000
+UID:f5e433f6bf0e495984e1ced0c19bb9734a38825c89ba0c450032265b08903891
+CATEGORIES:theater
+DESCRIPTION:Entradas disponibles desde 15.00€ | Tags: JOBO\n\nhttps://ti
+ enda.madrid-destino.com/es/nave-10/vendran-los-alienigenas-y-tendran-tus-o
+ jos-1/
+LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Federico. No hay olvido\, ni sueño: Carne viva
@@ -224,7 +224,7 @@ SUMMARY:"Una habitación propia"\, de VIRGINIA WOOLF
 DTSTART;TZID=Europe/Madrid:20260920T180000
 UID:8cc75641731bb28413a274a208765f9bea2e5c33165d8cb6a0d6a20ff1c7c0ee
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 20 plazas!\n\nhttps://teatrodelbarrio.com/una
+DESCRIPTION:¡Ya solo quedan 19 plazas!\n\nhttps://teatrodelbarrio.com/una
  -habitacion-propia-de-virginia-woolf/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
@@ -235,6 +235,14 @@ UID:34695477a163b5c78061f1d1c6df5b2b4eaccf4d89bc2355d624375783937bfc
 CATEGORIES:theater
 DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/chistes-contra-franc
  o/
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La mujer fascista
+DTSTART;TZID=Europe/Madrid:20260921T193000
+UID:72313858c6e90c96274769c6b8985b83d68eeb4829f744844b4678903bd185f7
+CATEGORIES:theater
+DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/la-mujer-fascista/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 END:VCALENDAR

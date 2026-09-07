@@ -1,29 +1,7 @@
 Eirene feed debug
-Total events: 5
+Total events: 3
 
-[1] Mercado Productores Planetario
-  id: 0a7264ba1d969da09db51a7689b345619f4cdd86f861fc2ebc7a5e1d41c46f64
-  start: 2026-09-06T10:00:00+02:00
-  end: 2026-09-06T16:00:00+02:00
-  category: market
-  source: mercado_productores
-  location: Mercado Productores Planetario - Avenida del Planetario esquina Calle Meneses, Madrid
-  coordinates: 40.392053, -3.679427
-  url: https://mercadoproductores.es/mp-planetario/
-  description: Mercado de productores locales y artesanos en Planetario con alimentacion sostenible, productos de cercania y actividades al aire libre.
-
-[2] Mercadillo de Minerales de la Escuela de Minas
-  id: e82b158d7307f4adb4207085da55b488ff79d3112265e9a57f4a772df5a3a504
-  start: 2026-09-06T10:00:00+02:00
-  end: 2026-09-06T14:00:00+02:00
-  category: market
-  source: mercadillo_minerales
-  location: Escuela Superior de Ingenieros de Minas - Calle Rios Rosas, 21, Madrid
-  coordinates: 40.442576, -3.700177
-  url: https://www.esmadrid.com/agenda/mercadillo-minerales-madrid-escuela-superior-ingenieros-minas
-  description: Mercadillo de minerales, fosiles, gemas y conchas en la Escuela Superior de Ingenieros de Minas (primer domingo de cada mes, excepto agosto).
-
-[3] Mercado Productores Alcobendas
+[1] Mercado Productores Alcobendas
   id: 7b2399d408fd3d072665a59f3140c01b5e3083fef7fde0bbc5c14d07cc325f82
   start: 2026-09-13T10:00:00+02:00
   end: 2026-09-13T16:00:00+02:00
@@ -34,7 +12,7 @@ Total events: 5
   url: https://mercadoproductores.es/mp-alcobendas/
   description: Mercado de productores locales y artesanos en Alcobendas con alimentos de proximidad y propuestas gastronomicas.
 
-[4] Mercado de las Ranas
+[2] Mercado de las Ranas
   id: f1fed8ae3af7b57249e124372ae548b12591c4d28cfe06b947d7354932196dbb
   start: 2026-09-19T12:00:00+02:00
   end: 2026-09-19T20:00:00+02:00
@@ -45,7 +23,7 @@ Total events: 5
   url: https://barrioletras.com/mercado-de-las-ranas/
   description: Mercado del Barrio de las Letras con puestos de artesanía, diseño, moda y gastronomía en la calle Huertas.
 
-[5] Mercado Productores Planetario
+[3] Mercado Productores Planetario
   id: 22bd9529e3c3b9bf7a6063fcec1b43119bb57344a076b4e80d5922dd70a35310
   start: 2026-09-20T10:00:00+02:00
   end: 2026-09-20T16:00:00+02:00
