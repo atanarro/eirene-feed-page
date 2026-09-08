@@ -28,16 +28,6 @@ DESCRIPTION:Ángela Conde presenta un monólogo dramático que busca rendi
 LOCATION:Teatro Infanta Isabel - Calle del Barquillo\, 24\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:La biblioteca va al teatro: una visita de la biblio de Bellas Arte
- s UCM a Teatro del Barrio
-DTSTART;TZID=Europe/Madrid:20260907T160000
-UID:88fcc8c33b3ddf0395d45fb29d628dc83a4353879a86ab4f8e020e67826aa16a
-CATEGORIES:theater
-DESCRIPTION:Programación en Teatro del Barrio\n\nhttps://teatrodelbarrio.
- com/de-la-biblo-de-bbaa-al-barrio/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Vendrán los alienígenas y tendrán tus ojos
 DTSTART;TZID=Europe/Madrid:20260908T193000
 DTEND;TZID=Europe/Madrid:20260920T193000
@@ -244,5 +234,26 @@ UID:72313858c6e90c96274769c6b8985b83d68eeb4829f744844b4678903bd185f7
 CATEGORIES:theater
 DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/la-mujer-fascista/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:¿Descansa en paz? — El derecho a un entierro digno en España
+DTSTART;TZID=Europe/Madrid:20260922T190000
+UID:6e02b7143180a3fec7b94813fd5150183d645be7178832efd9d281f0da05fecf
+CATEGORIES:theater
+DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/descansa-en-paz-el-d
+ erecho-a-un-entierro-digno-en-espana/
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La ópera de los tres centavos con Coque Malla
+DTSTART;TZID=Europe/Madrid:20260922T193000
+DTEND;TZID=Europe/Madrid:20261106T193000
+UID:d83b0aeadd6bbbf29203317652b8044624c92e450eb082ace43493cb69f5248b
+CATEGORIES:theater
+DESCRIPTION:El actor y músico Coque Malla lidera esta versión contempor
+ ánea del clásico de Bertolt Brecht: La ópera del mendigo (Teatro Infan
+ ta Isabel. Martes a domingos. | Mar-sáb: 19:30 h Domingos: 19:00 h\n\nhtt
+ ps://www.teatroinfantaisabel.es/obra/la-opera-de-los-tres-centavos/
+LOCATION:Teatro Infanta Isabel - Calle del Barquillo\, 24\, Madrid
 END:VEVENT
 END:VCALENDAR

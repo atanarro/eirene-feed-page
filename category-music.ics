@@ -2,31 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:7XMEDIO NEW FLAMENCO JAZZ
-DTSTART;TZID=Europe/Madrid:20260907T200000
-DTEND;TZID=Europe/Madrid:20260908T220000
-UID:d05ff6883c34528e246cd93bea2d3baf6386d3e8918d605c1c6b4eef5fac0ac8
-CATEGORIES:music
-DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
-  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h. \n \nJo
- sé Luis Hernández – cante\nEnrique Rodríguez «Enriquito» – trompe
- ta\nJosé María «Petaca» – piano\nJuanfe Pérez – bajo\nKike Terró
- n – percusión \n“Siete x Medio” es una banda de cinco músicos reco
- nocidos dentro de la escena del flamenco\, todos ellos tienen ya un amplio
-  recorrido en su carrera y han compartido escenario con muchos de los arti
- stas más importantes dentro de este genero como Jorge Pardo\, Josemi Carm
- ona o Javier Colina por citar algunos.\nEs un proyecto que nace desde las 
- bases del flamenco\, pero que tiene la necesidad de viajar hacia otros mun
- dos como el de el jazz o la música afro americana.\nEl amplio universo mu
- sical de cada uno de sus componentes forma una rica amalgama de ritmos\, c
- olores y texturas que tienen como resultado una propuesta fresca y enérgi
- ca donde la improvisación se convierte en motor creativo y cada interpret
- ación adquiere un carácter único. \nSanta Catalina\, 10. Pases: 20:00h.
-  y 22:00h.\n\nhttps://ateneodemadrid.com/evento/7xmedio-new-flamenco-jazz-
- cafe-central-ateneo/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CAROLINA MAMA
 DTSTART;TZID=Europe/Madrid:20260909T200000
 DTEND;TZID=Europe/Madrid:20260909T220000
@@ -385,6 +360,16 @@ UID:99c2e7344f1721306aa842e24aa895bd936bda107d464772808a5fa53a668da4
 CATEGORIES:music
 DESCRIPTION:Concierto / Villanos del Jazz\n\nhttps://salavillanos.es/event
  o/moses-yoofee-trio-2/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FIESTA BISTEC MUSIC Brava\, Bella Kanela\, Estrellas del Rap Nacio
+ nal\, Yero G
+DTSTART;TZID=Europe/Madrid:20260922T203000
+UID:0226c5b4ec3455b01e52d7219628fc0cd28bf44529f5fc7996007157cb85b31b
+CATEGORIES:music
+DESCRIPTION:Concierto / Hip Hop & Rap\n\nhttps://salavillanos.es/evento/fi
+ esta-bistec-music-brava-bella-kanela-estrellas-del-rap-nacional-yero-g/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 END:VCALENDAR
