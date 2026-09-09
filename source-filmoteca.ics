@@ -2,34 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Variety
-DTSTART;TZID=Europe/Madrid:20260908T173000
-UID:49471cf17d83acebe290b628679a99a7871f4b317766141764749817be8ca073
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Martes 8 de septiembre a las 17:30h (Sala 1. Mir
- adas proyectadas. Salas y espectadores: Encuentros a oscuras) *Aunque las 
- entradas aparezcan como agotadas en web\, pueden adquirirse en taquilla en
- tradas para las sesiones del día (de 17h a 20h)\n\nRelease year: 1985\n\n
- Original language: EN\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/pro
- ductos/descripcion/variety-8-sep
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Un mañana mejor
-DTSTART;TZID=Europe/Madrid:20260908T200000
-UID:a62daa125088740db1b66a9e28ae8a778a3754d7aaba167e84fc675daee446e1
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Martes 8 de septiembre a las 20:00h (Sala 1. Hon
- g Kong. Los años del neón) *Aunque las entradas aparezcan como agotadas 
- en web\, pueden adquirirse en taquilla entradas para las sesiones del día
-  (de 17h a 20h)\n\nOriginal title: 英雄本色\n\nRelease year: 1986\n\nO
- riginal language: CN\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/prod
- uctos/descripcion/un-mañana-mejor
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:La patrulla de la muerte
 DTSTART;TZID=Europe/Madrid:20260909T173000
 UID:435d4e4eac5f56b0ec5b31edde3abf4d5b333cafad3bc2bcc23f63849c9c6c16
@@ -471,6 +443,47 @@ DESCRIPTION:Fecha y Hora: Martes 22 de septiembre a las 20:00h (Sala 1. Mi
  ntradas para las sesiones del día (de 17h a 20h)\n\nOriginal title: شی
  رین\n\nRelease year: 2009\n\nOriginal language: FA\n\nhttps://entradasf
  ilmoteca.sacatuentrada.es/es/productos/descripcion/shirin-22-sep
+LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
+ \, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Matinee
+DTSTART;TZID=Europe/Madrid:20260923T173000
+UID:1b077d30f1e82aa0c9ab643cee92d289f64440b900303ceda4592be8a5ee16a3
+CATEGORIES:cinema
+DESCRIPTION:Fecha y Hora: Miércoles 23 de septiembre a las 17:30h (Sala 1
+ . Miradas proyectadas. Salas y espectadores: Encuentros a oscuras) *Aunque
+  las entradas aparezcan como agotadas en web\, pueden adquirirse en taquil
+ la entradas para las sesiones del día (de 17h a 20h)\n\nRelease year: 199
+ 3\n\nOriginal language: EN\n\nhttps://entradasfilmoteca.sacatuentrada.es/e
+ s/productos/descripcion/matinee-23-sep
+LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
+ \, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Generación
+DTSTART;TZID=Europe/Madrid:20260923T190000
+UID:45058e0b3d205d675c8951e6f4adeef7352cbda380cd79c5182bfd3f410f76c2
+CATEGORIES:cinema
+DESCRIPTION:Fecha y Hora: Miércoles 23 de septiembre a las 19:00h (Sala 2
+ . Andrzej Wajda. Entre el mito y la historia) *Aunque las entradas aparezc
+ an como agotadas en web\, pueden adquirirse en taquilla entradas para las 
+ sesiones del día (de 17h a 20h)\n\nOriginal language: EN\n\nhttps://entra
+ dasfilmoteca.sacatuentrada.es/es/productos/descripcion/generacion-23-sep
+LOCATION:Filmoteca Espanola - Cine Dore Sala 2 - Calle de Santa Isabel\, 3
+ \, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fallen Angels
+DTSTART;TZID=Europe/Madrid:20260923T200000
+UID:fd46bafb090f79fed9bf324497781dcebca439a646c4ce3a39895f80f851d66f
+CATEGORIES:cinema
+DESCRIPTION:Fecha y Hora: Miércoles 23 de septiembre a las 20:00h (Sala 1
+ . Hong Kong. Los años del neón) *Aunque las entradas aparezcan como agot
+ adas en web\, pueden adquirirse en taquilla entradas para las sesiones del
+  día (de 17h a 20h)\n\nRelease year: 2026\n\nOriginal language: EN\n\nhtt
+ ps://entradasfilmoteca.sacatuentrada.es/es/productos/descripcion/fallen-an
+ gels
 LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
  \, Madrid
 END:VEVENT

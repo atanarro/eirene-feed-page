@@ -29,7 +29,7 @@ LOCATION:Teatro Infanta Isabel - Calle del Barquillo\, 24\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vendrán los alienígenas y tendrán tus ojos
-DTSTART;TZID=Europe/Madrid:20260908T193000
+DTSTART;TZID=Europe/Madrid:20260909T193000
 DTEND;TZID=Europe/Madrid:20260920T193000
 UID:f5e433f6bf0e495984e1ced0c19bb9734a38825c89ba0c450032265b08903891
 CATEGORIES:theater
@@ -255,5 +255,22 @@ DESCRIPTION:El actor y músico Coque Malla lidera esta versión contempor
  ta Isabel. Martes a domingos. | Mar-sáb: 19:30 h Domingos: 19:00 h\n\nhtt
  ps://www.teatroinfantaisabel.es/obra/la-opera-de-los-tres-centavos/
 LOCATION:Teatro Infanta Isabel - Calle del Barquillo\, 24\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEXY BOY (Un estudio de etiología). SURGE MADRID EN OTOÑO
+DTSTART;TZID=Europe/Madrid:20260923T193000
+UID:3c9cc77d7f87b652f46279efbe1507afa3d4ff4e0610eb72aa9442b2b2f2dca0
+CATEGORIES:theater
+DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/sexy-boy-un-estudio-
+ de-etiologia-surge-madrid-en-otono/
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chao. Una crónica improvisada
+DTSTART;TZID=Europe/Madrid:20260923T221500
+UID:4cc97e7e7f6aacddf9acba2696c5732ebbfb5276c1b4e08ad484150f2729c1b3
+CATEGORIES:theater
+DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/chao/
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 END:VCALENDAR
