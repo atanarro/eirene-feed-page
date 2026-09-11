@@ -2,47 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Las dos memorias
-DTSTART;TZID=Europe/Madrid:20260910T173000
-UID:9cf261a9a9ac03b6aded4ffde98f562397433d4c35e94fcdab288334530cb44b
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora : Jueves 10 de septiembre a las 17:30h (Sala 1. A
- rchivo inquieto. Memoria en movimiento) *Aunque las entradas aparezcan com
- o agotadas en web\, pueden adquirirse en taquilla entradas para las sesion
- es del día (de 17h a 20h)\n\nhttps://entradasfilmoteca.sacatuentrada.es/e
- s/productos/descripcion/las-dos-memorias
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Shirin
-DTSTART;TZID=Europe/Madrid:20260910T190000
-UID:7fd8e9455ebacffdf563abd380da41127353a5eab92dbec6c84643f96061935e
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Jueves 10 de septiembre a las 19:00h (Sala 2. Mi
- radas proyectadas. Salas y espectadores: Encuentros a oscuras) *Aunque las
-  entradas aparezcan como agotadas en web\, pueden adquirirse en taquilla e
- ntradas para las sesiones del día (de 17h a 20h)\n\nOriginal title: شی
- رین\n\nRelease year: 2009\n\nOriginal language: FA\n\nhttps://entradasf
- ilmoteca.sacatuentrada.es/es/productos/descripcion/shirin
-LOCATION:Filmoteca Espanola - Cine Dore Sala 2 - Calle de Santa Isabel\, 3
- \, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:City on Fire
-DTSTART;TZID=Europe/Madrid:20260910T203000
-UID:04467856b5ed907458b5380cb1138b1d1e5b46299e8eedce06f2d4cc8423cd07
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Jueves 10 de septiembre a las 20:30h (Sala 1. Ho
- ng Kong. Los años del neón) *Aunque las entradas aparezcan como agotadas
-  en web\, pueden adquirirse en taquilla entradas para las sesiones del dí
- a (de 17h a 20h)\n\nOriginal title: 龍虎風雲\n\nRelease year: 1987\n\n
- Original language: CN\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/pro
- ductos/descripcion/city-on-fire
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:La ley de la frontera
 DTSTART;TZID=Europe/Madrid:20260911T173000
 UID:852e4acf7bf3a716f4961a9881e0df277ad2129aa5c27ff93dcb22b60bda550e
@@ -484,6 +443,48 @@ DESCRIPTION:Fecha y Hora: Jueves 24 de septiembre a las 20:00h (Sala 1. Ho
   sesiones del día (de 17h a 20h)\n\nRelease year: 2018\n\nOriginal langua
  ge: ES\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/productos/descripc
  ion/roma
+LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
+ \, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Made in Hong Kong
+DTSTART;TZID=Europe/Madrid:20260925T173000
+UID:8eaee4a47bad960167b1a7784d70735f1df0b195c51df0aa24d3738b83ab5a66
+CATEGORIES:cinema
+DESCRIPTION:Fecha y Hora: Viernes 25 de septiembre a las 17:30h (Sala 1. H
+ ong Kong. Los años del neón) *Aunque las entradas aparezcan como agotada
+ s en web\, pueden adquirirse en taquilla entradas para las sesiones del d
+ ía (de 17h a 20h)\n\nOriginal title: 香港製造\n\nRelease year: 1997\n
+ \nOriginal language: CN\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/p
+ roductos/descripcion/made-in-hong-kong-25-sep
+LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
+ \, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La patrulla de la muerte
+DTSTART;TZID=Europe/Madrid:20260925T190000
+UID:1407e05ebe9f3c4be05896c2c4f7857de8d3013e250e81a0cbd41ecfea15112c
+CATEGORIES:cinema
+DESCRIPTION:Fecha y Hora: Viernes 25 de septiembre a las 19:00h (Sala 2. A
+ ndrzej Wajda. Entre el mito y la historia) *Aunque las entradas aparezcan 
+ como agotadas en web\, pueden adquirirse en taquilla entradas para las ses
+ iones del día (de 17h a 20h)\n\nOriginal title: Kanał\n\nRelease year: 1
+ 957\n\nOriginal language: PL\n\nhttps://entradasfilmoteca.sacatuentrada.es
+ /es/productos/descripcion/la-patrulla-de-la-muerte-25-sep
+LOCATION:Filmoteca Espanola - Cine Dore Sala 2 - Calle de Santa Isabel\, 3
+ \, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La vida útil
+DTSTART;TZID=Europe/Madrid:20260925T200000
+UID:c05596d7797e073ce68fdcf2d6666ec825fafcdf05cb63b5eee4765ffde6b491
+CATEGORIES:cinema
+DESCRIPTION:Fecha y Hora: Viernes 25 de septiembre a las 20:00h (Sala 1. M
+ iradas proyectadas. Salas y espectadores: Encuentros a oscuras) *Aunque la
+ s entradas aparezcan como agotadas en web\, pueden adquirirse en taquilla 
+ entradas para las sesiones del día (de 17h a 20h)\n\nRelease year: 2010\n
+ \nOriginal language: ES\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/p
+ roductos/descripcion/la-vida-util
 LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
  \, Madrid
 END:VEVENT

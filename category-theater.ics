@@ -29,7 +29,7 @@ LOCATION:Teatro Infanta Isabel - Calle del Barquillo\, 24\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vendrán los alienígenas y tendrán tus ojos
-DTSTART;TZID=Europe/Madrid:20260910T193000
+DTSTART;TZID=Europe/Madrid:20260911T193000
 DTEND;TZID=Europe/Madrid:20260920T193000
 UID:f5e433f6bf0e495984e1ced0c19bb9734a38825c89ba0c450032265b08903891
 CATEGORIES:theater
@@ -40,20 +40,11 @@ LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Taxidermia de una alondra
-DTSTART;TZID=Europe/Madrid:20260910T193000
-UID:64919b7682f32e8da72e5ff3d41605d0672130f0a02bc8b32a3578d9204ff42c
-CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 23 plazas!\n\nhttps://teatrodelbarrio.com/tax
- idermia-de-una-alondra/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Taxidermia de una alondra
 DTSTART;TZID=Europe/Madrid:20260911T193000
 UID:d05a1ab4beedcd0337714e4b95a05c1f182b14a904aa5da6c1336f47ecf6c6bc
 CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/taxidermia-de-una-al
- ondra/
+DESCRIPTION:¡Ya solo quedan 15 plazas!\n\nhttps://teatrodelbarrio.com/tax
+ idermia-de-una-alondra/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -95,8 +86,8 @@ SUMMARY:Taxidermia de una alondra
 DTSTART;TZID=Europe/Madrid:20260913T203000
 UID:740e69b45d915b0df606c80dd52505bc9a569159f44391e0e9874050a4ba6cd4
 CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/taxidermia-de-una-al
- ondra/
+DESCRIPTION:¡Ya solo quedan 24 plazas!\n\nhttps://teatrodelbarrio.com/tax
+ idermia-de-una-alondra/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -121,7 +112,8 @@ SUMMARY:Futurock Madrid
 DTSTART;TZID=Europe/Madrid:20260915T220000
 UID:e2b1d9ac85bf441882189d47a2d31e934f52f7726878fb49b6a4ee65c675a200
 CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/futurock-madrid/
+DESCRIPTION:¡Ya solo quedan 22 plazas!\n\nhttps://teatrodelbarrio.com/fut
+ urock-madrid/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -279,8 +271,25 @@ SUMMARY:Manuel Castulo (cante) y Antonio Carrión (toque). PEÑA FLAMENCA
 DTSTART;TZID=Europe/Madrid:20260924T221500
 UID:f1fdee0c950cf10831fcda2c8baa28b40ebe2b47de35c86610d43781d18f5787
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 21 plazas!\n\nhttps://teatrodelbarrio.com/man
+DESCRIPTION:¡Ya solo quedan 19 plazas!\n\nhttps://teatrodelbarrio.com/man
  uel-castulo-cante-y-antonio-carrion-toque-pena-flamenca-de-lavapies/
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Un verano por metro cuadrado
+DTSTART;TZID=Europe/Madrid:20260925T193000
+UID:f4c1532e718d8acfeaaea9fa3800b86367e3304028655c2550a2be879714c7b2
+CATEGORIES:theater
+DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/un-verano-por-metro-
+ cuadrado/
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Malas
+DTSTART;TZID=Europe/Madrid:20260925T221500
+UID:5e5d0aa42130d3cb5396170906bd30130a740ada731ffadc91a3cecd0b9fa539
+CATEGORIES:theater
+DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/malas/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 END:VCALENDAR

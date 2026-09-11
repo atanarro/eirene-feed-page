@@ -2,53 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Este cuerpo mío
-DTSTART;TZID=Europe/Madrid:20260910T190000
-UID:4d6ac753b1aa3b1ca731846abbad124da2e0e537b63e2aa41296caf1b7a4dd3c
-CATEGORIES:cinema
-DESCRIPTION:Unidos por una amistad inquebrantable\, Rafael y Carolina se l
- anzan a un viaje emocional y geográfico en busca de reconciliación y ace
- ptación. A lo largo del camino\, acompañamos a Rafael en los primeros a
- ños de su transición de género: un proceso íntimo\, lleno de retos\, d
- escubrimientos y pequeñas victorias que lo acercan a ese metro cuadrado d
- e paz que tanto ansía. Una historia luminosa donde la amistad se conviert
- e en refugio y lo personal se expande hasta volverse universal. Entre pais
- ajes remotos y momentos de vulnerabilidad compartida\, la película desvel
- a la belleza —y también la dureza— de habitar un cuerpo en transforma
- ción en un mundo que apenas comienza a aprender a mirar.\n\nRelease year:
-  2026\n\nOriginal language: ES\n\nhttps://www.cinetecamadrid.com/programac
- ion/este-cuerpo-mio-0
-LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sesión de cortometrajes 2 - DbWS 2026
-DTSTART;TZID=Europe/Madrid:20260910T200000
-UID:d2bbf0aa46c8c07ed3895a39204b0afa0b6e8a843bfc460cb580ffe91476019c
-CATEGORIES:cinema
-DESCRIPTION:Dark eta biok (Ainhoa Urgoitia Santamaría\, 2026\, 12') Dark 
- sufrió violencia hasta encontrarse con Arantxa. Syra encontró en los cab
- allos un lugar donde ser ella misma y no sentirse sola. Juntas han constru
- ido una familia y un camino.\n\nAudio: VOSE\n\nhttps://www.cinetecamadrid.
- com/programacion/sesion-de-cortometrajes-2-dbws-2026
-LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Voces del cine europeo contemporáneo: Gala Hernández López y El
- ena López Riera
-DTSTART;TZID=Europe/Madrid:20260910T203000
-UID:aa5ea6553d0f1a463cbc34233e97eb518037f5f5fc5912e6d585776dfb2a89d6
-CATEGORIES:cinema
-DESCRIPTION:10K (Gala Hernández López\, España–Francia\, 2025\, 32') 
- Pol tiene 21 años y vive con su abuela. Sueña con vivir en Miami y ganar
-  10k€ al mes. Asiste a eventos de desarrollo personal\, sigue a coaches 
- en línea e invierte en criptomonedas. Pol no sabe cuándo alcanzará su o
- bjetivo de convertirse en la mejor versión de sí mismo. Lo único que sa
- be es que\, algún día\, lo conseguirá.\n\nAudio: VOSE\n\nhttps://www.ci
- netecamadrid.com/programacion/voces-del-cine-europeo-contemporaneo-gala-he
- rnandez-lopez-y-elena-lopez-riera
-LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:El silencio de otros
 DTSTART;TZID=Europe/Madrid:20260911T180000
 UID:06a535f2c109778b9cf06a8e107416d5cfb0852a37d8f0f63c1b8d7f2b53f25d
@@ -68,12 +21,12 @@ SUMMARY:Damien Jalet. Sesión de videoclips
 DTSTART;TZID=Europe/Madrid:20260911T190000
 UID:426fa82c36603257be2de3a3cdcc922193e46e8e4c5ce251fdd6eae7b1cb2661
 CATEGORIES:cinema
-DESCRIPTION:Thom Yorke: Anima (Paul Thomas Anderson\, 2020\, 15') Elton Jo
- hn\, Brandi Carlile: Swing for the Fences (Xavier Dolan\, 2025\, 4') Koki 
- Nakano: Train Train (Benjamin Seroussi\, 2020\, 3') Koki Nakano: Oceanic F
- eeling (Benjamin Seroussi\, 2023\, 5') Madonna: Confessions II (Torso\, 20
- 26\, 14') Gener8ion feat. Yung Lean: Storm (Romain Gavras\, 2026\, 8') Ól
- öf Arnalds feat. Björk: Surrender (Arni & Kinski\, 2010\, 5')\n\nhttps:/
+DESCRIPTION:Ólöf Arnalds feat. Björk: Surrender (Arni & Kinski\, 2010\,
+  5') Koki Nakano: Train Train (Benjamin Seroussi\, 2020\, 3') Koki Nakano:
+  Oceanic Feeling (Benjamin Seroussi\, 2023\, 5') Elton John\, Brandi Carli
+ le: Swing for the Fences (Xavier Dolan\, 2025\, 4') Thom Yorke: Anima (Pau
+ l Thomas Anderson\, 2020\, 15') Madonna: Confessions II (Torso\, 2026\, 14
+ ') Gener8ion feat. Yung Lean: Storm (Romain Gavras\, 2026\, 8')\n\nhttps:/
  /www.cinetecamadrid.com/programacion/damien-jalet-sesion-de-videoclips
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
@@ -561,15 +514,12 @@ SUMMARY:Instrucciones para un sueño colectivo
 DTSTART;TZID=Europe/Madrid:20260920T190000
 UID:9b44d20f17bf9bb3106304787e27e30acaae6fa8c765bdca12658ee0de99561c
 CATEGORIES:cinema
-DESCRIPTION:div#sliding-popup\, div#sliding-popup .eu-cookie-withdraw-bann
- er\, .eu-cookie-withdraw-tab {background: #d9d9d9} div#sliding-popup.eu-co
- okie-withdraw-wrapper { background: transparent\; } #sliding-popup h1\, #s
- liding-popup h2\, #sliding-popup h3\, #sliding-popup p\, #sliding-popup la
- bel\, #sliding-popup div\, .eu-cookie-compliance-more-button\, .eu-cookie-
- compliance-secondary-button\, .eu-cookie-withdraw-tab { color: #333333\;} 
- .eu-cookie-withdraw-tab { border-color: #333333\;} Instrucciones para un s
- ueño colectivo | Cineteca\n\nhttps://www.cinetecamadrid.com/programacion/
- instrucciones-para-un-sueno-colectivo
+DESCRIPTION:Más allá de las historias\, más allá de la ilusión de un 
+ orden cerrado y estable\, estamos sobre todo atravesados por instantes\, i
+ mágenes\, fragmentos. Reapropiarnos de esas imágenes\, hacernos conscien
+ tes de ellas\, hacerlas nuestras\, es\, también\, hacer cine\, con una vo
+ luntad colectiva.\n\nhttps://www.cinetecamadrid.com/programacion/instrucci
+ ones-para-un-sueno-colectivo
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -685,6 +635,57 @@ DESCRIPTION:Icemeltland Park (Liliana Colombo\, Reino Unido-Italia\, 2020
  \, convertido mediante selfis y sonrisas en un apocalíptico parque temát
  ico.\n\nAudio: VOSE\n\nhttps://www.cinetecamadrid.com/programacion/la-infi
  nita-fiesta-final
+LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colectivo Neozoon: navegar\, observar\, reeditar
+DTSTART;TZID=Europe/Madrid:20260925T190000
+UID:632bd102936963e1ff85932ea018a5e3409d4cfe503d163d1e48054358b318ea
+CATEGORIES:cinema
+DESCRIPTION:El colectivo de realizadoras Neozoon lleva a cabo\, desde hace
+  quince años\, una lectura única de las redes sociales y de la ciudadan
+ ía que las puebla y nutre. A partir de asombrosos remontajes rítmicos y 
+ collagísticos\, ahondan en los comportamientos sociales colectivos desmen
+ uzando sus autorepresentaciones y obsesiones\, deambulando entre la divers
+ ión y la incomodidad\, lidiando con conceptos como la fe\, la virilidad\,
+  el sadismo o las complejas relaciones de los seres humanos con el resto d
+ e seres animales. Su mirada sagaz y sus técnicas de montaje diseccionan e
+ l alud de expresiones en la red para formar un ilimitado mosaico de microp
+ antallas\, espejo catártico de nuestra sociedad.\n\nAudio: VOSE\n\nhttps:
+ //www.cinetecamadrid.com/programacion/colectivo-neozoon-navegar-observar-r
+ eeditar
+LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Omega Wants to Dance
+DTSTART;TZID=Europe/Madrid:20260925T200000
+UID:fca35cfad7ced9f0fe499f91e391091fb6cb6d6900cd016ad3bf1d8fb4169228
+CATEGORIES:cinema
+DESCRIPTION:Un viaje en busca de la identidad individual y colectiva a tra
+ vés del baile\, la música\, el pensamiento y la espiritualidad. Un punto
+  de intersección en constante movimiento y en el que binomios como cuerpo
+ /mente\, éxtasis/razón o fe/ciencia protagonizan una coreografía intens
+ a y dinámica llena de historias potentes y de ideas reveladoras. Combinan
+ do testimonios personales\, hechos históricos\, ficción y un electrizant
+ e collage audiovisual\, se exploran las múltiples dimensiones del acto de
+  bailar: diversión\, catarsis\, seducción\, ritual\, crecimiento persona
+ l y\, en definitiva\, una de las formas de expresión humanas primordiales
+ \, entre nosotros y con nuestro entorno.\n\nRelease year: 2024\n\nOriginal
+  language: ES\n\nAudio: VOSE\n\nhttps://www.cinetecamadrid.com/programacio
+ n/omega-wants-dance
+LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Harakiri\, me haces falta
+DTSTART;TZID=Europe/Madrid:20260925T203000
+UID:441d158c82d5b4a587a43b619c66690f8b81bd64bd313ad4663b0b4d27e2fe04
+CATEGORIES:cinema
+DESCRIPTION:Tres jóvenes\, consumidos por deseos no cumplidos\, desarroll
+ an un vínculo tóxico arraigado en el resentimiento hacia las mujeres. A 
+ medida que su rencor se profundiza y sus vidas se salen de control\, se ve
+ n obligados a confrontarse a si mismos.\n\nRelease year: 2025\n\nOriginal 
+ language: ES\n\nhttps://www.cinetecamadrid.com/programacion/harakiri-me-ha
+ ces-falta
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 END:VCALENDAR

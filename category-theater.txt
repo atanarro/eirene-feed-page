@@ -1,5 +1,5 @@
 Eirene feed debug
-Total events: 31
+Total events: 32
 
 [1] Qué difícil es
   id: 261e1f11f0f4c7f9053869b74158fa5337945f9ece75c1996f4036566bb5c5a6
@@ -25,7 +25,7 @@ Total events: 31
 
 [3] Vendrán los alienígenas y tendrán tus ojos
   id: f5e433f6bf0e495984e1ced0c19bb9734a38825c89ba0c450032265b08903891
-  start: 2026-09-10T19:30:00+02:00
+  start: 2026-09-11T19:30:00+02:00
   end: 2026-09-20T19:30:00+02:00
   category: theater
   source: nave_10
@@ -35,17 +35,6 @@ Total events: 31
   description: Entradas disponibles desde 15.00€ | Tags: JOBO
 
 [4] Taxidermia de una alondra
-  id: 64919b7682f32e8da72e5ff3d41605d0672130f0a02bc8b32a3578d9204ff42c
-  start: 2026-09-10T19:30:00+02:00
-  end: N/A
-  category: theater
-  source: teatro_del_barrio
-  location: Teatro del Barrio - Calle de Zurita, 20, Madrid
-  coordinates: 40.4096081, -3.699174
-  url: https://teatrodelbarrio.com/taxidermia-de-una-alondra/
-  description: ¡Ya solo quedan 23 plazas!
-
-[5] Taxidermia de una alondra
   id: d05a1ab4beedcd0337714e4b95a05c1f182b14a904aa5da6c1336f47ecf6c6bc
   start: 2026-09-11T19:30:00+02:00
   end: N/A
@@ -54,9 +43,9 @@ Total events: 31
   location: Teatro del Barrio - Calle de Zurita, 20, Madrid
   coordinates: 40.4096081, -3.699174
   url: https://teatrodelbarrio.com/taxidermia-de-una-alondra/
-  description: Disponible
+  description: ¡Ya solo quedan 15 plazas!
 
-[6] Taxidermia de una alondra
+[5] Taxidermia de una alondra
   id: 886c5e0c6106cf32ea1caaedf508a7def84d9c4671780080c8596380b86c91ed
   start: 2026-09-12T13:00:00+02:00
   end: N/A
@@ -67,7 +56,7 @@ Total events: 31
   url: https://teatrodelbarrio.com/taxidermia-de-una-alondra/
   description: Disponible
 
-[7] El percusionista. 18º aniversario
+[6] El percusionista. 18º aniversario
   id: 3c094bc15f0bc53fc4e76e5a0085201bc7380c6b9fc2f5ed173827901ef7ba3b
   start: 2026-09-12T19:30:00+02:00
   end: N/A
@@ -78,7 +67,7 @@ Total events: 31
   url: https://teatrodelbarrio.com/el-percusionista/
   description: Disponible
 
-[8] POLARIZADAS. Un show de dos zorras polares
+[7] POLARIZADAS. Un show de dos zorras polares
   id: 1c08b8bb06244f43ac5f081eba9bcc148fa046f1c1dccaec037d256ba7e15b58
   start: 2026-09-12T22:15:00+02:00
   end: N/A
@@ -89,7 +78,7 @@ Total events: 31
   url: https://teatrodelbarrio.com/polarizadas-un-show-de-dos-zorras-polares/
   description: Disponible
 
-[9] El percusionista. 18º aniversario
+[8] El percusionista. 18º aniversario
   id: 08a8106e19f64acbaebb7c8cdd7add100cd34251ff2644f1a05c93b047df3f10
   start: 2026-09-13T18:00:00+02:00
   end: N/A
@@ -100,7 +89,7 @@ Total events: 31
   url: https://teatrodelbarrio.com/el-percusionista/
   description: Disponible
 
-[10] Taxidermia de una alondra
+[9] Taxidermia de una alondra
   id: 740e69b45d915b0df606c80dd52505bc9a569159f44391e0e9874050a4ba6cd4
   start: 2026-09-13T20:30:00+02:00
   end: N/A
@@ -109,9 +98,9 @@ Total events: 31
   location: Teatro del Barrio - Calle de Zurita, 20, Madrid
   coordinates: 40.4096081, -3.699174
   url: https://teatrodelbarrio.com/taxidermia-de-una-alondra/
-  description: Disponible
+  description: ¡Ya solo quedan 24 plazas!
 
-[11] La mujer fascista
+[10] La mujer fascista
   id: b9af0f9d917d25471c0033d5db6a369bb8118d4795028e723b7c4267e9d4a1e9
   start: 2026-09-14T19:30:00+02:00
   end: N/A
@@ -122,7 +111,7 @@ Total events: 31
   url: https://teatrodelbarrio.com/la-mujer-fascista/
   description: Disponible
 
-[12] Dos orillas, una voz. Encuentro Coral Chile - España
+[11] Dos orillas, una voz. Encuentro Coral Chile - España
   id: c2f0bc9c1d0621735a8a480f0250127df5ce851161e66e6bcf8873847ad3e019
   start: 2026-09-15T19:00:00+02:00
   end: N/A
@@ -133,7 +122,7 @@ Total events: 31
   url: https://teatrodelbarrio.com/dos-orillas-una-voz-encuentro-coral-chile-espana/
   description: Localidades agotadas
 
-[13] Futurock Madrid
+[12] Futurock Madrid
   id: e2b1d9ac85bf441882189d47a2d31e934f52f7726878fb49b6a4ee65c675a200
   start: 2026-09-15T22:00:00+02:00
   end: N/A
@@ -142,9 +131,9 @@ Total events: 31
   location: Teatro del Barrio - Calle de Zurita, 20, Madrid
   coordinates: 40.4096081, -3.699174
   url: https://teatrodelbarrio.com/futurock-madrid/
-  description: Disponible
+  description: ¡Ya solo quedan 22 plazas!
 
-[14] El hambre imposible
+[13] El hambre imposible
   id: c0e1014116f23b38e7bc00aec6d56e7f193079ca8f69e30250d980511a529f93
   start: 2026-09-16T19:30:00+02:00
   end: N/A
@@ -155,7 +144,7 @@ Total events: 31
   url: https://teatrodelbarrio.com/el-hambre-imposible/
   description: Disponible
 
-[15] La jota del abuelo
+[14] La jota del abuelo
   id: 970e2f1caa40e229ac106bb8ada8f3168588536248bd64c1e950189fc4947e80
   start: 2026-09-17T19:30:00+02:00
   end: N/A
@@ -166,7 +155,7 @@ Total events: 31
   url: https://teatrodelbarrio.com/la-jota-del-abuelo/
   description: Disponible
 
-[16] Federico. No hay olvido, ni sueño: Carne viva
+[15] Federico. No hay olvido, ni sueño: Carne viva
   id: 38d0a33a2539e673ff6db7464c66cc521909adc5acfcee62b73d7d68dfbf4209
   start: 2026-09-18T19:30:00+02:00
   end: N/A
@@ -177,7 +166,7 @@ Total events: 31
   url: https://teatrodelbarrio.com/federico-no-hay-olvido-ni-sueno-carne-viva/
   description: Disponible
 
-[17] Mongolia Show
+[16] Mongolia Show
   id: 4445b71b7e6abc13667b7c19723db6f46c5f0201e1d876864af6e691a31c2ccb
   start: 2026-09-18T22:15:00+02:00
   end: N/A
@@ -188,7 +177,7 @@ Total events: 31
   url: https://teatrodelbarrio.com/mongoliashow/
   description: Disponible
 
-[18] Infiltrado en VOX
+[17] Infiltrado en VOX
   id: 4d1c52f9cce77050cecd545a20ab11e4a01bcbd29171e4326db10855f67eabc8
   start: 2026-09-19T13:00:00+02:00
   end: N/A
@@ -199,7 +188,7 @@ Total events: 31
   url: https://teatrodelbarrio.com/infiltrado-en-vox/
   description: Disponible
 
-[19] Federico. No hay olvido, ni sueño: Carne viva
+[18] Federico. No hay olvido, ni sueño: Carne viva
   id: e0fb5dafd1de82da48391a0b24d02e49bfe996adcebb84a8b9c64a4dccf245ab
   start: 2026-09-19T19:30:00+02:00
   end: N/A
@@ -210,7 +199,7 @@ Total events: 31
   url: https://teatrodelbarrio.com/federico-no-hay-olvido-ni-sueno-carne-viva/
   description: Disponible
 
-[20] Color Esmeralda. Farolillos y travestis
+[19] Color Esmeralda. Farolillos y travestis
   id: 30985af457d6deca80ea7611f236d5ae68ebbd220b941307912d380ded92a16d
   start: 2026-09-19T22:15:00+02:00
   end: N/A
@@ -221,7 +210,7 @@ Total events: 31
   url: https://teatrodelbarrio.com/color-esmeralda-farolillos-y-travestis/
   description: Disponible
 
-[21] AÚPA LERÉ. Percusión para crecer
+[20] AÚPA LERÉ. Percusión para crecer
   id: b921f1680510b93dbdccf8e4fa09c5892a814efe4777730403bf8b7ee8bc5bbe
   start: 2026-09-20T11:00:00+02:00
   end: N/A
@@ -232,7 +221,7 @@ Total events: 31
   url: https://teatrodelbarrio.com/aupa-lere-percusion-para-crecer/
   description: Disponible
 
-[22] Infiltrado en VOX
+[21] Infiltrado en VOX
   id: e626fd097afb3c36e2719e4bdbc376b2c08e49455a6aaa59e42439d178a774f7
   start: 2026-09-20T13:00:00+02:00
   end: N/A
@@ -243,7 +232,7 @@ Total events: 31
   url: https://teatrodelbarrio.com/infiltrado-en-vox/
   description: Disponible
 
-[23] "Una habitación propia", de VIRGINIA WOOLF
+[22] "Una habitación propia", de VIRGINIA WOOLF
   id: 8cc75641731bb28413a274a208765f9bea2e5c33165d8cb6a0d6a20ff1c7c0ee
   start: 2026-09-20T18:00:00+02:00
   end: N/A
@@ -254,7 +243,7 @@ Total events: 31
   url: https://teatrodelbarrio.com/una-habitacion-propia-de-virginia-woolf/
   description: ¡Ya solo quedan 16 plazas!
 
-[24] Chistes contra Franco
+[23] Chistes contra Franco
   id: 34695477a163b5c78061f1d1c6df5b2b4eaccf4d89bc2355d624375783937bfc
   start: 2026-09-20T20:30:00+02:00
   end: N/A
@@ -265,7 +254,7 @@ Total events: 31
   url: https://teatrodelbarrio.com/chistes-contra-franco/
   description: Disponible
 
-[25] La mujer fascista
+[24] La mujer fascista
   id: 72313858c6e90c96274769c6b8985b83d68eeb4829f744844b4678903bd185f7
   start: 2026-09-21T19:30:00+02:00
   end: N/A
@@ -276,7 +265,7 @@ Total events: 31
   url: https://teatrodelbarrio.com/la-mujer-fascista/
   description: Disponible
 
-[26] ¿Descansa en paz? — El derecho a un entierro digno en España
+[25] ¿Descansa en paz? — El derecho a un entierro digno en España
   id: 6e02b7143180a3fec7b94813fd5150183d645be7178832efd9d281f0da05fecf
   start: 2026-09-22T19:00:00+02:00
   end: N/A
@@ -287,7 +276,7 @@ Total events: 31
   url: https://teatrodelbarrio.com/descansa-en-paz-el-derecho-a-un-entierro-digno-en-espana/
   description: Disponible
 
-[27] La ópera de los tres centavos con Coque Malla
+[26] La ópera de los tres centavos con Coque Malla
   id: d83b0aeadd6bbbf29203317652b8044624c92e450eb082ace43493cb69f5248b
   start: 2026-09-22T19:30:00+02:00
   end: 2026-11-06T19:30:00+01:00
@@ -298,7 +287,7 @@ Total events: 31
   url: https://www.teatroinfantaisabel.es/obra/la-opera-de-los-tres-centavos/
   description: El actor y músico Coque Malla lidera esta versión contemporánea del clásico de Bertolt Brecht: La ópera del mendigo (Teatro Infanta Isabel. Martes a domingos. | Mar-sáb: 19:30 h Domingos: 19:00 h
 
-[28] SEXY BOY (Un estudio de etiología). SURGE MADRID EN OTOÑO
+[27] SEXY BOY (Un estudio de etiología). SURGE MADRID EN OTOÑO
   id: 3c9cc77d7f87b652f46279efbe1507afa3d4ff4e0610eb72aa9442b2b2f2dca0
   start: 2026-09-23T19:30:00+02:00
   end: N/A
@@ -309,7 +298,7 @@ Total events: 31
   url: https://teatrodelbarrio.com/sexy-boy-un-estudio-de-etiologia-surge-madrid-en-otono/
   description: Disponible
 
-[29] Chao. Una crónica improvisada
+[28] Chao. Una crónica improvisada
   id: 4cc97e7e7f6aacddf9acba2696c5732ebbfb5276c1b4e08ad484150f2729c1b3
   start: 2026-09-23T22:15:00+02:00
   end: N/A
@@ -320,7 +309,7 @@ Total events: 31
   url: https://teatrodelbarrio.com/chao/
   description: Disponible
 
-[30] SEXY BOY (Un estudio de etiología). SURGE MADRID EN OTOÑO
+[29] SEXY BOY (Un estudio de etiología). SURGE MADRID EN OTOÑO
   id: 05872a155aea8fa31520b9dbe7141e49824b7998399eb6b6b0957824d719df87
   start: 2026-09-24T19:30:00+02:00
   end: N/A
@@ -331,7 +320,7 @@ Total events: 31
   url: https://teatrodelbarrio.com/sexy-boy-un-estudio-de-etiologia-surge-madrid-en-otono/
   description: Disponible
 
-[31] Manuel Castulo (cante) y Antonio Carrión (toque). PEÑA FLAMENCA DE LAVAPIÉS
+[30] Manuel Castulo (cante) y Antonio Carrión (toque). PEÑA FLAMENCA DE LAVAPIÉS
   id: f1fdee0c950cf10831fcda2c8baa28b40ebe2b47de35c86610d43781d18f5787
   start: 2026-09-24T22:15:00+02:00
   end: N/A
@@ -340,4 +329,26 @@ Total events: 31
   location: Teatro del Barrio - Calle de Zurita, 20, Madrid
   coordinates: 40.4096081, -3.699174
   url: https://teatrodelbarrio.com/manuel-castulo-cante-y-antonio-carrion-toque-pena-flamenca-de-lavapies/
-  description: ¡Ya solo quedan 21 plazas!
+  description: ¡Ya solo quedan 19 plazas!
+
+[31] Un verano por metro cuadrado
+  id: f4c1532e718d8acfeaaea9fa3800b86367e3304028655c2550a2be879714c7b2
+  start: 2026-09-25T19:30:00+02:00
+  end: N/A
+  category: theater
+  source: teatro_del_barrio
+  location: Teatro del Barrio - Calle de Zurita, 20, Madrid
+  coordinates: 40.4096081, -3.699174
+  url: https://teatrodelbarrio.com/un-verano-por-metro-cuadrado/
+  description: Disponible
+
+[32] Malas
+  id: 5e5d0aa42130d3cb5396170906bd30130a740ada731ffadc91a3cecd0b9fa539
+  start: 2026-09-25T22:15:00+02:00
+  end: N/A
+  category: theater
+  source: teatro_del_barrio
+  location: Teatro del Barrio - Calle de Zurita, 20, Madrid
+  coordinates: 40.4096081, -3.699174
+  url: https://teatrodelbarrio.com/malas/
+  description: Disponible
