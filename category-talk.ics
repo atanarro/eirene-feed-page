@@ -2,18 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Presentación del libro «Lo que no te cuentan sobre el aborto»
-DTSTART;TZID=Europe/Madrid:20260911T193000
-DTEND;TZID=Europe/Madrid:20260911T193000
-UID:b01d5e8d38cf23ed629c1a7f99c6429f78bde7deca02db2c257c7d6b307f3c2f
-CATEGORIES:talk
-DESCRIPTION:Ponente: Fuencisla Casanova autora del libro. Introduce: Manue
- l Esbert. Presenta y modera: Alfonso Gómez y Belén Rico. Sala Ramón y C
- ajal. 19:30h.\n\nhttps://ateneodemadrid.com/evento/presentacion-del-libro-
- lo-que-no-te-cuentan-sobre-el-aborto/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Encuentro by Women. La creación de una serie o película: Del gui
  on al montaje final
 DTSTART;TZID=Europe/Madrid:20260912T120000
@@ -121,6 +109,20 @@ DESCRIPTION:Agrupaciones Agustín Argüelles y Psicoanalítica Ángel Garm
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Presentación: «14 lecciones de un peregrino. De la montaña... a
+  la vida cotidiana»\, de Iván Vallejo
+DTSTART;TZID=Europe/Madrid:20260914T190000
+UID:8977d7c88abdcb735d1a2f1250501394c4f2034864d830e7b94772b0b0fcb81d
+CATEGORIES:talk
+DESCRIPTION:El alpinista ecuatoriano Iván Vallejo estará el próximo lun
+ es 14 de septiembre\, a las 19 h \, en la librería Desnivel para presenta
+ r su nuevo libro y compartir las experiencias\, dudas y aprendizajes que h
+ an marcado su vida en la montaña.\n\nhttps://www.libreriadesnivel.com/age
+ nda/14-lecciones-de-un-peregrino-de-la-montana-a-la-vida-cotidiana-de-ivan
+ -vallejo/446/
+LOCATION:Libreria Desnivel - Plaza de Matute\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:"Venecia en un espejo"
 DTSTART;TZID=Europe/Madrid:20260914T190000
 DTEND;TZID=Europe/Madrid:20260914T190000
@@ -151,9 +153,10 @@ DTSTART;TZID=Europe/Madrid:20260914T193000
 DTEND;TZID=Europe/Madrid:20260914T193000
 UID:77c9e8e3f051d72a728d76a116394a1f27641cb4a94b6a9595ad8b7e750dba8d
 CATEGORIES:talk
-DESCRIPTION:Sección de mitos\, religiones y humanidades. Interviene: Will
- iams Cárdenas Preside. Presenta: Ana Maestro. Sala Ramón y Cajal. 19:00h
- .\n\nhttps://ateneodemadrid.com/evento/la-hispanidad-nuevos-retos/
+DESCRIPTION:Sección de mitos\, religiones y humanidades. Interviene: Pedr
+ o López Arriba\, Williams Cárdenas Preside. Presenta: Ana Maestro. Sala 
+ Ramón y Cajal. 19:00h.\n\nhttps://ateneodemadrid.com/evento/la-hispanidad
+ -nuevos-retos/
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -357,6 +360,30 @@ CATEGORIES:talk
 DESCRIPTION:Presenta: María Dabán. Autor: José Ignacio Díaz. Sala Ram
  ón y Cajal. 19:00h.\n\nhttps://ateneodemadrid.com/evento/presentacion-del
  -libro-confianza-agustina/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:"Abrazar al Monstruo" Arte y deseo en tiempos del algoritmo
+DTSTART;TZID=Europe/Madrid:20260918T190000
+DTEND;TZID=Europe/Madrid:20260918T190000
+UID:85f8fa1c63bc7a432d21344d729b0e18fa4f457fb974929fffbc031d70a49574
+CATEGORIES:talk
+DESCRIPTION:Festival de las Ideas – Presentación del libro \n \nSecció
+ n de Filosofía. Intervienen: Alberto Barreiro y  J.O.Y – autores\, Car
+ me Artigas\, Jaime García Cantero\, Jone Ojinaga – performance. Bibliot
+ eca. 19:00h.\n\nhttps://ateneodemadrid.com/evento/abrazar-al-monstruo-arte
+ -y-deseo-en-tiempos-del-algoritmo/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El enigma de la calma mental
+DTSTART;TZID=Europe/Madrid:20260918T193000
+DTEND;TZID=Europe/Madrid:20260918T193000
+UID:a63469618b39670784bd19b0e7050ec31f8e5cac5b7fd5dc3a14dfa503e90e7d
+CATEGORIES:talk
+DESCRIPTION:Zoom (aquí)\n\n\n\nPonente: Luis de Rivera. Presenta y modera
+ : Alfonso Gómez y Belén Rico. Sala Ramón y Cajal. 19:00h.\n\nhttps://at
+ eneodemadrid.com/evento/el-enigma-de-la-calma-mental/
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
