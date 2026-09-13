@@ -2,30 +2,16 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Todas las mujeres que habito
-DTSTART;TZID=Europe/Madrid:20260904T210000
-DTEND;TZID=Europe/Madrid:20260912T210000
-UID:dab7f66ca1ffab06ad8cec3b108a87bd6d1f37d051476de9c9aa8ca729b0dee9
+SUMMARY:El percusionista. 18º aniversario
+DTSTART;TZID=Europe/Madrid:20260913T180000
+UID:08a8106e19f64acbaebb7c8cdd7add100cd34251ff2644f1a05c93b047df3f10
 CATEGORIES:theater
-DESCRIPTION:Ángela Conde presenta un monólogo dramático que busca rendi
- r homenaje a las mujeres invisibles de la historia (Teatro Infanta Isabel.
-  4\, 5\, 6\, 11 y 12 septiembre). | 4 y 11 septiembre: 21:00 h 5\, 6 y 12 
- septiembre: 20:00 h\n\nhttps://www.teatroinfantaisabel.es/obra/todas-las-m
- ujeres-que-habito/
-LOCATION:Teatro Infanta Isabel - Calle del Barquillo\, 24\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Taxidermia de una alondra
-DTSTART;TZID=Europe/Madrid:20260912T130000
-UID:886c5e0c6106cf32ea1caaedf508a7def84d9c4671780080c8596380b86c91ed
-CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 28 plazas!\n\nhttps://teatrodelbarrio.com/tax
- idermia-de-una-alondra/
+DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/el-percusionista/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vendrán los alienígenas y tendrán tus ojos
-DTSTART;TZID=Europe/Madrid:20260912T193000
+DTSTART;TZID=Europe/Madrid:20260913T193000
 DTEND;TZID=Europe/Madrid:20260920T193000
 UID:f5e433f6bf0e495984e1ced0c19bb9734a38825c89ba0c450032265b08903891
 CATEGORIES:theater
@@ -33,31 +19,6 @@ DESCRIPTION:Últimas entradas desde 15.00€ | Tags: JOBO\n\nhttps://tiend
  a.madrid-destino.com/es/nave-10/vendran-los-alienigenas-y-tendran-tus-ojos
  -1/
 LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El percusionista. 18º aniversario
-DTSTART;TZID=Europe/Madrid:20260912T193000
-UID:3c094bc15f0bc53fc4e76e5a0085201bc7380c6b9fc2f5ed173827901ef7ba3b
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/el-percusionista/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:POLARIZADAS. Un show de dos zorras polares
-DTSTART;TZID=Europe/Madrid:20260912T221500
-UID:1c08b8bb06244f43ac5f081eba9bcc148fa046f1c1dccaec037d256ba7e15b58
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/polarizadas-un-show-
- de-dos-zorras-polares/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El percusionista. 18º aniversario
-DTSTART;TZID=Europe/Madrid:20260913T180000
-UID:08a8106e19f64acbaebb7c8cdd7add100cd34251ff2644f1a05c93b047df3f10
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/el-percusionista/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Taxidermia de una alondra
@@ -90,7 +51,7 @@ SUMMARY:Futurock Madrid
 DTSTART;TZID=Europe/Madrid:20260915T220000
 UID:e2b1d9ac85bf441882189d47a2d31e934f52f7726878fb49b6a4ee65c675a200
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 17 plazas!\n\nhttps://teatrodelbarrio.com/fut
+DESCRIPTION:¡Ya solo quedan 15 plazas!\n\nhttps://teatrodelbarrio.com/fut
  urock-madrid/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
@@ -175,7 +136,7 @@ SUMMARY:"Una habitación propia"\, de VIRGINIA WOOLF
 DTSTART;TZID=Europe/Madrid:20260920T180000
 UID:8cc75641731bb28413a274a208765f9bea2e5c33165d8cb6a0d6a20ff1c7c0ee
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 16 plazas!\n\nhttps://teatrodelbarrio.com/una
+DESCRIPTION:¡Ya solo quedan 12 plazas!\n\nhttps://teatrodelbarrio.com/una
  -habitacion-propia-de-virginia-woolf/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
@@ -295,6 +256,43 @@ UID:9ccde27e5ce89a61ad8e83086cfe659eac4b26d26b7164536616154ce5767377
 CATEGORIES:theater
 DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/trilogia-del-absurdo
  -primera-parte/
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AÚPA LERÉ. Percusión para crecer
+DTSTART;TZID=Europe/Madrid:20260927T110000
+UID:9378c4bd496f0200e12aba034348dbbe50be2380c30c3a5e7d34a9cc62e2247d
+CATEGORIES:theater
+DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/aupa-lere-percusion-
+ para-crecer/
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trilogía del absurdo. Primera parte
+DTSTART;TZID=Europe/Madrid:20260927T130000
+UID:e6c57d15ed1a29606abb36f924311bd2247e1d708e0287290fbb17a41eefd457
+CATEGORIES:theater
+DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/trilogia-del-absurdo
+ -primera-parte/
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pinocchio(live)#3
+DTSTART;TZID=Europe/Madrid:20260927T200000
+DTEND;TZID=Europe/Madrid:20260927T200000
+UID:9ba3bfd778c74de0692a6758e40fbe523da56ca04b0353d30cac515db61309e5
+CATEGORIES:theater
+DESCRIPTION:Función matinal: 27 SEP 2026 a las 12:00\n\nhttps://dramatico
+ .inaem.gob.es/evento/pinocchiolive3/
+LOCATION:Teatro Valle-Inclán - Plaza de Lavapies\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Un verano por metro cuadrado
+DTSTART;TZID=Europe/Madrid:20260927T203000
+UID:0755f4d0b3930ed5d0352432a4104f26c99cafd8b114be73805147d85de6b37d
+CATEGORIES:theater
+DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/un-verano-por-metro-
+ cuadrado/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 END:VCALENDAR

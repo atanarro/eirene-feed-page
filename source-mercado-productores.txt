@@ -1,5 +1,5 @@
 Eirene feed debug
-Total events: 2
+Total events: 3
 
 [1] Mercado Productores Alcobendas
   id: 7b2399d408fd3d072665a59f3140c01b5e3083fef7fde0bbc5c14d07cc325f82
@@ -22,3 +22,14 @@ Total events: 2
   coordinates: 40.392053, -3.679427
   url: https://mercadoproductores.es/mp-planetario/
   description: Mercado de productores locales y artesanos en Planetario con alimentacion sostenible, productos de cercania y actividades al aire libre.
+
+[3] Mercado Productores Valdebebas
+  id: 920a0b0682fba0365f9b365d91fc7671862398c250d9f0c8cc2b5b0b857ccabe
+  start: 2026-09-27T10:00:00+02:00
+  end: 2026-09-27T16:00:00+02:00
+  category: market
+  source: mercado_productores
+  location: Mercado Productores Valdebebas - Plaza Francisco de Asis Cabrero, Madrid
+  coordinates: 40.48455, -3.609865
+  url: https://mercadoproductores.es/mercado-valdebebas/
+  description: Mercado de productores locales y artesanos en Valdebebas con productos frescos, gourmet y actividades para todos los publicos.
