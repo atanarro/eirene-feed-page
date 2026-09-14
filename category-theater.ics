@@ -2,34 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:El percusionista. 18º aniversario
-DTSTART;TZID=Europe/Madrid:20260913T180000
-UID:08a8106e19f64acbaebb7c8cdd7add100cd34251ff2644f1a05c93b047df3f10
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/el-percusionista/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vendrán los alienígenas y tendrán tus ojos
-DTSTART;TZID=Europe/Madrid:20260913T193000
-DTEND;TZID=Europe/Madrid:20260920T193000
-UID:f5e433f6bf0e495984e1ced0c19bb9734a38825c89ba0c450032265b08903891
-CATEGORIES:theater
-DESCRIPTION:Últimas entradas desde 15.00€ | Tags: JOBO\n\nhttps://tiend
- a.madrid-destino.com/es/nave-10/vendran-los-alienigenas-y-tendran-tus-ojos
- -1/
-LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Taxidermia de una alondra
-DTSTART;TZID=Europe/Madrid:20260913T203000
-UID:740e69b45d915b0df606c80dd52505bc9a569159f44391e0e9874050a4ba6cd4
-CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 1 plazas!\n\nhttps://teatrodelbarrio.com/taxi
- dermia-de-una-alondra/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:La mujer fascista
 DTSTART;TZID=Europe/Madrid:20260914T193000
 UID:b9af0f9d917d25471c0033d5db6a369bb8118d4795028e723b7c4267e9d4a1e9
@@ -47,11 +19,22 @@ DESCRIPTION:Localidades agotadas\n\nhttps://teatrodelbarrio.com/dos-orilla
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Vendrán los alienígenas y tendrán tus ojos
+DTSTART;TZID=Europe/Madrid:20260915T193000
+DTEND;TZID=Europe/Madrid:20260920T193000
+UID:f5e433f6bf0e495984e1ced0c19bb9734a38825c89ba0c450032265b08903891
+CATEGORIES:theater
+DESCRIPTION:Últimas entradas desde 15.00€ | Tags: JOBO\n\nhttps://tiend
+ a.madrid-destino.com/es/nave-10/vendran-los-alienigenas-y-tendran-tus-ojos
+ -1/
+LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Futurock Madrid
 DTSTART;TZID=Europe/Madrid:20260915T220000
 UID:e2b1d9ac85bf441882189d47a2d31e934f52f7726878fb49b6a4ee65c675a200
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 15 plazas!\n\nhttps://teatrodelbarrio.com/fut
+DESCRIPTION:¡Ya solo quedan 13 plazas!\n\nhttps://teatrodelbarrio.com/fut
  urock-madrid/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
@@ -136,8 +119,8 @@ SUMMARY:"Una habitación propia"\, de VIRGINIA WOOLF
 DTSTART;TZID=Europe/Madrid:20260920T180000
 UID:8cc75641731bb28413a274a208765f9bea2e5c33165d8cb6a0d6a20ff1c7c0ee
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 12 plazas!\n\nhttps://teatrodelbarrio.com/una
- -habitacion-propia-de-virginia-woolf/
+DESCRIPTION:¡Ya solo quedan 8 plazas!\n\nhttps://teatrodelbarrio.com/una-
+ habitacion-propia-de-virginia-woolf/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -293,6 +276,14 @@ UID:0755f4d0b3930ed5d0352432a4104f26c99cafd8b114be73805147d85de6b37d
 CATEGORIES:theater
 DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/un-verano-por-metro-
  cuadrado/
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La mujer fascista
+DTSTART;TZID=Europe/Madrid:20260928T193000
+UID:5679a02e14ccaa5b2036d484750efbbed7c466484960e37d23db11fabfcbdc8e
+CATEGORIES:theater
+DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/la-mujer-fascista/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 END:VCALENDAR
