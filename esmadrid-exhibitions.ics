@@ -2,6 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
+SUMMARY:La Odisea. El viaje inmersivo
+DTSTART;TZID=Europe/Madrid:20160918T000000
+DTEND;TZID=Europe/Madrid:20261220T000000
+UID:2b0c761321971c54feddd57f9b063a8bcf6a2194285807efc4eef843a98f78d2
+CATEGORIES:exhibition
+DESCRIPTION:Experiencia inmersiva que transporta a la antigua Grecia del 
+ periodo micénico para revivir\, junto al héroe Odiseo\, las pruebas y av
+ enturas de su largo regreso a Ítaca (MAD.\n\nhttps://madridartesdigitales
+ .com/agenda/
+LOCATION:MAD (Madrid Artes Digitales) Centro de Experiencias Inmersivas - 
+ de Legazpi\, 8\, Madrid\, 28045
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Exponencial. De analógicos a digitales
 DTSTART;TZID=Europe/Madrid:20240514T000000
 DTEND;TZID=Europe/Madrid:20271231T000000
@@ -626,6 +639,18 @@ DESCRIPTION:Exposición que incide en la relación entre la naturaleza y l
 LOCATION:Museo Arqueológico Nacional - de Serrano\, 13\, Madrid\, 28001
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Refusal. Second Fracture. Rafael Milach (PHotoESPAÑA 2026)
+DTSTART;TZID=Europe/Madrid:20260605T000000
+DTEND;TZID=Europe/Madrid:20260927T000000
+UID:b0460599081cf889bf277b7a494df4445c6d1da25223c870673efd3d0d9598f9
+CATEGORIES:exhibition
+DESCRIPTION:Un análisis sobre poder\, propaganda y acción colectiva en E
+ uropa del Este a través de la fotografía contemporánea (Círculo de Bel
+ las Artes - Sala Goya. 5 jun a 27 sept).\n\nhttps://phe.es/exposicion/refu
+ sal-second-fracture/
+LOCATION:Círculo de Bellas Artes - de Alcalá\, 42\, Madrid\, 28014
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ruina Montium. Raphaëlle Peria (PHotoESPAÑA 2026)
 DTSTART;TZID=Europe/Madrid:20260605T000000
 DTEND;TZID=Europe/Madrid:20260927T000000
@@ -902,6 +927,19 @@ DESCRIPTION:EL colectivo PSJM presenta dos proyectos que ofrecen una refle
 LOCATION:Casa de América - de Cibeles\, 2\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Genealogía del hueco. Capítulo Venezuela
+DTSTART;TZID=Europe/Madrid:20260625T000000
+DTEND;TZID=Europe/Madrid:20260927T000000
+UID:b1b4b3a1c155dd26e1d3a1e5e61d87fdac028336968ee110818aaa18885d8a82
+CATEGORIES:exhibition
+DESCRIPTION:Ángela Bonadies y Cristian Guardia proponen una instalación
+  con piezas del Museo de América junto a archivos personales\, piezas 
+ propias y de otras artistas (Museo de Améric\n\nhttps://www.cultura.gob.
+ es/museodeamerica/exposiciones/exposiciones-temporales/2026-genealogia-del
+ -hueco.html
+LOCATION:Museo de América - de los Reyes Católicos\, 6\, Madrid\, 28040
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:La lentitud de la luz. María Lara
 DTSTART;TZID=Europe/Madrid:20260625T000000
 DTEND;TZID=Europe/Madrid:20261115T000000
@@ -1066,19 +1104,6 @@ DESCRIPTION:Varios alumnos de la ETSAM muestran sus trabajos realizados co
  13 oct).\n\nhttps://www.coam.org/actualidad-agenda-coam-escaparate-de-arqu
  itecturas-hormigon-concreto-diseno-experimental-de-lamparas-en-hormigon/
 LOCATION:COAM - de Hortaleza\, 63\, Madrid\, 28004
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Uneasy Riders. La ciudad en ruta
-DTSTART;TZID=Europe/Madrid:20260710T000000
-DTEND;TZID=Europe/Madrid:20261025T000000
-UID:f0b71882fb9daf9839e7ebd60508140731e671dd47e049d8c8c0f8a0ead3fe84
-CATEGORIES:exhibition
-DESCRIPTION:Una mirada antropológica al trabajo de los repartidores a dom
- icilio a través de sus fotos (Museo Nacional de Antropología. Hasta 25 o
- ctubre).\n\nhttps://www.cultura.gob.es/mnantropologia/actividades/agenda/2
- 026/expotemporales2026/riders.html
-LOCATION:Museo Nacional de Antropología - de Alfonso XII\, 68\, Madrid\, 
- 28014
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Valeriano D. Bécquer (1834-1870): Los cuadros de costumbres
@@ -1469,19 +1494,6 @@ LOCATION:Centro Cultural Coreano en España - de la Castellana\, 15\, Madr
  id\, 28046
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:La Odisea. El viaje inmersivo
-DTSTART;TZID=Europe/Madrid:20260918T000000
-DTEND;TZID=Europe/Madrid:20261220T000000
-UID:ac85cef3d39c5e67799edb7633758652d657c08bb8e6c61cd81ad8e393ef501c
-CATEGORIES:exhibition
-DESCRIPTION:Experiencia inmersiva que transporta a la antigua Grecia del 
- periodo micénico para revivir\, junto al héroe Odiseo\, las pruebas y av
- enturas de su largo regreso a Ítaca (MAD.\n\nhttps://madridartesdigitales
- .com/agenda/
-LOCATION:MAD (Madrid Artes Digitales) Centro de Experiencias Inmersivas - 
- de Legazpi\, 8\, Madrid\, 28045
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Un viaje electrizante: Una experiencia inmersiva Iberdrola
 DTSTART;TZID=Europe/Madrid:20260922T000000
 DTEND;TZID=Europe/Madrid:20261020T000000
@@ -1581,5 +1593,18 @@ DESCRIPTION:Una muestra dedicada al miembro destacado del movimiento art
  /exposiciones/kenny-scharf
 LOCATION:Museo Nacional Thyssen-Bornemisza - del Prado\, 8\, Madrid\, 2801
  4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cayetana. Grande de España
+DTSTART;TZID=Europe/Madrid:20260930T000000
+DTEND;TZID=Europe/Madrid:20270131T000000
+UID:d6bd9fd7ba43e12f0048dfb8676e4364116a756697a6addd27e659b46f748620
+CATEGORIES:exhibition
+DESCRIPTION:Exposición dedicada a la XVIII duquesa de Alba destacando su
+  extraordinaria contribución a la conservación del inmenso legado histó
+ rico y artístico de la Casa de Alba (Palacio de Liria.\n\nhttps://www.pal
+ aciodeliria.com/actividades-exposiciones-madrid/exposicion-cayetana-duques
+ a-de-alba
+LOCATION:Palacio de Liria - de la Princesa\, 20\, Madrid\, 28008
 END:VEVENT
 END:VCALENDAR

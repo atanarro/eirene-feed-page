@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:La mujer fascista
-DTSTART;TZID=Europe/Madrid:20260914T193000
-UID:b9af0f9d917d25471c0033d5db6a369bb8118d4795028e723b7c4267e9d4a1e9
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/la-mujer-fascista/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Dos orillas\, una voz. Encuentro Coral Chile - España
 DTSTART;TZID=Europe/Madrid:20260915T190000
 UID:c2f0bc9c1d0621735a8a480f0250127df5ce851161e66e6bcf8873847ad3e019
@@ -34,8 +26,8 @@ SUMMARY:Futurock Madrid
 DTSTART;TZID=Europe/Madrid:20260915T220000
 UID:e2b1d9ac85bf441882189d47a2d31e934f52f7726878fb49b6a4ee65c675a200
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 13 plazas!\n\nhttps://teatrodelbarrio.com/fut
- urock-madrid/
+DESCRIPTION:¡Ya solo quedan 1 plazas!\n\nhttps://teatrodelbarrio.com/futu
+ rock-madrid/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -51,7 +43,8 @@ SUMMARY:La jota del abuelo
 DTSTART;TZID=Europe/Madrid:20260917T193000
 UID:970e2f1caa40e229ac106bb8ada8f3168588536248bd64c1e950189fc4947e80
 CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/la-jota-del-abuelo/
+DESCRIPTION:¡Ya solo quedan 19 plazas!\n\nhttps://teatrodelbarrio.com/la-
+ jota-del-abuelo/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -119,7 +112,7 @@ SUMMARY:"Una habitación propia"\, de VIRGINIA WOOLF
 DTSTART;TZID=Europe/Madrid:20260920T180000
 UID:8cc75641731bb28413a274a208765f9bea2e5c33165d8cb6a0d6a20ff1c7c0ee
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 8 plazas!\n\nhttps://teatrodelbarrio.com/una-
+DESCRIPTION:¡Ya solo quedan 4 plazas!\n\nhttps://teatrodelbarrio.com/una-
  habitacion-propia-de-virginia-woolf/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
@@ -193,7 +186,7 @@ SUMMARY:Manuel Castulo (cante) y Antonio Carrión (toque). PEÑA FLAMENCA
 DTSTART;TZID=Europe/Madrid:20260924T221500
 UID:f1fdee0c950cf10831fcda2c8baa28b40ebe2b47de35c86610d43781d18f5787
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 17 plazas!\n\nhttps://teatrodelbarrio.com/man
+DESCRIPTION:¡Ya solo quedan 14 plazas!\n\nhttps://teatrodelbarrio.com/man
  uel-castulo-cante-y-antonio-carrion-toque-pena-flamenca-de-lavapies/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
@@ -284,6 +277,16 @@ DTSTART;TZID=Europe/Madrid:20260928T193000
 UID:5679a02e14ccaa5b2036d484750efbbed7c466484960e37d23db11fabfcbdc8e
 CATEGORIES:theater
 DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/la-mujer-fascista/
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lectura de relatos de ‘El libro negro de Gaza’: testimonios de
+  un genocidio
+DTSTART;TZID=Europe/Madrid:20260929T190000
+UID:0e9f05a0ccbfc57fe6fec8e0d71feed1d486d5bd77e2c3942bdec6f4a12456d8
+CATEGORIES:theater
+DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/lectura-de-relatos-d
+ e-el-libro-negro-de-gaza-testimonios-de-un-genocidio/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 END:VCALENDAR
