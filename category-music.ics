@@ -2,15 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Kumbia Queers
-DTSTART;TZID=Europe/Madrid:20260915T203000
-UID:8a0bff8d99dc631b616e687a460dfb723fa0bdccf538e9c835aa8aae5134fddd
-CATEGORIES:music
-DESCRIPTION:Concierto / Latin / Urban\n\nhttps://salavillanos.es/evento/ku
- mbia-queers/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Incendios forestales 2026: análisis y propuestas de mejoras opera
  tivas\, tecnológicas y de gestión forestal
 DTSTART;TZID=Europe/Madrid:20260916T190000
@@ -248,6 +239,39 @@ LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
  id
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:FLÁVIA ENNE QUARTET
+DTSTART;TZID=Europe/Madrid:20260921T200000
+DTEND;TZID=Europe/Madrid:20260922T200000
+UID:fbea5d993f81b196517b5e1126430e33126e09bfaa93b0c7e6211c19eb6ea03c
+CATEGORIES:music
+DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
+  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h. \n \nFl
+ ávia Enne – voz\nDiego Ebbeler – piano\nBruno Lopes – contrabajo\nV
+ alentin Iturrat – batería \nFlávia Enne Braga\, nacida en Río de Jane
+ iro\, es cantante\, percusionista y compositora. Vivió 26 años en\nEurop
+ a\, principalmente en Madrid\, donde desarrolló también su faceta de pro
+ ductora cultural.\nFormada en ballet\, fue primera bailarina de la Compañ
+ ía Brasil Tropical y posteriormente se centró en la\nmúsica\, estudiand
+ o canto y percusión. Como bailarina y cantante colaboró con artistas com
+ o Joaquín Sabina\,\nRocío Jurado\, Lolita Flores\, Sergio Dalma y Carmen
+  París\, además de participar en producciones y programas\nde televisió
+ n relacionados con artistas como Phil Collins\, Enrique Iglesias y Joe Zaw
+ inul.\nHa publicado tres CD. En su primer trabajo en solitario\, *Azuera* 
+ (2004)\, contó con músicos como Jaco Abel\,\nMoisés Natenson\, Pablo Ca
+ minero\, Jorge Pardo\, Bernardo Parrilla\, Léo Minax y Carmen París. Su 
+ segundo\nCD\, *Onde é que o caminho sai?*\, contó con arreglos de Yelsy 
+ Heredia y la participación de Fernando de la\nRua\, Carlos Marcuzo\, Luiz
+  Barberia\, Pedro Moreno y Vanessa Borhagian.\nParticipó en festivales de
+  world/jazz music en España y en festivales de Ekaterimburgo\, Tesalónic
+ a y Tallin.\nTambién actuó en España y Portugal con el grupo Zum Zuhe c
+ omo voz líder y percusión.\nDesde 2012\, de vuelta en Brasil\, desarroll
+ a su actividad musical en Río de Janeiro\, vinculada al samba\, bossa\nno
+ va\, MPB\, chorinho y samba jazz. Desde 2016 participa en las actividades 
+ del Grupo 100% Suburbano.\n\nhttps://ateneodemadrid.com/evento/flavia-enne
+ -quartet/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Moses Yoofee Trio
 DTSTART;TZID=Europe/Madrid:20260921T203000
 UID:99c2e7344f1721306aa842e24aa895bd936bda107d464772808a5fa53a668da4
@@ -416,6 +440,34 @@ UID:95505d875335e8db66ffb4286736fc5d6887413751e5fbcad369561ee3aa032d
 CATEGORIES:music
 DESCRIPTION:Concierto / Rock\n\nhttps://salavillanos.es/evento/isabel-van-
  gelder/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El hombre que se enamoró de la Luna #Luna410
+DTSTART;TZID=Europe/Madrid:20260930T200000
+UID:36b5ffac55b0449a10553cd02835e91b64c3074e49a2cdfd1a7f16aa38a13470
+CATEGORIES:music
+DESCRIPTION:El hombre que se enamoró de la Luna #Luna410\n\nEl podcast cu
+ ltural El hombre que se enamoró de la Luna regresa a la Sala Teatro Mirad
+ or para grabar su edición #Luna410\, que estará dedicada a celebrar como
+  se merece la publicación del número 50 de la revista digital Sold Out\,
+  una publicación que\, desde junio del 2022\, se ha hecho un hueco en el 
+ periodismo musical por su compromiso con la música independiente\, la cal
+ idad de sus textos y fotografías y su apuesta por poner en valor a las ba
+ ndas emergentes de nuestra escena.\n\nSerá una noche llena de sorpresas y
+  de buena música donde destacarán la presencia de artistas invitados. La
+  noche en la que La Luna se une\, más que nunca\, a Sold Out.\n\nhttps://
+ lamirador.com/funcion?nombre=el-hombre-que-se-enamoro-de-la-luna-luna410-2
+ 026
+LOCATION:Sala Mirador - Calle Doctor Fourquet\, 31\, 28012 Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sara Hebe
+DTSTART;TZID=Europe/Madrid:20260930T203000
+UID:88a0cf16f0a7d89ab0a943f181f3e3a0555e552abe427a88dbf71dc8092cb413
+CATEGORIES:music
+DESCRIPTION:Concierto / Hip Hop & Rap / Urban\n\nhttps://salavillanos.es/e
+ vento/sara-hebe/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 END:VCALENDAR
