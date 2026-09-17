@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
 SUMMARY:Vendrán los alienígenas y tendrán tus ojos
-DTSTART;TZID=Europe/Madrid:20260916T193000
+DTSTART;TZID=Europe/Madrid:20260917T193000
 DTEND;TZID=Europe/Madrid:20260920T193000
 UID:f5e433f6bf0e495984e1ced0c19bb9734a38825c89ba0c450032265b08903891
 CATEGORIES:theater
@@ -13,19 +13,11 @@ DESCRIPTION:Últimas entradas desde 15.00€ | Tags: JOBO\n\nhttps://tiend
 LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:El hambre imposible
-DTSTART;TZID=Europe/Madrid:20260916T193000
-UID:c0e1014116f23b38e7bc00aec6d56e7f193079ca8f69e30250d980511a529f93
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/el-hambre-imposible/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:La jota del abuelo
 DTSTART;TZID=Europe/Madrid:20260917T193000
 UID:970e2f1caa40e229ac106bb8ada8f3168588536248bd64c1e950189fc4947e80
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 7 plazas!\n\nhttps://teatrodelbarrio.com/la-j
+DESCRIPTION:¡Ya solo quedan 1 plazas!\n\nhttps://teatrodelbarrio.com/la-j
  ota-del-abuelo/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
@@ -43,7 +35,8 @@ SUMMARY:Mongolia Show
 DTSTART;TZID=Europe/Madrid:20260918T221500
 UID:4445b71b7e6abc13667b7c19723db6f46c5f0201e1d876864af6e691a31c2ccb
 CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/mongoliashow/
+DESCRIPTION:¡Ya solo quedan 15 plazas!\n\nhttps://teatrodelbarrio.com/mon
+ goliashow/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -59,7 +52,7 @@ SUMMARY:Federico. No hay olvido\, ni sueño: Carne viva
 DTSTART;TZID=Europe/Madrid:20260919T193000
 UID:e0fb5dafd1de82da48391a0b24d02e49bfe996adcebb84a8b9c64a4dccf245ab
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 28 plazas!\n\nhttps://teatrodelbarrio.com/fed
+DESCRIPTION:¡Ya solo quedan 21 plazas!\n\nhttps://teatrodelbarrio.com/fed
  erico-no-hay-olvido-ni-sueno-carne-viva/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
@@ -280,5 +273,15 @@ CATEGORIES:theater
 DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/jardin-apocalipsis-y
  -la-familia-addams-surge-madrid-en-otono/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Verborrea
+DTSTART;TZID=Europe/Madrid:20261001T193000
+DTEND;TZID=Europe/Madrid:20261101T193000
+UID:1b2916f803e83c65e5889ae9cb9472df5af7592a5ea441dd172ae76745751b8a
+CATEGORIES:theater
+DESCRIPTION:Entradas agotadas desde 15.00€\n\nhttps://tienda.madrid-dest
+ ino.com/es/nave-10/verborrea/
+LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
 END:VEVENT
 END:VCALENDAR

@@ -677,18 +677,6 @@ DESCRIPTION:Proyecto expositivo de estudiantes de la Escuela de Arte 3 en
 LOCATION:COAM - de Hortaleza\, 63\, Madrid\, 28004
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Among / Alone
-DTSTART;TZID=Europe/Madrid:20260609T000000
-DTEND;TZID=Europe/Madrid:20260916T000000
-UID:b0a885f9e03c1448285bddba51798ea18326b05a783994fe16fb19f31ba45b52
-CATEGORIES:exhibition
-DESCRIPTION:Exposición fotográfica que invita a reflexionar sobre la rel
- ación entre el individuo y el grupo a lo largo del tiempo (Leica Gallery 
- Madrid. Hasta 16 septiembre).\n\nhttps://leica-camera.com/es-ES/eventos/ex
- posicion-among-alone
-LOCATION:Madrid - de José Ortega y Gasset\, 34\, Madrid\, Madrid\, 28006
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Prado. Siglo XXI
 DTSTART;TZID=Europe/Madrid:20260609T000000
 DTEND;TZID=Europe/Madrid:20260927T000000
@@ -1408,6 +1396,18 @@ DESCRIPTION:Exposición al aire libre de esculturas como parte del program
 LOCATION:Museo Lázaro Galdiano - de Serrano\, 122\, Madrid\, 28006
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Botánica doméstica
+DTSTART;TZID=Europe/Madrid:20260910T000000
+DTEND;TZID=Europe/Madrid:20261103T000000
+UID:2535e91aa9d190175a52851a833c9b356583e08bef8a43134cc3d9f43abf8fe5
+CATEGORIES:exhibition
+DESCRIPTION:Una selección de pinturas\, dibujos e ilustraciones realizada
+ s por el artista plástico Jorge Bayo a lo largo de su trayectoria (Real J
+ ardín Botánico. Hasta 3 noviembre).\n\nhttps://rjb.csic.es/evento/exposi
+ cion-botanica-domestica/
+LOCATION:Real Jardín Botánico - de Murillo\, 2\, Madrid\, 28014
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Circle Project. Bouchra Khalili
 DTSTART;TZID=Europe/Madrid:20260910T000000
 DTEND;TZID=Europe/Madrid:20261129T000000
@@ -1481,6 +1481,18 @@ DESCRIPTION:Exposición colectiva formada por los trabajos de los diez gan
  sicion-circuitos-2026
 LOCATION:Sala de Arte Joven de la Comunidad de Madrid - de América\, 13\,
   Madrid\, 28002
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Juegos de jardín
+DTSTART;TZID=Europe/Madrid:20260916T000000
+DTEND;TZID=Europe/Madrid:20270110T000000
+UID:3367aff4c0ed936787c6d74a698b9877eceda3ee052ace9a140302d2fcac9de8
+CATEGORIES:exhibition
+DESCRIPTION:Exposición fotográfica de Sergio de Luz que propone un juego
+  abierto entre lo que vemos y lo que imaginamos (Real Jardín Botánico. H
+ asta 10 enero 2027).\n\nhttps://rjb.csic.es/evento/exposicion-juegos-de-ja
+ rdin/
+LOCATION:Real Jardín Botánico - de Murillo\, 2\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gicheok. Una Corriente Silenciosa. Lyu namgwon

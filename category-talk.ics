@@ -2,50 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:«Aventura en los Andes»
-DTSTART;TZID=Europe/Madrid:20260916T180000
-DTEND;TZID=Europe/Madrid:20260916T180000
-UID:74b5855b2bfac5f2a8b639a6be5a40eeca761664232c57182aeb4528aefb9c8e
-CATEGORIES:talk
-DESCRIPTION:Presentación del libro. \n \nAgrupación de Geografía\, Expl
- oración y Viajes Álvar Núñez Cabeza de Vaca. \nPresenta: Pío Cabanill
- as. \nIntervienen: Eduardo Strauch\, autor\; y Rafa Guerrero\, autor. \nMo
- dera: Mercedes Beremejo. \nSala Ramón y Cajal\, 18:00 h.\n\nhttps://atene
- odemadrid.com/evento/aventura-en-los-andes/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:«Maybe never again»
-DTSTART;TZID=Europe/Madrid:20260916T183000
-DTEND;TZID=Europe/Madrid:20260916T183000
-UID:7988c3d83bf2360ae4df702d5de2afcc316bf5586cd6a2f702f78b46b6fbc810
-CATEGORIES:talk
-DESCRIPTION:Presentación del libro. \n \nIntervienen: Espe Pons\, autora
- \; Alejandro del Río y Almudena Cruz Yábar. \nPresenta: María Antonia G
- arcía de la Vega. \nSala Pérez Galdós\, 18:30h.\n\nhttps://ateneodemadr
- id.com/evento/maybe-never-again/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Siria: la guerra invisible
-DTSTART;TZID=Europe/Madrid:20260916T190000
-DTEND;TZID=Europe/Madrid:20260916T190000
-UID:179db762d04dfb5ee2a876806876cb6f2059f1d9aba3c4fadadff4ede3c0f1ae
-CATEGORIES:talk
-DESCRIPTION:Sección de Información y Comunicación\, en colaboración co
- n AECID.Carne Cruda Live con Médicos del Mundo. Bienvenida: Médicos del 
- Mundo. Intervienen: Inés González\, coordinadora de programas del Depart
- amento de Programas Internacionales de Médicos del Mundo.Guillermo Martí
- nez\, responsable de Crisis Complejas de Médicos del Mundo.Leila Nachawat
- i\, escritora\, doctora en Comunicación y Conflicto\, especializada en Or
- iente Medio \, cofundadora del medio Syria Untold\, un archivo digital sob
- re el movimiento civil sirio.Okba Mohammad\, periodista sirio especializad
- o en conflicto y migraciones\, cofundador de Baynana.Basma Dali. Música:
-  Linda Al Ahmad (voz) y Hames Bitar (laúd).Cátedra Mayor. 19:00.\n\nhttp
- s://ateneodemadrid.com/evento/siria-la-guerra-invisible/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Emergencia climática y desastres naturales: acciones de mitigaci
  ón y medidas de adaptación
 DTSTART;TZID=Europe/Madrid:20260917T183000
@@ -130,7 +86,7 @@ DTEND;TZID=Europe/Madrid:20260918T193000
 UID:a63469618b39670784bd19b0e7050ec31f8e5cac5b7fd5dc3a14dfa503e90e7d
 CATEGORIES:talk
 DESCRIPTION:Zoom (aquí)\n\n\n\nPonente: Luis de Rivera. Presenta y modera
- : Alfonso Gómez y Belén Rico. Sala Ramón y Cajal. 19:00h.\n\nhttps://at
+ : Alfonso Gómez y Belén Rico. Sala Ramón y Cajal. 19:30h.\n\nhttps://at
  eneodemadrid.com/evento/el-enigma-de-la-calma-mental/
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
@@ -184,10 +140,10 @@ DESCRIPTION:19 Septiembre 2026 Queridas anónimas: El 19 de septiembre cel
 LOCATION:La Anonima Libreria - C/ Embajadores\, 166 - Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:El monasterio de Uclés (El Escorial de la Mancha)
+SUMMARY:El Monasterio de Uclés (El Escorial de la Mancha)
 DTSTART;TZID=Europe/Madrid:20260919T173000
 DTEND;TZID=Europe/Madrid:20260919T173000
-UID:3a5d10c840fa4d5f6e186b4b9d3958d843b7d32c3200276caf8acae5e1682dfa
+UID:b1017996de1adcb22a2166c1c9bbd2864b7be6c72e482d2684aea28bdef2a5fc
 CATEGORIES:talk
 DESCRIPTION:Secciones de Farmacia\, Ciencias Históricas\, Ciencias de la 
  Salud\, Ciencia y Cultura Militar y Fundación Fernando Núñez.  \nCiclo 
@@ -198,6 +154,46 @@ DESCRIPTION:Secciones de Farmacia\, Ciencias Históricas\, Ciencias de la
  ps://ateneodemadrid.com/evento/el-monasterio-de-ucles-el-escorial-de-la-ma
  ncha/
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Un vermú con Marina Avia: ¿Cómo nos divertimos? Estrategias par
+ a ensayar el ocio en la sociedad que extinguió la 'caña' por improductiv
+ a [APERTURA]
+DTSTART;TZID=Europe/Madrid:20260919T190000
+DTEND;TZID=Europe/Madrid:20260919T210000
+UID:99035913e30cfb74ae1d72fefb01a0ab7055044ea5d1e9ace9ad2288bc8444b1
+CATEGORIES:talk
+DESCRIPTION:Espacio: Cocina Plató\n\nMarina Avia Estrada conversa con Cla
+ udia Pagès\, Elandorphium (Formato Cómodo) e Irene de Andrés (Juan Sili
+ ó).\n\nMientras prepara vermús para un grupo reducido de asistentes\, Ma
+ rina Avia\, comisaria\, dialoga con tres artistas sobre prácticas artíst
+ icas y curatoriales. En esta sesión\, tirando del hilo de la progresiva d
+ esaparición de la caña corta\, hablamos de la pausa\, el juego y la dive
+ rsión\, de nuestros hábitos de ocio y consumo o de sus vínculos con la 
+ productividad.\n\nEl programa nace de la colaboración con Arte Madrid\, l
+ a Asociación de Galerías de Arte de Madrid\, con motivo de Apertura\, el
+  Gallery Weekend de la ciudad. Así\, propone una oportunidad para conecta
+ r de cerca con varias creadoras\, que muestran su trabajo en las galerías
+  que inauguran nuevas exposiciones en septiembre.\n\nMarina Avia Estrada e
+ s historiadora del arte\, comisaria y gestora cultural. Actualmente es dir
+ ectora de exposiciones y programas públicos en TBA21 Thyssen-Bornemisza A
+ rt Contemporary. Su investigación se centra en prácticas artísticas y a
+ ctivismos feministas y decoloniales\, con especial atención a América La
+ tina.\n\nPromovido por la asociación de galerías Arte Madrid\, Apertura 
+ Madrid Gallery Weekend se celebra desde el año 2009. Cada septiembre\, du
+ rante un fin de semana\, las galerías de Arte Madrid se unen para ofrecer
+  un recorrido único por exposiciones\, abiertas a todos y gratuitas\, que
+  tienen lugar en toda la ciudad. En las últimas ediciones Apertura se ha 
+ extendido a lo largo del mes de septiembre para ofrecer una completa progr
+ amación de actividades accesible para el público de manera gratuita como
+  son la apertura conjunta en todas las galerías\, un programa de actos y 
+ visitas guiadas por las galerías\, visitas por algunos de los más singul
+ ares centros de arte y museos de la ciudad\, así como recorridos por el e
+ spacio público donde descubrir y apreciar obras de arte situadas en las c
+ alles.\n\nhttps://www.infinitodelicias.com/es/agenda/vermu-marina-avia-com
+ o-nos-divertimos
+LOCATION:Infinito Delicias - C. de Juana Dona\, 5\, Arganzuela\, 28045 Mad
+ rid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ignacio Sánchez Mejías: matador y hombre de letras
@@ -237,11 +233,65 @@ DESCRIPTION:Sección de Ciencias de la Salud.\nIntervienen:\nJulia del Amo
  o Moreno — Jefe del Servicio de Enfermedades Infecciosas\, Hospital U. R
  amón y Cajal\nJosé Alcamí — Director científico de la Unidad VIH del
   Hospital Clínic de Barcelona\nModera:\nDébora Álvarez — Directora de
-  “La Dra. Alvarez” y divulgadora en Salud Pública\nPresenta:\nJosé-M
+  “La Dra. Alvarez” y divulgadora en Salud Pública\nPresenta:\nJosé M
  anuel Freire — Sección CC de la Salud\, Ateneo de Madrid\nCátedra Mayo
  r. 19:00pm.\n\nhttps://ateneodemadrid.com/evento/vih-sida-hoy-los-retos-qu
  e-nos-quedan/
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La buena vecindad: lecturas de patio – Sesión 1: la librería t
+ e invita
+DTSTART;TZID=Europe/Madrid:20260922T190000
+DTEND;TZID=Europe/Madrid:20260922T210000
+UID:6c1229b4a98abaca3af7db1dd4372b3ef2e7a530ba4431b8feafe7b8c0e5d197
+CATEGORIES:talk
+DESCRIPTION:Espacio: Cocina Plató\n\nDamos comienzo\n\nLa buena vecindad:
+  lecturas de patio\n\n\,\n\nun programa sobre distintas maneras de hacer c
+ osas con libros y otras publicaciones.\n\nVamos a trabajar a partir de los
+  libros que se pueden encontrar en la librería de Infinito Delicias. Los 
+ leeremos\, les haremos ocupar todo el edificio y salir a la calle.\n\nLa m
+ ejor manera de que los libros hablen entre sí y con su entorno es invitá
+ ndoles a formar parte de una bibliografía. Queremos crear bibliografías 
+ caminadas\, contadas\, convertidas en instalación\, en merienda\, en ramo
+  de flores o en charla.\n\nA partir de esos encuentros entre lo escrito\, 
+ lo publicado y lo vivido esperamos poder acompañar otras formas de pensar
+  sobre lo que nos importa.\n\nVamos a encontrarnos una vez al mes\, de sep
+ tiembre a mayo\, para que todo esto pueda suceder.\n\nEn cada una de estas
+  sesiones imaginaremos posibilidades en torno a lo que puede ser una libre
+ ría y cómo transformarla.\n\nSobre la primera sesión:\n\nEl patio de es
+ ta librería es particular\, como el de mi casa y el de la de todas. Infin
+ ito Delicias se ha inventado un espacio de libros seleccionados en funció
+ n de los deseos de quienes trabajan allí y de las cuestiones que cada dí
+ a afectan a sus habitantes: el arte en relación con la vida de la gente\,
+  la comida como derecho y como expresión de soberanía y la inquietud med
+ ioambiental.\n\nA nosotras\, Selina Blasco y Javier Pérez Iglesias\, nos 
+ han invitado a hacer cosas con esos libros y a colaborar con quienes veng
+ áis para que la librería sea un patio de vecinas con charlas\, lecturas
+ \, ecos\, intercambios y muchos geranios.\n\nPara esta primera sesión\, o
+ s proponemos comer piedras\, comer bichos y comer flores porque merendar j
+ untas es un planazo. Vamos a repasar\, a tener en nuestras manos y a conoc
+ er\, una bibliografía de publicaciones sabrosas\, que nos van a servir co
+ mo material para preparar una merienda suculenta y especial. ¿Cómo leer 
+ a nuestro modo y manera?\n\nVeniros el\n\nmartes 22 a las 7 pm\n\na compar
+ tir los platillos\, para leer y masticar\, que hemos seleccionado. No hay 
+ etiqueta en el vestuario y os animamos a hablar con la boca llena\, a cant
+ ar en la mesa y a jugar con la comida.\n\nDinamizarán las sesiones:\n\nSe
+ lina Blasco\n\n\, profesora de Historia del Arte en la Facultad de Bellas 
+ Artes de la Universidad Complutense de Madrid. Dar clase en esta facultad
+ \, algo que empezó por azar\, ha marcado su forma de estar junto al arte 
+ y los artistas. Estudia y escribe\, muchas veces en compañía\, sobre inv
+ estigación artística\, universidad\, peculiaridades de los museos y mate
+ rialidades relacionadas con los libros y lo textil.\n\nJavier Pérez Igles
+ ias\n\naka @javibiblio\, bibliokupa y médium bibliotecaria. Concibe la bi
+ blioteca como una obra de arte colectiva e inacabada. Su contacto y «sobe
+ teo» con las prácticas artísticas ha generado unas maneras de escribir
+ \, leer\, editar\, publicar y hacer cosas con libros en las que la exposic
+ ión\, la instalación y la performance se convierten en técnicas bibliot
+ ecarias.\n\nhttps://www.infinitodelicias.com/es/agenda/la-buena-vecindad-1
+ -libreria-invita
+LOCATION:Infinito Delicias - C. de Juana Dona\, 5\, Arganzuela\, 28045 Mad
+ rid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:"Defender El Álamo"
@@ -250,9 +300,9 @@ DTEND;TZID=Europe/Madrid:20260922T193000
 UID:8c5db4948e2623ee6e732716e954a62e704743654dbe4d817b7b5bf0c13b174f
 CATEGORIES:talk
 DESCRIPTION:Presentación del libro. \n \nSección del Literatura. Intervi
- enen: Joaquín Pérez Azaústre – autor\, Jaime Siles Modera: Sara Cant
- ó. Sala Pérez Galdóz. 19:30h.\n\nhttps://ateneodemadrid.com/evento/defe
- nder-el-alamo/
+ enen: Joaquín Pérez Azaústre – autor\, Jaime Siles. Agapito Pageo. Mo
+ dera: Sara Cantó. Sala Pérez Galdós. 19:30h.\n\nhttps://ateneodemadrid.
+ com/evento/defender-el-alamo/
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -266,6 +316,18 @@ DESCRIPTION:Presentación y proyección del documental. \n \nSección de
   Marco Castrillón\, Marina Logares. Sala Ramón y Cajal. 19:30h.\n\nhttps
  ://ateneodemadrid.com/evento/una-imaginacion-singular-conversaciones-con-s
  ir-roger-penrose/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:"Cómo terminó la guerra civil española"
+DTSTART;TZID=Europe/Madrid:20260923T183000
+DTEND;TZID=Europe/Madrid:20260923T183000
+UID:cb6765a3c44ac165e20d3ddda4cc4835dc58b1d5eae4a2eefad86bdee9c95078
+CATEGORIES:talk
+DESCRIPTION:Presentación del libro. \n \nSección de Ciencias Históricas
+ . Intervienen: Óscar Medel\, Gutmaro Gómez Bravo – autor. Sala Ramón 
+ y Cajal. 18:30h.\n\nhttps://ateneodemadrid.com/evento/como-termino-la-guer
+ ra-civil-espanola/
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -303,6 +365,104 @@ DESCRIPTION:23 Septiembre 2026 Queridas anónimas: El próximo 23 de septi
 LOCATION:La Anonima Libreria - C/ Embajadores\, 166 - Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:La Duquesa que pudo reinar
+DTSTART;TZID=Europe/Madrid:20260923T190000
+DTEND;TZID=Europe/Madrid:20260923T190000
+UID:995a0bd89fcda99f4e05a33834a20324ab3bd83618c22f448c1ab2b49c2fcc7c
+CATEGORIES:talk
+DESCRIPTION:Diálogos con el autor. Biografía de Doña Jacinta\, esposa d
+ el General Espartero \n \n  \nSección de Mitos\, Religiones y Humanidade
+ s. Intervienen: Marcelino Izquierdo\, Pedro López Arriba. Preside y prese
+ nta: Ana Maestro. Salón Ciudad de Úbeda. 19:00h.\n\nhttps://ateneodemadr
+ id.com/evento/dialogos-con-el-autor-la-duquesa-que-pudo-reinar-biografia-d
+ e-dona-jacinta-esposa-del-general-espartero/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SAPERE. Grecia: ¿Cómo aprendimos a vivir juntos?\, videopodcast 
+ con Mario Agudo Villanueva
+DTSTART;TZID=Europe/Madrid:20260923T190000
+DTEND;TZID=Europe/Madrid:20260923T203000
+UID:48194874e068af885a32c93cbff64dd4dbc7bdccf0b32dd6e501984d6e7d1b01
+CATEGORIES:talk
+DESCRIPTION:Espacio: Cocina Plató\n\nSapere\n\ntoma su nombre de un antig
+ uo verbo latino que encerraba una intuición hoy casi olvidada\, la relaci
+ ón entre el sabor y el conocimiento. Saber y sabor comparten una misma ra
+ íz etimológica\, una idea que inspira este programa de videopodcast. Fre
+ nte al ritmo acelerado de la vida cotidiana\,\n\nSapere\n\nreivindica la m
+ esa como uno de los pocos espacios donde todavía es posible detenerse\, c
+ onversar y pensar en común. Un lugar donde el tiempo compartido se convie
+ rte en una forma de conocimiento.\n\nA través de cuatro episodios\, empre
+ nderemos viajes hacia distintos imaginarios culturales. El primero\, coinc
+ idiendo con el equinoccio de otoño\, será\n\nGrecia\n\n\, escenario eleg
+ ido para preguntarnos cómo aprendimos a vivir juntos. A través de ingred
+ ientes como\n\nel pan\, el vino\, el aceite y la miel\,\n\nla conversació
+ n recuperará el ágora como espacio de encuentro y la comida como una de 
+ las primeras formas de construir comunidad\, compartir relatos y transmiti
+ r conocimiento.\n\nSAPERE · GRECIA | 23 DE SEPTIEMBRE\n\n¿Cómo aprendim
+ os a vivir juntos?\n\nEl próximo 23 de septiembre\, coincidiendo con el e
+ quinoccio de otoño\, nace\n\nSapere\n\n\, un nuevo proyecto de\n\nAlicia 
+ Población\n\nque propone volver a la mesa como lugar de encuentro\, conve
+ rsación y pensamiento. Una mesa entendida como uno de los pocos espacios 
+ de democracia cotidiana que todavía compartimos: un lugar donde\, al sent
+ arnos juntos\, dejamos por un momento el ritmo de lo urgente y nos damos t
+ iempo para escuchar\, conversar y pensar. La primera parada nos lleva hast
+ a Grecia\, para hacernos una pregunta tan antigua como vigente:\n\n¿cómo
+  aprendimos a vivir juntos?\n\nLa experiencia tendrá lugar alrededor de u
+ na mesa junto a\n\nMario Agudo Villanueva\n\n\, especialista en historia a
+ ntigua y divulgador del mundo clásico\, y estará acompañada de pequeño
+ s bocados creados especialmente para este episodio.\n\nCereal\, aceite y m
+ iel\n\nserán algunos de los hilos que nos conducirán por un viaje entre 
+ cosechas\, mitos\, dioses\, democracia\, cultura y memoria colectiva. Dura
+ nte el encuentro\, los sabores y la conversación se irán entrelazando pa
+ ra descubrir cómo la comida puede ser también una forma de contar quién
+ es somos y cómo hemos aprendido a vivir en comunidad. Tras el encuentro\,
+  Sapere podrá disfrutarse en formato videopodcast a través de los canale
+ s de Infinito Delicias\, mientras que los sabores que lo acompañan perman
+ ecerán durante toda la estación en UNMAR\, para volver a este viaje por 
+ Grecia también desde el paladar.\n\nMario Agudo Villanueva\n\n\, invitado
+ \, es MBA y especialista en historia\, arqueología y patrimonio\, impulso
+ r del proyecto Mediterráneo Antiguo\, hoy Legado griego. Es autor o coaut
+ or de una decena de libros y colaborador habitual de revistas como Histori
+ a National Geographic\, Muy Historia y Desperta Ferro.\n\nAlicia Població
+ n\n\n\, conductora del Sapere\, trabaja en el ámbito de la comunicación 
+ cultural y la creación de proyectos narrativos vinculados al pensamiento 
+ contemporáneo colaborando con entidades públicas y privadas\, entre las 
+ que se destaca el Ministerio de Cultura. Con experiencia en el medio sonor
+ o\, ha desarrollado proyectos donde la palabra\, la escucha y la conversac
+ ión se entienden como formas de mediación cultural. Es creadora del podc
+ ast RECORDIS\, un espacio de conversación y reflexión desde el que abord
+ a distintas cuestiones culturales y sociales con una perspectiva feminista
+ .\n\nhttps://www.infinitodelicias.com/es/agenda/sapere-videopodcast-alimen
+ tacion-grecia
+LOCATION:Infinito Delicias - C. de Juana Dona\, 5\, Arganzuela\, 28045 Mad
+ rid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:"Oficio de Babel (Versiones y palimpsestos 1970-2025) "
+DTSTART;TZID=Europe/Madrid:20260923T193000
+DTEND;TZID=Europe/Madrid:20260923T193000
+UID:1f11cc4826fc530a86fc506889fb4af3437b3721ee263e7ce856aa1fb1e52397
+CATEGORIES:talk
+DESCRIPTION:Presentación del libro. \n \nSección del Literatura. Intervi
+ enen: Clara Janés\, Jaime Siles\, Jenaro Talens – autor\, José Francis
+ co Ruiz Casanova – editor. Biblioteca. 19:30h.\n\nhttps://ateneodemadrid
+ .com/evento/oficio-de-babel-versiones-y-palimpsestos-1970-2025/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:"Supervivencia de las políticas de igualdad"
+DTSTART;TZID=Europe/Madrid:20260923T193000
+DTEND;TZID=Europe/Madrid:20260923T193000
+UID:7e5a2d25cbe04fcb6f574fd4963768d3658fc508b868c36cb56de6a53a1fb979
+CATEGORIES:talk
+DESCRIPTION:Presentación del libro. \n \nSección de Derechos Civiles. Bi
+ envenida: Paquita Sauquillo. Intervienen: Soledad Murillo – autora\, Dav
+ id Redoli\, Laura Nuño. Sala Larra. 19:30h.\n\nhttps://ateneodemadrid.com
+ /evento/supervivencia-de-las-politicas-de-igualdad/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Recital de poesía con Manos de pan
 DTSTART;TZID=Europe/Madrid:20260924T190000
 UID:2235cd9d91079c2ca282a89ab9d548bc813451b9f6fb53addcb358b03ac80190
@@ -326,9 +486,10 @@ CATEGORIES:talk
 DESCRIPTION:Hilario J. Rodríguez presenta su nuevo libro en la librería 
  Desnivel \, El arte de viajar sin moverse del sitio. Atlas de viajes reale
  s e imaginarios . El autor estará acompañado por Fernando Rodríguez Laf
- uente . El evento será el próximo jueves 24 de septiembre a las 19 h . 
- ¡Ven y acompáñanos!\n\nhttps://www.libreriadesnivel.com/agenda/el-arte-
- de-viajar-sin-moverse-del-sitio-de-hilario-j-rodriguez/447/
+ uente y Guillermo Más Arellano . El evento será el próximo jueves 24 de
+  septiembre a las 19 h . ¡Ven y acompáñanos!\n\nhttps://www.libreriades
+ nivel.com/agenda/el-arte-de-viajar-sin-moverse-del-sitio-de-hilario-j-rodr
+ iguez/447/
 LOCATION:Libreria Desnivel - Plaza de Matute\, 6\, Madrid
 END:VEVENT
 END:VCALENDAR
