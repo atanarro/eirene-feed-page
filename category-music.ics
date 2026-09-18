@@ -2,47 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:JAVIER ELORRIETA QUINTETO
-DTSTART;TZID=Europe/Madrid:20260917T193000
-DTEND;TZID=Europe/Madrid:20260917T193000
-UID:5e0e26f41e3210797a5d5b66da16c055009eb0db7637ad8766ac0d1d42fc5c1e
-CATEGORIES:music
-DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
-  el Área del Socio. Cátedra Mayor. Pase: 19:30h.\n\nhttps://ateneodemadr
- id.com/evento/javier-elorrieta-quinteto-2/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Otra
-DTSTART;TZID=Europe/Madrid:20260917T203000
-UID:15afb27696c2649f5f976af327635649643baba1880e5badb2ee722a05523567
-CATEGORIES:music
-DESCRIPTION:Concierto / Latin / Pop / Urban\n\nhttps://salavillanos.es/eve
- nto/la-otra/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Akriila
-DTSTART;TZID=Europe/Madrid:20260917T210000
-UID:6e9d3eceb84d431dc8fa139956eddd47a486b68c95f19586f498910cfb7fd701
-CATEGORIES:music
-DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://www.entradas.com/artist/
- akriila/?Affiliate=RIV
-LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
- id
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MANUEL MACHADO QUINTET & ARAHI
-DTSTART;TZID=Europe/Madrid:20260917T220000
-DTEND;TZID=Europe/Madrid:20260917T220000
-UID:50650e22bd40ddd3f5106fc9da3999eae867077f8b264e65707a0c2729328f9e
-CATEGORIES:music
-DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
-  el Área del Socio. Cátedra Mayor. Pase: 22:00h.\n\nhttps://ateneodemadr
- id.com/evento/manuel-machado-quintet-arahi/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PERICO SAMBEAT FLAMENCO QUINTET
 DTSTART;TZID=Europe/Madrid:20260918T200000
 DTEND;TZID=Europe/Madrid:20260919T220000
@@ -101,11 +60,10 @@ DTSTART;TZID=Europe/Madrid:20260919T200000
 DTEND;TZID=Europe/Madrid:20260919T200000
 UID:291da33a0725f7b16913243a7134cbd384fe736c4501be7efb622e57a795da6f
 CATEGORIES:music
-DESCRIPTION:Venta de entradas (aquí). Socios\, código de descuento en el
-  Área del Socio. \n \nLiuba María Hevia concierto y presentación de su 
- nuevo disco Almas comunes. Músicos invitados. Cátedra Mayor. 20:00h.\n\n
- https://ateneodemadrid.com/evento/liuba-maria-hevia-concierto-y-presentaci
- on-de-su-nuevo-disco-almas-comunes/
+DESCRIPTION:ENTRADAS AGOTADAS. \n \nLiuba María Hevia concierto y present
+ ación de su nuevo disco Almas comunes. Músicos invitados. Cátedra Mayor
+ . 20:00h.\n\nhttps://ateneodemadrid.com/evento/liuba-maria-hevia-concierto
+ -y-presentacion-de-su-nuevo-disco-almas-comunes/
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -269,12 +227,50 @@ DESCRIPTION:Concierto / Hip Hop & Rap\n\nhttps://salavillanos.es/evento/fi
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CHIPI CHACÓN QUARTET
+DTSTART;TZID=Europe/Madrid:20260923T200000
+DTEND;TZID=Europe/Madrid:20260924T200000
+UID:87203c5598b4a839271b4602f0349af8a3c2ed775d29167a88c5aee58bfffcdf
+CATEGORIES:music
+DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
+  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h. \n \nCh
+ ipi Chacón – trompeta\nLuis Guerra – piano (día 23)\nJorge Vera – 
+ piano (día 24)\nGastón Joya – contrabajo (día 23)\nMiquel Álvarez 
+ – contrabajo (día 24)\nFabio Rivera – batería \nChipi Chacón es tro
+ mpetista\, compositor\, cantante y productor venezolano\, catalogado en la
+  actualidad como\nuno de los artistas Latinoamericanos con más proyecció
+ n internacional\, reconocido por los más grandes\nmaestros de la música 
+ por su gran versatilidad\, se ha presentado en más de 50 países en los f
+ estivales más\nimportantes a nivel global\, ha colaborado con grandes fig
+ uras como: John Williams\, Claudio Abbado\, Simon\nRattle\, Martha Argeric
+ h\, Gustavo Dudamel\, Krzysztof Penderecki\, Bob Mintzer\, Arturo Sandoval
+ \, James\nMorrinson\, Paquito D’ Rivera\, entre otros.\nChipi cuenta con
+  siete producciones discográficas y ha sido ganador de múltiples premios
+  dentro de su país\ndurante su corta pero portentosa carrera\, además cu
+ enta con una nominación a los Latin Grammy como “Mejor\nNuevo Artista
+ ” por su tercer disco “Transparente”.\n\nhttps://ateneodemadrid.com/
+ evento/chipi-chacon-quartet/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Alexsucks
 DTSTART;TZID=Europe/Madrid:20260923T200000
 UID:aa73444a316536b0a769ff2a38589006438218dbbcf9d66604402d3dc8411399
 CATEGORIES:music
 DESCRIPTION:Concierto / Rock\n\nhttps://salavillanos.es/evento/alexsucks/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El reto de nuestro tiempo: migración\, ciudadanía y fronteras
+DTSTART;TZID=Europe/Madrid:20260924T193000
+DTEND;TZID=Europe/Madrid:20260924T193000
+UID:384c8a2f52ed40ac89836df47195f5d81b8ef957511f9ff851ef9d9494769226
+CATEGORIES:music
+DESCRIPTION:Agrupación Joven Café Central. Presenta y modera: Adrián Ru
+ iz Fernández. Intervienen: Irene Ortiz Gala\, Juan Carlos Velasco. Sala R
+ amón y Cajal. 19:30h.\n\nhttps://ateneodemadrid.com/evento/el-reto-de-nue
+ stro-tiempo-migracion-ciudadania-y-fronteras/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Los Saxos Del Averno
@@ -422,6 +418,36 @@ UID:88a0cf16f0a7d89ab0a943f181f3e3a0555e552abe427a88dbf71dc8092cb413
 CATEGORIES:music
 DESCRIPTION:Concierto / Hip Hop & Rap / Urban\n\nhttps://salavillanos.es/e
  vento/sara-hebe/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alvaro Garcia
+DTSTART;TZID=Europe/Madrid:20261002T203000
+UID:1cc4fa626c419f87a255bd20795d53eb44593327fe323f17b1967175780223aa
+CATEGORIES:music
+DESCRIPTION:Concierto / Flamenco / Pop / Rock\n\nhttps://salavillanos.es/e
+ vento/alvaro-garcia/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:G.A.S. Drummers + Ppm
+DTSTART;TZID=Europe/Madrid:20261002T213000
+UID:d959e1d83e883611eacc6a6f3b988a300744ea57d6de17187d04b254f73846f0
+CATEGORIES:music
+DESCRIPTION:Precio de las entradas: 12€/15€ Entradas a la venta en mov
+ ingtickets Bio/enlaces bandas: G.A.S. Drummers_facebook + G.A.S. Drummers_
+ X + G.A.S. Drummers_instagram PPM_instagram Más información: G.A.S. Drum
+ mers son una banda andaluza de punk rock\n\nhttps://gruta77.com/events/g-a
+ -s-drumers-ppm/var/ri-0.l-L2
+LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kraak & Smaak SOUNDSYSTEM + Madame Excuse + Rayko
+DTSTART;TZID=Europe/Madrid:20261002T235900
+UID:316cc937ae7acb3fbe845879f52d4dffce684b6b0e2d40b58fd2370044157439
+CATEGORIES:music
+DESCRIPTION:Concierto / Villanos del Jazz\n\nhttps://salavillanos.es/event
+ o/kraak-smaak-soundsystem/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 END:VCALENDAR
