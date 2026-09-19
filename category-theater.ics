@@ -2,35 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Vendrán los alienígenas y tendrán tus ojos
-DTSTART;TZID=Europe/Madrid:20260918T193000
-DTEND;TZID=Europe/Madrid:20260920T193000
-UID:f5e433f6bf0e495984e1ced0c19bb9734a38825c89ba0c450032265b08903891
-CATEGORIES:theater
-DESCRIPTION:Entradas agotadas desde 15.00€ | Tags: JOBO\n\nhttps://tiend
- a.madrid-destino.com/es/nave-10/vendran-los-alienigenas-y-tendran-tus-ojos
- -1/
-LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Federico. No hay olvido\, ni sueño: Carne viva
-DTSTART;TZID=Europe/Madrid:20260918T193000
-UID:38d0a33a2539e673ff6db7464c66cc521909adc5acfcee62b73d7d68dfbf4209
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/federico-no-hay-olvi
- do-ni-sueno-carne-viva/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mongolia Show
-DTSTART;TZID=Europe/Madrid:20260918T221500
-UID:4445b71b7e6abc13667b7c19723db6f46c5f0201e1d876864af6e691a31c2ccb
-CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 13 plazas!\n\nhttps://teatrodelbarrio.com/mon
- goliashow/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Infiltrado en VOX
 DTSTART;TZID=Europe/Madrid:20260919T130000
 UID:4d1c52f9cce77050cecd545a20ab11e4a01bcbd29171e4326db10855f67eabc8
@@ -39,11 +10,21 @@ DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/infiltrado-en-vox/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Vendrán los alienígenas y tendrán tus ojos
+DTSTART;TZID=Europe/Madrid:20260919T193000
+DTEND;TZID=Europe/Madrid:20260920T193000
+UID:f5e433f6bf0e495984e1ced0c19bb9734a38825c89ba0c450032265b08903891
+CATEGORIES:theater
+DESCRIPTION:Entradas agotadas desde 15.00€\n\nhttps://tienda.madrid-dest
+ ino.com/es/nave-10/vendran-los-alienigenas-y-tendran-tus-ojos-1/
+LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Federico. No hay olvido\, ni sueño: Carne viva
 DTSTART;TZID=Europe/Madrid:20260919T193000
 UID:e0fb5dafd1de82da48391a0b24d02e49bfe996adcebb84a8b9c64a4dccf245ab
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 19 plazas!\n\nhttps://teatrodelbarrio.com/fed
+DESCRIPTION:¡Ya solo quedan 15 plazas!\n\nhttps://teatrodelbarrio.com/fed
  erico-no-hay-olvido-ni-sueno-carne-viva/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
@@ -274,5 +255,23 @@ CATEGORIES:theater
 DESCRIPTION:Entradas agotadas desde 15.00€\n\nhttps://tienda.madrid-dest
  ino.com/es/nave-10/verborrea/
 LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FESTIVAL SURGE MADRID 2026: Jornada de trabajos emergentes
+DTSTART;TZID=Europe/Madrid:20261003T200000
+UID:b2a80e43c5eb1f5d1cfd394f674a66a4c8d79d8a1486832bd2d6f423ccd6653c
+CATEGORIES:theater
+DESCRIPTION:FESTIVAL SURGE MADRID 2026: Jornada de trabajos emergentes\n\n
+ Diferentes creadores y creadoras presentarán sus trabajos en la Jornada
+  de trabajos emergentes que se desarrolla dentro del marco del Festival S
+ urge Madrid 2026.\n\nEl 3 de octubre a las 20:00hrs podremos disfrutar de 
+ estas cinco creaciones que experimentan con lenguajes relacionados con l
+ a creación escénica multidisciplinar y el movimiento.\n\nEntrada libre h
+ asta completar aforo\n\nPuedes reservar tu entrada gratuita en nuestra web
+ . Si finalmente no puedes acudir\, ponte en contacto con nosotras para per
+ mitir que otros espectadores y espectadoras puedan asistir.\n\nhttps://lam
+ irador.com/funcion?nombre=festival-surge-madrid-2026-jornada-de-trabajos-e
+ mergentes-2026
+LOCATION:Sala Mirador - Calle Doctor Fourquet\, 31\, 28012 Madrid
 END:VEVENT
 END:VCALENDAR
