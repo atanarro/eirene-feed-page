@@ -2,42 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Infiltrado en VOX
-DTSTART;TZID=Europe/Madrid:20260919T130000
-UID:4d1c52f9cce77050cecd545a20ab11e4a01bcbd29171e4326db10855f67eabc8
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/infiltrado-en-vox/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vendrán los alienígenas y tendrán tus ojos
-DTSTART;TZID=Europe/Madrid:20260919T193000
-DTEND;TZID=Europe/Madrid:20260920T193000
-UID:f5e433f6bf0e495984e1ced0c19bb9734a38825c89ba0c450032265b08903891
-CATEGORIES:theater
-DESCRIPTION:Entradas agotadas desde 15.00€\n\nhttps://tienda.madrid-dest
- ino.com/es/nave-10/vendran-los-alienigenas-y-tendran-tus-ojos-1/
-LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Federico. No hay olvido\, ni sueño: Carne viva
-DTSTART;TZID=Europe/Madrid:20260919T193000
-UID:e0fb5dafd1de82da48391a0b24d02e49bfe996adcebb84a8b9c64a4dccf245ab
-CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 15 plazas!\n\nhttps://teatrodelbarrio.com/fed
- erico-no-hay-olvido-ni-sueno-carne-viva/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Color Esmeralda. Farolillos y travestis
-DTSTART;TZID=Europe/Madrid:20260919T221500
-UID:30985af457d6deca80ea7611f236d5ae68ebbd220b941307912d380ded92a16d
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/color-esmeralda-faro
- lillos-y-travestis/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:AÚPA LERÉ. Percusión para crecer
 DTSTART;TZID=Europe/Madrid:20260920T110000
 UID:b921f1680510b93dbdccf8e4fa09c5892a814efe4777730403bf8b7ee8bc5bbe
@@ -59,9 +23,19 @@ SUMMARY:"Una habitación propia"\, de VIRGINIA WOOLF
 DTSTART;TZID=Europe/Madrid:20260920T180000
 UID:8cc75641731bb28413a274a208765f9bea2e5c33165d8cb6a0d6a20ff1c7c0ee
 CATEGORIES:theater
-DESCRIPTION:Localidades agotadas\n\nhttps://teatrodelbarrio.com/una-habita
- cion-propia-de-virginia-woolf/
+DESCRIPTION:¡Ya solo quedan 2 plazas!\n\nhttps://teatrodelbarrio.com/una-
+ habitacion-propia-de-virginia-woolf/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vendrán los alienígenas y tendrán tus ojos
+DTSTART;TZID=Europe/Madrid:20260920T193000
+DTEND;TZID=Europe/Madrid:20260920T193000
+UID:f5e433f6bf0e495984e1ced0c19bb9734a38825c89ba0c450032265b08903891
+CATEGORIES:theater
+DESCRIPTION:Entradas agotadas desde 15.00€\n\nhttps://tienda.madrid-dest
+ ino.com/es/nave-10/vendran-los-alienigenas-y-tendran-tus-ojos-1/
+LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chistes contra Franco
@@ -198,16 +172,6 @@ CATEGORIES:theater
 DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/trilogia-del-absurdo
  -primera-parte/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pinocchio(live)#3
-DTSTART;TZID=Europe/Madrid:20260927T200000
-DTEND;TZID=Europe/Madrid:20260927T200000
-UID:9ba3bfd778c74de0692a6758e40fbe523da56ca04b0353d30cac515db61309e5
-CATEGORIES:theater
-DESCRIPTION:Función matinal: 27 SEP 2026 a las 12:00\n\nhttps://dramatico
- .inaem.gob.es/evento/pinocchiolive3/
-LOCATION:Teatro Valle-Inclán - Plaza de Lavapies\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Un verano por metro cuadrado

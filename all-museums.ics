@@ -74,6 +74,19 @@ DESCRIPTION:Exposición que reúne en formato audiovisual una selección d
 LOCATION:CentroCentro - de Cibeles\, 1\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Trenes históricos
+DTSTART;TZID=Europe/Madrid:20251205T000000
+DTEND;TZID=Europe/Madrid:20271231T000000
+UID:9d0621e6c17839e3d5f40fd5b71b539d7e21581dfd79ffc32f8986d347ea8bb0
+CATEGORIES:exhibition
+DESCRIPTION:Exposición permanente sobre los primeros trenes que circularo
+ n por las vías del suburbano madrileño para conmemorar sus 100 años de 
+ vida (Estación de Chamartín).\n\nhttps://museosmetromadrid.es/museos/est
+ acion-de-chamartin/
+LOCATION:Estación de Madrid - Chamartín - Clara Campoamor - Agustín de 
+ Foxa\, s/n\, Madrid\, 28036
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Viajar en el tiempo: 85 años de publicidad de Renfe
 DTSTART;TZID=Europe/Madrid:20251219T000000
 DTEND;TZID=Europe/Madrid:20260930T000000
@@ -697,6 +710,18 @@ DESCRIPTION:Exposición que se adentra en un universo donde el vínculo en
  asta 30 sept).\n\nhttps://phe.es/exposicion/everybody-loves-to-cha-cha-cha
  /
 LOCATION:Casa de América - de Cibeles\, 2\, Madrid\, 28014
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nada espontáneo. Una mirada a los 90
+DTSTART;TZID=Europe/Madrid:20260611T000000
+DTEND;TZID=Europe/Madrid:20261004T000000
+UID:ff8d1adf96ea90068b9796b350661fa045ccae886eb1fbbea545c534c8ef31df
+CATEGORIES:exhibition
+DESCRIPTION:Muestra del fotógrafo Jesús Ugalde que incluye retratos de g
+ randes figuras de la música española como Alejandro Sanz o Andrés Calam
+ aro (Matadero Madrid. Hasta octubre).\n\nhttps://www.mataderomadrid.org/pr
+ ogramacion/nada-espontaneo-una-mirada-los-90
+LOCATION:Matadero Madrid - de Legazpi\, 8\, Madrid\, 28045
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tejiendo la vida cortesana. Tejidos y bordados de las Colecciones 
@@ -1531,53 +1556,6 @@ LOCATION:Centro Cultural Coreano en España - de la Castellana\, 15\, Madr
  id\, 28046
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:L.E.V. 2026. Concierto 'CALLIGRATON'\, de SCHNITT & AOI YAMAGUCHI 
- + performance de MILIAN MORI
-DTSTART;TZID=Europe/Madrid:20260919T203000
-UID:7dedc6993fb9c6d9624c39a411e18cedd03b9c79443e66e488361f5e275f9673
-CATEGORIES:exhibition
-DESCRIPTION:SCHNITT & AOI YAMAGUCHI. Calligraton. Estreno en España. Call
- igraton es un espectáculo en directo que surge de la colaboración entre 
- el dúo Schnitt y la calígrafa japonesa Aoi Yamaguchi. El proyecto se des
- arrolla en torno a dos formas de expresión aparentemente distantes: la co
- mposición sonora experimental y la caligrafía japonesa “shodō”. En 
- Calligraton \, Schnitt y Aoi Yamaguchi exploran la relación entre el soni
- do y la escritura\; los ritmos\, los equilibrios\, los espacios llenos y v
- acíos\, los sonidos y los silencios se enfrentan en el escenario\, descub
- riendo una profunda afinidad entre el sonido y el signo. El gesto composit
- ivo electrónico/digital se relaciona con el gesto caligráfico en una con
- versación íntima que explora la interconexión entre el gesto humano y e
- l elemento tecnológico. A lo largo de cinco actos\, la caligrafía y la c
- oreografía audiovisual se entrelazan\, transformando el espacio en un di
- álogo envolvente de luz\, sonido y gestos. SCHNITT es el proyecto colabor
- ativo del artista multimedia Marco Monfardini y la música experimental Am
- elie Duchow. Su trabajo explora la convergencia entre la música electrón
- ica\, el arte digital y las tecnologías emergentes a través de actuacion
- es audiovisuales inmersivas e instalaciones a gran escala. Natural de Hokk
- aido (Japón) Aoi Yamaguchi se formó en los fundamentos de la caligrafía
-  desde los 6 años y a los 14 recibió el título de Maestra de Caligrafí
- a por la Asociación Internacional de Caligrafía Japonesa. En la actualid
- ad reside en Los Ángeles\, donde continúa trabajando en sus instalacione
- s de caligrafía conceptual\, exposiciones y performances\, al tiempo que 
- continúa ampliando los límites de los clásicos orientales tradicionales
-  y la expresión artística contemporánea. MILIAN MORI. live AV Composito
- r y artista digital afincado en Suiza\, Milian Mori ha desarrollado un len
- guaje musical propio que aspira a ampliar\, proyectar y reinterpretar el v
- ocabulario de la música de baile. Como parte del sello alemán Raster Med
- ia\, Mori crea directos audiovisuales inmersivos en los que la música ele
- ctrónica\, con un marcado protagonismo de los graves e imágenes estrobos
- cópicas en blanco y negro\, conforma un espacio físico intenso. Su traba
- jo en solitario destaca por la integración de baile con algoritmos\, píx
- eles y música club\, con el fin de abrir un espacio que trascienda al dua
- lismo. Combinando las matemáticas\, la geometría y los datos con la emoc
- ión\, la danza y la plenitud\, la tecnología se une a la naturaleza\, lo
-  binario a los fluidos\, el algoritmo a la espiritualidad\, el dualismo a 
- la trialidad\, la máquina se une al ser humano y la aleatoriedad a la aut
- osimilaridad.\n\nhttps://www.mataderomadrid.org/programacion/lev-2026-conc
- ierto-calligraton-de-schnitt-aoi-yamaguchi-performance-de-milian-mori
-LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:L.E.V. 2026. Concierto DE KELLY MORAN + Performance 'THE CLUSTERs'
  \, DE NAO
 DTSTART;TZID=Europe/Madrid:20260920T130000
@@ -1773,5 +1751,44 @@ DESCRIPTION:Exposición que recoge el trabajo del artista brasileño en to
  er.com/
 LOCATION:Fundación Canal Sala Castellana 214 - de la Castellana\, 214\, M
  adrid\, 28046
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lo que las flores revelan
+DTSTART;TZID=Europe/Madrid:20261004T100000
+DTEND;TZID=Europe/Madrid:20261004T230000
+UID:5a0aee3d4b29809940a6c70f96dccb35d86cc69b567c05966ad1f3b65beb3382
+CATEGORIES:exhibition
+DESCRIPTION:Espacio: El Patio\n\nHay imágenes que no solo capturan un ins
+ tante\, sino que también contienen el rastro de cómo han sido creadas.\n
+ \nLo que las flores revelan\n\nnace precisamente desde ahí. Desde un proc
+ eso donde la fotografía deja de entenderse únicamente como resultado par
+ a convertirse en una práctica de escucha\, tiempo y relación con el ento
+ rno.\n\nLa exposición recoge el trabajo desarrollado por Deneb Martos y A
+ na Paes junto a trece participantes que\, durante varios días\, compartie
+ ron un espacio de experimentación en torno al revelado fotográfico con e
+ xtractos vegetales y procesos sostenibles. Flores\, plantas y sustancias n
+ aturales sustituyen aquí parte de la química industrial tradicional para
+  abrir paso a otra forma de producir imágenes\, más conectada con los ri
+ tmos naturales y con una manera consciente de habitar el acto creativo.\n
+ \nEn diálogo con el contexto de Infinito Delicias y dentro del programa\n
+ \nRevelar la imagen. Cultivar el arte sostenible\n\n\, impulsado junto a P
+ HotoESPAÑA\, el taller integró laboratorio\, territorio y práctica cole
+ ctiva en un mismo recorrido. La recolección\, la maceración y el revelad
+ o se entendieron como partes inseparables de un mismo proceso donde la ima
+ gen se cultiva casi como se cultiva una planta.\n\nMás allá de la técni
+ ca\, la exposición propone una reflexión sobre los tiempos que atraviesa
+ n nuestra forma de vivir y producir. Frente a la aceleración constante y 
+ a la lógica de la sobreproducción\, las obras reunidas aquí hablan de p
+ ausa\, atención y cuidado. Conservan la huella de los materiales naturale
+ s\, de los gestos compartidos y del tiempo vivido en común.\n\nLo que las
+  flores revelan\n\nabre así una mirada hacia otras maneras de crear y de 
+ relacionarnos con el mundo. Formas más sensibles\, más lentas y profunda
+ mente conectadas con aquello que sostiene la vida cotidiana.\n\n¡Te esper
+ amos!\n\nHorarios julio – agosto:\n\nLunes a sábados: 10h a 00h\n\nDomi
+ ngos: 10h a 16h\n\nHorarios septiembre – octubre (hasta día 4):\n\nMart
+ es a sábado: 10h a 00h\n\nLunes y domingo: 10h a 16h\n\nhttps://www.infin
+ itodelicias.com/es/agenda/lo-que-las-flores-revelan
+LOCATION:Infinito Delicias - C. de Juana Dona\, 5\, Arganzuela\, 28045 Mad
+ rid
 END:VEVENT
 END:VCALENDAR

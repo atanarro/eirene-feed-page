@@ -2,17 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Mercado de las Ranas
-DTSTART;TZID=Europe/Madrid:20260919T120000
-DTEND;TZID=Europe/Madrid:20260919T200000
-UID:f1fed8ae3af7b57249e124372ae548b12591c4d28cfe06b947d7354932196dbb
-CATEGORIES:market
-DESCRIPTION:Mercado del Barrio de las Letras con puestos de artesanía\, d
- iseño\, moda y gastronomía en la calle Huertas.\n\nhttps://barrioletras.
- com/mercado-de-las-ranas/
-LOCATION:Barrio de las Letras - Calle de las Huertas\, 2-47\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Mercado Productores Planetario
 DTSTART;TZID=Europe/Madrid:20260920T100000
 DTEND;TZID=Europe/Madrid:20260920T160000
@@ -46,5 +35,30 @@ DESCRIPTION:Mercado del Barrio de las Letras con puestos de artesanía\, d
  iseño\, moda y gastronomía en la calle Huertas.\n\nhttps://barrioletras.
  com/mercado-de-las-ranas/
 LOCATION:Barrio de las Letras - Calle de las Huertas\, 2-47\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mercado Productores Planetario
+DTSTART;TZID=Europe/Madrid:20261004T100000
+DTEND;TZID=Europe/Madrid:20261004T160000
+UID:011f250b70b437623c891ecb5884fb893378791a2b9e2ca8b0acf5a29789a130
+CATEGORIES:market
+DESCRIPTION:Mercado de productores locales y artesanos en Planetario con a
+ limentacion sostenible\, productos de cercania y actividades al aire libre
+ .\n\nhttps://mercadoproductores.es/mp-planetario/
+LOCATION:Mercado Productores Planetario - Avenida del Planetario esquina C
+ alle Meneses\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mercadillo de Minerales de la Escuela de Minas
+DTSTART;TZID=Europe/Madrid:20261004T100000
+DTEND;TZID=Europe/Madrid:20261004T140000
+UID:4926a2a816292be0dc349bf3702f3d5271086055c33b5e7f24718adda8998f55
+CATEGORIES:market
+DESCRIPTION:Mercadillo de minerales\, fosiles\, gemas y conchas en la Escu
+ ela Superior de Ingenieros de Minas (primer domingo de cada mes\, excepto 
+ agosto).\n\nhttps://www.esmadrid.com/agenda/mercadillo-minerales-madrid-es
+ cuela-superior-ingenieros-minas
+LOCATION:Escuela Superior de Ingenieros de Minas - Calle Rios Rosas\, 21\,
+  Madrid
 END:VEVENT
 END:VCALENDAR

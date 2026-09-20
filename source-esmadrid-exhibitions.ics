@@ -74,6 +74,19 @@ DESCRIPTION:Exposición que reúne en formato audiovisual una selección d
 LOCATION:CentroCentro - de Cibeles\, 1\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Trenes históricos
+DTSTART;TZID=Europe/Madrid:20251205T000000
+DTEND;TZID=Europe/Madrid:20271231T000000
+UID:9d0621e6c17839e3d5f40fd5b71b539d7e21581dfd79ffc32f8986d347ea8bb0
+CATEGORIES:exhibition
+DESCRIPTION:Exposición permanente sobre los primeros trenes que circularo
+ n por las vías del suburbano madrileño para conmemorar sus 100 años de 
+ vida (Estación de Chamartín).\n\nhttps://museosmetromadrid.es/museos/est
+ acion-de-chamartin/
+LOCATION:Estación de Madrid - Chamartín - Clara Campoamor - Agustín de 
+ Foxa\, s/n\, Madrid\, 28036
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Viajar en el tiempo: 85 años de publicidad de Renfe
 DTSTART;TZID=Europe/Madrid:20251219T000000
 DTEND;TZID=Europe/Madrid:20260930T000000
@@ -697,6 +710,18 @@ DESCRIPTION:Exposición que se adentra en un universo donde el vínculo en
  asta 30 sept).\n\nhttps://phe.es/exposicion/everybody-loves-to-cha-cha-cha
  /
 LOCATION:Casa de América - de Cibeles\, 2\, Madrid\, 28014
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nada espontáneo. Una mirada a los 90
+DTSTART;TZID=Europe/Madrid:20260611T000000
+DTEND;TZID=Europe/Madrid:20261004T000000
+UID:ff8d1adf96ea90068b9796b350661fa045ccae886eb1fbbea545c534c8ef31df
+CATEGORIES:exhibition
+DESCRIPTION:Muestra del fotógrafo Jesús Ugalde que incluye retratos de g
+ randes figuras de la música española como Alejandro Sanz o Andrés Calam
+ aro (Matadero Madrid. Hasta octubre).\n\nhttps://www.mataderomadrid.org/pr
+ ogramacion/nada-espontaneo-una-mirada-los-90
+LOCATION:Matadero Madrid - de Legazpi\, 8\, Madrid\, 28045
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tejiendo la vida cortesana. Tejidos y bordados de las Colecciones 

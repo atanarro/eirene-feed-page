@@ -2,40 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Liuba María Hevia concierto y presentación de su nuevo disco "Al
- mas comunes"
-DTSTART;TZID=Europe/Madrid:20260919T200000
-DTEND;TZID=Europe/Madrid:20260919T200000
-UID:291da33a0725f7b16913243a7134cbd384fe736c4501be7efb622e57a795da6f
-CATEGORIES:music
-DESCRIPTION:ENTRADAS AGOTADAS. \n \nLiuba María Hevia concierto y present
- ación de su nuevo disco Almas comunes. Músicos invitados. Cátedra Mayor
- . 20:00h.\n\nhttps://ateneodemadrid.com/evento/liuba-maria-hevia-concierto
- -y-presentacion-de-su-nuevo-disco-almas-comunes/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maestro Espada
-DTSTART;TZID=Europe/Madrid:20260919T213000
-UID:e26e9fc3e25bbaa5f95abd74a6cfe2b98a7078c2d33f84ee824cfaec18d28e78
-CATEGORIES:music
-DESCRIPTION:Concierto / Pop / Electronic / World Music & Folk\n\nhttps://s
- alavillanos.es/evento/maestro-espada/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sex Museum + The Diesel Dogs
-DTSTART;TZID=Europe/Madrid:20260919T213000
-UID:62c7026c948ff6b9327179c7ce7f471a60ea7388d6a6a775431530606a83193b
-CATEGORIES:music
-DESCRIPTION:Precio de las entradas: 20€/24€ Entradas a la venta en mov
- ingtickets Bio/enlaces bandas: Sex Museum_facebook + Sex Museum_instagram 
- The Diesel Dogs_facebook + The Diesel Dogs_youtube + The Diesel Dogs_insta
- gram Más información: Sex\n\nhttps://gruta77.com/events/sex-museum-the-d
- iesel-dogs/var/ri-0.l-L2
-LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:"La voz infinita. (Una mañana de gala)"
 DTSTART;TZID=Europe/Madrid:20260920T120000
 DTEND;TZID=Europe/Madrid:20260920T120000
@@ -319,6 +285,29 @@ DESCRIPTION:Precio de las entradas: 14€/18€ Entradas a la venta en mov
 LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ANDRÉS FREITES JAZZ BAND
+DTSTART;TZID=Europe/Madrid:20260925T220000
+DTEND;TZID=Europe/Madrid:20260925T220000
+UID:77ea5cee504b4662946a4c10f3f408384fe222e4e0ea0fec8a550469a4e838a0
+CATEGORIES:music
+DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
+  el Área del Socio. Cátedra Mayor. Pase: 22:00h.\n\nhttps://ateneodemadr
+ id.com/evento/andres-freites-jazz-band/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:"De Cádiz a la Habana"
+DTSTART;TZID=Europe/Madrid:20260926T113000
+DTEND;TZID=Europe/Madrid:20260926T113000
+UID:f4cf761205da1489b612febf5d01aa9a9eca376f575edd0ec908e0fcffa047f6
+CATEGORIES:music
+DESCRIPTION:Concierto y presentación del disco \n \nSección de Música. 
+ Presenta: Luis Ángel de Benito. Concertista: Miguel Trápaga – autor. 
+ Cátedra Mayor. 11:30.\n\nhttps://ateneodemadrid.com/evento/de-cadiz-a-la-
+ habana/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ocean Colour Scene
 DTSTART;TZID=Europe/Madrid:20260926T210000
 UID:735085931c654b8c1b2e36c5e77633d5cdaee3e9d670e5ce90ae9ff2df5cdbee
@@ -338,9 +327,9 @@ DESCRIPTION:Concierto / Electronic / World Music & Folk\n\nhttps://salavil
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rodrigo Mercado + Gran Aparato Eléctrico
+SUMMARY:Rodrigo Mercado + Gran Aparato Eléctrico\; Cruza Carabanchel 2026
 DTSTART;TZID=Europe/Madrid:20260926T213000
-UID:b00c56e43ae783158081492769d0ea1ef17c0055a987b910e846fd17baaaf776
+UID:104edc12991f75721123146cb7705e22f604391517c695ce96d7d104a10f6df4
 CATEGORIES:music
 DESCRIPTION:Precio de las entradas: 12€/15€ Entradas a la venta en mov
  ingtickets Bio/enlaces bandas: Rodrigo Mercado_facebook + Rodrigo Mercado_
@@ -414,15 +403,15 @@ DESCRIPTION:Concierto / Flamenco / Pop / Rock\n\nhttps://salavillanos.es/e
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:G.A.S. Drummers + Ppm
+SUMMARY:G.A.S. Drummers + Ppm\; Cruza Carabanchel 2026
 DTSTART;TZID=Europe/Madrid:20261002T213000
-UID:d959e1d83e883611eacc6a6f3b988a300744ea57d6de17187d04b254f73846f0
+UID:ce8239ac51dd82d7e2b9bb864a3a3d065fc406e313c1cca12b13a688f45ee717
 CATEGORIES:music
 DESCRIPTION:Precio de las entradas: 12€/15€ Entradas a la venta en mov
  ingtickets Bio/enlaces bandas: G.A.S. Drummers_facebook + G.A.S. Drummers_
  X + G.A.S. Drummers_instagram PPM_instagram Más información: G.A.S. Drum
- mers son una banda andaluza de punk rock\n\nhttps://gruta77.com/events/g-a
- -s-drumers-ppm/var/ri-0.l-L2
+ mers son una banda andaluza\, de Cádiz\, conocidos\n\nhttps://gruta77.com
+ /events/g-a-s-drumers-ppm/var/ri-0.l-L2
 LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -454,9 +443,9 @@ LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
  id
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Señor No + Brava
+SUMMARY:Señor No + Brava\; Cruza Carabanchel 2026
 DTSTART;TZID=Europe/Madrid:20261003T213000
-UID:54fa3e71500682c2fb6b4ee53782ec89ae9854385bcfa7322fe4e6252183e57d
+UID:50bcbf88a87ba3ce7460fb2446f98a5b092b51a802cf37557bd8a20738031adb
 CATEGORIES:music
 DESCRIPTION:Precio de las entradas: 14€/17€ Entradas a la venta en mov
  ingtickets Bio/enlaces bandas: Señor No_facebook + Señor No_instagram Br
@@ -471,6 +460,25 @@ UID:be8abf8fd4374619361f0a8611423a5223a877a9d4e4fbe2d8f1705eacffc25f
 CATEGORIES:music
 DESCRIPTION:Club / Villanos del Jazz\n\nhttps://salavillanos.es/evento/tou
  r-maubourg/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fyahbwoy (Segunda Fecha)
+DTSTART;TZID=Europe/Madrid:20261004T200000
+UID:9b1d24f7e337667c4cfd6ccadc10b1871ff9d93e9b9612e411da595067e6acaf
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 18:30 Horas\n\nhttps://www.entradas.com/even
+ t/fyahbwoy-sala-la-riviera-21871563/?affiliate=RIV
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jamie Duffy Y Juan Arenosa
+DTSTART;TZID=Europe/Madrid:20261004T203000
+UID:b567ff2ecf9ff70ff8108ce17cb7d8ec9a8444c13f226a53e1ad8d2394928eaf
+CATEGORIES:music
+DESCRIPTION:Concierto / Jazz\n\nhttps://salavillanos.es/evento/jamie-duffy
+ -y-juan-arenosa/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 END:VCALENDAR
