@@ -10,7 +10,7 @@ Total events: 20
   location: Teatro del Barrio - Calle de Zurita, 20, Madrid
   coordinates: 40.4096081, -3.699174
   url: https://teatrodelbarrio.com/descansa-en-paz-el-derecho-a-un-entierro-digno-en-espana/
-  description: Disponible
+  description: ¡Ya solo quedan 22 plazas!
 
 [2] La ópera de los tres centavos con Coque Malla
   id: d83b0aeadd6bbbf29203317652b8044624c92e450eb082ace43493cb69f5248b
@@ -65,7 +65,7 @@ Total events: 20
   location: Teatro del Barrio - Calle de Zurita, 20, Madrid
   coordinates: 40.4096081, -3.699174
   url: https://teatrodelbarrio.com/manuel-castulo-cante-y-antonio-carrion-toque-pena-flamenca-de-lavapies/
-  description: ¡Ya solo quedan 14 plazas!
+  description: ¡Ya solo quedan 10 plazas!
 
 [7] Un verano por metro cuadrado
   id: f4c1532e718d8acfeaaea9fa3800b86367e3304028655c2550a2be879714c7b2
@@ -76,7 +76,7 @@ Total events: 20
   location: Teatro del Barrio - Calle de Zurita, 20, Madrid
   coordinates: 40.4096081, -3.699174
   url: https://teatrodelbarrio.com/un-verano-por-metro-cuadrado/
-  description: Disponible
+  description: ¡Ya solo quedan 17 plazas!
 
 [8] Malas
   id: 5e5d0aa42130d3cb5396170906bd30130a740ada731ffadc91a3cecd0b9fa539
@@ -144,7 +144,18 @@ Total events: 20
   url: https://teatrodelbarrio.com/trilogia-del-absurdo-primera-parte/
   description: Disponible
 
-[14] Un verano por metro cuadrado
+[14] Pinocchio(live)#3
+  id: 9ba3bfd778c74de0692a6758e40fbe523da56ca04b0353d30cac515db61309e5
+  start: 2026-09-27T20:00:00+02:00
+  end: 2026-09-27T20:00:00+02:00
+  category: theater
+  source: dramatico_inaem
+  location: Teatro Valle-Inclán - Plaza de Lavapies, Madrid
+  coordinates: 40.4080471, -3.7003217
+  url: https://dramatico.inaem.gob.es/evento/pinocchiolive3/
+  description: Función matinal: 27 SEP 2026 a las 12:00
+
+[15] Un verano por metro cuadrado
   id: 0755f4d0b3930ed5d0352432a4104f26c99cafd8b114be73805147d85de6b37d
   start: 2026-09-27T20:30:00+02:00
   end: N/A
@@ -155,7 +166,7 @@ Total events: 20
   url: https://teatrodelbarrio.com/un-verano-por-metro-cuadrado/
   description: Disponible
 
-[15] La mujer fascista
+[16] La mujer fascista
   id: 5679a02e14ccaa5b2036d484750efbbed7c466484960e37d23db11fabfcbdc8e
   start: 2026-09-28T19:30:00+02:00
   end: N/A
@@ -166,7 +177,7 @@ Total events: 20
   url: https://teatrodelbarrio.com/la-mujer-fascista/
   description: Disponible
 
-[16] Lectura de relatos de ‘El libro negro de Gaza’: testimonios de un genocidio
+[17] Lectura de relatos de ‘El libro negro de Gaza’: testimonios de un genocidio
   id: 0e9f05a0ccbfc57fe6fec8e0d71feed1d486d5bd77e2c3942bdec6f4a12456d8
   start: 2026-09-29T19:00:00+02:00
   end: N/A
@@ -177,7 +188,7 @@ Total events: 20
   url: https://teatrodelbarrio.com/lectura-de-relatos-de-el-libro-negro-de-gaza-testimonios-de-un-genocidio/
   description: Disponible
 
-[17] Jardín, Apocalipsis y La familia (Addams). SURGE MADRID EN OTOÑO
+[18] Jardín, Apocalipsis y La familia (Addams). SURGE MADRID EN OTOÑO
   id: b3c2eca7a7633c82ae49e1cc666e2a4b71898c9b95b26f9bbc20df1751cb3978
   start: 2026-09-30T19:30:00+02:00
   end: N/A
@@ -188,7 +199,7 @@ Total events: 20
   url: https://teatrodelbarrio.com/jardin-apocalipsis-y-la-familia-addams-surge-madrid-en-otono/
   description: Disponible
 
-[18] Verborrea
+[19] Verborrea
   id: 1b2916f803e83c65e5889ae9cb9472df5af7592a5ea441dd172ae76745751b8a
   start: 2026-10-01T00:00:00+02:00
   end: 2026-11-01T23:59:00+01:00
@@ -197,17 +208,6 @@ Total events: 20
   location: Nave 10 - Paseo de la Chopera, 14, Madrid
   coordinates: 40.3920606, -3.6978319
   url: https://tienda.madrid-destino.com/es/nave-10/verborrea/
-
-[19] Verborrea
-  id: 510513d2ddb22bdac48cb86c79c0523925c77f8277a2203e1c2fd299017fd05e
-  start: 2026-10-01T19:30:00+02:00
-  end: N/A
-  category: theater
-  source: matadero
-  location: Matadero Madrid - Plaza de Legazpi, 8, Madrid
-  coordinates: 40.392398, -3.697762
-  url: https://www.mataderomadrid.org/programacion/verborrea
-  description: “QUIZÁ VAMOS A CANTAR COMO LAS RATAS” Hay acontecimientos cuya probabilidad es tan pequeña que parecen sacados de una película. Así nacen las leyendas. Desde lo improbable. En la frontera entre la vida y su melodía soñada. En Verborrea , Pablo Remón hace a sus personajes narrar un mito de ascenso y caída contemporáneo, el de la ficticia banda punk Verborrea, una historia que usted recuerda con otros nombres, con el mismo rasgueo de guitarra. Seguiremos a dos hermanos criados en pleno Valle de los Caídos bajo la autoridad de un padre franquista: Kike, el ser social, y Segis, que construye su identidad a la contra. De esa rebeldía nace Segismundo Tóxico y su relato. Sus relatos. Cada personaje recuerda con matices. Hasta la guitarra fundacional de la banda tiene dos versiones de vida. En escena repiten los habituales de Remón: Javier Cámara, Israel Elejalde, Marta Nieto y Emilio Tomé, con quienes lleva colaborando años. Juntos, en un texto trufado de casticismo y cultura popular, cuestionarán cómo heredamos las narraciones, las combatimos, las aceptamos y las repetimos. Rimamos distinto, pero sonamos parecido. Cuando ya no puedes contarte como el héroe que querías ser, hay que redefinir qué es la esperanza. A lo mejor consiste en dejarte llevar por la historia que sí ha ocurrido. Pilar G. Almansa Dramaturgista de la temporada 26/27
 
 [20] FESTIVAL SURGE MADRID 2026: Jornada de trabajos emergentes
   id: b2a80e43c5eb1f5d1cfd394f674a66a4c8d79d8a1486832bd2d6f423ccd6653c

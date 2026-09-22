@@ -4,7 +4,7 @@ PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
 SUMMARY:La Odisea. El viaje inmersivo
 DTSTART;TZID=Europe/Madrid:20160918T000000
-DTEND;TZID=Europe/Madrid:20261220T000000
+DTEND;TZID=Europe/Madrid:20261209T000000
 UID:2b0c761321971c54feddd57f9b063a8bcf6a2194285807efc4eef843a98f78d2
 CATEGORIES:exhibition
 DESCRIPTION:Experiencia inmersiva que transporta a la antigua Grecia del 
@@ -1311,8 +1311,8 @@ UID:652af4df8f0aba5924c677d6ec1835141613baf8ad2b1fe3d87d91cc858d30cf
 CATEGORIES:exhibition
 DESCRIPTION:La obra de la artista marroquí-francesa invita a conocer la l
  ucha por sus derechos de los trabajadores magrebíes en Francia en la déc
- ada de 1970 (La Casa Encendida. 10 sept a 29 nov).\n\nhttps://www.lacasaen
- cendida.es/exposiciones/the-circle-project-bouchra-khalili
+ ada de 1970 (La Casa Encendida. Hasta 29 nov).\n\nhttps://www.lacasaencend
+ ida.es/exposiciones/the-circle-project-bouchra-khalili
 LOCATION:La Casa Encendida - de Valencia\, 2\, Madrid\, 28012
 END:VEVENT
 BEGIN:VEVENT
@@ -1350,8 +1350,8 @@ UID:8d9e82dff7345510739edf74ab3cecd6098debddc88757a9b68979b8d264dd6f
 CATEGORIES:exhibition
 DESCRIPTION:El artista malagueño invita al público a experimentar emocio
  nes que transitan entre la euforia y el desasosiego (Nave 0. Matadero Madr
- id. 11 sept a 24 ene).\n\nhttps://www.mataderomadrid.org/programacion/expo
- sicion-bailad-bailad-malditos-de-carlos-aires
+ id. Hasta 24 ene).\n\nhttps://www.mataderomadrid.org/programacion/exposici
+ on-bailad-bailad-malditos-de-carlos-aires
 LOCATION:Nave 0 (Matadero) - de Legazpi \, 8\, Madrid\, 28045
 END:VEVENT
 BEGIN:VEVENT
@@ -1361,8 +1361,8 @@ DTEND;TZID=Europe/Madrid:20270107T000000
 UID:d651394ce628f91037bac5c20756dfc18ae7668c21402ce70f73828329453def
 CATEGORIES:exhibition
 DESCRIPTION:Primera exposición inmersiva que viaja hasta el interior del 
- cuerpo humano en una espectacular base futurista (Espacio Delicias. 11 sep
- t a 7 ene).\n\nhttps://humanuniverse.com/
+ cuerpo humano en una espectacular base futurista (Espacio Delicias. Miér-
+ dom).\n\nhttps://humanuniverse.com/
 LOCATION:Espacio Delicias - de las Delicias\, 61\, Madrid\, 28045
 END:VEVENT
 BEGIN:VEVENT
@@ -1427,6 +1427,18 @@ DESCRIPTION:El artista coreano presenta tres nuevas obras en las que reint
  d/147030
 LOCATION:Centro Cultural Coreano en España - de la Castellana\, 15\, Madr
  id\, 28046
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Casera\, 75 años
+DTSTART;TZID=Europe/Madrid:20260918T000000
+DTEND;TZID=Europe/Madrid:20261031T000000
+UID:f5d12ed311f5edb0bd724c3c4a248bf8197d488bb03583aa6070ad36b96eeb70
+CATEGORIES:exhibition
+DESCRIPTION:Exposición que recorre más de siete décadas de historia de 
+ la marca (Sala de Exposiciones Juana Francés. Hasta 31 octubre).\n\nhttps
+ ://diario.madrid.es/blog/notas-de-prensa/el-ayuntamiento-rinde-homenaje-a-
+ la-casera-fundada-por-felix-duffo-en-tetuan-en-1949/
+LOCATION:Madrid - Bravo Murillo\, 357\, Madrid\, Madrid\, 28020
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Un viaje electrizante: Una experiencia inmersiva Iberdrola
@@ -1581,5 +1593,28 @@ DESCRIPTION:La artista mapuche expone por primera vez en solitario en Euro
  nes/seba-calfuqueo-cautin
 LOCATION:Museo Nacional Thyssen-Bornemisza - del Prado\, 8\, Madrid\, 2801
  4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:En el corazón del 7 de octubre
+DTSTART;TZID=Europe/Madrid:20261007T000000
+DTEND;TZID=Europe/Madrid:20261120T000000
+UID:da2a2e2f3c8ce1a1a6882567b96fde54247af4b5ad96473343141f175a1a4514
+CATEGORIES:exhibition
+DESCRIPTION:Cómic testimonial sobre las historias reales de humanidad del
+  7 de octubre (Centro Sefarad-Israel. 7 oct a 20 nov).\n\nhttps://www.sefa
+ rad-israel.es/exposiciones/en-el-corazon-del-7-de-octubre/
+LOCATION:Centro Sefarad-Israel - Mayor\, 69\, Madrid\, 28013
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Três Filhas - Filipa Sáragga d'Orey
+DTSTART;TZID=Europe/Madrid:20261007T000000
+DTEND;TZID=Europe/Madrid:20261103T000000
+UID:e3cb9b17851d980efa05cce05b6411319e2f0c3f7510bcd76a9d70f4c7faf209
+CATEGORIES:exhibition
+DESCRIPTION:La artista convierte la maternidad en arquitectura emocional y
+  pictórica\, construida con rigor compositivo\, geometría\, color y sím
+ bolos que evocan a sus tres hijas (Galería Jorge Alcolea.\n\nhttps://jorg
+ ealcolea.com/
+LOCATION:Galería Jorge Alcolea - de Claudio Coello\, 28\, Madrid\, 28001
 END:VEVENT
 END:VCALENDAR

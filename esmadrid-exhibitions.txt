@@ -1,10 +1,10 @@
 Eirene feed debug
-Total events: 125
+Total events: 128
 
 [1] La Odisea. El viaje inmersivo
   id: 2b0c761321971c54feddd57f9b063a8bcf6a2194285807efc4eef843a98f78d2
   start: 2016-09-18T00:00:00+02:00
-  end: 2026-12-20T00:00:00+01:00
+  end: 2026-12-09T00:00:00+01:00
   category: exhibition
   source: esmadrid_exhibitions
   location: MAD (Madrid Artes Digitales) Centro de Experiencias Inmersivas - de Legazpi, 8, Madrid, 28045
@@ -1143,7 +1143,7 @@ Total events: 125
   location: La Casa Encendida - de Valencia, 2, Madrid, 28012
   coordinates: 40.405584, -3.699894
   url: https://www.lacasaencendida.es/exposiciones/the-circle-project-bouchra-khalili
-  description: La obra de la artista marroquí-francesa invita a conocer la lucha por sus derechos de los trabajadores magrebíes en Francia en la década de 1970 (La Casa Encendida. 10 sept a 29 nov).
+  description: La obra de la artista marroquí-francesa invita a conocer la lucha por sus derechos de los trabajadores magrebíes en Francia en la década de 1970 (La Casa Encendida. Hasta 29 nov).
 
 [105] Loitsuja – Conjuros
   id: 7310096510e59772302ad2965e22ea305042f6af7a8e52efa1bb769d6ea5ddf6
@@ -1176,7 +1176,7 @@ Total events: 125
   location: Nave 0 (Matadero) - de Legazpi , 8, Madrid, 28045
   coordinates: 40.392398, -3.697762
   url: https://www.mataderomadrid.org/programacion/exposicion-bailad-bailad-malditos-de-carlos-aires
-  description: El artista malagueño invita al público a experimentar emociones que transitan entre la euforia y el desasosiego (Nave 0. Matadero Madrid. 11 sept a 24 ene).
+  description: El artista malagueño invita al público a experimentar emociones que transitan entre la euforia y el desasosiego (Nave 0. Matadero Madrid. Hasta 24 ene).
 
 [108] Human Universe - The Experience
   id: d651394ce628f91037bac5c20756dfc18ae7668c21402ce70f73828329453def
@@ -1187,7 +1187,7 @@ Total events: 125
   location: Espacio Delicias - de las Delicias, 61, Madrid, 28045
   coordinates: 40.399322, -3.692149
   url: https://humanuniverse.com/
-  description: Primera exposición inmersiva que viaja hasta el interior del cuerpo humano en una espectacular base futurista (Espacio Delicias. 11 sept a 7 ene).
+  description: Primera exposición inmersiva que viaja hasta el interior del cuerpo humano en una espectacular base futurista (Espacio Delicias. Miér-dom).
 
 [109] Centenario Lyceum Club Femenino
   id: b3942a75ed7d59e88eed785378059b6cb8a01a1622a3fe139228ee49c45332cd
@@ -1244,7 +1244,18 @@ Total events: 125
   url: https://spain.korean-culture.org/es/1217/board/428/read/147030
   description: El artista coreano presenta tres nuevas obras en las que reinterpreta las técnicas tradicionales de lacado (Centro Cultural Coreano. 17 sept a 13 nov).
 
-[114] Un viaje electrizante: Una experiencia inmersiva Iberdrola
+[114] La Casera, 75 años
+  id: f5d12ed311f5edb0bd724c3c4a248bf8197d488bb03583aa6070ad36b96eeb70
+  start: 2026-09-18T00:00:00+02:00
+  end: 2026-10-31T00:00:00+01:00
+  category: exhibition
+  source: esmadrid_exhibitions
+  location: Madrid - Bravo Murillo, 357, Madrid, Madrid, 28020
+  coordinates: 40.416782, -3.703507
+  url: https://diario.madrid.es/blog/notas-de-prensa/el-ayuntamiento-rinde-homenaje-a-la-casera-fundada-por-felix-duffo-en-tetuan-en-1949/
+  description: Exposición que recorre más de siete décadas de historia de la marca (Sala de Exposiciones Juana Francés. Hasta 31 octubre).
+
+[115] Un viaje electrizante: Una experiencia inmersiva Iberdrola
   id: bb65632b6c28a9a36fb45d04ecca683e715319c38094f3a1e04f969079327de2
   start: 2026-09-22T00:00:00+02:00
   end: 2026-10-20T00:00:00+02:00
@@ -1255,7 +1266,7 @@ Total events: 125
   url: https://www.125.iberdrola.com
   description: Iberdrola celebra su 125 aniversario con una exposición dedicada a la evolución tecnológica y el futuro de la electricidad (Galería de Cristal - Palacio de Cibeles. 22 sept a 20 oct).
 
-[115] Eli Cortiñas. La máquina sueña con humo
+[116] Eli Cortiñas. La máquina sueña con humo
   id: 66d1fce0520e55884f385e82b7467b08a30c9c522fb6042255e4ea78b1c81833
   start: 2026-09-23T00:00:00+02:00
   end: 2027-03-08T00:00:00+01:00
@@ -1266,7 +1277,7 @@ Total events: 125
   url: https://www.museoreinasofia.es/exposicion/eli-cortinas
   description: La artista canaria reflexiona sobre la relación entre el cine, los museos y la cultura digital reciente y cómo se construyen los imaginarios y conocimientos actuales (Museo Reina Sofía - Edifi
 
-[116] ADN Fórum 2026
+[117] ADN Fórum 2026
   id: cb47db68cae2552a03db084427cb4dbcc2037f75e3f23f8837f663d5513c9186
   start: 2026-09-24T00:00:00+02:00
   end: 2026-09-27T00:00:00+02:00
@@ -1277,7 +1288,7 @@ Total events: 125
   url: https://adnforum.es/
   description: Evento multidisciplinario que transforma Madrid focalizándose en la energía del arte instalativo y las últimas tendencias del diseño (Plaza de Colón. 24 a 27 septiembre)
 
-[117] Minor White
+[118] Minor White
   id: 27b4b0141a24ff653918a416cd168186396acc32b6dffbb24598be40e7031dc4
   start: 2026-09-24T00:00:00+02:00
   end: 2027-01-10T00:00:00+01:00
@@ -1288,7 +1299,7 @@ Total events: 125
   url: https://www.fundacionmapfre.org/arte-y-cultura/exposiciones/
   description: Primera retrospectiva en Europa centrada en esta figura clave en la fotografía estadounidense del siglo XX (Fundación MAPFRE. Sala Recoletos. 24 sept a 10 ene).
 
-[118] La otra orilla de la vanguardia
+[119] La otra orilla de la vanguardia
   id: 21838406a5a57ab315c92c734a57c300b769f258786be7b2a7e3e5dcc6b2799c
   start: 2026-09-24T00:00:00+02:00
   end: 2027-01-10T00:00:00+01:00
@@ -1299,7 +1310,7 @@ Total events: 125
   url: https://www.fundacionmapfre.org/arte-y-cultura/exposiciones/
   description: Muestra que analiza la relación entre el arte de vanguardia y las obras realizadas por pacientes psiquiátricos (Fundación MAPFRE. Sala Recoletos. 24 sept a 10 ene).
 
-[119] Prerrafaelismo. Itinerarios femeninos, 1850-1914
+[120] Prerrafaelismo. Itinerarios femeninos, 1850-1914
   id: 3801ad7264c8a66c983b7c580bfb0bc8ae325b094a712641fd7725448530f4f8
   start: 2026-09-24T00:00:00+02:00
   end: 2027-01-10T00:00:00+01:00
@@ -1310,7 +1321,7 @@ Total events: 125
   url: https://www.fundacionmapfre.org/arte-y-cultura/exposiciones/
   description: Un recorrido por una amplia selección de obras de varias artistas prerrafaelistas (Fundación MAPFRE. Sala Recoletos. 24 sept a 10 ene).
 
-[120] El plano flexible
+[121] El plano flexible
   id: 0f1f06a8c1633ef58a84c072ceb251fa9c1c71cae9aa215a180f866881eeb63f
   start: 2026-09-28T00:00:00+02:00
   end: 2027-03-27T00:00:00+01:00
@@ -1321,7 +1332,7 @@ Total events: 125
   url: https://www.bde.es/wbe/es/noticias-eventos/actualidad-banco-espana/el-banco-de-espana-mostrara-en-septiembre-las-obras-textiles-de-su-coleccion-.html
   description: Un recorrido por el arte textil entendido como un espacio de convergencia entre arte, arquitectura e industria (Sala de Exposiciones del Banco de España. 28 sept a 27 mar 2027).
 
-[121] Kenny Scharf
+[122] Kenny Scharf
   id: fb4086cbf38d9033d4fc7421eb51d1a21feb4742f9527a2badb777d708f20c75
   start: 2026-09-29T00:00:00+02:00
   end: 2027-01-17T00:00:00+01:00
@@ -1332,7 +1343,7 @@ Total events: 125
   url: https://www.museothyssen.org/exposiciones/kenny-scharf
   description: Una muestra dedicada al miembro destacado del movimiento artístico del East Village de Nueva York, pionero del arte urbano contemporáneo (Museo Nacional Thyssen-Bornemisza.
 
-[122] Cayetana. Grande de España
+[123] Cayetana. Grande de España
   id: d6bd9fd7ba43e12f0048dfb8676e4364116a756697a6addd27e659b46f748620
   start: 2026-09-30T00:00:00+02:00
   end: 2027-01-31T00:00:00+01:00
@@ -1343,7 +1354,7 @@ Total events: 125
   url: https://www.palaciodeliria.com/actividades-exposiciones-madrid/exposicion-cayetana-duquesa-de-alba
   description: Exposición dedicada a la XVIII duquesa de Alba destacando su extraordinaria contribución a la conservación del inmenso legado histórico y artístico de la Casa de Alba (Palacio de Liria.
 
-[123] Teatro de grandeza. Arte, arquitectura y ciudad en el Madrid Barroco
+[124] Teatro de grandeza. Arte, arquitectura y ciudad en el Madrid Barroco
   id: c367c22b9905c03d8dd8dced0035eff3794f42a1122d4d5faf3d4d04303f3bd0
   start: 2026-10-01T00:00:00+02:00
   end: 2027-01-17T00:00:00+01:00
@@ -1354,7 +1365,7 @@ Total events: 125
   url: https://www.teatrofernangomez.es/actividades/teatro-de-grandeza-arte-arquitectura-y-ciudad-en-el-madrid-barroco
   description: Descubre el esplendor artístico y urbano del Madrid barroco en esta exposición (Teatro Fernán Gómez. Centro Cultural de la Villa. Octubre 2026 a enero 2027).
 
-[124] Aqua Mater. Sebastião Salgado
+[125] Aqua Mater. Sebastião Salgado
   id: c9a4da19abb38f8ce25d840286c3e0b0ad8feed0ac20aae64abe0d171300bc42
   start: 2026-10-03T00:00:00+02:00
   end: 2026-10-25T00:00:00+02:00
@@ -1365,7 +1376,7 @@ Total events: 125
   url: https://salgadoaquamater.com/
   description: Exposición que recoge el trabajo del artista brasileño en torno al agua con casi un centenar de fotografías en blanco y negro de gran formato (Fundación Canal. Sala Castellana 214.
 
-[125] Seba Calfuqueo. Cautín
+[126] Seba Calfuqueo. Cautín
   id: 57bbc30c34da66b15e1c00f11e6e85930925108491d26382f08a1a00919c14fe
   start: 2026-10-06T00:00:00+02:00
   end: 2027-01-17T00:00:00+01:00
@@ -1375,3 +1386,25 @@ Total events: 125
   coordinates: 40.416172, -3.694181
   url: https://www.museothyssen.org/exposiciones/seba-calfuqueo-cautin
   description: La artista mapuche expone por primera vez en solitario en Europa una obra diseñada en exclusiva para esta ocasión (Museo Nacional Thyssen-Bornemisza. 6 oct a 17 ene).
+
+[127] En el corazón del 7 de octubre
+  id: da2a2e2f3c8ce1a1a6882567b96fde54247af4b5ad96473343141f175a1a4514
+  start: 2026-10-07T00:00:00+02:00
+  end: 2026-11-20T00:00:00+01:00
+  category: exhibition
+  source: esmadrid_exhibitions
+  location: Centro Sefarad-Israel - Mayor, 69, Madrid, 28013
+  coordinates: 40.412649, -3.715389
+  url: https://www.sefarad-israel.es/exposiciones/en-el-corazon-del-7-de-octubre/
+  description: Cómic testimonial sobre las historias reales de humanidad del 7 de octubre (Centro Sefarad-Israel. 7 oct a 20 nov).
+
+[128] Três Filhas - Filipa Sáragga d'Orey
+  id: e3cb9b17851d980efa05cce05b6411319e2f0c3f7510bcd76a9d70f4c7faf209
+  start: 2026-10-07T00:00:00+02:00
+  end: 2026-11-03T00:00:00+01:00
+  category: exhibition
+  source: esmadrid_exhibitions
+  location: Galería Jorge Alcolea - de Claudio Coello, 28, Madrid, 28001
+  coordinates: N/A
+  url: https://jorgealcolea.com/
+  description: La artista convierte la maternidad en arquitectura emocional y pictórica, construida con rigor compositivo, geometría, color y símbolos que evocan a sus tres hijas (Galería Jorge Alcolea.
