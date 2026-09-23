@@ -2,28 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Capítulo XXXIII: Escuchar a Esther Ferrer (sus acciones y sus eco
- s)
-DTSTART;TZID=Europe/Madrid:20260922T120000
-UID:aa16eb5a52d2f163a8c457ec6f72a88c54f9309b0195ebaa18c8ee2b5af77e98
+SUMMARY:Alexsucks
+DTSTART;TZID=Europe/Madrid:20260923T193000
+UID:28cfd671b9615d4a934e78397c87e7d37bf599489a0ef78e8e3a1e486ca97071
 CATEGORIES:music
-DESCRIPTION:Esther Ferrer (San Sebastián\, 1937) es una figura fundamenta
- l en el ámbito de la performance y —por su vinculación con el grupo Za
- j\, así como por sus magistrales creaciones para el medio radiofónico—
-  también en la historia del arte sonoro y las músicas experimentales. Su
-  impronta en artistas de múltiples generaciones y procedencias es enorme
- \, y no ha dejado de crecer con el paso del tiempo\, tal y como constatare
- mos —y celebraremos— en esta sesión de escucha. La performer donostia
- rra es\, además\, la artista invitada en la edición de 2026 de la Feria 
- de Arte Contemporáneo Estampa\, que se celebrará en IFEMA (Madrid) del 2
- 4 al 27 septiembre. En ese contexto se ha desarrollado un proyecto —comi
- sariado conjuntamente por Violeta Janeiro y Miguel Álvarez-Fernández— 
- que reúne algunas creaciones sonoras en las cuales se refleja esa importa
- nte influencia\, y cuyos resultados también podrán escucharse en este pr
- imer encuentro de la temporada. Miguel Álvarez-Fernández\, comisario del
-  ciclo.\n\nhttps://www.mataderomadrid.org/programacion/capitulo-xxxiii-esc
- uchar-esther-ferrer-sus-acciones-y-sus-ecos
-LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
+DESCRIPTION:Concierto / Rock\n\nhttps://salavillanos.es/evento/alexsucks/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CHIPI CHACÓN QUARTET
@@ -69,11 +53,22 @@ DTSTART;TZID=Europe/Madrid:20260924T200000
 DTEND;TZID=Europe/Madrid:20260924T200000
 UID:be3555caf85afa64b7802ecc5d5b217dd05f8aadb2da788e28a2c89a981b8f64
 CATEGORIES:music
-DESCRIPTION:Presentación del musical. \n \nSección de Derechos Civiles. 
- Bienvenida: Paquita Sauquillo. Presenta: Miguel Quintanilla\, Alicia Torij
- a\, Pedro Quijada Bru – autor. Sala Pérez Galdós. 19:00h.\n\nhttps://a
- teneodemadrid.com/evento/calle-49/
+DESCRIPTION:Presentación del musical. \n \nSección de Teatro. Equipo art
+ ístico: Laurence Aliganga –  dirección musical\, José Luis Buzón 
+ – arreglos\, Martí Costa – piano\, Romeo Urbano – libreto y direcci
+ ón. Reparto: Gonzalo Ramos como Ernest Merrick. Cristina Salvador como Ca
+ rol McKinney. Cátedra Mayor. 20:00h.\n\nhttps://ateneodemadrid.com/evento
+ /calle-49/
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Saxos Del Averno
+DTSTART;TZID=Europe/Madrid:20260924T203000
+UID:337de0e09dd7e1f3ee6d30f67058e0d78de09318d1341998d4a237414a488e27
+CATEGORIES:music
+DESCRIPTION:Concierto / Villanos del Jazz\n\nhttps://salavillanos.es/event
+ o/los-saxos-del-averno/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fat Freddy's Drop
@@ -144,6 +139,15 @@ LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
  id
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Habana Abierta
+DTSTART;TZID=Europe/Madrid:20260925T213000
+UID:7ea6f5e88cf57da76caa1caf8a867c7a1e3849b7ad2dd3858570b5dd3e3ae1c9
+CATEGORIES:music
+DESCRIPTION:Concierto / Latin / Pop\n\nhttps://salavillanos.es/evento/haba
+ na-abierta/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Los Petersellers + El Sobrino Del Diablo
 DTSTART;TZID=Europe/Madrid:20260925T213000
 UID:dffafb4e1ba8bc675d4a4d3d782a7749a5eb8a0548d307daf8afbc3821fbee57
@@ -187,6 +191,15 @@ DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://www.entradas.com/artist/
  ocean-colour-scene/?affiliate=RIV
 LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
  id
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MONDRA – A Ronda
+DTSTART;TZID=Europe/Madrid:20260926T213000
+UID:dd664cfc12e9027799255e23ee7b7738a44e04f817e14c45c1cdf6d59e4a0e12
+CATEGORIES:music
+DESCRIPTION:Concierto / Electronic / World Music & Folk\n\nhttps://salavil
+ lanos.es/evento/mondra-a-ronda/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rodrigo Mercado + Gran Aparato Eléctrico\; Cruza Carabanchel 2026
@@ -260,6 +273,15 @@ DESCRIPTION:Venta de entradas: (aquí) | Socios: código en el Área de So
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:XERACH presentacion de disco
+DTSTART;TZID=Europe/Madrid:20260927T190000
+UID:79ff0b54c79b529cd6994a9dd7e7d91209acbd50f16a13f93e933ae8a8bb18ce
+CATEGORIES:music
+DESCRIPTION:Concierto / Electronic / Pop / Urban\n\nhttps://salavillanos.e
+ s/evento/xerach-presentacion-de-disco/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:LLUÍS COLOMA TRÍO
 DTSTART;TZID=Europe/Madrid:20260927T200000
 DTEND;TZID=Europe/Madrid:20260927T200000
@@ -291,6 +313,62 @@ DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Faros en la noche cósmica
+DTSTART;TZID=Europe/Madrid:20260928T193000
+DTEND;TZID=Europe/Madrid:20260928T193000
+UID:7baaa6f2c1345411ca02ce54b7872d717712cc60a321b03582be8033d1b3aef4
+CATEGORIES:music
+DESCRIPTION:Ciclo La Bascongada y el Universo \n \nSección de Música y R
+ eal Sociedad Bascongada de los amigos del país. Presenta: Telmo Fernánde
+ z. Intervienen: Tobías F. Borkel – violín\, Mikhail Studyonov – pian
+ o. Cátedra Mayor. 19:30h.\n\nhttps://ateneodemadrid.com/evento/faros-en-l
+ a-noche-cosmica/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DE ESTRAPERLO DE JESÚS MAÑERU
+DTSTART;TZID=Europe/Madrid:20260928T200000
+DTEND;TZID=Europe/Madrid:20260929T200000
+UID:cfd7ae30a3d0b67632afa3c9e1224bfa07c8847e153a9fcd9103090a55b2122b
+CATEGORIES:music
+DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
+  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h. \n \nMa
+ rta Mansilla – flauta\nDani Juárez – saxo\nDavid Sancho – piano\nMi
+ guel Rodrigáñez – contrabajo\nJesús Mañeru – percusión\, composic
+ ión \nEl músico Jesús Mañeru\, percusionista\, inquieto en el aprendiz
+ aje de diferentes músicas populares\, presenta\nsu proyecto basado en com
+ posiciones que le han acompañado en los últimos años y las viste en for
+ mación de\nquinteto.\nSu trayectoria musical es amplia y ecléctica\, tra
+ nsitando entre diferentes caminos\, estilos y haciendo música\npara diver
+ sas disciplinas artísticas como danza\, teatro\, pintura y performance. D
+ espués de numerosos discos\ngrabados con diversos proyectos a lo largo de
+  su carrera\, presenta su obra más personal con composiciones\npropias ll
+ amado De estraperlo.\nSugerentes y bellas melodías entrelazadas con ritmo
+ s de distintos pueblos y culturas\, proponiendo un viaje de\nensueño dond
+ e la improvisación juega un papel protagonista. Para ello comparte con es
+ traperlistas de lujo\,\nmúsicos reconocidos en el panorama nacional.\n\nh
+ ttps://ateneodemadrid.com/evento/de-estraperlo-de-jesus-maneru/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nik West
+DTSTART;TZID=Europe/Madrid:20260928T203000
+UID:feacd94cf5fec6cd979eaf39a35b73a32220e8215f879b4c9acbf87532164281
+CATEGORIES:music
+DESCRIPTION:Concierto / Villanos del Jazz\n\nhttps://salavillanos.es/event
+ o/nik-west/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Isabel Van Gelder
+DTSTART;TZID=Europe/Madrid:20260929T200000
+UID:95505d875335e8db66ffb4286736fc5d6887413751e5fbcad369561ee3aa032d
+CATEGORIES:music
+DESCRIPTION:Concierto / Rock\n\nhttps://salavillanos.es/evento/isabel-van-
+ gelder/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:El hombre que se enamoró de la Luna #Luna410
 DTSTART;TZID=Europe/Madrid:20260930T200000
 UID:36b5ffac55b0449a10553cd02835e91b64c3074e49a2cdfd1a7f16aa38a13470
@@ -310,6 +388,24 @@ DESCRIPTION:El hombre que se enamoró de la Luna #Luna410\n\nEl podcast cu
 LOCATION:Sala Mirador - Calle Doctor Fourquet\, 31\, 28012 Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Sara Hebe
+DTSTART;TZID=Europe/Madrid:20260930T203000
+UID:88a0cf16f0a7d89ab0a943f181f3e3a0555e552abe427a88dbf71dc8092cb413
+CATEGORIES:music
+DESCRIPTION:Concierto / Hip Hop & Rap / Urban\n\nhttps://salavillanos.es/e
+ vento/sara-hebe/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alvaro Garcia
+DTSTART;TZID=Europe/Madrid:20261002T203000
+UID:1cc4fa626c419f87a255bd20795d53eb44593327fe323f17b1967175780223aa
+CATEGORIES:music
+DESCRIPTION:Concierto / Flamenco / Pop / Rock\n\nhttps://salavillanos.es/e
+ vento/alvaro-garcia/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:G.A.S. Drummers + Ppm\; Cruza Carabanchel 2026
 DTSTART;TZID=Europe/Madrid:20261002T213000
 UID:ce8239ac51dd82d7e2b9bb864a3a3d065fc406e313c1cca12b13a688f45ee717
@@ -320,6 +416,24 @@ DESCRIPTION:Precio de las entradas: 12€/15€ Entradas a la venta en mov
  mers son una banda andaluza\, de Cádiz\, conocidos\n\nhttps://gruta77.com
  /events/g-a-s-drumers-ppm/var/ri-0.l-L2
 LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kraak & Smaak SOUNDSYSTEM + Madame Excuse + Rayko
+DTSTART;TZID=Europe/Madrid:20261002T235900
+UID:316cc937ae7acb3fbe845879f52d4dffce684b6b0e2d40b58fd2370044157439
+CATEGORIES:music
+DESCRIPTION:Concierto / Villanos del Jazz\n\nhttps://salavillanos.es/event
+ o/kraak-smaak-soundsystem/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Vinagres
+DTSTART;TZID=Europe/Madrid:20261003T210000
+UID:516914af9d9b34671050d50697c25c049a1310a48831800c10842e745c3dabda
+CATEGORIES:music
+DESCRIPTION:Concierto / Rock\n\nhttps://salavillanos.es/evento/los-vinagre
+ s/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fyahbwoy (Sold Out)
@@ -343,6 +457,15 @@ DESCRIPTION:Precio de las entradas: 14€/17€ Entradas a la venta en mov
 LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Tour-Maubourg + Nacho Marco
+DTSTART;TZID=Europe/Madrid:20261003T235900
+UID:be8abf8fd4374619361f0a8611423a5223a877a9d4e4fbe2d8f1705eacffc25f
+CATEGORIES:music
+DESCRIPTION:Club / Villanos del Jazz\n\nhttps://salavillanos.es/evento/tou
+ r-maubourg/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Fyahbwoy (Segunda Fecha)
 DTSTART;TZID=Europe/Madrid:20261004T200000
 UID:9b1d24f7e337667c4cfd6ccadc10b1871ff9d93e9b9612e411da595067e6acaf
@@ -353,6 +476,15 @@ LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
  id
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Jamie Duffy Y Juan Arenosa
+DTSTART;TZID=Europe/Madrid:20261004T203000
+UID:b567ff2ecf9ff70ff8108ce17cb7d8ec9a8444c13f226a53e1ad8d2394928eaf
+CATEGORIES:music
+DESCRIPTION:Concierto / Jazz\n\nhttps://salavillanos.es/evento/jamie-duffy
+ -y-juan-arenosa/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:GONDWANA Y QUIQUE NEIRA
 DTSTART;TZID=Europe/Madrid:20261006T200000
 UID:a52ce8d1d3441568140a0f6419ecab94f29bc0047476b75f5f4cfe8aaca4e8aa
@@ -361,5 +493,31 @@ DESCRIPTION:Apertura Puertas: 19:00 pm\n\nhttps://www.entradas.com/event/g
  ondwana-quique-neira-sala-la-riviera-21741146/?Affiliate=RIV
 LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
  id
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Agnes Nunes
+DTSTART;TZID=Europe/Madrid:20261006T203000
+UID:1a1c6eaac72f119a0ad25673180572ee69699cce2b71959c3b3c56c988d7a96b
+CATEGORIES:music
+DESCRIPTION:Concierto / Villanos del Jazz\n\nhttps://salavillanos.es/event
+ o/agnes-nunes/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Capítulo XXXIV: Viajes de oído (músicas en tránsito)
+DTSTART;TZID=Europe/Madrid:20261007T120000
+UID:a1e041ee2d3a1827df25391137a31ae9d87a52d0a01351cb6e9c767263fd7ac8
+CATEGORIES:music
+DESCRIPTION:Hay músicas que acompañan un viaje\, otras que lo recuerdan 
+ y algunas que parecen ponerse en camino por sí mismas. Este capítulo de 
+ Relatos del ruido reúne diferentes formas de partir\, atravesar y regresa
+ r: recorridos a pie o en vehículos\, desplazamientos entre culturas y via
+ jes que suceden sin abandonar el lugar de la escucha. Las obras selecciona
+ das nos invitan a atender a lo que cambia durante el trayecto —en los so
+ nidos\, pero también en quien los escucha—\, incluso cuando el destino 
+ permanece incierto. Miguel Álvarez-Fernández\, comisario del ciclo.\n\nh
+ ttps://www.mataderomadrid.org/programacion/capitulo-xxxiv-viajes-de-oido-m
+ usicas-en-transito
+LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 END:VCALENDAR
