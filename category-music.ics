@@ -2,40 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Alexsucks
-DTSTART;TZID=Europe/Madrid:20260923T193000
-UID:28cfd671b9615d4a934e78397c87e7d37bf599489a0ef78e8e3a1e486ca97071
-CATEGORIES:music
-DESCRIPTION:Concierto / Rock\n\nhttps://salavillanos.es/evento/alexsucks/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CHIPI CHACÓN QUARTET
-DTSTART;TZID=Europe/Madrid:20260923T200000
-DTEND;TZID=Europe/Madrid:20260924T200000
-UID:87203c5598b4a839271b4602f0349af8a3c2ed775d29167a88c5aee58bfffcdf
-CATEGORIES:music
-DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
-  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h. \n \nCh
- ipi Chacón – trompeta\nLuis Guerra – piano (día 23)\nJorge Vera – 
- piano (día 24)\nGastón Joya – contrabajo (día 23)\nMiquel Álvarez 
- – contrabajo (día 24)\nFabio Rivera – batería \nChipi Chacón es tro
- mpetista\, compositor\, cantante y productor venezolano\, catalogado en la
-  actualidad como\nuno de los artistas Latinoamericanos con más proyecció
- n internacional\, reconocido por los más grandes\nmaestros de la música 
- por su gran versatilidad\, se ha presentado en más de 50 países en los f
- estivales más\nimportantes a nivel global\, ha colaborado con grandes fig
- uras como: John Williams\, Claudio Abbado\, Simon\nRattle\, Martha Argeric
- h\, Gustavo Dudamel\, Krzysztof Penderecki\, Bob Mintzer\, Arturo Sandoval
- \, James\nMorrinson\, Paquito D’ Rivera\, entre otros.\nChipi cuenta con
-  siete producciones discográficas y ha sido ganador de múltiples premios
-  dentro de su país\ndurante su corta pero portentosa carrera\, además cu
- enta con una nominación a los Latin Grammy como “Mejor\nNuevo Artista
- ” por su tercer disco “Transparente”.\n\nhttps://ateneodemadrid.com/
- evento/chipi-chacon-quartet/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:El reto de nuestro tiempo: migración\, ciudadanía y fronteras
 DTSTART;TZID=Europe/Madrid:20260924T193000
 DTEND;TZID=Europe/Madrid:20260924T193000
@@ -214,17 +180,17 @@ DESCRIPTION:Precio de las entradas: 12€/15€ Entradas a la venta en mov
 LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Once años antes… recordando a Javier Khrae
+SUMMARY:Once años antes… recordando a Javier Krahe
 DTSTART;TZID=Europe/Madrid:20260927T123000
 DTEND;TZID=Europe/Madrid:20260927T123000
-UID:e710d7a4af8b7aa44d2f5289adef5e625abbd318d2c4c3a89461c565e519715b
+UID:00b65db566b96bf51c5ec55865b8afdf275525c306a116340741f1cdf16c87cf
 CATEGORIES:music
 DESCRIPTION:Venta de entradas (aquí). Socios\, código de descuento en el
   Área del Socio. \n \nConcierto matinal especial\, recordando a Javier Kr
  ahe con sus canciones. Interpretan su Bundesklarinette Andreas Prittwitz v
  oz y vientos\, Luis Fernández piano\, además de varios invitados especia
  les. Cátedra Mayor. 19:30h.\n\nhttps://ateneodemadrid.com/evento/once-ano
- s-antes-recordando-a-javier-khrae/
+ s-antes-recordando-a-javier-krahe/
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -519,5 +485,36 @@ DESCRIPTION:Hay músicas que acompañan un viaje\, otras que lo recuerdan
  ttps://www.mataderomadrid.org/programacion/capitulo-xxxiv-viajes-de-oido-m
  usicas-en-transito
 LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El Tri
+DTSTART;TZID=Europe/Madrid:20261008T200000
+UID:bb6761dfcf6d4f94ae447789cf5423616667d5d4019993332230885802b11a1a
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 19:00 pm\n\nhttps://www.entradas.com/artist/
+ el-tri/?Affiliate=RIV
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Mambo Jambo + The Vinegars
+DTSTART;TZID=Europe/Madrid:20261008T210000
+UID:ac1792ebaac74da867ad004bda9dc5ef8d43dfbcac8fa734278f37057e5494e4
+CATEGORIES:music
+DESCRIPTION:Precio de las entradas: 20€/24€ Entradas a la venta en mov
+ ingtickets Bio/enlaces bandas: LOS MAMBO JAMBO Los Mambo Jambo_facebok + L
+ os Mambo Jambo_X + Los Mambo Jambo_instagram The Vinegars_facebook + The V
+ inegars_instagram Más\n\nhttps://gruta77.com/events/los-mambo-jambo-the-v
+ inegars/var/ri-0.l-L2
+LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:McEnroe presenta «La vida libre»
+DTSTART;TZID=Europe/Madrid:20261008T214500
+UID:67f71440ec83d6fe2f24a5a1ac931409887a4140f119e4d8544103041d7c4cfc
+CATEGORIES:music
+DESCRIPTION:Concierto / Pop / Rock\n\nhttps://salavillanos.es/evento/mcenr
+ oe-presenta-la-vida-libre/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 END:VCALENDAR

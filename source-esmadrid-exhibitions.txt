@@ -1,5 +1,5 @@
 Eirene feed debug
-Total events: 131
+Total events: 133
 
 [1] La Odisea. El viaje inmersivo
   id: 2b0c761321971c54feddd57f9b063a8bcf6a2194285807efc4eef843a98f78d2
@@ -386,18 +386,7 @@ Total events: 131
   url: https://phe.es/exposicion/los-americanos/
   description: Muestra que reúne la serie completa de Los Americanos realizada durante el viaje que el fotógrafo emprendió por Estados Unidos (Espacio Fundación Telefónica. 29 may a 1 nov).
 
-[36] Goya y las escuelas flamenca e italiana. Un siglo de filantropía de Carlota de Santamarca y Antonia González
-  id: 42d1304478c73e5458b951d99a74d54e78c2cd88557a025fc5aa0f4f806efa7d
-  start: 2026-06-02T00:00:00+02:00
-  end: 2026-09-23T00:00:00+02:00
-  category: exhibition
-  source: esmadrid_exhibitions
-  location: Museo de Historia - de Fuencarral, 78, Madrid, 28004
-  coordinates: 40.425091, -3.698386
-  url: https://www.fundacionibercaja.es/actividades/exposiciones/goya-y-las-escuelas-flamenca-e-italiana-un-siglo-de-filantropia-de-carlota-de-santamarca-y-antonia-gonzalez-madrid/
-  description: Exposición dedicada a la colección artística que reunieron ambas filántropas y que hoy se puede disfrutar en Madrid (Museo de Historia. Hasta 23 septiembre).
-
-[37] Vitrina 0. Fragmento de la titulatura real de Adijalamani
+[36] Vitrina 0. Fragmento de la titulatura real de Adijalamani
   id: 3aa2d895e69b05153af4fbbf2652c09a02e0dc0831df5ed88ce1cec44518ae57
   start: 2026-06-02T00:00:00+02:00
   end: 2026-09-27T00:00:00+02:00
@@ -408,7 +397,7 @@ Total events: 131
   url: https://www.madrid.es/portales/munimadrid/es/Inicio/Cultura-ocio-y-deporte/Actividades-y-eventos/Vitrina-0-Fragmento-de-la-titulatura-real-de-Adijalamani/?vgnextfmt=default&vgnextoid=a45e3a908d26e910VgnVCM100000891ecb1aRCRD&vgnextchannel=6381f073808fe410V
   description: Muestra de un fragmento de la titulatura real del rey de Meroe, sucesor del rey Arqamani, en el siglo II a.C. (Museo de San Isidro. 2 jun a 27 sept).
 
-[38] Europa ilustra
+[37] Europa ilustra
   id: 56ba5c21cc8a3c97140489ea95fd600abc0702ebd208e3969d904761118b701a
   start: 2026-06-03T00:00:00+02:00
   end: 2026-10-18T00:00:00+02:00
@@ -419,7 +408,7 @@ Total events: 131
   url: https://casalector.fundaciongsr.org/europa-ilustra-3/
   description: Once ilustradores e ilustradoras se dan cita para celebrar la diversidad cultural y creativa con motivo del Día de Europa (Casa del Lector - Matadero. Hasta 18 oct).
 
-[39] Somos Naturaleza
+[38] Somos Naturaleza
   id: 5ea4ca69949ad3e320d8eff4d26d7a52ea4300ae244e982d17d1c789b7ba1499
   start: 2026-06-03T00:00:00+02:00
   end: 2027-03-07T00:00:00+01:00
@@ -429,6 +418,17 @@ Total events: 131
   coordinates: 40.410104, -3.69337
   url: https://caixaforum.org/es/madrid/p/somos-naturaleza-madrid
   description: Experiencia audiovisual inmersiva que muestra la biodiversidad de forma innovadora (CaixaForum Madrid. Hasta 7 marzo 2027).
+
+[39] El deber de lo nuevo
+  id: 8ce3221077e0e7d0fdf74295714f1524b559dfc95cf1b6786b3b21756d9f16e4
+  start: 2026-06-04T00:00:00+02:00
+  end: 2027-01-17T00:00:00+01:00
+  category: exhibition
+  source: esmadrid_exhibitions
+  location: Museo de Arte Contemporáneo - del Conde Duque, 9, Madrid, 28015
+  coordinates: 40.427602, -3.710535
+  url: https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Medios-de-comunicacion/Museo-de-Arte-Contemporaneo/?vgnextfmt=default&vgnextoid=d6b0744554b6b010VgnVCM100000d90ca8c0RCRD&vgnextchannel=1578e3d5d3e07010VgnVCM100000dc0ca8c0RCRD&idCapitulo=
+  description: Diálogo entre una selección de obras de la Colección de Arte Afundación y los fondos del MAC (Museo de Arte Contemporáneo. Hasta 17 ene).
 
 [40] Materia viva. Un recorrido por la botánica, el arte y la memoria andalusí
   id: 6be814b4fc5dfaa8d970da248baa456b369ff7da8a0d066abc435a7857af5370
@@ -1441,3 +1441,25 @@ Total events: 131
   coordinates: 40.418699, -3.691006
   url: https://www.centrocentro.org/exposicion/cruz-novillo
   description: Un recorrido no lineal por la obra del artista que incluye ciclos de trabajos desde mediados de la década de 1960 hasta obras de 2025 (CentroCentro. 8 oct a 24 ene 2027).
+
+[132] Madrid en el Teatro Español del Siglo de Oro
+  id: a090fe93ea410e8f5ddfcdd521e5f92bca3bb161814697626ca6fb9c5ec31e5e
+  start: 2026-10-09T00:00:00+02:00
+  end: 2027-01-10T00:00:00+01:00
+  category: exhibition
+  source: esmadrid_exhibitions
+  location: Biblioteca Regional de la Comunidad de Madrid Joaquín Leguina - de Ramírez de Prado, 3, Madrid, 28045
+  coordinates: 40.400175, -3.69057
+  url: https://www.comunidad.madrid/actividades/2026/exposicion-madrid-teatro-espanol-siglo-oro
+  description: Un recorrido por el papel de Madrid como gran centro del teatro barroco español (Biblioteca Regional de la Comunidad de Madrid Joaquín Leguina. 9 oct a 10 ene 2027).
+
+[133] Thyssen-Bornemisza & Mauritshuis: una historia de amor entre dos museos
+  id: 7a17edd15f7cdb595d3ca1382b5177b1dfdc33c123916fce8192d1884aff939e
+  start: 2026-10-09T00:00:00+02:00
+  end: 2027-01-10T00:00:00+01:00
+  category: exhibition
+  source: esmadrid_exhibitions
+  location: Museo Nacional Thyssen-Bornemisza - del Prado, 8, Madrid, 28014
+  coordinates: 40.416172, -3.694181
+  url: https://www.museothyssen.org/exposiciones/thyssen-bornemisza-mauritshuis
+  description: Los dos museos intercambian de forma simultánea veinticinco obras destacadas de sus colecciones permanentes (Museo Nacional Thyssen-Bornemisza. 9 oct a 10 ene 2027).

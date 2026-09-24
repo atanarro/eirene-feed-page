@@ -2,55 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Homo e-sapiens
-DTSTART;TZID=Europe/Madrid:20260923T190000
-UID:a9e443d68c13d3d6214449643394668db98767e756384961da711040bfd459ac
-CATEGORIES:cinema
-DESCRIPTION:Mass Ornament (Natalie Bookchin\, EE. UU.\, 2009\, 7') Natalie
-  Bookchin\, artista y teórica especializada en medios digitales\, aúna e
- l archivo audiovisual fragmentado en internet a partir de un análisis cr
- ítico de la sociedad. A través de un masivo remontaje\, Mass Ornament co
- ordina bailes solitarios en la habitación y coreografías miméticas de m
- asas exponiendo las contradicciones entre la libertad individual y el cont
- rol social.\n\nAudio: VOSE\n\nhttps://www.cinetecamadrid.com/programacion/
- homo-e-sapiens
-LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CIMA en corto 10 años: ¿Qué quiere una mujer?
-DTSTART;TZID=Europe/Madrid:20260923T193000
-UID:ac990ec46ea677ff90a95811f412f13e2d85230a52b81a8a00034969ab915540
-CATEGORIES:cinema
-DESCRIPTION:¿Qué quiere una mujer? La célebre formulación de Sigmund F
- reud condensaba el desconcierto de una cultura incapaz de reconocer a las 
- mujeres como sujetos plenos de deseo y de libertad. Ya hace rato que no no
- s hacemos esta pregunta. Las mujeres no somos un enigma que descifrar ni u
- n misterio que interpretar. Somos sujetos de derechos que defendemos la au
- tonomía para decidir sobre nuestros cuerpos\, nuestra sexualidad\, nuestr
- as vidas.\n\nAudio: VOSE\n\nhttps://www.cinetecamadrid.com/programacion/ci
- ma-en-corto-10-anos-que-quiere-una-mujer
-LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fandangos\, fosfoyesos y fresas
-DTSTART;TZID=Europe/Madrid:20260923T200000
-UID:afbee7f73a2e835a29983d979715111c0355d108759e411e909ec4a3ae7c06ff
-CATEGORIES:cinema
-DESCRIPTION:Fandangos y fosfoyesos (un film que crece) (Isaías Griñolo\,
-  España\, 2010-2026\, 60') El fandango: palo del flamenco (más onubense 
- que ningún otro) que\, como todos los cantes vernáculos\, expresa el sen
- tir y la identidad de Huelva y sus gentes. Los fosfoyesos: residuos proced
- entes de la producción industrial del ácido fosfórico de Fertiberia que
- \, ilegalmente depositados durante 40 años en las marismas\, han converti
- do a Huelva en una ciudad de 1.206 hectáreas que cuenta\, a 500 metros\, 
- con un vertedero químico de 1.200 hectáreas. Fandangos y fosfoyesos (una
-  película que crece) viene recopilando\, desde 2010\, materiales de las l
- uchas de las gentes de Huelva que han dicho NO a la contaminación químic
- a.\n\nhttps://www.cinetecamadrid.com/programacion/fandangos-fosfoyesos-y-f
- resas
-LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:La risa y la navaja (versión integral)
 DTSTART;TZID=Europe/Madrid:20260924T170000
 UID:d1e538b8df1debc7d00700506ce2518e9e21e9149dd8d9301a569acdba0e0344
@@ -182,19 +133,12 @@ SUMMARY:La noche está marchándose ya
 DTSTART;TZID=Europe/Madrid:20260926T203000
 UID:c9ec9985b42827d296e11f9707ba47bc6f2135dfb4b512a7e62d4d12362163aa
 CATEGORIES:cinema
-DESCRIPTION:div#sliding-popup\, div#sliding-popup .eu-cookie-withdraw-bann
- er\, .eu-cookie-withdraw-tab {background: #d9d9d9} div#sliding-popup.eu-co
- okie-withdraw-wrapper { background: transparent\; } #sliding-popup h1\, #s
- liding-popup h2\, #sliding-popup h3\, #sliding-popup p\, #sliding-popup la
- bel\, #sliding-popup div\, .eu-cookie-compliance-more-button\, .eu-cookie-
- compliance-secondary-button\, .eu-cookie-withdraw-tab { color: #333333\;} 
- .eu-cookie-withdraw-tab { border-color: #333333\;} { "@context": "https://
- schema.org"\, "@graph": [ { "@type": "WebSite"\, "name": "Cineteca"\, "url
- ": "https://www.cinetecamadrid.com/"\, "potentialAction": { "@type": "Sear
- chAction"\, "target": "https://www.cinetecamadrid.com/programacion?s={sear
- ch_term_string}"\, "query-input": "required name=search_term_string" } } ]
-  }\n\nRelease year: 2025\n\nOriginal language: ES\n\nhttps://www.cinetecam
- adrid.com/programacion/la-noche-esta-marchandose-ya
+DESCRIPTION:Un proyeccionista\, que se instala en secreto a vivir dentro d
+ e un cine municipal en decadencia\, reúne a una inesperada comunidad noct
+ urna y deberá luchar por mantener su nuevo hogar cuando el cierre del edi
+ ficio amenaza con destruir todo lo que construyó.\n\nRelease year: 2025\n
+ \nOriginal language: ES\n\nhttps://www.cinetecamadrid.com/programacion/la-
+ noche-esta-marchandose-ya
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -361,6 +305,17 @@ DESCRIPTION:Glass Bottom Ferry bucea en la complejidad del espacio fronter
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Cortometrajes realizados por menores de 12 años
+DTSTART;TZID=Europe/Madrid:20261004T120000
+UID:c279bb592f5cca6b7b8dbf5bcc823344868e9ff21690673f300b6747b4206abd
+CATEGORIES:cinema
+DESCRIPTION:Cortometrajes de animación y ficción nacionales e internacio
+ nales realizados por menores de 12 años en entornos educativos.\n\nAudio:
+  VOSE\n\nhttps://www.cinetecamadrid.com/programacion/cortometrajes-realiza
+ dos-por-menores-de-12-anos
+LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Lejos de los árboles
 DTSTART;TZID=Europe/Madrid:20261004T193000
 UID:cebc5e9d97ff839705e5eddf7519e58793f3a3bb6e6650a2c340388c610efa26
@@ -424,6 +379,37 @@ DESCRIPTION:Un literato se encierra en una casa solitaria para escribir un
  nce con una de las protagonistas de la novela. Todo lo anterior forma part
  e\, a su vez\, de una película que filma.\n\nRelease year: 1986\n\nOrigin
  al language: EN\n\nhttps://www.cinetecamadrid.com/programacion/redondo
+LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mientras el cuerpo aguante
+DTSTART;TZID=Europe/Madrid:20261006T193000
+UID:7b4f99227823c4aeed0e1a5387bb32121640282b53e93491b2d2e30ecdbe35a5
+CATEGORIES:cinema
+DESCRIPTION:Documental sobre la vida del cantautor y filósofo Chicho Sán
+ chez Ferlosio\, hijo del escritor falangista Rafael Sánchez Mazas y herma
+ no del escritor Rafael Sánchez Ferlosio. La película retrata la vida cot
+ idiana y las reflexiones de un cantautor irrepetible\, por entonces alejad
+ o de la vida política y social\, así como el propio dispositivo de rodaj
+ e\, con Fernando Trueba dirigiendo su segundo largometraje. Un acercamient
+ o a la vida de Chicho y su compañera Rosa a través de sus canciones de r
+ esistencia antifascista\, autonomía e independencia.\n\nRelease year: 198
+ 2\n\nOriginal language: ES\n\nhttps://www.cinetecamadrid.com/programacion/
+ mientras-el-cuerpo-aguante
+LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pequeño diccionario de gramática de las nubes
+DTSTART;TZID=Europe/Madrid:20261007T180000
+UID:f65faa696ac4c543d586b6130740ab998a51d819e918b740ff9991870c2b384e
+CATEGORIES:cinema
+DESCRIPTION:Un abecedario visual donde los jóvenes no son evaluados por s
+ u ortografía\, sino que se filman a sí mismos para inventar el idioma de
+  su propio cielo. En esta perspectiva poética\, las nubes representan la 
+ rebeldía y la libertad\, ya que flotan sin pedir permiso y escapan a las 
+ leyes del suelo.\n\nRelease year: 2026\n\nOriginal language: ES\n\nhttps:/
+ /www.cinetecamadrid.com/programacion/pequeno-diccionario-de-gramatica-de-l
+ as-nubes
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 END:VCALENDAR

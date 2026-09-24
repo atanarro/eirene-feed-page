@@ -443,20 +443,6 @@ LOCATION:Espacio Fundación Telefónica - de Fuencarral\, 3\, Madrid\, 280
  04
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Goya y las escuelas flamenca e italiana. Un siglo de filantropía 
- de Carlota de Santamarca y Antonia González
-DTSTART;TZID=Europe/Madrid:20260602T000000
-DTEND;TZID=Europe/Madrid:20260923T000000
-UID:42d1304478c73e5458b951d99a74d54e78c2cd88557a025fc5aa0f4f806efa7d
-CATEGORIES:exhibition
-DESCRIPTION:Exposición dedicada a la colección artística que reunieron 
- ambas filántropas y que hoy se puede disfrutar en Madrid (Museo de Histor
- ia. Hasta 23 septiembre).\n\nhttps://www.fundacionibercaja.es/actividades/
- exposiciones/goya-y-las-escuelas-flamenca-e-italiana-un-siglo-de-filantrop
- ia-de-carlota-de-santamarca-y-antonia-gonzalez-madrid/
-LOCATION:Museo de Historia - de Fuencarral\, 78\, Madrid\, 28004
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Vitrina 0. Fragmento de la titulatura real de Adijalamani
 DTSTART;TZID=Europe/Madrid:20260602T000000
 DTEND;TZID=Europe/Madrid:20260927T000000
@@ -493,6 +479,21 @@ DESCRIPTION:Experiencia audiovisual inmersiva que muestra la biodiversidad
   de forma innovadora (CaixaForum Madrid. Hasta 7 marzo 2027).\n\nhttps://c
  aixaforum.org/es/madrid/p/somos-naturaleza-madrid
 LOCATION:CaixaForum Madrid - del Prado\, 36\, Madrid\, 28014
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El deber de lo nuevo
+DTSTART;TZID=Europe/Madrid:20260604T000000
+DTEND;TZID=Europe/Madrid:20270117T000000
+UID:8ce3221077e0e7d0fdf74295714f1524b559dfc95cf1b6786b3b21756d9f16e4
+CATEGORIES:exhibition
+DESCRIPTION:Diálogo entre una selección de obras de la Colección de Art
+ e Afundación y los fondos del MAC (Museo de Arte Contemporáneo. Hasta 17
+  ene).\n\nhttps://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamie
+ nto/Medios-de-comunicacion/Museo-de-Arte-Contemporaneo/?vgnextfmt=default&
+ vgnextoid=d6b0744554b6b010VgnVCM100000d90ca8c0RCRD&vgnextchannel=1578e3d5d
+ 3e07010VgnVCM100000dc0ca8c0RCRD&idCapitulo=
+LOCATION:Museo de Arte Contemporáneo - del Conde Duque\, 9\, Madrid\, 280
+ 15
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Materia viva. Un recorrido por la botánica\, el arte y la memoria
@@ -1650,5 +1651,32 @@ DESCRIPTION:Un recorrido no lineal por la obra del artista que incluye cic
  CentroCentro. 8 oct a 24 ene 2027).\n\nhttps://www.centrocentro.org/exposi
  cion/cruz-novillo
 LOCATION:CentroCentro - de Cibeles\, 1\, Madrid\, 28014
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Madrid en el Teatro Español del Siglo de Oro
+DTSTART;TZID=Europe/Madrid:20261009T000000
+DTEND;TZID=Europe/Madrid:20270110T000000
+UID:a090fe93ea410e8f5ddfcdd521e5f92bca3bb161814697626ca6fb9c5ec31e5e
+CATEGORIES:exhibition
+DESCRIPTION:Un recorrido por el papel de Madrid como gran centro del teatr
+ o barroco español (Biblioteca Regional de la Comunidad de Madrid Joaquín
+  Leguina. 9 oct a 10 ene 2027).\n\nhttps://www.comunidad.madrid/actividade
+ s/2026/exposicion-madrid-teatro-espanol-siglo-oro
+LOCATION:Biblioteca Regional de la Comunidad de Madrid Joaquín Leguina - 
+ de Ramírez de Prado\, 3\, Madrid\, 28045
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thyssen-Bornemisza & Mauritshuis: una historia de amor entre dos m
+ useos
+DTSTART;TZID=Europe/Madrid:20261009T000000
+DTEND;TZID=Europe/Madrid:20270110T000000
+UID:7a17edd15f7cdb595d3ca1382b5177b1dfdc33c123916fce8192d1884aff939e
+CATEGORIES:exhibition
+DESCRIPTION:Los dos museos intercambian de forma simultánea veinticinco o
+ bras destacadas de sus colecciones permanentes (Museo Nacional Thyssen-Bor
+ nemisza. 9 oct a 10 ene 2027).\n\nhttps://www.museothyssen.org/exposicione
+ s/thyssen-bornemisza-mauritshuis
+LOCATION:Museo Nacional Thyssen-Bornemisza - del Prado\, 8\, Madrid\, 2801
+ 4
 END:VEVENT
 END:VCALENDAR
