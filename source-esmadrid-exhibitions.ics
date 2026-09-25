@@ -51,19 +51,6 @@ LOCATION:Madrid - Raimundo Fernández Villaverde\, 57\, Madrid\, Madrid\,
  28003
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Trenes históricos
-DTSTART;TZID=Europe/Madrid:20251205T000000
-DTEND;TZID=Europe/Madrid:20271231T000000
-UID:9d0621e6c17839e3d5f40fd5b71b539d7e21581dfd79ffc32f8986d347ea8bb0
-CATEGORIES:exhibition
-DESCRIPTION:Exposición permanente sobre los primeros trenes que circularo
- n por las vías del suburbano madrileño para conmemorar sus 100 años de 
- vida (Estación de Chamartín).\n\nhttps://museosmetromadrid.es/museos/est
- acion-de-chamartin/
-LOCATION:Estación de Madrid - Chamartín - Clara Campoamor - Agustín de 
- Foxa\, s/n\, Madrid\, 28036
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Viajar en el tiempo: 85 años de publicidad de Renfe
 DTSTART;TZID=Europe/Madrid:20251219T000000
 DTEND;TZID=Europe/Madrid:20260930T000000
@@ -109,6 +96,17 @@ DESCRIPTION:Instalación escultórica del artista visual brasileño en la
  ta 27 sept).\n\nhttps://www.lacasaencendida.es/exposiciones/fundacion-marl
  on-de-azambuja
 LOCATION:La Casa Encendida - de Valencia\, 2\, Madrid\, 28012
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gloria Fuertes (hoy)
+DTSTART;TZID=Europe/Madrid:20260303T000000
+DTEND;TZID=Europe/Madrid:20260927T000000
+UID:70719c0b31c8fdc4cb6a6f2f446cbec55e668fcee464cd84bec38068adff5fe3
+CATEGORIES:exhibition
+DESCRIPTION:Exposición que presenta un recorrido por la obra y vida de la
+  reconocida poetisa madrileña (Casa del Lector - Matadero. Hasta 27 sept)
+ .\n\nhttps://casalector.fundaciongsr.org/gloria-fuertes-hoy/
+LOCATION:Casa del Lector (Matadero) - de la Chopera\, 14\, Madrid\, 28045
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:De brebajes y serpientes: entre la triaca magna y una emergencia d
@@ -543,20 +541,6 @@ DESCRIPTION:Exposición colectiva que indaga en el mundo de la fotografía
  ndeses (Círculo de Bellas Artes - Sala Picasso.\n\nhttps://www.circulobel
  lasartes.com/exposiciones/volver-a-imaginar/
 LOCATION:Círculo de Bellas Artes - de Alcalá\, 42\, Madrid\, 28014
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RECORRIDOS: Aproximaciones de la joyería contemporánea a la arqu
- itectura de Luis Gutiérrez Soto
-DTSTART;TZID=Europe/Madrid:20260608T000000
-DTEND;TZID=Europe/Madrid:20260924T000000
-UID:2db4b778022cf0c79e538cb4e23554e56fe5b098f758fcc7f97aa1e961d687f1
-CATEGORIES:exhibition
-DESCRIPTION:Proyecto expositivo de estudiantes de la Escuela de Arte 3 en 
- el que los edificios creados por el arquitecto madrileño sirven de inspir
- ación para sus diseños de joyas (COAM.\n\nhttps://www.coam.org/actualida
- d-agenda-coam-recorridos-aproximaciones-de-la-joyeria-contemporanea-a-la-a
- rquitectura-de-luis-gutierrez-soto/
-LOCATION:COAM - de Hortaleza\, 63\, Madrid\, 28004
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Prado. Siglo XXI
@@ -1554,19 +1538,6 @@ LOCATION:Teatro Fernán Gómez. Centro Cultural de la Villa - de Colón \,
   4\, Madrid\, 28001
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Aqua Mater. Sebastião Salgado
-DTSTART;TZID=Europe/Madrid:20261003T000000
-DTEND;TZID=Europe/Madrid:20261025T000000
-UID:c9a4da19abb38f8ce25d840286c3e0b0ad8feed0ac20aae64abe0d171300bc42
-CATEGORIES:exhibition
-DESCRIPTION:Exposición que recoge el trabajo del artista brasileño en to
- rno al agua con casi un centenar de fotografías en blanco y negro de gran
-  formato (Fundación Canal. Sala Castellana 214.\n\nhttps://salgadoaquamat
- er.com/
-LOCATION:Fundación Canal Sala Castellana 214 - de la Castellana\, 214\, M
- adrid\, 28046
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Seba Calfuqueo. Cautín
 DTSTART;TZID=Europe/Madrid:20261006T000000
 DTEND;TZID=Europe/Madrid:20270117T000000
@@ -1602,19 +1573,6 @@ DESCRIPTION:Cómic testimonial sobre las historias reales de humanidad del
   7 de octubre (Centro Sefarad-Israel. 7 oct a 20 nov).\n\nhttps://www.sefa
  rad-israel.es/exposiciones/en-el-corazon-del-7-de-octubre/
 LOCATION:Centro Sefarad-Israel - Mayor\, 69\, Madrid\, 28013
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El infierno de Dante. Doré y Rauschenberg
-DTSTART;TZID=Europe/Madrid:20261007T000000
-DTEND;TZID=Europe/Madrid:20270105T000000
-UID:09ee456d56237708969ee57bc99f12e8a6e8e88a90b771d0474c51ec3b0cc604
-CATEGORIES:exhibition
-DESCRIPTION:Exposición que reúne las dos series completas que Gustave Do
- ré y Robert Rauschenberg dedicaron al Infierno de Dante (Fundación Canal
- . Sala Mateo Inurria 2. 7 oct a 5 ene 2027).\n\nhttps://www.fundacioncanal
- .com/exposiciones/el-infierno-de-dante-dore-y-rauschenberg/
-LOCATION:Fundación Canal. Sala Mateo Inurria - de Mateo Inurria\, 2\, Mad
- rid\, 28036
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Três Filhas - Filipa Sáragga d'Orey
@@ -1678,5 +1636,17 @@ DESCRIPTION:Los dos museos intercambian de forma simultánea veinticinco o
  s/thyssen-bornemisza-mauritshuis
 LOCATION:Museo Nacional Thyssen-Bornemisza - del Prado\, 8\, Madrid\, 2801
  4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Continentes como semillas
+DTSTART;TZID=Europe/Madrid:20261010T000000
+DTEND;TZID=Europe/Madrid:20270110T000000
+UID:8b0da71723d289db27fc37ec4f5a80289ca40568b2bac62183f8c01bb288311c
+CATEGORIES:exhibition
+DESCRIPTION:La Chola Poblete\, Niño de Elche y Pedro G. Romero exploran c
+ ómo las historias coloniales siguen resonando en los cuerpos\, los objeto
+ s y la cultura contemporánea (La Casa Encendida.\n\nhttps://www.lacasaen
+ cendida.es/exposiciones/continentes-como-semillas
+LOCATION:La Casa Encendida - de Valencia\, 2\, Madrid\, 28012
 END:VEVENT
 END:VCALENDAR
