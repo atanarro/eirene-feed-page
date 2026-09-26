@@ -2,57 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Colectivo Neozoon: navegar\, observar\, reeditar
-DTSTART;TZID=Europe/Madrid:20260925T190000
-UID:632bd102936963e1ff85932ea018a5e3409d4cfe503d163d1e48054358b318ea
-CATEGORIES:cinema
-DESCRIPTION:El colectivo de realizadoras Neozoon lleva a cabo\, desde hace
-  quince años\, una lectura única de las redes sociales y de la ciudadan
- ía que las puebla y nutre. A partir de asombrosos remontajes rítmicos y 
- collagísticos\, ahondan en los comportamientos sociales colectivos desmen
- uzando sus autorepresentaciones y obsesiones\, deambulando entre la divers
- ión y la incomodidad\, lidiando con conceptos como la fe\, la virilidad\,
-  el sadismo o las complejas relaciones de los seres humanos con el resto d
- e seres animales. Su mirada sagaz y sus técnicas de montaje diseccionan e
- l alud de expresiones en la red para formar un ilimitado mosaico de microp
- antallas\, espejo catártico de nuestra sociedad.\n\nAudio: VOSE\n\nhttps:
- //www.cinetecamadrid.com/programacion/colectivo-neozoon-navegar-observar-r
- eeditar
-LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Omega Wants to Dance
-DTSTART;TZID=Europe/Madrid:20260925T200000
-UID:fca35cfad7ced9f0fe499f91e391091fb6cb6d6900cd016ad3bf1d8fb4169228
-CATEGORIES:cinema
-DESCRIPTION:Un viaje en busca de la identidad individual y colectiva a tra
- vés del baile\, la música\, el pensamiento y la espiritualidad. Un punto
-  de intersección en constante movimiento y en el que binomios como cuerpo
- /mente\, éxtasis/razón o fe/ciencia protagonizan una coreografía intens
- a y dinámica llena de historias potentes y de ideas reveladoras. Combinan
- do testimonios personales\, hechos históricos\, ficción y un electrizant
- e collage audiovisual\, se exploran las múltiples dimensiones del acto de
-  bailar: diversión\, catarsis\, seducción\, ritual\, crecimiento persona
- l y\, en definitiva\, una de las formas de expresión humanas primordiales
- \, entre nosotros y con nuestro entorno.\n\nRelease year: 2024\n\nOriginal
-  language: ES\n\nAudio: VOSE\n\nhttps://www.cinetecamadrid.com/programacio
- n/omega-wants-dance
-LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Harakiri\, me haces falta
-DTSTART;TZID=Europe/Madrid:20260925T203000
-UID:441d158c82d5b4a587a43b619c66690f8b81bd64bd313ad4663b0b4d27e2fe04
-CATEGORIES:cinema
-DESCRIPTION:Tres jóvenes\, consumidos por deseos no cumplidos\, desarroll
- an un vínculo tóxico arraigado en el resentimiento hacia las mujeres. A 
- medida que su rencor se profundiza y sus vidas se salen de control\, se ve
- n obligados a confrontarse a si mismos.\n\nRelease year: 2025\n\nOriginal 
- language: ES\n\nhttps://www.cinetecamadrid.com/programacion/harakiri-me-ha
- ces-falta
-LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:La risa y la navaja (versión integral)
 DTSTART;TZID=Europe/Madrid:20260926T170000
 UID:4a015970ddce31f9ef2945806838c7c1b95362387d18ecfb3731bc495cc1c931
@@ -351,20 +300,18 @@ DESCRIPTION:Un literato se encierra en una casa solitaria para escribir un
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mientras el cuerpo aguante
+SUMMARY:Chicho o Mientras el cuerpo aguante (una comedia didáctica)
 DTSTART;TZID=Europe/Madrid:20261006T193000
-UID:7b4f99227823c4aeed0e1a5387bb32121640282b53e93491b2d2e30ecdbe35a5
+UID:135dfb8cdb02a494906bb4805dd11dcf669875501633cfafcb8022a4f1d09689
 CATEGORIES:cinema
-DESCRIPTION:Documental sobre la vida del cantautor y filósofo Chicho Sán
- chez Ferlosio\, hijo del escritor falangista Rafael Sánchez Mazas y herma
- no del escritor Rafael Sánchez Ferlosio. La película retrata la vida cot
- idiana y las reflexiones de un cantautor irrepetible\, por entonces alejad
- o de la vida política y social\, así como el propio dispositivo de rodaj
- e\, con Fernando Trueba dirigiendo su segundo largometraje. Un acercamient
- o a la vida de Chicho y su compañera Rosa a través de sus canciones de r
- esistencia antifascista\, autonomía e independencia.\n\nRelease year: 198
- 2\n\nOriginal language: ES\n\nhttps://www.cinetecamadrid.com/programacion/
- mientras-el-cuerpo-aguante
+DESCRIPTION:Chicho o Mientras el cuerpo aguante (una comedia didáctica) s
+ e adentra en el universo del cantautor Chicho Sánchez Ferlosio a través 
+ de una propuesta situada entre el retrato documental\, la película musica
+ l\, la conversación filosófica y la comedia. Una obra libre y heterodoxa
+  que convierte el propio rodaje en parte de la película y que ahora vuelv
+ e restaurada en 6k a partir de su negativo original en 16mm.\n\nhttps://ww
+ w.cinetecamadrid.com/programacion/chicho-o-mientras-el-cuerpo-aguante-una-
+ comedia-didactica
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -379,6 +326,22 @@ DESCRIPTION:Un abecedario visual donde los jóvenes no son evaluados por s
  leyes del suelo.\n\nRelease year: 2026\n\nOriginal language: ES\n\nhttps:/
  /www.cinetecamadrid.com/programacion/pequeno-diccionario-de-gramatica-de-l
  as-nubes
+LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Capítulo XXXIV: Viajes de oído (músicas en tránsito)
+DTSTART;TZID=Europe/Madrid:20261007T190000
+UID:52ba8459e6b1a3304ccae85de9890c148c5ea898a284cd16498e6f65326c883b
+CATEGORIES:cinema
+DESCRIPTION:Hay músicas que acompañan un viaje\, otras que lo recuerdan 
+ y algunas que parecen ponerse en camino por sí mismas. Este capítulo de 
+ Relatos del ruido reúne diferentes formas de partir\, atravesar y regresa
+ r: recorridos a pie o en vehículos\, desplazamientos entre culturas y via
+ jes que suceden sin abandonar el lugar de la escucha. Las obras selecciona
+ das nos invitan a atender a lo que cambia durante el trayecto —en los so
+ nidos\, pero también en quien los escucha—\, incluso cuando el destino 
+ permanece incierto.\n\nhttps://www.cinetecamadrid.com/programacion/capitul
+ o-xxxiv-viajes-de-oido-musicas-en-transito
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 END:VCALENDAR

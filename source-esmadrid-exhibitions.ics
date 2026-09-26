@@ -51,6 +51,19 @@ LOCATION:Madrid - Raimundo Fernández Villaverde\, 57\, Madrid\, Madrid\,
  28003
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Trenes históricos
+DTSTART;TZID=Europe/Madrid:20251205T000000
+DTEND;TZID=Europe/Madrid:20271231T000000
+UID:9d0621e6c17839e3d5f40fd5b71b539d7e21581dfd79ffc32f8986d347ea8bb0
+CATEGORIES:exhibition
+DESCRIPTION:Exposición permanente sobre los primeros trenes que circularo
+ n por las vías del suburbano madrileño para conmemorar sus 100 años de 
+ vida (Estación de Chamartín).\n\nhttps://museosmetromadrid.es/museos/est
+ acion-de-chamartin/
+LOCATION:Estación de Madrid - Chamartín - Clara Campoamor - Agustín de 
+ Foxa\, s/n\, Madrid\, 28036
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Viajar en el tiempo: 85 años de publicidad de Renfe
 DTSTART;TZID=Europe/Madrid:20251219T000000
 DTEND;TZID=Europe/Madrid:20260930T000000
@@ -443,15 +456,15 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vitrina 0. Fragmento de la titulatura real de Adijalamani
 DTSTART;TZID=Europe/Madrid:20260602T000000
-DTEND;TZID=Europe/Madrid:20260927T000000
+DTEND;TZID=Europe/Madrid:20261025T000000
 UID:3aa2d895e69b05153af4fbbf2652c09a02e0dc0831df5ed88ce1cec44518ae57
 CATEGORIES:exhibition
 DESCRIPTION:Muestra de un fragmento de la titulatura real del rey de Meroe
  \, sucesor del rey Arqamani\, en el siglo II a.C. (Museo de San Isidro. 2 
- jun a 27 sept).\n\nhttps://www.madrid.es/portales/munimadrid/es/Inicio/Cul
- tura-ocio-y-deporte/Actividades-y-eventos/Vitrina-0-Fragmento-de-la-titula
- tura-real-de-Adijalamani/?vgnextfmt=default&vgnextoid=a45e3a908d26e910VgnV
- CM100000891ecb1aRCRD&vgnextchannel=6381f073808fe410V
+ jun a 25 oct).\n\nhttps://www.madrid.es/portales/munimadrid/es/Inicio/Cult
+ ura-ocio-y-deporte/Actividades-y-eventos/Vitrina-0-Fragmento-de-la-titulat
+ ura-real-de-Adijalamani/?vgnextfmt=default&vgnextoid=a45e3a908d26e910VgnVC
+ M100000891ecb1aRCRD&vgnextchannel=6381f073808fe410V
 LOCATION:Museo de San Isidro. Los Orígenes de Madrid - de San Andrés\, 2
  \, Madrid\, 28005
 END:VEVENT
@@ -622,12 +635,12 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Toda mi casa es un altar. Gema Polanco (PHotoESPAÑA 2026)
 DTSTART;TZID=Europe/Madrid:20260613T000000
-DTEND;TZID=Europe/Madrid:20261025T000000
+DTEND;TZID=Europe/Madrid:20261108T000000
 UID:67bb3dca55cfd89c6ca686676e60e98140bb1c33d10e7f63f6d771302913c7a7
 CATEGORIES:exhibition
 DESCRIPTION:Proyecto que explora lo doméstico como espacio ritual a trav
- és del textil y la imagen (Museo Nacional de Artes Decorativas. Hasta 25 
- octubre).\n\nhttps://phe.es/exposicion/toda-mi-casa-es-un-altar/
+ és del textil y la imagen (Museo Nacional de Artes Decorativas. Hasta 8 n
+ oviembre).\n\nhttps://phe.es/exposicion/toda-mi-casa-es-un-altar/
 LOCATION:Museo Nacional de Artes Decorativas - de Montalbán\, 12\, Madrid
  \, 28014
 END:VEVENT
@@ -783,13 +796,13 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Los reconocimientos
 DTSTART;TZID=Europe/Madrid:20260626T000000
-DTEND;TZID=Europe/Madrid:20261018T000000
+DTEND;TZID=Europe/Madrid:20261101T000000
 UID:e9c03d3ee6e63832c90e92d9e5d6a3d6a3ad7fa339e4509d932516f5c946e0c8
 CATEGORIES:exhibition
 DESCRIPTION:Una original mirada a las colecciones y al trabajo interno del
   Museo del Traje a través de objetos cotidianos (Museo del Traje. 26 jun 
- a 18 oct).\n\nhttps://www.cultura.gob.es/mtraje/exposicion/temporales/2026
- /reconocimientos.html
+ a 1 nov).\n\nhttps://www.cultura.gob.es/mtraje/exposicion/temporales/2026/
+ reconocimientos.html
 LOCATION:Museo del Traje - de Juan de Herrera\, 2\, Madrid\, 28040
 END:VEVENT
 BEGIN:VEVENT
@@ -1076,18 +1089,6 @@ LOCATION:Real Academia de Bellas Artes de San Fernando - de Alcalá\, 13\,
   Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Emociones en peligro. Fotografías de Tim Flach
-DTSTART;TZID=Europe/Madrid:20260902T000000
-DTEND;TZID=Europe/Madrid:20260925T000000
-UID:120474901d2adf2d609bb950eaddce55fcc8c00c18a9e41b4cd3ed92100b55c4
-CATEGORIES:exhibition
-DESCRIPTION:Selección de imágenes del fotógrafo británico que invita a
-  reflexionar sobre la preservación de la biodiversidad (Parque de El Reti
- ro. Hasta 25 septiembre).\n\nhttps://www.afundacion.org/es/agenda/evento/e
- xposicion-emociones-en-peligro-fotografias-de-tim-flach/
-LOCATION:Parque de El Retiro - de la Independencia\, 7\, Madrid\, 28001
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Complementarios 2026
 DTSTART;TZID=Europe/Madrid:20260903T000000
 DTEND;TZID=Europe/Madrid:20260926T000000
@@ -1301,7 +1302,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Human Universe - The Experience
 DTSTART;TZID=Europe/Madrid:20260911T000000
-DTEND;TZID=Europe/Madrid:20270107T000000
+DTEND;TZID=Europe/Madrid:20270106T000000
 UID:d651394ce628f91037bac5c20756dfc18ae7668c21402ce70f73828329453def
 CATEGORIES:exhibition
 DESCRIPTION:Primera exposición inmersiva que viaja hasta el interior del 
@@ -1473,14 +1474,14 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:El plano flexible
 DTSTART;TZID=Europe/Madrid:20260928T000000
-DTEND;TZID=Europe/Madrid:20270327T000000
+DTEND;TZID=Europe/Madrid:20270328T000000
 UID:0f1f06a8c1633ef58a84c072ceb251fa9c1c71cae9aa215a180f866881eeb63f
 CATEGORIES:exhibition
 DESCRIPTION:Un recorrido por el arte textil entendido como un espacio de c
  onvergencia entre arte\, arquitectura e industria (Sala de Exposiciones de
- l Banco de España. 28 sept a 27 mar 2027).\n\nhttps://www.bde.es/wbe/es/
- noticias-eventos/actualidad-banco-espana/el-banco-de-espana-mostrara-en-se
- ptiembre-las-obras-textiles-de-su-coleccion-.html
+ l Banco de España. 28 sept a 28 mar 2027).\n\nhttps://www.bde.es/wbe/es/n
+ oticias-eventos/actualidad-banco-espana/el-banco-de-espana-mostrara-en-sep
+ tiembre-las-obras-textiles-de-su-coleccion-.html
 LOCATION:Sala de Exposiciones del Banco de España - de Alcalá\, 48\, Mad
  rid\, 28012
 END:VEVENT
@@ -1512,9 +1513,9 @@ LOCATION:Museo Nacional Thyssen-Bornemisza - del Prado\, 8\, Madrid\, 2801
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cayetana. Grande de España
-DTSTART;TZID=Europe/Madrid:20260930T000000
+DTSTART;TZID=Europe/Madrid:20261001T000000
 DTEND;TZID=Europe/Madrid:20270131T000000
-UID:d6bd9fd7ba43e12f0048dfb8676e4364116a756697a6addd27e659b46f748620
+UID:b777c6546b833b8ec6016cfeec1f156210203b883239861e91b1445c2d119f22
 CATEGORIES:exhibition
 DESCRIPTION:Exposición dedicada a la XVIII duquesa de Alba destacando su
   extraordinaria contribución a la conservación del inmenso legado histó
@@ -1522,20 +1523,6 @@ DESCRIPTION:Exposición dedicada a la XVIII duquesa de Alba destacando su
  aciodeliria.com/actividades-exposiciones-madrid/exposicion-cayetana-duques
  a-de-alba
 LOCATION:Palacio de Liria - de la Princesa\, 20\, Madrid\, 28008
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Teatro de grandeza. Arte\, arquitectura y ciudad en el Madrid Barr
- oco
-DTSTART;TZID=Europe/Madrid:20261001T000000
-DTEND;TZID=Europe/Madrid:20270117T000000
-UID:c367c22b9905c03d8dd8dced0035eff3794f42a1122d4d5faf3d4d04303f3bd0
-CATEGORIES:exhibition
-DESCRIPTION:Descubre el esplendor artístico y urbano del Madrid barroco e
- n esta exposición (Teatro Fernán Gómez. Centro Cultural de la Villa. Oc
- tubre 2026 a enero 2027).\n\nhttps://www.teatrofernangomez.es/actividades/
- teatro-de-grandeza-arte-arquitectura-y-ciudad-en-el-madrid-barroco
-LOCATION:Teatro Fernán Gómez. Centro Cultural de la Villa - de Colón \,
-  4\, Madrid\, 28001
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Seba Calfuqueo. Cautín
@@ -1573,6 +1560,19 @@ DESCRIPTION:Cómic testimonial sobre las historias reales de humanidad del
   7 de octubre (Centro Sefarad-Israel. 7 oct a 20 nov).\n\nhttps://www.sefa
  rad-israel.es/exposiciones/en-el-corazon-del-7-de-octubre/
 LOCATION:Centro Sefarad-Israel - Mayor\, 69\, Madrid\, 28013
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El infierno de Dante. Doré y Rauschenberg
+DTSTART;TZID=Europe/Madrid:20261007T000000
+DTEND;TZID=Europe/Madrid:20270105T000000
+UID:09ee456d56237708969ee57bc99f12e8a6e8e88a90b771d0474c51ec3b0cc604
+CATEGORIES:exhibition
+DESCRIPTION:Exposición que reúne las dos series completas que Gustave Do
+ ré y Robert Rauschenberg dedicaron al Infierno de Dante (Fundación Canal
+ . Sala Mateo Inurria 2. 7 oct a 5 ene 2027).\n\nhttps://www.fundacioncanal
+ .com/exposiciones/el-infierno-de-dante-dore-y-rauschenberg/
+LOCATION:Fundación Canal. Sala Mateo Inurria - de Mateo Inurria\, 2\, Mad
+ rid\, 28036
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Três Filhas - Filipa Sáragga d'Orey

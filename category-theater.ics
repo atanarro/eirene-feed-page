@@ -14,23 +14,6 @@ DESCRIPTION:El actor y músico Coque Malla lidera esta versión contempor
 LOCATION:Teatro Infanta Isabel - Calle del Barquillo\, 24\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Un verano por metro cuadrado
-DTSTART;TZID=Europe/Madrid:20260925T193000
-UID:f4c1532e718d8acfeaaea9fa3800b86367e3304028655c2550a2be879714c7b2
-CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 1 plazas!\n\nhttps://teatrodelbarrio.com/un-v
- erano-por-metro-cuadrado/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Malas
-DTSTART;TZID=Europe/Madrid:20260925T221500
-UID:5e5d0aa42130d3cb5396170906bd30130a740ada731ffadc91a3cecd0b9fa539
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/malas/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Gordas\, lisiadas y mamarrachas
 DTSTART;TZID=Europe/Madrid:20260926T130000
 UID:6c2ee3e31d7ad94e64d4efb1369feae38594511a06d6746e89df6bd9790ff469
@@ -108,7 +91,7 @@ SUMMARY:Lectura de relatos de ‘El libro negro de Gaza’: testimonios de
 DTSTART;TZID=Europe/Madrid:20260929T190000
 UID:0e9f05a0ccbfc57fe6fec8e0d71feed1d486d5bd77e2c3942bdec6f4a12456d8
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 26 plazas!\n\nhttps://teatrodelbarrio.com/lec
+DESCRIPTION:¡Ya solo quedan 20 plazas!\n\nhttps://teatrodelbarrio.com/lec
  tura-de-relatos-de-el-libro-negro-de-gaza-testimonios-de-un-genocidio/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
@@ -128,7 +111,8 @@ DTSTART;TZID=Europe/Madrid:20261001T000000
 DTEND;TZID=Europe/Madrid:20261101T235900
 UID:1b2916f803e83c65e5889ae9cb9472df5af7592a5ea441dd172ae76745751b8a
 CATEGORIES:theater
-DESCRIPTION:https://tienda.madrid-destino.com/es/nave-10/verborrea/
+DESCRIPTION:Desde 15\,00 €\n\nhttps://tienda.madrid-destino.com/es/nave-
+ 10/verborrea/
 LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -183,5 +167,37 @@ CATEGORIES:theater
 DESCRIPTION:Encuentro con el equipo artístico: 22 OCT 2026\n\nhttps://dra
  matico.inaem.gob.es/evento/al-final-de-las-cosas/
 LOCATION:Teatro Maria Guerrero - Calle de Tamayo y Baus\, 4\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FESTIVAL SURGE MADRID 2026: Actividades Transversas
+DTSTART;TZID=Europe/Madrid:20261010T180000
+UID:5df45469edfa15d0558848ed90cd335a631b51c30251a9041287c65f73742650
+CATEGORIES:theater
+DESCRIPTION:FESTIVAL SURGE MADRID 2026: Actividades Transversas\n\nENTRADA
+  LIBRE HASTA COMPLETAR AFORO. Esta actividad se realiza en un espacio no c
+ onvencional dentro de la Sala Mirador.\n\nActividad transversa que se pres
+ enta dentro del marco del Festival Surge Madrid 2026.\n\nEl 10 y 11 de oct
+ ubre a las 18:00hrs podremos disfrutar de esta creación que experimenta c
+ on lenguajes relacionados con la creación escénica multidisciplinar.\n\n
+ Puedes reservar tu entrada gratuita en nuestra web. La entrada que reserva
+ s no es numerada ni te da una butaca dentro del espacio del teatro. Te da 
+ exclusivamente acceso a la actividad. Si finalmente no puedes acudir\, pon
+ te en contacto con nosotros para permitir que otros espectadores y especta
+ doras puedan asistir.\n\nhttps://lamirador.com/funcion?nombre=festival-sur
+ ge-madrid-2026-actividades-transversas-2026
+LOCATION:Sala Mirador - Calle Doctor Fourquet\, 31\, 28012 Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FESTIVAL SURGE MADRID 2026: NO ESTAMOS AQUÍ PARA BAILAR
+DTSTART;TZID=Europe/Madrid:20261010T200000
+UID:b84a43900455bad5286cdfa5351bed83599d51abe832a916d81ca49bd704c612
+CATEGORIES:theater
+DESCRIPTION:FESTIVAL SURGE MADRID 2026: NO ESTAMOS AQUÍ PARA BAILAR\n\nEs
+ treno de danza contemporánea que se presenta dentro del marco del Festiva
+ l Surge Madrid 2026. El 10 y 11 de octubre a las 20:00hrs podremos disfrut
+ ar de esta creación que experimenta con lenguajes relacionados con el mov
+ imiento.\n\nhttps://lamirador.com/funcion?nombre=festival-surge-madrid-202
+ 6-no-estamos-aquI-para-bailar-2026
+LOCATION:Sala Mirador - Calle Doctor Fourquet\, 31\, 28012 Madrid
 END:VEVENT
 END:VCALENDAR
