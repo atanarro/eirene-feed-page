@@ -2,49 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:"De Cádiz a la Habana"
-DTSTART;TZID=Europe/Madrid:20260926T113000
-DTEND;TZID=Europe/Madrid:20260926T113000
-UID:f4cf761205da1489b612febf5d01aa9a9eca376f575edd0ec908e0fcffa047f6
-CATEGORIES:music
-DESCRIPTION:Concierto y presentación del disco \n \nSección de Música. 
- Presenta: Luis Ángel de Benito. Concertista: Miguel Trápaga – autor. 
- Cátedra Mayor. 11:30.\n\nhttps://ateneodemadrid.com/evento/de-cadiz-a-la-
- habana/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ocean Colour Scene
-DTSTART;TZID=Europe/Madrid:20260926T210000
-UID:735085931c654b8c1b2e36c5e77633d5cdaee3e9d670e5ce90ae9ff2df5cdbee
-CATEGORIES:music
-DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://www.entradas.com/artist/
- ocean-colour-scene/?affiliate=RIV
-LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
- id
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MONDRA – A Ronda
-DTSTART;TZID=Europe/Madrid:20260926T213000
-UID:dd664cfc12e9027799255e23ee7b7738a44e04f817e14c45c1cdf6d59e4a0e12
-CATEGORIES:music
-DESCRIPTION:Concierto / Electronic / World Music & Folk\n\nhttps://salavil
- lanos.es/evento/mondra-a-ronda/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rodrigo Mercado + Gran Aparato Eléctrico\; Cruza Carabanchel 2026
-DTSTART;TZID=Europe/Madrid:20260926T213000
-UID:104edc12991f75721123146cb7705e22f604391517c695ce96d7d104a10f6df4
-CATEGORIES:music
-DESCRIPTION:Precio de las entradas: 12€/15€ Entradas a la venta en mov
- ingtickets Bio/enlaces bandas: Rodrigo Mercado_facebook + Rodrigo Mercado_
- X + Rodrigo Mercado_instagram Gran Aparato Eléctrico_facebook + Gran Apar
- ato Eléctrico_spotify +\n\nhttps://gruta77.com/events/rodrigo-mercado-gra
- n-aparato-electrico/var/ri-0.l-L2
-LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Once años antes… recordando a Javier Krahe
 DTSTART;TZID=Europe/Madrid:20260927T123000
 DTEND;TZID=Europe/Madrid:20260927T123000
@@ -265,6 +222,36 @@ DESCRIPTION:Concierto / Hip Hop & Rap / Urban\n\nhttps://salavillanos.es/e
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:TAZELAAR & ARTVED QUARTET
+DTSTART;TZID=Europe/Madrid:20261002T200000
+DTEND;TZID=Europe/Madrid:20261003T200000
+UID:07c9bf2fee6e35ade377c65c49cb6c898f43bdf0a0f81df4cda7f4f5ed8d9c72
+CATEGORIES:music
+DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
+  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h. \n \nGi
+ deon Tazelaar – saxo tenor\nJacob Artved – guitarra\nFelix Moseholm 
+ – contrabajo\nMartin Andersen – batería \nFelix Moseholm\, Gideon Taz
+ elaar y Jacob Artved\, tres de los talentos más destacados del jazz europ
+ eo se\nencuentran en Nueva York\, ciudad en la que han pasado varios años
+  desarrollando un sonido de grupo propio\ny único bajo la tutela del lege
+ ndario George Coleman. Su talento ha recibido el reconocimiento y el apoyo
+  de\ngrandes figuras como Brad Mehldau\, Wynton Marsalis y Louis Hayes.\nE
+ ste otoño regresarán a Europa\, donde cuentan con un público formado ta
+ nto por jóvenes músicos como por\naficionados al jazz de larga trayector
+ ia.\nEl guitarrista Jacob Artved y el contrabajista Felix Moseholm son ami
+ gos desde la infancia en Copenhague y\ntocan juntos desde los 14 años. De
+ spués de que Moseholm se trasladara a Nueva York para estudiar en The\nJu
+ illiard School\, conoció al saxofonista neerlandés Gideon Tazelaar.\nCua
+ ndo Artved se unió a ellos en la ciudad unos años más tarde\, los tres 
+ descubrieron rápidamente una\nprofunda conexión musical. A lo largo de l
+ os años han forjado un fuerte vínculo\, actuando juntos en diferentes\nf
+ ormaciones tanto en Estados Unidos como en Europa.\nPara esta gira por Esp
+ aña\, en octubre de 2026\, estarán acompañados por el batería danés M
+ artin Andersen\n\nhttps://ateneodemadrid.com/evento/tazelaar-artved-quarte
+ t/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Alvaro Garcia
 DTSTART;TZID=Europe/Madrid:20261002T203000
 UID:1cc4fa626c419f87a255bd20795d53eb44593327fe323f17b1967175780223aa
@@ -332,6 +319,22 @@ CATEGORIES:music
 DESCRIPTION:Club / Villanos del Jazz\n\nhttps://salavillanos.es/evento/tou
  r-maubourg/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JOSHUA EDELMAN TRIBUTE TO CHET
+DTSTART;TZID=Europe/Madrid:20261004T200000
+DTEND;TZID=Europe/Madrid:20261004T200000
+UID:b7b2fe66a0b16d5d4fefbfe094e8576b12b153893434a10c85669edb71679359
+CATEGORIES:music
+DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
+  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h. \n \nJo
+ shua Edelman – piano\nManuel Machado – trompeta\nSaúl Santolaria – 
+ voz\nYelsy Heredia – contrabajo \nEl veterano pianista Joshua Edelman re
+ crea el estilo y el repertorio del mítico Chet Baker con la trompeta del
+ \nmaestro Manuel Machado\, la voz aterciopelada de Saúl Santolaria y el m
+ ágico contrabajo de Yelsy Heredia.\n\nhttps://ateneodemadrid.com/evento/j
+ oshua-edelman-tribute-to-chet/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fyahbwoy (Segunda Fecha)
@@ -426,8 +429,8 @@ UID:ff6c4d52010cc56846e4347722b9ae2587099c5759adfee9643ae7cdd80fbc61
 CATEGORIES:music
 DESCRIPTION:Precio de las entradas: 25€/30€ Entradas a la venta en bue
  nritmo . Físicas en Gruta77 y Liquidator Bio/enlaces bandas: THE SLACKERS
-  (EEUU) The Slackers _facebook + The Slackers_twitter +\n\nhttps://gruta77
- .com/events/the-slackers-eeuu-sala-copernico/var/ri-0.l-L2
+  (EEUU) The Slackers _facebook + The Slackers_instagram Más\n\nhttps://gr
+ uta77.com/events/the-slackers-eeuu-sala-copernico/var/ri-0.l-L2
 LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -491,5 +494,27 @@ CATEGORIES:music
 DESCRIPTION:Club / Villanos del Jazz\n\nhttps://salavillanos.es/evento/cra
  zy-p-dj/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:D.K. Harrell
+DTSTART;TZID=Europe/Madrid:20261011T193000
+UID:c3fe7555fcef331efc1865bb05a949c58550489fc1ac0af1227d5360aa40263a
+CATEGORIES:music
+DESCRIPTION:Concierto / Villanos del Jazz\n\nhttps://salavillanos.es/event
+ o/d-k-harrell/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Roni Di Capo & Lady Belle\; She Rocks! : 12º aniversario con Shel
+ ly
+DTSTART;TZID=Europe/Madrid:20261011T213000
+UID:0dfc8aed082cbaba558167ebb2a7454644e9990c1334e14e406393a2095f3e7a
+CATEGORIES:music
+DESCRIPTION:Precio de las entradas: 20 primeras entradas a 10€. 12€/15
+ € Entradas a la venta en entradium Bio/enlaces bandas: Shelly_instagram 
+ RONI DI CAPO Roni Di Capo_facebook + Roni Di Capo_X + Roni Di\n\nhttps://g
+ ruta77.com/events/roni-di-capo-she-rocks-12o-aniversario-con-shelly/var/ri
+ -0.l-L2
+LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
 END:VEVENT
 END:VCALENDAR
