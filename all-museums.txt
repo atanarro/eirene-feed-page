@@ -1,5 +1,5 @@
 Eirene feed debug
-Total events: 118
+Total events: 119
 
 [1] La Odisea. El viaje inmersivo
   id: 2b0c761321971c54feddd57f9b063a8bcf6a2194285807efc4eef843a98f78d2
@@ -1000,7 +1000,7 @@ Total events: 118
   location: Centro Cultural Coreano en España - de la Castellana, 15, Madrid, 28046
   coordinates: 40.428134, -3.69022
   url: https://spain.korean-culture.org/es/1217/board/428/read/147030
-  description: El artista coreano presenta tres nuevas obras en las que reinterpreta las técnicas tradicionales de lacado (Centro Cultural Coreano. 17 sept a 13 nov).
+  description: El artista coreano presenta tres nuevas obras en las que reinterpreta las técnicas tradicionales de lacado (Centro Cultural Coreano. Hasta 13 nov).
 
 [92] La Casera, 75 años
   id: f5d12ed311f5edb0bd724c3c4a248bf8197d488bb03583aa6070ad36b96eeb70
@@ -1077,7 +1077,7 @@ Total events: 118
   location: Sala de Exposiciones del Banco de España - de Alcalá, 48, Madrid, 28012
   coordinates: 40.4182, -3.6935
   url: https://www.bde.es/wbe/es/noticias-eventos/actualidad-banco-espana/el-banco-de-espana-mostrara-en-septiembre-las-obras-textiles-de-su-coleccion-.html
-  description: Un recorrido por el arte textil entendido como un espacio de convergencia entre arte, arquitectura e industria (Sala de Exposiciones del Banco de España. 28 sept a 28 mar 2027).
+  description: Un recorrido por el arte textil entendido como un espacio de convergencia entre arte, arquitectura e industria (Sala de Exposiciones del Banco de España. Hasta 28 mar).
 
 [99] Fue de día, fue de tarde, fue fantástico
   id: 3575a675809e5fd3a804bc5bcb97e802cd59d5fd82030927da65d7443fe72a57
@@ -1110,9 +1110,20 @@ Total events: 118
   location: Real Academia de Bellas Artes de San Fernando - de Alcalá, 13, Madrid, 28014
   coordinates: 40.418613, -3.699348
   url: https://www.realacademiabellasartessanfernando.com/actividades/exposiciones/madrid-en-el-siglo-de-oro-crisol-de-destinos-y-desembarco-de-genios/
-  description: Exposición que retrata el destacado papel de nuestra ciudad en la cultura, ciencia y política españolas durante los siglos XVI y XVII (RABASF. 29 sept - 2 dic).
+  description: Exposición que retrata el destacado papel de nuestra ciudad en la cultura, ciencia y política españolas durante los siglos XVI y XVII (Real Academia de Bellas Artes de San Fernando.
 
-[102] Suma Flamenca 2026 "Flamencas. Cante, Baile y Toque" Exposición fotográfica de Ana Palma
+[102] Wall of Nature. Viet Ha Tran
+  id: 0e54009633ba30e60a82511886c47b024027954b4db6bd3fd065e4258885f665
+  start: 2026-09-30T00:00:00+02:00
+  end: 2026-10-24T00:00:00+02:00
+  category: exhibition
+  source: esmadrid_exhibitions
+  location: Real Sociedad Fotográfica - de los Tres Peces, 2, Madrid, 28012
+  coordinates: 40.409835, -3.700442
+  url: https://rsf.es/exposiciones-real-sociedad-fotografica/wall-of-nature-viet-ha-tran/
+  description: Exposición fotográfica de la artista visual vietnamita inspirada en el popular jardín vertical del Caixaforum de Madrid (Real Sociedad Fotográfica. 30 sept a 24 oct).
+
+[103] Suma Flamenca 2026 "Flamencas. Cante, Baile y Toque" Exposición fotográfica de Ana Palma
   id: 53bc2b68cca5653230cb1a2830375102bc2374a481139ed217f959256d69976e
   start: 2026-09-30T11:30:00+02:00
   end: 2026-09-30T11:30:00+02:00
@@ -1133,7 +1144,7 @@ Total events: 118
 
 Flamencas. Cante, baile y toque Cantaoras, bailaoras e instrumentistas unidas por una misma forma de sentir y expresar. A través de esta muestra fotográfica, Ana Palma retrata la fuerza y la belleza del universo femenino del flamenco, captando instantes donde el gesto, la mirada y el movimiento se convierten en lenguaje. Flamencas. Cante, baile y toque es una mirada a la emoción y la expresividad de las mujeres que dan vida al flamenco..
 
-[103] Cayetana. Grande de España
+[104] Cayetana. Grande de España
   id: b777c6546b833b8ec6016cfeec1f156210203b883239861e91b1445c2d119f22
   start: 2026-10-01T00:00:00+02:00
   end: 2027-01-31T00:00:00+01:00
@@ -1144,7 +1155,7 @@ Flamencas. Cante, baile y toque Cantaoras, bailaoras e instrumentistas unidas po
   url: https://www.palaciodeliria.com/actividades-exposiciones-madrid/exposicion-cayetana-duquesa-de-alba
   description: Exposición dedicada a la XVIII duquesa de Alba destacando su extraordinaria contribución a la conservación del inmenso legado histórico y artístico de la Casa de Alba (Palacio de Liria.
 
-[104] "Poemas en Blanco y Negro"
+[105] "Poemas en Blanco y Negro"
   id: cae02261880dff2237efcb344ccd62335136f60d1341c7768bedf362c88994b6
   start: 2026-10-02T19:30:00+02:00
   end: 2026-10-02T19:30:00+02:00
@@ -1157,7 +1168,7 @@ Flamencas. Cante, baile y toque Cantaoras, bailaoras e instrumentistas unidas po
  
 Sección del Fotografía. Intervienen: Javier Rego – autor, Bárbara Mur, Carmen Ortigosa. Presenta: María Antonia García de la Vega. Sala Pérez Galdós. 19:30.
 
-[105] Lo que las flores revelan
+[106] Lo que las flores revelan
   id: 5a0aee3d4b29809940a6c70f96dccb35d86cc69b567c05966ad1f3b65beb3382
   start: 2026-10-04T10:00:00+02:00
   end: 2026-10-04T23:00:00+02:00
@@ -1202,7 +1213,7 @@ Martes a sábado: 10h a 00h
 
 Lunes y domingo: 10h a 16h
 
-[106] Pinceladas solidarias por la salud mental
+[107] Pinceladas solidarias por la salud mental
   id: bd052af0cbbeac8e273886e35473be0f861ea04a1d1d288b6f1303700acdd2a6
   start: 2026-10-05T11:00:00+02:00
   end: 2026-10-07T20:30:00+02:00
@@ -1214,7 +1225,7 @@ Lunes y domingo: 10h a 16h
   description: Exposición. Comisaria Mayte Pedraza. Sala Anselma. Del 5 al 7 de octubre, inauguración 5 a las 19:00 h. Horario 11:00 a 13:00 h. / 18:00 a 20:30 h.
 Evento organizado  por la Asociación la Barandilla, la voz de la diversidad.
 
-[107] Seba Calfuqueo. Cautín
+[108] Seba Calfuqueo. Cautín
   id: 57bbc30c34da66b15e1c00f11e6e85930925108491d26382f08a1a00919c14fe
   start: 2026-10-06T00:00:00+02:00
   end: 2027-01-17T00:00:00+01:00
@@ -1224,17 +1235,6 @@ Evento organizado  por la Asociación la Barandilla, la voz de la diversidad.
   coordinates: 40.416172, -3.694181
   url: https://www.museothyssen.org/exposiciones/seba-calfuqueo-cautin
   description: La artista mapuche expone por primera vez en solitario en Europa una obra diseñada en exclusiva para esta ocasión (Museo Nacional Thyssen-Bornemisza. 6 oct a 17 ene).
-
-[108] Grupo de lectura 'Futuros de la IA'
-  id: 781ae7b4492a32341c85f9206c10aecdfe8bbae12168180ad462c185a8bde1b6
-  start: 2026-10-06T18:30:00+02:00
-  end: N/A
-  category: exhibition
-  source: matadero
-  location: Matadero Madrid - Plaza de Legazpi, 8, Madrid
-  coordinates: 40.392398, -3.697762
-  url: https://www.mataderomadrid.org/programacion/grupo-de-lectura-futuros-de-la-ia
-  description: Futuros de la IA es un grupo de lectura ágil y una probeta de comunidad de aprendizaje para conocer textos recientes y especialmente relevantes y pensar colectivamente cómo la inteligencia artificial transforma la vida cotidiana, el trabajo, la cultura, la democracia y el uso de los recursos. En un contexto hiperacelerado donde la IA tiende a cerrar debates bajo la promesa de eficiencia, leer juntas se convierte en una alternativa real a la aceleración tecnológica y la delegación de criterios, juicios y responsabilidades. Estamos leyendo para comprender y, posiblemente, actuar. Calendario Encuentros online quincenales: Martes 6/10, 18.30h Martes 20/10, 18.30h Martes 3/11, 18.30h Martes 10/11, 18.30h Sábado 28/11, sesión presencial de presentación en el marco del festival OpenLAB → Link de la sala online Las personas participantes residentes en Madrid se pueden reunir en Medialab Matadero (previo aviso a proyectoslab@medialab-matadero.es con al menos 3-4 días laborables de antelación). Inscripciones La participación para cada sesión es libre y no requiere inscripción previa. ¿Por qué un grupo de lectura? ¿Para quién? En un contexto de aceleración tecnológica y promesas de eficiencia, leer juntas es una forma de detenerse. Aquí la lectura se convierte en una infraestructura cívica: un espacio para reconocer las ideologías, las metáforas y las relaciones de poder que ya organizan la esfera pública, la cultura y el trabajo a través de los sistemas algorítmicos. No se requieren conocimientos técnicos ni posiciones expertas. El grupo está abierto a artistas, a personas de los ámbitos cultural, educativo y social, y a cualquier persona interesada en comprender y debatir el papel de la IA en la vida en común. Queremos construir una comunidad capaz de formular preguntas incómodas, compartir herramientas críticas e imaginar otras relaciones posibles con la tecnología. En coherencia con la tradición de Medialab Matadero, esta RU o Unidad de Investigación entiende la lectura como una práctica pública y la comunidad como un dispositivo de aprendizaje colectivo. ¿Qué lecturas? Pensamos que acercarse al funcionamiento real de estos sistemas y comprender sus fundamentos lógicos, filosóficos, económicos y culturales debería ser un bagaje indispensable para cualquier ciudadano/a del siglo 21. Por eso, cada sesión toma un libro como punto de partida común. A partir de las ideas del o de la autora queremos debatir información, noticias y datos recientes. No buscamos respuestas cerradas, sino fijar elementos relevantes para construir una base de conocimiento sólida, basada en información de primera mano y la reflexión sobre zonas grises, retos, oportunidades y paradigmas alternativos. Cada sesión plantea unas preguntas o temáticas específicas como punto de partida. 1. Poder, infraestructuras y autonomía Lectura mínima propuesta: Libro completo (hasta donde cada una llegue) ¿La IA exige necesariamente grandes empresas, concentración de datos y consumo masivo de recursos? ¿Qué formas de trabajo, conocimiento y cuidado quedan invisibilizadas cuando se habla de "automatización"? ¿Existe una única idea de "inteligencia artificial general", o hay varias en disputa? ¿Por qué la que promueve una empresa como OpenAI podría no ser la única posible? ¿A quién le interesa esta narrativa? ¿Qué IA permite, o podría permitir, autonomía personal, autogestión colectiva y descentralización? 2. Hype, economía y cultura Lectura mínima propuesta: Libro completo (es cortito) ¿Hasta qué punto la industria actual de la IA es, más que una revolución tecnológica, una enorme operación financiera aplicada a infraestructuras clave? ¿Es esto distinto de lo que ocurrió en épocas anteriores con otras tecnologías (los coches, la televisión, la aviación, los satélites)? ¿Qué papel juegan el hype y las tendencias en la comprensión común de la IA y en su propio desarrollo técnico? ¿Qué significa que una tecnología sea "inevitable", y a quién beneficia que la entendamos así? ¿Cuándo una herramienta nos amplía y cuándo nos convierte en apéndice o asistente de una máquina? 3. Inteligencia, evolución y computación Lectura mínima propuesta: Introducción y un capítulo a elegir → disponibles en https://whatisintelligence.antikythera.org/ ¿Qué ideas sobre la mente, la evolución y la vida quedan inscritas en los sistemas de IA? ¿Qué consecuencias sociales tiene tratar la inteligencia como algo medible, comparable y optimizable? ¿Es la computación una forma de inteligencia?¿A quién le interesa estas aproximaciones? ¿Qué tipo de mundo diseña? ¿Qué es la inteligencia para Google? 4. Geopolítica y futuros plurales Lectura mínima propuesta: Introducción y un capítulo a elegir ¿Existen tecnologías vinculadas necesariamente a culturas o cosmologías específicas? ¿Hay una cultura de la IA occidental y otra china, o más bien una cultura planetaria de la IA? ¿Qué riesgos tiene pensar Europa, China y Estados Unidos como bloques tecnológicos homogéneos? ¿Tiene sentido luchar por una IA europea?
 
 [109] Colecciones Masaveu. Arte textil
   id: 1cbb5853e174c4216457042e069ae65bf8fcbef125c391b350b251202092ac18
@@ -1269,7 +1269,18 @@ Evento organizado  por la Asociación la Barandilla, la voz de la diversidad.
   url: https://www.fundacioncanal.com/exposiciones/el-infierno-de-dante-dore-y-rauschenberg/
   description: Exposición que reúne las dos series completas que Gustave Doré y Robert Rauschenberg dedicaron al Infierno de Dante (Fundación Canal. Sala Mateo Inurria 2. 7 oct a 5 ene 2027).
 
-[112] Três Filhas - Filipa Sáragga d'Orey
+[112] Obras invitadas: Millares, Rivera y Solano
+  id: 8fa6ad0549842f85c79094cea1d4287e81856f00d4e49c2fc313e0295b2f1c45
+  start: 2026-10-07T00:00:00+02:00
+  end: 2026-11-29T00:00:00+01:00
+  category: exhibition
+  source: esmadrid_exhibitions
+  location: Fundación María Cristina Masaveu Peterson - de Alcalá Galiano, 6, Madrid, 28071
+  coordinates: 40.434807, -3.691327
+  url: https://www.fundacioncristinamasaveu.com/portfolio/obras-invitadas-millares-rivera-solano/
+  description: Exposición de piezas destacadas del informalismo español, pertenecientes a las colecciones Masaveu (Fundación María Cristina Masaveu Peterson. 7 oct - 29 nov).
+
+[113] Três Filhas - Filipa Sáragga d'Orey
   id: e3cb9b17851d980efa05cce05b6411319e2f0c3f7510bcd76a9d70f4c7faf209
   start: 2026-10-07T00:00:00+02:00
   end: 2026-11-03T00:00:00+01:00
@@ -1280,7 +1291,7 @@ Evento organizado  por la Asociación la Barandilla, la voz de la diversidad.
   url: https://jorgealcolea.com/
   description: La artista convierte la maternidad en arquitectura emocional y pictórica, construida con rigor compositivo, geometría, color y símbolos que evocan a sus tres hijas (Galería Jorge Alcolea.
 
-[113] César Fernández Arias. Laboratorio de creación
+[114] César Fernández Arias. Laboratorio de creación
   id: 28919ba2b52392256ef5bd95e2a0f036b42676835a2a90a884513abc2cefa0f9
   start: 2026-10-08T00:00:00+02:00
   end: 2026-12-13T00:00:00+01:00
@@ -1291,7 +1302,7 @@ Evento organizado  por la Asociación la Barandilla, la voz de la diversidad.
   url: https://www.ucm.es/cultura/cesar-fernandez-arias-laboratorio-de-creacion
   description: La mayor retrospectiva dedicada hasta la fecha a uno de los creadores más personales del arte español contemporáneo (C Arte C. 8 oct a 13 dic).
 
-[114] Cruz Novillo
+[115] Cruz Novillo
   id: 0b1f53ac1f42d2f53e29f417f3edfebb953480b0b43545462a505528bcc3df2e
   start: 2026-10-08T00:00:00+02:00
   end: 2027-01-24T00:00:00+01:00
@@ -1302,7 +1313,7 @@ Evento organizado  por la Asociación la Barandilla, la voz de la diversidad.
   url: https://www.centrocentro.org/exposicion/cruz-novillo
   description: Un recorrido no lineal por la obra del artista que incluye ciclos de trabajos desde mediados de la década de 1960 hasta obras de 2025 (CentroCentro. 8 oct a 24 ene 2027).
 
-[115] Madrid en el Teatro Español del Siglo de Oro
+[116] Madrid en el Teatro Español del Siglo de Oro
   id: a090fe93ea410e8f5ddfcdd521e5f92bca3bb161814697626ca6fb9c5ec31e5e
   start: 2026-10-09T00:00:00+02:00
   end: 2027-01-10T00:00:00+01:00
@@ -1313,7 +1324,7 @@ Evento organizado  por la Asociación la Barandilla, la voz de la diversidad.
   url: https://www.comunidad.madrid/actividades/2026/exposicion-madrid-teatro-espanol-siglo-oro
   description: Un recorrido por el papel de Madrid como gran centro del teatro barroco español (Biblioteca Regional de la Comunidad de Madrid Joaquín Leguina. 9 oct a 10 ene 2027).
 
-[116] Thyssen-Bornemisza & Mauritshuis: una historia de amor entre dos museos
+[117] Thyssen-Bornemisza & Mauritshuis: una historia de amor entre dos museos
   id: 7a17edd15f7cdb595d3ca1382b5177b1dfdc33c123916fce8192d1884aff939e
   start: 2026-10-09T00:00:00+02:00
   end: 2027-01-10T00:00:00+01:00
@@ -1324,7 +1335,7 @@ Evento organizado  por la Asociación la Barandilla, la voz de la diversidad.
   url: https://www.museothyssen.org/exposiciones/thyssen-bornemisza-mauritshuis
   description: Los dos museos intercambian de forma simultánea veinticinco obras destacadas de sus colecciones permanentes (Museo Nacional Thyssen-Bornemisza. 9 oct a 10 ene 2027).
 
-[117] Continentes como semillas
+[118] Continentes como semillas
   id: 8b0da71723d289db27fc37ec4f5a80289ca40568b2bac62183f8c01bb288311c
   start: 2026-10-10T00:00:00+02:00
   end: 2027-01-10T00:00:00+01:00
@@ -1335,7 +1346,7 @@ Evento organizado  por la Asociación la Barandilla, la voz de la diversidad.
   url: https://www.lacasaencendida.es/exposiciones/continentes-como-semillas
   description: La Chola Poblete, Niño de Elche y Pedro G. Romero exploran cómo las historias coloniales siguen resonando en los cuerpos, los objetos y la cultura contemporánea (La Casa Encendida.
 
-[118] Ricardo de Madrazo (1852-1917): dibujos y acuarelas
+[119] Ricardo de Madrazo (1852-1917): dibujos y acuarelas
   id: b2a9f29c425919679405da5611c0f49e9f71f9cc85e5038fc4e4850328e32226
   start: 2026-10-13T00:00:00+02:00
   end: 2027-01-17T00:00:00+01:00

@@ -1,5 +1,5 @@
 Eirene feed debug
-Total events: 113
+Total events: 115
 
 [1] La Odisea. El viaje inmersivo
   id: 2b0c761321971c54feddd57f9b063a8bcf6a2194285807efc4eef843a98f78d2
@@ -1000,7 +1000,7 @@ Total events: 113
   location: Centro Cultural Coreano en España - de la Castellana, 15, Madrid, 28046
   coordinates: 40.428134, -3.69022
   url: https://spain.korean-culture.org/es/1217/board/428/read/147030
-  description: El artista coreano presenta tres nuevas obras en las que reinterpreta las técnicas tradicionales de lacado (Centro Cultural Coreano. 17 sept a 13 nov).
+  description: El artista coreano presenta tres nuevas obras en las que reinterpreta las técnicas tradicionales de lacado (Centro Cultural Coreano. Hasta 13 nov).
 
 [92] La Casera, 75 años
   id: f5d12ed311f5edb0bd724c3c4a248bf8197d488bb03583aa6070ad36b96eeb70
@@ -1077,7 +1077,7 @@ Total events: 113
   location: Sala de Exposiciones del Banco de España - de Alcalá, 48, Madrid, 28012
   coordinates: 40.4182, -3.6935
   url: https://www.bde.es/wbe/es/noticias-eventos/actualidad-banco-espana/el-banco-de-espana-mostrara-en-septiembre-las-obras-textiles-de-su-coleccion-.html
-  description: Un recorrido por el arte textil entendido como un espacio de convergencia entre arte, arquitectura e industria (Sala de Exposiciones del Banco de España. 28 sept a 28 mar 2027).
+  description: Un recorrido por el arte textil entendido como un espacio de convergencia entre arte, arquitectura e industria (Sala de Exposiciones del Banco de España. Hasta 28 mar).
 
 [99] Fue de día, fue de tarde, fue fantástico
   id: 3575a675809e5fd3a804bc5bcb97e802cd59d5fd82030927da65d7443fe72a57
@@ -1110,9 +1110,20 @@ Total events: 113
   location: Real Academia de Bellas Artes de San Fernando - de Alcalá, 13, Madrid, 28014
   coordinates: 40.418613, -3.699348
   url: https://www.realacademiabellasartessanfernando.com/actividades/exposiciones/madrid-en-el-siglo-de-oro-crisol-de-destinos-y-desembarco-de-genios/
-  description: Exposición que retrata el destacado papel de nuestra ciudad en la cultura, ciencia y política españolas durante los siglos XVI y XVII (RABASF. 29 sept - 2 dic).
+  description: Exposición que retrata el destacado papel de nuestra ciudad en la cultura, ciencia y política españolas durante los siglos XVI y XVII (Real Academia de Bellas Artes de San Fernando.
 
-[102] Cayetana. Grande de España
+[102] Wall of Nature. Viet Ha Tran
+  id: 0e54009633ba30e60a82511886c47b024027954b4db6bd3fd065e4258885f665
+  start: 2026-09-30T00:00:00+02:00
+  end: 2026-10-24T00:00:00+02:00
+  category: exhibition
+  source: esmadrid_exhibitions
+  location: Real Sociedad Fotográfica - de los Tres Peces, 2, Madrid, 28012
+  coordinates: 40.409835, -3.700442
+  url: https://rsf.es/exposiciones-real-sociedad-fotografica/wall-of-nature-viet-ha-tran/
+  description: Exposición fotográfica de la artista visual vietnamita inspirada en el popular jardín vertical del Caixaforum de Madrid (Real Sociedad Fotográfica. 30 sept a 24 oct).
+
+[103] Cayetana. Grande de España
   id: b777c6546b833b8ec6016cfeec1f156210203b883239861e91b1445c2d119f22
   start: 2026-10-01T00:00:00+02:00
   end: 2027-01-31T00:00:00+01:00
@@ -1123,7 +1134,7 @@ Total events: 113
   url: https://www.palaciodeliria.com/actividades-exposiciones-madrid/exposicion-cayetana-duquesa-de-alba
   description: Exposición dedicada a la XVIII duquesa de Alba destacando su extraordinaria contribución a la conservación del inmenso legado histórico y artístico de la Casa de Alba (Palacio de Liria.
 
-[103] Seba Calfuqueo. Cautín
+[104] Seba Calfuqueo. Cautín
   id: 57bbc30c34da66b15e1c00f11e6e85930925108491d26382f08a1a00919c14fe
   start: 2026-10-06T00:00:00+02:00
   end: 2027-01-17T00:00:00+01:00
@@ -1134,7 +1145,7 @@ Total events: 113
   url: https://www.museothyssen.org/exposiciones/seba-calfuqueo-cautin
   description: La artista mapuche expone por primera vez en solitario en Europa una obra diseñada en exclusiva para esta ocasión (Museo Nacional Thyssen-Bornemisza. 6 oct a 17 ene).
 
-[104] Colecciones Masaveu. Arte textil
+[105] Colecciones Masaveu. Arte textil
   id: 1cbb5853e174c4216457042e069ae65bf8fcbef125c391b350b251202092ac18
   start: 2026-10-07T00:00:00+02:00
   end: 2027-07-18T00:00:00+02:00
@@ -1145,7 +1156,7 @@ Total events: 113
   url: https://www.esmadrid.com/agenda/colecciones-masaveu-arte-textil-fundacion-maria-cristina-masaveu-peterson
   description: Selección de más de ochenta piezas textiles datadas entre el siglo XV y la actualidad pertenecientes a las colecciones Masaveu (Fundación María Cristina Masaveu Peterson.
 
-[105] En el corazón del 7 de octubre
+[106] En el corazón del 7 de octubre
   id: da2a2e2f3c8ce1a1a6882567b96fde54247af4b5ad96473343141f175a1a4514
   start: 2026-10-07T00:00:00+02:00
   end: 2026-11-20T00:00:00+01:00
@@ -1156,7 +1167,7 @@ Total events: 113
   url: https://www.sefarad-israel.es/exposiciones/en-el-corazon-del-7-de-octubre/
   description: Cómic testimonial sobre las historias reales de humanidad del 7 de octubre (Centro Sefarad-Israel. 7 oct a 20 nov).
 
-[106] El infierno de Dante. Doré y Rauschenberg
+[107] El infierno de Dante. Doré y Rauschenberg
   id: 09ee456d56237708969ee57bc99f12e8a6e8e88a90b771d0474c51ec3b0cc604
   start: 2026-10-07T00:00:00+02:00
   end: 2027-01-05T00:00:00+01:00
@@ -1167,7 +1178,18 @@ Total events: 113
   url: https://www.fundacioncanal.com/exposiciones/el-infierno-de-dante-dore-y-rauschenberg/
   description: Exposición que reúne las dos series completas que Gustave Doré y Robert Rauschenberg dedicaron al Infierno de Dante (Fundación Canal. Sala Mateo Inurria 2. 7 oct a 5 ene 2027).
 
-[107] Três Filhas - Filipa Sáragga d'Orey
+[108] Obras invitadas: Millares, Rivera y Solano
+  id: 8fa6ad0549842f85c79094cea1d4287e81856f00d4e49c2fc313e0295b2f1c45
+  start: 2026-10-07T00:00:00+02:00
+  end: 2026-11-29T00:00:00+01:00
+  category: exhibition
+  source: esmadrid_exhibitions
+  location: Fundación María Cristina Masaveu Peterson - de Alcalá Galiano, 6, Madrid, 28071
+  coordinates: 40.434807, -3.691327
+  url: https://www.fundacioncristinamasaveu.com/portfolio/obras-invitadas-millares-rivera-solano/
+  description: Exposición de piezas destacadas del informalismo español, pertenecientes a las colecciones Masaveu (Fundación María Cristina Masaveu Peterson. 7 oct - 29 nov).
+
+[109] Três Filhas - Filipa Sáragga d'Orey
   id: e3cb9b17851d980efa05cce05b6411319e2f0c3f7510bcd76a9d70f4c7faf209
   start: 2026-10-07T00:00:00+02:00
   end: 2026-11-03T00:00:00+01:00
@@ -1178,7 +1200,7 @@ Total events: 113
   url: https://jorgealcolea.com/
   description: La artista convierte la maternidad en arquitectura emocional y pictórica, construida con rigor compositivo, geometría, color y símbolos que evocan a sus tres hijas (Galería Jorge Alcolea.
 
-[108] César Fernández Arias. Laboratorio de creación
+[110] César Fernández Arias. Laboratorio de creación
   id: 28919ba2b52392256ef5bd95e2a0f036b42676835a2a90a884513abc2cefa0f9
   start: 2026-10-08T00:00:00+02:00
   end: 2026-12-13T00:00:00+01:00
@@ -1189,7 +1211,7 @@ Total events: 113
   url: https://www.ucm.es/cultura/cesar-fernandez-arias-laboratorio-de-creacion
   description: La mayor retrospectiva dedicada hasta la fecha a uno de los creadores más personales del arte español contemporáneo (C Arte C. 8 oct a 13 dic).
 
-[109] Cruz Novillo
+[111] Cruz Novillo
   id: 0b1f53ac1f42d2f53e29f417f3edfebb953480b0b43545462a505528bcc3df2e
   start: 2026-10-08T00:00:00+02:00
   end: 2027-01-24T00:00:00+01:00
@@ -1200,7 +1222,7 @@ Total events: 113
   url: https://www.centrocentro.org/exposicion/cruz-novillo
   description: Un recorrido no lineal por la obra del artista que incluye ciclos de trabajos desde mediados de la década de 1960 hasta obras de 2025 (CentroCentro. 8 oct a 24 ene 2027).
 
-[110] Madrid en el Teatro Español del Siglo de Oro
+[112] Madrid en el Teatro Español del Siglo de Oro
   id: a090fe93ea410e8f5ddfcdd521e5f92bca3bb161814697626ca6fb9c5ec31e5e
   start: 2026-10-09T00:00:00+02:00
   end: 2027-01-10T00:00:00+01:00
@@ -1211,7 +1233,7 @@ Total events: 113
   url: https://www.comunidad.madrid/actividades/2026/exposicion-madrid-teatro-espanol-siglo-oro
   description: Un recorrido por el papel de Madrid como gran centro del teatro barroco español (Biblioteca Regional de la Comunidad de Madrid Joaquín Leguina. 9 oct a 10 ene 2027).
 
-[111] Thyssen-Bornemisza & Mauritshuis: una historia de amor entre dos museos
+[113] Thyssen-Bornemisza & Mauritshuis: una historia de amor entre dos museos
   id: 7a17edd15f7cdb595d3ca1382b5177b1dfdc33c123916fce8192d1884aff939e
   start: 2026-10-09T00:00:00+02:00
   end: 2027-01-10T00:00:00+01:00
@@ -1222,7 +1244,7 @@ Total events: 113
   url: https://www.museothyssen.org/exposiciones/thyssen-bornemisza-mauritshuis
   description: Los dos museos intercambian de forma simultánea veinticinco obras destacadas de sus colecciones permanentes (Museo Nacional Thyssen-Bornemisza. 9 oct a 10 ene 2027).
 
-[112] Continentes como semillas
+[114] Continentes como semillas
   id: 8b0da71723d289db27fc37ec4f5a80289ca40568b2bac62183f8c01bb288311c
   start: 2026-10-10T00:00:00+02:00
   end: 2027-01-10T00:00:00+01:00
@@ -1233,7 +1255,7 @@ Total events: 113
   url: https://www.lacasaencendida.es/exposiciones/continentes-como-semillas
   description: La Chola Poblete, Niño de Elche y Pedro G. Romero exploran cómo las historias coloniales siguen resonando en los cuerpos, los objetos y la cultura contemporánea (La Casa Encendida.
 
-[113] Ricardo de Madrazo (1852-1917): dibujos y acuarelas
+[115] Ricardo de Madrazo (1852-1917): dibujos y acuarelas
   id: b2a9f29c425919679405da5611c0f49e9f71f9cc85e5038fc4e4850328e32226
   start: 2026-10-13T00:00:00+02:00
   end: 2027-01-17T00:00:00+01:00

@@ -2,53 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Faros en la noche cósmica
-DTSTART;TZID=Europe/Madrid:20260928T193000
-DTEND;TZID=Europe/Madrid:20260928T193000
-UID:7baaa6f2c1345411ca02ce54b7872d717712cc60a321b03582be8033d1b3aef4
-CATEGORIES:music
-DESCRIPTION:Ciclo La Bascongada y el Universo \n \nSección de Música y R
- eal Sociedad Bascongada de los amigos del país. Presenta: Telmo Fernánde
- z. Intervienen: Tobías F. Borkel – violín\, Mikhail Studyonov – pian
- o. Cátedra Mayor. 19:30h.\n\nhttps://ateneodemadrid.com/evento/faros-en-l
- a-noche-cosmica/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DE ESTRAPERLO DE JESÚS MAÑERU
-DTSTART;TZID=Europe/Madrid:20260928T200000
-DTEND;TZID=Europe/Madrid:20260929T200000
-UID:cfd7ae30a3d0b67632afa3c9e1224bfa07c8847e153a9fcd9103090a55b2122b
-CATEGORIES:music
-DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
-  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h. \n \nMa
- rta Mansilla – flauta\nDani Juárez – saxo\nDavid Sancho – piano\nMi
- guel Rodrigáñez – contrabajo\nJesús Mañeru – percusión\, composic
- ión \nEl músico Jesús Mañeru\, percusionista\, inquieto en el aprendiz
- aje de diferentes músicas populares\, presenta\nsu proyecto basado en com
- posiciones que le han acompañado en los últimos años y las viste en for
- mación de\nquinteto.\nSu trayectoria musical es amplia y ecléctica\, tra
- nsitando entre diferentes caminos\, estilos y haciendo música\npara diver
- sas disciplinas artísticas como danza\, teatro\, pintura y performance. D
- espués de numerosos discos\ngrabados con diversos proyectos a lo largo de
-  su carrera\, presenta su obra más personal con composiciones\npropias ll
- amado De estraperlo.\nSugerentes y bellas melodías entrelazadas con ritmo
- s de distintos pueblos y culturas\, proponiendo un viaje de\nensueño dond
- e la improvisación juega un papel protagonista. Para ello comparte con es
- traperlistas de lujo\,\nmúsicos reconocidos en el panorama nacional.\n\nh
- ttps://ateneodemadrid.com/evento/de-estraperlo-de-jesus-maneru/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nik West
-DTSTART;TZID=Europe/Madrid:20260928T203000
-UID:feacd94cf5fec6cd979eaf39a35b73a32220e8215f879b4c9acbf87532164281
-CATEGORIES:music
-DESCRIPTION:Concierto / Villanos del Jazz\n\nhttps://salavillanos.es/event
- o/nik-west/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Isabel Van Gelder
 DTSTART;TZID=Europe/Madrid:20260929T200000
 UID:95505d875335e8db66ffb4286736fc5d6887413751e5fbcad369561ee3aa032d
@@ -257,6 +210,30 @@ DESCRIPTION:Concierto / Jazz\n\nhttps://salavillanos.es/evento/jamie-duffy
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:LADY & THE TRAMPS
+DTSTART;TZID=Europe/Madrid:20261005T200000
+DTEND;TZID=Europe/Madrid:20261006T200000
+UID:8c09a0041d0d6789186e7550878092e98ae22122b377dc4902bda9b24a126fed
+CATEGORIES:music
+DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
+  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h. \n \nM
+ ónica Benito – voz\nRafa Serrano – saxo\, flauta\nAdrián Carrio – 
+ piano\nSergio Fernández – contrabajo (día 5)\nAnder García – contra
+ bajo (día 6)\nMiguel Benito – batería \nLady & The Tramps: La renovada
+  fiebre del swing \nLady & The Tramps es una vibrante banda de swing con s
+ ede en Madrid que ha cautivado a audiencias con su estilo único y enérgi
+ co. Un quinteto compuesto por voz\, saxofón\, piano\, contrabajo y bater
+ ía\, esta banda ha dejado una marca distintiva en la escena jazz/swing de
+  la capital española durante los últimos 14 años. \nEncabezada por la c
+ arismática cantante Mónica Benito\, Lady & The Tramps ha establecido su 
+ reputación como uno de los grupos más destacados del género en Madrid. 
+ Su nuevo álbum “Seasons”\, es un testimonio de su excelencia musical 
+ y su capacidad para fusionar los ritmos del jazz latino y el swing de una 
+ manera cautivadora.\n\nhttps://ateneodemadrid.com/evento/lady-the-tramps-2
+ /
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:GONDWANA Y QUIQUE NEIRA
 DTSTART;TZID=Europe/Madrid:20261006T200000
 UID:a52ce8d1d3441568140a0f6419ecab94f29bc0047476b75f5f4cfe8aaca4e8aa
@@ -436,5 +413,25 @@ DESCRIPTION:Apertura Puertas: 19:30 pm\n\nhttps://www.entradas.com/artist/
  leoni-torres/?Affiliate=RIV
 LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
  id
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Destinados Ayudar: Entre Amigos
+DTSTART;TZID=Europe/Madrid:20261013T200000
+UID:be5228a31a3be6ffb943d0b191773fa76a34099b0219d86c5c81d931468f4e52
+CATEGORIES:music
+DESCRIPTION:Apertura Puertas: 18:30 Horas\n\nhttps://www.universe.com/even
+ ts/destinados-ayudar-presenta-entre-amigos-tickets-9YDZS6?ref=ticketmaster
+ &language=en-us
+LOCATION:Sala La Riviera - Paseo Bajo de la Virgen del Puerto\, s/n\, Madr
+ id
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Laura Misch
+DTSTART;TZID=Europe/Madrid:20261013T203000
+UID:cc312de5682d480e1f40ce00010fee99d5cfddcdc8db288a21d1e6263b170884
+CATEGORIES:music
+DESCRIPTION:Concierto / Villanos del Jazz\n\nhttps://salavillanos.es/event
+ o/laura-misch/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 END:VCALENDAR
