@@ -2,15 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Isabel Van Gelder
-DTSTART;TZID=Europe/Madrid:20260929T200000
-UID:95505d875335e8db66ffb4286736fc5d6887413751e5fbcad369561ee3aa032d
-CATEGORIES:music
-DESCRIPTION:Concierto / Rock\n\nhttps://salavillanos.es/evento/isabel-van-
- gelder/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Suma Flamenca 2026 "La Mujer en el Flamenco"
 DTSTART;TZID=Europe/Madrid:20260930T200000
 DTEND;TZID=Europe/Madrid:20260930T200000
@@ -432,6 +423,15 @@ UID:cc312de5682d480e1f40ce00010fee99d5cfddcdc8db288a21d1e6263b170884
 CATEGORIES:music
 DESCRIPTION:Concierto / Villanos del Jazz\n\nhttps://salavillanos.es/event
  o/laura-misch/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Strawberry Guy
+DTSTART;TZID=Europe/Madrid:20261014T200000
+UID:81f959f60ae0676d1e68e4d2efe2249a21f9e2ad9273188405d6613793a055b5
+CATEGORIES:music
+DESCRIPTION:Concierto / Pop\n\nhttps://salavillanos.es/evento/strawberry-g
+ uy/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 END:VCALENDAR

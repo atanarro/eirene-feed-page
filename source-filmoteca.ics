@@ -2,34 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:La tierra de la gran promesa
-DTSTART;TZID=Europe/Madrid:20260929T173000
-UID:8cb2b86d3e289070728d8bcf0f0ccb9fa43b2a6d607b4b2b6dd8c31e2341c059
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Martes 29 de septiembre a las 17:30h (Sala 1. An
- drzej Wajda. Entre el mito y la historia) *Aunque las entradas aparezcan c
- omo agotadas en web\, pueden adquirirse en taquilla entradas para las sesi
- ones del día (de 17h a 20h)\n\nOriginal title: Ziemia obiecana\n\nRelease
-  year: 1975\n\nOriginal language: PL\n\nhttps://entradasfilmoteca.sacatuen
- trada.es/es/productos/descripcion/la-tierra-de-la-gran-promesa-1
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Goodbye Dragon Inn
-DTSTART;TZID=Europe/Madrid:20260929T200000
-UID:e33b1db7336b75910126eacb27918f5480f963c90b09d0444c4b2f4f155521d0
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Martes 29 de septiembre a las 20:00h (Sala 1. Mi
- radas proyectadas. Salas y espectadores: Encuentros a oscuras) *Aunque las
-  entradas aparezcan como agotadas en web\, pueden adquirirse en taquilla e
- ntradas para las sesiones del día (de 17h a 20h)\n\nOriginal title: 不
- 散\n\nRelease year: 2003\n\nOriginal language: ZH\n\nhttps://entradasfilm
- oteca.sacatuentrada.es/es/productos/descripcion/goodbye-dragon-inn-29-sep
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Padre nuestro
 DTSTART;TZID=Europe/Madrid:20260930T173000
 UID:eacb371312c4bc2480306654916d41d7ff2aa822d9f2541026cf9932c881fe0c
@@ -248,20 +220,6 @@ LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
  \, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Esa pareja feliz
-DTSTART;TZID=Europe/Madrid:20261006T211500
-UID:db3d18c5c43f814a2a57023f2a30e427490dc78526d77ad6d41d79d9ea0a69db
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Martes 6 de octubre a las 17:00\, 18:25\, 19:50 
- y 21:15h (Sesión continua) (Sala 2. DÍA DEL CINE ESPAÑOL) *Aunque las e
- ntradas aparezcan como agotadas en web\, pueden adquirirse en taquilla ent
- radas para las sesiones del día (de 17h a 20h)\n\nRelease year: 1953\n\nO
- riginal language: ES\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/prod
- uctos/descripcion/esa-pareja-feliz-2
-LOCATION:Filmoteca Espanola - Cine Dore Sala 2 - Calle de Santa Isabel\, 3
- \, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Comrades: Almost a Love Story
 DTSTART;TZID=Europe/Madrid:20261007T173000
 UID:81c8497dc5bf3048673d8f4ab83f7266fbdbb95899cb5630f2be3db48e98d5af
@@ -368,8 +326,8 @@ CATEGORIES:cinema
 DESCRIPTION:Fecha y Hora: Viernes 9 de octubre a las 19:00h (Sala 2. DIÁL
  OGOS INTERGENERACIONALES. ENVEJECER EN LA PANTALLA) *Aunque las entradas a
  parezcan como agotadas en web\, pueden adquirirse en taquilla entradas par
- a las sesiones del día (de 17h a 20h)\n\nRelease year: 2020\n\nOriginal l
- anguage: EN\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/productos/des
+ a las sesiones del día (de 17h a 20h)\n\nRelease year: 2022\n\nOriginal l
+ anguage: FR\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/productos/des
  cripcion/marlene
 LOCATION:Filmoteca Espanola - Cine Dore Sala 2 - Calle de Santa Isabel\, 3
  \, Madrid
@@ -450,7 +408,7 @@ CATEGORIES:cinema
 DESCRIPTION:Fecha y Hora: Domingo 11 de octubre a las 20:00h (Sala 1. HONG
   KONG. LOS AÑOS DEL NEÓN) *Aunque las entradas aparezcan como agotadas e
  n web\, pueden adquirirse en taquilla entradas para las sesiones del día 
- (de 17h a 20h)\n\nRelease year: 1974\n\nOriginal language: EN\n\nhttps://e
+ (de 17h a 20h)\n\nRelease year: 2026\n\nOriginal language: EN\n\nhttps://e
  ntradasfilmoteca.sacatuentrada.es/es/productos/descripcion/fallen-angels-1
 LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
  \, Madrid
@@ -480,6 +438,48 @@ DESCRIPTION:Fecha y Hora: Martes 13 de octubre a las 20:00h (Sala 1. ANDRZ
  s del día (de 17h a 20h)\n\nRelease year: 1983\n\nOriginal language: FR\n
  \nhttps://entradasfilmoteca.sacatuentrada.es/es/productos/descripcion/dant
  on
+LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
+ \, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vidas errantes
+DTSTART;TZID=Europe/Madrid:20261014T173000
+UID:d81ef464e20ef5b04c50f9992076c0ed4db1ce53c7a04c60c540ade1048d7f2c
+CATEGORIES:cinema
+DESCRIPTION:Fecha y Hora: Miércoles 14 de octubre a las 17:30h (Sala 1. M
+ IRADAS PROYECTADAS. SALAS Y ESPECTADORES: ENCUENTROS A OSCURAS) *Aunque la
+ s entradas aparezcan como agotadas en web\, pueden adquirirse en taquilla 
+ entradas para las sesiones del día (de 17h a 20h)\n\nRelease year: 1987\n
+ \nOriginal language: ES\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/p
+ roductos/descripcion/vidas-errantes-1
+LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
+ \, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Restauraciones recientes\, cortometrajes de los 70
+DTSTART;TZID=Europe/Madrid:20261014T190000
+UID:d4fae2a768ab043d09f0b02285da08c0d8838b8dd3b2dcd811eb18391cc55747
+CATEGORIES:cinema
+DESCRIPTION:Fecha y Hora: Miércoles 14 de octubre a las 19:00h (Sala 2. M
+ ES DEL ARCHIVO. FILMOTECA GALICIA (CGAI)) *Aunque las entradas aparezcan c
+ omo agotadas en web\, pueden adquirirse en taquilla entradas para las sesi
+ ones del día (de 17h a 20h)\n\nhttps://entradasfilmoteca.sacatuentrada.es
+ /es/productos/descripcion/restauraciones-recientes-cortometrajes-de-los-70
+LOCATION:Filmoteca Espanola - Cine Dore Sala 2 - Calle de Santa Isabel\, 3
+ \, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La chica de la fábrica de cerillas
+DTSTART;TZID=Europe/Madrid:20261014T200000
+UID:4cd3c4f355bdefd08cebd226f438c8f01f41a5775e4b6543b000fc636d2159f6
+CATEGORIES:cinema
+DESCRIPTION:Fecha y Hora: Miércoles 14 de octubre a las 20:00h (Sala 1. A
+ KI KAURISMÄKI. TRILOGÍA DE LOS PERDEDORES) *Aunque las entradas aparezca
+ n como agotadas en web\, pueden adquirirse en taquilla entradas para las s
+ esiones del día (de 17h a 20h)\n\nOriginal title: Tulitikkutehtaan tyttö
+ \n\nRelease year: 1990\n\nOriginal language: FI\n\nhttps://entradasfilmote
+ ca.sacatuentrada.es/es/productos/descripcion/la-chica-de-la-fabrica-de-cer
+ illas-2
 LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
  \, Madrid
 END:VEVENT
