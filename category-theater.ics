@@ -14,24 +14,84 @@ DESCRIPTION:El actor y músico Coque Malla lidera esta versión contempor
 LOCATION:Teatro Infanta Isabel - Calle del Barquillo\, 24\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Verborrea
+DTSTART;TZID=Europe/Madrid:20261001T000000
+DTEND;TZID=Europe/Madrid:20261101T235900
+UID:1b2916f803e83c65e5889ae9cb9472df5af7592a5ea441dd172ae76745751b8a
+CATEGORIES:theater
+DESCRIPTION:“QUIZÁ VAMOS A CANTAR COMO LAS RATAS” Hay acontecimientos
+  cuya probabilidad es tan pequeña que parecen sacados de una película. A
+ sí nacen las leyendas. Desde lo improbable. En la frontera entre la vida 
+ y su melodía soñada. En Verborrea \, Pablo Remón hace a sus personajes 
+ narrar un mito de ascenso y caída contemporáneo\, el de la ficticia band
+ a punk Verborrea\, una historia que usted recuerda con otros nombres\, con
+  el mismo rasgueo de guitarra. Seguiremos a dos hermanos criados en pleno 
+ Valle de los Caídos bajo la autoridad de un padre franquista: Kike\, el s
+ er social\, y Segis\, que construye su identidad a la contra. De esa rebel
+ día nace Segismundo Tóxico y su relato. Sus relatos. Cada personaje recu
+ erda con matices. Hasta la guitarra fundacional de la banda tiene dos vers
+ iones de vida. En escena repiten los habituales de Remón: Javier Cámara
+ \, Israel Elejalde\, Marta Nieto y Emilio Tomé\, con quienes lleva colabo
+ rando años. Juntos\, en un texto trufado de casticismo y cultura popular
+ \, cuestionarán cómo heredamos las narraciones\, las combatimos\, las ac
+ eptamos y las repetimos. Rimamos distinto\, pero sonamos parecido. Cuando 
+ ya no puedes contarte como el héroe que querías ser\, hay que redefinir 
+ qué es la esperanza. A lo mejor consiste en dejarte llevar por la histori
+ a que sí ha ocurrido. Pilar G. Almansa Dramaturgista de la temporada 26/2
+ 7 | Tags: JOBO\n\nhttps://tienda.madrid-destino.com/es/nave-10/verborrea/
+LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Midsummer. SURGE MADRID EN OTOÑO
+DTSTART;TZID=Europe/Madrid:20261001T183000
+UID:34f586755bc66d62890efe6e0a94068ad47ce84782f55a1e93d4777c51fe0978
+CATEGORIES:theater
+DESCRIPTION:Programación en Teatro del Barrio\n\nhttps://teatrodelbarrio.
+ com/midsummer/
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Jardín\, Apocalipsis y La familia (Addams). SURGE MADRID EN OTOÑ
  O
-DTSTART;TZID=Europe/Madrid:20260930T193000
-UID:b3c2eca7a7633c82ae49e1cc666e2a4b71898c9b95b26f9bbc20df1751cb3978
+DTSTART;TZID=Europe/Madrid:20261001T193000
+UID:fdadd58bb80d6db5c185635360e3b2fc08bc9e29d76d9d4f06b94de7094cbd65
 CATEGORIES:theater
 DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/jardin-apocalipsis-y
  -la-familia-addams-surge-madrid-en-otono/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Verborrea
-DTSTART;TZID=Europe/Madrid:20261001T000000
-DTEND;TZID=Europe/Madrid:20261101T235900
-UID:1b2916f803e83c65e5889ae9cb9472df5af7592a5ea441dd172ae76745751b8a
+SUMMARY:CHAH / BADAN
+DTSTART;TZID=Europe/Madrid:20261002T193000
+UID:6eecbbcb16be6aab75ddb6910e47ab475d210dd46d95c25e9155cd89a007e37c
 CATEGORIES:theater
-DESCRIPTION:Desde 15\,00 € | Tags: JOBO\n\nhttps://tienda.madrid-destino
- .com/es/nave-10/verborrea/
-LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
+DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/chah-badan/
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Poesía o Barbarie
+DTSTART;TZID=Europe/Madrid:20261002T221500
+UID:b4442f5b7568a9cd0d1e56ccc24c2c5d0f06b55089ec692e3de9be8a378f1d12
+CATEGORIES:theater
+DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/poesia-o-barbarie/
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Taxidermia de una alondra
+DTSTART;TZID=Europe/Madrid:20261003T130000
+UID:228f41a8f9b30804dd83c0323104605f0c13f4e91c2d6e285bf600928e745d51
+CATEGORIES:theater
+DESCRIPTION:¡Ya solo quedan 3 plazas!\n\nhttps://teatrodelbarrio.com/taxi
+ dermia-de-una-alondra/
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CHAH / BADAN
+DTSTART;TZID=Europe/Madrid:20261003T193000
+UID:e7c3366b3ad0d8f380758a86d457f31dbeed765f334590ba04b7e848ad7333c5
+CATEGORIES:theater
+DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/chah-badan/
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FESTIVAL SURGE MADRID 2026: Jornada de trabajos emergentes
@@ -50,6 +110,74 @@ DESCRIPTION:FESTIVAL SURGE MADRID 2026: Jornada de trabajos emergentes\n\n
  irador.com/funcion?nombre=festival-surge-madrid-2026-jornada-de-trabajos-e
  mergentes-2026
 LOCATION:Sala Mirador - Calle Doctor Fourquet\, 31\, 28012 Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Poesía o Barbarie
+DTSTART;TZID=Europe/Madrid:20261003T221500
+UID:a5dc4a749a69893ba913428a00e17a7a667a44cd8d34c26bfcaa42c5dcaea1d0
+CATEGORIES:theater
+DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/poesia-o-barbarie/
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GLORIA
+DTSTART;TZID=Europe/Madrid:20261004T130000
+UID:887b9095f8582d78c0d9ee12050af92baf73401bbd787a59eed41bd1943826ad
+CATEGORIES:theater
+DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/gloria/
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CHAH / BADAN
+DTSTART;TZID=Europe/Madrid:20261004T180000
+UID:af8e1b03e283dc00c50b13ff326bcd927751f25cd739e640e677f3515193a41d
+CATEGORIES:theater
+DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/chah-badan/
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Taxidermia de una alondra
+DTSTART;TZID=Europe/Madrid:20261004T203000
+UID:afff8812aa398d3576b4a759bd541f9c97cbe722e374067d9645f1e73310e713
+CATEGORIES:theater
+DESCRIPTION:¡Ya solo quedan 1 plazas!\n\nhttps://teatrodelbarrio.com/taxi
+ dermia-de-una-alondra/
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La gran cacería
+DTSTART;TZID=Europe/Madrid:20261005T193000
+UID:b5864f08121d4ed60703bb7eea03062b51257ff3cad9f3df611d6f878edfb651
+CATEGORIES:theater
+DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/la-gran-caceria/
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Proyección del documental “Jornaleros. El mal patrón.”
+DTSTART;TZID=Europe/Madrid:20261006T190000
+UID:a59ae363ad93f6d48ec35008d69ab5ce7372a6cbab66cc5eb7e4976a33348355
+CATEGORIES:theater
+DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/proyeccion-del-docum
+ ental-jornaleros-el-mal-patron/
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ATEMPORAL. SURGE MADRID EN OTOÑO
+DTSTART;TZID=Europe/Madrid:20261007T193000
+UID:bf3f98f308769abd833c52c3ab28400c97b1a5102786d0ce1c33dc2118349303
+CATEGORIES:theater
+DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/atemporal-surge-madr
+ id-en-otono/
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Swing en el Teatro del Barrio
+DTSTART;TZID=Europe/Madrid:20261007T220000
+UID:11d028ba14178d67bd00fac302b3730bf84ae5ba0f619206e5490ed5e1bfe9ec
+CATEGORIES:theater
+DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/swing-en-el-teatro-d
+ el-barrio/
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ICTUS (Anatomía de «La última lección» de Castelao) / ICTUS (
@@ -77,6 +205,23 @@ DESCRIPTION:Encuentro con el equipo artístico: 29 OCT 2026 Función matin
 LOCATION:Teatro Valle-Inclán - Plaza de Lavapies\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ATEMPORAL. SURGE MADRID EN OTOÑO
+DTSTART;TZID=Europe/Madrid:20261008T193000
+UID:e3c2ade9ef7427f9aa20187fb54c935a519609bce89a70fe7349d5b673eaf93b
+CATEGORIES:theater
+DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/atemporal-surge-madr
+ id-en-otono/
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jajás en el Barrio
+DTSTART;TZID=Europe/Madrid:20261008T213000
+UID:ea27f1a3dc2eb5b93d0f91e7e5cf14b2460ceb2d6430ed04d7d27b56d6ea38cd
+CATEGORIES:theater
+DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/jajas-en-el-barrio/
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Al final de las cosas
 DTSTART;TZID=Europe/Madrid:20261009T180000
 DTEND;TZID=Europe/Madrid:20261115T180000
@@ -85,6 +230,41 @@ CATEGORIES:theater
 DESCRIPTION:Encuentro con el equipo artístico: 22 OCT 2026\n\nhttps://dra
  matico.inaem.gob.es/evento/al-final-de-las-cosas/
 LOCATION:Teatro Maria Guerrero - Calle de Tamayo y Baus\, 4\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Contra Ana
+DTSTART;TZID=Europe/Madrid:20261009T193000
+UID:d95824e871bffdddf3a88641216e900e71b5acd44254d30c930dddef65608939
+CATEGORIES:theater
+DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/contra-ana/
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Festival de Tranny Issues 2
+DTSTART;TZID=Europe/Madrid:20261009T221500
+UID:c4c8514b387b4333f4475998bf90209b7d3f07e971cf804f01b10f540e699455
+CATEGORIES:theater
+DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/festival-de-tranny-i
+ ssues-2/
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gordas\, lisiadas y mamarrachas
+DTSTART;TZID=Europe/Madrid:20261010T130000
+UID:d75359b460d18d98c7e0c044e64c362511bdd61fe6eda4763e3f6c2066ebda89
+CATEGORIES:theater
+DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/gordas-lisiadas-y-ma
+ marrachas/
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colombia en escena.
+DTSTART;TZID=Europe/Madrid:20261010T130000
+UID:784791ec4b32e0e09a7d5378ff3c7b2cc52b444bbd5cb7b705cb89ac9631080a
+CATEGORIES:theater
+DESCRIPTION:¡Ya solo quedan 16 plazas!\n\nhttps://teatrodelbarrio.com/col
+ ombia-en-escena/
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FESTIVAL SURGE MADRID 2026: Actividades Transversas
@@ -106,6 +286,14 @@ DESCRIPTION:FESTIVAL SURGE MADRID 2026: Actividades Transversas\n\nENTRADA
 LOCATION:Sala Mirador - Calle Doctor Fourquet\, 31\, 28012 Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Contra Ana
+DTSTART;TZID=Europe/Madrid:20261010T193000
+UID:ad7f55c2927db27359ce37807ffe3c92a9c9b943dad115a58d377ab3b861e845
+CATEGORIES:theater
+DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/contra-ana/
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:FESTIVAL SURGE MADRID 2026: NO ESTAMOS AQUÍ PARA BAILAR
 DTSTART;TZID=Europe/Madrid:20261010T200000
 UID:b84a43900455bad5286cdfa5351bed83599d51abe832a916d81ca49bd704c612
@@ -117,6 +305,32 @@ DESCRIPTION:FESTIVAL SURGE MADRID 2026: NO ESTAMOS AQUÍ PARA BAILAR\n\nEs
  imiento.\n\nhttps://lamirador.com/funcion?nombre=festival-surge-madrid-202
  6-no-estamos-aquI-para-bailar-2026
 LOCATION:Sala Mirador - Calle Doctor Fourquet\, 31\, 28012 Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AÚPA LERÉ. Percusión para crecer
+DTSTART;TZID=Europe/Madrid:20261011T110000
+UID:c793fb699b6cd1a0417a6110b0c08d1dfa0bffb8516db2386a1a0502c52c46b9
+CATEGORIES:theater
+DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/aupa-lere-percusion-
+ para-crecer/
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:"Una habitación propia"\, de VIRGINIA WOOLF
+DTSTART;TZID=Europe/Madrid:20261011T130000
+UID:583b62b93276bf91da961fda377d1bd351020b36f54749d12acfc2528617b941
+CATEGORIES:theater
+DESCRIPTION:¡Ya solo quedan 1 plazas!\n\nhttps://teatrodelbarrio.com/una-
+ habitacion-propia-de-virginia-woolf/
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Malas
+DTSTART;TZID=Europe/Madrid:20261011T180000
+UID:67eb43a98d6c0f6479f8b8dc3e1ffafc363271336e199833e5617da60e8ba826
+CATEGORIES:theater
+DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/malas/
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FESTIVAL SURGE MADRID 2026: Actividades Transversas
@@ -149,5 +363,48 @@ DESCRIPTION:FESTIVAL SURGE MADRID 2026: NO ESTAMOS AQUÍ PARA BAILAR\n\nEs
  imiento.\n\nhttps://lamirador.com/funcion?nombre=festival-surge-madrid-202
  6-no-estamos-aquI-para-bailar-2026
 LOCATION:Sala Mirador - Calle Doctor Fourquet\, 31\, 28012 Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La rabia es nuestra
+DTSTART;TZID=Europe/Madrid:20261011T203000
+UID:1fef7b4a9957b805e4d5d2c84386658ca76850c3bc181b1b8d6c8d17dcf4e3ef
+CATEGORIES:theater
+DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/la-rabia-es-nuestra/
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Doce metros cuadrados de piel
+DTSTART;TZID=Europe/Madrid:20261012T193000
+UID:f909e278ea61a4d4187408a21aa952ea0cf4d8aa9f22928df5bdd6f01023e65a
+CATEGORIES:theater
+DESCRIPTION:¡Ya solo quedan 1 plazas!\n\nhttps://teatrodelbarrio.com/doce
+ -metros-cuadrados-de-piel/
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Doce metros cuadrados de piel
+DTSTART;TZID=Europe/Madrid:20261014T193000
+UID:a5f2492c97fdafef9aa688d2f6eca1e317ca660e870d645778baee39f5e94f43
+CATEGORIES:theater
+DESCRIPTION:¡Ya solo quedan 1 plazas!\n\nhttps://teatrodelbarrio.com/doce
+ -metros-cuadrados-de-piel/
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Un verano por metro cuadrado
+DTSTART;TZID=Europe/Madrid:20261015T193000
+UID:ffe887d27b49b0361443a74ad98dfc184d0ac1f34d9a7c5243ec986be18fbd8c
+CATEGORIES:theater
+DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/un-verano-por-metro-
+ cuadrado/
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Patas arriba
+DTSTART;TZID=Europe/Madrid:20261015T221500
+UID:5007e7b66c33f7fcb70cac804ba4ecc719b50cf8ee45d903526f635e88da3d60
+CATEGORIES:theater
+DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/patas-arriba/
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 END:VCALENDAR

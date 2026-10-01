@@ -39,18 +39,6 @@ DESCRIPTION:Una exposición que presenta la belleza y el misterio de la Lu
 LOCATION:Planetario - del Planetario\, 16\, Madrid\, 28045
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Machu Picchu: Viaje a la Ciudad Perdida
-DTSTART;TZID=Europe/Madrid:20250925T000000
-DTEND;TZID=Europe/Madrid:20260930T000000
-UID:5598fedba9e87a2899379c01c63ca439a2676737138a809d5891a861fe2dd172
-CATEGORIES:exhibition
-DESCRIPTION:Experiencia de realidad virtual que transporta 450 años atrá
- s al corazón del antiguo Imperio Inca (Fever Hub Madrid. Miércoles a dom
- ingos).\n\nhttps://machupicchuexp.com/madrid/
-LOCATION:Madrid - Raimundo Fernández Villaverde\, 57\, Madrid\, Madrid\, 
- 28003
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Trenes históricos
 DTSTART;TZID=Europe/Madrid:20251205T000000
 DTEND;TZID=Europe/Madrid:20271231T000000
@@ -62,17 +50,6 @@ DESCRIPTION:Exposición permanente sobre los primeros trenes que circularo
  acion-de-chamartin/
 LOCATION:Estación de Madrid - Chamartín - Clara Campoamor - Agustín de 
  Foxa\, s/n\, Madrid\, 28036
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Viajar en el tiempo: 85 años de publicidad de Renfe
-DTSTART;TZID=Europe/Madrid:20251219T000000
-DTEND;TZID=Europe/Madrid:20260930T000000
-UID:e7f2ed4545f8ab9e74c8b72b5c36fb7fd217013ba6593ecb9accae2d800a282b
-CATEGORIES:exhibition
-DESCRIPTION:Exposición organizada por Renfe que muestra un viaje por 85 a
- ños de memoria visual (Museo del Ferrocarril. Hasta 30 septiembre).\n\nht
- tps://www.museodelferrocarril.org/exposiciones/viajar-en-el-tiempo/
-LOCATION:Museo del Ferrocarril - de las Delicias\, 61\, Madrid\, 28045
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Julia\, de Jaume Plensa
@@ -134,17 +111,6 @@ DESCRIPTION:Una exposición que reúne más de 100 piezas de alto valor q
 LOCATION:Real Academia de Medicina - de Arrieta\, 12\, Madrid\, 28012
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dino Kids Experience
-DTSTART;TZID=Europe/Madrid:20260320T000000
-DTEND;TZID=Europe/Madrid:20260930T000000
-UID:28fa6a1169a386cc5ca6ed3c9536f2865b116d85a04d62f11faf03dd8b899e1e
-CATEGORIES:exhibition
-DESCRIPTION:Una Experiencia Jurásica inolvidable que hará viajar a peque
- ñas\, pequeños y mayores millones de años atrás (ABC Serrano. Hasta 30
-  septiembre).\n\nhttps://dinokids-experience.com/#la-expo
-LOCATION:ABC Serrano - de Serrano \, 61\, Madrid\, 28006
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Un instante atrapado en bronce: patrimonio recuperado
 DTSTART;TZID=Europe/Madrid:20260324T000000
 DTEND;TZID=Europe/Madrid:20261025T000000
@@ -194,10 +160,23 @@ DESCRIPTION:Muestra que ofrece un recorrido por la vida e influencia de la
 LOCATION:CaixaForum Madrid - del Prado\, 36\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Arcade Origins: el comienzo de la industria del videojuego
+SUMMARY:Antonio Ballester Moreno. El cielo y la tierra
+DTSTART;TZID=Europe/Madrid:20260411T000000
+DTEND;TZID=Europe/Madrid:20270110T000000
+UID:02353b370ee6faf489e09ac73e408b1bc03d53334600f35c8f59305ab290b902
+CATEGORIES:exhibition
+DESCRIPTION:La obra del artista madrileño dialoga con las colecciones del
+  centro de arte mostoleño\, invitando a pensar en la capacidad creativa q
+ ue todos tenemos (Centro de Arte Dos de Mayo CA2M.\n\nhttps://ca2m.org/exp
+ osiciones/antonio-ballester-moreno-el-cielo-y-la-tierra
+LOCATION:Centro de Arte Dos de Mayo (CA2M) / Móstoles - de la Constituci
+ ón \, 23\, (Móstoles)\, Móstoles\, 28931
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arcade Origins: the beginnings of the video game industry
 DTSTART;TZID=Europe/Madrid:20260417T000000
 DTEND;TZID=Europe/Madrid:20261004T000000
-UID:2e8b846737eab8f2b63751e9353eb1f742394a9931ea713d6e80cd198571a6f5
+UID:1f2fa426075bdf70d942f4f69fd88ce249dec9e95b204700aea55ad74671d80b
 CATEGORIES:exhibition
 DESCRIPTION:Exposición que recorre la historia del videojuego\, desde sus
   inicios hasta la actualidad (OXO. Museo del Videjuego en Madrid. Lunes a 
@@ -230,19 +209,6 @@ DESCRIPTION:Proyecto expositivo que destaca el papel de la arquitectura en
  urso/radical-rehab-radical-rehab/5ae31f3b-aa35-41b4-89cb-6c1a0d83638d
 LOCATION:La Casa de la Arquitectura (Arquería de Nuevos Ministerios) - de
   la Castellana\, 67\, Madrid\, 28046
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Horizonte de Keops: Una expedición por el Antiguo Egipto
-DTSTART;TZID=Europe/Madrid:20260425T000000
-DTEND;TZID=Europe/Madrid:20260930T000000
-UID:6d299a29680e197b5068eab5e6613c5d91cb29549672575d1d85d722cbf4b25e
-CATEGORIES:exhibition
-DESCRIPTION:Una expedición inmersiva e innovadora que transporta a la ép
- oca dorada del antiguo Egipto combinando historia\, tecnología y emoció
- n (Fever Hub Madrid. Miércoles a domingos.\n\nhttps://horizonkheopsexperi
- ence.com/madrid/
-LOCATION:Madrid - Raimundo Fernández Villaverde\, 57\, Madrid\, Madrid\, 
- 28003
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Madrid entre épocas
@@ -455,18 +421,6 @@ DESCRIPTION:Exposición que incide en la relación entre la naturaleza y l
 LOCATION:Museo Arqueológico Nacional - de Serrano\, 13\, Madrid\, 28001
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Everybody loves to Cha Cha Cha. Bego Antón (PHotoESPAÑA 2026)
-DTSTART;TZID=Europe/Madrid:20260610T000000
-DTEND;TZID=Europe/Madrid:20260930T000000
-UID:a2b963290f71030b22d62562cb7bb34c0cade3d1605ddd6420ecf27937734edb
-CATEGORIES:exhibition
-DESCRIPTION:Exposición que se adentra en un universo donde el vínculo en
- tre humanas y perros se convierte en danza compartida (Casa de América. H
- asta 30 sept).\n\nhttps://phe.es/exposicion/everybody-loves-to-cha-cha-cha
- /
-LOCATION:Casa de América - de Cibeles\, 2\, Madrid\, 28014
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Nada espontáneo. Una mirada a los 90
 DTSTART;TZID=Europe/Madrid:20260611T000000
 DTEND;TZID=Europe/Madrid:20261004T000000
@@ -546,18 +500,6 @@ LOCATION:Museo de Arte Contemporáneo - del Conde Duque\, 9\, Madrid\, 280
  15
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Silvina Mizrahi. Ecos de un espíritu sefardí
-DTSTART;TZID=Europe/Madrid:20260619T000000
-DTEND;TZID=Europe/Madrid:20260930T000000
-UID:2ebbab200df96f03a91b5d14ed3d1c99c49a40eed9e5fde58fcdc20e960578d0
-CATEGORIES:exhibition
-DESCRIPTION:La artista argentina propone una exploración de la memoria\, 
- la identidad y la herencia cultural desde una mirada íntima y contemporá
- nea (Centro Sefarad-Israel. Hasta 30 sep).\n\nhttps://www.sefarad-israel.e
- s/exposiciones/silvina-mizrahi-ecos-de-un-espiritu-sefardi/
-LOCATION:Centro Sefarad-Israel - Mayor\, 69\, Madrid\, 28013
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:El artista en Italia
 DTSTART;TZID=Europe/Madrid:20260624T000000
 DTEND;TZID=Europe/Madrid:20261018T000000
@@ -582,30 +524,6 @@ DESCRIPTION:El artista madrileño refleja con su obra cómo se enfrenta el
 LOCATION:Palacio de Velázquez - de Venezuela\, 2\, Madrid\, 28009
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:American latinos 1935 – 1945
-DTSTART;TZID=Europe/Madrid:20260625T000000
-DTEND;TZID=Europe/Madrid:20260930T000000
-UID:f9f968b9127982c23995506f01fd6b09d2e6bdbb2412952909e44036ac83e09c
-CATEGORIES:exhibition
-DESCRIPTION:Una exposición inmersiva recorre la memoria de las comunidade
- s hispanas en EE. UU. a través de fotografía histórica (Casa de Améric
- a. Hasta 30 sept).\n\nhttps://www.casamerica.es/exposiciones/american-lati
- nos-1935-1945
-LOCATION:Casa de América - de Cibeles\, 2\, Madrid\, 28014
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Democracia Americana: American Colors / American De­mocracy
-DTSTART;TZID=Europe/Madrid:20260625T000000
-DTEND;TZID=Europe/Madrid:20260930T000000
-UID:b97477e319a0881a1b93bd8e983b762e7ae36ec5a8e9e0660f98f21054a6c156
-CATEGORIES:exhibition
-DESCRIPTION:EL colectivo PSJM presenta dos proyectos que ofrecen una refle
- xión artística sobre la historia política y social de EE.UU. a través 
- de datos y geometría (Casa de América. 25 jun a 30 sept).\n\nhttps://www
- .casamerica.es/exposiciones/democracia-americana
-LOCATION:Casa de América - de Cibeles\, 2\, Madrid\, 28014
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:La lentitud de la luz. María Lara
 DTSTART;TZID=Europe/Madrid:20260625T000000
 DTEND;TZID=Europe/Madrid:20261115T000000
@@ -616,18 +534,6 @@ DESCRIPTION:Una selección de pinturas y dibujos de la artista granadina r
  ica (CentroCentro. 25 jun a 15 nov).\n\nhttps://www.centrocentro.org/expos
  icion/maria-lara
 LOCATION:CentroCentro - de Cibeles\, 1\, Madrid\, 28014
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tengo un coco contigo
-DTSTART;TZID=Europe/Madrid:20260625T000000
-DTEND;TZID=Europe/Madrid:20260930T000000
-UID:c51c0de16ad8ed03ec35b16303a2c3e47d29a38862d29b380c624b26c0d4bf35
-CATEGORIES:exhibition
-DESCRIPTION:El artista puertorriqueño Bernardo Medina explora la identida
- d puertorriqueña y su relación con EE.UU. a través del “pop caribeño
- ” (Casa de América. 25 jun a 30 sept).\n\nhttps://www.casamerica.es/exp
- osiciones/tengo-un-coco-contigo
-LOCATION:Casa de América - de Cibeles\, 2\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leche\, nieve\, lágrima\, mano. El saber hacer de Blanca Sánchez
@@ -1209,6 +1115,18 @@ DESCRIPTION:La artista canaria reflexiona sobre la relación entre el cin
 LOCATION:Museo Reina Sofía - de Santa Isabel\, 52\, Madrid\, 28012
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:El legado que seremos: Origen
+DTSTART;TZID=Europe/Madrid:20260924T000000
+DTEND;TZID=Europe/Madrid:20270107T000000
+UID:885f6ba34621b9baaa48c8deda358101173645fdc54af96ff72aff70923eb403
+CATEGORIES:exhibition
+DESCRIPTION:Las fotografías de Álvaro Ybarra Zavala invitan a reflexiona
+ r sobre la transformación industrial que está experimentando España y E
+ uropa (Leica Gallery Madrid. 24 sept - 7 ene).\n\nhttps://leica-camera.com
+ /es-ES/eventos/el-legado-que-seremos-origen
+LOCATION:Madrid - de José Ortega y Gasset\, 34\, Madrid\, 28006
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Minor White
 DTSTART;TZID=Europe/Madrid:20260924T000000
 DTEND;TZID=Europe/Madrid:20270110T000000
@@ -1259,6 +1177,18 @@ DESCRIPTION:Exposición que invita a conocer el proceso de creación del l
  ultura-y-elaboracion-del-baijiu-moutai/
 LOCATION:Centro Cultural de China en Madrid - del General Pardiñas\, 73\,
   Madrid\, 28006
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El último refugio
+DTSTART;TZID=Europe/Madrid:20260925T000000
+DTEND;TZID=Europe/Madrid:20270113T000000
+UID:e4dd6abd856af64e0d5dc882c8bce4240b914cb4840bfe4faea51211f58f7798
+CATEGORIES:exhibition
+DESCRIPTION:Recorrido por varias pinturas del artista peruano Héctor Acev
+ edo en las que desvela su particular universo visual (Real Jardín Botáni
+ co. Hasta 13 enero).\n\nhttps://rjb.csic.es/evento/exposicion-el-ultimo-re
+ fugio/
+LOCATION:Real Jardín Botánico - de Murillo\, 2\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:El plano flexible
@@ -1316,6 +1246,18 @@ LOCATION:Real Academia de Bellas Artes de San Fernando - de Alcalá\, 13\,
   Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Vidas de Rafael Azcona
+DTSTART;TZID=Europe/Madrid:20260929T000000
+DTEND;TZID=Europe/Madrid:20261030T000000
+UID:74b30bb19a971aabe0dc9b157b61e3636f03bc4c06d1506d3f347672f3f9f955
+CATEGORIES:exhibition
+DESCRIPTION:Homenaje al destacado guionista en el centenario de su nacimie
+ nto\, con una recopilación de documentos originales y la restauración de
+  la película "El verdugo". (SGAE. 29 sept - 30 oct).\n\nhttps://www.sgae.
+ es/noticia/sgae-homenajea-a-rafael-azcona//
+LOCATION:Palacio de Longoria - de Fernando VI\, 4\, Madrid\, 28004
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Evolución
 DTSTART;TZID=Europe/Madrid:20260930T000000
 DTEND;TZID=Europe/Madrid:20270328T000000
@@ -1323,8 +1265,8 @@ UID:bad87bc54dcf48492a1dbba2576917f962916f42ab75d7faffeaadecb97fc0b9
 CATEGORIES:exhibition
 DESCRIPTION:Exposición fotográfica que invita a conocer la historia fasc
  inante de adaptación\, cooperación y conflicto de las distintas especies
-  (MNCN. 30 sept - 28 mar).\n\nhttps://www.mncn.csic.es/es/visita-el-mncn/e
- xposiciones/evolucion
+  (Museo Nacional de Ciencias Naturales. Hasta 28 marzo).\n\nhttps://www.mn
+ cn.csic.es/es/visita-el-mncn/exposiciones/evolucion
 LOCATION:Museo Nacional de Ciencias Naturales - de José Gutierrez Abascal
  \, 2\, Madrid\, 28006
 END:VEVENT
@@ -1516,5 +1458,17 @@ DESCRIPTION:Exposición dedicada exclusivamente a la obra del artista junt
  /ricardo-de-madrazo-1852-1917-dibujos-y-acuarelas/1a449f97-e4bc-73bf-4034-
  a3580abe45c1
 LOCATION:Museo del Prado - del Prado\, s/n\, Madrid\, 28014
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La transición estética. España\, 1960-2020
+DTSTART;TZID=Europe/Madrid:20261016T000000
+DTEND;TZID=Europe/Madrid:20270110T000000
+UID:13391f5d7e2d764b3e0effaee782417648c28f057f23af7df2ed25d2d8263f82
+CATEGORIES:exhibition
+DESCRIPTION:Muestra que ofrece un recorrido visual por el arte español de
+ sde 1960 hasta la actualidad (Fundación Juan March. 16 oct a 10 ene 2027)
+ .\n\nhttps://www.march.es/es/madrid/exposiciones/transicion-estetica-espan
+ a-1960-2020
+LOCATION:Fundación Juan March - de Castelló\, 77\, Madrid\, 28006
 END:VEVENT
 END:VCALENDAR
