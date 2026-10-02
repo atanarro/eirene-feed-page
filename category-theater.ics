@@ -15,9 +15,9 @@ LOCATION:Teatro Infanta Isabel - Calle del Barquillo\, 24\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Verborrea
-DTSTART;TZID=Europe/Madrid:20261001T000000
+DTSTART;TZID=Europe/Madrid:20261002T000000
 DTEND;TZID=Europe/Madrid:20261101T235900
-UID:1b2916f803e83c65e5889ae9cb9472df5af7592a5ea441dd172ae76745751b8a
+UID:fc1571247b58391c782c3649943871ef95de664c4cb6acd3aba3a9f31a610223
 CATEGORIES:theater
 DESCRIPTION:“QUIZÁ VAMOS A CANTAR COMO LAS RATAS” Hay acontecimientos
   cuya probabilidad es tan pequeña que parecen sacados de una película. A
@@ -42,31 +42,26 @@ DESCRIPTION:“QUIZÁ VAMOS A CANTAR COMO LAS RATAS” Hay acontecimientos
 LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Midsummer. SURGE MADRID EN OTOÑO
-DTSTART;TZID=Europe/Madrid:20261001T183000
-UID:34f586755bc66d62890efe6e0a94068ad47ce84782f55a1e93d4777c51fe0978
-CATEGORIES:theater
-DESCRIPTION:Programación en Teatro del Barrio\n\nhttps://teatrodelbarrio.
- com/midsummer/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jardín\, Apocalipsis y La familia (Addams). SURGE MADRID EN OTOÑ
- O
-DTSTART;TZID=Europe/Madrid:20261001T193000
-UID:fdadd58bb80d6db5c185635360e3b2fc08bc9e29d76d9d4f06b94de7094cbd65
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/jardin-apocalipsis-y
- -la-familia-addams-surge-madrid-en-otono/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CHAH / BADAN
 DTSTART;TZID=Europe/Madrid:20261002T193000
 UID:6eecbbcb16be6aab75ddb6910e47ab475d210dd46d95c25e9155cd89a007e37c
 CATEGORIES:theater
 DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/chah-badan/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:María Pagés Compañía
+DTSTART;TZID=Europe/Madrid:20261002T213000
+UID:7ec5522c1fed56125a0fff9ee3aa6d2acf93632ad6d361f059e7a49974aa92df
+CATEGORIES:theater
+DESCRIPTION:El próximo viernes\, 2 de octubre de 2026\, tras la represent
+ ación\, tendrá lugar el encuentro del público con el equipo artístico 
+ de la compañía. Presenta y modera: Jesús Calero. Los encuentros con el 
+ público son una ocasión especial para que los espectadores puedan interc
+ ambiar impresiones sobre el espectáculo\, en compañía del equipo artís
+ tico. Estos encuentros son de entrada libre hasta completar aforo.\n\nhttp
+ s://www.mataderomadrid.org/programacion/maria-pages-compania-1
+LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Poesía o Barbarie
@@ -81,7 +76,7 @@ SUMMARY:Taxidermia de una alondra
 DTSTART;TZID=Europe/Madrid:20261003T130000
 UID:228f41a8f9b30804dd83c0323104605f0c13f4e91c2d6e285bf600928e745d51
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 3 plazas!\n\nhttps://teatrodelbarrio.com/taxi
+DESCRIPTION:¡Ya solo quedan 1 plazas!\n\nhttps://teatrodelbarrio.com/taxi
  dermia-de-una-alondra/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
@@ -227,8 +222,9 @@ DTSTART;TZID=Europe/Madrid:20261009T180000
 DTEND;TZID=Europe/Madrid:20261115T180000
 UID:8a0f8899fd2e38d0b5e0de238d494be0bf9a07146167796e1d816985b063ac0a
 CATEGORIES:theater
-DESCRIPTION:Encuentro con el equipo artístico: 22 OCT 2026\n\nhttps://dra
- matico.inaem.gob.es/evento/al-final-de-las-cosas/
+DESCRIPTION:Encuentro con el equipo artístico: 22 OCT 2026 Los cigarrillo
+ s que se fuman en escena no contienen tabaco\n\nhttps://dramatico.inaem.go
+ b.es/evento/al-final-de-las-cosas/
 LOCATION:Teatro Maria Guerrero - Calle de Tamayo y Baus\, 4\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -325,6 +321,15 @@ DESCRIPTION:¡Ya solo quedan 1 plazas!\n\nhttps://teatrodelbarrio.com/una-
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Disparate travesti. Romería por Lavapiés
+DTSTART;TZID=Europe/Madrid:20261011T160000
+UID:5176bef08b0c5fe8a0c781d389b00d235dabf41317408eef17a4d44ad68ab263
+CATEGORIES:theater
+DESCRIPTION:Programación en Teatro del Barrio\n\nhttps://teatrodelbarrio.
+ com/disparate-travesti/
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Malas
 DTSTART;TZID=Europe/Madrid:20261011T180000
 UID:67eb43a98d6c0f6479f8b8dc3e1ffafc363271336e199833e5617da60e8ba826
@@ -403,6 +408,90 @@ BEGIN:VEVENT
 SUMMARY:Patas arriba
 DTSTART;TZID=Europe/Madrid:20261015T221500
 UID:5007e7b66c33f7fcb70cac804ba4ecc719b50cf8ee45d903526f635e88da3d60
+CATEGORIES:theater
+DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/patas-arriba/
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Masterclass profesional “Proceso de Hope Hunt”\, con Sati Veyr
+ unes
+DTSTART;TZID=Europe/Madrid:20261016T110000
+UID:ec2e955b9dcd069d360b2e659d655009455e586dd25014dcf0536bd86e142b8b
+CATEGORIES:theater
+DESCRIPTION:El taller se centrará en la obra Hope Hunt\, de Oona Doherty
+ \, abordada desde la perspectiva de Sati Veyrunes. Tras un calentamiento f
+ ísico\, trabajaremos y exploraremos los elementos físicos\, rítmicos y 
+ expresivos de la pieza. Se trata de una práctica centrada en la capacidad
+  física\, la expresión y la presencia emocional.\n\nhttps://www.matadero
+ madrid.org/programacion/masterclass-profesional-proceso-de-hope-hunt-con-s
+ ati-veyrunes
+LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Masterclass profesional con Sharon Fridman / Técnica INA
+DTSTART;TZID=Europe/Madrid:20261016T173000
+UID:63fea3c4e76971e546243ef2f678ca674ef5b3072dd67c0c95ab50126ba4e5b5
+CATEGORIES:theater
+DESCRIPTION:Taller concebido como una inmersión directa en uno de los pil
+ ares de Practice INA: Respiración Común. Partimos de una idea sencilla: 
+ ¿cómo podemos convertirnos\, por un momento\, en un solo cuerpo\, con un
+  pulmón común? A través de la respiración\, el contacto y la escucha\,
+  investigaremos cómo construir un ritmo compartido que nos permita entend
+ er el camino juntos e improvisar los pasos: inhalar y expandir\, suspender
+ \, actuar\, exhalar y soltar. El taller estará dirigido por Sharon Fridma
+ n. Durante el encuentro presentaremos también el libreto de INA\, actualm
+ ente en su momento de nacimiento\, que recoge y articula la investigación
+  de la práctica. INA significa Improvisación\, Necesidad y Arquitectura.
+  Pero INA es también el nombre de la madre de Sharon Fridman.\n\nhttps://
+ www.mataderomadrid.org/programacion/masterclass-profesional-con-sharon-fri
+ dman-tecnica-ina
+LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La jota del abuelo
+DTSTART;TZID=Europe/Madrid:20261016T193000
+UID:48e7a3ca5015079da663f1adca8102601bf1b51cbce300faa89bd6b3585b29f5
+CATEGORIES:theater
+DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/la-jota-del-abuelo/
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oona Doherty
+DTSTART;TZID=Europe/Madrid:20261016T200000
+UID:0312cefaa4b095d0fbf346f88302a034e6fb1748bd7de02ac7c3e4044e693697
+CATEGORIES:theater
+DESCRIPTION:Hope Hunt se sitúa en la frontera entre el teatro físico\, l
+ a denuncia social y la danza. Una cabeza de palo de golf negra\, iluminada
+  y retumbante\, permanece a la espera\, mientras la música retumba desde 
+ su escudo metálico. Un hombre que encarna a muchos hombres surge y se des
+ vanece al ritmo del metal\; su historia: una búsqueda de la esperanza. El
+  intérprete se transforma en entidades distintas\, pasando de un personaj
+ e a otro. A través de la palabra\, el movimiento y el sonido\, nos vemos 
+ retorcidos y contorsionados por ideas de masculinidad\, moralidad y nostal
+ gia. Por caminos húmedos y olvidados de la memoria\, el cazador se lleva 
+ al público consigo. Ataca y se desvía de los estereotipos extremos de la
+  cultura y la clase social. Las máscaras de los hombres como una forma de
+  defensa personal contra uno mismo y el mundo en el que vivimos hoy en dí
+ a. Las consecuencias del aburrimiento en la psique quedan al descubierto a
+  través del esfuerzo físico en el escenario. Bordeando la delgada línea
+  entre la comedia y la tragedia. Para descubrir la importancia de la confi
+ anza en uno mismo. No importa de dónde seas ni en qué clase social te en
+ cuentres. Existen necesidades esenciales de amor arraigadas en todos nosot
+ ros. Al quitarnos las máscaras del ego y las afectaciones culturales\, es
+ peramos encontrar un terreno común de verdad y esperanza. Fundido a blanc
+ o. Lázaro resucita como el pájaro de paraíso de hormigón. Un intento d
+ e deconstruir el estereotipo del hombre desfavorecido de hormigón y eleva
+ rlo a un limbo blanco y brillante al estilo de Caravaggio. Pretende conver
+ tir a los «smicks»\, los «spides»\, los «hoods»\, los gitanos y los 
+ «knackers» en pájaros del paraíso. Es una búsqueda de la esperanza. E
+ l espectáculo está interpretado por Sati Veyrunes.\n\nhttps://www.matade
+ romadrid.org/programacion/oona-doherty
+LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Patas arriba
+DTSTART;TZID=Europe/Madrid:20261016T221500
+UID:606cc078d9430e449aedeca7b969bbde6d35b83126111dc0c372ad5326468ad5
 CATEGORIES:theater
 DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/patas-arriba/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid

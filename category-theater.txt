@@ -1,5 +1,5 @@
 Eirene feed debug
-Total events: 38
+Total events: 43
 
 [1] La ópera de los tres centavos con Coque Malla
   id: d83b0aeadd6bbbf29203317652b8044624c92e450eb082ace43493cb69f5248b
@@ -13,8 +13,8 @@ Total events: 38
   description: El actor y músico Coque Malla lidera esta versión contemporánea del clásico de Bertolt Brecht: La ópera del mendigo (Teatro Infanta Isabel. Martes a domingos. | Mar-sáb: 19:30 h Domingos: 19:00 h
 
 [2] Verborrea
-  id: 1b2916f803e83c65e5889ae9cb9472df5af7592a5ea441dd172ae76745751b8a
-  start: 2026-10-01T00:00:00+02:00
+  id: fc1571247b58391c782c3649943871ef95de664c4cb6acd3aba3a9f31a610223
+  start: 2026-10-02T00:00:00+02:00
   end: 2026-11-01T23:59:00+01:00
   category: theater
   source: nave_10
@@ -23,29 +23,7 @@ Total events: 38
   url: https://tienda.madrid-destino.com/es/nave-10/verborrea/
   description: “QUIZÁ VAMOS A CANTAR COMO LAS RATAS” Hay acontecimientos cuya probabilidad es tan pequeña que parecen sacados de una película. Así nacen las leyendas. Desde lo improbable. En la frontera entre la vida y su melodía soñada. En Verborrea , Pablo Remón hace a sus personajes narrar un mito de ascenso y caída contemporáneo, el de la ficticia banda punk Verborrea, una historia que usted recuerda con otros nombres, con el mismo rasgueo de guitarra. Seguiremos a dos hermanos criados en pleno Valle de los Caídos bajo la autoridad de un padre franquista: Kike, el ser social, y Segis, que construye su identidad a la contra. De esa rebeldía nace Segismundo Tóxico y su relato. Sus relatos. Cada personaje recuerda con matices. Hasta la guitarra fundacional de la banda tiene dos versiones de vida. En escena repiten los habituales de Remón: Javier Cámara, Israel Elejalde, Marta Nieto y Emilio Tomé, con quienes lleva colaborando años. Juntos, en un texto trufado de casticismo y cultura popular, cuestionarán cómo heredamos las narraciones, las combatimos, las aceptamos y las repetimos. Rimamos distinto, pero sonamos parecido. Cuando ya no puedes contarte como el héroe que querías ser, hay que redefinir qué es la esperanza. A lo mejor consiste en dejarte llevar por la historia que sí ha ocurrido. Pilar G. Almansa Dramaturgista de la temporada 26/27 | Tags: JOBO
 
-[3] Midsummer. SURGE MADRID EN OTOÑO
-  id: 34f586755bc66d62890efe6e0a94068ad47ce84782f55a1e93d4777c51fe0978
-  start: 2026-10-01T18:30:00+02:00
-  end: N/A
-  category: theater
-  source: teatro_del_barrio
-  location: Teatro del Barrio - Calle de Zurita, 20, Madrid
-  coordinates: 40.4096081, -3.699174
-  url: https://teatrodelbarrio.com/midsummer/
-  description: Programación en Teatro del Barrio
-
-[4] Jardín, Apocalipsis y La familia (Addams). SURGE MADRID EN OTOÑO
-  id: fdadd58bb80d6db5c185635360e3b2fc08bc9e29d76d9d4f06b94de7094cbd65
-  start: 2026-10-01T19:30:00+02:00
-  end: N/A
-  category: theater
-  source: teatro_del_barrio
-  location: Teatro del Barrio - Calle de Zurita, 20, Madrid
-  coordinates: 40.4096081, -3.699174
-  url: https://teatrodelbarrio.com/jardin-apocalipsis-y-la-familia-addams-surge-madrid-en-otono/
-  description: Disponible
-
-[5] CHAH / BADAN
+[3] CHAH / BADAN
   id: 6eecbbcb16be6aab75ddb6910e47ab475d210dd46d95c25e9155cd89a007e37c
   start: 2026-10-02T19:30:00+02:00
   end: N/A
@@ -56,7 +34,18 @@ Total events: 38
   url: https://teatrodelbarrio.com/chah-badan/
   description: Disponible
 
-[6] Poesía o Barbarie
+[4] María Pagés Compañía
+  id: 7ec5522c1fed56125a0fff9ee3aa6d2acf93632ad6d361f059e7a49974aa92df
+  start: 2026-10-02T21:30:00+02:00
+  end: N/A
+  category: theater
+  source: matadero
+  location: Matadero Madrid - Plaza de Legazpi, 8, Madrid
+  coordinates: 40.392398, -3.697762
+  url: https://www.mataderomadrid.org/programacion/maria-pages-compania-1
+  description: El próximo viernes, 2 de octubre de 2026, tras la representación, tendrá lugar el encuentro del público con el equipo artístico de la compañía. Presenta y modera: Jesús Calero. Los encuentros con el público son una ocasión especial para que los espectadores puedan intercambiar impresiones sobre el espectáculo, en compañía del equipo artístico. Estos encuentros son de entrada libre hasta completar aforo.
+
+[5] Poesía o Barbarie
   id: b4442f5b7568a9cd0d1e56ccc24c2c5d0f06b55089ec692e3de9be8a378f1d12
   start: 2026-10-02T22:15:00+02:00
   end: N/A
@@ -67,7 +56,7 @@ Total events: 38
   url: https://teatrodelbarrio.com/poesia-o-barbarie/
   description: Disponible
 
-[7] Taxidermia de una alondra
+[6] Taxidermia de una alondra
   id: 228f41a8f9b30804dd83c0323104605f0c13f4e91c2d6e285bf600928e745d51
   start: 2026-10-03T13:00:00+02:00
   end: N/A
@@ -76,9 +65,9 @@ Total events: 38
   location: Teatro del Barrio - Calle de Zurita, 20, Madrid
   coordinates: 40.4096081, -3.699174
   url: https://teatrodelbarrio.com/taxidermia-de-una-alondra/
-  description: ¡Ya solo quedan 3 plazas!
+  description: ¡Ya solo quedan 1 plazas!
 
-[8] CHAH / BADAN
+[7] CHAH / BADAN
   id: e7c3366b3ad0d8f380758a86d457f31dbeed765f334590ba04b7e848ad7333c5
   start: 2026-10-03T19:30:00+02:00
   end: N/A
@@ -89,7 +78,7 @@ Total events: 38
   url: https://teatrodelbarrio.com/chah-badan/
   description: Disponible
 
-[9] FESTIVAL SURGE MADRID 2026: Jornada de trabajos emergentes
+[8] FESTIVAL SURGE MADRID 2026: Jornada de trabajos emergentes
   id: b2a80e43c5eb1f5d1cfd394f674a66a4c8d79d8a1486832bd2d6f423ccd6653c
   start: 2026-10-03T20:00:00+02:00
   end: N/A
@@ -108,7 +97,7 @@ Entrada libre hasta completar aforo
 
 Puedes reservar tu entrada gratuita en nuestra web. Si finalmente no puedes acudir, ponte en contacto con nosotras para permitir que otros espectadores y espectadoras puedan asistir.
 
-[10] Poesía o Barbarie
+[9] Poesía o Barbarie
   id: a5dc4a749a69893ba913428a00e17a7a667a44cd8d34c26bfcaa42c5dcaea1d0
   start: 2026-10-03T22:15:00+02:00
   end: N/A
@@ -119,7 +108,7 @@ Puedes reservar tu entrada gratuita en nuestra web. Si finalmente no puedes acud
   url: https://teatrodelbarrio.com/poesia-o-barbarie/
   description: Disponible
 
-[11] GLORIA
+[10] GLORIA
   id: 887b9095f8582d78c0d9ee12050af92baf73401bbd787a59eed41bd1943826ad
   start: 2026-10-04T13:00:00+02:00
   end: N/A
@@ -130,7 +119,7 @@ Puedes reservar tu entrada gratuita en nuestra web. Si finalmente no puedes acud
   url: https://teatrodelbarrio.com/gloria/
   description: Disponible
 
-[12] CHAH / BADAN
+[11] CHAH / BADAN
   id: af8e1b03e283dc00c50b13ff326bcd927751f25cd739e640e677f3515193a41d
   start: 2026-10-04T18:00:00+02:00
   end: N/A
@@ -141,7 +130,7 @@ Puedes reservar tu entrada gratuita en nuestra web. Si finalmente no puedes acud
   url: https://teatrodelbarrio.com/chah-badan/
   description: Disponible
 
-[13] Taxidermia de una alondra
+[12] Taxidermia de una alondra
   id: afff8812aa398d3576b4a759bd541f9c97cbe722e374067d9645f1e73310e713
   start: 2026-10-04T20:30:00+02:00
   end: N/A
@@ -152,7 +141,7 @@ Puedes reservar tu entrada gratuita en nuestra web. Si finalmente no puedes acud
   url: https://teatrodelbarrio.com/taxidermia-de-una-alondra/
   description: ¡Ya solo quedan 1 plazas!
 
-[14] La gran cacería
+[13] La gran cacería
   id: b5864f08121d4ed60703bb7eea03062b51257ff3cad9f3df611d6f878edfb651
   start: 2026-10-05T19:30:00+02:00
   end: N/A
@@ -163,7 +152,7 @@ Puedes reservar tu entrada gratuita en nuestra web. Si finalmente no puedes acud
   url: https://teatrodelbarrio.com/la-gran-caceria/
   description: Disponible
 
-[15] Proyección del documental “Jornaleros. El mal patrón.”
+[14] Proyección del documental “Jornaleros. El mal patrón.”
   id: a59ae363ad93f6d48ec35008d69ab5ce7372a6cbab66cc5eb7e4976a33348355
   start: 2026-10-06T19:00:00+02:00
   end: N/A
@@ -174,7 +163,7 @@ Puedes reservar tu entrada gratuita en nuestra web. Si finalmente no puedes acud
   url: https://teatrodelbarrio.com/proyeccion-del-documental-jornaleros-el-mal-patron/
   description: Disponible
 
-[16] ATEMPORAL. SURGE MADRID EN OTOÑO
+[15] ATEMPORAL. SURGE MADRID EN OTOÑO
   id: bf3f98f308769abd833c52c3ab28400c97b1a5102786d0ce1c33dc2118349303
   start: 2026-10-07T19:30:00+02:00
   end: N/A
@@ -185,7 +174,7 @@ Puedes reservar tu entrada gratuita en nuestra web. Si finalmente no puedes acud
   url: https://teatrodelbarrio.com/atemporal-surge-madrid-en-otono/
   description: Disponible
 
-[17] Swing en el Teatro del Barrio
+[16] Swing en el Teatro del Barrio
   id: 11d028ba14178d67bd00fac302b3730bf84ae5ba0f619206e5490ed5e1bfe9ec
   start: 2026-10-07T22:00:00+02:00
   end: N/A
@@ -196,7 +185,7 @@ Puedes reservar tu entrada gratuita en nuestra web. Si finalmente no puedes acud
   url: https://teatrodelbarrio.com/swing-en-el-teatro-del-barrio/
   description: Disponible
 
-[18] ICTUS (Anatomía de «La última lección» de Castelao) / ICTUS (Anatomía de «A derradeira leición» de Castelao)
+[17] ICTUS (Anatomía de «La última lección» de Castelao) / ICTUS (Anatomía de «A derradeira leición» de Castelao)
   id: 84743fb2a83ba4fe0348c9820023e84c75eac52c4c2ca844607a954585adcf60
   start: 2026-10-08T18:00:00+02:00
   end: 2026-11-08T18:00:00+01:00
@@ -207,7 +196,7 @@ Puedes reservar tu entrada gratuita en nuestra web. Si finalmente no puedes acud
   url: https://dramatico.inaem.gob.es/evento/ictus-anatomia-de-la-ultima-leccion-de-castelao-ictus-anatomia-de-a-derradeira-leicion-de-castelao/
   description: Encuentro con el equipo artístico: 29 OCT 2026 Función matinal: 3 NOV 2026 a las 12:00 Funciones en gallego con sobretítulos en castellano: 24 y 25 OCT 2026 Todas las funciones son accesibles. Este montaje integra la lengua de signos (LSE) en escena, sobretitulado adaptado para personas sordas no signantes en una pantalla situada en el lado superior izquierdo del escenario y cuenta con audiodescripción en directo desde el escenario, integrada en la narración, para personas con discapacidad visual. Visitas táctiles: con tu entrada a la función puedes disfrutar de una visita táctil los días 18 de octubre y 31 de octubre y 3 de noviembre (función matinal). Se trata de una visita preferentememente dirigida a personas con discapacidad visual . Puedes solicitar plaza aquí . Si deseas solicitar el material de mediación para personas con sordoceguera antes de asistir a la función, contacta con « publicodramatico.cdn@inaem.cultura.gob.es
 
-[19] ATEMPORAL. SURGE MADRID EN OTOÑO
+[18] ATEMPORAL. SURGE MADRID EN OTOÑO
   id: e3c2ade9ef7427f9aa20187fb54c935a519609bce89a70fe7349d5b673eaf93b
   start: 2026-10-08T19:30:00+02:00
   end: N/A
@@ -218,7 +207,7 @@ Puedes reservar tu entrada gratuita en nuestra web. Si finalmente no puedes acud
   url: https://teatrodelbarrio.com/atemporal-surge-madrid-en-otono/
   description: Disponible
 
-[20] Jajás en el Barrio
+[19] Jajás en el Barrio
   id: ea27f1a3dc2eb5b93d0f91e7e5cf14b2460ceb2d6430ed04d7d27b56d6ea38cd
   start: 2026-10-08T21:30:00+02:00
   end: N/A
@@ -229,7 +218,7 @@ Puedes reservar tu entrada gratuita en nuestra web. Si finalmente no puedes acud
   url: https://teatrodelbarrio.com/jajas-en-el-barrio/
   description: Disponible
 
-[21] Al final de las cosas
+[20] Al final de las cosas
   id: 8a0f8899fd2e38d0b5e0de238d494be0bf9a07146167796e1d816985b063ac0a
   start: 2026-10-09T18:00:00+02:00
   end: 2026-11-15T18:00:00+01:00
@@ -238,9 +227,9 @@ Puedes reservar tu entrada gratuita en nuestra web. Si finalmente no puedes acud
   location: Teatro Maria Guerrero - Calle de Tamayo y Baus, 4, Madrid
   coordinates: 40.4228646, -3.6928431
   url: https://dramatico.inaem.gob.es/evento/al-final-de-las-cosas/
-  description: Encuentro con el equipo artístico: 22 OCT 2026
+  description: Encuentro con el equipo artístico: 22 OCT 2026 Los cigarrillos que se fuman en escena no contienen tabaco
 
-[22] Contra Ana
+[21] Contra Ana
   id: d95824e871bffdddf3a88641216e900e71b5acd44254d30c930dddef65608939
   start: 2026-10-09T19:30:00+02:00
   end: N/A
@@ -251,7 +240,7 @@ Puedes reservar tu entrada gratuita en nuestra web. Si finalmente no puedes acud
   url: https://teatrodelbarrio.com/contra-ana/
   description: Disponible
 
-[23] Festival de Tranny Issues 2
+[22] Festival de Tranny Issues 2
   id: c4c8514b387b4333f4475998bf90209b7d3f07e971cf804f01b10f540e699455
   start: 2026-10-09T22:15:00+02:00
   end: N/A
@@ -262,7 +251,7 @@ Puedes reservar tu entrada gratuita en nuestra web. Si finalmente no puedes acud
   url: https://teatrodelbarrio.com/festival-de-tranny-issues-2/
   description: Disponible
 
-[24] Gordas, lisiadas y mamarrachas
+[23] Gordas, lisiadas y mamarrachas
   id: d75359b460d18d98c7e0c044e64c362511bdd61fe6eda4763e3f6c2066ebda89
   start: 2026-10-10T13:00:00+02:00
   end: N/A
@@ -273,7 +262,7 @@ Puedes reservar tu entrada gratuita en nuestra web. Si finalmente no puedes acud
   url: https://teatrodelbarrio.com/gordas-lisiadas-y-mamarrachas/
   description: Disponible
 
-[25] Colombia en escena.
+[24] Colombia en escena.
   id: 784791ec4b32e0e09a7d5378ff3c7b2cc52b444bbd5cb7b705cb89ac9631080a
   start: 2026-10-10T13:00:00+02:00
   end: N/A
@@ -284,7 +273,7 @@ Puedes reservar tu entrada gratuita en nuestra web. Si finalmente no puedes acud
   url: https://teatrodelbarrio.com/colombia-en-escena/
   description: ¡Ya solo quedan 16 plazas!
 
-[26] FESTIVAL SURGE MADRID 2026: Actividades Transversas
+[25] FESTIVAL SURGE MADRID 2026: Actividades Transversas
   id: 5df45469edfa15d0558848ed90cd335a631b51c30251a9041287c65f73742650
   start: 2026-10-10T18:00:00+02:00
   end: N/A
@@ -303,7 +292,7 @@ El 10 y 11 de octubre a las 18:00hrs podremos disfrutar de esta creación que ex
 
 Puedes reservar tu entrada gratuita en nuestra web. La entrada que reservas no es numerada ni te da una butaca dentro del espacio del teatro. Te da exclusivamente acceso a la actividad. Si finalmente no puedes acudir, ponte en contacto con nosotros para permitir que otros espectadores y espectadoras puedan asistir.
 
-[27] Contra Ana
+[26] Contra Ana
   id: ad7f55c2927db27359ce37807ffe3c92a9c9b943dad115a58d377ab3b861e845
   start: 2026-10-10T19:30:00+02:00
   end: N/A
@@ -314,7 +303,7 @@ Puedes reservar tu entrada gratuita en nuestra web. La entrada que reservas no e
   url: https://teatrodelbarrio.com/contra-ana/
   description: Disponible
 
-[28] FESTIVAL SURGE MADRID 2026: NO ESTAMOS AQUÍ PARA BAILAR
+[27] FESTIVAL SURGE MADRID 2026: NO ESTAMOS AQUÍ PARA BAILAR
   id: b84a43900455bad5286cdfa5351bed83599d51abe832a916d81ca49bd704c612
   start: 2026-10-10T20:00:00+02:00
   end: N/A
@@ -327,7 +316,7 @@ Puedes reservar tu entrada gratuita en nuestra web. La entrada que reservas no e
 
 Estreno de danza contemporánea que se presenta dentro del marco del Festival Surge Madrid 2026. El 10 y 11 de octubre a las 20:00hrs podremos disfrutar de esta creación que experimenta con lenguajes relacionados con el movimiento.
 
-[29] AÚPA LERÉ. Percusión para crecer
+[28] AÚPA LERÉ. Percusión para crecer
   id: c793fb699b6cd1a0417a6110b0c08d1dfa0bffb8516db2386a1a0502c52c46b9
   start: 2026-10-11T11:00:00+02:00
   end: N/A
@@ -338,7 +327,7 @@ Estreno de danza contemporánea que se presenta dentro del marco del Festival Su
   url: https://teatrodelbarrio.com/aupa-lere-percusion-para-crecer/
   description: Disponible
 
-[30] "Una habitación propia", de VIRGINIA WOOLF
+[29] "Una habitación propia", de VIRGINIA WOOLF
   id: 583b62b93276bf91da961fda377d1bd351020b36f54749d12acfc2528617b941
   start: 2026-10-11T13:00:00+02:00
   end: N/A
@@ -348,6 +337,17 @@ Estreno de danza contemporánea que se presenta dentro del marco del Festival Su
   coordinates: 40.4096081, -3.699174
   url: https://teatrodelbarrio.com/una-habitacion-propia-de-virginia-woolf/
   description: ¡Ya solo quedan 1 plazas!
+
+[30] Disparate travesti. Romería por Lavapiés
+  id: 5176bef08b0c5fe8a0c781d389b00d235dabf41317408eef17a4d44ad68ab263
+  start: 2026-10-11T16:00:00+02:00
+  end: N/A
+  category: theater
+  source: teatro_del_barrio
+  location: Teatro del Barrio - Calle de Zurita, 20, Madrid
+  coordinates: 40.4096081, -3.699174
+  url: https://teatrodelbarrio.com/disparate-travesti/
+  description: Programación en Teatro del Barrio
 
 [31] Malas
   id: 67eb43a98d6c0f6479f8b8dc3e1ffafc363271336e199833e5617da60e8ba826
@@ -439,6 +439,61 @@ Estreno de danza contemporánea que se presenta dentro del marco del Festival Su
 [38] Patas arriba
   id: 5007e7b66c33f7fcb70cac804ba4ecc719b50cf8ee45d903526f635e88da3d60
   start: 2026-10-15T22:15:00+02:00
+  end: N/A
+  category: theater
+  source: teatro_del_barrio
+  location: Teatro del Barrio - Calle de Zurita, 20, Madrid
+  coordinates: 40.4096081, -3.699174
+  url: https://teatrodelbarrio.com/patas-arriba/
+  description: Disponible
+
+[39] Masterclass profesional “Proceso de Hope Hunt”, con Sati Veyrunes
+  id: ec2e955b9dcd069d360b2e659d655009455e586dd25014dcf0536bd86e142b8b
+  start: 2026-10-16T11:00:00+02:00
+  end: N/A
+  category: theater
+  source: matadero
+  location: Matadero Madrid - Plaza de Legazpi, 8, Madrid
+  coordinates: 40.392398, -3.697762
+  url: https://www.mataderomadrid.org/programacion/masterclass-profesional-proceso-de-hope-hunt-con-sati-veyrunes
+  description: El taller se centrará en la obra Hope Hunt, de Oona Doherty, abordada desde la perspectiva de Sati Veyrunes. Tras un calentamiento físico, trabajaremos y exploraremos los elementos físicos, rítmicos y expresivos de la pieza. Se trata de una práctica centrada en la capacidad física, la expresión y la presencia emocional.
+
+[40] Masterclass profesional con Sharon Fridman / Técnica INA
+  id: 63fea3c4e76971e546243ef2f678ca674ef5b3072dd67c0c95ab50126ba4e5b5
+  start: 2026-10-16T17:30:00+02:00
+  end: N/A
+  category: theater
+  source: matadero
+  location: Matadero Madrid - Plaza de Legazpi, 8, Madrid
+  coordinates: 40.392398, -3.697762
+  url: https://www.mataderomadrid.org/programacion/masterclass-profesional-con-sharon-fridman-tecnica-ina
+  description: Taller concebido como una inmersión directa en uno de los pilares de Practice INA: Respiración Común. Partimos de una idea sencilla: ¿cómo podemos convertirnos, por un momento, en un solo cuerpo, con un pulmón común? A través de la respiración, el contacto y la escucha, investigaremos cómo construir un ritmo compartido que nos permita entender el camino juntos e improvisar los pasos: inhalar y expandir, suspender, actuar, exhalar y soltar. El taller estará dirigido por Sharon Fridman. Durante el encuentro presentaremos también el libreto de INA, actualmente en su momento de nacimiento, que recoge y articula la investigación de la práctica. INA significa Improvisación, Necesidad y Arquitectura. Pero INA es también el nombre de la madre de Sharon Fridman.
+
+[41] La jota del abuelo
+  id: 48e7a3ca5015079da663f1adca8102601bf1b51cbce300faa89bd6b3585b29f5
+  start: 2026-10-16T19:30:00+02:00
+  end: N/A
+  category: theater
+  source: teatro_del_barrio
+  location: Teatro del Barrio - Calle de Zurita, 20, Madrid
+  coordinates: 40.4096081, -3.699174
+  url: https://teatrodelbarrio.com/la-jota-del-abuelo/
+  description: Disponible
+
+[42] Oona Doherty
+  id: 0312cefaa4b095d0fbf346f88302a034e6fb1748bd7de02ac7c3e4044e693697
+  start: 2026-10-16T20:00:00+02:00
+  end: N/A
+  category: theater
+  source: matadero
+  location: Matadero Madrid - Plaza de Legazpi, 8, Madrid
+  coordinates: 40.392398, -3.697762
+  url: https://www.mataderomadrid.org/programacion/oona-doherty
+  description: Hope Hunt se sitúa en la frontera entre el teatro físico, la denuncia social y la danza. Una cabeza de palo de golf negra, iluminada y retumbante, permanece a la espera, mientras la música retumba desde su escudo metálico. Un hombre que encarna a muchos hombres surge y se desvanece al ritmo del metal; su historia: una búsqueda de la esperanza. El intérprete se transforma en entidades distintas, pasando de un personaje a otro. A través de la palabra, el movimiento y el sonido, nos vemos retorcidos y contorsionados por ideas de masculinidad, moralidad y nostalgia. Por caminos húmedos y olvidados de la memoria, el cazador se lleva al público consigo. Ataca y se desvía de los estereotipos extremos de la cultura y la clase social. Las máscaras de los hombres como una forma de defensa personal contra uno mismo y el mundo en el que vivimos hoy en día. Las consecuencias del aburrimiento en la psique quedan al descubierto a través del esfuerzo físico en el escenario. Bordeando la delgada línea entre la comedia y la tragedia. Para descubrir la importancia de la confianza en uno mismo. No importa de dónde seas ni en qué clase social te encuentres. Existen necesidades esenciales de amor arraigadas en todos nosotros. Al quitarnos las máscaras del ego y las afectaciones culturales, esperamos encontrar un terreno común de verdad y esperanza. Fundido a blanco. Lázaro resucita como el pájaro de paraíso de hormigón. Un intento de deconstruir el estereotipo del hombre desfavorecido de hormigón y elevarlo a un limbo blanco y brillante al estilo de Caravaggio. Pretende convertir a los «smicks», los «spides», los «hoods», los gitanos y los «knackers» en pájaros del paraíso. Es una búsqueda de la esperanza. El espectáculo está interpretado por Sati Veyrunes.
+
+[43] Patas arriba
+  id: 606cc078d9430e449aedeca7b969bbde6d35b83126111dc0c372ad5326468ad5
+  start: 2026-10-16T22:15:00+02:00
   end: N/A
   category: theater
   source: teatro_del_barrio

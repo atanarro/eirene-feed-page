@@ -2,47 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Los brujos inocentes
-DTSTART;TZID=Europe/Madrid:20261001T173000
-UID:63481e44bdb99516663e7dda5bcbfd8cd7ef59270bd3d4a460be7097e9562a8e
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Jueves 1 de octubre a las 17:30h (Sala 1. ANDRZE
- J WAJDA: ENTRE EL MITO Y LA HISTORIA) *Aunque las entradas aparezcan como 
- agotadas en web\, pueden adquirirse en taquilla entradas para las sesiones
-  del día (de 17h a 20h)\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/
- productos/descripcion/los-brujos-inocentes
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El último verano
-DTSTART;TZID=Europe/Madrid:20261001T190000
-UID:64fab796f7e219f7138fabf906dd0f3e788a23656f855b6701079e59eb4ebbb5
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Jueves 1 de octubre a las 19:00h (Sala 2. MIRADA
- S PROYECTADAS. SALAS Y ESPECTADORES: ENCUENTROS A OSCURAS) *Aunque las ent
- radas aparezcan como agotadas en web\, pueden adquirirse en taquilla entra
- das para las sesiones del día (de 17h a 20h)\n\nOriginal title: L'Été d
- ernier\n\nRelease year: 2023\n\nOriginal language: FR\n\nhttps://entradasf
- ilmoteca.sacatuentrada.es/es/productos/descripcion/el-ultimo-verano-2
-LOCATION:Filmoteca Espanola - Cine Dore Sala 2 - Calle de Santa Isabel\, 3
- \, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maspalomas
-DTSTART;TZID=Europe/Madrid:20261001T200000
-UID:5be0f4ee6a67b960f88e0b4a2bd26a64ac2ce78e5ce4d81f343435ab50320236
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Jueves 1 de octubre a las 20:00h (Sala 1. DIÁLO
- GOS INTERGENERACIONALES. ENVEJECER EN LA PANTALLA) *Aunque las entradas ap
- arezcan como agotadas en web\, pueden adquirirse en taquilla entradas para
-  las sesiones del día (de 17h a 20h)\n\nRelease year: 2025\n\nOriginal la
- nguage: EU\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/productos/desc
- ripcion/maspalomas-19
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Vidas errantes
 DTSTART;TZID=Europe/Madrid:20261002T173000
 UID:e40331b3101feb29825cb2808a8d166f70c07b6e7094440de373c6a54dea4521
@@ -366,7 +325,7 @@ CATEGORIES:cinema
 DESCRIPTION:Fecha y Hora: Domingo 11 de octubre a las 20:00h (Sala 1. HONG
   KONG. LOS AÑOS DEL NEÓN) *Aunque las entradas aparezcan como agotadas e
  n web\, pueden adquirirse en taquilla entradas para las sesiones del día 
- (de 17h a 20h)\n\nRelease year: 1974\n\nOriginal language: EN\n\nhttps://e
+ (de 17h a 20h)\n\nRelease year: 2026\n\nOriginal language: EN\n\nhttps://e
  ntradasfilmoteca.sacatuentrada.es/es/productos/descripcion/fallen-angels-1
 LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
  \, Madrid
@@ -479,6 +438,46 @@ DESCRIPTION:Fecha y Hora: Jueves 15 de octubre a las 20:00h (Sala 1. KEISU
  como agotadas en web\, pueden adquirirse en taquilla entradas para las ses
  iones del día (de 17h a 20h)\n\nhttps://entradasfilmoteca.sacatuentrada.e
  s/es/productos/descripcion/twenty-four-eyes
+LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
+ \, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Afterimage
+DTSTART;TZID=Europe/Madrid:20261016T173000
+UID:9a240712415d4686da2cb616779e0e6c221de6b12ba3a0e41b72bc1d3829722f
+CATEGORIES:cinema
+DESCRIPTION:Fecha y Hora: Viernes 16 de octubre a las 17:30h (Sala 1. ANDR
+ ZEJ WAJDA: ENTRE EL MITO Y LA HISTORIA) *Aunque las entradas aparezcan com
+ o agotadas en web\, pueden adquirirse en taquilla entradas para las sesion
+ es del día (de 17h a 20h)\n\nRelease year: 2025\n\nOriginal language: EN
+ \n\nhttps://entradasfilmoteca.sacatuentrada.es/es/productos/descripcion/af
+ terimage-16-oct
+LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
+ \, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Granny Project
+DTSTART;TZID=Europe/Madrid:20261016T190000
+UID:487a6eeeb8c2c38b6ada9ecd0e7eb54ab31cae60de35d80447f27cf0e81fa0e9
+CATEGORIES:cinema
+DESCRIPTION:Fecha y Hora: Viernes 16 de octubre a las 19:00h (Sala 2. DIÁ
+ LOGOS INTERGENERACIONALES. ENVEJECER EN LA PANTALLA) *Aunque las entradas 
+ aparezcan como agotadas en web\, pueden adquirirse en taquilla entradas pa
+ ra las sesiones del día (de 17h a 20h)\n\nhttps://entradasfilmoteca.sacat
+ uentrada.es/es/productos/descripcion/granny-project
+LOCATION:Filmoteca Espanola - Cine Dore Sala 2 - Calle de Santa Isabel\, 3
+ \, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lo que queda de ti
+DTSTART;TZID=Europe/Madrid:20261016T193000
+UID:55f6891d1d79dffac5492247d25dffa194cf9f0cb8f26a588cf085071e828444
+CATEGORIES:cinema
+DESCRIPTION:Fecha y Hora: Viernes 16 de octubre a las 19:30h (Sala 1. DÍA
+  DE LA MUJER RURAL) *Aunque las entradas aparezcan como agotadas en web\, 
+ pueden adquirirse en taquilla entradas para las sesiones del día (de 17h 
+ a 20h)\n\nRelease year: 2025\n\nOriginal language: ES\n\nhttps://entradasf
+ ilmoteca.sacatuentrada.es/es/productos/descripcion/lo-que-queda-de-ti-4
 LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
  \, Madrid
 END:VEVENT

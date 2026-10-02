@@ -2,74 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Por el derecho a migrar ¿Qué hacer ante la superexplotación y l
- a represión racista?
-DTSTART;TZID=Europe/Madrid:20261001T180000
-DTEND;TZID=Europe/Madrid:20261001T180000
-UID:e8bd61bab5c1132a18057c2162cf552f2ed6b0c1750232019084094225611cd4
-CATEGORIES:talk
-DESCRIPTION:Sección de Ciencias Jurídicas y Políticas.\nPresenta: Xabie
- r Arrizabalo: Profesor de la UCM y afiliado a CCOO.\nIntervienen:\nSerigne
-  Mbayé: Activista\, exdiputado autonómico de Unidas Podemos y exporta vo
- z del Sindicato de Manteros.\nCecilia Escobar: Miembro del Grupo de Invest
- igación de la UCM «Economía Política: Capitalismo y Desarrollo Desigua
- l».\nOmar Abdelouahidi Tahouati: Militante del Comité por la Alianza de 
- Trabajadores y Pueblos (CATP).\nAlexandra Perrusquía: Autora de un estudi
- o sobre la migración bangladesí en Madrid.\nPablo López Calle: Profesor
-  Titular de Sociología del Trabajo de la UCM.\nSala Ramón y Cajal. 18:00
- .\n\nhttps://ateneodemadrid.com/evento/por-el-derecho-a-migrar-que-hacer-a
- nte-la-superexplotacion-y-la-represion-racista/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:"Un poeta en la Historia"
-DTSTART;TZID=Europe/Madrid:20261001T183000
-DTEND;TZID=Europe/Madrid:20261001T183000
-UID:55c943862dc60a0e90ef54b60819db7b460a25cc85a428648a4d9af70cff5ffe
-CATEGORIES:talk
-DESCRIPTION:Presentación del libro.  \n \nSección de Ciencias Históric
- as. Intervienen: Rosario Ruiz Franco\, Mario Amorós – autor. Presenta: 
- José Rayos. Sala Larra. 18:30.\n\nhttps://ateneodemadrid.com/evento/un-po
- eta-en-la-historia/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Presentación: «Curioseando los mitos del mundo»\, de Irene Fern
- ández
-DTSTART;TZID=Europe/Madrid:20261001T190000
-UID:2fa71d4aa14206eebb38b651398dd4c7b4cb41c93de7a2e9f1becd84dfb51cae
-CATEGORIES:talk
-DESCRIPTION:Irene Fernández visitará la librería Desnivel para la prese
- ntación y firma de su nuevo libro\, Curioseando los mitos del mundo . Est
- e encuentro se celebrará el próximo jueves 1 de octubre\, a las 19 h de 
- la tarde. ¡Ven y llévate un ejemplar firmado!\n\nhttps://www.libreriades
- nivel.com/agenda/curioseando-los-mitos-del-mundo-de-irene-fernandez/448/
-LOCATION:Libreria Desnivel - Plaza de Matute\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:"El matadero"
-DTSTART;TZID=Europe/Madrid:20261001T190000
-DTEND;TZID=Europe/Madrid:20261001T190000
-UID:aa03d81b519c28eaa0de4d33b33446b0d6818a873a8eec7dc2b9077629936bda
-CATEGORIES:talk
-DESCRIPTION:Presentación del libro. \n \nSección de Ciencias Sociales. I
- ntervienen: Mónica G. Prieto autora Javier del Pino Maruja Torres\, Javie
- r Espinosa. Biblioteca. 19:30.\n\nhttps://ateneodemadrid.com/evento/el-mat
- adero/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:"Sólo fue un huracán"
-DTSTART;TZID=Europe/Madrid:20261001T190000
-DTEND;TZID=Europe/Madrid:20261001T190000
-UID:400236838d3522fc5780a82970223e4b6cc312949a16e2397ce55aaff677579e
-CATEGORIES:talk
-DESCRIPTION:Presentación del libro. \n \nSección de Literatura. Presenta
- : Carlota Ferrer. Intervienen: Elio Irmão – autor. Sala Ramón y Cajal.
-  19:00.\n\nhttps://ateneodemadrid.com/evento/solo-fue-un-huracan/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Diálogos Psicoanalíticos en torno al cuerpo: Los cuerpos de la  
  clínica contemporánea
 DTSTART;TZID=Europe/Madrid:20261002T193000
@@ -190,9 +122,9 @@ UID:db971db7dab41a8787a748edec40aa95caecbea6316069c1fa69077871a1c0eb
 CATEGORIES:talk
 DESCRIPTION:Agrupación Europeísta “Cuidar el Futuro”. Intervienen: A
  ntonio Gutiérrez\, Javier Pérez Royo\, Enrique del Olmo\, Ana Pardo de V
- era\, Juan Pinilla\, Gloria Elizo y Bruno Estrada.. Sala Pérez Galdós. 
- 12:00.\n\nhttps://ateneodemadrid.com/evento/senadoras-y-senadores-por-la-d
- emocracia/
+ era\, Juan Pinilla\, Gloria Elizo y Bruno Estrada. Sala Pérez Galdós. 1
+ 2:00.\n\nhttps://ateneodemadrid.com/evento/senadoras-y-senadores-por-la-de
+ mocracia/
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -383,12 +315,61 @@ DESCRIPTION:Concha Peiró Vallejo visitará la librería Desnivel para pre
 LOCATION:Libreria Desnivel - Plaza de Matute\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Presentación "Queer Clics"
-DTSTART;TZID=Europe/Madrid:20261009T190000
-UID:a49b50b33a23cac1f7f71c92fcbeccb6864806d1e2d6db0eb57aa7825301f5f9
+SUMMARY:La luna de Federico
+DTSTART;TZID=Europe/Madrid:20261008T190000
+DTEND;TZID=Europe/Madrid:20261008T190000
+UID:dc1544d264ac7b4edf4afdd7204d54d6e3378b557b94e25e802434781b4c9a3e
 CATEGORIES:talk
-DESCRIPTION:https://laanonimalibreria.com/evento/194/presentacion-queer-cl
- ics/
+DESCRIPTION:Presentación del libro.  \n \nSección de Teatro. Interviene
+ n: Eva Higueras – autora\, Susana Sierra – editora\, Fernando Sansegun
+ do. Sala Ramón y Cajal. 19:00.\n\nhttps://ateneodemadrid.com/evento/la-lu
+ na-de-federico/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recuerdo del tiempo vivido ¿Para qué mi vida? Ikigai
+DTSTART;TZID=Europe/Madrid:20261008T190000
+DTEND;TZID=Europe/Madrid:20261008T190000
+UID:8a42e04f8a73ec3d1d65d81051a949a70bf289cfc0b13f91daadde51e60baa33
+CATEGORIES:talk
+DESCRIPTION:Presentación del libro.  \n  \n \nSección de Información 
+ y Comunicación​. Intervienen: Agustín García Matilla – autor\,  Ma
+ nuel Valdivia Santiago\,  Paloma Pedrero Díaz-Caneja. Sala Pérez Galdó
+ s. 19:00.\n\nhttps://ateneodemadrid.com/evento/recuerdo-del-tiempo-vivido-
+ para-que-mi-vida-ikigai/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Muerte entre diamantes
+DTSTART;TZID=Europe/Madrid:20261008T190000
+DTEND;TZID=Europe/Madrid:20261008T190000
+UID:5649f157a2223107a8e1a39419f9860af6169258f9b3b0b51c0d771b2dda26d7
+CATEGORIES:talk
+DESCRIPTION:Presentación del libro.  \n  \n \nSección de Literatura​
+ . Interviene Eduardo Trigo Sierra – autor. Presenta: Javier Rioyo. Bibli
+ oteca. 19:00.\n\nhttps://ateneodemadrid.com/evento/muerte-entre-diamantes/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:"Altares del diluvio"
+DTSTART;TZID=Europe/Madrid:20261008T193000
+DTEND;TZID=Europe/Madrid:20261008T193000
+UID:100cfb66bac260c1f8e028f064264d117562bbaf2f4e741eff0c9a74337bc6af
+CATEGORIES:talk
+DESCRIPTION:Presentación del libro. \n \nÁgora\, agrupación para el di
+ álogo. Intervienen: Miguel Ángel García-Sánchez –  autor\, David Se
+ ntinella\, Cristina Villanueva Martínez. Presenta: Manuel Según Alonso. 
+ Sala Larra. 19:00.\n\nhttps://ateneodemadrid.com/evento/altares-del-diluvi
+ o/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Presentación "Queer Clips"
+DTSTART;TZID=Europe/Madrid:20261009T190000
+UID:5f5f38745d5ab6cb2b36a3b8fc7ec882c03fd1c05b1dd346f4d7cc7585b8f0b8
+CATEGORIES:talk
+DESCRIPTION:https://laanonimalibreria.com/evento/197/presentacion-queer-cl
+ ips/
 LOCATION:La Anonima Libreria - C/ Embajadores\, 166 - Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -447,5 +428,22 @@ DESCRIPTION:Iria G. Parente y Selene M. Pascual\, autoras de la trilogía
  m House (Molino).\n\nhttps://www.mataderomadrid.org/programacion/encuentro
  -time-keeper-con-iria-y-selene
 LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Presentación "Mal de bosque"
+DTSTART;TZID=Europe/Madrid:20261015T190000
+UID:6a270d505c62d939dc245eec9e10810f961498a4bfbe0f9152fc24289fb217f3
+CATEGORIES:talk
+DESCRIPTION:https://laanonimalibreria.com/evento/201/presentacion-mal-de-b
+ osque/
+LOCATION:La Anonima Libreria - C/ Embajadores\, 166 - Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fanzine Literario
+DTSTART;TZID=Europe/Madrid:20261016T180000
+UID:468408d274b3c77e5674ba0f10e1065fa7702ba701999bbd54c5f84465811cde
+CATEGORIES:talk
+DESCRIPTION:https://laanonimalibreria.com/evento/198/fanzine-literario/
+LOCATION:La Anonima Libreria - C/ Embajadores\, 166 - Madrid
 END:VEVENT
 END:VCALENDAR
