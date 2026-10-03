@@ -1,5 +1,5 @@
 Eirene feed debug
-Total events: 3
+Total events: 4
 
 [1] Mercado de las Ranas
   id: 9c06125fdeb549eb1071361434bb97a895339497aa6de1718b7beb3252be8fb9
@@ -12,7 +12,18 @@ Total events: 3
   url: https://barrioletras.com/mercado-de-las-ranas/
   description: Mercado del Barrio de las Letras con puestos de artesanía, diseño, moda y gastronomía en la calle Huertas.
 
-[2] Mercadillo de Minerales de la Escuela de Minas
+[2] Mercado Productores Planetario
+  id: 011f250b70b437623c891ecb5884fb893378791a2b9e2ca8b0acf5a29789a130
+  start: 2026-10-04T10:00:00+02:00
+  end: 2026-10-04T16:00:00+02:00
+  category: market
+  source: mercado_productores
+  location: Mercado Productores Planetario - Avenida del Planetario esquina Calle Meneses, Madrid
+  coordinates: 40.392053, -3.679427
+  url: https://mercadoproductores.es/mp-planetario/
+  description: Mercado de productores locales y artesanos en Planetario con alimentacion sostenible, productos de cercania y actividades al aire libre.
+
+[3] Mercadillo de Minerales de la Escuela de Minas
   id: 4926a2a816292be0dc349bf3702f3d5271086055c33b5e7f24718adda8998f55
   start: 2026-10-04T10:00:00+02:00
   end: 2026-10-04T14:00:00+02:00
@@ -23,13 +34,13 @@ Total events: 3
   url: https://www.esmadrid.com/agenda/mercadillo-minerales-madrid-escuela-superior-ingenieros-minas
   description: Mercadillo de minerales, fosiles, gemas y conchas en la Escuela Superior de Ingenieros de Minas (primer domingo de cada mes, excepto agosto).
 
-[3] Mercado Productores Alcobendas
-  id: bd1e8243e04eb1f5685fe8487ed6b873684ecc60c6ea4ff51b37ac96b85df843
-  start: 2026-10-11T10:00:00+02:00
-  end: 2026-10-11T16:00:00+02:00
+[4] Mercado de las Ranas
+  id: c6cfed06aaf6ddde9a01b2084693046b21728bc95c1756672842bf710e6585de
+  start: 2026-10-17T12:00:00+02:00
+  end: 2026-10-17T20:00:00+02:00
   category: market
-  source: mercado_productores
-  location: Mercado Productores Alcobendas - Paseo de Valdelasfuentes esquina Calle Jose Hierro, Alcobendas
-  coordinates: 40.554188, -3.648976
-  url: https://mercadoproductores.es/mp-alcobendas/
-  description: Mercado de productores locales y artesanos en Alcobendas con alimentos de proximidad y propuestas gastronomicas.
+  source: mercado_de_las_ranas
+  location: Barrio de las Letras - Calle de las Huertas, 2-47, Madrid
+  coordinates: 40.414413, -3.698524
+  url: https://barrioletras.com/mercado-de-las-ranas/
+  description: Mercado del Barrio de las Letras con puestos de artesanía, diseño, moda y gastronomía en la calle Huertas.

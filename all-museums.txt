@@ -1,5 +1,5 @@
 Eirene feed debug
-Total events: 122
+Total events: 123
 
 [1] La Odisea. El viaje inmersivo
   id: 2b0c761321971c54feddd57f9b063a8bcf6a2194285807efc4eef843a98f78d2
@@ -1167,18 +1167,16 @@ Total events: 122
   url: https://iicmadrid.esteri.it/es/gli_eventi/calendario/exposicion-il-colore-dei-miei-sogni-de-clelia-muchetti/
   description: La artista italiana Clelia Muchetti expone una selección de sus pinturas, definidas como "ventanas a los sueños". (Instituto Italiano de Cultura. 1 - 10 octubre).
 
-[107] "Poemas en Blanco y Negro"
-  id: cae02261880dff2237efcb344ccd62335136f60d1341c7768bedf362c88994b6
-  start: 2026-10-02T19:30:00+02:00
-  end: 2026-10-02T19:30:00+02:00
+[107] Umbrales
+  id: a4429bdcf473176b53c6cc6f29d5dda64b480ce3b7d77de29235bae34fd269a3
+  start: 2026-10-01T00:00:00+02:00
+  end: 2026-10-25T00:00:00+02:00
   category: exhibition
-  source: ateneo_madrid
-  location: Ateneo de Madrid - C. del Prado, 21, Madrid
-  coordinates: 40.415242, -3.697079
-  url: https://ateneodemadrid.com/evento/poemas-en-blanco-y-negro/
-  description: Presentación del libro.  
- 
-Sección del Fotografía. Intervienen: Javier Rego – autor, Bárbara Mur, Carmen Ortigosa. Presenta: María Antonia García de la Vega. Sala Pérez Galdós. 19:30.
+  source: esmadrid_exhibitions
+  location: Centro Cultural Casa de Vacas - de Colombia, 1, Madrid, 28009
+  coordinates: N/A
+  url: https://www.madrid.es/portales/munimadrid/es/Inicio/Actualidad/Actividades-y-eventos/Umbrales/?vgnextfmt=default&vgnextoid=76d13477341aa910VgnVCM100000891ecb1aRCRD&vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD
+  description: William Gaber habla de los límites, la pertenencia y las formas que construyen nuestra manera de habitar el mundo (Centro Cultural Casa de Vacas. Hasta 25 octubre).
 
 [108] Lo que las flores revelan
   id: 5a0aee3d4b29809940a6c70f96dccb35d86cc69b567c05966ad1f3b65beb3382
@@ -1347,7 +1345,23 @@ Evento organizado por la Asociación la Barandilla, la voz de la diversidad.
   url: https://www.museothyssen.org/exposiciones/thyssen-bornemisza-mauritshuis
   description: Los dos museos intercambian de forma simultánea veinticinco obras destacadas de sus colecciones permanentes (Museo Nacional Thyssen-Bornemisza. 9 oct a 10 ene 2027).
 
-[120] Continentes como semillas
+[120] El libro que nunca quise escribir
+  id: f29aac20d92784ed59e51f5b4b151f1a46519f0bc1a9dc43faa3003885d526a0
+  start: 2026-10-09T09:00:00+02:00
+  end: 2026-10-09T09:00:00+02:00
+  category: exhibition
+  source: ateneo_madrid
+  location: Ateneo de Madrid - C. del Prado, 21, Madrid
+  coordinates: 40.415242, -3.697079
+  url: https://ateneodemadrid.com/evento/libro-que-nunca-quise-escribir/
+  description: Exposición y presentación del libro. 
+ 
+Sección de Artes plásticas
+Exposición: Sala Carmen Laffón 09.00h.
+Conferencia: Sala Pérez Galdós 19:00h.
+Interviene: Juanjo Kluivert –  autor.
+
+[121] Continentes como semillas
   id: 8b0da71723d289db27fc37ec4f5a80289ca40568b2bac62183f8c01bb288311c
   start: 2026-10-10T00:00:00+02:00
   end: 2027-01-10T00:00:00+01:00
@@ -1358,7 +1372,7 @@ Evento organizado por la Asociación la Barandilla, la voz de la diversidad.
   url: https://www.lacasaencendida.es/exposiciones/continentes-como-semillas
   description: La Chola Poblete, Niño de Elche y Pedro G. Romero exploran cómo las historias coloniales siguen resonando en los cuerpos, los objetos y la cultura contemporánea (La Casa Encendida.
 
-[121] Ricardo de Madrazo (1852-1917): dibujos y acuarelas
+[122] Ricardo de Madrazo (1852-1917): dibujos y acuarelas
   id: b2a9f29c425919679405da5611c0f49e9f71f9cc85e5038fc4e4850328e32226
   start: 2026-10-13T00:00:00+02:00
   end: 2027-01-17T00:00:00+01:00
@@ -1369,7 +1383,7 @@ Evento organizado por la Asociación la Barandilla, la voz de la diversidad.
   url: https://www.museodelprado.es/actualidad/exposicion/ricardo-de-madrazo-1852-1917-dibujos-y-acuarelas/1a449f97-e4bc-73bf-4034-a3580abe45c1
   description: Exposición dedicada exclusivamente a la obra del artista junto a una selección de cuadernos, dibujos y acuarelas (Museo del Prado. 13 oct a 17 ene 2027).
 
-[122] La transición estética. España, 1960-2020
+[123] La transición estética. España, 1960-2020
   id: 13391f5d7e2d764b3e0effaee782417648c28f057f23af7df2ed25d2d8263f82
   start: 2026-10-16T00:00:00+02:00
   end: 2027-01-10T00:00:00+01:00

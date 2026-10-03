@@ -2,48 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Arganzuela//ES
 BEGIN:VEVENT
-SUMMARY:Vidas errantes
-DTSTART;TZID=Europe/Madrid:20261002T173000
-UID:e40331b3101feb29825cb2808a8d166f70c07b6e7094440de373c6a54dea4521
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Viernes 2 de octubre a las 17:30h (Sala 1. MIRAD
- AS PROYECTADAS. SALAS Y ESPECTADORES: ENCUENTROS A OSCURAS) *Aunque las en
- tradas aparezcan como agotadas en web\, pueden adquirirse en taquilla entr
- adas para las sesiones del día (de 17h a 20h)\n\nRelease year: 1987\n\nOr
- iginal language: ES\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/produ
- ctos/descripcion/vidas-errantes
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Katyń
-DTSTART;TZID=Europe/Madrid:20261002T190000
-UID:39c922412635458f76c7ab3f53372e74332458690b0d09148ceb7e32670e8d6b
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Viernes 2 de octubre a las 19:00h (Sala 2. ANDRZ
- EJ WAJA: ENTRE EL MITO Y LA HISTORIA) *Aunque las entradas aparezcan como 
- agotadas en web\, pueden adquirirse en taquilla entradas para las sesiones
-  del día (de 17h a 20h)\n\nRelease year: 2007\n\nOriginal language: PL\n
- \nhttps://entradasfilmoteca.sacatuentrada.es/es/productos/descripcion/katy
- ń
-LOCATION:Filmoteca Espanola - Cine Dore Sala 2 - Calle de Santa Isabel\, 3
- \, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sombras en el paraíso
-DTSTART;TZID=Europe/Madrid:20261002T200000
-UID:1c546efc978151d694780ab09493a0b327691219e64d6e561a44a0ea74b2ba7b
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Viernes 2 de octubre a las 20:00h (Sala 1. AKI K
- AURISMÄKI. TRILOGÍA DE LOS PERDEDORES) *Aunque las entradas aparezcan co
- mo agotadas en web\, pueden adquirirse en taquilla entradas para las sesio
- nes del día (de 17h a 20h)\n\nOriginal title: Varjoja paratiisissa\n\nRel
- ease year: 1986\n\nOriginal language: FI\n\nhttps://entradasfilmoteca.saca
- tuentrada.es/es/productos/descripcion/sombras-en-el-paraiso
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Up
 DTSTART;TZID=Europe/Madrid:20261003T173000
 UID:364181a1cfbded4b241c0ebd223ecb2596f1d61a6eea5b620b9096b1eb620ad1
@@ -54,8 +12,8 @@ DESCRIPTION:Fecha y Hora: Sábado 3 de octubre a las 17:30h (Sala 1. DIÁL
  ones del día (de 17h a 20h)\n\nRelease year: 2009\n\nOriginal language: E
  N\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/productos/descripcion/u
  p-1
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
+LOCATION:Filmoteca Espanola - Cine Dore - Calle de Santa Isabel\, 3\, Madr
+ id
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:La vida útil
@@ -68,8 +26,8 @@ DESCRIPTION:Fecha y Hora: Sábado 3 de octubre a las 19:00h (Sala 2. MIRAD
  adas para las sesiones del día (de 17h a 20h)\n\nRelease year: 2010\n\nOr
  iginal language: ES\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/produ
  ctos/descripcion/la-vida-util-3oct
-LOCATION:Filmoteca Espanola - Cine Dore Sala 2 - Calle de Santa Isabel\, 3
- \, Madrid
+LOCATION:Filmoteca Espanola - Cine Dore - Calle de Santa Isabel\, 3\, Madr
+ id
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Killer
@@ -81,8 +39,8 @@ DESCRIPTION:Fecha y Hora: Sábado 3 de octubre a las 20:00h (Sala 1. HONG
   web\, pueden adquirirse en taquilla entradas para las sesiones del día (
  de 17h a 20h)\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/productos/d
  escripcion/the-killer-1
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
+LOCATION:Filmoteca Espanola - Cine Dore - Calle de Santa Isabel\, 3\, Madr
+ id
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fin de jornada
@@ -94,8 +52,8 @@ DESCRIPTION:Fecha y Hora: Domingo 4 de octubre a las 17:30h (Sala 1. DIÁL
  parezcan como agotadas en web\, pueden adquirirse en taquilla entradas par
  a las sesiones del día (de 17h a 20h)\n\nhttps://entradasfilmoteca.sacatu
  entrada.es/es/productos/descripcion/fin-de-jornada
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
+LOCATION:Filmoteca Espanola - Cine Dore - Calle de Santa Isabel\, 3\, Madr
+ id
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Allemagne année 90 neuf zéro
@@ -107,8 +65,8 @@ DESCRIPTION:Fecha y Hora: Domingo 4 de octubre a las 20:00h (Sala 1. UNIVE
  dquirirse en taquilla entradas para las sesiones del día (de 17h a 20h)\n
  \nRelease year: 1993\n\nOriginal language: FR\n\nhttps://entradasfilmoteca
  .sacatuentrada.es/es/productos/descripcion/allemagne-annee-90-neuf-zero
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
+LOCATION:Filmoteca Espanola - Cine Dore - Calle de Santa Isabel\, 3\, Madr
+ id
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:El inquilino
@@ -120,8 +78,8 @@ DESCRIPTION:Fecha y Hora: Martes 6 de octubre a las 17:30h (Sala 1. DÍA D
  eden adquirirse en taquilla entradas para las sesiones del día (de 17h a 
  20h)\n\nRelease year: 2021\n\nOriginal language: ES\n\nhttps://entradasfil
  moteca.sacatuentrada.es/es/productos/descripcion/el-inquilino
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
+LOCATION:Filmoteca Espanola - Cine Dore - Calle de Santa Isabel\, 3\, Madr
+ id
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Angustia
@@ -133,8 +91,8 @@ DESCRIPTION:Fecha y Hora: Martes 6 de octubre a las 20:00h (Sala 1. DÍA D
  eden adquirirse en taquilla entradas para las sesiones del día (de 17h a 
  20h)\n\nRelease year: 1987\n\nOriginal language: ES\n\nhttps://entradasfil
  moteca.sacatuentrada.es/es/productos/descripcion/angustia
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
+LOCATION:Filmoteca Espanola - Cine Dore - Calle de Santa Isabel\, 3\, Madr
+ id
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Comrades: Almost a Love Story
@@ -147,8 +105,8 @@ DESCRIPTION:Fecha y Hora: Miércoles 7 de octubre a las 17:30h (Sala 1. HO
  a (de 17h a 20h)\n\nOriginal title: 甜蜜蜜\n\nRelease year: 1996\n\nOri
  ginal language: CN\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/produc
  tos/descripcion/comrades-almost-a-love-story-1
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
+LOCATION:Filmoteca Espanola - Cine Dore - Calle de Santa Isabel\, 3\, Madr
+ id
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Restauraciones recientes\, cortometrajes de Manuel Pérez Sala y M
@@ -162,8 +120,8 @@ DESCRIPTION:Fecha y Hora: Miércoles 7 de octubre a las 19:00h (Sala 2. ME
   del día (de 17h a 20h)\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/
  productos/descripcion/restauraciones-recientes-cortometrajes-de-manuel-per
  ez-sala
-LOCATION:Filmoteca Espanola - Cine Dore Sala 2 - Calle de Santa Isabel\, 3
- \, Madrid
+LOCATION:Filmoteca Espanola - Cine Dore - Calle de Santa Isabel\, 3\, Madr
+ id
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:El hombre de hierro
@@ -176,8 +134,8 @@ DESCRIPTION:Fecha y Hora: Miércoles 7 de octubre a las 20:00h (Sala 1. AN
  ones del día (de 17h a 20h)\n\nOriginal title: Człowiek z żelaza\n\nRel
  ease year: 1981\n\nOriginal language: PL\n\nhttps://entradasfilmoteca.saca
  tuentrada.es/es/productos/descripcion/el-hombre-de-hierro
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
+LOCATION:Filmoteca Espanola - Cine Dore - Calle de Santa Isabel\, 3\, Madr
+ id
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Angustia
@@ -190,8 +148,8 @@ DESCRIPTION:Fecha y Hora: Jueves 8 de octubre a las 17:30h (Sala 1. MIRADA
  das para las sesiones del día (de 17h a 20h)\n\nRelease year: 1987\n\nOri
  ginal language: ES\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/produc
  tos/descripcion/angustia-8-oct
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
+LOCATION:Filmoteca Espanola - Cine Dore - Calle de Santa Isabel\, 3\, Madr
+ id
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:La boda
@@ -204,8 +162,8 @@ DESCRIPTION:Fecha y Hora: Jueves 8 de octubre a las 19:00h (Sala 2. ANDRZE
   del día (de 17h a 20h)\n\nRelease year: 2013\n\nOriginal language: ES\n
  \nhttps://entradasfilmoteca.sacatuentrada.es/es/productos/descripcion/la-b
  oda-8oct
-LOCATION:Filmoteca Espanola - Cine Dore Sala 2 - Calle de Santa Isabel\, 3
- \, Madrid
+LOCATION:Filmoteca Espanola - Cine Dore - Calle de Santa Isabel\, 3\, Madr
+ id
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ariel
@@ -218,8 +176,8 @@ DESCRIPTION:Fecha y Hora: Jueves 8 de octubre a las 20:00h (Sala 1. AKI KA
  es del día (de 17h a 20h)\n\nRelease year: 1988\n\nOriginal language: FI
  \n\nhttps://entradasfilmoteca.sacatuentrada.es/es/productos/descripcion/ar
  iel-1
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
+LOCATION:Filmoteca Espanola - Cine Dore - Calle de Santa Isabel\, 3\, Madr
+ id
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:La edad de oro
@@ -232,8 +190,8 @@ DESCRIPTION:Fecha y Hora: Viernes 9 de octubre a las 17:30h (Sala 1. MIRAD
  adas para las sesiones del día (de 17h a 20h)\n\nOriginal title: L'Âge d
  'or\n\nRelease year: 1930\n\nOriginal language: FR\n\nhttps://entradasfilm
  oteca.sacatuentrada.es/es/productos/descripcion/la-edad-de-oro
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
+LOCATION:Filmoteca Espanola - Cine Dore - Calle de Santa Isabel\, 3\, Madr
+ id
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Marlene
@@ -246,8 +204,8 @@ DESCRIPTION:Fecha y Hora: Viernes 9 de octubre a las 19:00h (Sala 2. DIÁL
  a las sesiones del día (de 17h a 20h)\n\nRelease year: 2022\n\nOriginal l
  anguage: FR\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/productos/des
  cripcion/marlene
-LOCATION:Filmoteca Espanola - Cine Dore Sala 2 - Calle de Santa Isabel\, 3
- \, Madrid
+LOCATION:Filmoteca Espanola - Cine Dore - Calle de Santa Isabel\, 3\, Madr
+ id
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:El director de orquesta
@@ -260,8 +218,8 @@ DESCRIPTION:Fecha y Hora: Viernes 9 de octubre a las 20:00h (Sala 1. ANDRZ
  s del día (de 17h a 20h)\n\nOriginal title: Dyrygent\n\nRelease year: 198
  0\n\nOriginal language: PL\n\nhttps://entradasfilmoteca.sacatuentrada.es/e
  s/productos/descripcion/el-director-de-orquesta
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
+LOCATION:Filmoteca Espanola - Cine Dore - Calle de Santa Isabel\, 3\, Madr
+ id
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Un verano en casa del abuelo
@@ -273,8 +231,8 @@ DESCRIPTION:Fecha y Hora: Sábado 10 de octubre a las 17:30h (Sala 1. DIÁ
  como agotadas en web\, pueden adquirirse en taquilla entradas para las ses
  iones del día (de 17h a 20h)\n\nhttps://entradasfilmoteca.sacatuentrada.e
  s/es/productos/descripcion/un-verano-en-casa-del-abuelo
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
+LOCATION:Filmoteca Espanola - Cine Dore - Calle de Santa Isabel\, 3\, Madr
+ id
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Allemagne année 90 neuf zéro
@@ -287,8 +245,8 @@ DESCRIPTION:Fecha y Hora: Sábado 10 de octubre a las 19:00h (Sala 2. UNIV
  \n\nRelease year: 1993\n\nOriginal language: FR\n\nhttps://entradasfilmote
  ca.sacatuentrada.es/es/productos/descripcion/allemagne-annee-90-neuf-zero-
  10oct
-LOCATION:Filmoteca Espanola - Cine Dore Sala 2 - Calle de Santa Isabel\, 3
- \, Madrid
+LOCATION:Filmoteca Espanola - Cine Dore - Calle de Santa Isabel\, 3\, Madr
+ id
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Throw Down
@@ -300,8 +258,8 @@ DESCRIPTION:Fecha y Hora: Sábado 10 de octubre a las 20:00h (Sala 1. HONG
  n web\, pueden adquirirse en taquilla entradas para las sesiones del día 
  (de 17h a 20h)\n\nRelease year: 2000\n\nOriginal language: EN\n\nhttps://e
  ntradasfilmoteca.sacatuentrada.es/es/productos/descripcion/throw-down
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
+LOCATION:Filmoteca Espanola - Cine Dore - Calle de Santa Isabel\, 3\, Madr
+ id
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Katyń
@@ -314,8 +272,8 @@ DESCRIPTION:Fecha y Hora: Domingo 11 de octubre a las 17:30h (Sala 1. ANDR
  s del día (de 17h a 20h)\n\nRelease year: 2007\n\nOriginal language: PL\n
  \nhttps://entradasfilmoteca.sacatuentrada.es/es/productos/descripcion/katy
  ń-11oct
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
+LOCATION:Filmoteca Espanola - Cine Dore - Calle de Santa Isabel\, 3\, Madr
+ id
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fallen Angels
@@ -327,8 +285,8 @@ DESCRIPTION:Fecha y Hora: Domingo 11 de octubre a las 20:00h (Sala 1. HONG
  n web\, pueden adquirirse en taquilla entradas para las sesiones del día 
  (de 17h a 20h)\n\nRelease year: 2026\n\nOriginal language: EN\n\nhttps://e
  ntradasfilmoteca.sacatuentrada.es/es/productos/descripcion/fallen-angels-1
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
+LOCATION:Filmoteca Espanola - Cine Dore - Calle de Santa Isabel\, 3\, Madr
+ id
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cortometrajes El parque\, Elena\, Lady's Home Journal   (1963\, 19
@@ -341,8 +299,8 @@ DESCRIPTION:Fecha y Hora: Martes 13 de octubre a las 17:30h (Sala 1. MES D
  das en web\, pueden adquirirse en taquilla entradas para las sesiones del 
  día (de 17h a 20h)\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/produ
  ctos/descripcion/cortometrajes
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
+LOCATION:Filmoteca Espanola - Cine Dore - Calle de Santa Isabel\, 3\, Madr
+ id
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Danton
@@ -355,8 +313,8 @@ DESCRIPTION:Fecha y Hora: Martes 13 de octubre a las 20:00h (Sala 1. ANDRZ
  s del día (de 17h a 20h)\n\nRelease year: 1983\n\nOriginal language: FR\n
  \nhttps://entradasfilmoteca.sacatuentrada.es/es/productos/descripcion/dant
  on
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
+LOCATION:Filmoteca Espanola - Cine Dore - Calle de Santa Isabel\, 3\, Madr
+ id
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vidas errantes
@@ -369,8 +327,8 @@ DESCRIPTION:Fecha y Hora: Miércoles 14 de octubre a las 17:30h (Sala 1. M
  entradas para las sesiones del día (de 17h a 20h)\n\nRelease year: 1987\n
  \nOriginal language: ES\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/p
  roductos/descripcion/vidas-errantes-1
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
+LOCATION:Filmoteca Espanola - Cine Dore - Calle de Santa Isabel\, 3\, Madr
+ id
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Restauraciones recientes\, cortometrajes de los 70
@@ -382,8 +340,8 @@ DESCRIPTION:Fecha y Hora: Miércoles 14 de octubre a las 19:00h (Sala 2. M
  omo agotadas en web\, pueden adquirirse en taquilla entradas para las sesi
  ones del día (de 17h a 20h)\n\nhttps://entradasfilmoteca.sacatuentrada.es
  /es/productos/descripcion/restauraciones-recientes-cortometrajes-de-los-70
-LOCATION:Filmoteca Espanola - Cine Dore Sala 2 - Calle de Santa Isabel\, 3
- \, Madrid
+LOCATION:Filmoteca Espanola - Cine Dore - Calle de Santa Isabel\, 3\, Madr
+ id
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:La chica de la fábrica de cerillas
@@ -397,8 +355,8 @@ DESCRIPTION:Fecha y Hora: Miércoles 14 de octubre a las 20:00h (Sala 1. A
  \n\nRelease year: 1990\n\nOriginal language: FI\n\nhttps://entradasfilmote
  ca.sacatuentrada.es/es/productos/descripcion/la-chica-de-la-fabrica-de-cer
  illas-2
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
+LOCATION:Filmoteca Espanola - Cine Dore - Calle de Santa Isabel\, 3\, Madr
+ id
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Maspalomas
@@ -411,8 +369,8 @@ DESCRIPTION:Fecha y Hora: Jueves 15 de octubre a las 17:30h (Sala 1. DIÁL
  a las sesiones del día (de 17h a 20h)\n\nRelease year: 2025\n\nOriginal l
  anguage: EU\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/productos/des
  cripcion/maspalomas-15oct
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
+LOCATION:Filmoteca Espanola - Cine Dore - Calle de Santa Isabel\, 3\, Madr
+ id
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:El director de orquesta
@@ -425,8 +383,8 @@ DESCRIPTION:Fecha y Hora: Jueves 15 de octubre a las 19:00h (Sala 2. ANDRZ
  s del día (de 17h a 20h)\n\nOriginal title: Dyrygent\n\nRelease year: 198
  0\n\nOriginal language: PL\n\nhttps://entradasfilmoteca.sacatuentrada.es/e
  s/productos/descripcion/el-director-de-orquesta-15oct
-LOCATION:Filmoteca Espanola - Cine Dore Sala 2 - Calle de Santa Isabel\, 3
- \, Madrid
+LOCATION:Filmoteca Espanola - Cine Dore - Calle de Santa Isabel\, 3\, Madr
+ id
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Twenty-Four Eyes
@@ -438,8 +396,8 @@ DESCRIPTION:Fecha y Hora: Jueves 15 de octubre a las 20:00h (Sala 1. KEISU
  como agotadas en web\, pueden adquirirse en taquilla entradas para las ses
  iones del día (de 17h a 20h)\n\nhttps://entradasfilmoteca.sacatuentrada.e
  s/es/productos/descripcion/twenty-four-eyes
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
+LOCATION:Filmoteca Espanola - Cine Dore - Calle de Santa Isabel\, 3\, Madr
+ id
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Afterimage
@@ -452,8 +410,8 @@ DESCRIPTION:Fecha y Hora: Viernes 16 de octubre a las 17:30h (Sala 1. ANDR
  es del día (de 17h a 20h)\n\nRelease year: 2025\n\nOriginal language: EN
  \n\nhttps://entradasfilmoteca.sacatuentrada.es/es/productos/descripcion/af
  terimage-16-oct
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
+LOCATION:Filmoteca Espanola - Cine Dore - Calle de Santa Isabel\, 3\, Madr
+ id
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Granny Project
@@ -465,8 +423,8 @@ DESCRIPTION:Fecha y Hora: Viernes 16 de octubre a las 19:00h (Sala 2. DIÁ
  aparezcan como agotadas en web\, pueden adquirirse en taquilla entradas pa
  ra las sesiones del día (de 17h a 20h)\n\nhttps://entradasfilmoteca.sacat
  uentrada.es/es/productos/descripcion/granny-project
-LOCATION:Filmoteca Espanola - Cine Dore Sala 2 - Calle de Santa Isabel\, 3
- \, Madrid
+LOCATION:Filmoteca Espanola - Cine Dore - Calle de Santa Isabel\, 3\, Madr
+ id
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lo que queda de ti
@@ -478,7 +436,48 @@ DESCRIPTION:Fecha y Hora: Viernes 16 de octubre a las 19:30h (Sala 1. DÍA
  pueden adquirirse en taquilla entradas para las sesiones del día (de 17h 
  a 20h)\n\nRelease year: 2025\n\nOriginal language: ES\n\nhttps://entradasf
  ilmoteca.sacatuentrada.es/es/productos/descripcion/lo-que-queda-de-ti-4
-LOCATION:Filmoteca Espanola - Cine Dore Sala 1 - Calle de Santa Isabel\, 3
- \, Madrid
+LOCATION:Filmoteca Espanola - Cine Dore - Calle de Santa Isabel\, 3\, Madr
+ id
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:En el estanque dorado
+DTSTART;TZID=Europe/Madrid:20261017T173000
+UID:6f8d5573bc6bfa4dd0f4c2de8d5a24fc523eeb51cda1b4b30c082cafcaeb41a3
+CATEGORIES:cinema
+DESCRIPTION:Fecha y Hora: Sábado 17 de octubre a las 17:30h (Sala 1. FILM
+ OTECA JR.) *Aunque las entradas aparezcan como agotadas en web\, pueden ad
+ quirirse en taquilla entradas para las sesiones del día (de 17h a 20h)\n
+ \nOriginal title: On Golden Pond\n\nRelease year: 1981\n\nOriginal languag
+ e: EN\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/productos/descripci
+ on/en-el-estanque-dorado
+LOCATION:Filmoteca Espanola - Cine Dore - Calle de Santa Isabel\, 3\, Madr
+ id
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cuando cae el otoño
+DTSTART;TZID=Europe/Madrid:20261017T190000
+UID:6dd15e268702ae5def4cb82db3c4f85279396eb080a09f7e7041e39fecb326b3
+CATEGORIES:cinema
+DESCRIPTION:Fecha y Hora: Sábado 17 de octubre a las 19:00h (Sala 2. DIÁ
+ LOGOS INTERGENERACIONALES. ENVEJECER EN LA PANTALLA) *Aunque las entradas 
+ aparezcan como agotadas en web\, pueden adquirirse en taquilla entradas pa
+ ra las sesiones del día (de 17h a 20h)\n\nOriginal title: Quand vient l'a
+ utomne\n\nRelease year: 2024\n\nOriginal language: FR\n\nhttps://entradasf
+ ilmoteca.sacatuentrada.es/es/productos/descripcion/cuando-cae-el-otoño-16
+LOCATION:Filmoteca Espanola - Cine Dore - Calle de Santa Isabel\, 3\, Madr
+ id
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Las señoritas de Wilko
+DTSTART;TZID=Europe/Madrid:20261017T200000
+UID:6014b27ff59512b8be6eda65cf3faa002b08460fcce8cc8f70c1cb18b2f79c05
+CATEGORIES:cinema
+DESCRIPTION:Fecha y Hora: Sábado 17 de octubre a las 20:00h (Sala 1. ANDR
+ ZEJ WAJDA: ENTRE EL MITO Y LA HISTORIA) *Aunque las entradas aparezcan com
+ o agotadas en web\, pueden adquirirse en taquilla entradas para las sesion
+ es del día (de 17h a 20h)\n\nhttps://entradasfilmoteca.sacatuentrada.es/e
+ s/productos/descripcion/las-señoritas-de-wilko
+LOCATION:Filmoteca Espanola - Cine Dore - Calle de Santa Isabel\, 3\, Madr
+ id
 END:VEVENT
 END:VCALENDAR
