@@ -2,19 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Delicias//ES
 BEGIN:VEVENT
-SUMMARY:Mercadillo de Minerales de la Escuela de Minas
-DTSTART;TZID=Europe/Madrid:20261004T100000
-DTEND;TZID=Europe/Madrid:20261004T140000
-UID:4926a2a816292be0dc349bf3702f3d5271086055c33b5e7f24718adda8998f55
-CATEGORIES:market
-DESCRIPTION:Mercadillo de minerales\, fosiles\, gemas y conchas en la Escu
- ela Superior de Ingenieros de Minas (primer domingo de cada mes\, excepto 
- agosto).\n\nhttps://www.esmadrid.com/agenda/mercadillo-minerales-madrid-es
- cuela-superior-ingenieros-minas
-LOCATION:Escuela Superior de Ingenieros de Minas - Calle Rios Rosas\, 21\,
-  Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Mercado Productores Alcobendas
 DTSTART;TZID=Europe/Madrid:20261011T100000
 DTEND;TZID=Europe/Madrid:20261011T160000
@@ -36,5 +23,27 @@ DESCRIPTION:Mercado del Barrio de las Letras con puestos de artesanía\, d
  iseño\, moda y gastronomía en la calle Huertas.\n\nhttps://barrioletras.
  com/mercado-de-las-ranas/
 LOCATION:Barrio de las Letras - Calle de las Huertas\, 2-47\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mercado Productores Planetario
+DTSTART;TZID=Europe/Madrid:20261018T100000
+DTEND;TZID=Europe/Madrid:20261018T160000
+UID:bf00c1d183bded1ddfeef22bfa3ca7f010117d27fe139fe5e8a31c97279c92dc
+CATEGORIES:market
+DESCRIPTION:Mercado de productores locales y artesanos en Planetario con a
+ limentacion sostenible\, productos de cercania y actividades al aire libre
+ .\n\nhttps://mercadoproductores.es/mp-planetario/
+LOCATION:Mercado Productores Planetario - Avenida del Planetario esquina C
+ alle Meneses\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Feria de Artesanía de Recoletos
+DTSTART;TZID=Europe/Madrid:20261019T110000
+DTEND;TZID=Europe/Madrid:20261102T210000
+UID:89aad1a09820c7cd94f2921665797f61430c60f4b1630f03bba3025dbb4de763
+CATEGORIES:market
+DESCRIPTION:Feria de artesanía organizada por AMOA en el Paseo de Recolet
+ os con puestos de oficios artesanos y diseño.\n\nhttps://amoa.es/
+LOCATION:Paseo de Recoletos - Paseo de Recoletos\, Madrid
 END:VEVENT
 END:VCALENDAR
