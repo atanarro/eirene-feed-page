@@ -940,6 +940,18 @@ DESCRIPTION:La obra de la artista marroquí-francesa invita a conocer la l
 LOCATION:La Casa Encendida - de Valencia\, 2\, Madrid\, 28012
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Continentes como semillas
+DTSTART;TZID=Europe/Madrid:20260910T000000
+DTEND;TZID=Europe/Madrid:20270110T000000
+UID:b833cf88c3f8dc1b62632395fc960747fd088ee357cc35ad26b7450f398acdf7
+CATEGORIES:exhibition
+DESCRIPTION:La Chola Poblete\, Niño de Elche y Pedro G. Romero exploran c
+ ómo las historias coloniales siguen resonando en los cuerpos\, los objeto
+ s y la cultura contemporánea (La Casa Encendida.\n\nhttps://www.lacasaen
+ cendida.es/exposiciones/continentes-como-semillas
+LOCATION:La Casa Encendida - de Valencia\, 2\, Madrid\, 28012
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Loitsuja – Conjuros
 DTSTART;TZID=Europe/Madrid:20260910T000000
 DTEND;TZID=Europe/Madrid:20261022T000000
@@ -1071,8 +1083,8 @@ UID:bb65632b6c28a9a36fb45d04ecca683e715319c38094f3a1e04f969079327de2
 CATEGORIES:exhibition
 DESCRIPTION:Iberdrola celebra su 125 aniversario con una exposición dedic
  ada a la evolución tecnológica y el futuro de la electricidad (Galería 
- de Cristal - Palacio de Cibeles. 22 sept a 20 oct).\n\nhttps://www.125.ibe
- rdrola.com
+ de Cristal - Palacio de Cibeles. Hasta 20 oct).\n\nhttps://www.125.iberdro
+ la.com
 LOCATION:Galería de Cristal (Palacio de Cibeles) - de Montalbán\, 1\, Ma
  drid\, 28014
 END:VEVENT
@@ -1133,8 +1145,8 @@ DTEND;TZID=Europe/Madrid:20270110T000000
 UID:3801ad7264c8a66c983b7c580bfb0bc8ae325b094a712641fd7725448530f4f8
 CATEGORIES:exhibition
 DESCRIPTION:Un recorrido por una amplia selección de obras de varias arti
- stas prerrafaelistas (Fundación MAPFRE. Sala Recoletos. 24 sept a 10 ene)
- .\n\nhttps://www.fundacionmapfre.org/arte-y-cultura/exposiciones/
+ stas prerrafaelistas (Fundación MAPFRE. Sala Recoletos. Hasta 10 ene).\n
+ \nhttps://www.fundacionmapfre.org/arte-y-cultura/exposiciones/
 LOCATION:Fundación MAPFRE. Sala Recoletos - de Recoletos\, 23\, Madrid\, 
  28004
 END:VEVENT
@@ -1186,8 +1198,8 @@ UID:3575a675809e5fd3a804bc5bcb97e802cd59d5fd82030927da65d7443fe72a57
 CATEGORIES:exhibition
 DESCRIPTION:Revive el espíritu del Museo Dinámico a través de 56 obras 
  provenientes de la Colección Isabel y Agustín Coppel (Fundación Casa de
-  México en España. 29 sept a 24 ene).\n\nhttps://www.casademexico.es/exp
- osicion/fue-de-dia-fue-de-tarde-fue-fantastico/
+  México en España. Hasta 24 ene).\n\nhttps://www.casademexico.es/exposic
+ ion/fue-de-dia-fue-de-tarde-fue-fantastico/
 LOCATION:Fundación Casa de México en España - de Alberto Aguilera\, 20
  \, Madrid\, 28015
 END:VEVENT
@@ -1252,16 +1264,16 @@ UID:0e54009633ba30e60a82511886c47b024027954b4db6bd3fd065e4258885f665
 CATEGORIES:exhibition
 DESCRIPTION:Exposición fotográfica de la artista visual vietnamita inspi
  rada en el popular jardín vertical del Caixaforum de Madrid (Real Socieda
- d Fotográfica. 30 sept a 24 oct).\n\nhttps://rsf.es/exposiciones-real-soc
- iedad-fotografica/wall-of-nature-viet-ha-tran/
+ d Fotográfica. Hasta 24 oct).\n\nhttps://rsf.es/exposiciones-real-socieda
+ d-fotografica/wall-of-nature-viet-ha-tran/
 LOCATION:Real Sociedad Fotográfica - de los Tres Peces\, 2\, Madrid\, 280
  12
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Cayetana: Grandee of Spain
+SUMMARY:Cayetana. Grande de España
 DTSTART;TZID=Europe/Madrid:20261001T000000
 DTEND;TZID=Europe/Madrid:20270131T000000
-UID:c5cc6e6e8877b05316f71c63fe4bc2ceb27c4a3a26026f5e2b38ae3598d2a21c
+UID:b777c6546b833b8ec6016cfeec1f156210203b883239861e91b1445c2d119f22
 CATEGORIES:exhibition
 DESCRIPTION:Exposición dedicada a la XVIII duquesa de Alba destacando su
   extraordinaria contribución a la conservación del inmenso legado histó
@@ -1278,8 +1290,8 @@ UID:935e4008360c2d06c31c5d8804acc7b39b7a718daa129e00ef4e376aac27d7ea
 CATEGORIES:exhibition
 DESCRIPTION:La artista italiana Clelia Muchetti expone una selección de s
  us pinturas\, definidas como "ventanas a los sueños". (Instituto Italiano
-  de Cultura. 1 - 10 octubre).\n\nhttps://iicmadrid.esteri.it/es/gli_eventi
- /calendario/exposicion-il-colore-dei-miei-sogni-de-clelia-muchetti/
+  de Cultura. Hasta 10 octubre).\n\nhttps://iicmadrid.esteri.it/es/gli_even
+ ti/calendario/exposicion-il-colore-dei-miei-sogni-de-clelia-muchetti/
 LOCATION:Madrid - Mayor\, 86\, Madrid\, 28013
 END:VEVENT
 BEGIN:VEVENT
@@ -1295,19 +1307,6 @@ DESCRIPTION:William Gaber habla de los límites\, la pertenencia y las for
  gnextoid=76d13477341aa910VgnVCM100000891ecb1aRCRD&vgnextchannel=ca9671ee4a
  9eb410VgnVCM100000171f5a0aRCRD
 LOCATION:Centro Cultural Casa de Vacas - de Colombia\, 1\, Madrid\, 28009
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:"Pinceladas solidarias por la salud mental"
-DTSTART;TZID=Europe/Madrid:20261005T110000
-DTEND;TZID=Europe/Madrid:20261007T203000
-UID:ff441a7c15c19ca83adc34058e0c9dda9bd102df44794c72879fb814454f8e0b
-CATEGORIES:exhibition
-DESCRIPTION:Exposición. Comisaria Mayte Pedraza. Sala Laffón. Del 5 al 7
-  de octubre\, inauguración 5 a las 19:00 h. Horario 11:00 a 13:00 h. / 18
- :00 a 20:30 h.\nEvento organizado por la Asociación la Barandilla\, la vo
- z de la diversidad.\n\nhttps://ateneodemadrid.com/evento/pinceladas-solida
- rias-por-la-salud-mental/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Seba Calfuqueo. Cautín
@@ -1329,9 +1328,10 @@ DTEND;TZID=Europe/Madrid:20270718T000000
 UID:1cbb5853e174c4216457042e069ae65bf8fcbef125c391b350b251202092ac18
 CATEGORIES:exhibition
 DESCRIPTION:Selección de más de ochenta piezas textiles datadas entre el
-  siglo XV y la actualidad pertenecientes a las colecciones Masaveu (Funda
- ción María Cristina Masaveu Peterson.\n\nhttps://www.esmadrid.com/agenda
- /colecciones-masaveu-arte-textil-fundacion-maria-cristina-masaveu-peterson
+  siglo XV y la actualidad pertenecientes a las colecciones Masaveu (Fundac
+ ión María Cristina Masaveu Peterson. 7 oct a 18 jul).\n\nhttps://www.esm
+ adrid.com/agenda/colecciones-masaveu-arte-textil-fundacion-maria-cristina-
+ masaveu-peterson
 LOCATION:Fundación María Cristina Masaveu Peterson - de Alcalá Galiano
  \, 6\, Madrid\, 28071
 END:VEVENT
@@ -1354,8 +1354,8 @@ UID:09ee456d56237708969ee57bc99f12e8a6e8e88a90b771d0474c51ec3b0cc604
 CATEGORIES:exhibition
 DESCRIPTION:Exposición que reúne las dos series completas que Gustave Do
  ré y Robert Rauschenberg dedicaron al Infierno de Dante (Fundación Canal
- . Sala Mateo Inurria 2. 7 oct a 5 ene 2027).\n\nhttps://www.fundacioncanal
- .com/exposiciones/el-infierno-de-dante-dore-y-rauschenberg/
+ . Sala Mateo Inurria 2. 7 oct a 5 ene).\n\nhttps://www.fundacioncanal.com/
+ exposiciones/el-infierno-de-dante-dore-y-rauschenberg/
 LOCATION:Fundación Canal. Sala Mateo Inurria - de Mateo Inurria\, 2\, Mad
  rid\, 28036
 END:VEVENT
@@ -1367,7 +1367,7 @@ UID:8fa6ad0549842f85c79094cea1d4287e81856f00d4e49c2fc313e0295b2f1c45
 CATEGORIES:exhibition
 DESCRIPTION:Exposición de piezas destacadas del informalismo español\, p
  ertenecientes a las colecciones Masaveu (Fundación María Cristina Masave
- u Peterson. 7 oct - 29 nov).\n\nhttps://www.fundacioncristinamasaveu.com/p
+ u Peterson. 7 oct a 29 nov).\n\nhttps://www.fundacioncristinamasaveu.com/p
  ortfolio/obras-invitadas-millares-rivera-solano/
 LOCATION:Fundación María Cristina Masaveu Peterson - de Alcalá Galiano
  \, 6\, Madrid\, 28071
@@ -1404,8 +1404,8 @@ UID:0b1f53ac1f42d2f53e29f417f3edfebb953480b0b43545462a505528bcc3df2e
 CATEGORIES:exhibition
 DESCRIPTION:Un recorrido no lineal por la obra del artista que incluye cic
  los de trabajos desde mediados de la década de 1960 hasta obras de 2025 (
- CentroCentro. 8 oct a 24 ene 2027).\n\nhttps://www.centrocentro.org/exposi
- cion/cruz-novillo
+ CentroCentro. 8 oct a 24 ene).\n\nhttps://www.centrocentro.org/exposicion/
+ cruz-novillo
 LOCATION:CentroCentro - de Cibeles\, 1\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
@@ -1416,8 +1416,8 @@ UID:a090fe93ea410e8f5ddfcdd521e5f92bca3bb161814697626ca6fb9c5ec31e5e
 CATEGORIES:exhibition
 DESCRIPTION:Un recorrido por el papel de Madrid como gran centro del teatr
  o barroco español (Biblioteca Regional de la Comunidad de Madrid Joaquín
-  Leguina. 9 oct a 10 ene 2027).\n\nhttps://www.comunidad.madrid/actividade
- s/2026/exposicion-madrid-teatro-espanol-siglo-oro
+  Leguina. 9 oct a 10 ene).\n\nhttps://www.comunidad.madrid/actividades/202
+ 6/exposicion-madrid-teatro-espanol-siglo-oro
 LOCATION:Biblioteca Regional de la Comunidad de Madrid Joaquín Leguina - 
  de Ramírez de Prado\, 3\, Madrid\, 28045
 END:VEVENT
@@ -1430,8 +1430,8 @@ UID:7a17edd15f7cdb595d3ca1382b5177b1dfdc33c123916fce8192d1884aff939e
 CATEGORIES:exhibition
 DESCRIPTION:Los dos museos intercambian de forma simultánea veinticinco o
  bras destacadas de sus colecciones permanentes (Museo Nacional Thyssen-Bor
- nemisza. 9 oct a 10 ene 2027).\n\nhttps://www.museothyssen.org/exposicione
- s/thyssen-bornemisza-mauritshuis
+ nemisza. 9 oct a 10 ene).\n\nhttps://www.museothyssen.org/exposiciones/thy
+ ssen-bornemisza-mauritshuis
 LOCATION:Museo Nacional Thyssen-Bornemisza - del Prado\, 8\, Madrid\, 2801
  4
 END:VEVENT
@@ -1441,23 +1441,11 @@ DTSTART;TZID=Europe/Madrid:20261009T090000
 DTEND;TZID=Europe/Madrid:20261009T090000
 UID:f29aac20d92784ed59e51f5b4b151f1a46519f0bc1a9dc43faa3003885d526a0
 CATEGORIES:exhibition
-DESCRIPTION:Exposición y presentación del libro. \n \nSección de Artes 
- plásticas\nExposición: Sala Carmen Laffón 09.00h.\nConferencia: Sala P
- érez Galdós 19:00h.\nInterviene: Juanjo Kluivert –  autor.\n\nhttps:/
- /ateneodemadrid.com/evento/libro-que-nunca-quise-escribir/
+DESCRIPTION:Exposición: Sala Carmen Laffón 11.00.\nPresentación del lib
+ ro: Sala Pérez Galdós 20:00. \n \nSección de Artes plásticas\nIntervie
+ ne: Juanjo Kluivert –  autor.\n\nhttps://ateneodemadrid.com/evento/libr
+ o-que-nunca-quise-escribir/
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Continentes como semillas
-DTSTART;TZID=Europe/Madrid:20261010T000000
-DTEND;TZID=Europe/Madrid:20270110T000000
-UID:8b0da71723d289db27fc37ec4f5a80289ca40568b2bac62183f8c01bb288311c
-CATEGORIES:exhibition
-DESCRIPTION:La Chola Poblete\, Niño de Elche y Pedro G. Romero exploran c
- ómo las historias coloniales siguen resonando en los cuerpos\, los objeto
- s y la cultura contemporánea (La Casa Encendida.\n\nhttps://www.lacasaen
- cendida.es/exposiciones/continentes-como-semillas
-LOCATION:La Casa Encendida - de Valencia\, 2\, Madrid\, 28012
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ricardo de Madrazo (1852-1917): dibujos y acuarelas
@@ -1525,5 +1513,18 @@ DESCRIPTION:Una exposición que pretende arrojar nueva luz a la heterogén
  reudiano-dali
 LOCATION:Museo Nacional Thyssen-Bornemisza - del Prado\, 8\, Madrid\, 2801
  4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manual de un distraído. Chema Madoz (PHotoESPAÑA 2026)
+DTSTART;TZID=Europe/Madrid:20261021T000000
+DTEND;TZID=Europe/Madrid:20270117T000000
+UID:580112aab641cd91005f44b8c1b6e0a569e1ac0a1dd8d853d073aa1942ceb8b5
+CATEGORIES:exhibition
+DESCRIPTION:Exposición que reúne 94 fotografías realizadas entre 2015 y
+  2025\, un período especialmente significativo dentro de la trayectoria d
+ el artista (Sala Canal de Isabel II de la Comunidad de Madrid.\n\nhttps://
+ phe.es/exposicion/manual-de-un-distraido/
+LOCATION:Sala Canal de Isabel II de la Comunidad de Madrid - de Santa Engr
+ acia\, 125\, Madrid\, 28003
 END:VEVENT
 END:VCALENDAR

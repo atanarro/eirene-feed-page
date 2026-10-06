@@ -14,14 +14,6 @@ DESCRIPTION:El actor y músico Coque Malla lidera esta versión contempor
 LOCATION:Teatro Infanta Isabel - Calle del Barquillo\, 24\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:La gran cacería
-DTSTART;TZID=Europe/Madrid:20261005T193000
-UID:b5864f08121d4ed60703bb7eea03062b51257ff3cad9f3df611d6f878edfb651
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/la-gran-caceria/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Verborrea
 DTSTART;TZID=Europe/Madrid:20261006T000000
 DTEND;TZID=Europe/Madrid:20261101T235900
@@ -54,8 +46,8 @@ SUMMARY:Proyección del documental “Jornaleros. El mal patrón.”
 DTSTART;TZID=Europe/Madrid:20261006T190000
 UID:a59ae363ad93f6d48ec35008d69ab5ce7372a6cbab66cc5eb7e4976a33348355
 CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/proyeccion-del-docum
- ental-jornaleros-el-mal-patron/
+DESCRIPTION:¡Ya solo quedan 13 plazas!\n\nhttps://teatrodelbarrio.com/pro
+ yeccion-del-documental-jornaleros-el-mal-patron/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -597,8 +589,17 @@ SUMMARY:La mujer fascista
 DTSTART;TZID=Europe/Madrid:20261019T193000
 UID:229d048dd747d798e6801afb020550c3977a44be29e9c143d59cce775b7da524
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 14 plazas!\n\nhttps://teatrodelbarrio.com/la-
+DESCRIPTION:¡Ya solo quedan 13 plazas!\n\nhttps://teatrodelbarrio.com/la-
  mujer-fascista/
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chistes contra Franco
+DTSTART;TZID=Europe/Madrid:20261020T213000
+UID:3a53dfc631997e28bd4acc26706101477db0daf9515bf345ee55fa7e67589dfa
+CATEGORIES:theater
+DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/chistes-contra-franc
+ o/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 END:VCALENDAR
