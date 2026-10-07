@@ -2,32 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Delicias//ES
 BEGIN:VEVENT
-SUMMARY:El inquilino
-DTSTART;TZID=Europe/Madrid:20261006T173000
-UID:f4ca0ea5cc4384721a717a19649c32bbdceca6735f48ba3d47b9268d058d0192
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Martes 6 de octubre a las 17:30h (Sala 1. DÍA D
- EL CINE ESPAÑOL) *Aunque las entradas aparezcan como agotadas en web\, pu
- eden adquirirse en taquilla entradas para las sesiones del día (de 17h a 
- 20h)\n\nRelease year: 2021\n\nOriginal language: ES\n\nhttps://entradasfil
- moteca.sacatuentrada.es/es/productos/descripcion/el-inquilino
-LOCATION:Filmoteca Espanola - Cine Dore - Calle de Santa Isabel\, 3\, Madr
- id
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Angustia
-DTSTART;TZID=Europe/Madrid:20261006T200000
-UID:2b0a4341cae056beba4ad7271d7293a1d59f90710f3b819b33fc41d2ca5f24d1
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Martes 6 de octubre a las 20:00h (Sala 1. DÍA D
- EL CINE ESPAÑOL) *Aunque las entradas aparezcan como agotadas en web\, pu
- eden adquirirse en taquilla entradas para las sesiones del día (de 17h a 
- 20h)\n\nRelease year: 1987\n\nOriginal language: ES\n\nhttps://entradasfil
- moteca.sacatuentrada.es/es/productos/descripcion/angustia
-LOCATION:Filmoteca Espanola - Cine Dore - Calle de Santa Isabel\, 3\, Madr
- id
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Comrades: Almost a Love Story
 DTSTART;TZID=Europe/Madrid:20261007T173000
 UID:81c8497dc5bf3048673d8f4ab83f7266fbdbb95899cb5630f2be3db48e98d5af
@@ -463,6 +437,48 @@ DESCRIPTION:Fecha y Hora: Martes 20 de octubre a las 20:00h (Sala 1. KEISU
  como agotadas en web\, pueden adquirirse en taquilla entradas para las ses
  iones del día (de 17h a 20h)\n\nhttps://entradasfilmoteca.sacatuentrada.e
  s/es/productos/descripcion/fuefuki-river
+LOCATION:Filmoteca Espanola - Cine Dore - Calle de Santa Isabel\, 3\, Madr
+ id
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Farewell to Spring
+DTSTART;TZID=Europe/Madrid:20261021T173000
+UID:9a5c23bdd6dac356b90767c4781a5f303c030dfbfb1b544debf38bbcd37df12f
+CATEGORIES:cinema
+DESCRIPTION:Fecha y Hora: Miércoles 21 de octubre a las 17:30h (Sala 1. K
+ EISUKE KINOSHITA. LA EMOCIÓN DE LO COTIDIANO) *Aunque las entradas aparez
+ can como agotadas en web\, pueden adquirirse en taquilla entradas para las
+  sesiones del día (de 17h a 20h)\n\nOriginal title: 惜春鳥\n\nRelease 
+ year: 1959\n\nOriginal language: JA\n\nhttps://entradasfilmoteca.sacatuent
+ rada.es/es/productos/descripcion/farewell-to-spring
+LOCATION:Filmoteca Espanola - Cine Dore - Calle de Santa Isabel\, 3\, Madr
+ id
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El hombre de mármol
+DTSTART;TZID=Europe/Madrid:20261021T190000
+UID:81dda1fd848f30aaef038abd1e819f1b83ba51d61263f03a3bff942994dc105c
+CATEGORIES:cinema
+DESCRIPTION:Fecha y Hora: Miércoles 21 de octubre a las 19:00h (Sala 2. A
+ NDRZEJ WAJDA: ENTRE EL MITO Y LA HISTORIA) *Aunque las entradas aparezcan 
+ como agotadas en web\, pueden adquirirse en taquilla entradas para las ses
+ iones del día (de 17h a 20h)\n\nOriginal title: Człowiek z marmuru\n\nRe
+ lease year: 1977\n\nOriginal language: PL\n\nhttps://entradasfilmoteca.sac
+ atuentrada.es/es/productos/descripcion/el-hombre-de-marmol-21oct
+LOCATION:Filmoteca Espanola - Cine Dore - Calle de Santa Isabel\, 3\, Madr
+ id
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Torre Bela
+DTSTART;TZID=Europe/Madrid:20261021T200000
+UID:ad8320a7daab3950d146b25f42638c481372806ccdb407f340b28f5aaffd0873
+CATEGORIES:cinema
+DESCRIPTION:Fecha y Hora: Miércoles 21 de octubre a las 20:00h (Sala 1. F
+ UERA DEL RADAR. MES DEL ARCHIVO. CINEMATECA LISBOA) *Aunque las entradas a
+ parezcan como agotadas en web\, pueden adquirirse en taquilla entradas par
+ a las sesiones del día (de 17h a 20h)\n\nRelease year: 1977\n\nOriginal l
+ anguage: PT\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/productos/des
+ cripcion/torre-bela
 LOCATION:Filmoteca Espanola - Cine Dore - Calle de Santa Isabel\, 3\, Madr
  id
 END:VEVENT
