@@ -1,16 +1,16 @@
 Eirene feed debug
-Total events: 90
+Total events: 121
 
-[1] Exponencial. De analógicos a digitales
-  id: f5757770ba2619f835632f368e9ae1c25e8353ae577ea62f600b1f84611272c3
-  start: 2024-05-14T00:00:00+02:00
-  end: 2027-12-31T00:00:00+01:00
+[1] La Odisea. El viaje inmersivo
+  id: 2b0c761321971c54feddd57f9b063a8bcf6a2194285807efc4eef843a98f78d2
+  start: 2016-09-18T00:00:00+02:00
+  end: 2026-12-09T00:00:00+01:00
   category: exhibition
   source: esmadrid_exhibitions
-  location: Espacio Fundación Telefónica - de Fuencarral, 3, Madrid, 28004
-  coordinates: 40.420058, -3.702313
-  url: http://espacio.fundaciontelefonica.com/
-  description: Exposición permanente que explora el creciente impacto que ha tenido el desarrollo de las telecomunicaciones en todos los ámbitos de nuestras vidas (Espacio Fundación Telefónica.
+  location: MAD (Madrid Artes Digitales) Centro de Experiencias Inmersivas - de Legazpi, 8, Madrid, 28045
+  coordinates: 40.392398, -3.697762
+  url: https://madridartesdigitales.com/agenda/
+  description: Experiencia inmersiva que transporta a la antigua Grecia del periodo micénico para revivir, junto al héroe Odiseo, las pruebas y aventuras de su largo regreso a Ítaca (MAD.
 
 [2] Artemisa: la magia de la Luna
   id: aa86a883184c75988b42c9fc5aa9bbb73e59f4c3ad519f7d1014e3fecfd60bff
@@ -232,16 +232,16 @@ Total events: 90
   url: https://www.cultura.gob.es/museodeamerica/exposiciones/exposiciones-temporales/2026-bateas.html
   description: Un recorrido por las bateas lacadas novohispanas y su valor artístico e histórico (Museo de América. Hasta 18 oct).
 
-[22] Fernando Brambila, pintor de los Reales Sitios
-  id: f7c096a0fd657cac40a728013316ba1d3d658903f7e743a813ce5c92e1b7fdbd
-  start: 2026-05-28T00:00:00+02:00
-  end: 2026-10-12T00:00:00+02:00
+[22] Misterios de la materia. Ciencia del patrimonio en las colecciones del MAN
+  id: 262e1e772d9d58c0ac9685930dfa1d43246107cfb19898fe0672af4b13e3ffd2
+  start: 2026-05-27T00:00:00+02:00
+  end: 2026-10-25T00:00:00+02:00
   category: exhibition
   source: esmadrid_exhibitions
-  location: Galería de las Colecciones Reales - de Bailén, 8, Madrid, 28013
-  coordinates: 40.417899, -3.714238
-  url: https://www.galeriadelascoleccionesreales.es/exposicion/fernando-brambila-pintor-de-los-reales-sitios/a554032d-dab5-7f04-03b6-e3be0c0f0a41
-  description: Exposición que reúne por primera vez un amplio conjunto de obras del destacado pintor italiano especializado en paisajes (Galería de las Colecciones Reales. Hasta 12 oct).
+  location: Museo Arqueológico Nacional - de Serrano, 13, Madrid, 28001
+  coordinates: 40.423088, -3.688772
+  url: https://www.man.es/man/exposiciones/sala-exposiciones-temporales/20260527-misterios-materia.html
+  description: La ciencia y la tecnología revelan nuevos secretos de las colecciones arqueológicas del MAN (Museo Arqueológico Nacional. Hasta 25 oct).
 
 [23] Robert Frank y Los Americanos (PHotoESPAÑA 2026)
   id: b3296fa28127ee986c2dee308ab39faf21427ff4934e31b9f8b2962ac014250e
@@ -254,7 +254,18 @@ Total events: 90
   url: https://phe.es/exposicion/los-americanos/
   description: Muestra que reúne la serie completa de Los Americanos realizada durante el viaje que el fotógrafo emprendió por Estados Unidos (Espacio Fundación Telefónica. 29 may a 1 nov).
 
-[24] Europa ilustra
+[24] Vitrina 0. Fragmento de la titulatura real de Adijalamani
+  id: 3aa2d895e69b05153af4fbbf2652c09a02e0dc0831df5ed88ce1cec44518ae57
+  start: 2026-06-02T00:00:00+02:00
+  end: 2026-10-25T00:00:00+02:00
+  category: exhibition
+  source: esmadrid_exhibitions
+  location: Museo de San Isidro. Los Orígenes de Madrid - de San Andrés, 2, Madrid, 28005
+  coordinates: 40.412332, -3.710948
+  url: https://www.madrid.es/portales/munimadrid/es/Inicio/Cultura-ocio-y-deporte/Actividades-y-eventos/Vitrina-0-Fragmento-de-la-titulatura-real-de-Adijalamani/?vgnextfmt=default&vgnextoid=a45e3a908d26e910VgnVCM100000891ecb1aRCRD&vgnextchannel=6381f073808fe410V
+  description: Muestra de un fragmento de la titulatura real del rey de Meroe, sucesor del rey Arqamani, en el siglo II a.C. (Museo de San Isidro. 2 jun a 25 oct).
+
+[25] Europa ilustra
   id: 56ba5c21cc8a3c97140489ea95fd600abc0702ebd208e3969d904761118b701a
   start: 2026-06-03T00:00:00+02:00
   end: 2026-10-18T00:00:00+02:00
@@ -265,7 +276,7 @@ Total events: 90
   url: https://casalector.fundaciongsr.org/europa-ilustra-3/
   description: Once ilustradores e ilustradoras se dan cita para celebrar la diversidad cultural y creativa con motivo del Día de Europa (Casa del Lector - Matadero. Hasta 18 oct).
 
-[25] Somos Naturaleza
+[26] Somos Naturaleza
   id: 5ea4ca69949ad3e320d8eff4d26d7a52ea4300ae244e982d17d1c789b7ba1499
   start: 2026-06-03T00:00:00+02:00
   end: 2027-03-07T00:00:00+01:00
@@ -276,7 +287,7 @@ Total events: 90
   url: https://caixaforum.org/es/madrid/p/somos-naturaleza-madrid
   description: Experiencia audiovisual inmersiva que muestra la biodiversidad de forma innovadora (CaixaForum Madrid. Hasta 7 marzo 2027).
 
-[26] El deber de lo nuevo
+[27] El deber de lo nuevo
   id: 8ce3221077e0e7d0fdf74295714f1524b559dfc95cf1b6786b3b21756d9f16e4
   start: 2026-06-04T00:00:00+02:00
   end: 2027-01-17T00:00:00+01:00
@@ -287,7 +298,7 @@ Total events: 90
   url: https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Medios-de-comunicacion/Museo-de-Arte-Contemporaneo/?vgnextfmt=default&vgnextoid=d6b0744554b6b010VgnVCM100000d90ca8c0RCRD&vgnextchannel=1578e3d5d3e07010VgnVCM100000dc0ca8c0RCRD&idCapitulo=
   description: Diálogo entre una selección de obras de la Colección de Arte Afundación y los fondos del MAC (Museo de Arte Contemporáneo. Hasta 17 ene).
 
-[27] Nada espontáneo. Una mirada a los 90
+[28] Nada espontáneo. Una mirada a los 90
   id: ff8d1adf96ea90068b9796b350661fa045ccae886eb1fbbea545c534c8ef31df
   start: 2026-06-11T00:00:00+02:00
   end: 2026-12-31T00:00:00+01:00
@@ -297,17 +308,6 @@ Total events: 90
   coordinates: 40.392398, -3.697762
   url: https://www.mataderomadrid.org/programacion/nada-espontaneo-una-mirada-los-90
   description: Muestra del fotógrafo Jesús Ugalde que incluye retratos de grandes figuras de la música española como Alejandro Sanz o Andrés Calamaro (Matadero Madrid. Hasta finales diciembre).
-
-[28] Tejiendo la vida cortesana. Tejidos y bordados de las Colecciones Reales
-  id: 6d69765ed6973989567a810d3b51277ef6733d8dcf5e020bebeda5ae4161127e
-  start: 2026-06-11T00:00:00+02:00
-  end: 2026-10-12T00:00:00+02:00
-  category: exhibition
-  source: esmadrid_exhibitions
-  location: Galería de las Colecciones Reales - de Bailén, 8, Madrid, 28013
-  coordinates: 40.417899, -3.714238
-  url: https://www.galeriadelascoleccionesreales.es/exposicion/tejiendo-la-vida-cortesana-tejidos-y-bordados-de/9e11dfeb-df46-e40c-d305-4b10c87b3eab?utm_source=Newsletter+Patrimonio+Nacional&utm_campaign=Newsletter%20Externa%20260520&utm_medium=email
-  description: Conjunto de obras que permiten aproximarse a algunas de las más antiguas piezas textiles que conservan las Colecciones Reales (Galería de las Colecciones Reales. Hasta 12 oct).
 
 [29] Conducir por Palestina | التحرّك في فلسطين
   id: 9927ae338ae6d3de045edc16bb04e2e4e35b8c2d5539dbc81304deb98912ba9d
@@ -507,7 +507,18 @@ Total events: 90
   url: https://www.mncn.csic.es/es/visita-el-mncn/exposiciones/arte-plumario-naturaleza-identidad-y-poder
   description: Exposición sobre la evolución del uso de las plumas en diversas culturas (Museo Nacional de Ciencias Naturales. Hasta 17 ene).
 
-[47] Pedro Moreno. Pro domo sua. Arte teatral y cinematográfico
+[47] 25 años del Museo de San Isidro. Los Orígenes de Madrid
+  id: ef2706a314dec876ecc7804bcce3cb5e83052510c38227ee9831b120017080b8
+  start: 2026-07-21T00:00:00+02:00
+  end: 2027-01-31T00:00:00+01:00
+  category: exhibition
+  source: esmadrid_exhibitions
+  location: Museo de San Isidro. Los Orígenes de Madrid - de San Andrés, 2, Madrid, 28005
+  coordinates: 40.412332, -3.710948
+  url: https://www.madrid.es/portales/munimadrid/es/Inicio/Cultura-ocio-y-deporte/25-anos-del-Museo-de-San-Isidro-Los-Origenes-de-Madrid/?vgnextfmt=default&vgnextoid=39b35c3f9fe7f910VgnVCM200000f921e388RCRD&vgnextchannel=7911f073808fe410VgnVCM2000000c205a0aRCRD&
+  description: Recorrido por la historia del museo madrileño a través de una selección de piezas expuestas en sus salas (Museo de San Isidro. Hasta 31 enero).
+
+[48] Pedro Moreno. Pro domo sua. Arte teatral y cinematográfico
   id: 7d4819f8e762847ca75398d6a7cfbbf4f541624ad91f4d292b112b25cd8b83a7
   start: 2026-07-23T00:00:00+02:00
   end: 2027-01-10T00:00:00+01:00
@@ -518,7 +529,7 @@ Total events: 90
   url: https://www.bne.es/es/agenda/pedro-moreno-pro-domo-sua-arte-teatral-cinematografico
   description: Una amplia retrospectiva dedicada a uno de los grandes creadores del diseño escénico español (Biblioteca Nacional. Hasta 10 ene).
 
-[48] Vitrina de Antropología (In)Visible. Cotidiano o extraordinario. Dos formas de mirar
+[49] Vitrina de Antropología (In)Visible. Cotidiano o extraordinario. Dos formas de mirar
   id: 7526ea5d4857372419417c6d0f2942e9448d721c66064871cd10df1385a14c02
   start: 2026-07-28T00:00:00+02:00
   end: 2026-12-31T00:00:00+01:00
@@ -529,7 +540,7 @@ Total events: 90
   url: https://www.cultura.gob.es/mnantropologia/actividades/agenda/2026/antro-invisible2026/cotidiano-extraordinario.html
   description: Pequeña exposición de objetos que forma parte de la colección del museo (Museo Nacional de Antropología. Desde 28 julio).
 
-[49] El mundo de Van Gogh
+[50] El mundo de Van Gogh
   id: 7138d28c99ddaabf235c72a80537a112e7e69471320bce4151cfe7aacab0f3aa
   start: 2026-07-29T00:00:00+02:00
   end: 2026-10-30T00:00:00+01:00
@@ -540,7 +551,7 @@ Total events: 90
   url: https://www.nomadmuseo.es/van-gogh/
   description: Una experiencia sensorial única en la que disfrutar de las obras del pintor a gran escala y en movimiento (Nomad Museo Inmersivo. Miércoles, viernes y domingos).
 
-[50] El Greco, Velázquez, Goya: La Triada Inmortal
+[51] El Greco, Velázquez, Goya: La Triada Inmortal
   id: a415492c16f59890bf3f5800936e51e3d395b9bea401a2884e0192bbfebf0b9c
   start: 2026-07-30T00:00:00+02:00
   end: 2026-10-31T00:00:00+01:00
@@ -551,7 +562,18 @@ Total events: 90
   url: https://www.nomadmuseo.es/
   description: Inmersión profunda en el alma de España a través de sus tres pintores más icónicos que redefinieron la trayectoria de la pintura occidental (Nomad Museo Inmersivo.
 
-[51] José Manuel Ballester (PHotoESPAÑA 2026)
+[52] Biblioteca Habsbúrgica. Semblanzas impresas de una dinastía
+  id: c3f46f23b2231e4f264f1464a140aa0fd2654337808843593cf1dd56b962c4de
+  start: 2026-09-01T00:00:00+02:00
+  end: 2026-11-16T00:00:00+01:00
+  category: exhibition
+  source: esmadrid_exhibitions
+  location: Biblioteca Histórica UCM Marqués de Valdecilla - del Noviciado, 3, Madrid, 28015
+  coordinates: 40.425465, -3.707898
+  url: https://biblioteca.ucm.es/historica/biblioteca-habsburgica-semblanzas-impresas
+  description: La exposición recorre la imagen impresa de la dinastía Habsburgo a través de más de cien obras históricas (Biblioteca Histórica UCM Marqués de Valdecilla. Hasta 16 noviembre).
+
+[53] José Manuel Ballester (PHotoESPAÑA 2026)
   id: 417a95cbf7a5b96deef1719b66594bff2f614dd204fd36607403692944772ca6
   start: 2026-09-01T00:00:00+02:00
   end: 2026-12-31T00:00:00+01:00
@@ -562,7 +584,7 @@ Total events: 90
   url: https://phe.es/exposicion/jose-manuel-ballester/
   description: Épica y metamorfosis del nuevo Bernabéu bajo la mirada del artista, Premio Nacional de Fotografía (Estadio Bernabéu. Hasta 31 dic).
 
-[52] Los Moreno, fotógrafos de arte
+[54] Los Moreno, fotógrafos de arte
   id: 1c0703056e2c21840c2c940d2811adfe12e042eaaa52b433336dcf9be3af54d9
   start: 2026-09-01T00:00:00+02:00
   end: 2026-11-22T00:00:00+01:00
@@ -573,7 +595,7 @@ Total events: 90
   url: https://www.realacademiabellasartessanfernando.com/actividades/exposiciones/los-moreno-fotografos-de-arte/
   description: Exposición formada por una selección de imágenes de los destacados fotógrafos madrileños (Real Academia de Bellas Artes de San Fernando. Hasta 22 noviembre).
 
-[53] Museo de Memorias Inconstantes
+[55] Museo de Memorias Inconstantes
   id: a6be3029cef14b35e43abe623ab3200a09d0d0e8ee51e56ef22a9d9770a44614
   start: 2026-09-03T00:00:00+02:00
   end: 2027-01-24T00:00:00+01:00
@@ -584,7 +606,7 @@ Total events: 90
   url: https://www.esmadrid.com/agenda/museo-memorias-inconstantes-casa-encendida
   description: A través de quince obras de la Colección Generaciones 2000-2024, la exposición parte de la idea de que recordar supone reescribir el pasado desde un punto de vista personal (La Casa Encendida.
 
-[54] Frida Kahlo: Experiencia Live Art y Muestra Gastronómica
+[56] Frida Kahlo: Experiencia Live Art y Muestra Gastronómica
   id: 5e284d1850dda3ec3bef6ae2c0eb753494ada00dad1f51672013e2a011fcdce7
   start: 2026-09-05T00:00:00+02:00
   end: 2026-12-31T00:00:00+01:00
@@ -595,7 +617,7 @@ Total events: 90
   url: https://fridawomanexperience.com/madrid/
   description: Una experiencia única en la que descubrir a la artista mexicana desde una perspectiva inédita y profunda (Paseo del Pintor Rosales, 30. Miér-dom).
 
-[55] Obras de paso. Retrato de Emilia Pardo Bazán
+[57] Obras de paso. Retrato de Emilia Pardo Bazán
   id: 7af8cf6f2b06a1980d110e9080cca4bdb6ac314334433812ec6d5906ccf05098
   start: 2026-09-08T00:00:00+02:00
   end: 2027-01-10T00:00:00+01:00
@@ -606,7 +628,7 @@ Total events: 90
   url: https://www.cultura.gob.es/mcerralbo/exposiciones/exposiciones/proximamente/obrasdepaso-emilia-pardo-bazan.html
   description: Muestra del retrato de la destacada escritora gallega, quien ejerció un importante papel como filántropa (Museo Cerralbo. 8 sept a 10 ene).
 
-[56] Rumores infundados. Javier y Rafa Forteza
+[58] Rumores infundados. Javier y Rafa Forteza
   id: ddf5b43d3caaa33f3766e9937c72f982ff5a7d5b154a10a1bd59db57a79d66fe
   start: 2026-09-08T00:00:00+02:00
   end: 2026-11-02T00:00:00+01:00
@@ -617,7 +639,7 @@ Total events: 90
   url: https://caixaforum.org/es/madrid/p/rumores-infundados-madrid
   description: Pinturas y esculturas que sumergen en un universo visual en el que lo reconocible se resiste y lo figurativo dialoga con la materia (CaixaForum Madrid. Hasta 2 noviembre).
 
-[57] Carlos Cartaxo. In-sítu
+[59] Carlos Cartaxo. In-sítu
   id: 89fbc12418cf40e6dba07b0ce739d60ff6ea6aca6841e173fda297097b000077
   start: 2026-09-09T00:00:00+02:00
   end: 2026-10-18T00:00:00+02:00
@@ -628,7 +650,7 @@ Total events: 90
   url: https://www.centrocentro.org/exposicion/carlos-cartaxo-situ
   description: Instalación site-specific en la que pintura, escultura y arquitectura se integran simultáneamente (CentroCentro. 9 sept a 18 oct).
 
-[58] Llegar con las olas
+[60] Llegar con las olas
   id: b00c9e1ea0fa5ac8f4ae904cdbd371387b4ba61e18c5723600e51356b00737b6
   start: 2026-09-09T00:00:00+02:00
   end: 2026-10-16T00:00:00+02:00
@@ -639,7 +661,18 @@ Total events: 90
   url: https://www.esmadrid.com/agenda/llegar-olas-instituto-cultural-mexico-espana
   description: La fotógrafa mexicana Theda Acha invita a adentrarse en el mundo con el que convivió durante diez años de su vida (Instituto Cultural de México en España. Hasta 16 octubre).
 
-[59] La muerte nuestra de cada día: una mirada contemporánea desde el heliograbado
+[61] Manolo Millares. Personaje caído I
+  id: 7c0a9d80837d8590ff780a788c514cb46891c0e4b609a43c00dac7327d03b53c
+  start: 2026-09-09T00:00:00+02:00
+  end: 2027-02-16T00:00:00+01:00
+  category: exhibition
+  source: esmadrid_exhibitions
+  location: Museo Reina Sofía - de Santa Isabel, 52, Madrid, 28012
+  coordinates: 40.408735, -3.694224
+  url: https://www.museoreinasofia.es/exposicion/manolo-millares
+  description: Muestra dedicada a uno de los principales representantes del informalismo y figura fundamental de la pintura española de la segunda mitad del siglo XX (Museo Reina Sofía. Hasta 16 febrero).
+
+[62] La muerte nuestra de cada día: una mirada contemporánea desde el heliograbado
   id: 945e24c178f5508093e9616c5515103172f779a000a9698cc0f37c5ff27ab438
   start: 2026-09-09T00:00:00+02:00
   end: 2026-11-15T00:00:00+01:00
@@ -650,7 +683,7 @@ Total events: 90
   url: https://www.casademexico.es/exposicion/la-muerte-nuestra-de-cada-dia-una-mirada-contemporanea-desde-el-heliograbado/
   description: Exposición colectiva de 19 artistas mexicanos de distintas generaciones y trayectorias que muestran sus obras en torno a la muerte (Fundación Casa de México en España. Hasta 15 noviembre).
 
-[60] Prácticas de re-existencia
+[63] Prácticas de re-existencia
   id: 1f6e82d00be44b6e24952960533fd46a5946de98686a43327e5754dfdce096b4
   start: 2026-09-09T00:00:00+02:00
   end: 2026-10-16T00:00:00+02:00
@@ -661,7 +694,7 @@ Total events: 90
   url: https://icm.sre.gob.mx/espana/index.php/artes-visuales/979-exposicion-practicas-de-re-existencia-colectiva
   description: La muestra se compone de una treintena de piezas en distintos formatos fotográficos, una pieza de video y otra de arte sonoro (Instituto Cultural de México en España. Hasta 16 octubre).
 
-[61] Entre la retícula y la vida
+[64] Entre la retícula y la vida
   id: 96373b6694337fe46b178b5d49a5ee3eb85a8a524754235537408058d8d039f0
   start: 2026-09-09T00:00:00+02:00
   end: 2026-11-15T00:00:00+01:00
@@ -672,7 +705,7 @@ Total events: 90
   url: https://www.museolazarogaldiano.es/actividades/apertura-madrid-gallery-weekend-2026-entre-la-reticula-y-la-vida
   description: Exposición al aire libre de esculturas como parte del programa de Apertura Madrid Gallery Weekend (Museo Lázaro Galdiano. Hasta 15 noviembre).
 
-[62] Botánica doméstica
+[65] Botánica doméstica
   id: 2535e91aa9d190175a52851a833c9b356583e08bef8a43134cc3d9f43abf8fe5
   start: 2026-09-10T00:00:00+02:00
   end: 2026-11-03T00:00:00+01:00
@@ -683,7 +716,7 @@ Total events: 90
   url: https://rjb.csic.es/evento/exposicion-botanica-domestica/
   description: Una selección de pinturas, dibujos e ilustraciones realizadas por el artista plástico Jorge Bayo a lo largo de su trayectoria (Real Jardín Botánico. Hasta 3 noviembre).
 
-[63] The Circle Project. Bouchra Khalili
+[66] The Circle Project. Bouchra Khalili
   id: 652af4df8f0aba5924c677d6ec1835141613baf8ad2b1fe3d87d91cc858d30cf
   start: 2026-09-10T00:00:00+02:00
   end: 2026-11-29T00:00:00+01:00
@@ -694,7 +727,18 @@ Total events: 90
   url: https://www.lacasaencendida.es/exposiciones/the-circle-project-bouchra-khalili
   description: La obra de la artista marroquí-francesa invita a conocer la lucha por sus derechos de los trabajadores magrebíes en Francia en la década de 1970 (La Casa Encendida. Hasta 29 nov).
 
-[64] Loitsuja – Conjuros
+[67] Continentes como semillas
+  id: b833cf88c3f8dc1b62632395fc960747fd088ee357cc35ad26b7450f398acdf7
+  start: 2026-09-10T00:00:00+02:00
+  end: 2027-01-10T00:00:00+01:00
+  category: exhibition
+  source: esmadrid_exhibitions
+  location: La Casa Encendida - de Valencia, 2, Madrid, 28012
+  coordinates: 40.405584, -3.699894
+  url: https://www.lacasaencendida.es/exposiciones/continentes-como-semillas
+  description: La Chola Poblete, Niño de Elche y Pedro G. Romero exploran cómo las historias coloniales siguen resonando en los cuerpos, los objetos y la cultura contemporánea (La Casa Encendida.
+
+[68] Loitsuja – Conjuros
   id: 7310096510e59772302ad2965e22ea305042f6af7a8e52efa1bb769d6ea5ddf6
   start: 2026-09-10T00:00:00+02:00
   end: 2026-10-22T00:00:00+02:00
@@ -705,7 +749,18 @@ Total events: 90
   url: https://madrid.fi/loitsuja-conjuros-arte-magia-y-naturaleza-para-celebrar-30-anos-creando-puentes-culturales/
   description: Exposición colectiva de cinco artistas, que explora los rituales vinculados a la naturaleza y a la vida cotidiana (Galería Instituto Iberoamericano de Finlandia. Hasta 22 oct).
 
-[65] Human Universe - The Experience
+[69] Bailad, bailad, malditos. Carlos Aires
+  id: 8d9e82dff7345510739edf74ab3cecd6098debddc88757a9b68979b8d264dd6f
+  start: 2026-09-11T00:00:00+02:00
+  end: 2027-01-24T00:00:00+01:00
+  category: exhibition
+  source: esmadrid_exhibitions
+  location: Nave 0 (Matadero) - de Legazpi , 8, Madrid, 28045
+  coordinates: 40.392398, -3.697762
+  url: https://www.mataderomadrid.org/programacion/exposicion-bailad-bailad-malditos-de-carlos-aires
+  description: El artista malagueño invita al público a experimentar emociones que transitan entre la euforia y el desasosiego (Nave 0. Matadero Madrid. Hasta 24 ene).
+
+[70] Human Universe - The Experience
   id: d651394ce628f91037bac5c20756dfc18ae7668c21402ce70f73828329453def
   start: 2026-09-11T00:00:00+02:00
   end: 2027-01-06T00:00:00+01:00
@@ -716,7 +771,7 @@ Total events: 90
   url: https://humanuniverse.com/
   description: Primera exposición inmersiva que viaja hasta el interior del cuerpo humano en una espectacular base futurista (Espacio Delicias. Miér-dom).
 
-[66] Centenario Lyceum Club Femenino
+[71] Centenario Lyceum Club Femenino
   id: b3942a75ed7d59e88eed785378059b6cb8a01a1622a3fe139228ee49c45332cd
   start: 2026-09-15T00:00:00+02:00
   end: 2027-01-22T00:00:00+01:00
@@ -727,7 +782,7 @@ Total events: 90
   url: https://ortegaygasset.edu/exposiciones/centenario-lyceum-club-femenino/
   description: Conmemora y reivindica el legado de cerca de 500 mujeres que, encabezadas por María de Maeztu en 1926, impulsaron la modernización social, cultural y política de España  (Fundación Ortega
 
-[67] Circuitos 2026
+[72] Circuitos 2026
   id: 2fd00e12c39c46e2b4ba2a975ac5604f84af1202b43273787aa2f0d4ea8d604e
   start: 2026-09-16T00:00:00+02:00
   end: 2026-11-08T00:00:00+01:00
@@ -738,7 +793,7 @@ Total events: 90
   url: https://www.comunidad.madrid/actividades/2026/exposicion-circuitos-2026
   description: Exposición colectiva formada por los trabajos de los diez ganadores de este certamen anual (Sala de Arte Joven de la Comunidad de Madrid. 16 sept a 8 nov).
 
-[68] Juegos de jardín
+[73] Juegos de jardín
   id: 3367aff4c0ed936787c6d74a698b9877eceda3ee052ace9a140302d2fcac9de8
   start: 2026-09-16T00:00:00+02:00
   end: 2027-01-10T00:00:00+01:00
@@ -749,7 +804,7 @@ Total events: 90
   url: https://rjb.csic.es/evento/exposicion-juegos-de-jardin/
   description: Exposición fotográfica de Sergio de Luz que propone un juego abierto entre lo que vemos y lo que imaginamos (Real Jardín Botánico. Hasta 10 enero 2027).
 
-[69] Ampparito: uːː ɡʊɾːuː uːː ɡʊɾːuː
+[74] Ampparito: uːː ɡʊɾːuː uːː ɡʊɾːuː
   id: 2ba2d90eb5059bdbbcd8950371975fbf8fe3e17a805bf7bedaee1a59f4e12604
   start: 2026-09-17T00:00:00+02:00
   end: 2026-11-21T00:00:00+01:00
@@ -760,7 +815,7 @@ Total events: 90
   url: https://www.bowmanhal.com/es/exhibitions/13-ampparito-u-u-u-u/
   description: Primera exposición individual del artista en este espacio donde muestra su trabajo como un «trampantojo conceptual» (SOLO CSV - Bowman Hal. Hasta 21 noviembre).
 
-[70] Bambú y Jardín: El Arte de Encontrarse
+[75] Bambú y Jardín: El Arte de Encontrarse
   id: 4a81514cb65d126870cb70ea17a7a21d8a6d84a55743dc1f8737c14df6cde7bf
   start: 2026-09-17T00:00:00+02:00
   end: 2026-11-07T00:00:00+01:00
@@ -771,7 +826,7 @@ Total events: 90
   url: http://ccchinamadrid.org/actividad/exposicion-bambu-y-jardin-el-arte-de-encontrarse/
   description: Obras de veinte artistas chinos en torno a dos imágenes fundamentales de la cultura china: el bambú y el jardín (Centro Cultural de China en Madrid. Hasta 7 noviembre).
 
-[71] Gicheok. Una Corriente Silenciosa. Lyu namgwon
+[76] Gicheok. Una Corriente Silenciosa. Lyu namgwon
   id: 6f12e20b6039301952317e6b6580b294e91dbf4207a366417966602d43aad74d
   start: 2026-09-17T00:00:00+02:00
   end: 2026-11-13T00:00:00+01:00
@@ -782,7 +837,7 @@ Total events: 90
   url: https://spain.korean-culture.org/es/1217/board/428/read/147030
   description: El artista coreano presenta tres nuevas obras en las que reinterpreta las técnicas tradicionales de lacado (Centro Cultural Coreano. Hasta 13 nov).
 
-[72] La Casera, 75 años
+[77] La Casera, 75 años
   id: f5d12ed311f5edb0bd724c3c4a248bf8197d488bb03583aa6070ad36b96eeb70
   start: 2026-09-18T00:00:00+02:00
   end: 2026-10-31T00:00:00+01:00
@@ -793,7 +848,29 @@ Total events: 90
   url: https://diario.madrid.es/blog/notas-de-prensa/el-ayuntamiento-rinde-homenaje-a-la-casera-fundada-por-felix-duffo-en-tetuan-en-1949/
   description: Exposición que recorre más de siete décadas de historia de la marca (Sala de Exposiciones Juana Francés. Hasta 31 octubre).
 
-[73] El legado que seremos: Origen
+[78] Un viaje electrizante: Una experiencia inmersiva Iberdrola
+  id: bb65632b6c28a9a36fb45d04ecca683e715319c38094f3a1e04f969079327de2
+  start: 2026-09-22T00:00:00+02:00
+  end: 2026-10-20T00:00:00+02:00
+  category: exhibition
+  source: esmadrid_exhibitions
+  location: Galería de Cristal (Palacio de Cibeles) - de Montalbán, 1, Madrid, 28014
+  coordinates: N/A
+  url: https://www.125.iberdrola.com
+  description: Iberdrola celebra su 125 aniversario con una exposición dedicada a la evolución tecnológica y el futuro de la electricidad (Galería de Cristal - Palacio de Cibeles. Hasta 20 oct).
+
+[79] Eli Cortiñas. La máquina sueña con humo
+  id: 66d1fce0520e55884f385e82b7467b08a30c9c522fb6042255e4ea78b1c81833
+  start: 2026-09-23T00:00:00+02:00
+  end: 2027-03-08T00:00:00+01:00
+  category: exhibition
+  source: esmadrid_exhibitions
+  location: Museo Reina Sofía - de Santa Isabel, 52, Madrid, 28012
+  coordinates: 40.408735, -3.694224
+  url: https://www.museoreinasofia.es/exposicion/eli-cortinas
+  description: La artista canaria reflexiona sobre la relación entre el cine, los museos y la cultura digital reciente y cómo se construyen los imaginarios y conocimientos actuales (Museo Reina Sofía - Edifi
+
+[80] El legado que seremos: Origen
   id: 885f6ba34621b9baaa48c8deda358101173645fdc54af96ff72aff70923eb403
   start: 2026-09-24T00:00:00+02:00
   end: 2027-01-07T00:00:00+01:00
@@ -804,7 +881,7 @@ Total events: 90
   url: https://leica-camera.com/es-ES/eventos/el-legado-que-seremos-origen
   description: Las fotografías de Álvaro Ybarra Zavala invitan a reflexionar sobre la transformación industrial que está experimentando España y Europa (Leica Gallery Madrid. 24 sept - 7 ene).
 
-[74] Minor White
+[81] Minor White
   id: 27b4b0141a24ff653918a416cd168186396acc32b6dffbb24598be40e7031dc4
   start: 2026-09-24T00:00:00+02:00
   end: 2027-01-10T00:00:00+01:00
@@ -815,7 +892,18 @@ Total events: 90
   url: https://www.fundacionmapfre.org/arte-y-cultura/exposiciones/
   description: Primera retrospectiva en Europa centrada en esta figura clave en la fotografía estadounidense del siglo XX (Fundación MAPFRE. Sala Recoletos. 24 sept a 10 ene).
 
-[75] Prerrafaelismo. Itinerarios femeninos, 1850-1914
+[82] La otra orilla de la vanguardia
+  id: 21838406a5a57ab315c92c734a57c300b769f258786be7b2a7e3e5dcc6b2799c
+  start: 2026-09-24T00:00:00+02:00
+  end: 2027-01-10T00:00:00+01:00
+  category: exhibition
+  source: esmadrid_exhibitions
+  location: Fundación MAPFRE. Sala Recoletos - de Recoletos, 23, Madrid, 28004
+  coordinates: 40.422962, -3.691117
+  url: https://www.fundacionmapfre.org/arte-y-cultura/exposiciones/
+  description: Muestra que analiza la relación entre el arte de vanguardia y las obras realizadas por pacientes psiquiátricos (Fundación MAPFRE. Sala Recoletos. Hasta 10 ene).
+
+[83] Prerrafaelismo. Itinerarios femeninos, 1850-1914
   id: 3801ad7264c8a66c983b7c580bfb0bc8ae325b094a712641fd7725448530f4f8
   start: 2026-09-24T00:00:00+02:00
   end: 2027-01-10T00:00:00+01:00
@@ -826,7 +914,7 @@ Total events: 90
   url: https://www.fundacionmapfre.org/arte-y-cultura/exposiciones/
   description: Un recorrido por una amplia selección de obras de varias artistas prerrafaelistas (Fundación MAPFRE. Sala Recoletos. Hasta 10 ene).
 
-[76] Destilando el Sabor de China: Cultura y Elaboración del Baijiu — Moutai
+[84] Destilando el Sabor de China: Cultura y Elaboración del Baijiu — Moutai
   id: 41c63bb7bb3d884a7b1bbb52b6f56ca94c60ef226dadea8083e1606e0303e353
   start: 2026-09-25T00:00:00+02:00
   end: 2026-10-24T00:00:00+02:00
@@ -837,7 +925,7 @@ Total events: 90
   url: https://ccchinamadrid.org/actividad/destilando-el-sabor-de-china-cultura-y-elaboracion-del-baijiu-moutai/
   description: Exposición que invita a conocer el proceso de creación del licor tradicional chino (Centro Cultural de China en Madrid. Hasta 24 octubre).
 
-[77] El último refugio
+[85] El último refugio
   id: e4dd6abd856af64e0d5dc882c8bce4240b914cb4840bfe4faea51211f58f7798
   start: 2026-09-25T00:00:00+02:00
   end: 2027-01-13T00:00:00+01:00
@@ -848,7 +936,117 @@ Total events: 90
   url: https://rjb.csic.es/evento/exposicion-el-ultimo-refugio/
   description: Recorrido por varias pinturas del artista peruano Héctor Acevedo en las que desvela su particular universo visual (Real Jardín Botánico. Hasta 13 enero).
 
-[78] Umbrales
+[86] El plano flexible
+  id: 0f1f06a8c1633ef58a84c072ceb251fa9c1c71cae9aa215a180f866881eeb63f
+  start: 2026-09-28T00:00:00+02:00
+  end: 2027-03-28T00:00:00+01:00
+  category: exhibition
+  source: esmadrid_exhibitions
+  location: Sala de Exposiciones del Banco de España - de Alcalá, 48, Madrid, 28012
+  coordinates: 40.4182, -3.6935
+  url: https://www.bde.es/wbe/es/noticias-eventos/actualidad-banco-espana/el-banco-de-espana-mostrara-en-septiembre-las-obras-textiles-de-su-coleccion-.html
+  description: Un recorrido por el arte textil entendido como un espacio de convergencia entre arte, arquitectura e industria (Sala de Exposiciones del Banco de España. Hasta 28 mar).
+
+[87] Fue de día, fue de tarde, fue fantástico
+  id: 3575a675809e5fd3a804bc5bcb97e802cd59d5fd82030927da65d7443fe72a57
+  start: 2026-09-29T00:00:00+02:00
+  end: 2027-01-24T00:00:00+01:00
+  category: exhibition
+  source: esmadrid_exhibitions
+  location: Fundación Casa de México en España - de Alberto Aguilera, 20, Madrid, 28015
+  coordinates: 40.427094, -3.687682
+  url: https://www.casademexico.es/exposicion/fue-de-dia-fue-de-tarde-fue-fantastico/
+  description: Revive el espíritu del Museo Dinámico a través de 56 obras provenientes de la Colección Isabel y Agustín Coppel (Fundación Casa de México en España. Hasta 24 ene).
+
+[88] Kenny Scharf
+  id: fb4086cbf38d9033d4fc7421eb51d1a21feb4742f9527a2badb777d708f20c75
+  start: 2026-09-29T00:00:00+02:00
+  end: 2027-01-17T00:00:00+01:00
+  category: exhibition
+  source: esmadrid_exhibitions
+  location: Museo Nacional Thyssen-Bornemisza - del Prado, 8, Madrid, 28014
+  coordinates: 40.416172, -3.694181
+  url: https://www.museothyssen.org/exposiciones/kenny-scharf
+  description: Una muestra dedicada al miembro destacado del movimiento artístico del East Village de Nueva York, pionero del arte urbano contemporáneo (Museo Nacional Thyssen-Bornemisza.
+
+[89] Madrid en el siglo de oro. Crisol de destinos y desembarco de genios
+  id: 10feb1bf05cdf3ec7f83624b81410b81773d7b8ab6c2201ede3508f4bab5f838
+  start: 2026-09-29T00:00:00+02:00
+  end: 2026-12-02T00:00:00+01:00
+  category: exhibition
+  source: esmadrid_exhibitions
+  location: Real Academia de Bellas Artes de San Fernando - de Alcalá, 13, Madrid, 28014
+  coordinates: 40.418613, -3.699348
+  url: https://www.realacademiabellasartessanfernando.com/actividades/exposiciones/madrid-en-el-siglo-de-oro-crisol-de-destinos-y-desembarco-de-genios/
+  description: Exposición que retrata el destacado papel de nuestra ciudad en la cultura, ciencia y política españolas durante los siglos XVI y XVII (Real Academia de Bellas Artes de San Fernando.
+
+[90] Vidas de Rafael Azcona
+  id: 74b30bb19a971aabe0dc9b157b61e3636f03bc4c06d1506d3f347672f3f9f955
+  start: 2026-09-29T00:00:00+02:00
+  end: 2026-10-30T00:00:00+01:00
+  category: exhibition
+  source: esmadrid_exhibitions
+  location: Palacio de Longoria - de Fernando VI, 4, Madrid, 28004
+  coordinates: N/A
+  url: https://www.sgae.es/noticia/sgae-homenajea-a-rafael-azcona//
+  description: Homenaje al destacado guionista en el centenario de su nacimiento, con una recopilación de documentos originales y la restauración de la película "El verdugo". (SGAE. Hasta 30 oct).
+
+[91] Evolución
+  id: bad87bc54dcf48492a1dbba2576917f962916f42ab75d7faffeaadecb97fc0b9
+  start: 2026-09-30T00:00:00+02:00
+  end: 2027-03-28T00:00:00+01:00
+  category: exhibition
+  source: esmadrid_exhibitions
+  location: Museo Nacional de Ciencias Naturales - de José Gutierrez Abascal, 2, Madrid, 28006
+  coordinates: 40.441118, -3.68973
+  url: https://www.mncn.csic.es/es/visita-el-mncn/exposiciones/evolucion
+  description: Exposición fotográfica que invita a conocer la historia fascinante de adaptación, cooperación y conflicto de las distintas especies (Museo Nacional de Ciencias Naturales. Hasta 28 marzo).
+
+[92] No acabarán mis flores. Las múltiples vidas de la flora mexicana
+  id: 2d4d88cc672331d386048887347c6b232351b04c3dc6f23a5bbff8c0d811127f
+  start: 2026-09-30T00:00:00+02:00
+  end: 2027-02-12T00:00:00+01:00
+  category: exhibition
+  source: esmadrid_exhibitions
+  location: Real Jardín Botánico - de Murillo, 2, Madrid, 28014
+  coordinates: 40.411364, -3.689303
+  url: https://rjb.csic.es/evento/exposicion-no-acabaran-mis-flores-las-multiples-vidas-de-la-flora-mexicana/
+  description: Exposición que explora las relaciones entre las flores y las sociedades humanas a través del tiempo (Pabellón Villanueva. Ala norte. 30 sep a 12 feb).
+
+[93] Wall of Nature. Viet Ha Tran
+  id: 0e54009633ba30e60a82511886c47b024027954b4db6bd3fd065e4258885f665
+  start: 2026-09-30T00:00:00+02:00
+  end: 2026-10-24T00:00:00+02:00
+  category: exhibition
+  source: esmadrid_exhibitions
+  location: Real Sociedad Fotográfica - de los Tres Peces, 2, Madrid, 28012
+  coordinates: 40.409835, -3.700442
+  url: https://rsf.es/exposiciones-real-sociedad-fotografica/wall-of-nature-viet-ha-tran/
+  description: Exposición fotográfica de la artista visual vietnamita inspirada en el popular jardín vertical del Caixaforum de Madrid (Real Sociedad Fotográfica. Hasta 24 oct).
+
+[94] Cayetana. Grande de España
+  id: b777c6546b833b8ec6016cfeec1f156210203b883239861e91b1445c2d119f22
+  start: 2026-10-01T00:00:00+02:00
+  end: 2027-01-31T00:00:00+01:00
+  category: exhibition
+  source: esmadrid_exhibitions
+  location: Palacio de Liria - de la Princesa, 20, Madrid, 28008
+  coordinates: 40.4261, -3.712173
+  url: https://www.palaciodeliria.com/actividades-exposiciones-madrid/exposicion-cayetana-duquesa-de-alba
+  description: Exposición dedicada a la XVIII duquesa de Alba destacando su extraordinaria contribución a la conservación del inmenso legado histórico y artístico de la Casa de Alba (Palacio de Liria.
+
+[95] Maquetas de Cúpulas. Techos de Madrid
+  id: 62c5e54fc2ba6dbcdc08888bd226c3cfa5af184d07f111d5203889a2659d5049
+  start: 2026-10-01T00:00:00+02:00
+  end: 2026-10-31T00:00:00+01:00
+  category: exhibition
+  source: esmadrid_exhibitions
+  location: Centro Cultural Clara del Rey - Museo ABC - de Amaniel, 29 - 31, Madrid, 28015
+  coordinates: 40.427683, -3.709674
+  url: https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Centro/Direcciones-y-telefonos/Techos-de-Madrid/?vgnextfmt=default&vgnextoid=e3bc50ddeca01a10VgnVCM100000891ecb1aRCRD&vgnextchannel=cac1d47ffee28010VgnVCM100000dc0ca8c0RCRD
+  description: Las maquetas de Antonio Muñoz muestran algunas de las cúpulas y elementos arquitectónicos más característicos de Madrid (Centro Cultural Clara del Rey - Museo ABC. Hasta 31 octubre).
+
+[96] Umbrales
   id: a4429bdcf473176b53c6cc6f29d5dda64b480ce3b7d77de29235bae34fd269a3
   start: 2026-10-01T00:00:00+02:00
   end: 2026-10-25T00:00:00+02:00
@@ -859,7 +1057,73 @@ Total events: 90
   url: https://www.madrid.es/portales/munimadrid/es/Inicio/Actualidad/Actividades-y-eventos/Umbrales/?vgnextfmt=default&vgnextoid=76d13477341aa910VgnVCM100000891ecb1aRCRD&vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD
   description: William Gaber habla de los límites, la pertenencia y las formas que construyen nuestra manera de habitar el mundo (Centro Cultural Casa de Vacas. Hasta 25 octubre).
 
-[79] En el corazón del 7 de octubre
+[97] Arquitectura suiza contemporánea / SAY26 anuario suizo de arquitectura
+  id: e6d473e6147658570a665bf1535f26a84d434ba10107e1b9098d213881b5110d
+  start: 2026-10-02T00:00:00+02:00
+  end: 2026-11-11T00:00:00+01:00
+  category: exhibition
+  source: esmadrid_exhibitions
+  location: COAM - de Hortaleza, 63, Madrid, 28004
+  coordinates: 40.415941, -3.702072
+  url: https://www.coam.org/actualidad-agenda-coam-arquitectura-suiza-contemporanea-say26-anuario-suizo-de-arquitectura/
+  description: Exposición con 54 obras recientes que muestran nuevas formas de hacer arquitectura en las distintas regiones de Suiza (COAM. 2 oct a 11 nov).
+
+[98] Exposición conmemorativa: Antonio Lamela, arquitecto 1926-2017
+  id: ab4ae9a3945dfe6b6822f482b3f69e5d5a4b59168c1e393817a56a92e94dd10c
+  start: 2026-10-02T00:00:00+02:00
+  end: 2026-12-10T00:00:00+01:00
+  category: exhibition
+  source: esmadrid_exhibitions
+  location: COAM - de Hortaleza, 63, Madrid, 28004
+  coordinates: 40.415941, -3.702072
+  url: https://www.lamela.com/noticia-de-prensa/exposicion-conmemorativa/
+  description: Exposición sobre la obra y trayectoria del arquitecto Antonio Lamela en el centenario de su nacimiento (COAM. 2 oct a 10 dic).
+
+[99] Javier Carvajal Ferrer. 100 aniversario de su nacimiento
+  id: 30650978e7f78f8bda12f799065add6773b746484cbff558f02aac23e32a627c
+  start: 2026-10-02T00:00:00+02:00
+  end: 2026-10-30T00:00:00+01:00
+  category: exhibition
+  source: esmadrid_exhibitions
+  location: COAM - de Hortaleza, 63, Madrid, 28004
+  coordinates: 40.415941, -3.702072
+  url: https://www.coam.org/actualidad-agenda-coam-javier-carvajal-ferrer-100-aniversario-de-su-nacimiento/
+  description: Exposición urbana sobre la figura y la obra del arquitecto Javier Carvajal Ferrer en el centenario de su nacimiento (COAM. 2 a 30 oct).
+
+[100] Cristina de Suecia. Pasión por la escultura
+  id: cb52ffd0665d42ebb679bf86dacf891b2f89b2bb97c9a9aaddc00bcb0d34a8d8
+  start: 2026-10-06T00:00:00+02:00
+  end: 2027-02-07T00:00:00+01:00
+  category: exhibition
+  source: esmadrid_exhibitions
+  location: Museo del Prado - del Prado, s/n, Madrid, 28014
+  coordinates: 40.413782, -3.692127
+  url: https://www.museodelprado.es/actualidad/exposicion/cristina-de-suecia-pasion-por-la-escultura/fe15fb3f-abfc-e239-7b70-e336ee1877e4
+  description: Exposición que reúne piezas que forman parte del conjunto más valioso de las esculturas clásicas que atesora el museo (Museo del Prado. Hasta 7 febrero).
+
+[101] Seba Calfuqueo. Cautín
+  id: 57bbc30c34da66b15e1c00f11e6e85930925108491d26382f08a1a00919c14fe
+  start: 2026-10-06T00:00:00+02:00
+  end: 2027-01-17T00:00:00+01:00
+  category: exhibition
+  source: esmadrid_exhibitions
+  location: Museo Nacional Thyssen-Bornemisza - del Prado, 8, Madrid, 28014
+  coordinates: 40.416172, -3.694181
+  url: https://www.museothyssen.org/exposiciones/seba-calfuqueo-cautin
+  description: La artista mapuche expone por primera vez en solitario en Europa una obra diseñada en exclusiva para esta ocasión (Museo Nacional Thyssen-Bornemisza. 6 oct a 17 ene).
+
+[102] Collections Masaveu. Art textile
+  id: 194d2aaed6ebf3a7478f0f163a995d5dd3f9ba679998425d0dcea568045e3e13
+  start: 2026-10-07T00:00:00+02:00
+  end: 2027-07-18T00:00:00+02:00
+  category: exhibition
+  source: esmadrid_exhibitions
+  location: Fundación María Cristina Masaveu Peterson - de Alcalá Galiano, 6, Madrid, 28071
+  coordinates: 40.434807, -3.691327
+  url: https://www.esmadrid.com/agenda/colecciones-masaveu-arte-textil-fundacion-maria-cristina-masaveu-peterson
+  description: Selección de más de ochenta piezas textiles datadas entre el siglo XV y la actualidad pertenecientes a las colecciones Masaveu (Fundación María Cristina Masaveu Peterson. 7 oct a 18 jul).
+
+[103] En el corazón del 7 de octubre
   id: da2a2e2f3c8ce1a1a6882567b96fde54247af4b5ad96473343141f175a1a4514
   start: 2026-10-07T00:00:00+02:00
   end: 2026-11-20T00:00:00+01:00
@@ -870,7 +1134,7 @@ Total events: 90
   url: https://www.sefarad-israel.es/exposiciones/en-el-corazon-del-7-de-octubre/
   description: Cómic testimonial sobre las historias reales de humanidad del 7 de octubre (Centro Sefarad-Israel. 7 oct a 20 nov).
 
-[80] El infierno de Dante. Doré y Rauschenberg
+[104] El infierno de Dante. Doré y Rauschenberg
   id: 09ee456d56237708969ee57bc99f12e8a6e8e88a90b771d0474c51ec3b0cc604
   start: 2026-10-07T00:00:00+02:00
   end: 2027-01-05T00:00:00+01:00
@@ -881,7 +1145,18 @@ Total events: 90
   url: https://www.fundacioncanal.com/exposiciones/el-infierno-de-dante-dore-y-rauschenberg/
   description: Exposición que reúne las dos series completas que Gustave Doré y Robert Rauschenberg dedicaron al Infierno de Dante (Fundación Canal. Sala Mateo Inurria 2. 7 oct a 5 ene).
 
-[81] Três Filhas - Filipa Sáragga d'Orey
+[105] Opere invitate: Millares, Rivera e Solano
+  id: 371315bd9132a338918c23af1799be863e8ee4308e0cdaf44dbd7ec7f1958c67
+  start: 2026-10-07T00:00:00+02:00
+  end: 2026-11-29T00:00:00+01:00
+  category: exhibition
+  source: esmadrid_exhibitions
+  location: Fundación María Cristina Masaveu Peterson - de Alcalá Galiano, 6, Madrid, 28071
+  coordinates: 40.434807, -3.691327
+  url: https://www.fundacioncristinamasaveu.com/portfolio/obras-invitadas-millares-rivera-solano/
+  description: Exposición de piezas destacadas del informalismo español, pertenecientes a las colecciones Masaveu (Fundación María Cristina Masaveu Peterson. 7 oct a 29 nov).
+
+[106] Três Filhas - Filipa Sáragga d'Orey
   id: e3cb9b17851d980efa05cce05b6411319e2f0c3f7510bcd76a9d70f4c7faf209
   start: 2026-10-07T00:00:00+02:00
   end: 2026-11-03T00:00:00+01:00
@@ -892,7 +1167,7 @@ Total events: 90
   url: https://jorgealcolea.com/
   description: La artista convierte la maternidad en arquitectura emocional y pictórica, construida con rigor compositivo, geometría, color y símbolos que evocan a sus tres hijas (Galería Jorge Alcolea.
 
-[82] César Fernández Arias. Laboratorio de creación
+[107] César Fernández Arias. Laboratorio de creación
   id: 28919ba2b52392256ef5bd95e2a0f036b42676835a2a90a884513abc2cefa0f9
   start: 2026-10-08T00:00:00+02:00
   end: 2026-12-13T00:00:00+01:00
@@ -903,7 +1178,7 @@ Total events: 90
   url: https://www.ucm.es/cultura/cesar-fernandez-arias-laboratorio-de-creacion
   description: La mayor retrospectiva dedicada hasta la fecha a uno de los creadores más personales del arte español contemporáneo (C Arte C. 8 oct a 13 dic).
 
-[83] Cruz Novillo
+[108] Cruz Novillo
   id: 0b1f53ac1f42d2f53e29f417f3edfebb953480b0b43545462a505528bcc3df2e
   start: 2026-10-08T00:00:00+02:00
   end: 2027-01-24T00:00:00+01:00
@@ -914,7 +1189,7 @@ Total events: 90
   url: https://www.centrocentro.org/exposicion/cruz-novillo
   description: Un recorrido no lineal por la obra del artista que incluye ciclos de trabajos desde mediados de la década de 1960 hasta obras de 2025 (CentroCentro. 8 oct a 24 ene).
 
-[84] Madrid en el Teatro Español del Siglo de Oro
+[109] Madrid en el Teatro Español del Siglo de Oro
   id: a090fe93ea410e8f5ddfcdd521e5f92bca3bb161814697626ca6fb9c5ec31e5e
   start: 2026-10-09T00:00:00+02:00
   end: 2027-01-10T00:00:00+01:00
@@ -925,7 +1200,7 @@ Total events: 90
   url: https://www.comunidad.madrid/actividades/2026/exposicion-madrid-teatro-espanol-siglo-oro
   description: Un recorrido por el papel de Madrid como gran centro del teatro barroco español (Biblioteca Regional de la Comunidad de Madrid Joaquín Leguina. 9 oct a 10 ene).
 
-[85] Thyssen-Bornemisza & Mauritshuis: una historia de amor entre dos museos
+[110] Thyssen-Bornemisza & Mauritshuis: una historia de amor entre dos museos
   id: 7a17edd15f7cdb595d3ca1382b5177b1dfdc33c123916fce8192d1884aff939e
   start: 2026-10-09T00:00:00+02:00
   end: 2027-01-10T00:00:00+01:00
@@ -936,7 +1211,7 @@ Total events: 90
   url: https://www.museothyssen.org/exposiciones/thyssen-bornemisza-mauritshuis
   description: Los dos museos intercambian de forma simultánea veinticinco obras destacadas de sus colecciones permanentes (Museo Nacional Thyssen-Bornemisza. 9 oct a 10 ene).
 
-[86] Ricardo de Madrazo (1852-1917): dibujos y acuarelas
+[111] Ricardo de Madrazo (1852-1917): dibujos y acuarelas
   id: b2a9f29c425919679405da5611c0f49e9f71f9cc85e5038fc4e4850328e32226
   start: 2026-10-13T00:00:00+02:00
   end: 2027-01-17T00:00:00+01:00
@@ -947,7 +1222,18 @@ Total events: 90
   url: https://www.museodelprado.es/actualidad/exposicion/ricardo-de-madrazo-1852-1917-dibujos-y-acuarelas/1a449f97-e4bc-73bf-4034-a3580abe45c1
   description: Exposición dedicada exclusivamente a la obra del artista junto a una selección de cuadernos, dibujos y acuarelas (Museo del Prado. 13 oct a 17 ene 2027).
 
-[87] Plein Air
+[112] Tras la casa del artista. Arquitecturas del Museo Sorolla (1905-2026)
+  id: 8cf7cb165bd62e731296fb797deee7ad8adfe1cc4c7fe08e3bc393826f106c15
+  start: 2026-10-15T00:00:00+02:00
+  end: 2027-01-10T00:00:00+01:00
+  category: exhibition
+  source: esmadrid_exhibitions
+  location: Museo Sorolla - del General Martínez Campos, 37, Madrid, 28010
+  coordinates: N/A
+  url: https://www.cultura.gob.es/msorolla/exposicion/tras-la-casa-del-artista.html
+  description: Exposición que invita a descubrir la historia de la casa de Joaquín Sorolla desde su construcción hasta la actualidad (Museo Sorolla. 15 oct a 10 ene).
+
+[113] Plein Air
   id: 34c69e20df07adcf0a6013605ac863e17e46399403a836c2211a46741212ec4c
   start: 2026-10-15T19:00:00+02:00
   end: 2026-10-25T19:00:00+01:00
@@ -958,7 +1244,7 @@ Total events: 90
   url: https://ateneodemadrid.com/evento/plein-air/
   description: Exposición «Leopoldo Uría Works 1992-2026». Sala Laffón. Del 15 al 25 de octubre, inauguración 15 a las 19:00 h. Horario: lunes a viernes 17:30 a 20:30 h. / Sábado y domingo 12:00 a 21:00 h..
 
-[88] La transición estética. España, 1960-2020
+[114] La transición estética. España, 1960-2020
   id: 13391f5d7e2d764b3e0effaee782417648c28f057f23af7df2ed25d2d8263f82
   start: 2026-10-16T00:00:00+02:00
   end: 2027-01-10T00:00:00+01:00
@@ -969,7 +1255,7 @@ Total events: 90
   url: https://www.march.es/es/madrid/exposiciones/transicion-estetica-espana-1960-2020
   description: Muestra que ofrece un recorrido visual por el arte español desde 1960 hasta la actualidad (Fundación Juan March. 16 oct a 10 ene 2027).
 
-[89] Visitas dialogadas a Matadero 'Madrid Otra Mirada'
+[115] Visitas dialogadas a Matadero 'Madrid Otra Mirada'
   id: b6ecc8f4ea44900cb61ab991a93f03d6d3ae91d9fc58e1d6eb7a1f6ea669c782
   start: 2026-10-17T12:00:00+02:00
   end: N/A
@@ -980,7 +1266,36 @@ Total events: 90
   url: https://www.mataderomadrid.org/programacion/visitas-dialogadas-matadero-madrid-otra-mirada
   description: Matadero se ha convertido en uno de los paisajes característicos de Madrid. Asentado sobre un conjunto de pabellones proyectado por Luis Bellido a principios del siglo XX como matadero y mercado de ganados, el centro de creación contemporánea concentra, junto a Madrid Río, una importante representación de intervenciones significativas de la denominada nueva arquitectura madrileña. Las distintas reformas realizadas en sus naves, bajo los principios de reversibilidad y respeto al carácter del lugar, han sido llevadas a cabo por diversos estudios de arquitectura de la ciudad de Madrid. Una exitosa apuesta que ha recibido numerosos premios. Matadero Madrid es el Centro de Creación Contemporánea del Área de Cultura, Turismo y Deporte del Ayuntamiento de Madrid. Creado en 2006 y situado en el antiguo matadero y mercado de ganados de la ciudad, es un recinto de gran valor patrimonial y arquitectónico, de enorme personalidad y referente ciudadano. En sus diferentes naves se desarrolla una extensa programación compuesta por exposiciones, teatro, festivales, música en vivo, cine y proyectos audiovisuales, conferencias, conversaciones y talleres, residencias para artistas, programas educativos y actividades para familias. Todas estas se construyen a través de la diversidad de las instituciones que componen el centro y de líneas de trabajo transversal, interdisciplinar y en conexión con redes internacionales.
 
-[90] Teatro de grandeza. Arte, arquitectura y ciudad en el Madrid Barroco
+[116] CANAL STREET JAZZ BAND
+  id: ce59d3625708f30834f0d9917373880a1bb8ef6f8ae3284d7813dcff93cb3c99
+  start: 2026-10-18T20:00:00+02:00
+  end: 2026-10-18T20:00:00+02:00
+  category: exhibition
+  source: ateneo_madrid
+  location: Ateneo de Madrid - C. del Prado, 21, Madrid
+  coordinates: 40.415242, -3.697079
+  url: https://ateneodemadrid.com/evento/canal-street-jazz-band-3/
+  description: Información y entradas (aquí). Socios, código descuento en el Área del Socio. Santa Catalina, 10. Pases: 20:00h. y 22:00h. 
+ 
+Jim Kashishian – trombón, voz
+Benjamín Mitte – piano
+Antonio Domínguez – contrabajo
+Howard Brown – trompeta, voz
+Antonio Calero – batería 
+La Canal, con sus cinco miembros, cada uno aportando sus ideas, desarrollando no sólo un estilo de Jazz, sino creando un estilo propio de música que demuestra el suficiente gancho y energía como para contagiar la alegría propia del Jazz en casi todas sus vertientes. Con su experiencia La Canal transmite perfectamente el Jazz y corrobora su imagen de la banda con más solera de España. Sencillamente luce una dignidad y una escuela envidiables.
+
+[117] El universo freudiano de Dalí
+  id: 3e7a491f2a43370663923208ea84de99b10f90990fd9824ce4bdc009a3a4373d
+  start: 2026-10-20T00:00:00+02:00
+  end: 2027-01-24T00:00:00+01:00
+  category: exhibition
+  source: esmadrid_exhibitions
+  location: Museo Nacional Thyssen-Bornemisza - del Prado, 8, Madrid, 28014
+  coordinates: 40.416172, -3.694181
+  url: https://www.museothyssen.org/exposiciones/universo-freudiano-dali
+  description: Una exposición que pretende arrojar nueva luz a la heterogénea y prolífica obra de Salvador Dalí (Museo Nacional Thyssen-Bornemisza. 20 oct a 24 ene).
+
+[118] Teatro de grandeza. Arte, arquitectura y ciudad en el Madrid Barroco
   id: 675fceb8d512ba28f4120f2cc083a1fc2cf7d85665d65a76fa42a53013080011
   start: 2026-10-27T00:00:00+01:00
   end: 2027-01-17T00:00:00+01:00
@@ -990,3 +1305,36 @@ Total events: 90
   coordinates: N/A
   url: https://www.teatrofernangomez.es/actividades/teatro-de-grandeza-arte-arquitectura-y-ciudad-en-el-madrid-barroco
   description: Descubre el esplendor artístico y urbano del Madrid barroco en esta exposición (Teatro Fernán Gómez. Centro Cultural de la Villa. 20 oct - 17 ene).
+
+[119] Aqua Mater. Sebastião Salgado
+  id: 0560902a0866efbf471acc94dfd30fff196e779cec9ec652cc6968c86e688b62
+  start: 2026-10-28T00:00:00+01:00
+  end: 2027-01-31T00:00:00+01:00
+  category: exhibition
+  source: esmadrid_exhibitions
+  location: Fundación Canal Sala Castellana 214 - de la Castellana, 214, Madrid, 28046
+  coordinates: 40.464444, -3.688202
+  url: https://salgadoaquamater.com/
+  description: Exposición que recoge el trabajo del artista brasileño en torno al agua con casi un centenar de fotografías en blanco y negro de gran formato (Fundación Canal. Sala Castellana 214.
+
+[120] Elena Jiménez. Me das tus manos. Archivo de mujeres creadoras
+  id: 1b2604de3edfa1e43f59fa8f93e29088ed42294e890177ecb1e286d85400ddf9
+  start: 2026-10-28T00:00:00+01:00
+  end: 2027-04-18T00:00:00+02:00
+  category: exhibition
+  source: esmadrid_exhibitions
+  location: CentroCentro - de Cibeles, 1, Madrid, 28014
+  coordinates: 40.418699, -3.691006
+  url: https://www.centrocentro.org/exposicion/elena-jimenez
+  description: Un archivo sensible donde la memoria toma forma a través de la materia y donde el cuerpo se convierte en territorio de encuentro (CentroCentro. 28 oct a 18 abr).
+
+[121] Juana González. Indómita pintura
+  id: 87976c8e742ec84d1219e19c5bba897e56be7897c59f8c3d77c49c90a775d80b
+  start: 2026-10-28T00:00:00+01:00
+  end: 2027-04-18T00:00:00+02:00
+  category: exhibition
+  source: esmadrid_exhibitions
+  location: CentroCentro - de Cibeles, 1, Madrid, 28014
+  coordinates: 40.418699, -3.691006
+  url: https://www.centrocentro.org/exposicion/juana-gonzalez
+  description: La exposición de Juana González que explora los límites entre lo barroco, lo surreal y lo expresionista (CentroCentro. 28 oct a 18 abr).
