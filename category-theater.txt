@@ -1,5 +1,5 @@
 Eirene feed debug
-Total events: 39
+Total events: 41
 
 [1] La ópera de los tres centavos con Coque Malla
   id: d83b0aeadd6bbbf29203317652b8044624c92e450eb082ace43493cb69f5248b
@@ -35,8 +35,8 @@ Total events: 39
   description: Encuentro con el equipo artístico: 22 OCT 2026 Los cigarrillos que se fuman en escena no contienen tabaco
 
 [4] Verborrea
-  id: 13636ad39df00670d5ecf7469db842696e71a34077b46c7d1ccf90363a3ab6de
-  start: 2026-10-13T00:00:00+02:00
+  id: 75f79b8b7c5a67f5b9e0010217a0f2ec86b554868e1473946555160e650801b1
+  start: 2026-10-14T00:00:00+02:00
   end: 2026-11-01T23:59:00+01:00
   category: theater
   source: nave_10
@@ -186,7 +186,7 @@ Total events: 39
   location: Teatro del Barrio - Calle de Zurita, 20, Madrid
   coordinates: 40.4096081, -3.699174
   url: https://teatrodelbarrio.com/colombia-en-escena/
-  description: ¡Ya solo quedan 14 plazas!
+  description: ¡Ya solo quedan 12 plazas!
 
 [18] Elías Aguirre
   id: b5c0c21aabcfe0030dc85a9a36a39c8978ec6a3000ce26e4a6c7fee2faba1273
@@ -252,7 +252,7 @@ Total events: 39
   location: Teatro del Barrio - Calle de Zurita, 20, Madrid
   coordinates: 40.4096081, -3.699174
   url: https://teatrodelbarrio.com/un-verano-por-metro-cuadrado/
-  description: ¡Ya solo quedan 6 plazas!
+  description: ¡Ya solo quedan 5 plazas!
 
 [24] La mujer fascista
   id: 229d048dd747d798e6801afb020550c3977a44be29e9c143d59cce775b7da524
@@ -428,4 +428,26 @@ Total events: 39
   location: Teatro del Barrio - Calle de Zurita, 20, Madrid
   coordinates: 40.4096081, -3.699174
   url: https://teatrodelbarrio.com/palestina-y-libano-no-olvidamos/
+  description: Disponible
+
+[40] Solo quería bailar
+  id: 5ca2cc827e090e38789394eb4b49abc4c60caddc58cbe4b122d0e611858ddab6
+  start: 2026-10-28T19:30:00+01:00
+  end: N/A
+  category: theater
+  source: teatro_del_barrio
+  location: Teatro del Barrio - Calle de Zurita, 20, Madrid
+  coordinates: 40.4096081, -3.699174
+  url: https://teatrodelbarrio.com/solo-queria-bailar/
+  description: Disponible
+
+[41] Feliz día - SUTOTTOS
+  id: 68001d644c9aac98e73bd2b84249efab1c355131ddfce329b2f7789fa21af63c
+  start: 2026-10-28T21:30:00+01:00
+  end: N/A
+  category: theater
+  source: teatro_del_barrio
+  location: Teatro del Barrio - Calle de Zurita, 20, Madrid
+  coordinates: 40.4096081, -3.699174
+  url: https://teatrodelbarrio.com/feliz-dia/
   description: Disponible

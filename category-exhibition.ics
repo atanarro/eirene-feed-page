@@ -15,6 +15,33 @@ LOCATION:MAD (Madrid Artes Digitales) Centro de Experiencias Inmersivas -
  de Legazpi\, 8\, Madrid\, 28045
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Exponencial. De analógicos a digitales
+DTSTART;TZID=Europe/Madrid:20240514T000000
+DTEND;TZID=Europe/Madrid:20271231T000000
+UID:f5757770ba2619f835632f368e9ae1c25e8353ae577ea62f600b1f84611272c3
+CATEGORIES:exhibition
+DESCRIPTION:Exposición permanente que explora el creciente impacto que ha
+  tenido el desarrollo de las telecomunicaciones en todos los ámbitos de n
+ uestras vidas (Espacio Fundación Telefónica.\n\nhttp://espacio.fundacio
+ ntelefonica.com/
+LOCATION:Espacio Fundación Telefónica - de Fuencarral\, 3\, Madrid\, 280
+ 04
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tras la casa del artista. Arquitecturas del Museo Sorolla (1905-20
+ 26)
+DTSTART;TZID=Europe/Madrid:20241004T000000
+DTEND;TZID=Europe/Madrid:20270110T000000
+UID:a79d6316cb77103b45f6e4a599c3042158f019330d41faf3b272120c3051fa18
+CATEGORIES:exhibition
+DESCRIPTION:Exposición que invita a descubrir la historia de la casa de J
+ oaquín Sorolla desde su construcción hasta la actualidad (Museo Sorolla.
+  15 oct a 10 ene).\n\nhttps://www.cultura.gob.es/msorolla/exposicion/tras-
+ la-casa-del-artista.html
+LOCATION:Museo Sorolla - del General Martínez Campos\, 37\, Madrid\, 2801
+ 0
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Artemisa: la magia de la Luna
 DTSTART;TZID=Europe/Madrid:20241206T000000
 DTEND;TZID=Europe/Madrid:20261227T000000
@@ -85,18 +112,6 @@ DESCRIPTION:Instalación escultórica del artista visual brasileño en la
  ta 13 diciembre).\n\nhttps://www.lacasaencendida.es/exposiciones/fundacion
  -marlon-de-azambuja
 LOCATION:La Casa Encendida - de Valencia\, 2\, Madrid\, 28012
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:De brebajes y serpientes: entre la triaca magna y una emergencia d
- e salud global
-DTSTART;TZID=Europe/Madrid:20260316T000000
-DTEND;TZID=Europe/Madrid:20270203T000000
-UID:2926ed145cabceb814f8a27acb907dc3237e192064e07ca9e7cec805ba4c70ef
-CATEGORIES:exhibition
-DESCRIPTION:Una exposición que reúne más de 100 piezas de alto valor q
- ue muestran la fascinante relación milenaria entre el ser humano y los ve
- nenos animales (Real Academia de Medicina.\n\nhttps://ranm.es/
-LOCATION:Real Academia de Medicina - de Arrieta\, 12\, Madrid\, 28012
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dino Kids Experience
@@ -531,19 +546,6 @@ DESCRIPTION:Ciclo expositivo que invita a reflexionar sobre el potencial d
  ecciones-del-museo-ca2m
 LOCATION:Centro de Arte Dos de Mayo (CA2M) / Móstoles - de la Constituci
  ón \, 23\, (Móstoles)\, Móstoles\, 28931
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Escaparate de Arquitecturas. HORMIGÓN CONCRETO: Diseño experimen
- tal de lámparas en hormigón
-DTSTART;TZID=Europe/Madrid:20260710T000000
-DTEND;TZID=Europe/Madrid:20261013T000000
-UID:03a05467a2ad5ca8d9b6dbc375290a69dcdb74372789c060838358590c01843d
-CATEGORIES:exhibition
-DESCRIPTION:Varios alumnos de la ETSAM muestran sus trabajos realizados co
- n este material durante el último cuatrimestre del curso (COAM. 10 jul - 
- 13 oct).\n\nhttps://www.coam.org/actualidad-agenda-coam-escaparate-de-arqu
- itecturas-hormigon-concreto-diseno-experimental-de-lamparas-en-hormigon/
-LOCATION:COAM - de Hortaleza\, 63\, Madrid\, 28004
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Uneasy Riders. La ciudad en ruta
@@ -1013,8 +1015,8 @@ UID:27b4b0141a24ff653918a416cd168186396acc32b6dffbb24598be40e7031dc4
 CATEGORIES:exhibition
 DESCRIPTION:Primera retrospectiva en Europa centrada en esta figura clave 
  en la fotografía estadounidense del siglo XX (Fundación MAPFRE. Sala Rec
- oletos. 24 sept a 10 ene).\n\nhttps://www.fundacionmapfre.org/arte-y-cultu
- ra/exposiciones/
+ oletos. Hasta 10 ene).\n\nhttps://www.fundacionmapfre.org/arte-y-cultura/e
+ xposiciones/
 LOCATION:Fundación MAPFRE. Sala Recoletos - de Recoletos\, 23\, Madrid\, 
  28004
 END:VEVENT
@@ -1236,8 +1238,8 @@ DTEND;TZID=Europe/Madrid:20261210T000000
 UID:ab4ae9a3945dfe6b6822f482b3f69e5d5a4b59168c1e393817a56a92e94dd10c
 CATEGORIES:exhibition
 DESCRIPTION:Exposición sobre la obra y trayectoria del arquitecto Antonio
-  Lamela en el centenario de su nacimiento (COAM. 2 oct a 10 dic).\n\nhttps
- ://www.lamela.com/noticia-de-prensa/exposicion-conmemorativa/
+  Lamela en el centenario de su nacimiento (COAM. Hasta 10 dic).\n\nhttps:/
+ /www.lamela.com/noticia-de-prensa/exposicion-conmemorativa/
 LOCATION:COAM - de Hortaleza\, 63\, Madrid\, 28004
 END:VEVENT
 BEGIN:VEVENT
@@ -1273,22 +1275,22 @@ UID:57bbc30c34da66b15e1c00f11e6e85930925108491d26382f08a1a00919c14fe
 CATEGORIES:exhibition
 DESCRIPTION:La artista mapuche expone por primera vez en solitario en Euro
  pa una obra diseñada en exclusiva para esta ocasión (Museo Nacional Thys
- sen-Bornemisza. 6 oct a 17 ene).\n\nhttps://www.museothyssen.org/exposicio
- nes/seba-calfuqueo-cautin
+ sen-Bornemisza. Hasta 17 ene).\n\nhttps://www.museothyssen.org/exposicione
+ s/seba-calfuqueo-cautin
 LOCATION:Museo Nacional Thyssen-Bornemisza - del Prado\, 8\, Madrid\, 2801
  4
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Collections Masaveu. Art textile
+SUMMARY:Colecciones Masaveu. Arte textil
 DTSTART;TZID=Europe/Madrid:20261007T000000
 DTEND;TZID=Europe/Madrid:20270718T000000
-UID:194d2aaed6ebf3a7478f0f163a995d5dd3f9ba679998425d0dcea568045e3e13
+UID:1cbb5853e174c4216457042e069ae65bf8fcbef125c391b350b251202092ac18
 CATEGORIES:exhibition
 DESCRIPTION:Selección de más de ochenta piezas textiles datadas entre el
   siglo XV y la actualidad pertenecientes a las colecciones Masaveu (Fundac
- ión María Cristina Masaveu Peterson. 7 oct a 18 jul).\n\nhttps://www.esm
- adrid.com/agenda/colecciones-masaveu-arte-textil-fundacion-maria-cristina-
- masaveu-peterson
+ ión María Cristina Masaveu Peterson. Hasta 18 jul).\n\nhttps://www.esmad
+ rid.com/agenda/colecciones-masaveu-arte-textil-fundacion-maria-cristina-ma
+ saveu-peterson
 LOCATION:Fundación María Cristina Masaveu Peterson - de Alcalá Galiano
  \, 6\, Madrid\, 28071
 END:VEVENT
@@ -1317,15 +1319,15 @@ LOCATION:Fundación Canal. Sala Mateo Inurria - de Mateo Inurria\, 2\, Mad
  rid\, 28036
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Opere invitate: Millares\, Rivera e Solano
+SUMMARY:Obras invitadas: Millares\, Rivera y Solano
 DTSTART;TZID=Europe/Madrid:20261007T000000
 DTEND;TZID=Europe/Madrid:20261129T000000
-UID:371315bd9132a338918c23af1799be863e8ee4308e0cdaf44dbd7ec7f1958c67
+UID:8fa6ad0549842f85c79094cea1d4287e81856f00d4e49c2fc313e0295b2f1c45
 CATEGORIES:exhibition
 DESCRIPTION:Exposición de piezas destacadas del informalismo español\, p
  ertenecientes a las colecciones Masaveu (Fundación María Cristina Masave
- u Peterson. 7 oct a 29 nov).\n\nhttps://www.fundacioncristinamasaveu.com/p
- ortfolio/obras-invitadas-millares-rivera-solano/
+ u Peterson. Hasta 29 nov).\n\nhttps://www.fundacioncristinamasaveu.com/por
+ tfolio/obras-invitadas-millares-rivera-solano/
 LOCATION:Fundación María Cristina Masaveu Peterson - de Alcalá Galiano
  \, 6\, Madrid\, 28071
 END:VEVENT
@@ -1366,6 +1368,20 @@ DESCRIPTION:Un recorrido no lineal por la obra del artista que incluye cic
 LOCATION:CentroCentro - de Cibeles\, 1\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Retratar el mestizaje: las series de castas en la América del sig
+ lo XVIII
+DTSTART;TZID=Europe/Madrid:20261008T000000
+DTEND;TZID=Europe/Madrid:20261208T000000
+UID:9a412f1522a35d15501053f142bda5e9ecc566423c3d338f045375087d7c82d5
+CATEGORIES:exhibition
+DESCRIPTION:Exposición sobre la pintura de castas y la representación de
+ l mestizaje en la sociedad americana del siglo XVIII (Casa Lope de Vega. H
+ asta 8 diciembre).\n\nhttps://www.casamuseolopedevega.org/es/actividades/c
+ alendario/calendario-segundo-cuatrimestre-2/81-actividades/793-exposicion-
+ 2026-mestizaje
+LOCATION:Casa Museo Lope de Vega - de Cervantes\, 11\, Madrid\, 28014
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Madrid en el Teatro Español del Siglo de Oro
 DTSTART;TZID=Europe/Madrid:20261009T000000
 DTEND;TZID=Europe/Madrid:20270110T000000
@@ -1399,25 +1415,11 @@ DTEND;TZID=Europe/Madrid:20270117T000000
 UID:b2a9f29c425919679405da5611c0f49e9f71f9cc85e5038fc4e4850328e32226
 CATEGORIES:exhibition
 DESCRIPTION:Exposición dedicada exclusivamente a la obra del artista junt
- o a una selección de cuadernos\, dibujos y acuarelas (Museo del Prado. 13
-  oct a 17 ene 2027).\n\nhttps://www.museodelprado.es/actualidad/exposicion
- /ricardo-de-madrazo-1852-1917-dibujos-y-acuarelas/1a449f97-e4bc-73bf-4034-
- a3580abe45c1
+ o a una selección de cuadernos\, dibujos y acuarelas (Museo del Prado. Ha
+ sta 17 ene).\n\nhttps://www.museodelprado.es/actualidad/exposicion/ricardo
+ -de-madrazo-1852-1917-dibujos-y-acuarelas/1a449f97-e4bc-73bf-4034-a3580abe
+ 45c1
 LOCATION:Museo del Prado - del Prado\, s/n\, Madrid\, 28014
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tras la casa del artista. Arquitecturas del Museo Sorolla (1905-20
- 26)
-DTSTART;TZID=Europe/Madrid:20261015T000000
-DTEND;TZID=Europe/Madrid:20270110T000000
-UID:8cf7cb165bd62e731296fb797deee7ad8adfe1cc4c7fe08e3bc393826f106c15
-CATEGORIES:exhibition
-DESCRIPTION:Exposición que invita a descubrir la historia de la casa de J
- oaquín Sorolla desde su construcción hasta la actualidad (Museo Sorolla.
-  15 oct a 10 ene).\n\nhttps://www.cultura.gob.es/msorolla/exposicion/tras-
- la-casa-del-artista.html
-LOCATION:Museo Sorolla - del General Martínez Campos\, 37\, Madrid\, 2801
- 0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Plein Air
@@ -1438,9 +1440,9 @@ DTEND;TZID=Europe/Madrid:20270110T000000
 UID:13391f5d7e2d764b3e0effaee782417648c28f057f23af7df2ed25d2d8263f82
 CATEGORIES:exhibition
 DESCRIPTION:Muestra que ofrece un recorrido visual por el arte español de
- sde 1960 hasta la actualidad (Fundación Juan March. 16 oct a 10 ene 2027)
- .\n\nhttps://www.march.es/es/madrid/exposiciones/transicion-estetica-espan
- a-1960-2020
+ sde 1960 hasta la actualidad (Fundación Juan March. 16 oct a 10 ene).\n\n
+ https://www.march.es/es/madrid/exposiciones/transicion-estetica-espana-196
+ 0-2020
 LOCATION:Fundación Juan March - de Castelló\, 77\, Madrid\, 28006
 END:VEVENT
 BEGIN:VEVENT
@@ -1473,6 +1475,35 @@ DESCRIPTION:Matadero se ha convertido en uno de los paisajes característi
 LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Mercado Central de Diseño
+DTSTART;TZID=Europe/Madrid:20261017T160000
+UID:cfa0cfac7e259087fd99b77445e39412963fdafd97331ccf3e716fa4eb2b6c8e
+CATEGORIES:exhibition
+DESCRIPTION:Organizado por DIMAD (Asociación de Diseñadores de Madrid y 
+ Fundación Diseño Madrid)\, Mercado Central de Diseño nace con el objeti
+ vo de difundir la cultura del diseño reuniendo a grandes referentes hist
+ óricos junto con estudios contemporáneos de diseño  en un mismo lugar:
+  la Central de Diseño en Matadero Madrid. Durante tres días\, los asiste
+ ntes podrán descubrir piezas de creadores de más de 20 países\, algunos
+  de ellos participantes en ediciones anteriores de la Bienal Iberoamerican
+ a de Diseño (Bid). La propuesta conecta diseño de producto\, gráfico\, 
+ mobiliario\, decoración\, iluminación y muchísimo más. Diseño de prod
+ ucto\, objeto\, mobiliario\, menaje e iluminación: Piezas y ediciones de 
+ referentes nacionales e internacionales como Philippe Starck\, Arne Jacobs
+ en\, Ross Lovegrove\, Álvaro Catalán de Ocón (ACdO)\, Disolventes\, Ant
+ onio Serrano\, Pluviam\, Noviembre Estudio\, Terracota Mérida\, Paredes-P
+ ino y los díez\, entre otros. Gráfica\, cartelismo e ilustración: Obras
+  con la firma de grandes maestros como Pepe Cruz Novillo\, Óscar Mariné
+ \, Alberto Corazón\, Isidro Ferrer\, Emilio Gil\, Félix Beltrán\, Juan 
+ Toribio\, Pep Carrió\, Jacobo Pérez Enciso\, Manolo Prieto o Miryam Anll
+ o. Moda\, accesorios y piezas portables: Propuestas de autor de la mano de
+  Maison Mesa\, Alegría Bernard\, Luz Moreno Pinard\, Charo Iglesias\, Can
+ dela Cort o Henar Iglesias. Ven y disfruta de los mejores precios en un am
+ biente inmejorable.\n\nhttps://www.mataderomadrid.org/programacion/mercado
+ -central-de-diseno-9
+LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CANAL STREET JAZZ BAND
 DTSTART;TZID=Europe/Madrid:20261018T200000
 DTEND;TZID=Europe/Madrid:20261018T200000
@@ -1491,6 +1522,18 @@ DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
   escuela envidiables.\n\nhttps://ateneodemadrid.com/evento/canal-street-ja
  zz-band-3/
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Soñando océanos
+DTSTART;TZID=Europe/Madrid:20261020T000000
+DTEND;TZID=Europe/Madrid:20261227T000000
+UID:3b1f38fb1cc62b92d42d3dfecea76aa34b4a4ca128bb74df59146a631f39bd1c
+CATEGORIES:exhibition
+DESCRIPTION:Exposición fotográfica y solidaria de WeWhale & Iberian Orca
+  Guardiáns Foundation y la Fundación Arango-Lara (Casa del Lector - Mata
+ dero. A partir 20 octubre).\n\nhttps://casalector.fundaciongsr.org/sonando
+ -oceanos-proximamente/
+LOCATION:Casa del Lector (Matadero) - de la Chopera\, 14\, Madrid\, 28045
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:El universo freudiano de Dalí
@@ -1554,5 +1597,16 @@ DESCRIPTION:La exposición de Juana González que explora los límites ent
  re lo barroco\, lo surreal y lo expresionista (CentroCentro. 28 oct a 18 a
  br).\n\nhttps://www.centrocentro.org/exposicion/juana-gonzalez
 LOCATION:CentroCentro - de Cibeles\, 1\, Madrid\, 28014
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Samhain\, un portal entre dos mundos. Cruza al origen de Halloween
+DTSTART;TZID=Europe/Madrid:20261029T000000
+DTEND;TZID=Europe/Madrid:20261031T000000
+UID:1686280cd0da8967daff4a2ffc0053e38c91021877627a7cbb097f2bfb248d20
+CATEGORIES:exhibition
+DESCRIPTION:Una exposición que ofrece un viaje a la Irlanda ancestral de 
+ la mano de Turismo de Irlanda (Nomad Museo Inmersivo. 29 a 31 octubre).\n
+ \nhttps://www.ireland.com/es-es/features/spain/halloween-en-madrid/
+LOCATION:Nomad Museo Inmersivo - Gran Vía\, 78\, Madrid\, 28013
 END:VEVENT
 END:VCALENDAR
