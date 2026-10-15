@@ -2,72 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Delicias//ES
 BEGIN:VEVENT
-SUMMARY:Actualidad y retos de la prevención y control del tabaquismo a ni
- vel nacional e internacional
-DTSTART;TZID=Europe/Madrid:20261014T190000
-DTEND;TZID=Europe/Madrid:20261014T190000
-UID:d267291207baea3d36518f74ee98255fa2aa8f9361479852017101a87c39dee0
-CATEGORIES:talk
-DESCRIPTION:Sección de Ciencias de la Salud. Intervienen: \n\nPedro Gull
- ón\, Médico\, Director General de Salud Pública\, Ministerio de Sanidad
- .\nKaren Lizzette Ramírez Cervantes\, Médica\, Responsable Nacional de P
- rogramas de Prevención\, AECC (Asociación Española Contra el Cáncer).
- \n\nSalón Ciudad de Úbeda. 19:00h.\n\nhttps://ateneodemadrid.com/evento/
- actualidad-y-retos-de-la-prevencion-y-control-del-tabaquismo-a-nivel-nacio
- nal-e-internacional/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rubén Darío y el arte de viajar
-DTSTART;TZID=Europe/Madrid:20261014T193000
-DTEND;TZID=Europe/Madrid:20261014T193000
-UID:fd6e7e0699106c1f0075d90a430e7414f6e12dc873102a68479bca34372d1fda
-CATEGORIES:talk
-DESCRIPTION:Presentación del libro “Tierras solares” . \n \nSección 
- del Literatura. Intervienen: Francisco Estévez\, Consuelo Triviño Anzola
- \, Arturo Gonzalo Aizpiri. Sala Larra. 19:30h.\n\nhttps://ateneodemadrid.c
- om/evento/ruben-dario-y-el-arte-de-viajar/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Del hallazgo de una pintura barroca a la proyección escénica int
- ernacional: el caso Marcus Tuscher
-DTSTART;TZID=Europe/Madrid:20261014T193000
-DTEND;TZID=Europe/Madrid:20261014T193000
-UID:37653d5d580f9e05987549328b187d66eff32fc75edf1b4dcc23ba310aaeb3da
-CATEGORIES:talk
-DESCRIPTION:Sección de Artes Plásticas. Intervienen: Santiago Camarote C
- astagnola\, Patricia Fernández Lorenzo\, Natalia Tamames. Presenta: Emili
- o Gil. Sala Pérez Galdós. 19:30h.\n\nhttps://ateneodemadrid.com/evento/d
- el-hallazgo-de-una-pintura-barroca-a-la-proyeccion-escenica-internacional-
- el-caso-marcus-tuscher/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Descolonizar la mirada: patrimonio\, política y memoria colonial 
- africana en España
-DTSTART;TZID=Europe/Madrid:20261014T193000
-DTEND;TZID=Europe/Madrid:20261014T193000
-UID:38de2d3bbb42f8e4da09806fb3ae951b34e9e9066c63c30709641b1360d1e0d2
-CATEGORIES:talk
-DESCRIPTION:Sección Africanista. Intervienen: Yvonne Ramírez. Presenta: 
- Basilio Rodríguez. Sala Ramón y Cajal. 19:30h.\n\nhttps://ateneodemadrid
- .com/evento/descolonizar-la-mirada-patrimonio-politica-y-memoria-colonial-
- africana-en-espana/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Voto migrante y cohesión social
-DTSTART;TZID=Europe/Madrid:20261014T193000
-DTEND;TZID=Europe/Madrid:20261014T193000
-UID:d8edc824433721264fb8364431d352b06fb641891158c30dbaa8d73bee36de99
-CATEGORIES:talk
-DESCRIPTION:II Ciclo Migraciones. \n \nSección de Ciencias Jurídicas y P
- olítica. Intervienen: Santiago Pérez-Nievas\, Elisa Brey. Biblioteca. 19
- :30.\n\nhttps://ateneodemadrid.com/evento/voto-migrante-y-cohesion-social/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Presentación "Mal de bosque"
 DTSTART;TZID=Europe/Madrid:20261015T190000
 UID:6a270d505c62d939dc245eec9e10810f961498a4bfbe0f9152fc24289fb217f3
@@ -141,10 +75,10 @@ UID:f7abc27d5c46f0af2364d5574a4fee848ebb59b075bf0324e4276b3177c76a56
 CATEGORIES:talk
 DESCRIPTION:Ciclo Neutralidad e imparcialidad de la justicia: reformas bá
  sicas frente al uso político del proceso penal. \n \nSección de Ciencias
-  Jurídicas y Política. Intervienen: Baltasar Garzón\, Argelia Queralt J
- iménez\, Gonzalo Martínez Fresneda. Modera:\nElena Herrera. Pérez Gald
- ós. 19:30.\n\nhttps://ateneodemadrid.com/evento/la-desviacion-de-la-acusa
- cion-popular-y-de-la-colaboracion-con-la-justicia-penal/
+  Jurídicas y Política. Intervienen: Baltasar Garzón\, Carlos López\, G
+ loria Elizo Serrano.  Modera: Elena Herrera. Pérez Galdós. 19:30.\n\nht
+ tps://ateneodemadrid.com/evento/la-desviacion-de-la-acusacion-popular-y-de
+ -la-colaboracion-con-la-justicia-penal/
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -273,15 +207,121 @@ DESCRIPTION:Presentación del libro.\n \n \nSección de Información y Com
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:"España del siglo XIX"
+SUMMARY:"La España del siglo XIX"
 DTSTART;TZID=Europe/Madrid:20261019T193000
 DTEND;TZID=Europe/Madrid:20261019T193000
-UID:572e27eda08a5ee1307bea6fd4255bc8be0c82f2fb40d2bc75ae0a74d6826d62
+UID:40e0842330c78d8dd12c720b7675ce717e480052a9d45b6363dd478f58d885de
 CATEGORIES:talk
 DESCRIPTION:Presentación del libro.  \n \nAgrupación Estudios pictóric
  os y sociales Francisco de Goya. Presenta: Mayte Pedraza. Intervienen: Edu
  ardo Montagut – autor. Modera: Carmen Martínez Coello. Salón Ciudad de
   Úbeda. 19:30.\n\nhttps://ateneodemadrid.com/evento/espana-del-siglo-xix/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ilustradoras científicas en la sombra «Dibujantas» en la Univer
+ sidad Central
+DTSTART;TZID=Europe/Madrid:20261020T180000
+DTEND;TZID=Europe/Madrid:20261020T180000
+UID:cbd939edf0177268d3319ab9fe00bb5d8856725651742a61db0789dda891276d
+CATEGORIES:talk
+DESCRIPTION:Presentación del libro. \n \nAgrupaciones Agustín Argüelles
+  y Ángel Garma. Intervienen: Ana Cabeza\, autora\; Victoria López-Aceved
+ o\, autora\; Jesús Ponce\; Isabel Tajahuerce\; Cristina Mateos\; Isabel G
+ arcía Fernández. Presenta: Margarita Márquez. Bienvenida: José Antonio
+  García Regueiro\, Belén Rico García. Sala Larra. 18:00.\n\nhttps://ate
+ neodemadrid.com/evento/ilustradoras-cientificas-en-la-sombra-dibujantas-en
+ -la-universidad-central/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rafael Altamira: historiador\, jurista e internacionalista
+DTSTART;TZID=Europe/Madrid:20261020T183000
+DTEND;TZID=Europe/Madrid:20261020T183000
+UID:834c3d0839d6b3287d6dfe7e355960acc2483b69e4dc6a06b57ff4683ce776c5
+CATEGORIES:talk
+DESCRIPTION:Secciones de Ciencias Históricas e Iberoamericana. Interviene
+ n: Chelo Naranjo Orovio\, José Luis de los Reyes\, José Luis Neila. Pres
+ enta: Antonio Martínez Mansilla. Salón Ciudad de Úbeda. 18:30.\n\nhttps
+ ://ateneodemadrid.com/evento/rafael-altamira-historiador-jurista-e-interna
+ cionalista/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hiroshima nunca más. España en el desarme nuclear
+DTSTART;TZID=Europe/Madrid:20261020T183000
+DTEND;TZID=Europe/Madrid:20261020T183000
+UID:1d1d067ffcb42b3dfdee4124a81a153d102cfb130e967d85c8ffe3081732b981
+CATEGORIES:talk
+DESCRIPTION:Sección de Derechos Civiles y Alianza por el desarme nuclear.
+  Pérez Galdós. 18:30.\nApertura: Paquita Sauquillo | Presidenta de Derec
+ hos Civiles.\nPresenta: Carlos Umaña | Director ejecutivo de la Alianza p
+ or el Desarme Nuclear y miembro directivo de la ICAN (Campaña Internacion
+ al para Abolir las Armas Nucleares\, Premio Nobel de la Paz 2017).\nInterv
+ iene: Michiko Kodama | Superviviente de Hiroshima y miembro de la junta di
+ rectiva de Nihon Hidankyo.\nPresentación: Melissa Parke\, reconocida abog
+ ada de DDHH de la ONU\, exministra y exparlamentaria australiana\, actual 
+ directora ejecutiva del ICAN\n\nhttps://ateneodemadrid.com/evento/no-mas-h
+ iroshimas-el-rol-de-espana-en-el-desarme-nuclear/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Incapacidad temporal: consulta\, trabajador\, empresa\, seguridad 
+ social
+DTSTART;TZID=Europe/Madrid:20261020T190000
+DTEND;TZID=Europe/Madrid:20261020T190000
+UID:1498aa1dac54cf0d98ba5cb58feb5c1e29f8391d9979d8f1b32c4d9633d84a5c
+CATEGORIES:talk
+DESCRIPTION:Ciclo Medicina de Familia. \n \nSección de Ciencias de la Sal
+ ud  \n\nIntervienen:\nJosé M.ª Morán Llanes\, médico inspector\,  exj
+ efe de la Inspección Sanitaria de Madrid\, actualmente jubilado \nCarmen 
+ Mancheño\, médica especialista en Medicina del Trabajo. Responsable del 
+ incapacidad temporal y derechos de las personas trabajadoras del sindicato
+  CCOO. \nBernardo Pérez-Navas Pérez. Abogado experto en derecho laboral 
+ y de seguridad social. Socio del despacho Garrigues \n \n \nModera:\nJosé
+  Luis Quintana Gómez\, médico de familia en el Centro de Salud El Greco 
+ (Getafe)\, del Servicio Madrileño de Salud \n \nCoordinan este ciclo:\nRa
+ fael Bravo\, médico de familia. \nVicente Baos\, médico de familia. \n\n
+ Ramón y Cajal. 19:00.\n\nhttps://ateneodemadrid.com/evento/consulta-traba
+ jador-empresa-seguridad-social/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:"El fin del mundo tal y como lo conocíamos"
+DTSTART;TZID=Europe/Madrid:20261020T200000
+DTEND;TZID=Europe/Madrid:20261020T200000
+UID:b9021e481e274446a281b8774edf3e0cfea8fdfb1733cd45763c58ae39d61738
+CATEGORIES:talk
+DESCRIPTION:Presentación del libro.  \n \nSección de Ciencias Sociales.
+  Intervienen: José Carlos Díez – autor\, Álvaro Nadal\, Judith Arnal
+ \, Roger Domingo. Biblioteca 19:00.\n\nhttps://ateneodemadrid.com/evento/e
+ l-fin-del-mundo-tal-y-como-lo-conociamos/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Explotación Sexual: Violencia contra las mujeres
+DTSTART;TZID=Europe/Madrid:20261021T103000
+DTEND;TZID=Europe/Madrid:20261021T103000
+UID:8138f2c923e0ed19b10ebb1e8a6ab65bc1fcb5a338174870ff448575d114e3e6
+CATEGORIES:talk
+DESCRIPTION:Propuestas objetivas para la acción.  \n \nSección de Cienc
+ ias Sociales. Cátedra Mayor. 10:30. \nMesa 1: Estructura\, Entrada y Sist
+ ema\nModeradora: \nPaloma Marín: Magistrada\, integrante del Club de las 
+ 25. \nPonentes: \nLaura Barrios Oliver: Presidenta de la Federación Mujer
+ es Jóvenes (experta en prevención de violencia digital y de género). \n
+ Esther Torrado Martín-Palomino: Doctora en Sociología\, profesora en la 
+ Universidad de La Laguna (ULL) e investigadora del grupo VIOSEX. \nYolanda
+  Gómez Sánchez: Catedrática de Derecho Constitucional (perspectiva inst
+ itucional y de derechos públicos). \nMesa 2: Consecuencias\, Recuperació
+ n y Propuestas de Acción\nModeradora: \nChelo Álvarez: Psicóloga expert
+ a en trauma\, presidenta de la Asociación Alanna e integrante del Club de
+  las 25. \nPonentes: \nSilvia Carrasco Pons: Doctora en Antropología Soci
+ al\, profesora de la Universitat Autònoma de Barcelona (UAB) (perspectiva
+  educativa y preventiva). \nCarol L.: Activista feminista\, superviviente 
+ del sistema prostitucional y agente de igualdad. \nBeatriz Sánchez Álvar
+ ez: Fiscal de Sala Coordinadora de Trata de Personas y Extranjería (Fisca
+ lía General del Estado).\n\nhttps://ateneodemadrid.com/evento/la-explotac
+ ion-sexual-violencia-contra-las-mujeres/
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -330,5 +370,38 @@ CATEGORIES:talk
 DESCRIPTION:https://laanonimalibreria.com/evento/202/presentacion-el-prime
  r-animal-visible/
 LOCATION:La Anonima Libreria - C/ Embajadores\, 166 - Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Glosario de Sombras
+DTSTART;TZID=Europe/Madrid:20261029T190000
+UID:ea4330a285b3a78454d5c40fda97464f81339a706967f8cb104f4d71be46cece
+CATEGORIES:talk
+DESCRIPTION:https://laanonimalibreria.com/evento/211/glosario-de-sombras/
+LOCATION:La Anonima Libreria - C/ Embajadores\, 166 - Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Presentación: «Dedos de viento. Mi vida en la montaña»\, de Pi
+ ti Capella
+DTSTART;TZID=Europe/Madrid:20261029T190000
+UID:5d61f399ffc69d78cb80f9c77255c4ca3254f0261375de49f811743488f4419c
+CATEGORIES:talk
+DESCRIPTION:Piti Capella visitará la librería Desnivel para presentarnos
+  su libro Dedos de viento. Mi vida en la montaña . El evento será el pr
+ óximo jueves 29 de octubre a las 19 h de la tarde . ¡No te lo pierdas!\n
+ \nhttps://www.libreriadesnivel.com/agenda/dedos-de-viento-mi-vida-en-la-mo
+ ntana-de-piti-capella/445/
+LOCATION:Libreria Desnivel - Plaza de Matute\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recital Y Presentación "En El Estanque De Las Brujas"
+DTSTART;TZID=Europe/Madrid:20261029T193000
+UID:f5606de42bcb95e8fb6928177830133d27f9647fcb4403265c399f7e7305baaa
+CATEGORIES:talk
+DESCRIPTION:Precio de las entradas: gratuito hasta completar aforo Bio/enl
+ aces bandas: Más información: Recital de poetas de Carabanchel. Antolog
+ ía poética coordinada por Alberto Morate. Participarán: Sandra Barrera
+ \, Marisa Bello\, Yolanda Corell\,\n\nhttps://gruta77.com/events/recital-y
+ -presentacion-en-el-estanque-de-las-brujas/var/ri-0.l-L2
+LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
 END:VEVENT
 END:VCALENDAR
