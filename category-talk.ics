@@ -2,30 +2,25 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Delicias//ES
 BEGIN:VEVENT
-SUMMARY:"Las cenizas de Bárbara Capocci"
-DTSTART;TZID=Europe/Madrid:20261016T183000
-DTEND;TZID=Europe/Madrid:20261016T183000
-UID:993bdba82ee6dd76a7a74d652f9cf652875ab6ab9a54ba1331362cba68a97555
+SUMMARY:El castaño de Gainsbourg
+DTSTART;TZID=Europe/Madrid:20261017T120000
+DTEND;TZID=Europe/Madrid:20261017T120000
+UID:a9967d8136405b7011ac03c8219bc097860717f4fc78312e80f33c3728da7632
 CATEGORIES:talk
-DESCRIPTION:Presentación del libro.  \n \nSección Africanista y Secció
- n de Literatura. Presentan: Miguel Losada\, Basilio Rodríguez Cañada. In
- tervienen: Marisol Esteban Repiso\, María Luisa Blanco Gómez\, José Lui
- s Marín Aranda – coautor\, Nery Santos Gómez – coautora. Sala Larra.
-  18:30.\n\nhttps://ateneodemadrid.com/evento/las-cenizas-de-barbara-capocc
- i/
+DESCRIPTION:Presentación del libro.  \n \nPresenta: Miguel Ángel Vázqu
+ ez. Intervienen: Amanda Sorokin  -autora\, Javier Ruibal. Actuación: Ste
+ wart Mundini\, Luis María Pérez\, Gonzalo Escarpa. La Cacharrería. 12:0
+ 0.\n\nhttps://ateneodemadrid.com/evento/el-castano-de-gainsbourg/
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ceuta\, crisis y abandono de una ciudad acosada
-DTSTART;TZID=Europe/Madrid:20261016T193000
-DTEND;TZID=Europe/Madrid:20261016T193000
-UID:91799e9b9dbe99038ed33b63e4908ead8abefd93547edec31aa9e77b65ba36de
+SUMMARY:Vermú y encuentro con la editorial Impedimenta
+DTSTART;TZID=Europe/Madrid:20261017T123000
+UID:7bc657f0a3403278de1b6c75792ba748738e56c18622e01722c8651e4fd7b6a8
 CATEGORIES:talk
-DESCRIPTION:Agrupación especial 92 Liberales en el Ateneo. Ponente: Carlo
- s Rontomé. Presenta: Seby García. Preside: Marcos Arbeloa. Modera: Paola
-  Gutiérrez. Sala Ramón y Cajal. 19:30.\n\nhttps://ateneodemadrid.com/eve
- nto/ceuta-crisis-y-abandono-de-una-ciudad-acosada/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+DESCRIPTION:https://laanonimalibreria.com/evento/205/vermu-y-encuentro-con
+ -la-editorial-impedimenta/
+LOCATION:La Anonima Libreria - C/ Embajadores\, 166 - Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pinturas de Juan Correa en la iglesia de Santo Tomás Cantuariense
@@ -37,10 +32,10 @@ CATEGORIES:talk
 DESCRIPTION:Ciclo Edificios emblemáticos en el Camino de Santiago. \n \nS
  ecciones de Farmacia\, Ciencias Históricas y Ciencias de la Salud. Apertu
  ra del acto: Daniel Pacheco. Presenta: Ana Vega Toscano. Intervienen: Enri
- que Lillo\, Sagrario Sánchez-Pacheco. Moderan: Fina Alonso\, Pablo Martí
- nez. Sala Ramón y Cajal. 17:30.\n\nhttps://ateneodemadrid.com/evento/pint
- uras-de-juan-correa-en-la-iglesia-de-santo-tomas-cantuariense-de-dosbarrio
- s-toledo/
+ que Lillo\, Pilar Sánchez Alcón . Moderan: Fina Alonso\, Pablo Martínez
+ . Cierre Coro del Centro Gallego en Madrid. Sala Ramón y Cajal. 17:30.\n
+ \nhttps://ateneodemadrid.com/evento/pinturas-de-juan-correa-en-la-iglesia-
+ de-santo-tomas-cantuariense-de-dosbarrios-toledo/
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -88,11 +83,11 @@ DTEND;TZID=Europe/Madrid:20261019T190000
 UID:1c5a5d14e5c8ec7d1c26c665d64bb7cf01286ffbe28f0a39b900555b50313238
 CATEGORIES:talk
 DESCRIPTION:Coloquio y lecturas.  \n \nSección de Literatura.\nBienvenid
- a: Ana Santos y Óscar Chaves\nPresenta: Cristina García Bajo\nLeerán te
- xtos/ Participan:\nElvira Lindo\nInés Martín Rodrigo\nNerea Pérez de la
- s Heras\nMarta Fernández\nAroa Moreno\nRosa Montero\nMarta Jiménez Serra
- no\nAna Santos\nBiblioteca. 19:00.\n\nhttps://ateneodemadrid.com/evento/di
- a-de-las-escritoras/
+ a: Óscar Chaves\nPresenta: Cristina García Bajo\nParticipan (por orden d
+ e intervención)\nElvira Lindo\nInés Martín Rodrigo\nNerea Pérez de las
+  Heras\nMarta Fernández\nAroa Moreno\nRosa Montero\nMarta Jiménez Serran
+ o\nAna Santos\nBiblioteca. 19:00.\n\nhttps://ateneodemadrid.com/evento/dia
+ -de-las-escritoras/
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -117,6 +112,34 @@ DESCRIPTION:Presentación del libro.  \n \nAgrupación Estudios pictóric
  os y sociales Francisco de Goya. Presenta: Mayte Pedraza. Intervienen: Edu
  ardo Montagut – autor. Modera: Carmen Martínez Coello. Salón Ciudad de
   Úbeda. 19:30.\n\nhttps://ateneodemadrid.com/evento/espana-del-siglo-xix/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:"En el corazón de España"
+DTSTART;TZID=Europe/Madrid:20261020T120000
+DTEND;TZID=Europe/Madrid:20261020T120000
+UID:f787db9a52f282fb88e637b168a08d1cf2fba84b487b0d3c2fa12d7ce90e0b82
+CATEGORIES:talk
+DESCRIPTION:Presentación de la edición en español del libro.  \n \nLa 
+ Embajada de la República de Macedonia del Norte se complace en invitarle 
+ a la presentación de la edición en español de la obra «En el corazón 
+ de España». \nNoventa años después de la Guerra Civil española (1936-
+ 1939)\, este libro recupera y reúne los recuerdos\, las cartas\, los poem
+ as y las historias personales de los voluntarios macedonios que participar
+ on en la contienda. Una publicación concebida para que sus relatos de val
+ entía\, solidaridad y sacrificio sigan vivos en la memoria de las generac
+ iones futuras. \nEl acto estará presidido por el Excelentísimo Señor Em
+ bajador de la República de Macedonia del Norte: \nEdmond Ademi – Embaja
+ dor de la República de Macedonia del Norte ante el Reino de España y Ex 
+ Ministro en el Gobierno de Macedonia del Norte . \nIntervienen:\nFernando 
+ Martinez Lopez – Secretario de Estado de Memoria Democrática. Historia
+ dor\, catedrático de Historia Contemporánea. Ha  liderado la implementa
+ ción de políticas vinculadas a la Guerra Civil. \nJovica Palashevski –
+  Secretario del Estado en el Ministerio de Asuntos Exteriores y Comercio E
+ xterior de la República de Macedonia del Norte . Diplomático de carrera 
+ con más de dos décadas de experiencia en el servicio exterior. \nSala P
+ érez Galdós. 12:00.\n\nhttps://ateneodemadrid.com/evento/en-el-corazon-d
+ e-espana/
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -169,9 +192,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Incapacidad temporal: consulta\, trabajador\, empresa\, seguridad 
  social
-DTSTART;TZID=Europe/Madrid:20261020T190000
-DTEND;TZID=Europe/Madrid:20261020T190000
-UID:1498aa1dac54cf0d98ba5cb58feb5c1e29f8391d9979d8f1b32c4d9633d84a5c
+DTSTART;TZID=Europe/Madrid:20261020T183000
+DTEND;TZID=Europe/Madrid:20261020T183000
+UID:ffba86fb96fcb6ae7bc2dd9d7b7b6f5f7ec77c1ce79c52bb8904a0648d08d75b
 CATEGORIES:talk
 DESCRIPTION:Ciclo Medicina de Familia. \n \nSección de Ciencias de la Sal
  ud  \n\nIntervienen:\nJosé M.ª Morán Llanes\, médico inspector\,  exj
@@ -183,7 +206,7 @@ DESCRIPTION:Ciclo Medicina de Familia. \n \nSección de Ciencias de la Sal
   Luis Quintana Gómez\, médico de familia en el Centro de Salud El Greco 
  (Getafe)\, del Servicio Madrileño de Salud \n \nCoordinan este ciclo:\nRa
  fael Bravo\, médico de familia. \nVicente Baos\, médico de familia. \n\n
- Ramón y Cajal. 19:00.\n\nhttps://ateneodemadrid.com/evento/consulta-traba
+ Ramón y Cajal. 18:30.\n\nhttps://ateneodemadrid.com/evento/consulta-traba
  jador-empresa-seguridad-social/
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
@@ -262,6 +285,55 @@ DESCRIPTION:Presentación del libro.  \n \nSección de Literatura. Interv
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Lo que somos bajo la piel
+DTSTART;TZID=Europe/Madrid:20261022T180000
+DTEND;TZID=Europe/Madrid:20261022T180000
+UID:fd37960d9ff2b05a7e3d39bdc40001d986b1784f76363e69aa24151fc4729481
+CATEGORIES:talk
+DESCRIPTION:Presentacióndel libro. \n \nSección de Psicología. Intervie
+ ne: Emilia Redolar – autora\, Nazareth Castellanos. Presenta: Cristina G
+ arcía Bajo. Sala Ramón y Cajal. 18:00.\n\nhttps://ateneodemadrid.com/eve
+ nto/lo-que-somos-bajo-la-piel/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Escucha Gustosa con Coco Moya
+DTSTART;TZID=Europe/Madrid:20261022T183000
+DTEND;TZID=Europe/Madrid:20261022T200000
+UID:e9455f9f35686c2b7798d90aed01888827f30ce6efb2222ff3b28816024444b3
+CATEGORIES:talk
+DESCRIPTION:Espacio: Sala Marina\n\nEl Estudio de Infinito Delicias acoge 
+ un podcast conversacional y sonoro articulado a partir de la conexión ent
+ re el ecosistema del arte contemporáneo y las líneas de investigación y
+  acción del centro.\n\nLa propuesta consiste en un encuentro de escucha c
+ ompartida que se despliega en dos formatos y experiencias complementarias.
+  Por un lado\, una edición en vivo junto al público asistente\; por otro
+ \, una versión grabada para plataformas digitales.\n\nAcogemos contenidos
+  e invitadas cuyas prácticas conectan alimentación\, arte y sostenibilid
+ ad a través de sus vínculos con el territorio y con otras especies. La n
+ arrativa se construye mediante la palabra y la música\, con una selecció
+ n de temas y paisajes sonoros orientada a situar no solo el trabajo\, sino
+  también los referentes de cada invitada.\n\nCon una frecuencia de un epi
+ sodio al mes\, varios encuentros darán un protagonismo especial a la mús
+ ica mediante un showcase pensado como bocado sonoro para degustar en direc
+ to.\n\n22 de octubre —\n\nEscucha Gustosa con Coco Moya\n\nCoco Moya tra
+ baja en la intersección entre el sonido\, el territorio y la tecnología
+ \, incorporando la imaginación y la intuición a un pensamiento práctico
+ . Forma parte del colectivo musical Menhir junto a Iván Cebrián. Coco se
+ rá la primera invitada de la temporada del bocado sonoro.\n\nhttps://www.
+ infinitodelicias.com/es/agenda/escucha-gustosa-coco-moya
+LOCATION:Infinito Delicias - C. de Juana Dona\, 5\, Arganzuela\, 28045 Mad
+ rid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Presentación "Todavía"
+DTSTART;TZID=Europe/Madrid:20261022T190000
+UID:6292e07b6d2d0bc07928c5c58edfa25e14852ffd087d11ffeeb0dba8661b9cc7
+CATEGORIES:talk
+DESCRIPTION:https://laanonimalibreria.com/evento/199/presentacion-todavia/
+LOCATION:La Anonima Libreria - C/ Embajadores\, 166 - Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Presentación: «Avanzando en el tiempo»\, de Ángel Rivera
 DTSTART;TZID=Europe/Madrid:20261022T190000
 UID:d342a1bb267b08fa7c492c818c8716782a3295871d0990cd46f3dad8c19070d7
@@ -273,6 +345,40 @@ DESCRIPTION:La librería Desnivel acogerá la presentación de Avanzando e
   h de la tarde.\n\nhttps://www.libreriadesnivel.com/agenda/avanzando-en-el
  -tiempo-de-angel-rivera/452/
 LOCATION:Libreria Desnivel - Plaza de Matute\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Club de lectura "La piel hembra" con Elaine Villar Madruga
+DTSTART;TZID=Europe/Madrid:20261023T190000
+UID:fb775f499671924ddbad71d60d719bc9e0f3ad8cde4c43fa83fe25fc2890c2e2
+CATEGORIES:talk
+DESCRIPTION:https://laanonimalibreria.com/evento/195/club-de-lectura-la-pi
+ el-hembra-con-elaine-villar-madruga/
+LOCATION:La Anonima Libreria - C/ Embajadores\, 166 - Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Presentación ¡A jugar!
+DTSTART;TZID=Europe/Madrid:20261024T120000
+UID:f5954a94f78a6c71cb68a8a6cf8f7843c13125098537dd99d6aacb269848290d
+CATEGORIES:talk
+DESCRIPTION:https://laanonimalibreria.com/evento/209/presentacion-a-jugar/
+LOCATION:La Anonima Libreria - C/ Embajadores\, 166 - Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Presentación "El primer animal visible"
+DTSTART;TZID=Europe/Madrid:20261024T190000
+UID:7ac793fbe53482eb62d5afa3055e370c01744c54f8465cc9ca9069a76334a4cc
+CATEGORIES:talk
+DESCRIPTION:https://laanonimalibreria.com/evento/202/presentacion-el-prime
+ r-animal-visible/
+LOCATION:La Anonima Libreria - C/ Embajadores\, 166 - Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Glosario de Sombras
+DTSTART;TZID=Europe/Madrid:20261029T190000
+UID:ea4330a285b3a78454d5c40fda97464f81339a706967f8cb104f4d71be46cece
+CATEGORIES:talk
+DESCRIPTION:https://laanonimalibreria.com/evento/211/glosario-de-sombras/
+LOCATION:La Anonima Libreria - C/ Embajadores\, 166 - Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Presentación: «Dedos de viento. Mi vida en la montaña»\, de Pi
@@ -298,5 +404,14 @@ DESCRIPTION:Precio de las entradas: gratuito hasta completar aforo Bio/enl
  \, Marisa Bello\, Yolanda Corell\,\n\nhttps://gruta77.com/events/recital-y
  -presentacion-en-el-estanque-de-las-brujas/var/ri-0.l-L2
 LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Presentación "Trabécula"
+DTSTART;TZID=Europe/Madrid:20261030T190000
+UID:e274fabc0972c5d007110fa6b4e61372633b2d5db2623184d4dca013de02c72b
+CATEGORIES:talk
+DESCRIPTION:https://laanonimalibreria.com/evento/200/presentacion-trabecul
+ a/
+LOCATION:La Anonima Libreria - C/ Embajadores\, 166 - Madrid
 END:VEVENT
 END:VCALENDAR

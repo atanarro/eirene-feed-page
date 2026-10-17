@@ -650,12 +650,12 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Biblioteca Habsbúrgica. Semblanzas impresas de una dinastía
 DTSTART;TZID=Europe/Madrid:20260901T000000
-DTEND;TZID=Europe/Madrid:20261116T000000
+DTEND;TZID=Europe/Madrid:20261130T000000
 UID:c3f46f23b2231e4f264f1464a140aa0fd2654337808843593cf1dd56b962c4de
 CATEGORIES:exhibition
 DESCRIPTION:La exposición recorre la imagen impresa de la dinastía Habsb
  urgo a través de más de cien obras históricas (Biblioteca Histórica UC
- M Marqués de Valdecilla. Hasta 16 noviembre).\n\nhttps://biblioteca.ucm.e
+ M Marqués de Valdecilla. Hasta 30 noviembre).\n\nhttps://biblioteca.ucm.e
  s/historica/biblioteca-habsburgica-semblanzas-impresas
 LOCATION:Biblioteca Histórica UCM Marqués de Valdecilla - del Noviciado
  \, 3\, Madrid\, 28015
@@ -743,19 +743,6 @@ DESCRIPTION:Instalación site-specific en la que pintura\, escultura y arq
 LOCATION:CentroCentro - de Cibeles\, 1\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Llegar con las olas
-DTSTART;TZID=Europe/Madrid:20260909T000000
-DTEND;TZID=Europe/Madrid:20261016T000000
-UID:b00c9e1ea0fa5ac8f4ae904cdbd371387b4ba61e18c5723600e51356b00737b6
-CATEGORIES:exhibition
-DESCRIPTION:La fotógrafa mexicana Theda Acha invita a adentrarse en el mu
- ndo con el que convivió durante diez años de su vida (Instituto Cultural
-  de México en España. Hasta 16 octubre).\n\nhttps://www.esmadrid.com/age
- nda/llegar-olas-instituto-cultural-mexico-espana
-LOCATION:Instituto Cultural de México en España - de San Jerónimo\, 46
- \, Madrid\, 28014
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Manolo Millares. Personaje caído I
 DTSTART;TZID=Europe/Madrid:20260909T000000
 DTEND;TZID=Europe/Madrid:20270216T000000
@@ -781,20 +768,6 @@ DESCRIPTION:Exposición colectiva de 19 artistas mexicanos de distintas ge
  ranea-desde-el-heliograbado/
 LOCATION:Fundación Casa de México en España - de Alberto Aguilera\, 20
  \, Madrid\, 28015
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Prácticas de re-existencia
-DTSTART;TZID=Europe/Madrid:20260909T000000
-DTEND;TZID=Europe/Madrid:20261016T000000
-UID:1f6e82d00be44b6e24952960533fd46a5946de98686a43327e5754dfdce096b4
-CATEGORIES:exhibition
-DESCRIPTION:La muestra se compone de una treintena de piezas en distintos 
- formatos fotográficos\, una pieza de video y otra de arte sonoro (Institu
- to Cultural de México en España. Hasta 16 octubre).\n\nhttps://icm.sre.g
- ob.mx/espana/index.php/artes-visuales/979-exposicion-practicas-de-re-exist
- encia-colectiva
-LOCATION:Instituto Cultural de México en España - de San Jerónimo\, 46
- \, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Entre la retícula y la vida
@@ -1570,6 +1543,19 @@ DESCRIPTION:La muestra nace de una experiencia vivida por la artista Ferna
  .com/
 LOCATION:Madrid - de la Encomienda\, 3\, Centro\,\, Madrid\, Madrid\, 2801
  2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Una cita con Luis Escobar
+DTSTART;TZID=Europe/Madrid:20261016T000000
+DTEND;TZID=Europe/Madrid:20270221T000000
+UID:966226351c272c3550b62a4300ce995c220c192bd3e560ced486a91e3d186d84
+CATEGORIES:exhibition
+DESCRIPTION:Recorrido documental que recupera la trayectoria de una de las
+  figuras determinantes de las artes escénicas de la posguerra (Complejo E
+ l Águila. 16 oct a 21 feb 2027).\n\nhttps://www.comunidad.madrid/archivos
+ /index.php/es/actividades/exposiciones-sala-cristobal-portilllo/item/3128-
+ una-cita-con-luis-escobar
+LOCATION:El Águila - de Ramírez de Prado\, 3\, Madrid\, 28045
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:La transición estética. España\, 1960-2020
