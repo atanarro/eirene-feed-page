@@ -76,18 +76,6 @@ DESCRIPTION:Una escultura de 12 metros del artista barcelonés se ubica so
 LOCATION:Plaza de Colón - de Colón\, Madrid\, 28004
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fardo. Andrea Canepa
-DTSTART;TZID=Europe/Madrid:20260113T000000
-DTEND;TZID=Europe/Madrid:20270101T000000
-UID:99ee54aef821fae61f6483ab395a68641a89a5657eeb5743ebd79fcc58bfce65
-CATEGORIES:exhibition
-DESCRIPTION:La obra de la artista peruana interviene la lona que cubre tem
- poralmente el palacio decimonónico del Parque de El Retiro durante su res
- tauración (Palacio de Cristal. Hasta 1 ene).\n\nhttps://www.museoreinasof
- ia.es/exposicion/andrea-canepa
-LOCATION:Palacio de Cristal - de República de Cuba\, 4\, Madrid\, 28009
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Fundación. Marlon de Azambuja
 DTSTART;TZID=Europe/Madrid:20260130T000000
 DTEND;TZID=Europe/Madrid:20261213T000000
@@ -1388,19 +1376,6 @@ DESCRIPTION:Un recorrido no lineal por la obra del artista que incluye cic
 LOCATION:CentroCentro - de Cibeles\, 1\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Internalities
-DTSTART;TZID=Europe/Madrid:20261008T000000
-DTEND;TZID=Europe/Madrid:20270110T000000
-UID:5eea510acec53632fc6b224b14ecb61120e8390a82f49a678e236768bcf43c0b
-CATEGORIES:exhibition
-DESCRIPTION:Muestra que analiza la propuesta sobre arquitectura y sostenib
- ilidad de Venecia (Casa de la Arquitectura. Hasta 10 enero).\n\nhttps://la
- casadelaarquitectura.es/recurso/internalities-internalities/6f5ce310-cd14-
- 4534-a2d9-a01ba07c07e7
-LOCATION:La Casa de la Arquitectura (Arquería de Nuevos Ministerios) - de
-  la Castellana\, 67\, Madrid\, 28046
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Recursos naturales
 DTSTART;TZID=Europe/Madrid:20261008T000000
 DTEND;TZID=Europe/Madrid:20270401T000000
@@ -1752,5 +1727,17 @@ DESCRIPTION:Una exposición que ofrece un viaje a la Irlanda ancestral de
  la mano de Turismo de Irlanda (Nomad Museo Inmersivo. 29 a 31 octubre).\n
  \nhttps://www.ireland.com/es-es/features/spain/halloween-en-madrid/
 LOCATION:Nomad Museo Inmersivo - Gran Vía\, 78\, Madrid\, 28013
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BID26. Bienal de Diseño Iberoamericano
+DTSTART;TZID=Europe/Madrid:20261102T000000
+DTEND;TZID=Europe/Madrid:20261107T000000
+UID:0cb1a2b26acc94f3d5b4dfb23b0315e9b53bb378426e15e88f4a7f52bddaea75
+CATEGORIES:exhibition
+DESCRIPTION:Décima edición de este encuentro que reúne las mejores expr
+ esiones del diseño reciente de Latinoamérica\, España y Portugal (Centr
+ al de diseño - Matadero. 2 a 7 noviembre).\n\nhttps://bid-dimad.com/
+LOCATION:Central de diseño (Matadero) - de la Chopera\, 14\, Madrid\, 280
+ 45
 END:VEVENT
 END:VCALENDAR

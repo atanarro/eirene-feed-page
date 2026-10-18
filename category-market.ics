@@ -2,17 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Delicias//ES
 BEGIN:VEVENT
-SUMMARY:Mercado de las Ranas
-DTSTART;TZID=Europe/Madrid:20261017T120000
-DTEND;TZID=Europe/Madrid:20261017T200000
-UID:c6cfed06aaf6ddde9a01b2084693046b21728bc95c1756672842bf710e6585de
-CATEGORIES:market
-DESCRIPTION:Mercado del Barrio de las Letras con puestos de artesanía\, d
- iseño\, moda y gastronomía en la calle Huertas.\n\nhttps://barrioletras.
- com/mercado-de-las-ranas/
-LOCATION:Barrio de las Letras - Calle de las Huertas\, 2-47\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Mercado Productores Planetario
 DTSTART;TZID=Europe/Madrid:20261018T100000
 DTEND;TZID=Europe/Madrid:20261018T160000
@@ -45,5 +34,30 @@ DESCRIPTION:Mercado de productores locales y artesanos en Valdebebas con p
  ://mercadoproductores.es/mercado-valdebebas/
 LOCATION:Mercado Productores Valdebebas - Plaza Francisco de Asis Cabrero
  \, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mercado Productores Planetario
+DTSTART;TZID=Europe/Madrid:20261101T100000
+DTEND;TZID=Europe/Madrid:20261101T160000
+UID:1cdd8bb83cf922a507b7f976a57a1795e45365d6689f242e22d6b04b7f493cbe
+CATEGORIES:market
+DESCRIPTION:Mercado de productores locales y artesanos en Planetario con a
+ limentacion sostenible\, productos de cercania y actividades al aire libre
+ .\n\nhttps://mercadoproductores.es/mp-planetario/
+LOCATION:Mercado Productores Planetario - Avenida del Planetario esquina C
+ alle Meneses\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mercadillo de Minerales de la Escuela de Minas
+DTSTART;TZID=Europe/Madrid:20261101T100000
+DTEND;TZID=Europe/Madrid:20261101T140000
+UID:5cdcf945a61ad0d5d2d0f8c934a01300fda53ed7923297424f32b415394bcc02
+CATEGORIES:market
+DESCRIPTION:Mercadillo de minerales\, fosiles\, gemas y conchas en la Escu
+ ela Superior de Ingenieros de Minas (primer domingo de cada mes\, excepto 
+ agosto).\n\nhttps://www.esmadrid.com/agenda/mercadillo-minerales-madrid-es
+ cuela-superior-ingenieros-minas
+LOCATION:Escuela Superior de Ingenieros de Minas - Calle Rios Rosas\, 21\,
+  Madrid
 END:VEVENT
 END:VCALENDAR
