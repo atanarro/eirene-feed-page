@@ -1,5 +1,5 @@
 Eirene feed debug
-Total events: 3
+Total events: 4
 
 [1] Feria de Artesanía de Recoletos
   id: 89aad1a09820c7cd94f2921665797f61430c60f4b1630f03bba3025dbb4de763
@@ -23,7 +23,18 @@ Total events: 3
   url: https://mercadoproductores.es/mercado-valdebebas/
   description: Mercado de productores locales y artesanos en Valdebebas con productos frescos, gourmet y actividades para todos los publicos.
 
-[3] Mercadillo de Minerales de la Escuela de Minas
+[3] Mercado Productores Planetario
+  id: 1cdd8bb83cf922a507b7f976a57a1795e45365d6689f242e22d6b04b7f493cbe
+  start: 2026-11-01T10:00:00+01:00
+  end: 2026-11-01T16:00:00+01:00
+  category: market
+  source: mercado_productores
+  location: Mercado Productores Planetario - Avenida del Planetario esquina Calle Meneses, Madrid
+  coordinates: 40.392053, -3.679427
+  url: https://mercadoproductores.es/mp-planetario/
+  description: Mercado de productores locales y artesanos en Planetario con alimentacion sostenible, productos de cercania y actividades al aire libre.
+
+[4] Mercadillo de Minerales de la Escuela de Minas
   id: 5cdcf945a61ad0d5d2d0f8c934a01300fda53ed7923297424f32b415394bcc02
   start: 2026-11-01T10:00:00+01:00
   end: 2026-11-01T14:00:00+01:00
