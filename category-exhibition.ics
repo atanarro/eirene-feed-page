@@ -718,20 +718,6 @@ DESCRIPTION:La Chola Poblete\, Niño de Elche y Pedro G. Romero exploran c
 LOCATION:La Casa Encendida - de Valencia\, 2\, Madrid\, 28012
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Loitsuja – Conjuros
-DTSTART;TZID=Europe/Madrid:20260910T000000
-DTEND;TZID=Europe/Madrid:20261022T000000
-UID:7310096510e59772302ad2965e22ea305042f6af7a8e52efa1bb769d6ea5ddf6
-CATEGORIES:exhibition
-DESCRIPTION:Exposición colectiva de cinco artistas\, que explora los ritu
- ales vinculados a la naturaleza y a la vida cotidiana (Galería Instituto 
- Iberoamericano de Finlandia. Hasta 22 oct).\n\nhttps://madrid.fi/loitsuja-
- conjuros-arte-magia-y-naturaleza-para-celebrar-30-anos-creando-puentes-cul
- turales/
-LOCATION:Instituto Iberoamericano de Finlandia - de San Agustín\, 7\, Mad
- rid\, 28014
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bailad\, bailad\, malditos. Carlos Aires
 DTSTART;TZID=Europe/Madrid:20260911T000000
 DTEND;TZID=Europe/Madrid:20270124T000000
@@ -1012,12 +998,12 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:No acabarán mis flores. Las múltiples vidas de la flora mexicana
 DTSTART;TZID=Europe/Madrid:20260930T000000
-DTEND;TZID=Europe/Madrid:20270212T000000
+DTEND;TZID=Europe/Madrid:20270112T000000
 UID:2d4d88cc672331d386048887347c6b232351b04c3dc6f23a5bbff8c0d811127f
 CATEGORIES:exhibition
 DESCRIPTION:Exposición que explora las relaciones entre las flores y las 
  sociedades humanas a través del tiempo (Pabellón Villanueva. Ala norte. 
- 30 sep a 12 feb).\n\nhttps://rjb.csic.es/evento/exposicion-no-acabaran-mis
+ 30 sep a 12 ene).\n\nhttps://rjb.csic.es/evento/exposicion-no-acabaran-mis
  -flores-las-multiples-vidas-de-la-flora-mexicana/
 LOCATION:Real Jardín Botánico - de Murillo\, 2\, Madrid\, 28014
 END:VEVENT
@@ -1366,19 +1352,6 @@ LOCATION:Museo Nacional Thyssen-Bornemisza - del Prado\, 8\, Madrid\, 2801
  4
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ricardo de Madrazo (1852-1917): dibujos y acuarelas
-DTSTART;TZID=Europe/Madrid:20261013T000000
-DTEND;TZID=Europe/Madrid:20270117T000000
-UID:b2a9f29c425919679405da5611c0f49e9f71f9cc85e5038fc4e4850328e32226
-CATEGORIES:exhibition
-DESCRIPTION:Exposición dedicada exclusivamente a la obra del artista junt
- o a una selección de cuadernos\, dibujos y acuarelas (Museo del Prado. Ha
- sta 17 ene).\n\nhttps://www.museodelprado.es/actualidad/exposicion/ricardo
- -de-madrazo-1852-1917-dibujos-y-acuarelas/1a449f97-e4bc-73bf-4034-a3580abe
- 45c1
-LOCATION:Museo del Prado - del Prado\, s/n\, Madrid\, 28014
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:La cabaña de ámbar. Miguel Ángel Blanco
 DTSTART;TZID=Europe/Madrid:20261015T000000
 DTEND;TZID=Europe/Madrid:20270117T000000
@@ -1470,15 +1443,27 @@ LOCATION:Teatro Fernán Gómez. Centro Cultural de la Villa - de Colón \,
   4\, Madrid\, 28001
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Borges: El otro\, el mismo
+DTSTART;TZID=Europe/Madrid:20261020T000000
+DTEND;TZID=Europe/Madrid:20261107T000000
+UID:9deda9aa394b2c6d40d627e01116afeee452a72368c56ab4780d2ee62ff0d19a
+CATEGORIES:exhibition
+DESCRIPTION:Muestra conmemora al autor argentino mediante una selección d
+ e objetos históricos pertenecientes a la colección del Museo del Escrito
+ r (Fundación Ortega-Marañón. Hasta 7 noviembre).\n\nhttps://ortegaygass
+ et.edu/exposiciones/borges-el-otro-el-mismo/
+LOCATION:Fundación Ortega - Marañón - de Fortuny\, 53\, Madrid\, 28010
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Soñando océanos
 DTSTART;TZID=Europe/Madrid:20261020T000000
-DTEND;TZID=Europe/Madrid:20261227T000000
+DTEND;TZID=Europe/Madrid:20270214T000000
 UID:3b1f38fb1cc62b92d42d3dfecea76aa34b4a4ca128bb74df59146a631f39bd1c
 CATEGORIES:exhibition
 DESCRIPTION:Exposición fotográfica y solidaria de WeWhale & Iberian Orca
   Guardiáns Foundation y la Fundación Arango-Lara (Casa del Lector - Mata
- dero. A partir 20 octubre).\n\nhttps://casalector.fundaciongsr.org/sonando
- -oceanos-proximamente/
+ dero. 20 oct - 14 feb).\n\nhttps://casalector.fundaciongsr.org/sonando-oce
+ anos-proximamente/
 LOCATION:Casa del Lector (Matadero) - de la Chopera\, 14\, Madrid\, 28045
 END:VEVENT
 BEGIN:VEVENT
@@ -1519,6 +1504,21 @@ DESCRIPTION:Exposición que analiza el papel cotidiano de los niños en la
  co Nacional. 20 oct a 17 ene).\n\nhttps://www.man.es/man/exposiciones/vitr
  ina0/20261020-infancia.html
 LOCATION:Museo Arqueológico Nacional - de Serrano\, 13\, Madrid\, 28001
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:“De Madrid al cielo” VI Concurso de fotografía del Museo de H
+ istoria de Madrid
+DTSTART;TZID=Europe/Madrid:20261021T000000
+DTEND;TZID=Europe/Madrid:20270228T000000
+UID:001d2b051ed3fa444b30a3698fd990674a297a4522e0b4197b9f493b000392f1
+CATEGORIES:exhibition
+DESCRIPTION:El certamen anual de fotografía expone las obras dedicadas al
+  paisaje urbano de la ciudad (Museo de Historia. Hasta 28 febrero).\n\nhtt
+ ps://www.madrid.es/portales/munimadrid/es/Inicio/Cultura-ocio-y-deporte/Ac
+ tividades-y-eventos/Exposicion-De-Madrid-al-cielo-VI-Concurso-de-fotografi
+ a-del-Museo-de-Historia-de-Madrid/?vgnextfmt=default&vgnextoid=0f11a528623
+ 51a10VgnVCM200000f921e388RCRD&
+LOCATION:Museo de Historia - de Fuencarral\, 78\, Madrid\, 28004
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Súper Letras

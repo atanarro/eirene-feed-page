@@ -1,5 +1,5 @@
 Eirene feed debug
-Total events: 31
+Total events: 30
 
 [1] La ópera de los tres centavos con Coque Malla
   id: d83b0aeadd6bbbf29203317652b8044624c92e450eb082ace43493cb69f5248b
@@ -35,8 +35,8 @@ Total events: 31
   description: Encuentro con el equipo artístico: 22 OCT 2026 Los cigarrillos que se fuman en escena no contienen tabaco
 
 [4] Verborrea
-  id: a77a8f61da164674dec24f751f1f295f8c495c087ca18aa8f32cc92faa32f7c3
-  start: 2026-10-22T00:00:00+02:00
+  id: b98c3015a4dc7a0205d50278217fdcb3b34d6b32e64bbe871bc8c31e6a9605fc
+  start: 2026-10-23T00:00:00+02:00
   end: 2026-11-01T23:59:00+01:00
   category: theater
   source: nave_10
@@ -45,29 +45,7 @@ Total events: 31
   url: https://tienda.madrid-destino.com/es/nave-10/verborrea/
   description: “QUIZÁ VAMOS A CANTAR COMO LAS RATAS” Hay acontecimientos cuya probabilidad es tan pequeña que parecen sacados de una película. Así nacen las leyendas. Desde lo improbable. En la frontera entre la vida y su melodía soñada. En Verborrea , Pablo Remón hace a sus personajes narrar un mito de ascenso y caída contemporáneo, el de la ficticia banda punk Verborrea, una historia que usted recuerda con otros nombres, con el mismo rasgueo de guitarra. Seguiremos a dos hermanos criados en pleno Valle de los Caídos bajo la autoridad de un padre franquista: Kike, el ser social, y Segis, que construye su identidad a la contra. De esa rebeldía nace Segismundo Tóxico y su relato. Sus relatos. Cada personaje recuerda con matices. Hasta la guitarra fundacional de la banda tiene dos versiones de vida. En escena repiten los habituales de Remón: Javier Cámara, Israel Elejalde, Marta Nieto y Emilio Tomé, con quienes lleva colaborando años. Juntos, en un texto trufado de casticismo y cultura popular, cuestionarán cómo heredamos las narraciones, las combatimos, las aceptamos y las repetimos. Rimamos distinto, pero sonamos parecido. Cuando ya no puedes contarte como el héroe que querías ser, hay que redefinir qué es la esperanza. A lo mejor consiste en dejarte llevar por la historia que sí ha ocurrido. Pilar G. Almansa Dramaturgista de la temporada 26/27 | Tags: JOBO
 
-[5] La mujer fascista
-  id: 287d7fb0d18e0727bd7e5902bdf1081a3af75cd2593743dbf9900cc618ad5544
-  start: 2026-10-22T19:30:00+02:00
-  end: N/A
-  category: theater
-  source: teatro_del_barrio
-  location: Teatro del Barrio - Calle de Zurita, 20, Madrid
-  coordinates: 40.4096081, -3.699174
-  url: https://teatrodelbarrio.com/la-mujer-fascista/
-  description: Disponible
-
-[6] POLARIZADAS. Un show de dos zorras polares
-  id: 2a890b75eb3a2f08c31c39720df9032be337f2e8db88a19cc9369d87150844a5
-  start: 2026-10-22T22:15:00+02:00
-  end: N/A
-  category: theater
-  source: teatro_del_barrio
-  location: Teatro del Barrio - Calle de Zurita, 20, Madrid
-  coordinates: 40.4096081, -3.699174
-  url: https://teatrodelbarrio.com/polarizadas-un-show-de-dos-zorras-polares/
-  description: Disponible
-
-[7] CAMEL ON FLUTE. Jaume Vilaseca Trío & María Gil
+[5] CAMEL ON FLUTE. Jaume Vilaseca Trío & María Gil
   id: 237257123456afa9b79ab601286ee6463c1dc50c36f0198209df6880e3314bac
   start: 2026-10-23T22:15:00+02:00
   end: N/A
@@ -78,7 +56,7 @@ Total events: 31
   url: https://teatrodelbarrio.com/camel-on-flute-jaume-vilaseca-trio-maria-gil/
   description: Disponible
 
-[8] No solo duelen los golpes.
+[6] No solo duelen los golpes.
   id: 245172388b7e87bcb3d2c2fd9fe6e891dbb07aa077149a4f5777c324cec52a58
   start: 2026-10-24T13:00:00+02:00
   end: N/A
@@ -87,9 +65,9 @@ Total events: 31
   location: Teatro del Barrio - Calle de Zurita, 20, Madrid
   coordinates: 40.4096081, -3.699174
   url: https://teatrodelbarrio.com/no-solo-duelen-los-golpes/
-  description: ¡Ya solo quedan 1 plazas!
+  description: ¡Ya solo quedan 3 plazas!
 
-[9] Colombia en escena.
+[7] Colombia en escena.
   id: 3d53b774027286bdc79b46cbcd0b7beaa35d7aa2fa57673c1eb0097551958ce0
   start: 2026-10-24T13:00:00+02:00
   end: N/A
@@ -98,9 +76,9 @@ Total events: 31
   location: Teatro del Barrio - Calle de Zurita, 20, Madrid
   coordinates: 40.4096081, -3.699174
   url: https://teatrodelbarrio.com/colombia-en-escena/
-  description: ¡Ya solo quedan 12 plazas!
+  description: ¡Ya solo quedan 5 plazas!
 
-[10] Lali Ayguadé Company
+[8] Lali Ayguadé Company
   id: b145e0f803a6f9e897398d63a0aaabaf04ac4374d714a9d70b29bc7ce01200c0
   start: 2026-10-24T20:00:00+02:00
   end: N/A
@@ -111,7 +89,7 @@ Total events: 31
   url: https://www.mataderomadrid.org/programacion/lali-ayguade-company
   description: El eje central del espectáculo gira en torno al mundo virtual de las redes sociales, en oposición al mundo real, sin estilo, de nuestra vida cotidiana. Este contrapunto es parte de un juego de enseñanza y ocultamiento, una especulación sobre la imagen que proyectamos y la que dejamos en la sombra. La positividad que pretendemos mostrar y la negatividad con la que vivimos y queremos mantener en secreto. En el perfil de cualquier red social, tenemos infinitas posibilidades para diseñar nuestra propia imagen y hacerla auténtica, pero, curiosamente, todos los perfiles terminan siendo extrañamente parecidos. Todos estamos entrando en el juego de lo que debe mostrarse y lo que no debe mostrarse. Como si fuera una adicción, muchos de nosotros somos víctimas de la cantidad de ‘Me gusta’, comentarios o repercusiones de nuestras imágenes. Nos aferramos a reacciones a menudo exageradas, como: “¡Es mágico!”, “¡Me encanta!”, “¡Increíble!”, “¡Eres la persona más maravillosa que he conocido!”; tal vez pensar que esta persona puede ayudarnos a soportar el vacío del mundo contemporáneo en lugar de darnos cuenta de que tal vez solo son la fuente de tal vacío. Y así, poco a poco, nos deshacemos del mundo real, nos volvemos ciegos a nuestro entorno inmediato; la vida continúa mientras estemos en otro lugar, decidiendo qué filtro se adapta mejor a lo que acabamos de fotografiar. Inestable investiga ese espacio de relación entre nosotros mismos, la tecnología y las demás personas, esa sensación que nos genera inestabilidad mientras buscamos un lugar común, un punto de encuentro entre nosotros mismos y los otros que sea real.
 
-[11] Lali Ayguadé Company
+[9] Lali Ayguadé Company
   id: b51c5817ec911de6899fda07d5246244de2c9e2c5e890ec8591662fa715e825f
   start: 2026-10-24T21:30:00+02:00
   end: N/A
@@ -122,7 +100,7 @@ Total events: 31
   url: https://www.mataderomadrid.org/programacion/lali-ayguade-company-0
   description: El próximo sábado 24 de octubre de 2026, tras la representación, tendrá lugar el encuentro del público con el equipo artístico de la compañía. Modera: Natalia Sprenger. Los encuentros con el público son una ocasión especial para que los espectadores puedan intercambiar impresiones sobre el espectáculo, en compañía del equipo artístico. Estos encuentros son de entrada libre hasta completar aforo.
 
-[12] CAMEL ON FLUTE. Jaume Vilaseca Trío & María Gil
+[10] CAMEL ON FLUTE. Jaume Vilaseca Trío & María Gil
   id: 80a4f336aa9b5a89d20022ae45d63dbdf0fcd6110ce9ca2d83144a9b14460024
   start: 2026-10-24T22:15:00+02:00
   end: N/A
@@ -133,7 +111,7 @@ Total events: 31
   url: https://teatrodelbarrio.com/camel-on-flute-jaume-vilaseca-trio-maria-gil/
   description: Disponible
 
-[13] AÚPA LERÉ. Percusión para crecer
+[11] AÚPA LERÉ. Percusión para crecer
   id: 996997d463a20b62c0a944f31ecad649f37585b107728a4cc8391353d77f05ac
   start: 2026-10-25T11:00:00+01:00
   end: N/A
@@ -142,9 +120,9 @@ Total events: 31
   location: Teatro del Barrio - Calle de Zurita, 20, Madrid
   coordinates: 40.4096081, -3.699174
   url: https://teatrodelbarrio.com/aupa-lere-percusion-para-crecer/
-  description: Disponible
+  description: ¡Ya solo quedan 20 plazas!
 
-[14] Subastas suicidas
+[12] Subastas suicidas
   id: 0afbe079281c6218e4713f4c95ef34ee61791a556f43b2b67ea05ddfcdc995a3
   start: 2026-10-25T13:00:00+01:00
   end: N/A
@@ -155,7 +133,7 @@ Total events: 31
   url: https://teatrodelbarrio.com/subasta-suicida/
   description: Disponible
 
-[15] Un verano por metro cuadrado
+[13] Un verano por metro cuadrado
   id: 0463d6f990e5c0454bd8e084985d1389b78d971d0298a2a9ec229c7aa408e91e
   start: 2026-10-25T20:30:00+01:00
   end: N/A
@@ -166,7 +144,7 @@ Total events: 31
   url: https://teatrodelbarrio.com/un-verano-por-metro-cuadrado/
   description: ¡Ya solo quedan 1 plazas!
 
-[16] Palestina y Líbano, no olvidamos
+[14] Palestina y Líbano, no olvidamos
   id: b8ab2e1712ce08904085c33c25479d3188097b3dc677a6e70db7f4be3bf45ecf
   start: 2026-10-27T19:00:00+01:00
   end: N/A
@@ -177,7 +155,7 @@ Total events: 31
   url: https://teatrodelbarrio.com/palestina-y-libano-no-olvidamos/
   description: ¡Ya solo quedan 1 plazas!
 
-[17] Solo quería bailar
+[15] Solo quería bailar
   id: 5ca2cc827e090e38789394eb4b49abc4c60caddc58cbe4b122d0e611858ddab6
   start: 2026-10-28T19:30:00+01:00
   end: N/A
@@ -188,7 +166,7 @@ Total events: 31
   url: https://teatrodelbarrio.com/solo-queria-bailar/
   description: Disponible
 
-[18] Feliz día - SUTOTTOS
+[16] Feliz día - SUTOTTOS
   id: 68001d644c9aac98e73bd2b84249efab1c355131ddfce329b2f7789fa21af63c
   start: 2026-10-28T21:30:00+01:00
   end: N/A
@@ -199,7 +177,7 @@ Total events: 31
   url: https://teatrodelbarrio.com/feliz-dia/
   description: Disponible
 
-[19] Taxidermia de una alondra
+[17] Taxidermia de una alondra
   id: 456e400d26ffd12b3b48da0f0f26698ebff0a152c78cf5df97ad8d2cf927da3b
   start: 2026-10-29T19:30:00+01:00
   end: N/A
@@ -208,9 +186,9 @@ Total events: 31
   location: Teatro del Barrio - Calle de Zurita, 20, Madrid
   coordinates: 40.4096081, -3.699174
   url: https://teatrodelbarrio.com/taxidermia-de-una-alondra/
-  description: Localidades agotadas
+  description: ¡Ya solo quedan 1 plazas!
 
-[20] Feliz día - SUTOTTOS
+[18] Feliz día - SUTOTTOS
   id: 871f983e8374d6e15c11645a6a3f505fbd40db7d5bc1f3906c33a4126c8cee7d
   start: 2026-10-29T21:30:00+01:00
   end: N/A
@@ -221,7 +199,7 @@ Total events: 31
   url: https://teatrodelbarrio.com/feliz-dia/
   description: Disponible
 
-[21] Taxidermia de una alondra
+[19] Taxidermia de una alondra
   id: e33adf5274989d18e8bc00f4f2b50fb894291c53a666bbd57542a5ea89af1b69
   start: 2026-10-30T19:30:00+01:00
   end: N/A
@@ -232,7 +210,7 @@ Total events: 31
   url: https://teatrodelbarrio.com/taxidermia-de-una-alondra/
   description: Disponible
 
-[22] DONDE CRECEN LOS TARAYS
+[20] DONDE CRECEN LOS TARAYS
   id: 177927dbd87e9e35aead5ad4b7a28b5df23ddd1b015c0ae411bedcf82abbaf72
   start: 2026-10-30T20:00:00+01:00
   end: N/A
@@ -263,7 +241,7 @@ El relato sucede delante.
 
 El mar no se detiene.
 
-[23] Feishow
+[21] Feishow
   id: 09ebaea8a2c56f8873fce4f06292e179aefe317dcbaf18383530e9071ee330ed
   start: 2026-10-30T22:15:00+01:00
   end: N/A
@@ -274,7 +252,7 @@ El mar no se detiene.
   url: https://teatrodelbarrio.com/feishow/
   description: Disponible
 
-[24] La diatriba del perro
+[22] La diatriba del perro
   id: fc2fe3c21c6f07bba1c3e2816d9752d2f9d4e229ab80852ad6017c2e7b6a341a
   start: 2026-10-31T13:00:00+01:00
   end: N/A
@@ -285,7 +263,7 @@ El mar no se detiene.
   url: https://teatrodelbarrio.com/la-diatriba-del-perro/
   description: Disponible
 
-[25] Colombia en escena.
+[23] Colombia en escena.
   id: a6fe8917f47ef38b50aa8ef26b21c29ada1ae59fb7c8f7f614bb42f6241b4379
   start: 2026-10-31T13:00:00+01:00
   end: N/A
@@ -296,7 +274,7 @@ El mar no se detiene.
   url: https://teatrodelbarrio.com/colombia-en-escena/
   description: ¡Ya solo quedan 9 plazas!
 
-[26] Taxidermia de una alondra
+[24] Taxidermia de una alondra
   id: 1ceca3a72e0b349fccbeafae1be06f6cfebe8744d91732486f736822ba9a60f6
   start: 2026-10-31T19:30:00+01:00
   end: N/A
@@ -307,7 +285,7 @@ El mar no se detiene.
   url: https://teatrodelbarrio.com/taxidermia-de-una-alondra/
   description: Disponible
 
-[27] DONDE CRECEN LOS TARAYS
+[25] DONDE CRECEN LOS TARAYS
   id: a3b9f1afb0470407369b6f35696ae8aebd35d35688e845e205ee1b6c9e1cb1b5
   start: 2026-10-31T20:00:00+01:00
   end: N/A
@@ -338,7 +316,7 @@ El relato sucede delante.
 
 El mar no se detiene.
 
-[28] Feishow
+[26] Feishow
   id: 2090efcdbcd5f2475dc3751e45dd3b8f48a98d03f8a6d08d6f200a1d4027eb04
   start: 2026-10-31T22:15:00+01:00
   end: N/A
@@ -349,7 +327,7 @@ El mar no se detiene.
   url: https://teatrodelbarrio.com/feishow/
   description: Disponible
 
-[29] DONDE CRECEN LOS TARAYS
+[27] DONDE CRECEN LOS TARAYS
   id: ee4fcfae3f6dd99836f0ea535b184c454c94b0f4be77a5f712d0c8d211d95227
   start: 2026-11-01T19:30:00+01:00
   end: N/A
@@ -380,7 +358,7 @@ El relato sucede delante.
 
 El mar no se detiene.
 
-[30] Menú cerrado
+[28] Menú cerrado
   id: c04ffdfa2569e0b272eb7ea6ee0b0cbdce4b2ba2a1340620c0c861df59513838
   start: 2026-11-05T19:00:00+01:00
   end: 2027-01-03T19:00:00+01:00
@@ -391,7 +369,7 @@ El mar no se detiene.
   url: https://tickets.oneboxtds.com/teatroinfantaisabel/events/57673
   description: Carlos Santos dirige una comedia acerca de la amistad, los secretos y la crisis de la mediana edad (Teatro Infanta Isabel. Martes a domingos. 5 nov a 3 ene). | Mar-vier: 19:00 h Sáb-dom: 18:00 h
 
-[31] Golpe a golpe, verso a verso
+[29] Golpe a golpe, verso a verso
   id: 152b6e19a9bb2baa18659cb58bb4fbe5e2cd48b7396ad3e0a126ab31ac2ef7f9
   start: 2026-11-06T00:00:00+01:00
   end: 2026-11-29T00:00:00+01:00
@@ -401,3 +379,34 @@ El mar no se detiene.
   coordinates: 40.4221905, -3.6953856
   url: https://www.teatroinfantaisabel.es/obra/golpe-a-golpe-verso-a-verso/
   description: Una obra que dialoga con los versos de Machado y las canciones de Joan Manuel Serrat (Teatro Infanta Isabel. Miércoles a domingos. 6 a 29 noviembre).
+
+[30] DONDE CRECEN LOS TARAYS
+  id: b21fd349f02afb0013f50ea10e1b63d67c11f77b12976fffa54654d224d7e532
+  start: 2026-11-06T20:00:00+01:00
+  end: N/A
+  category: theater
+  source: la_mirador
+  location: Sala Mirador - Calle Doctor Fourquet, 31, 28012 Madrid
+  coordinates: 40.4070512, -3.6988713
+  url: https://lamirador.com/funcion?nombre=donde-crecen-los-tarays-2026
+  description: DONDE CRECEN LOS TARAYS
+
+Una pieza de teatro urgente.
+
+Najat, Amal y Hayat llegan al mar por razones completamente distintas.
+
+Najat lleva meses preparándose para cruzar a Ceuta. Amal sale de casa para impedir que su hermano de catorce años, lo haga. Hayat huye de Casablanca embarazada y sin que el hombre del que escapa, sepa que espera una hija.
+
+Las tres acaban entrando en el agua.
+
+Pero Donde crecen los tarays no habla únicamente del cruce. Habla también de lo que sucede después: de quienes consiguen alcanzar la otra orilla y descubren que llegar no significa necesariamente poder continuar; de las fronteras que permanecen después de haberlas atravesado; de quienes quedan varados entre el lugar del que tuvieron que salir y aquel en el que todavía no pueden quedarse.
+
+El taray es un arbusto que crece en terrenos salinos, junto al agua y en zonas costeras. En la obra atraviesa la memoria de Hayat y acaba dando nombre a una historia sobre la dificultad de encontrar un lugar donde echar raíces.
+
+Donde crecen los tarays es el primer texto original de Sergio Peris-Mencheta, una pieza de teatro urgente nacida del impulso de reaccionar al presente mientras la realidad que la provoca todavía está ocurriendo.
+
+En escena, tres urnas de metacrilato contienen el agua. Cuando una de las mujeres cuenta su historia, las otras dos nadan. El braceo, el esfuerzo y sus respiraciones construyen la banda sonora de la función.
+
+El relato sucede delante.
+
+El mar no se detiene.
