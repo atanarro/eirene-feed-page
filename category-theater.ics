@@ -55,9 +55,9 @@ LOCATION:Teatro Maria Guerrero - Calle de Tamayo y Baus\, 4\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Verborrea
-DTSTART;TZID=Europe/Madrid:20261023T000000
+DTSTART;TZID=Europe/Madrid:20261024T000000
 DTEND;TZID=Europe/Madrid:20261101T235900
-UID:b98c3015a4dc7a0205d50278217fdcb3b34d6b32e64bbe871bc8c31e6a9605fc
+UID:95ca0a9a0caa83925faf28a4b535e0f3919b9d605acc60d5f371c5f70b867f1f
 CATEGORIES:theater
 DESCRIPTION:“QUIZÁ VAMOS A CANTAR COMO LAS RATAS” Hay acontecimientos
   cuya probabilidad es tan pequeña que parecen sacados de una película. A
@@ -82,20 +82,11 @@ DESCRIPTION:“QUIZÁ VAMOS A CANTAR COMO LAS RATAS” Hay acontecimientos
 LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CAMEL ON FLUTE. Jaume Vilaseca Trío & María Gil
-DTSTART;TZID=Europe/Madrid:20261023T221500
-UID:237257123456afa9b79ab601286ee6463c1dc50c36f0198209df6880e3314bac
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/camel-on-flute-jaume
- -vilaseca-trio-maria-gil/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:No solo duelen los golpes.
 DTSTART;TZID=Europe/Madrid:20261024T130000
 UID:245172388b7e87bcb3d2c2fd9fe6e891dbb07aa077149a4f5777c324cec52a58
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 3 plazas!\n\nhttps://teatrodelbarrio.com/no-s
+DESCRIPTION:¡Ya solo quedan 5 plazas!\n\nhttps://teatrodelbarrio.com/no-s
  olo-duelen-los-golpes/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
@@ -104,7 +95,7 @@ SUMMARY:Colombia en escena.
 DTSTART;TZID=Europe/Madrid:20261024T130000
 UID:3d53b774027286bdc79b46cbcd0b7beaa35d7aa2fa57673c1eb0097551958ce0
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 5 plazas!\n\nhttps://teatrodelbarrio.com/colo
+DESCRIPTION:¡Ya solo quedan 4 plazas!\n\nhttps://teatrodelbarrio.com/colo
  mbia-en-escena/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
@@ -168,7 +159,7 @@ SUMMARY:AÚPA LERÉ. Percusión para crecer
 DTSTART;TZID=Europe/Madrid:20261025T110000
 UID:996997d463a20b62c0a944f31ecad649f37585b107728a4cc8391353d77f05ac
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 20 plazas!\n\nhttps://teatrodelbarrio.com/aup
+DESCRIPTION:¡Ya solo quedan 17 plazas!\n\nhttps://teatrodelbarrio.com/aup
  a-lere-percusion-para-crecer/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
@@ -185,7 +176,7 @@ SUMMARY:Un verano por metro cuadrado
 DTSTART;TZID=Europe/Madrid:20261025T203000
 UID:0463d6f990e5c0454bd8e084985d1389b78d971d0298a2a9ec229c7aa408e91e
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 1 plazas!\n\nhttps://teatrodelbarrio.com/un-v
+DESCRIPTION:¡Ya solo quedan 2 plazas!\n\nhttps://teatrodelbarrio.com/un-v
  erano-por-metro-cuadrado/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
@@ -236,8 +227,8 @@ SUMMARY:Taxidermia de una alondra
 DTSTART;TZID=Europe/Madrid:20261030T193000
 UID:e33adf5274989d18e8bc00f4f2b50fb894291c53a666bbd57542a5ea89af1b69
 CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/taxidermia-de-una-al
- ondra/
+DESCRIPTION:¡Ya solo quedan 29 plazas!\n\nhttps://teatrodelbarrio.com/tax
+ idermia-de-una-alondra/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -383,6 +374,18 @@ DESCRIPTION:Carlos Santos dirige una comedia acerca de la amistad\, los se
 LOCATION:Teatro Infanta Isabel - Calle del Barquillo\, 24\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:El Club de los Vulnerables
+DTSTART;TZID=Europe/Madrid:20261105T210000
+DTEND;TZID=Europe/Madrid:20261105T210000
+UID:d631c5acc5a4f3a17ae79cf3a0e3245680f6817f381401f79cbde30b918ec123
+CATEGORIES:theater
+DESCRIPTION:Suso el Paspi protagonizan un monólogo de comedia y testimoni
+ o personal sobre el cuidado de la salud mental (Teatro Infanta Isabel. 5 n
+ oviembre). | 21:00 h\n\nhttps://www.teatroinfantaisabel.es/obra/el-club-de
+ -los-vulnerables/
+LOCATION:Teatro Infanta Isabel - Calle del Barquillo\, 24\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Golpe a golpe\, verso a verso
 DTSTART;TZID=Europe/Madrid:20261106T000000
 DTEND;TZID=Europe/Madrid:20261129T000000
@@ -398,6 +401,35 @@ BEGIN:VEVENT
 SUMMARY:DONDE CRECEN LOS TARAYS
 DTSTART;TZID=Europe/Madrid:20261106T200000
 UID:b21fd349f02afb0013f50ea10e1b63d67c11f77b12976fffa54654d224d7e532
+CATEGORIES:theater
+DESCRIPTION:DONDE CRECEN LOS TARAYS\n\nUna pieza de teatro urgente.\n\nNaj
+ at\, Amal y Hayat llegan al mar por razones completamente distintas.\n\nNa
+ jat lleva meses preparándose para cruzar a Ceuta. Amal sale de casa para 
+ impedir que su hermano de catorce años\, lo haga. Hayat huye de Casablanc
+ a embarazada y sin que el hombre del que escapa\, sepa que espera una hija
+ .\n\nLas tres acaban entrando en el agua.\n\nPero Donde crecen los tarays 
+ no habla únicamente del cruce. Habla también de lo que sucede después: 
+ de quienes consiguen alcanzar la otra orilla y descubren que llegar no sig
+ nifica necesariamente poder continuar\; de las fronteras que permanecen de
+ spués de haberlas atravesado\; de quienes quedan varados entre el lugar d
+ el que tuvieron que salir y aquel en el que todavía no pueden quedarse.\n
+ \nEl taray es un arbusto que crece en terrenos salinos\, junto al agua y e
+ n zonas costeras. En la obra atraviesa la memoria de Hayat y acaba dando n
+ ombre a una historia sobre la dificultad de encontrar un lugar donde echar
+  raíces.\n\nDonde crecen los tarays es el primer texto original de Sergio
+  Peris-Mencheta\, una pieza de teatro urgente nacida del impulso de reacci
+ onar al presente mientras la realidad que la provoca todavía está ocurri
+ endo.\n\nEn escena\, tres urnas de metacrilato contienen el agua. Cuando u
+ na de las mujeres cuenta su historia\, las otras dos nadan. El braceo\, el
+  esfuerzo y sus respiraciones construyen la banda sonora de la función.\n
+ \nEl relato sucede delante.\n\nEl mar no se detiene.\n\nhttps://lamirador.
+ com/funcion?nombre=donde-crecen-los-tarays-2026
+LOCATION:Sala Mirador - Calle Doctor Fourquet\, 31\, 28012 Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DONDE CRECEN LOS TARAYS
+DTSTART;TZID=Europe/Madrid:20261107T200000
+UID:8e7b55eac1ad52368437312f1191af3d962cd6586572e09f56d872f895719dd6
 CATEGORIES:theater
 DESCRIPTION:DONDE CRECEN LOS TARAYS\n\nUna pieza de teatro urgente.\n\nNaj
  at\, Amal y Hayat llegan al mar por razones completamente distintas.\n\nNa
