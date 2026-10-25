@@ -301,6 +301,19 @@ LOCATION:Biblioteca Histórica UCM Marqués de Valdecilla - del Noviciado
  \, 3\, Madrid\, 28015
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Los Moreno\, fotógrafos de arte
+DTSTART;TZID=Europe/Madrid:20260901T000000
+DTEND;TZID=Europe/Madrid:20261122T000000
+UID:1c0703056e2c21840c2c940d2811adfe12e042eaaa52b433336dcf9be3af54d9
+CATEGORIES:exhibition
+DESCRIPTION:Exposición formada por una selección de imágenes de los des
+ tacados fotógrafos madrileños (Real Academia de Bellas Artes de San Fern
+ ando. Hasta 22 noviembre).\n\nhttps://www.realacademiabellasartessanfernan
+ do.com/actividades/exposiciones/los-moreno-fotografos-de-arte/
+LOCATION:Real Academia de Bellas Artes de San Fernando - de Alcalá\, 13\,
+  Madrid\, 28014
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Museo de Memorias Inconstantes
 DTSTART;TZID=Europe/Madrid:20260903T000000
 DTEND;TZID=Europe/Madrid:20270124T000000
@@ -323,6 +336,18 @@ DESCRIPTION:Pinturas y esculturas que sumergen en un universo visual en el
  xaForum Madrid. Hasta 2 noviembre).\n\nhttps://caixaforum.org/es/madrid/p/
  rumores-infundados-madrid
 LOCATION:CaixaForum Madrid - del Prado\, 36\, Madrid\, 28014
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manolo Millares. Personaje caído I
+DTSTART;TZID=Europe/Madrid:20260909T000000
+DTEND;TZID=Europe/Madrid:20270216T000000
+UID:7c0a9d80837d8590ff780a788c514cb46891c0e4b609a43c00dac7327d03b53c
+CATEGORIES:exhibition
+DESCRIPTION:Muestra dedicada a uno de los principales representantes del i
+ nformalismo y figura fundamental de la pintura española de la segunda mit
+ ad del siglo XX (Museo Reina Sofía. Hasta 16 febrero).\n\nhttps://www.mus
+ eoreinasofia.es/exposicion/manolo-millares
+LOCATION:Museo Reina Sofía - de Santa Isabel\, 52\, Madrid\, 28012
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Botánica doméstica
@@ -560,19 +585,6 @@ DESCRIPTION:Exposición que explora las relaciones entre las flores y las
 LOCATION:Real Jardín Botánico - de Murillo\, 2\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wall of Nature. Viet Ha Tran
-DTSTART;TZID=Europe/Madrid:20260930T000000
-DTEND;TZID=Europe/Madrid:20261024T000000
-UID:0e54009633ba30e60a82511886c47b024027954b4db6bd3fd065e4258885f665
-CATEGORIES:exhibition
-DESCRIPTION:Exposición fotográfica de la artista visual vietnamita inspi
- rada en el popular jardín vertical del Caixaforum de Madrid (Real Socieda
- d Fotográfica. Hasta 24 oct).\n\nhttps://rsf.es/exposiciones-real-socieda
- d-fotografica/wall-of-nature-viet-ha-tran/
-LOCATION:Real Sociedad Fotográfica - de los Tres Peces\, 2\, Madrid\, 280
- 12
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Arquitectura suiza contemporánea / SAY26 anuario suizo de arquite
  ctura
 DTSTART;TZID=Europe/Madrid:20261002T000000
@@ -620,6 +632,19 @@ DESCRIPTION:Exposición que reúne piezas que forman parte del conjunto m
  on/cristina-de-suecia-pasion-por-la-escultura/fe15fb3f-abfc-e239-7b70-e336
  ee1877e4
 LOCATION:Museo del Prado - del Prado\, s/n\, Madrid\, 28014
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seba Calfuqueo. Cautín
+DTSTART;TZID=Europe/Madrid:20261006T000000
+DTEND;TZID=Europe/Madrid:20270117T000000
+UID:57bbc30c34da66b15e1c00f11e6e85930925108491d26382f08a1a00919c14fe
+CATEGORIES:exhibition
+DESCRIPTION:La artista mapuche expone por primera vez en solitario en Euro
+ pa una obra diseñada en exclusiva para esta ocasión (Museo Nacional Thys
+ sen-Bornemisza. Hasta 17 ene).\n\nhttps://www.museothyssen.org/exposicione
+ s/seba-calfuqueo-cautin
+LOCATION:Museo Nacional Thyssen-Bornemisza - del Prado\, 8\, Madrid\, 2801
+ 4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:La vida en la frontera. Hallazgos del castillo de Monreal de Ariza
@@ -797,19 +822,6 @@ DESCRIPTION:Exposición con obras site-specific que aborda la investigaci
 LOCATION:Medialab Matadero - de la Chopera\, 14\, Madrid\, 28045
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:#001_SHOOT PEACE
-DTSTART;TZID=Europe/Madrid:20261016T000000
-DTEND;TZID=Europe/Madrid:20261024T000000
-UID:26bc8fa64ab5e6f7cce7636059e6f9dc2772426f5c33df48e6796abb9423138e
-CATEGORIES:exhibition
-DESCRIPTION:La muestra nace de una experiencia vivida por la artista Ferna
- nda J. Carregado durante una visita a un muro en Palestina en 2023 (Galer
- ía Espacio Landaburu. 16 a 24 octubre).\n\nhttps://www.fernandajcarregado
- .com/
-LOCATION:Madrid - de la Encomienda\, 3\, Centro\,\, Madrid\, Madrid\, 2801
- 2
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Una cita con Luis Escobar
 DTSTART;TZID=Europe/Madrid:20261016T000000
 DTEND;TZID=Europe/Madrid:20270221T000000
@@ -910,71 +922,10 @@ LOCATION:Galería de las Colecciones Reales - de Bailén\, 8\, Madrid\, 28
  013
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TLRÑ. Inteligencia Artesanal - Imprenta Sandelfín
-DTSTART;TZID=Europe/Madrid:20261023T160000
-DTEND;TZID=Europe/Madrid:20261024T143000
-UID:008446ce738bfad8d9efa1a5d641be9e60d22f2cbc70df693ab00644afd6935f
-CATEGORIES:workshop
-DESCRIPTION:Espacio: Sala Marina\n\n“Un río \,7 cruces\, 6 bares \, Una
-  piscina”\n\nTaller de poster con risografía\n\nUn kilometro ochociento
- s metros\,\n\n26 minutos\,\n\n2.400 pasos si caminas.\n\nTodo esto cabría
-  en un a3.\n\nVamos a hacer dos\, por lo menos.\n\nUn grupo le contará al
-  otro lo que le ha pasado en le trayecto y en la llegada\,\n\nEl otro grup
- o lo imprimirá\,\n\nAsí hasta que la imprenta y el infinito se mezclen\n
- \nAunque sea un ratito.\n\nViernes 23 de octubre de 16:00 a 20:00\n\nSába
- do 24 de octubre de 10:30 a 14:30\n\nBuscando fomentar la exploración pr
- áctica y el intercambio entre creadores\, proponemos un programa de proce
- sos colectivos orientados a la creación contemporánea desde el hacer\, e
- l encuentro y la experimentación compartida. El proyecto reúne a artista
- s invitadas de distintos ámbitos para activar experiencias vinculadas al 
- sonido\, la imagen\, la edición\, la performance\, la construcción de ob
- jetos y las prácticas colaborativas.\n\nLa propuesta se vincula de manera
-  directa con los ejes de interés de Infinito Delicias\, especialmente con
-  la idea de festejo entendida como una forma de\n\nconstruir comunidad y a
- ctivar espacios de encuentro desde la cultura\n\n. Así\, interesa trabaja
- r esta idea como práctica colectiva: cocinar\, escuchar\, construir\, can
- tar\, compartir tiempo o producir algo en común como formas de crear vín
- culo y memoria compartida.\n\nEl programa se desarrolla en diálogo con el
-  barrio de Delicias y con las personas\, negocios y agentes que forman par
- te de su vida cotidiana. Vamos a establecer colaboraciones y conexiones re
- ales con el contexto cercano\, entendiendo el territorio como parte activa
-  del proceso y no solo como un lugar donde las cosas suceden.\n\nHaremos t
- ipografías\, contaremos los pasos\, escanearemos e imprimiremos en rosa f
- lúor.\n\nLa Imprenta Sandelfín\n\nse llama así por la calle donde habit
- a. Desde el año 2020 hemos activado esta imprenta de risografía y editor
- ial donde hacemos todo con las manos. Nos gustaría en este taller unir el
-  espacio que separa Infinito Delicias y la imprenta de reclamas y mensajes
-  que imprimimos juntas. Hacer dos grupos que puedan encontrarse a través 
- de la narración de los espacios donde estamos\, y compartir el camino de 
- vuelta buscando esas huellas pasadas por la imprenta.\n\nPara participar e
- n este taller no hace falta tener conocimientos previos risografía o impr
- esión.La inscripción está abierta a personas de cualquier procedencia\,
-  edad\, forma\, especie\, sexo y género.\n\nSe precisa compromiso de asis
- tencia ambos días.\n\nImprenta Sandelfín\n\nes un proyecto de impresión
- \, edición y experimentación gráfica situado en la calle San Delfín\, 
- en Madrid. Detrás están Amalia Ruiz-Larrea y Nato David\, que entienden 
- la imprenta como un lugar desde el que juntarse\, hacer y poner cosas en c
- irculación.\n\nTrabajan con risografía\, publicaciones\, carteles\, fanz
- ines y otros artefactos impresos\, explorando el papel como herramienta de
-  comunicación\, pensamiento y encuentro. En Sandelfín imprimir es tambi
- én una forma de intervenir en lo cotidiano: hacer circular ideas\, afecto
- s\, preguntas y deseos\; producir cosas que puedan salir fuera\, pasar de 
- mano en mano y convertirse\, quizá\, en una queja\, un abrazo\, un poema 
- o un amuleto.\n\nTLRÑ\n\nplantea situaciones donde la creación funciona 
- como herramienta para producir intercambio\, pensamiento y experiencia com
- partida. El interés del programa está precisamente ahí: en generar cond
- iciones reales para encontrarse\, trabajar en común y construir nuevas fo
- rmas de relación a través de la práctica artística contemporánea.\n\n
- https://www.infinitodelicias.com/es/agenda/tlrn-inteligencia-artesanal-imp
- renta-sandelfin
-LOCATION:Infinito Delicias - C. de Juana Dona\, 5\, Arganzuela\, 28045 Mad
- rid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Verborrea
-DTSTART;TZID=Europe/Madrid:20261024T000000
+DTSTART;TZID=Europe/Madrid:20261025T000000
 DTEND;TZID=Europe/Madrid:20261101T235900
-UID:95ca0a9a0caa83925faf28a4b535e0f3919b9d605acc60d5f371c5f70b867f1f
+UID:c4156962b06a677add9270d121b47da5335c8645a8652479bd0995d5c05d661b
 CATEGORIES:theater
 DESCRIPTION:“QUIZÁ VAMOS A CANTAR COMO LAS RATAS” Hay acontecimientos
   cuya probabilidad es tan pequeña que parecen sacados de una película. A
@@ -997,1586 +948,6 @@ DESCRIPTION:“QUIZÁ VAMOS A CANTAR COMO LAS RATAS” Hay acontecimientos
  a que sí ha ocurrido. Pilar G. Almansa Dramaturgista de la temporada 26/2
  7 | Tags: JOBO\n\nhttps://tienda.madrid-destino.com/es/nave-10/verborrea/
 LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mago Kayto
-DTSTART;TZID=Europe/Madrid:20261024T110000
-UID:4a67e760e41e99041a9a363e87dd86e66b89d3902ae655b601cf2f2674e3b4ea
-CATEGORIES:family
-DESCRIPTION:El mago con más experiencia en magia para personitas que no p
- ueden subir a cualquier atracción de feria debido a su estatura. Kayto es
-  mago\, payaso\, actor\, showman\, músico\, pero sobre todo Kayto es muy 
- divertido. Kayto nació́ a muy temprana edad y siendo aún muy pequeño. 
- Aquel niño comió́ mucho\, mucho\, mucho y se hizo mucho más grande…p
- ero siguió́ siendo niño y siguió́ llamándose Kayto. Toda su vida ha 
- transcurrido ligada al mundo del espectáculo. Sus padres eran payasos de 
- circo y durante toda su infancia aprendió́ de primera mano el arte del c
- lown. Se convirtió́ en payaso y recorrió́ el mundo con distintos circo
- s. Cerca de los 20 años comenzó́ a aprender e incorporar el arte de la 
- magia. Los años pasaron y se convirtió́ en profesional de la magia pero
-  sin renunciar a su parte payasa. Kayto no concibe la magia sin comicidad.
-  Básicamente tiene alma de mago y corazón de payaso\, de esta forma pued
- e mezclar el mundo de la magia y el mundo del clown con el único objetivo
-  de divertir al público. Imparte: Mago Kayto.\n\nhttps://www.mataderomadr
- id.org/programacion/mago-kayto
-LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cuentos danzantes
-DTSTART;TZID=Europe/Madrid:20261024T110000
-UID:463ee9c331952598e36311fb53569b8e6f0b8c147b5274c4948831eb4c2609a3
-CATEGORIES:family
-DESCRIPTION:¿Y si pudiéramos ver bailar un cuento? ¿Y si pudiéramos da
- rle voz\, cuerpo\, música y movimiento? Cuentos danzantes es una experien
- cia que une literatura\, movimiento y naturaleza. A cada sesión\, un cuen
- to que habla sobre la naturaleza nos invita a despertar nuestro cuerpo e i
- maginación. Los personajes y paisajes de ese cuento nos llevarán a crear
- \, experimentar y bailar en familia. Imparte: Ana Maria Rosa\, arteducador
- a y directora de ARBORECER\n\nhttps://www.mataderomadrid.org/programacion/
- cuentos-danzantes-5
-LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:INVESTIGACTIVA 'Ciencia para la infancia'
-DTSTART;TZID=Europe/Madrid:20261024T110000
-UID:d29744418b777cac34936063180750592e39ac56ea3e5dc866e5ed5ed22cd522
-CATEGORIES:family
-DESCRIPTION:INVESTIGACTIVA es un espacio de ciencia\, diseñado para dar r
- ienda suelta a la innata capacidad de las niñas y niños para preguntar\,
-  investigar y descubrir. En este espacio acogeremos a los más pequeños y
-  sus acompañantes adultos\, con propuestas científicas pensadas expresam
- ente para ellos. En este espacio acogemos a los más pequeños y a sus aco
- mpañantes adultos con propuestas científicas pensadas expresamente para 
- ellos. Una actividad para niños y niñas de 2 a 8 años que potencia el p
- ensamiento crítico\, la reflexión y la acción a través de la ciencia. 
- Rampas\, lupas\, microscopios\, mesas de luz\, circuitos\, imanes\, balanz
- as\, insectos\, esqueletos y fósiles de dinosaurios\, entre muchos otros 
- materiales. Un sinfín de recursos cuidadosamente expuestos\, atractivos\,
-  adaptados y accesibles que predispone a la investigación de los fenómen
- os y manifestaciones de la naturaleza. Las propuestas están distribuidas 
- por toda la sala y movilizan contenidos sobre diferentes materias: los ani
- males\, el cuerpo humano\, el movimiento\, la electricidad\, la geología 
- y la paleontología\, entre otras. Investigactiva promueve procesos de apr
- endizaje como la clasificación\, la predicción\, la experimentación o e
- l uso de instrumentos. Y actitudes como el respeto por los materiales\, la
-  creatividad y la confrontación de ideas. Si ya has venido a Investigacti
- va\, esta vez encontrarás nuevas propuestas sobre dinosaurios y el origen
-  de la vida\, luz y color\, y materia y sus propiedades. Un espacio que se
-  renueva para seguir despertando la curiosidad de los más pequeños. La a
- ctividad se plantea como un espacio de exploración autónoma diseñado pa
- ra su uso en familia. Propone\, pero no obliga. Está lleno de actividades
-  acompañadas de libros científicos especialmente dedicados a la infancia
- . Los niños y niñas pueden moverse libremente\, eligiendo aquello que m
- ás les motive\, emulando la pasión que sienten las personas que dedican 
- toda su vida a la ciencia. Imparte: Investigactiva\n\nhttps://www.matadero
- madrid.org/programacion/investigactiva-ciencia-para-la-infancia
-LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Taller Infantil 'Tejer\, Aprender Y Crecer'
-DTSTART;TZID=Europe/Madrid:20261024T110000
-UID:8bc20e48825b391dd445c50f22020b89dcfcb4d3248545570ab34f9dc0a41f0d
-CATEGORIES:family
-DESCRIPTION:¿Quién dijo que el ganchillo es solo para mayores? Juan Ferr
- ete presentará «CRECER»\, un proyecto educativo\, artístico y comunita
- rio que conecta a niñas\, niños y jóvenes de distintos lugares a travé
- s del hilo\, utilizando el tejido como herramienta de aprendizaje\, creaci
- ón y desarrollo personal. En esta propuesta\, las niñas y niños se conv
- ertirán en artistas de la lana y descubrirán los primeros pasos del croc
- het de una forma sencilla y divertida. Aprenderán a hacer punto cadeneta 
- y participarán en pequeñas actividades con las que podrán experimentar 
- y realizar su propia aportación a este proyecto colectivo. ¡Saca tu tale
- nto a pasear y ven a divertirte! No necesitas experiencia previa ni traer 
- ningún material. No es necesaria experiencia previa ni traer ningún mate
- rial. Recomendado a partir de 6 años. Los menores deben estar acompañado
- s por un adulto responsable que participe en el taller con entrada\, salvo
-  que este participe simultáneamente en otra actividad de 'Tejiendo y punt
- o' en el Terrario\, en el mismo horario de mañana. Esta actividad se enma
- rca dentro de la jornada Tejiendo y Punto \, comisariada por Rosa Navalón
-  y Marta Vall. Sobre los docentes: Juan Ferrete Profesor de Educación Sec
- undaria\, divulgador y creador de proyectos culturales\, Juan Ferrete trab
- aja en la intersección entre arte contemporáneo\, educación y cultura\,
-  con la artesanía textil como herramienta de transformación social y par
- ticipación. Entre sus proyectos destacan «PROCESO»\, una obra colaborat
- iva con más de mil piezas tejidas procedentes de quince países\, y «CRE
- CER»\, iniciativa educativa internacional que utiliza las cadenetas de cr
- ochet como símbolo del crecimiento individual y colectivo de niños y jó
- venes. Patricia Vasco Tejedora y alma creativa de Patu’s Labores\, tiend
- a-taller especializada en tejido y mercería creativa en Colmenar Viejo\, 
- Patu ha convertido su pasión por los hilos y las agujas en un punto de en
- cuentro para la comunidad tejedora. Como profesora\, comparte técnicas de
- sde la iniciación hasta niveles avanzados\, siempre desde la paciencia y 
- el entusiasmo. Entiende el tejido como una forma de expresión\, calma y c
- onexión entre personas. También participa en la organización de encuent
- ros textiles como los Encuentros Tejeriles de IKEA San Sebastián de los R
- eyes y el Encuentro Textil de Mikrama.\n\nhttps://www.mataderomadrid.org/p
- rogramacion/taller-infantil-tejer-aprender-y-crecer
-LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Taller De Tejido 'Dos Agujas\, Mil Historias'
-DTSTART;TZID=Europe/Madrid:20261024T110000
-UID:91a2d1d79addf5764e64c1a2072378b60fa01061610b3f3fbb102d9727578c73
-CATEGORIES:workshop
-DESCRIPTION:Rompemos el mito: ¡tejer a dos agujas está al alcance de cua
- lquiera! Un taller en el que Elizabeth Castillo compartirá su particular 
- manera de entender el acto de tejer más allá de su dimensión técnica\,
-  como una práctica vinculada a la creación de comunidad y al intercambio
-  de experiencias y procesos vitales. A partir de una presentación y una d
- emostración de su trabajo con dos agujas\, nos invitará a acercarnos a e
- sta técnica y\, sobre todo\, a descubrir el placer de tejer en compañía
- . Si eres principiante total\, aprenderás desde cero a montar puntos y a 
- tejer con dos agujas circulares. Si ya tienes experiencia\, podrás perfec
- cionar tu técnica y aprender algunos nuevos trucos. Todo ello paso a paso
-  y a tu ritmo\, en un espacio formativo\, relajado\, casual y divertido. N
- o importa tu edad ni tu experiencia previa: solo necesitas traer tus ganas
-  de aprender y dejarte guiar. Para participar no es necesario saber tejer 
- con dos agujas. Materiales incluidos. Y si le tienes cariño a tus agujas
- \, ¡puedes traértelas! Recomendado a partir de 12 años. Los menores de 
- edad deberán estar acompañados siempre por un adulto responsable\, ambos
-  con entrada. Esta actividad se enmarca dentro de la jornada Tejiendo y Pu
- nto \, comisariada por Rosa Navalón y Marta Vall. Sobre las docentes: Eli
- zabeth Castillo Nacida en Cuba\, Elizabeth creció rodeada de costura y te
- jido\, una tradición familiar que retomó con fuerza tras el nacimiento d
- e su primera hija. Hoy\, como Elixaknits\, comparte su pasión y experienc
- ia como profesora de punto y crochet en espacios como los Almacenes Pontej
- os y La Costurería. Su experiencia abarca tanto el aprendizaje técnico c
- omo el acompañamiento de quienes se inician en el tejido. Para Elizabeth
- \, tejer va más allá de la técnica: es una forma de crear comunidad\, c
- ompartir experiencias y acompañarse puntada a puntada. En sus clases\, bu
- sca transmitir no solo lo que sabe\, sino también el placer de aprender y
-  crear con las manos. Lucía Muñoz Lucía aprendió a tejer desde pequeñ
- a gracias a su abuela y desde entonces ha explorado la creación de todo t
- ipo de prendas\, accesorios y amigurumis. Integradora social\, destaca por
-  su empatía y facilidad para conectar con las personas. Disfruta especial
- mente compartiendo lo que sabe y acompañando a quienes se acercan al teji
- do por primera vez.\n\nhttps://www.mataderomadrid.org/programacion/taller-
- de-tejido-dos-agujas-mil-historias
-LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ganchillo Iniciación ‘A Todo Gancho: Espiral'
-DTSTART;TZID=Europe/Madrid:20261024T110000
-UID:713723c2374bfb6b8501f9da2c6c10317b1b96a1ab60d4112ba1ac47cce6c6e9
-CATEGORIES:other
-DESCRIPTION:Claire Tarbet compartirá su experiencia como integrante del c
- olectivo Tejiendo Colmenarejo y su manera de entender el ganchillo como un
- a práctica compartida\, capaz de generar encuentros\, vínculos y comunid
- ad. Desde esta experiencia\, nos acercará a los primeros pasos de esta t
- écnica y a algunos de los recursos que pueden ayudarnos a desenvolvernos 
- con la aguja y los patrones. Si nunca has tocado una aguja o nunca has hec
- ho un punto cadeneta\, esta propuesta es para ti. Aprenderás a interpreta
- r patrones y a tejer los puntos básicos mientras das forma a un «Wind Ch
- imes» o espiral\, descubriendo poco a poco las posibilidades creativas de
- l ganchillo. No importa tu edad ni tu experiencia previa: solo necesitas t
- raer tus ganas de aprender y dejarte guiar. Materiales incluidos. Y si le 
- tienes cariño a tus agujas\, ¡puedes traértelas! Recomendado a partir d
- e 12 años. Los menores de edad deberán estar acompañados siempre por un
-  adulto responsable\, ambos con entrada. Esta actividad se enmarca dentro 
- de la jornada Tejiendo y Punto \, comisariada por Rosa Navalón y Marta Va
- ll. Sobre la docente: Claire Tarbet Profesora de inglés y persona profund
- amente creativa y polifacética\, Claire Tarbet encontró en el colectivo 
- Tejiendo Colmenarejo una comunidad de apoyo y una vía para desarrollar su
-  compromiso con el arte y la transformación del entorno. Como parte activ
- a de su equipo artístico y organizativo\, impulsa proyectos textiles cole
- ctivos que contribuyen al bienestar y embellecimiento de los espacios púb
- licos. Ha participado en iniciativas como «El Latido de las Mariposas»\,
-  «Un Tejido Neuronal» y la creación de una Menina a tamaño natural.\n
- \nhttps://www.mataderomadrid.org/programacion/ganchillo-iniciacion-todo-ga
- ncho-espiral
-LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ganchillo Intermedio ‘A Todo Gancho: Colgante Boho'
-DTSTART;TZID=Europe/Madrid:20261024T110000
-UID:fd9953fedd7515af985fd0317a130b0c48dc6a50e1e43a056aac3dbd87dd6b8d
-CATEGORIES:other
-DESCRIPTION:Inma Ávila mostrará cómo el ganchillo puede convertirse en 
- una herramienta de expresión\, activismo social y visibilización de dist
- intas causas. A través de su experiencia en la creación de intervencione
- s y murales vinculados a iniciativas como el Día Mundial de los Océanos
- \, el Día Mundial de las Abejas o el Día Mundial del Árbol\, descubrire
- mos las posibilidades que ofrece una de las piezas más versátiles del ga
- nchillo: el Granny Square. Durante la sesión exploraremos algunas de sus 
- múltiples aplicaciones y crearemos un colgante de pared de inspiración b
- oho para decorar ese rincón favorito de tu hogar o de dónde quieras. Par
- a participar en este taller es necesario saber tejer los puntos básicos d
- e ganchillo. Materiales incluidos. Y si le tienes cariño a tu aguja\, ¡t
- ráetela! Recomendado a partir de 12 años. Los menores de edad deberán e
- star acompañados siempre por un adulto responsable\, ambos con entrada. E
- sta actividad se enmarca dentro de la jornada Tejiendo y Punto \, comisari
- ada por Rosa Navalón y Marta Vall. Sobre la docente: Inma Ávila Creadora
-  y artesana textil\, Inma Ávila cuenta con una amplia experiencia como co
- sturera y domina tanto la costura como el ganchillo. Destaca por su habili
- dad técnica\, rapidez y capacidad resolutiva\, que pone especialmente al 
- servicio de proyectos colectivos orientados a generar bienestar y comunida
- d. Su compromiso con las causas sociales y el cuidado del medioambiente se
-  refleja en su participación en murales textiles que han visibilizado en 
- su municipio iniciativas como el Día Mundial de los Océanos\, las Abejas
-  o el Árbol.\n\nhttps://www.mataderomadrid.org/programacion/ganchillo-int
- ermedio-todo-gancho-colgante-boho
-LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ganchillo Intermedio ‘A Todo Gancho: Bombonera'
-DTSTART;TZID=Europe/Madrid:20261024T110000
-UID:84ece96cd63ebbe8f3143679160038a60ed3129e2bcdf941316a15586157ba70
-CATEGORIES:other
-DESCRIPTION:Ysabel Izquierdo compartirá su experiencia como integrante de
- l colectivo Tejiendo Colmenarejo\, un grupo de ganchillo que entiende el t
- ejido como una práctica compartida capaz de crear vínculos\, comunidad y
-  espacios de encuentro. A partir de su recorrido junto al colectivo\, pres
- entará algunos de los puntos y recursos que emplean habitualmente y propo
- ndrá a las personas asistentes acercarse a uno de ellos a través de la c
- reación de un pequeño bolsito tipo bombonera. Partiendo de un Granny Squ
- are con rosetón central\, aprenderás a realizar esta pieza y a descubrir
-  cómo una técnica básica puede dar lugar a proyectos textiles de mayor 
- complejidad. Para participar en este taller es necesario saber tejer los p
- untos básicos de ganchillo. Materiales incluidos. Y si le tienes cariño 
- a tu aguja\, ¡tráetela! Recomendado a partir de 12 años. Los menores de
-  edad deberán estar acompañados siempre por un adulto responsable\, ambo
- s con entrada. Esta actividad se enmarca dentro de la jornada Tejiendo y P
- unto \, comisariada por Rosa Navalón y Marta Vall. Sobre la docente: Ysab
- el Izquierdo Psicóloga de profesión y artesana de corazón\, Ysabel apre
- ndió las bases de la costura y el ganchillo de la mano de su madre. Hace 
- siete años se incorporó al colectivo Tejiendo Colmenarejo \, donde redes
- cubrió el ganchillo y su capacidad para crear vínculos y comunidad. Enti
- ende el tejido como un proceso meticuloso y reflexivo que requiere pacienc
- ia\, atención y calma\, y explora continuamente nuevas texturas y formas.
-  Su compromiso con el bienestar y lo comunitario se extiende también a pr
- oyectos solidarios como «Tu Primer Gorrito»\, dedicado a tejer gorritos 
- para bebés de Neonatología del Hospital Puerta de Hierro.\n\nhttps://www
- .mataderomadrid.org/programacion/ganchillo-intermedio-todo-gancho-bomboner
- a
-LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ganchillo Intermedio ‘A Todo Gancho: Mariposas Violetas'
-DTSTART;TZID=Europe/Madrid:20261024T110000
-UID:4cb0beabe03c113da23d50dba29f089d8621e25e6cefd08e2a1d9d3dc0885da7
-CATEGORIES:other
-DESCRIPTION:Itziar Prats presentará «El Latido de las Mariposas»\, un p
- royecto educativo y social que utiliza la creación colectiva de mariposas
-  violetas como herramienta de sensibilización y educación para promover 
- una sociedad más igualitaria\, respetuosa y libre de violencia de género
- . A partir de su experiencia en el proyecto\, nos acercará a su significa
- do y mostrará cómo elaborar una mariposa de ganchillo\, invitando a las 
- personas asistentes a sumarse a esta iniciativa tejiendo su propia pieza. 
- Para participar en este taller es necesario saber tejer los puntos básico
- s de ganchillo. Materiales incluidos. Y si le tienes cariño a tu aguja\, 
- ¡tráetela! Recomendado a partir de 12 años. Los menores de edad deberá
- n estar acompañados siempre por un adulto responsable\, ambos con entrada
- . Esta actividad se enmarca dentro de la jornada Tejiendo y Punto \, comis
- ariada por Rosa Navalón y Marta Vall. Sobre la docente: Itziar Prats Fern
- ández Psicóloga\, Itziar trabaja en la inserción sociolaboral de jóven
- es en contextos de exclusión y está comprometida con la transformación 
- y el bienestar social. Es\, junto a Isabel Gallardo\, impulsora de «El La
- tido de las Mariposas»\, un proyecto educativo y social que trabaja desde
-  la coeducación y la creatividad para sensibilizar y prevenir la violenci
- a de género y vicaria desde la infancia. A través de sus talleres y acci
- ones colectivas\, el proyecto promueve valores de respeto\, igualdad y cui
- dado.\n\nhttps://www.mataderomadrid.org/programacion/ganchillo-intermedio-
- todo-gancho-mariposas-violetas
-LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tejiendo Y Punto
-DTSTART;TZID=Europe/Madrid:20261024T110000
-UID:e7f3b6ba0071eddb6fbd0919d2ad88ea325c2a255ae7175a5a7d918ad7dccc48
-CATEGORIES:family
-DESCRIPTION:'Tejiendo y punto' es una jornada para reunir a personas de di
- stintas generaciones en torno al acto de tejer como práctica creativa\, a
- rtística y de bienestar. La propuesta se concibe como una experiencia par
- ticipativa que fomenta la comunidad\, el aprendizaje compartido y la refle
- xión social. El encuentro propone un espacio de refugio\, cuidado y convi
- vencia a través de una práctica tradicional resignificada desde lo conte
- mporáneo. A lo largo de la jornada habrá talleres y charlas\, pero el en
- cuentro es también un espacio para venir a tejer por libre\, compartir un
-  rato\, conversar\, intercambiar ideas y conocer a otras personas. Puedes 
- acercarte con tu propia labor\, aunque no participes en los talleres\, y f
- ormar parte del encuentro y de la comunidad que se genere en torno a él. 
- También puedes venir a tejer mientras escuchas las charlas y compartir as
- í ambas experiencias. Avance de programa: La programación se actualizar
- á en las próximas semanas con información más detallada sobre los tall
- eres y las personas invitadas. SESIÓN DE MAÑANA: Talleres de crochet y p
- unto. De 11:00h a 14:00h. Talleres simultáneos para diferentes niveles y 
- edades. Inscripción previa a través de la web de Matadero Madrid. Entrad
- as de 3€ por persona. Edad recomendada: intergeneracional\, a partir de 
- 6 años. Todos los participantes\, tanto menores como adultos\, deberán a
- dquirir entrada. Los menores deberán estar siempre acompañados por una p
- ersona adulta responsable. SESIÓN DE TARDE: Tejer\, charlar y compartir. 
- De 16:30h a 19:30h. Un espacio de encuentro libre para tejer en comunidad
- \, compartir experiencias\, conocernos y escuchar a tres profesionales que
-  nos hablarán de cómo podemos contribuir a mejorar nuestro entorno a tra
- vés del tejer. Trae tus lanas y agujas\, siéntate a tejer con nosotros y
-  disfruta de las charlas inspiradoras que entrelazan el arte del tejido co
- n el bienestar\, la educación y crear comunidad. Entrada libre hasta comp
- letar aforo. Esta jornada está comisariada por Rosa Navalón y Marta Vall
- .\n\nhttps://www.mataderomadrid.org/programacion/tejiendo-y-punto
-LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Encuentro para tejer en compañía 'TEJIENDO Y PUNTO'
-DTSTART;TZID=Europe/Madrid:20261024T110000
-UID:b817fab65129af9eccef7e3f294cc01b781e20ecc126302b38892a2674d88b5e
-CATEGORIES:family
-DESCRIPTION:El Encuentro de Tejedoras es una jornada para reunir a persona
- s de distintas generaciones en torno al acto de tejer como práctica creat
- iva\, artística y de bienestar. La propuesta se concibe como una experien
- cia participativa que fomenta la comunidad\, el aprendizaje compartido y l
- a reflexión social. El encuentro propone un espacio de refugio\, cuidado 
- y convivencia a través de una práctica tradicional resignificada desde l
- o contemporáneo. Esta jornada está comisariada por Rosa Navalón y Marta
-  Vall. SESIÓN DE MAÑANA (Entradas agotadas): Talleres de ganchillo y pun
- to. De 11:00h a 14:00h. Espacio: Terrario 1. Taller infantil 'tejer\, apre
- nder y crecer' con Juan Ferrete y Patricia Vasco. 2. Taller de tejido 'dos
-  agujas\, mil historias' Elizabeth Castillo y Lucía Muñoz. 3. Ganchillo 
- iniciación ‘a todo gancho: espiral' con Claire Tarbet. 4. Ganchillo int
- ermedio ‘a todo gancho: colgante boho' con Inma Ávila. 5. Ganchillo int
- ermedio ‘a todo gancho: bombonera' con Ysabel Izquierdo. 6. Ganchillo in
- termedio ‘a todo gancho: mariposas violetas' con Itziar Prats. Más info
- rmación en link de cada taller. Inscripción previa a través de la web d
- e Matadero Madrid. Entradas de 3€ por persona. *Actividad Intergeneracio
- nal\, recomendada a partir de 12 años: jóvenes\, adultos y mayores. SESI
- ÓN DE TARDE (Charlas gratuitas): Tejer\, Charlar y Compartir. De 16:30h a
-  19:30h. Espacio: Aulario Entrada: acceso libre hasta completar aforo. Cua
- tro presentaciones consecutivas que abordarán la relación entre tejer\, 
- bienestar y participación social. Las sesiones incorporarán un espacio d
- e conversación y diálogo con las personas asistentes\, que podrán escuc
- har\, compartir experiencias y continuar tejiendo durante las intervencion
- es. Se facilitarán materiales hasta agotar recursos para quien necesite. 
- 16:30h a 17:15h. «La salud se teje en el barrio: el poder de la medicina 
- comunitaria» Dr. Antonio Ruiz\, Doctor Especialista en Medicina Familiar 
- y Comunitaria. La intervención abordará la relación entre las práctica
- s textiles colectivas\, la salud comunitaria y el bienestar\, explorando c
- ómo espacios de encuentro en torno al tejido pueden favorecer las relacio
- nes sociales\, contribuir a combatir la soledad no deseada y generar conte
- xtos de bienestar físico\, emocional y comunitario. 17:15h a 18:00h. «El
-  efecto mariposa: tejer un futuro sin violencia de género» Itziar Prats
- \, psicóloga y cofundadora del proyecto social y educativo «El Latido de
-  las Mariposas». Presentación de una iniciativa educativa y social que u
- tiliza la creación y difusión de mariposas moradas como herramienta de s
- ensibilización y concienciación frente a la violencia de género. La int
- ervención abordará el papel de la educación\, la creatividad y la parti
- cipación colectiva en la construcción de relaciones más igualitarias y 
- respetuosas. 18:00h a 18:45 h. «Tejer en las aulas: el crochet como herra
- mienta de aprendizaje» Juan Ferrete\, Ingeniero Industrial\, profesor de 
- Secundaria y creador de los proyectos «PROCESO» y «CRECER». Juan Ferre
- te compartirá su experiencia incorporando el tejido a los procesos educat
- ivos en el ámbito de la educación secundaria. La presentación abordará
-  las posibilidades del crochet como herramienta pedagógica para favorecer
-  la atención y la concentración\, generar espacios de desconexión de la
-  tecnología digital\, promover la convivencia y trabajar capacidades como
-  la paciencia y la tolerancia a la frustración. 18:45h a 19:30h. «Tejido
-  y bienestar en la ciudad» Alejandro Abarzúa\, artista visual\, investig
- ador del tejido y coordinador del proyecto colectivo «Costura Remake». A
- lejandro Abarzúa reflexionará sobre el tejido como práctica creativa\, 
- meditativa y colectiva capaz de generar bienestar y comunidad. Desde su ex
- periencia artística y el trabajo desarrollado durante más de seis años 
- en Medialab Prado y\, actualmente\, en Medialab Matadero junto a «Costura
-  Remake»\, abordará el hacer con las manos como espacio de encuentro y t
- ransformación. La charla recorrerá experiencias de creación colectiva\,
-  economía circular y reutilización de materiales\, mostrando cómo el te
- jido permite recuperar saberes\, conectar personas y transformar nuestro e
- ntorno.\n\nhttps://www.mataderomadrid.org/programacion/encuentro-para-teje
- r-en-compania-tejiendo-y-punto
-LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Por quienes fueron\, somos
-DTSTART;TZID=Europe/Madrid:20261024T113000
-UID:e73c93d8229169c613a7a139222b7754288c27d5733b9b11660b16ac0d158ef4
-CATEGORIES:other
-DESCRIPTION:Encuentro de cierre del proyecto Where is my friends______? y 
- presentación de la maqueta del fotolibro fruto de un proceso de investiga
- ción sobre las memorias y los archivos de la comunidad china. A través d
- e un conversatorio con personas entrevistadas y participantes del proyecto
- \, se abrirá un espacio para compartir historias\, experiencias y seguir 
- construyendo un archivo vivo que conecta territorios\, generaciones y form
- as de habitar\, dentro y fuera de Usera. Yuan iuan \, migrante china\, act
- ivista cuir antirracista y artista visual. Especializado en diseño de esp
- acios. Su práctica se sitúa en la intersección entre el arte\, la memor
- ia y la justicia social\, con especial atención a las experiencias migran
- tes\, la construcción del territorio y la creación de espacios de resist
- encia comunitaria. En sus proyectos combina fotografía\, escritura\, arch
- ivo oral y diseño editorial para activar procesos de memoria colectiva y 
- disputar los imaginarios hegemónicos sobre las personas chinas en España
- . Ha sido integrante de la comisión antirracista del 8M Madrid\, forma pa
- rte de espacios de organización de la diáspora asiática en el Estado es
- pañol y milita en el colectivo cuir de la diáspora china (Queering All).
-  Ha trabajado en proyectos sobre la memoria migrante y la identidad cultur
- al como forma de resistencia\, entre ellos\, una investigación artística
-  sobre las pertenencias de la diáspora y otro libro en desarrollo sobre l
- as prácticas cotidianas en espacios seguros en barrios como Usera. Eva Ch
- en nació en Madrid en el seno de una familia de origen chino. Creció ent
- re dos culturas que han atravesado su historia familiar y que también han
-  marcado su manera de relacionarse con la identidad\, la memoria y la comu
- nidad. La historia familiar de Eva también está vinculada a la historia 
- de los restaurantes chinos en España. Según su relato familiar\, su abue
- lo 陈迪光 fue pionero en este ámbito y estuvo relacionado con el resta
- urante La Gran Muralla (长城). La gastronomía aparece no solamente como
-  una actividad económica\, sino también como un espacio de transmisión 
- de conocimientos\, relaciones y memoria dentro de la comunidad china. Esta
-  memoria familiar se cruza además con otra historia cultural: la presenci
- a de su familia en el mundo del teatro durante la segunda mitad del siglo 
- XX\, vinculada al conocido Teatro Chino de Manolita Chen. Según la histor
- ia transmitida por la familia\, su bisabuelo\, Chen Tse Ping\, fue fundado
- r de este proyecto. El nombre Manolita Chen\, recuperado posteriormente po
- r Eva en uno de sus proyectos gastronómicos\, funciona para ella como una
-  forma de recuperar una parte de esta memoria familiar y cultural que cons
- idera borrada o despojada de su origen. Esta historia\, a parte de ser la 
- historia de la familia de Eva Chen\, también es la historia de la constru
- cción de la diáspora china en el Reino de España\, es la memoria de tod
- es. Actualmente\, Eva continúa relacionándose con estas historias a trav
- és de la gastronomía. Además de Manolita Chen es fundadora de La Pagoda
- \, dos proyectos de restauración en Madrid desde los que explora la gastr
- onomía asiática desde una mirada contemporánea\, pero también desde el
-  vínculo con sus raíces y con la memoria de su familia. Su experiencia f
- orma parte de la historia de una generación nacida o criada en España de
- ntro de familias migrantes chinas: una generación que ha crecido entre di
- ferentes referencias culturales y que construye sus propias formas de habi
- tar\, transmitir y reinterpretar esa herencia. En el caso de Eva\, esta re
- lación con la identidad aparece especialmente vinculada a la comida\, los
-  nombres\, los restaurantes\, las historias familiares y la recuperación 
- de una memoria cultural que continúa transformándose en Madrid. Shishi Z
- hu (Wenzhou\, China\, 1995) es artista transdisciplicar\, intérprete y me
- diadora. Su práctica artística explora los lenguajes culturales y artís
- ticos de Oriente y Occidente\, con especial interés en la creación dial
- ógica y performativa\, los paisajes culturales y las relaciones entre lo 
- colectivo y lo individual. A través de su trabajo aborda cuestiones socio
- comunitarias e interculturales\, generando espacios de diálogo\, encuentr
- o y comprensión mutua. Como integrante del colectivo Cangrejo Pro\, utili
- za la performance para explorar la identidad colectiva y las experiencias 
- comunitarias. En su trabajo individual\, desarrolla una investigación pri
- ncipalmente visual y pictórica\, incorporando diferentes lenguajes cultur
- ales y reflexionando sobre la experiencia artística y vital. La memoria\,
-  la experiencia y las historias compartidas constituyen elementos fundamen
- tales de su práctica\, estableciendo un vínculo entre la creación artí
- stica y la escritura creativa. En el marco de "Where is my friends_____?"
- \, Shishi Zhu ha participado como facilitadora y participante de la activi
- dad «Cartografía sensorial en Usera»\, y como colaboradora del encuentr
- o intergeneracional realizado junto al Centro de Mayores de la comunidad c
- hina de Usera. Su participación ha contribuido a generar espacios de encu
- entro\, intercambio y reflexión colectiva en torno a las memorias y exper
- iencias de la comunidad china en Usera. Xiaoya Chen \, exvecina del barrio
-  de Usera y *同工* (colaboradora) de la iglesia evangélica china de Mad
- rid. Llegó a Madrid el 4 de octubre de 1991 y\, desde sus primeros años 
- en la ciudad\, comenzó a buscar espacios de encuentro vinculados a la com
- unidad cristiana china. En 1993 abrió una fábrica de ropa y comenzó tam
- bién una pequeña iglesia doméstica\, que con el tiempo crecería hasta 
- convertirse en uno de los espacios de referencia de la comunidad cristiana
-  china de Madrid. Junto con su pareja y sus tres hijas\, participó durant
- e décadas en la vida cotidiana de estos espacios: reuniones en casas part
- iculares\, celebraciones\, la escuela dominical donde fue maestra\, encuen
- tros familiares y actividades comunitarias\, en los que acompañó la tran
- smisión de la lengua\, las prácticas culturales y la fe cristiana. Su te
- stimonio también muestra la dimensión material que sostiene estos espaci
- os\, en los que ha participado también con la búsqueda y adquisición de
-  locales\, financiación y  funcionamiento. Su experiencia está estrecha
- mente vinculada también al trabajo en la industria textil\, gestionó una
-  fábrica de aproximadamente 300 m²\, con más de veinte trabajadores\, s
- ituada en la calle Nicolás Godoy. Más que una trayectoria individual\, s
- u relato permite acercarse a una red de relaciones construida alrededor de
-  la iglesia: familias que se reúnen\, personas que colaboran\, niñas y n
- iños que crecen juntas\, personas que comparten comida y trabajo\, y una 
- comunidad que construye y sostiene sus propios espacios de encuentro. Emil
- y Sun es una artista que trabaja entre la producción musical\, la mediaci
- ón cultural\, y la curaduría. Su práctica explora el sonido y la músic
- a como modos de sanación y construcción de memoria diaspórica\, activan
- do la creación colectiva como canal de resistencia. Proyecto seleccionado
-  dentro de la convocatoria “Intermediae Distribuido 2025-2026” \, dest
- inada a propuestas comunitarias y participativas en torno a los distritos 
- de Arganzuela y Usera.\n\nhttps://www.mataderomadrid.org/programacion/por-
- quienes-fueron-somos
-LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Menudo drama
-DTSTART;TZID=Europe/Madrid:20261024T113000
-UID:9a003807d4160d6562b3540f565a952f692da4ca4b3832fe26a809811d4dc52d
-CATEGORIES:family
-DESCRIPTION:La palabra es acción. En este taller vamos a experimentar y a
-  jugar en familia a transformar las palabras precisamente en esto\, en acc
- ión. Partiendo de un texto teatral para niños y niñas propondremos a lo
- s participantes convertir el texto en personajes\, escenografía\, movimie
- nto y emoción\, porque las palabras son también una representa(Acción).
-  Organiza: ASSITEJ España. Artes Escénicas para la Infancia y la Juventu
- d Imparte: Rosa Encinas (Morsa. AcciONes didácticas) Filóloga hispánica
-  y diseñadora gráfica. Desde hace diez años\, desarrolla y explora su f
- aceta didáctico-escénica como miembro del proyecto gastroliterario Cocin
- andoCuentos y de la compañía de teatro en miniatura MorsaPolar. Curiópa
- ta y dispersa convencida\, se sube a cualquier barco si promete aventura y
-  conocimiento.\n\nhttps://www.mataderomadrid.org/programacion/menudo-drama
-LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La bola negra
-DTSTART;TZID=Europe/Madrid:20261024T114500
-DTEND;TZID=Europe/Madrid:20261024T142400
-UID:04d0756f247d07a27687f559f5cf1b3f29d4ee8efcba440d7aff98ee05f8f668
-CATEGORIES:cinema
-DESCRIPTION:Las vidas interconectadas de tres hombres en tres épocas dist
- intas. Tres existencias íntimamente ligadas por la sexualidad y el deseo
- \, el dolor y la herencia\; y una de las últimas obras\, inacabada\, de F
- ederico García Lorca.\n\nRelease year: 2026\n\nOriginal language: ES\n\nh
- ttps://cinesembajadores.es/pelicula/la-bola-negra/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La bola negra
-DTSTART;TZID=Europe/Madrid:20261024T115000
-DTEND;TZID=Europe/Madrid:20261024T142900
-UID:a7278373357ed2d052c9cc271f5af5f9bf9a0111ce80639e27fc4bd437d76e0e
-CATEGORIES:cinema
-DESCRIPTION:Las vidas interconectadas de tres hombres en tres épocas dist
- intas. Tres existencias íntimamente ligadas por la sexualidad y el deseo
- \, el dolor y la herencia\; y una de las últimas obras\, inacabada\, de F
- ederico García Lorca.\n\nRelease year: 2026\n\nOriginal language: ES\n\nh
- ttps://cinesembajadores.es/pelicula/la-bola-negra/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Visitas guiadas a Movistar KOI eSports Center
-DTSTART;TZID=Europe/Madrid:20261024T120000
-UID:10da7c3ed74738acf20587f6e35deb82e6b8e201ec394d71db8218372c3e21c5
-CATEGORIES:other
-DESCRIPTION:Movistar Koi\, uno de los principales clubs de esports de Euro
- pa ofrece una visita guiada por sus instalaciones. ¿Quieres conocer cómo
-  funciona un club de eSports desde dentro? Movistar Koi abre las puertas d
- e sus instalaciones ofreciendo una visita guiada y una breve explicación 
- de su estructura por parte de su staff deportivo. Movistar KOI\, el club d
- e eSports más conocido a nivel nacional\, te invita a visitar su sede\, e
- l Movistar KOI eSports Center. Durante la visita guiada por el primer Cent
- ro de Alto Rendimiento dedicado\, en exclusiva\, a los deportes electróni
- cos\, podrás conocer las salas de entreno de los jugadores\, sus vestuari
- os y el stage desde donde se han vivido los mejores momentos de la histori
- a del club. Además\, un miembro del staff deportivo impartirá una breve 
- charla a modo de introducción en el mundo de los eSports\, una de las ofe
- rtas de entretenimiento con mayor proyección de crecimiento\; y\, en conc
- reto\, la estructura y funcionamiento de Movistar KOI.\n\nhttps://www.mata
- deromadrid.org/programacion/visitas-guiadas-movistar-koi-esports-center
-LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Película SORPRESA Edición HALLOWEEN
-DTSTART;TZID=Europe/Madrid:20261024T120000
-UID:28aadb4c86f5c824fe115737626c5b3b14db2ee262dcd998e182eaf45e40f5e6
-CATEGORIES:cinema
-DESCRIPTION:Una colaboración especial de La Caneli con Cines Embajadores.
-  Presentación de La Caneli + Proyección En esta ocasión déjate sorpren
- der por la terrorífica elección de La Caneli para esta sesión especial 
- de Halloween. ¡Anímate y ven con tu mejor disfraz porque puede que salga
- s con un premio! Llévate unas palomitas pequeñas gratis con tu entrada.
- \n\nhttps://cinesembajadores.es/pelicula/laca-y-palomitas-pelicula-sorpres
- a-edicion-halloween/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Visita a los huertos urbanos
-DTSTART;TZID=Europe/Madrid:20261024T120000
-DTEND;TZID=Europe/Madrid:20261024T130000
-UID:0eff4419edccf1d25d5a0ea69f82505c0869b9d009893e3174e8c347c31c3ff3
-CATEGORIES:walk
-DESCRIPTION:Espacio: Huertos Urbanos\n\nEl edificio de Infinito y la vida 
- que contiene son fruto de meses de investigación\, pruebas y trabajo cole
- ctivo. Una suma de fuerzas\, voces y decisiones hacen de este proyecto un 
- ejemplo particular en\n\ndiferentes campos\n\n: arquitectura\, diseño sos
- tenible\, modelo funcional\, oferta cultural o propuesta gastronómica.\n
- \nLas terrazas de la primera planta guardan estructuras para el cultivo de
-  gran variedad de hortalizas y plantas aromáticas. Estas especies no solo
-  abastecen a las cocinas de Infinito\, también presentan una oportunidad 
- para acercarnos\, en plena ciudad\, a las temporalidades y procesos que pe
- rmiten cultivarlas.\n\nEn un formato corto (45 min)\, de la mano de Huerto
- teca\, puedes conocer los huertos\, su funcionamiento\, detalles y curiosi
- dades.\n\nRecomendado para adultos y niños y niñas a partir de 7 años.
- \n\nHuertoteca\n\n\, encargada de dinamizar la visita\, es una organizaci
- ón local especializada en diseñar\, instalar y mantener huertos urbanos.
-  Con el fin de proporcionar a la sociedad las herramientas necesarias para
-  mantener el contacto con la tierra\, imparten cursos y talleres en colegi
- os\, residencias de mayores\, asociaciones\, restaurantes y empresas. Es t
- ambién la entidad encargada de cuidar los huertos de Infinito.\n\nhttps:/
- /www.infinitodelicias.com/es/agenda/visitas-a-los-huertos-urbanos-octubre
-LOCATION:Infinito Delicias - C. de Juana Dona\, 5\, Arganzuela\, 28045 Mad
- rid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A fishy tale
-DTSTART;TZID=Europe/Madrid:20261024T123000
-UID:e0858a0bf94a990970c741001814153463fd5f2e0428f495e5db93cf897f0b23
-CATEGORIES:family
-DESCRIPTION:Un humilde pescador y su ambiciosa mujer protagonizan esta ada
- ptación del cuento de los Hermanos Grimm. A través del uso de marionetas
- \, canciones originales y una constante interacción con el público infan
- til\, la obra busca enseñar el idioma de forma dinámica mientras explora
-  valores fundamentales como la pobreza\, la codicia y el perdón. Compañ
- ía: Face 2 Face Theatre Company.\n\nhttps://www.mataderomadrid.org/progra
- macion/fishy-tale-0
-LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:No solo duelen los golpes.
-DTSTART;TZID=Europe/Madrid:20261024T130000
-UID:245172388b7e87bcb3d2c2fd9fe6e891dbb07aa077149a4f5777c324cec52a58
-CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 5 plazas!\n\nhttps://teatrodelbarrio.com/no-s
- olo-duelen-los-golpes/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Colombia en escena.
-DTSTART;TZID=Europe/Madrid:20261024T130000
-UID:3d53b774027286bdc79b46cbcd0b7beaa35d7aa2fa57673c1eb0097551958ce0
-CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 4 plazas!\n\nhttps://teatrodelbarrio.com/colo
- mbia-en-escena/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Arriba Tutto
-DTSTART;TZID=Europe/Madrid:20261024T155000
-UID:6a0aacdda6c4b86598076f3eaae3329e4cad37ab125189f92f6f5b602bd33063
-CATEGORIES:cinema
-DESCRIPTION:Versión Original Castellano | Duración 102 minutos | No reco
- mendada para menores de 12 años\n\nRelease year: 2026\n\nOriginal languag
- e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1093238/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La invitación
-DTSTART;TZID=Europe/Madrid:20261024T160000
-DTEND;TZID=Europe/Madrid:20261024T174800
-UID:971e7b049b08e9c3a05d0ed072d12a038d74ea0faca47d03f3adba0475c6e2ec
-CATEGORIES:cinema
-DESCRIPTION:Una pareja invita a los vecinos a su casa\, lo que desencadena
-  una velada llena de giros inesperados\, revelando emociones profundamente
-  reprimidas y una sexualidad inexplorada en esta historia que explora las 
- complejidades de las relaciones de hoy en día. Basada en la obra de teatr
- o Cesc Gay 'Los vecinos de arriba'\, que dio origen a su película 'Sentim
- ental'\n\nOriginal title: The Invite\n\nRelease year: 2026\n\nOriginal lan
- guage: EN\n\nAudio: VOSE\n\nhttps://cinesembajadores.es/pelicula/la-invita
- cion-vose/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La bola negra
-DTSTART;TZID=Europe/Madrid:20261024T160000
-DTEND;TZID=Europe/Madrid:20261024T183900
-UID:a211fb8069aedd3d6d4c0ee5f3908e5777d4f6e359cb986e80fd89a4be8de4e2
-CATEGORIES:cinema
-DESCRIPTION:Las vidas interconectadas de tres hombres en tres épocas dist
- intas. Tres existencias íntimamente ligadas por la sexualidad y el deseo
- \, el dolor y la herencia\; y una de las últimas obras\, inacabada\, de F
- ederico García Lorca.\n\nRelease year: 2026\n\nOriginal language: ES\n\nh
- ttps://cinesembajadores.es/pelicula/la-bola-negra/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mascotas al rescate
-DTSTART;TZID=Europe/Madrid:20261024T160000
-DTEND;TZID=Europe/Madrid:20261024T173900
-UID:913a9d40ba83312e1540fbea115577c3d785bc47b4e0e426126dfc727bbf0d85
-CATEGORIES:cinema
-DESCRIPTION:Cuando un tren de alta velocidad queda fuera de control\, un g
- rupo de mascotas atrapadas deberá unirse para evitar el desastre. Falcon
- \, un mapache ingenioso\; Rex\, un perro policía con un pasado pendiente
- \; y Maggie\, una gata rápida y valiente\, tendrán que plantar cara al t
- ejón Hans y detener su plan de venganza. Un viaje trepidante donde cada m
- ascota es clave para salvar la aventura.\n\nOriginal title: Falcon Express
- \n\nRelease year: 2025\n\nOriginal language: FR\n\nAudio: Doblada ES\n\nht
- tps://cinesembajadores.es/pelicula/mascotas-al-rescate-doblada-al-espanol/
- ?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blue Heron
-DTSTART;TZID=Europe/Madrid:20261024T160000
-UID:9558d6ccb60648ab4198ab5afce2f5f6ee4fd14eeb4f4b8b0f9750c00a53b4ce
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 91 minu
- tos | No recomendada para menores de 12 años\n\nRelease year: 2026\n\nOri
- ginal language: EN\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1093326
- /
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chopin
-DTSTART;TZID=Europe/Madrid:20261024T160000
-UID:d63447a28b1caad91cd81b8b1e492d66205ff7319dea1fecc47ffb401448d6ad
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 113 min
- utos | No recomendada para menores de 12 años\n\nOriginal title: Chopin\,
-  Chopin!\n\nRelease year: 2025\n\nOriginal language: PL\n\nAudio: VOSE\n\n
- https://www.pillalas.com/pase/1093325/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Vida De Una Mujer
-DTSTART;TZID=Europe/Madrid:20261024T160000
-UID:e2a24057ba91df67a6cbbd2c63a5ea6fe1f40414a5e013748472469d51384f9c
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 99 minu
- tos | No recomendada para menores de 12 años\n\nOriginal title: La vie d'
- une femme\n\nRelease year: 2026\n\nOriginal language: FR\n\nAudio: VOSE\n
- \nhttps://www.pillalas.com/pase/1093264/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Naza
-DTSTART;TZID=Europe/Madrid:20261024T160000
-UID:ce979d14c65be1deef5bafedde6a8bb98e8bf2d5bd55b789bc659d708a299767
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 77 minu
- tos | No recomendada para menores de 16 años\n\nRelease year: 2026\n\nOri
- ginal language: EN\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1093265
- /
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cocinando cuentos
-DTSTART;TZID=Europe/Madrid:20261024T163000
-UID:0547111c2af7a9bd70e6f6f29fbb7596cdc59f743f5c07274665bb37410209d2
-CATEGORIES:family
-DESCRIPTION:Leyenda\, cocinero del país de los cuentos llega a las cocina
- s de casa del Lector con el deseo de guisar las más suculentas historias.
-  Un gorro de cocinero\, una cuchara que hace música\, una cacerola de la 
- que salen poemas\, adivinanzas\, trabalenguas y la maleta Enriqueta que gu
- arda los secretos de los cuentos. Los mejores cuentos\, como los buenos gu
- isos siempre salen a fuego lento. Imparte: Primigenius.\n\nhttps://www.mat
- aderomadrid.org/programacion/cocinando-cuentos
-LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Letras a cachos
-DTSTART;TZID=Europe/Madrid:20261024T163000
-UID:d1c46b80a14e0541fa61dd32b0356ebe8db58dfd981eeb9b1f51efbf9236dd8b
-CATEGORIES:family
-DESCRIPTION:Tijeras\, pegamento y una misión: encontrar letras donde nadi
- e las había visto. Recortaremos fotos\, texturas\, colores y fragmentos i
- mpresos para convertirlos en un alfabeto inesperado. Aquí no hace falta s
- aber dibujar: basta con mirar de otra manera. Descripción: Una escalera p
- uede ser una A. Una ventana\, una O. Un trozo de cielo\, el hueco perfecto
-  para una P. Cuando empiezas a mirar las formas como letras\, cualquier p
- ágina puede esconder un alfabeto. En este taller trabajaremos con revista
- s\, libros y papeles impresos para recortar imágenes\, texturas\, manchas
-  de color\, bloques tipográficos y todo aquello que nos llame la atenció
- n. No vamos a decorar letras ya hechas: vamos a construirlas desde cero\, 
- pieza a pieza. El reto será encontrar combinaciones que sorprendan y\, al
-  mismo tiempo\, sigan siendo legibles. Porque una letra puede ser rarísim
- a\, pero tiene que seguir queriendo decir algo. Cada participante terminar
- á creando una palabra propia en gran formato\, mezclando imagen\, forma y
-  tipografía hasta convertirla en una pequeña pieza gráfica. Una hora y 
- cuarto para recortar\, probar\, desmontar\, pegar y descubrir que las letr
- as pueden aparecer donde menos te lo esperas. Organiza: Organiza Súper Gr
- áficas Imparte : Héctor Marcs.\n\nhttps://www.mataderomadrid.org/program
- acion/letras-cachos
-LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jugar el Arte
-DTSTART;TZID=Europe/Madrid:20261024T163000
-UID:cd85c7b463be7b62391d08faaa43f9219fb2272c824dac0e937723787359fc0e
-CATEGORIES:family
-DESCRIPTION:Jugar el arte es la experiencia de juego libre en familia para
-  niños y niñas de 2 a 5 años. A través de instalaciones artísticas ll
- enas de materiales\, colores y formas\, los más pequeños exploran\, expe
- rimentan y crean a su propio ritmo\, acompañados de un adulto/a. En Somos
-  Lectura celebramos la lectura en todas sus formas. Leer no es solo descif
- rar letras en un libro: también es crear imágenes\, descubrir significad
- os\, dejar volar la imaginación y el pensamiento. En Jugar el Arte\, los 
- niños y niñas acompañados de sus familias pueden adentrarse en instalac
- iones artísticas diseñadas para el juego libre. Cada sesión se conviert
- e en una experiencia sensorial y creativa en la que el arte se transforma 
- en un lenguaje abierto\, lleno de posibilidades. Aquí\, las familias “l
- een” juntas de otra manera: con las manos\, con la imaginación y con el
-  cuerpo en movimiento\, en los gestos\, al explorar colores y materiales\,
-  hay creatividad\, como si fueran palabras nuevas. Una propuesta que ampl
- ía el concepto de lectura fomenta la creatividad compartida y refuerza lo
- s vínculos entre adultos/as y pequeños/as a través del juego\, al igual
-  que hace la lectura de cuentos en estas edades. Imparte: Jugar el Arte\, 
- Arianne y Constanza.\n\nhttps://www.mataderomadrid.org/programacion/jugar-
- el-arte-5
-LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blue Heron
-DTSTART;TZID=Europe/Madrid:20261024T170000
-DTEND;TZID=Europe/Madrid:20261024T183100
-UID:92491070ff3fff37bb5ef48272e91341d72946c3c72e3d71b30e9b82c4011184
-CATEGORIES:cinema
-DESCRIPTION:A finales de los años 90\, Sasha\, una niña de ocho años\, 
- y su familia se mudan a una nueva casa en la isla de Vancouver. Esta nueva
-  vida se verá afectada por el comportamiento cada vez más impredecible d
- e Jeremy\, el hijo mayor. Desesperados\, sus padres se enfrentarán a una 
- decisión complicada. | Dirección: Sophy Romvari | Hungría / Canadá\, 2
- 026 | Duración 91 minutos | Versión VOSE | Estreno\n\nRelease year: 2026
- \n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://www.circulobellasartes
- .com/ciclos-cine/peliculas/blue-heron/
-LOCATION:Cine Estudio Circulo de Bellas Artes - Marques de Casa Riera\, 4
- \, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cinema Pardiso
-DTSTART;TZID=Europe/Madrid:20261024T173000
-UID:279d51e5e9d4b8f355d17c263d0be6b7c837cef95e8d7a0a37fe1861da3214fd
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Sábado 24 de octubre a las 17:30h (Sala 1. FILM
- OTECA JR. / MIRADAS PROYECTADAS. SALAS Y ESPECTADORES: ENCUENTROS A OSCURA
- S) *Aunque las entradas aparezcan como agotadas en web\, pueden adquirirse
-  en taquilla entradas para las sesiones del día (de 17h a 20h)\n\nhttps:/
- /entradasfilmoteca.sacatuentrada.es/es/productos/descripcion/cinema-pardis
- o
-LOCATION:Filmoteca Espanola - Cine Dore - Calle de Santa Isabel\, 3\, Madr
- id
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rumbo Rodari
-DTSTART;TZID=Europe/Madrid:20261024T173000
-UID:64ae918d646a54faa1536d7c15004d9d083ee532e6972ff58ad06bd3bd55a93c
-CATEGORIES:family
-DESCRIPTION:¿Cómo hubiera retratado el gran autor de cuentos Gianni Roda
- ri los locos tiempos que nos han tocado vivir? Rumbo Rodari es un espectá
- culo musical dirigido a público familiar\, que propone una relectura opti
- mista y juguetona de varios relatos de Gianni Rodari bajo el prisma actual
- . La insaciable curiosidad de Juanito Pierdedía\, carismático protagonis
- ta de cuentos de Rodari \, es el punto de partida de esta expedición insp
- irada en la imaginación del genial autor italiano\, la cual nos lleva has
- ta El país de las calles vacías. Allí\, el pequeño explorador conocer
- á historias increíbles como la de la mascarilla volante\, que un buen d
- ía huye de su amo\, las peripecias de Don Zana\, un generoso anciano que 
- presta su ayuda a todo el que lo necesita\, o la obsesión del rico Federi
- co Ulrico\, que se construye una fortaleza en el desierto para no contagia
- rse de un virus maldito mientras enferma de infelicidad. La música en dir
- ecto\, compuesta por el reconocido acordeonista y compositor Gorka Hermosa
-  \, acompaña la trama de esta obra protagonizada por la actriz y narrador
- a Natalia Erice . Con su compañía Trastapillada\, mereció el Premio del
-  Público a mejor narradora internacional en el Festival Cuéntamelo 2022
- \, de Lima (Perú). Imparte: Compañía Trastapillada – Natalia Erice\n
- \nhttps://www.mataderomadrid.org/programacion/rumbo-rodari
-LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rutas del Sureste. El Camino como inspiración: el caso Jeju
-DTSTART;TZID=Europe/Madrid:20261024T173000
-DTEND;TZID=Europe/Madrid:20261024T173000
-UID:dc783470804d87f928bd37dacd1250a895151075b136e9f0ff8410f551d5941f
-CATEGORIES:talk
-DESCRIPTION:Ciclo Edificios emblemáticos en el Camino de Santiago. (Noven
- a sesión). \nSecciones de Farmacia\, Ciencias Históricas y Ciencias de l
- a Salud  \n \nPresentan: Daniel Pacheco. \nIntervienen: José González N
- úñez\, Jeanne Henny. Modera: Sagrario Sánchez-Pacheco.  \nSala Ramón 
- y Cajal. 17:30.\n\nhttps://ateneodemadrid.com/evento/ruta-del-sureste-y-ca
- so-jeju-olle/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kat Eaton
-DTSTART;TZID=Europe/Madrid:20261024T173000
-UID:bcc40ed67ab6c0af5b5064d6cab8ae5eb1727f30a1f7ed2142721df771b2a8be
-CATEGORIES:music
-DESCRIPTION:Concierto / Villanos del Jazz. Kat Eaton es una de las voces e
- mergentes más destacadas del soul británico. Con una mezcla de soul\, bl
- ues y jazz\, ha conquistado al público y la crítica gracias a su potente
-  interpretación y gran presencia escénica. Tras el éxito de sus dos ál
- bumes\, ha girado por Reino Unido y Europa junto a artistas como Gregory P
- orter\, The Teskey Brothers\, Paul Carrack y Mamas Gun\, además de presen
- tarse en importantes festivales internacionales. Su música ha sonado en e
- misoras de toda Europa\, consolidando su proyección internacional. Acompa
- ñada por una banda de primer nivel\, Kat Eaton ofrece un directo intenso
- \, elegante y lleno de emoción. En 2026 presenta su nuevo trabajo discogr
- áfico\, «What Happens Now».\n\nhttps://salavillanos.es/evento/kat-eaton
- /
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Bola Negra
-DTSTART;TZID=Europe/Madrid:20261024T174000
-UID:6fb287b02b3e170b23b2f22eae914f32fc270ea816d645402cfb21d2319ccf21
-CATEGORIES:cinema
-DESCRIPTION:Versión Original Castellano | Duración 155 minutos | No reco
- mendada para menores de 16 años\n\nRelease year: 2026\n\nOriginal languag
- e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1093266/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Arriba Tutto
-DTSTART;TZID=Europe/Madrid:20261024T174500
-DTEND;TZID=Europe/Madrid:20261024T192300
-UID:0464efc465eca21169c586d12776d4494b676b5eea48fb12a9e301bd6d26c419
-CATEGORIES:cinema
-DESCRIPTION:1905. La feliz infancia de Michi\, un niño de siete años fin
- aliza bruscamente con la violenta muerte de su padre\, un artista ambulant
- e que ha enseñado al pequeño a ver la magia y el humor en cada rincón d
- e la vida. Pasados los años\, Michi se ha convertido en un hombre amargad
- o\, violento y consumido por el rencor. Una asombrosa aparición y el reen
- cuentro con Conchita\, su amor de la niñez le ayudará a recuperar el par
- aíso perdido y la transgresora visión del mundo que le inculcó su padre
- . Convertido en un hombre nuevo\, el destino le llevará a vivir una avent
- ura en la que intentará cumplir la promesa de amor que una vez le hizo a 
- la niña.\n\nRelease year: 2026\n\nOriginal language: ES\n\nhttps://cinese
- mbajadores.es/pelicula/arriba-tutto/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Arriba Tutto
-DTSTART;TZID=Europe/Madrid:20261024T175000
-UID:e490b2c1e50522b4c97014d11a75f55de2e3bbaf9b9dfd7c2d27e62eaa720197
-CATEGORIES:cinema
-DESCRIPTION:Versión Original Castellano | Duración 102 minutos | No reco
- mendada para menores de 12 años\n\nRelease year: 2026\n\nOriginal languag
- e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1093239/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Partida de rol 'Stranger Madrid - Glitch Neuronal en la zona Feria
- l'
-DTSTART;TZID=Europe/Madrid:20261024T180000
-UID:fc864e1ded4c41ad494825ce570703e0e5adecb50839b9fd6c028cdd1edb1f28
-CATEGORIES:family
-DESCRIPTION:Una nueva atracción de Realidad Virtual te lleva al Parque de
-  Atracciones del año 2000\, pero ¿podrás volver? Vais a ser los primero
- s en probar esta nueva atracción que proyecta el mundo virtual directamen
- te sobre vuestro cerebro\, pero en seguida os daréis cuenta de que tiene 
- algún que otro problemilla... Sin embargo\, no hay de qué preocuparse\, 
- vuestro guía Trasto\, a pesar de los peligrosos glitches\, está aquí pa
- ra asegurarse de que tengáis la mayor diversión posible... ¿Dónde quie
- res montar primero? Durante esta partida visitaréis diferentes atraicione
- s extrañamente peligrosas del parque virtual\, mientras intentáis encont
- rar una salida\, y descubrís\, todos juntos\, qué está tramando la masc
- ota Trasto. No hace falta haber jugado antes a rol: las reglas son mínima
- s\, y en cinco minutos ya habréis creado vuestro personaje y estaréis me
- tidos en la historia\, dado en mano y Speedy Pass listo. Imparte: Sergio d
- e Isidro de Los Amos del Calabozo.\n\nhttps://www.mataderomadrid.org/progr
- amacion/partida-de-rol-stranger-madrid-glitch-neuronal-en-la-zona-ferial
-LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Malada Madrina
-DTSTART;TZID=Europe/Madrid:20261024T180000
-UID:613720a1c414f91ee081a31513cd3ca4d436d7007d6dc1b032dd24c2377780aa
-CATEGORIES:family
-DESCRIPTION:¿Te imaginas tener una varita mágica capaz de lanzar tus pro
- pios hechizos? En este divertido taller nos adentraremos en el universo de
-  Malada Madrina y conoceremos las aventuras de Mali y sus amigos. Cada par
- ticipante podrá crear su propia varita y dejar volar la imaginación para
-  inventar un hechizo único y especial\, como los que aparecen en los libr
- os. Una actividad para disfrutar en familia\, acercarse al mundo de la lec
- tura y descubrir que\, con un poco de imaginación\, ¡la magia también p
- uede estar en nuestras manos! Organiza: Edelvives\n\nhttps://www.mataderom
- adrid.org/programacion/malada-madrina
-LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mala letra
-DTSTART;TZID=Europe/Madrid:20261024T180000
-UID:0dfba7a72ab495eff295e07427c5f5f936ae69e2dca843ed8a24dcbdbf1ee3a4
-CATEGORIES:other
-DESCRIPTION:Negra\, afilada\, compacta\, casi arquitectónica. La caligraf
- ía gótica tiene algo hipnótico: una mezcla de ritmo\, precisión y car
- ácter. En este taller empezaremos desde cero para entender su lógica y a
- cabar escribiendo nuestras propias letras con toda su fuerza. Hay letras q
- ue se leen y otras que\, antes de leerlas\, se sienten. La gótica pertene
- ce a ese segundo grupo. Sus formas son densas\, verticales\, oscuras\, lle
- nas de ritmo. Puede recordar a manuscritos antiguos\, pero también aparec
- e una y otra vez en la música\, el tatuaje\, la moda\, el diseño gráfic
- o o la cultura urbana. En este taller entraremos en ese universo desde la 
- práctica. Papel\, tinta y una herramienta de punta plana serán suficient
- es para empezar a entender cómo nace ese trazo tan reconocible. No hace f
- alta tener buena letra. De hecho\, casi mejor olvidarse de ella. Aquí se 
- trata de otra cosa: repetir\, controlar el gesto\, encontrar el ritmo y ve
- r cómo una sucesión de trazos empieza\, poco a poco\, a convertirse en l
- etras. Empezaremos por las formas más básicas y terminaremos componiendo
-  una palabra o pequeña pieza caligráfica propia. Hora y media para manch
- ar papel\, aprender una técnica nueva y descubrir por qué estas letras l
- levan siglos negándose a desaparecer. Organiza: Organiza Súper Gráficas
-  Imparte : Héctor Marcs.\n\nhttps://www.mataderomadrid.org/programacion/m
- ala-letra
-LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El algoritmo pone las palabras\; tú pones el sentido
-DTSTART;TZID=Europe/Madrid:20261024T180000
-UID:e2a4056a451a99e90e449b3e2d90fdeb70eccbaebb0b2abd8d5aad752341f3aa
-CATEGORIES:other
-DESCRIPTION:¿Puede la inteligencia artificial leer\, escribir y crear com
- o nosotros? ¿Qué sigue siendo exclusivamente humano? En el marco del Fes
- tival Somos Lectura 2026\, reunimos a distintas voces para explorar la rel
- ación entre inteligencia artificial\, lectura y escritura. Una conversaci
- ón abierta y estimulante sobre cómo están cambiando nuestra forma de cr
- ear\, interpretar y compartir historias\, y sobre el papel que seguimos de
- sempeñando las personas en un mundo cada vez más mediado por algoritmos.
-  Porque la tecnología puede poner las palabras\, pero el sentido\, la mir
- ada crítica y la emoción siguen abriendo preguntas que merecen ser compa
- rtidas. Tras la charla\, el público tendrá la oportunidad de participar 
- y aportar sus propias reflexiones. Una invitación a pensar\, debatir y de
- scubrir qué nos hace humanos cuando las máquinas también escriben. Orga
- niza: Mad Tech y Nave Nodriza.\n\nhttps://www.mataderomadrid.org/programac
- ion/el-algoritmo-pone-las-palabras-tu-pones-el-sentido
-LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chopin
-DTSTART;TZID=Europe/Madrid:20261024T180000
-UID:813092ef32fcc8b30c02d1446da6d02cec627859fa51ff9ecfd8bb956b5bd67f
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 113 min
- utos | No recomendada para menores de 12 años\n\nOriginal title: Chopin\,
-  Chopin!\n\nRelease year: 2025\n\nOriginal language: PL\n\nAudio: VOSE\n\n
- https://www.pillalas.com/pase/1093327/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Repair Café Madrid · Medialab Matadero (Sala Terrario)
-DTSTART;TZID=Europe/Madrid:20261024T180000
-DTEND;TZID=Europe/Madrid:20261024T200000
-UID:aadba0743803d9905bccd902b388d4bf0dadb96433f9955275520cfb17e0ad18
-CATEGORIES:other
-DESCRIPTION:Repair Café Madrid es un encuentro vecinal y colaborativo par
- a reparar pequeños objetos cotidianos (aparatos eléctricos y electrónic
- os\, juguetes\, ropa) con la ayuda de personas voluntarias. No hace falta 
- inscripción: basta con acudir con algo que arreglar. Sesión en Medialab 
- Matadero (Sala Terrario). Próximos Repair Cafés. La sección de Electrog
- anchillo colabora con . Más información: https://www.mataderomadrid.org/
- programacion/tejiendo-y-punto Anuncio: https://madridrepair.blogspot.com/2
- 026/10/agenda-24-26-y-31-octubre.html Consulta el cartel por si cambia el 
- horario habitual.\n\nhttps://madridrepair.blogspot.com/search/label/Agenda
-LOCATION:Medialab Matadero (Sala Terrario) - Plaza de Legazpi\, 8\, 28045 
- Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La bola negra
-DTSTART;TZID=Europe/Madrid:20261024T181000
-DTEND;TZID=Europe/Madrid:20261024T204900
-UID:209744668f0f0a4fd844a6602acc667751d2b628f7bc34e1becc03f11c9fa755
-CATEGORIES:cinema
-DESCRIPTION:Las vidas interconectadas de tres hombres en tres épocas dist
- intas. Tres existencias íntimamente ligadas por la sexualidad y el deseo
- \, el dolor y la herencia\; y una de las últimas obras\, inacabada\, de F
- ederico García Lorca.\n\nRelease year: 2026\n\nOriginal language: ES\n\nh
- ttps://cinesembajadores.es/pelicula/la-bola-negra/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Invitación
-DTSTART;TZID=Europe/Madrid:20261024T181000
-UID:9da7cb9515416175f9d3322e3eb73981caed2918406fc9195a4f635ba2049228
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 106 min
- utos | No recomendada para menores de 16 años\n\nOriginal title: The Invi
- te\n\nRelease year: 2026\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps:
- //www.pillalas.com/pase/1093328/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Naza
-DTSTART;TZID=Europe/Madrid:20261024T181000
-UID:659aca6cf35a954d5911f0213b78a0a79027e8b78ac9582c1d6f82048a1b6c99
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 77 minu
- tos | No recomendada para menores de 16 años\n\nRelease year: 2026\n\nOri
- ginal language: EN\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1093267
- /
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Xy9
-DTSTART;TZID=Europe/Madrid:20261024T181500
-DTEND;TZID=Europe/Madrid:20261024T192000
-UID:5e3d1c01483aadc445188a16d6adf6cb6de186a75661e8730402668138594499
-CATEGORIES:cinema
-DESCRIPTION:Mar e Iván son una pareja que se siente perdida y cree que te
- ner un hijo es la solución a todos sus problemas. Una serie de abortos es
- pontáneos y problemas genéticos van minando poco a poco su relación\, l
- o que les lleva a plantearse si realmente quieren ser padres juntos. | Dir
- ección: David Huergo. | Duración 65 minutos | Drama | Año 2025 | Sala 1
-  | Entradas: https://www.giglon.com/todos?idEvent=xy9-2025\n\nRelease year
- : 2026\n\nOriginal language: ES\n\nhttps://artisticmetropol.es/sesion/sala
- -1-xy9-2025/
-LOCATION:Artistic Metropol - Cigarreras\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El hombre de hierro
-DTSTART;TZID=Europe/Madrid:20261024T190000
-UID:662c755f1baf4bd388bdc3602374072291ee90fba70155c0b75794183b488ef1
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Sábado 24 de octubre a las 19:00h (Sala 2. ANDR
- ZEJ WAJDA: ENTRE EL MITO Y LA HISTORIA) *Aunque las entradas aparezcan com
- o agotadas en web\, pueden adquirirse en taquilla entradas para las sesion
- es del día (de 17h a 20h)\n\nOriginal title: Człowiek z żelaza\n\nRelea
- se year: 1981\n\nOriginal language: PL\n\nhttps://entradasfilmoteca.sacatu
- entrada.es/es/productos/descripcion/el-hombre-de-hierro-1
-LOCATION:Filmoteca Espanola - Cine Dore - Calle de Santa Isabel\, 3\, Madr
- id
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La bola negra
-DTSTART;TZID=Europe/Madrid:20261024T190000
-DTEND;TZID=Europe/Madrid:20261024T213900
-UID:f62e04e6a56ad8e2178db842455bee0fe87aba22b41a105057b87e8c76343e56
-CATEGORIES:cinema
-DESCRIPTION:Las vidas interconectadas de tres hombres en tres épocas dist
- intas. Tres existencias íntimamente ligadas por la sexualidad y el deseo
- \, el dolor y la herencia\; y una de las últimas obras\, inacabada\, de F
- ederico García Lorca.\n\nRelease year: 2026\n\nOriginal language: ES\n\nh
- ttps://cinesembajadores.es/pelicula/la-bola-negra/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Super Nature
-DTSTART;TZID=Europe/Madrid:20261024T193000
-UID:12fe5fa8c8352a47c4c0ca8ffb66e40000d7897eb9e4d98a712477cb5a037956
-CATEGORIES:cinema
-DESCRIPTION:Filmado íntegramente en Super 8 por colaboradores de 25 país
- es\, Super Nature compone una carta de amor al planeta que celebra nuestra
-  conexión con la naturaleza y nos invita a mirar de nuevo todo aquello qu
- e podemos perder.\n\nRelease year: 2026\n\nOriginal language: EN\n\nAudio:
-  VOSE\n\nhttps://www.cinetecamadrid.com/programacion/super-nature
-LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Presentación de 'Cosamala'\, de Alana S. Portero
-DTSTART;TZID=Europe/Madrid:20261024T193000
-UID:5105cad7bb45fbc4ec71d079e3a8dc67fd48836d8e8130a11539ac0524eaf441
-CATEGORIES:talk
-DESCRIPTION:Andalucía\, 1937. La columna Carranza\, formada por caballist
- as\, toreros\, falangistas\, terratenientes y Guardias Civiles\, avanza po
- r la sierra norte de Sevilla subyugando todo a su paso y empachando la tie
- rra de sangre\, como la muerte cabalgando por los campos. Un grupo de muje
- res\, esposas\, madres y vecinas de huidos y perseguidos se inician en el 
- lenguaje oscuro como forma de resistencia y forman un aquelarre con el obj
- etivo de devolver la vida a un país infértil con la ayuda de sus muertos
-  y fantasmas. Cosamala es una historia de brujas que parte de un crimen re
- al de la guerra civil y se nutre de elementos del horror y del folclore pa
- ra levantar una mitología femenina propia de venganza\, amor y muerte. Tr
- as convertirse en un fenómeno internacional con La mala costumbre \, Alan
- a S. Portero recurre a su amor por la historia y por las leyendas orales y
-  rinde homenaje a todas las mujeres asesinadas por entender el territorio 
- como un manantial de sabiduría. El resultado es una novela gótica\, sure
- ña\, lorquiana y antifascista. Organiza: Seix Barral\n\nhttps://www.matad
- eromadrid.org/programacion/presentacion-de-cosamala-de-alana-s-portero
-LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:"Crossover" - Silva de Sirenas Festival. Encuentro de Música Anti
- gua de Madrid
-DTSTART;TZID=Europe/Madrid:20261024T193000
-DTEND;TZID=Europe/Madrid:20261024T193000
-UID:7707ea2ca10e24e3ef7ac9936fbae2640be7aea35f30b9ac00c12e6fbc5fcdb9
-CATEGORIES:music
-DESCRIPTION:Venta de entradas (aquí) \n\n\n\n\n\n\n\n\n\n\n\nIntérpretes
- : Rebeca Cardiel – soprano Sandra Cotarelo – soprano María Martín 
- – altos Paz Martínez – altos Fran Braojos – tenor Emiliano Cano -te
- nor Simón Millán – bajo Vicente Martínez – bajo Salvador Salvador 
- – clarinete Isabel Puente – piano Oliver del Val  – acordeón Rodri
- go Guerrero – dirección Cátedra Mayor. 19:30.\n\nhttps://ateneodemadri
- d.com/evento/crossover-silva-de-sirenas-festival-encuentro-de-musica-antig
- ua-de-madrid/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Screening LAV #035: Pulsiones cromáticas
-DTSTART;TZID=Europe/Madrid:20261024T193000
-UID:d5603c6ae4ed0916ae803fa139307639ab5b4bd37ee79b8ba6c3a1cb19278149
-CATEGORIES:cinema
-DESCRIPTION:Sesión que indaga en la relación e investigación del color.
-  Color como gesto de la luz y como fenómeno que amplifica la percepción.
-  Comisariada por Pablo Useros Organiza: Master LAV y Círculo de Bellas Ar
- tes. Copias procedentes de Lightcone y de Marta Lara Proyecciones: 457 Bro
- adway Tomonari Nishikawa\, Japón\, 2103\, 5 min\, VO [16 mm] Acts of Ligh
- t: Circles of Confusion Bill Brand\, Estados Unidos\, 1974\, 15 min\, VO [
- 16 mm] Colour Separation Chris Welsby\, Reino Unido\, 1974-1976\, 2 min 30
-  s\, VO [16 mm] Holon Christian Lebrat\, Francia\, 1981-1982\, 15 min\, VO
-  [16 mm] Sources Rose Lowder\, Estados Unidos\, 2012\, 5 min 20 s\, VO [16
-  mm] La luz del sol sobre el mar Marta Lara\, España\, 4 min\, VO [16 mm]
-  | Estreno\n\nhttps://www.circulobellasartes.com/sin-categoria/screening-l
- av-035-pulsiones-cromaticas/
-LOCATION:Cine Estudio Circulo de Bellas Artes - Marques de Casa Riera\, 4
- \, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La bola negra
-DTSTART;TZID=Europe/Madrid:20261024T194500
-DTEND;TZID=Europe/Madrid:20261024T222400
-UID:56466c4b1fd7c135347f2742787ec48e7657c9125ad8935f81dc33b8c19e702c
-CATEGORIES:cinema
-DESCRIPTION:Las vidas interconectadas de tres hombres en tres épocas dist
- intas. Tres existencias íntimamente ligadas por la sexualidad y el deseo
- \, el dolor y la herencia\; y una de las últimas obras\, inacabada\, de F
- ederico García Lorca.\n\nRelease year: 2026\n\nOriginal language: ES\n\nh
- ttps://cinesembajadores.es/pelicula/la-bola-negra/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Bola Negra
-DTSTART;TZID=Europe/Madrid:20261024T195000
-UID:9a3585de3d9079125b738f9a40fe92563bdad35ae97be23ed736c21840c3e0f1
-CATEGORIES:cinema
-DESCRIPTION:Versión Original Castellano | Duración 155 minutos | No reco
- mendada para menores de 16 años\n\nRelease year: 2026\n\nOriginal languag
- e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1093240/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Yanuni
-DTSTART;TZID=Europe/Madrid:20261024T200000
-UID:581be52daca3ef46dd18eebebb65e8a880c4a6b45517d3f160c60e57c2292388
-CATEGORIES:cinema
-DESCRIPTION:En la Amazonia brasileña\, la líder indígena Juma Xipaia ll
- eva años defendiendo su territorio frente a la minería ilegal\, la viole
- ncia y los intereses que amenazan la selva. Yanuni acompaña de cerca una 
- lucha que es política\, ambiental y profundamente personal\, especialment
- e cuando la maternidad introduce una nueva dimensión de futuro. Íntima y
-  urgente\, la película conecta la defensa de los pueblos indígenas con l
- a protección de uno de los ecosistemas esenciales del planeta y recuerda 
- que cuidar la Amazonia es también decidir qué mundo dejamos a quienes vi
- enen detrás.na verdad incómoda: no se puede salvar la naturaleza destruy
- endo la naturaleza.\n\nRelease year: 2026\n\nOriginal language: PT\n\nAudi
- o: VOSE\n\nhttps://www.cinetecamadrid.com/programacion/yanuni
-LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El bosque suena
-DTSTART;TZID=Europe/Madrid:20261024T200000
-UID:fe194c4a716086c9a6a8e2d4957b7afe885d14c1cacae2d1edb32c50d2478b3a
-CATEGORIES:family
-DESCRIPTION:Un divertido taller musical en familia en el que nos adentrare
- mos en un bosque lleno de animales\, sonidos y aventuras. A través de can
- ciones\, melodías\, juegos y diferentes actividades musicales\, descubrir
- emos los sonidos de la naturaleza y conoceremos a algunos de sus habitante
- s. Una experiencia para cantar\, moverse\, escuchar y disfrutar juntos\, f
- omentando la creatividad\, la imaginación y el vínculo familiar a travé
- s de la música. Imparte: Talleres de Música de Raquel Rodriguez.\n\nhttp
- s://www.mataderomadrid.org/programacion/el-bosque-suena
-LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Animales sin miedo
-DTSTART;TZID=Europe/Madrid:20261024T200000
-UID:ec2a8d777483b93ae94ecb18e545781bbf2f6adf4dd60e541df4a7df401f9b73
-CATEGORIES:family
-DESCRIPTION:Desde la jungla\, hasta el bosque y la selva. ¡Acompáñanos 
- en esta aventura animal! ¡Muuu! ¡Auuuu! ¡Miauuuu! Ven con tu peque y de
- scubre un mundo de imaginación\, colores\, emociones y sensaciones con lo
- s cuentos de la mano de la profesora Meraki de Letrimagia. Imparte: Letrim
- agia\n\nhttps://www.mataderomadrid.org/programacion/animales-sin-miedo
-LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lali Ayguadé Company
-DTSTART;TZID=Europe/Madrid:20261024T200000
-UID:b145e0f803a6f9e897398d63a0aaabaf04ac4374d714a9d70b29bc7ce01200c0
-CATEGORIES:theater
-DESCRIPTION:El eje central del espectáculo gira en torno al mundo virtual
-  de las redes sociales\, en oposición al mundo real\, sin estilo\, de nue
- stra vida cotidiana. Este contrapunto es parte de un juego de enseñanza y
-  ocultamiento\, una especulación sobre la imagen que proyectamos y la que
-  dejamos en la sombra. La positividad que pretendemos mostrar y la negativ
- idad con la que vivimos y queremos mantener en secreto. En el perfil de cu
- alquier red social\, tenemos infinitas posibilidades para diseñar nuestra
-  propia imagen y hacerla auténtica\, pero\, curiosamente\, todos los perf
- iles terminan siendo extrañamente parecidos. Todos estamos entrando en el
-  juego de lo que debe mostrarse y lo que no debe mostrarse. Como si fuera 
- una adicción\, muchos de nosotros somos víctimas de la cantidad de ‘Me
-  gusta’\, comentarios o repercusiones de nuestras imágenes. Nos aferram
- os a reacciones a menudo exageradas\, como: “¡Es mágico!”\, “¡Me 
- encanta!”\, “¡Increíble!”\, “¡Eres la persona más maravillosa 
- que he conocido!”\; tal vez pensar que esta persona puede ayudarnos a so
- portar el vacío del mundo contemporáneo en lugar de darnos cuenta de que
-  tal vez solo son la fuente de tal vacío. Y así\, poco a poco\, nos desh
- acemos del mundo real\, nos volvemos ciegos a nuestro entorno inmediato\; 
- la vida continúa mientras estemos en otro lugar\, decidiendo qué filtro 
- se adapta mejor a lo que acabamos de fotografiar. Inestable investiga ese 
- espacio de relación entre nosotros mismos\, la tecnología y las demás p
- ersonas\, esa sensación que nos genera inestabilidad mientras buscamos un
-  lugar común\, un punto de encuentro entre nosotros mismos y los otros qu
- e sea real.\n\nhttps://www.mataderomadrid.org/programacion/lali-ayguade-co
- mpany
-LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Arriba Tutto
-DTSTART;TZID=Europe/Madrid:20261024T200000
-UID:d0c38591f99b075662d7df808268cac914b30cf6e00577b046ac109ef958d2eb
-CATEGORIES:cinema
-DESCRIPTION:Versión Original Castellano | Duración 102 minutos | No reco
- mendada para menores de 12 años\n\nRelease year: 2026\n\nOriginal languag
- e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1093268/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Concierto de Murcof
-DTSTART;TZID=Europe/Madrid:20261024T200000
-DTEND;TZID=Europe/Madrid:20261024T213000
-UID:f6a14a6fdabce6ac58cce8ddcb771ba470235cd5d50e56a20cd216ce8c98552e
-CATEGORIES:music
-DESCRIPTION:Espacio: Auditorio Daniel y Nina\n\nMurcof es el nombre artís
- tico del músico electrónico mexicano Fernando Corona\, afincado en Barce
- lona desde 2006. Su trabajo es uno de los más singulares dentro de la mú
- sica electrónica contemporánea: una propuesta esencialmente minimalista 
- construida sobre la tensión entre la abstracción y la belleza\, entre la
-  percusión glitch y las resonancias de la música clásica y contemporán
- ea\, entre el drone y el movimiento.\n\nApertura de puertas: 20:00 | Inici
- o: 20:30\n\nLa programación musical de Infinito Delicias Continúa durant
- e la temporada 2026–27 con un ciclo dedicado a las músicas electrónica
- s orientadas a la escucha. La nueva selección de música en directo\, com
- isariada por Pedro Portellano\, reunirá a artistas de distintos países q
- ue exploran el sonido como una experiencia física\, perceptiva y emociona
- l\, proponiendo habitar el espacio a través del sonido.\n\nhttps://www.in
- finitodelicias.com/es/agenda/concierto-murcof
-LOCATION:Infinito Delicias - C. de Juana Dona\, 5\, Arganzuela\, 28045 Mad
- rid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blue Heron
-DTSTART;TZID=Europe/Madrid:20261024T201000
-UID:04804fc4bfcf665ee58cbfed7862b71c76025ebe2d057593fdef7914e11a91ca
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 91 minu
- tos | No recomendada para menores de 12 años\n\nRelease year: 2026\n\nOri
- ginal language: EN\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1093329
- /
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Invitación
-DTSTART;TZID=Europe/Madrid:20261024T201500
-UID:52ae9f1b76106b4e6dcb713c08dd5b7c4f912a42c74ac74b7faa84dd5f8ea75c
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 106 min
- utos | No recomendada para menores de 16 años\n\nOriginal title: The Invi
- te\n\nRelease year: 2026\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps:
- //www.pillalas.com/pase/1093330/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Power Station
-DTSTART;TZID=Europe/Madrid:20261024T203000
-UID:e783e6b2009b6863dfe814c354a7cf5d8056ff9f17150deebf195e399dbf38b8
-CATEGORIES:cinema
-DESCRIPTION:¿Puede una calle cualquiera convertirse en el inicio de una r
- evolución energética? En Walthamstow\, dos artistas convencen a sus veci
- nos para transformar sus tejados en una central solar comunitaria. Entre o
- bstáculos\, campañas disparatadas\, humor y mucha perseverancia\, Power 
- Station convierte la transición energética en una aventura colectiva\, c
- ercana y contagiosa. Un retrato lleno de optimismo sobre el poder de la co
- munidad\, la creatividad y la acción local para ampliar los límites de l
- o que creemos posible.\n\nRelease year: 2025\n\nOriginal language: EN\n\nA
- udio: VOSE\n\nhttps://www.cinetecamadrid.com/programacion/power-station
-LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Naza
-DTSTART;TZID=Europe/Madrid:20261024T204000
-UID:0182f7bd9eb0ca53565a115cd271866f44995b7d75168754ea2d03b12321a264
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 77 minu
- tos | No recomendada para menores de 16 años\n\nRelease year: 2026\n\nOri
- ginal language: EN\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1093269
- /
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El mal no existe
-DTSTART;TZID=Europe/Madrid:20261024T210000
-UID:51a181c04f28d8816b2fb8c50b9e8f00534e6cf8cbcca5b3bfba2e681623605e
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Sábado 24 de octubre a las 21:00h (Sala 1. ANOT
- HER WAY FILM FESTIVAL) *Aunque las entradas aparezcan como agotadas en web
- \, pueden adquirirse en taquilla entradas para las sesiones del día (de 1
- 7h a 20h)\n\nOriginal title: 悪は存在しない\n\nRelease year: 2023\n
- \nOriginal language: JA\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/p
- roductos/descripcion/el-mal-no-existe-6
-LOCATION:Filmoteca Espanola - Cine Dore - Calle de Santa Isabel\, 3\, Madr
- id
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La bola negra
-DTSTART;TZID=Europe/Madrid:20261024T211000
-DTEND;TZID=Europe/Madrid:20261024T234900
-UID:773396d674838c776301eaf520f2e5971331f7db6d8121911fe7579165041d72
-CATEGORIES:cinema
-DESCRIPTION:Las vidas interconectadas de tres hombres en tres épocas dist
- intas. Tres existencias íntimamente ligadas por la sexualidad y el deseo
- \, el dolor y la herencia\; y una de las últimas obras\, inacabada\, de F
- ederico García Lorca.\n\nRelease year: 2026\n\nOriginal language: ES\n\nh
- ttps://cinesembajadores.es/pelicula/la-bola-negra/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La bola negra
-DTSTART;TZID=Europe/Madrid:20261024T211500
-DTEND;TZID=Europe/Madrid:20261024T235000
-UID:5d7e9a2c882062069a14da0c6b930432679820b5878cc948ee2346224000f256
-CATEGORIES:cinema
-DESCRIPTION:Las vidas interconectadas de tres hombres en tres épocas dist
- intas. Tres existencias íntimamente ligadas por la sexualidad y el deseo
- \, el dolor y la herencia\; y una de las últimas obras\, inacabada\, de F
- ederico García Lorca. | Dirección: Javier Calvo y Javier Ambrossi | Espa
- ña\, 2026 | Duración 155 minutos | Versión VE | Estreno\n\nRelease year
- : 2026\n\nOriginal language: ES\n\nhttps://www.circulobellasartes.com/cicl
- os-cine/peliculas/la-bola-negra/
-LOCATION:Cine Estudio Circulo de Bellas Artes - Marques de Casa Riera\, 4
- \, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lali Ayguadé Company
-DTSTART;TZID=Europe/Madrid:20261024T213000
-UID:b51c5817ec911de6899fda07d5246244de2c9e2c5e890ec8591662fa715e825f
-CATEGORIES:theater
-DESCRIPTION:El próximo sábado 24 de octubre de 2026\, tras la representa
- ción\, tendrá lugar el encuentro del público con el equipo artístico d
- e la compañía. Modera: Natalia Sprenger. Los encuentros con el público 
- son una ocasión especial para que los espectadores puedan intercambiar im
- presiones sobre el espectáculo\, en compañía del equipo artístico. Est
- os encuentros son de entrada libre hasta completar aforo.\n\nhttps://www.m
- ataderomadrid.org/programacion/lali-ayguade-company-0
-LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Twanguero
-DTSTART;TZID=Europe/Madrid:20261024T213000
-UID:e3309104af06b29847a70485ea1f76d892c7cf6a0c70fd971c78ae70a167f312
-CATEGORIES:music
-DESCRIPTION:Concierto / Villanos del Jazz. Tras una intensa temporada de c
- onciertos en Estados Unidos y Europa\, Twanguero regresa a MADRID para ofr
- ecer uno de sus únicos conciertos en España durante 2026. En una noche m
- uy especial\, Diego García «Twanguero» celebrará además su 50 cumplea
- ños sobre el escenario\, acompañado por su banda\, en un recorrido por a
- lgunos de los momentos más destacados de su trayectoria y con adelantos d
- e la música que formará parte de sus próximos proyectos. Una oportunida
- d única para disfrutar en directo de uno de los guitarristas españoles c
- on mayor proyección internacional\, en un formato eléctrico\, dinámico 
- y lleno de energía.\n\nhttps://salavillanos.es/evento/twanguero/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:F.A.N.T.A. + Gto'S + Plan C\; Escenarios Mahou
-DTSTART;TZID=Europe/Madrid:20261024T213000
-UID:0d6a945ae4d63b2323027b2ea6cb6aab675c5edb75ca81d20d3ea4f706b6b60c
-CATEGORIES:music
-DESCRIPTION:Precio de las entradas: 15€/18€ (+ g.g.) Entradas a la ven
- ta en movingtickets Bio/enlaces bandas: F.A.N.T.A._instagram + F.A.N.T.A. 
- _X + F.A.N.T.A._ youtube The GTO’S_facebook + The GTO’s_instagram Plan
-  C_instagram Más información: Noche\n\nhttps://gruta77.com/events/f-a-n-
- t-a-gtos-plan-c/var/ri-0.l-L2
-LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La bola negra
-DTSTART;TZID=Europe/Madrid:20261024T220000
-DTEND;TZID=Europe/Madrid:20261025T003900
-UID:ee9f4145ee1e72b88498096a7e374fb1c21fc3833d825b987379de49e04b3442
-CATEGORIES:cinema
-DESCRIPTION:Las vidas interconectadas de tres hombres en tres épocas dist
- intas. Tres existencias íntimamente ligadas por la sexualidad y el deseo
- \, el dolor y la herencia\; y una de las últimas obras\, inacabada\, de F
- ederico García Lorca.\n\nRelease year: 2026\n\nOriginal language: ES\n\nh
- ttps://cinesembajadores.es/pelicula/la-bola-negra/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blue Heron
-DTSTART;TZID=Europe/Madrid:20261024T220000
-UID:6d39fb4b5ca349e73142ebd2e4dd70411b89b1a377e288dab19b801eb07e378b
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 91 minu
- tos | No recomendada para menores de 12 años\n\nRelease year: 2026\n\nOri
- ginal language: EN\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1093331
- /
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Invitación
-DTSTART;TZID=Europe/Madrid:20261024T220000
-UID:24b0ecac91ab9b6b7c50cd664297a39cdf1fdf3c0121195f041531c57017007c
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 106 min
- utos | No recomendada para menores de 16 años\n\nOriginal title: The Invi
- te\n\nRelease year: 2026\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps:
- //www.pillalas.com/pase/1093270/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Arriba Tutto
-DTSTART;TZID=Europe/Madrid:20261024T221500
-UID:5da1afe95831ff561f3a1a2d83a6711670b901dae75046bd64225074ea4851e1
-CATEGORIES:cinema
-DESCRIPTION:Versión Original Castellano | Duración 102 minutos | No reco
- mendada para menores de 12 años\n\nRelease year: 2026\n\nOriginal languag
- e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1093271/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CAMEL ON FLUTE. Jaume Vilaseca Trío & María Gil
-DTSTART;TZID=Europe/Madrid:20261024T221500
-UID:80a4f336aa9b5a89d20022ae45d63dbdf0fcd6110ce9ca2d83144a9b14460024
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/camel-on-flute-jaume
- -vilaseca-trio-maria-gil/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chopin
-DTSTART;TZID=Europe/Madrid:20261024T222000
-UID:8ca45caf6acb23391ae317798acd991b1bcbe4ddade2a467a353c781a74cd469
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 113 min
- utos | No recomendada para menores de 12 años\n\nOriginal title: Chopin\,
-  Chopin!\n\nRelease year: 2025\n\nOriginal language: PL\n\nAudio: VOSE\n\n
- https://www.pillalas.com/pase/1093332/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El odio
-DTSTART;TZID=Europe/Madrid:20261024T224500
-DTEND;TZID=Europe/Madrid:20261025T002000
-UID:f192a46a11035af0485c7ce402ddac4a1df193f4361cdeecfef329f0d61dfda8
-CATEGORIES:cinema
-DESCRIPTION:Tras una noche de disturbios en un barrio marginal de las afue
- ras de París\, tres amigos adolescentes\, Vinz\, Saïd y Hubert (un judí
- o\, un árabe inmigrante y un boxeador amateur negro\, respectivamente)\, 
- son testigos de un hecho\, en el que su amigo Abdel resulta herido por la 
- policía. El deambular por la ciudad\, la violencia entre bandas y los con
- flictos con la policía son las constantes en las 24 horas siguientes de l
- a vida de estos jóvenes.\n\nOriginal title: La Haine\n\nRelease year: 199
- 5\n\nOriginal language: FR\n\nAudio: VOSE\n\nhttps://cinesembajadores.es/p
- elicula/el-odio-vose/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Naza
-DTSTART;TZID=Europe/Madrid:20261024T224500
-UID:7502d9cd35b0add936e6f96c67717ed1aa6d0e31d5f235481f6f2a7da2a8b0cc
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 77 minu
- tos | No recomendada para menores de 16 años\n\nRelease year: 2026\n\nOri
- ginal language: EN\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1093272
- /
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sadar Bahar + Buitre + Dj Rchlbraü
-DTSTART;TZID=Europe/Madrid:20261024T235900
-UID:43df2810e9c47c50b901b68f36401729d79f0ffcdf41dfd2f7fdc8d36bb433cc
-CATEGORIES:music
-DESCRIPTION:Club / Villanos del Jazz. Y qué mejor manera de aprovecharlos
-  que con un set extendido de 3 horas de Sadar Bahar. Buitre y DJ Rchlbraü
-  se encargarán de cerrar la noche. El soul\, el funk y el gospel\, sonand
- o a todo volumen desde el sentimiento analógico\, profundamente humano\, 
- de un viejo vinilo\, es la religión de la cual este veterano DJ de Chicag
- o es uno de sus sumos apóstoles Es el DJ de DJs. El underground del under
- ground. El integrista del coleccionismo. El digger sin parangón. El adali
- d del vinilismo a ultranza. El apóstol de la música negra más arcana\, 
- llámese soul\, gospel\, funk\, disco\, boogie o deep house. Todas esas co
- sas encarna a la vez el legendario DJ de Nueva Jersey\, afincado en Chicag
- o\, Sadar Bahar. Una auténtica institución tras los platos. Con solo dec
- ir que se curtió pinchando con Frankie Knuckles\, una de las leyendas del
-  primer house de Chicago\, está ya casi todo dicho. La mítica marca de s
- us fiestas\, “Soul in the Hole”\, plasmada en el recopilatorio “Sada
- r Bahar Presents Soul In Hole (2012)”\, refleja la profunda sensación d
- e euforia que destila cualquiera de sus sesiones: un agujero de ritmo y gr
- oove del que seguramente no quieras (ni puedas) salir.\n\nhttps://salavill
- anos.es/evento/sadar-bahar/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Violencia y Represión en Madrid III: República\, Guerra Civil y 
@@ -2636,7 +1007,7 @@ SUMMARY:AÚPA LERÉ. Percusión para crecer
 DTSTART;TZID=Europe/Madrid:20261025T110000
 UID:996997d463a20b62c0a944f31ecad649f37585b107728a4cc8391353d77f05ac
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 17 plazas!\n\nhttps://teatrodelbarrio.com/aup
+DESCRIPTION:¡Ya solo quedan 13 plazas!\n\nhttps://teatrodelbarrio.com/aup
  a-lere-percusion-para-crecer/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
@@ -4241,7 +2612,7 @@ CATEGORIES:cinema
 DESCRIPTION:Fecha y Hora: Martes 27 de octubre a las 17:30h (Sala 1. ANDRZ
  EJ WAJDA: ENTRE EL MITO Y LA HISTORIA) *Aunque las entradas aparezcan como
   agotadas en web\, pueden adquirirse en taquilla entradas para las sesione
- s del día (de 17h a 20h)\n\nRelease year: 2015\n\nOriginal language: EN\n
+ s del día (de 17h a 20h)\n\nRelease year: 2025\n\nOriginal language: EN\n
  \nhttps://entradasfilmoteca.sacatuentrada.es/es/productos/descripcion/afte
  rimage
 LOCATION:Filmoteca Espanola - Cine Dore - Calle de Santa Isabel\, 3\, Madr
@@ -4736,6 +3107,17 @@ DESCRIPTION:Muestra colectiva que reúne el trabajo de ocho artistas vincu
 LOCATION:CentroCentro - de Cibeles\, 1\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Juana González. Indómita pintura
+DTSTART;TZID=Europe/Madrid:20261028T000000
+DTEND;TZID=Europe/Madrid:20270418T000000
+UID:87976c8e742ec84d1219e19c5bba897e56be7897c59f8c3d77c49c90a775d80b
+CATEGORIES:exhibition
+DESCRIPTION:La exposición de Juana González que explora los límites ent
+ re lo barroco\, lo surreal y lo expresionista (CentroCentro. 28 oct a 18 a
+ br).\n\nhttps://www.centrocentro.org/exposicion/juana-gonzalez
+LOCATION:CentroCentro - de Cibeles\, 1\, Madrid\, 28014
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:La obra de España  en América (1492-1898). Ámbito social\, Desa
  rrollo económico y Modernidad
 DTSTART;TZID=Europe/Madrid:20261028T090000
@@ -5191,6 +3573,19 @@ DESCRIPTION:Fecha y Hora: Miércoles 28 de octubre a las 19:00h (Sala 2. K
  da.es/es/productos/descripcion/carmen-comes-home-28-oct
 LOCATION:Filmoteca Espanola - Cine Dore - Calle de Santa Isabel\, 3\, Madr
  id
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Conversación con Mariana Enríquez
+DTSTART;TZID=Europe/Madrid:20261028T190000
+UID:ab5075ed5b6637efc043a46c63bd292c449daac525b13a0987e0f9e688e8977b
+CATEGORIES:other
+DESCRIPTION:La escritora argentina Mariana Enríquez presenta Conversació
+ n con la oscuridad \, una lúcida y perturbadora cartografía crítica del
+  terror contemporáneo y de su propia escritura. Acompaña Ismael Martíne
+ z Biurrun. Organiza: Editorial Páginas de Espuma y Escuela de Escritores.
+ \n\nhttps://www.mataderomadrid.org/programacion/conversacion-con-mariana-e
+ nriquez
+LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:La bola negra
@@ -5969,6 +4364,23 @@ DESCRIPTION:Una mujer que sufrió un incidente grave con una tenista viole
 LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Taller 'Hechos de otros cuerpos'
+DTSTART;TZID=Europe/Madrid:20261029T180000
+UID:b42fe4fb97eb36fa813217e35002425bc93e6c5766f6b67ded4da7ec21e06a96
+CATEGORIES:theater
+DESCRIPTION:Este taller\, impartido por Jon López\, codirector de Led Sil
+ houette\, ofrecerá una introducción al trabajo físico de la compañía 
+ y a las herramientas de movimiento específicas desarrolladas durante el p
+ roceso creativo de la pieza ULTIMATUM \, así como a la idea y la dramatur
+ gia que hay detrás de la obra. A través de pautas y ejercicios práctico
+ s\, se trabajará en la creación de material coreográfico y en la constr
+ ucción de escenas\, transmitiendo el estilo particular de Led Silhouette 
+ y facilitando la comprensión y la práctica de la danza\, al tiempo que s
+ e incentiva la creatividad de las personas participantes.\n\nhttps://www.m
+ ataderomadrid.org/programacion/taller-hechos-de-otros-cuerpos
+LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:La doctrina de los actos propios en el derecho de los contratos
 DTSTART;TZID=Europe/Madrid:20261029T180000
 DTEND;TZID=Europe/Madrid:20261029T180000
@@ -6028,6 +4440,41 @@ DESCRIPTION:Versión Original subtitulada a Castellano | Duración 77 minu
  ginal language: EN\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1093312
  /
 LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Se abre el telón: En boca de artista 3
+DTSTART;TZID=Europe/Madrid:20261029T183000
+UID:9546fb8a7350bcbc9618965713e5224cca3a278c27190d2e1b34aaabda433bbc
+CATEGORIES:exhibition
+DESCRIPTION:Regresa En boca de artista\, el ciclo que pone el foco en los 
+ creadores y sus procesos de trabajo. En esta ocasión\, las conversaciones
+  girarán en torno a las investigaciones que los residentes de Arte y medi
+ oambiente desarrollan actualmente en el CRA. Este primer encuentro explora
+ rá la botánica\, el lenguaje con el que clasificamos las flores y la his
+ toria natural\, cruzando estos conceptos con la ficción especulativa y la
+ s arqueologías del futuro. La primera cita será el próximo 29 de octubr
+ e\, en una sesión que se dividirá en dos momentos. Ignacio García Sánc
+ hez y Ana Robles Pérez comenzarán la sesión con una conversación acomp
+ añados por la artista\, docente e investigadora Bárbara Fluxá. Inmersos
+  en las narrativas especulativas contemporáneas\, Ignacio y Ana\, utiliza
+ n la imaginación como una herramienta crítica que abre preguntas sobre l
+ a crisis ecosistémica del presente para proponernos otros futuros alterna
+ tivos\, tecnologías\, sociedades y escenarios políticos o ecológicos po
+ sibles\, a aquellos catastróficos que se nos proponen como inevitables. A
+ l imaginar esos otros mundos\, mediante una suerte de arqueología del fut
+ uro\, sus obras permiten interrogar los límites materiales\, históricos 
+ y políticos del nuestro. Continuarán\, Gelen Jeleton y Mauricio Freyre c
+ onversarán junto a la comisaria y profesora Claudia Rodríguez Ponga . Ge
+ len Jeleton y Mauricio Freyre tienen en común una reflexión que escala a
+  partir de una semilla\, una yerba\, un hábito o narrativa de consumo. En
+  el caso de Mauricio\, desde una semilla de cinchona a su uso como antimal
+ árico en expediciones de expansión colonial\, pasando por un abanico de 
+ leyendas y prácticas extractivas. O\, en el caso de Gelen\, desde remedio
+ s botánicos naturales a su explotación farmacológica\, con toda su gama
+  de claroscuros. De lo micro a lo macro\, en la obra de ambos artistas se 
+ explora la ambivalencia entre la cura y el abuso.\n\nhttps://www.mataderom
+ adrid.org/programacion/se-abre-el-telon-en-boca-de-artista-3
+LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gatos encaramados
@@ -6209,18 +4656,6 @@ DESCRIPTION:Presentación del libro y homenaje a la Institución Libre de
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Recital Y Presentación "En El Estanque De Las Brujas"
-DTSTART;TZID=Europe/Madrid:20261029T193000
-UID:f5606de42bcb95e8fb6928177830133d27f9647fcb4403265c399f7e7305baaa
-CATEGORIES:talk
-DESCRIPTION:Precio de las entradas: gratuito hasta completar aforo Bio/enl
- aces bandas: Más información: Recital de poetas de Carabanchel. Antolog
- ía poética coordinada por Alberto Morate. Participarán: Sandra Barrera
- \, Marisa Bello\, Yolanda Corell\,\n\nhttps://gruta77.com/events/recital-y
- -presentacion-en-el-estanque-de-las-brujas/var/ri-0.l-L2
-LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Taxidermia de una alondra
 DTSTART;TZID=Europe/Madrid:20261029T193000
 UID:456e400d26ffd12b3b48da0f0f26698ebff0a152c78cf5df97ad8d2cf927da3b
@@ -6376,6 +4811,18 @@ DESCRIPTION:Concierto / Pop / Rock / Latin. DEPEDRO presenta con toda su b
  uentro y lenguaje universal.\n\nhttps://salavillanos.es/evento/depedro-pre
  sentando-su-nuevo-disco-furia-y-calma-3/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recital Y Presentación "En El Estanque De Las Brujas"
+DTSTART;TZID=Europe/Madrid:20261029T203000
+UID:b14c894d3156e0eaa1c24180505489ddae8b8fd7216dca44344b50bda80f2f45
+CATEGORIES:talk
+DESCRIPTION:Precio de las entradas: gratuito hasta completar aforo Bio/enl
+ aces bandas: Más información: Recital de poetas de Carabanchel. Antolog
+ ía poética coordinada por Alberto Morate. Participarán: Sandra Barrera
+ \, Marisa Bello\, Yolanda Corell\,\n\nhttps://gruta77.com/events/recital-y
+ -presentacion-en-el-estanque-de-las-brujas/var/ri-0.l-L2
+LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Naza
@@ -6761,6 +5208,45 @@ LOCATION:Filmoteca Espanola - Cine Dore - Calle de Santa Isabel\, 3\, Madr
  id
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Jefferson y la independencia hispana
+DTSTART;TZID=Europe/Madrid:20261030T190000
+DTEND;TZID=Europe/Madrid:20261030T190000
+UID:32199ada0260a61d35f7b7c941e2bc7ed140fb991807f651753b80a2ee6c76a9
+CATEGORIES:talk
+DESCRIPTION:Sección de mitos\, religiones y humanidades. Intervienen: Pon
+ ente: Eric-Clifford Graf. Presenta: Ana Maestro. Sala Ramón y Cajal. 19:0
+ 0.\n\nhttps://ateneodemadrid.com/evento/jefferson-y-la-independencia-hispa
+ na/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La poesía de Juan Benet "La elegancia del desánimo"
+DTSTART;TZID=Europe/Madrid:20261030T190000
+DTEND;TZID=Europe/Madrid:20261030T190000
+UID:9359a1888081a0946bcdd7690889472bee174f597919e991fcaed1aa3e38435f
+CATEGORIES:talk
+DESCRIPTION:Presentación del libro. \n \nSección de Literatura. Intervie
+ nen: Manuel Neila\, edición y prólogo\, Ramón Benet Gloria Díez\, Merc
+ edes López-Ballesteros\, Rafael Soler. Presenta: Miguel Losada Sala Pére
+ z Galdós. 19:00.\n\nhttps://ateneodemadrid.com/evento/la-poesia-de-juan-b
+ enet-la-elegancia-del-desanimo/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los derechos humanos. Un ejemplo: El futbolista chileno Carlos Cas
+ zely
+DTSTART;TZID=Europe/Madrid:20261030T190000
+DTEND;TZID=Europe/Madrid:20261030T190000
+UID:c29406d2a6751fcb237771f1d276b2011a58af379b751339e3966b13a5a848a1
+CATEGORIES:talk
+DESCRIPTION:Conversatorio en torno al libro.  \n \nAgrupación Memoria y 
+ Derechos Humanos. Intervienen: Miguel Ángel San Martín – coautor\, Car
+ olina Espinoza – coautora. Presenta: Juan Miguel Nogués García. Sala L
+ arra. 19:00.\n\nhttps://ateneodemadrid.com/evento/los-derechos-humanos-un-
+ ejemplo-el-futbolista-chileno-carlos-caszely/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Hope: el primer impacto
 DTSTART;TZID=Europe/Madrid:20261030T190000
 DTEND;TZID=Europe/Madrid:20261030T213700
@@ -6781,7 +5267,7 @@ SUMMARY:Taxidermia de una alondra
 DTSTART;TZID=Europe/Madrid:20261030T193000
 UID:e33adf5274989d18e8bc00f4f2b50fb894291c53a666bbd57542a5ea89af1b69
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 29 plazas!\n\nhttps://teatrodelbarrio.com/tax
+DESCRIPTION:¡Ya solo quedan 27 plazas!\n\nhttps://teatrodelbarrio.com/tax
  idermia-de-una-alondra/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
@@ -6797,6 +5283,44 @@ DESCRIPTION:Fecha y Hora: Viernes 30 de octubre a las 20:00h (Sala 1. KEIS
  es/es/productos/descripcion/fuefuki-river-30-oct
 LOCATION:Filmoteca Espanola - Cine Dore - Calle de Santa Isabel\, 3\, Madr
  id
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Led Silhouette
+DTSTART;TZID=Europe/Madrid:20261030T200000
+UID:86a6da1c56ceac4cf57f981490eaa589d859e05234e7a509f3c7dd93b3f7eb45
+CATEGORIES:theater
+DESCRIPTION:Una propuesta que nace del colapso —emocional\, climático y
+  político— donde se mezcla danza\, teatro y cine. Una obra que explora 
+ las contradicciones del ser humano\, tratando temas como el aislamiento y 
+ la decadencia social. Una reflexión sobre nuestra fragilidad en un mundo 
+ que parece desmoronarse\, una llamada urgente a mirar el presente. ULTIMAT
+ UM surge de reflexionar sobre cómo convivimos con la sensación de que el
+  mundo avanza hacia conflictos inevitables y\, aun así\, continuamos como
+  si no tuviéramos ninguna responsabilidad\, indagando en los límites que
+  marcamos\, lo que defendemos como propio y lo que estamos dispuestos a pe
+ rder o a arrebatar. Esta pieza de danza contemporánea de Led Silhoutte (P
+ remio El Ojo Crítico de Danza 2024) nace de una sensación de límite —
+ no físico\, sino ético y emocional— y de preguntarnos hasta dónde lle
+ ga nuestra responsabilidad cuando sabemos que algo va mal\, pero seguimos 
+ sin actuar. Todo se sitúa entre control y pérdida\, entre acción y par
+ álisis\, en un momento marcado por un colapso social\, político y ecoló
+ gico\, frente al que avanzamos con una normalidad inquietante. Esa contrad
+ icción es el motor de la pieza. La escena se convierte en un paisaje de d
+ isputa donde el cuerpo insiste\, se agota y se levanta. El cuerpo se entie
+ nde como territorio y como frontera: un lugar que se defiende incluso cuan
+ do ya no tiene fuerzas para hacerlo. El conflicto no es narrativo\, sino e
+ structural\, y se sitúa en la manera en que nos relacionamos con los dem
+ ás y con lo que consideramos nuestro. La obra no busca ofrecer respuestas
+ \, sino abrir preguntas incómodas como qué es lo que protegemos\, por qu
+ é lo hacemos y a qué precio. Bailamos la posesión\, la herencia\, el de
+ seo de control y la ambición que atraviesan nuestras decisiones. Se plant
+ ea\, así como un espacio de confrontación\, una invitación a observar q
+ ué ocurre cuando no hacemos nada y percibir la incomodidad de formar part
+ e de un sistema en el que\, incluso cuando parece no decidir\, ya está to
+ mando posición. ULTIMATUM es el cuerpo como último territorio\, como el 
+ lenguaje que nos queda cuando ya no queda nada.\n\nhttps://www.mataderomad
+ rid.org/programacion/led-silhouette
+LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Adulto
@@ -6848,19 +5372,6 @@ DESCRIPTION:DONDE CRECEN LOS TARAYS\n\nUna pieza de teatro urgente.\n\nNaj
 LOCATION:Sala Mirador - Calle Doctor Fourquet\, 31\, 28012 Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Manolo Uvi Presenta Únete Al Commando 9Mm + Anti Idols + Klobber
-DTSTART;TZID=Europe/Madrid:20261030T203000
-UID:e30d0b76a1452d8a49f254f9858ca05986e006fb8867f6f9193525ac93f80e71
-CATEGORIES:music
-DESCRIPTION:Precio de las entradas:12€/15€ (+ g.g.) . Entradas a la ve
- nta en movingtickets Bio/enlaces bandas: Manolo Uvi_instagram Anti Idols_f
- acebook + Anti Idols_bandcamp + Anti Idols_instagram KLOBBER Klobber_faceb
- ook + Klobber_instagram Más información: Madrid\n\nhttps://gruta77.com/e
- vents/manolo-uvi-presenta-unete-al-commando-9mm-anti-idols-klobber/var/ri-
- 0.l-L2
-LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:DEPEDRO presentando su nuevo disco Furia y Calma
 DTSTART;TZID=Europe/Madrid:20261030T210000
 UID:87706b396ca1c626b37b7b53abc9636b8105613cee606acfce9cec5c276a7796
@@ -6887,6 +5398,33 @@ DESCRIPTION:Concierto / Pop / Rock / Latin. DEPEDRO presenta con toda su b
  uentro y lenguaje universal.\n\nhttps://salavillanos.es/evento/depedro-pre
  sentando-su-nuevo-disco-furia-y-calma-4/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Led Silhouette
+DTSTART;TZID=Europe/Madrid:20261030T213000
+UID:254db9ce50315f7e9580a4ef300095539cccfefb3713de561a15c7f4bfd8992a
+CATEGORIES:theater
+DESCRIPTION:El próximo viernes de octubre de 2026\, tras la representaci
+ ón\, tendrá lugar el encuentro del público con el equipo artístico de 
+ la compañía. Moderado por Clara Molla. Los encuentros con el público so
+ n una ocasión especial para que los espectadores puedan intercambiar impr
+ esiones sobre el espectáculo\, en compañía del equipo artístico. Estos
+  encuentros son de entrada libre hasta completar aforo.\n\nhttps://www.mat
+ aderomadrid.org/programacion/led-silhouette-0
+LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manolo Uvi Presenta Únete Al Commando 9Mm + Anti Idols + Klobber
+DTSTART;TZID=Europe/Madrid:20261030T213000
+UID:e8c9b6a6ca36f3faf9c854e2cd6c0e6de606d8ddf7b3ae77a979c3323ead1687
+CATEGORIES:music
+DESCRIPTION:Precio de las entradas:12€/15€ (+ g.g.) . Entradas a la ve
+ nta en movingtickets Bio/enlaces bandas: Manolo Uvi_instagram Anti Idols_f
+ acebook + Anti Idols_bandcamp + Anti Idols_instagram KLOBBER Klobber_faceb
+ ook + Klobber_instagram Más información: Madrid\n\nhttps://gruta77.com/e
+ vents/manolo-uvi-presenta-unete-al-commando-9mm-anti-idols-klobber/var/ri-
+ 0.l-L2
+LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NAZA
@@ -6938,6 +5476,28 @@ DESCRIPTION:En colaboración con JL & BEA-Gestoría cultural\, organizamo
 LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bebecuentos
+DTSTART;TZID=Europe/Madrid:20261031T120000
+UID:44d4653cba03e2ed805fb874c91c67494287ca3ea64c1055e2a7d7401a290e68
+CATEGORIES:family
+DESCRIPTION:La Ovejita\; Maya y Max\; La mariquita gruñona\, Zoe y Alfred
+  o Gansita serán algunos de los cuentos que llamarán la atención de los
+  peques con sus bonitas historias. La lectura desde bebés tiene múltiple
+ s beneficios: alimenta su curiosidad\, establece una conexión real\, ayud
+ a a desarrollar el lenguaje\, crea rutinas\, supone un estímulo cognitivo
+  y sensorial\, etc. En estas jornadas invitamos a las familias con bebés 
+ y niños pequeños a disfrutar de un ratito de concentración y diversión
+  donde se narrarán los siguientes cuentacuentos: Primer turno (de 0  a 3
+  años ) La ovejita va al mercado La pequeña oruga glotona La mariquita g
+ ruñona Maya y Max – La fiesta de cumpleaños Ban Ban Bani – ¡Juego a
+ l fútbol! Te quiero como el ratón al queso Dormibaby Segundo turno (de 3
+  a 6 años) Mi mamá es… un enano gruñón Superpatata 1 – El origen d
+ e superpatata El tesoro que nos une ¡Buenas noches\, coches! Zoe y Alfred
+  Gansita Organiza: Penguin Random House Grupo Editorial.\n\nhttps://www.ma
+ taderomadrid.org/programacion/bebecuentos-0
+LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Nosferatu
 DTSTART;TZID=Europe/Madrid:20261031T120000
 DTEND;TZID=Europe/Madrid:20261031T133100
@@ -6959,6 +5519,43 @@ DESCRIPTION:SESIÓN DE CINE CON ADRIÁN BEGOÑA AL PIANO EN DIRECTO\n\nAñ
 LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:La arquitectura de Infinito Delicias: Visita técnica guiada
+DTSTART;TZID=Europe/Madrid:20261031T120000
+DTEND;TZID=Europe/Madrid:20261031T130000
+UID:06ca01f3140d4be1df4a48dc14c2f04de28033bd6a23be218048e7245e19ac1c
+CATEGORIES:walk
+DESCRIPTION:Espacio: Visita guiada\n\nEl edificio de Infinito y la vida qu
+ e contiene son fruto de meses de investigación\, pruebas y trabajo colect
+ ivo. Una suma de fuerzas\, voces y decisiones hacen de este proyecto un ej
+ emplo particular en diferentes campos: arquitectura\, diseño sostenible\,
+  modelo funcional\, oferta cultural o propuesta gastronómica.\n\nRecorrid
+ os de una hora\, guiados por Teresa Martínez Pagés\, arquitecta especial
+ izada que formó parte tanto en la construcción del edificio como del des
+ arrollo integral del proyecto\, aportando una mirada directa y experta des
+ de dentro del proceso.\n\nEsta es una visita orientada a un público más 
+ técnico\,\n\nrecomendada para personas con interés o formación en arqui
+ tectura\, diseño\, interiorismo y disciplinas afines.\n\nEn Infinito\, ca
+ da rincón tiene algo que contar\; desde la madera hasta los huertos\, pas
+ ando por el mobiliario o la rampa\, todo forma parte de un proyecto único
+  que ha sido fruto de meses de investigación\, pruebas y trabajo colectiv
+ o. Un espacio que\, además\, fue reconocido en 2023 con el\n\npremio HOLC
+ IM como el proyecto más sostenible de Europa.\n\nPero lo más interesante
+  no es solo lo que se ve a primera vista\, sino cómo funciona. Desde un e
+ nfoque técnico y estructural\, esta visita propone recorrer el proyecto d
+ esde su concepción hasta la elección de cada material\, entendiendo cóm
+ o el barrio\, la sostenibilidad y la cultura han influido en la creación 
+ de Infinito.\n\nTe guiaremos paso a paso para entender cómo se ha constru
+ ido el proyecto\, qué decisiones lo hacen posible y\, sobre todo\, cómo 
+ el espacio y lo que ocurre en él se conectan. La arquitectura y la progra
+ mación van de la mano:\n\ntodo cobra vida a través de un contenido que a
+ ctiva el espacio y refuerza nuestro compromiso con la cultura.\n\nVen\, re
+ corre\, pregunta y entiende por qué Infinito es mucho más que un lugar.
+ \n\nhttps://www.infinitodelicias.com/es/agenda/la-arquitectura-de-infinito
+ -delicias-visita-tecnica-guiada
+LOCATION:Infinito Delicias - C. de Juana Dona\, 5\, Arganzuela\, 28045 Mad
+ rid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:La diatriba del perro
 DTSTART;TZID=Europe/Madrid:20261031T130000
 UID:fc2fe3c21c6f07bba1c3e2816d9752d2f9d4e229ab80852ad6017c2e7b6a341a
@@ -6972,9 +5569,131 @@ SUMMARY:Colombia en escena.
 DTSTART;TZID=Europe/Madrid:20261031T130000
 UID:a6fe8917f47ef38b50aa8ef26b21c29ada1ae59fb7c8f7f614bb42f6241b4379
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 9 plazas!\n\nhttps://teatrodelbarrio.com/colo
+DESCRIPTION:¡Ya solo quedan 7 plazas!\n\nhttps://teatrodelbarrio.com/colo
  mbia-en-escena/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:De lo que no se puede hablar mejor pregúntale a un fantasma
+DTSTART;TZID=Europe/Madrid:20261031T170000
+UID:c806cba590ea83ac697d604d3abe9a622132f006d543b02ae8ea2b5fe3b9f772
+CATEGORIES:other
+DESCRIPTION:La noche de muertos\, la víspera de todos los santos\, la pre
+ via de Halloween… El 31 de octubre nos juntamos para cerrar el proyecto 
+ Culturas del duelo al sur de Madrid de Inés Plasencia Camps\, parte del p
+ rograma Intermediae Distribuido. Será una jornada en la que se hablará d
+ el duelo como un proceso que\, a su paso\, genera cultura\, arte\, memoria
+ \, lenguajes y pertenencia. Que está marcado por condiciones materiales y
+  políticas que atraviesan principalmente cómo morimos y duelamos\, pero 
+ también por las posibilidades que se abren al pensar desde su heterogenei
+ dad y las formas de memoria que lo han traído hasta hoy. · Primera parte
+  (17 - 19 h.) Layla Martínez \, Lloronas y vestidoras. Viudez y trabajos 
+ de la muerte. Noelia Cortés \, Espejos entre el luto victoriano y la lite
+ ratura flamenca. Pablo Zamorano \, Mover lo invisible. Prácticas artísti
+ cas\, curatoriales y de investigación en torno a la mediumnidad\, la ance
+ stralidades y las relaciones entre vivos y muertos. · Interludio (19.15 -
+  19.45 h.) Inés Plasencia Camps \, Demolición parcial de zonas desprendi
+ das. Lenguaje administrativo y duelo en la ciudad. · Segunda parte (19.45
+  - 20.15 h.) Presentación del fanzine Quién lleva de la mano a unx muert
+ x\, resultado del Gabinete efímero de escritura funeraria\, editado por L
+ as Lindas Pobres (Mágui Dávila). · Cierre (20.20 - 21 h.) Asociación S
+ amahang Kayumanggi \, Atang. Una mesa para las que están no están. Como 
+ cierre de la jornada y el programa\, esta propuesta combina tres lenguajes
+  en una sola sesión: una presentación conceptual a cargo del equipo de i
+ nvestigación\, parte de la Asociación Samahang Kayumanggi\, una activaci
+ ón poética en vivo\, y un dispositivo participativo de memoria. Traslada
+  al cierre del proyecto una práctica ilocana de ofrenda de comida a los m
+ uertos\, el atang\, para pensar\, desde la diáspora filipina en Madrid\, 
+ cómo se recuerda\, se acompaña y se comparte la ausencia. Cerraremos con
+  una acción festiva\, que reivindica que acompañar a la muerte no tiene 
+ por qué hacerse solo desde la tristeza. Intervención visual de Coco Guzm
+ án Domingos en el Parque (Postales para el Fin del Mundo)\, 2026. Rotulad
+ or sobre papel\, 75x100cm Este dibujo pertenece a una serie (Postales para
+  el Fin del Mundo) que explora los fines del mundo no como un evento únic
+ o sino como todos aquellos en los que se termina el mundo tal y como lo co
+ nocemos. Así la colonización\, el genocidio\, la extinción de especies 
+ animales\, crisis como el vih/sida pero también perdidas individuales irr
+ eparables como el fallecimiento de amigxs\, familiares\, amantes. Esta obr
+ a refleja la experiencia de la supervivencia en un entorno con demasiadas 
+ muertes y el continuar con la vida\, yendo al parque\, por ejemplo\, tras 
+ haber perdido a personas muy cercanas. Es una salida al parque\, un doming
+ o\, rodeadx de fantasmas\, libros\, zapatos sin dueñx\, botellas de las q
+ ue tú sólo bebes\, pero que es a veces la compañía necesaria. Al fondo
+  el mundo sigue ardiendo. Layla Martínez es editora y escritora. Ha publi
+ cado el ensayo Utopía no es una isla (Episkaia\, 2020) y la novela Carcom
+ a (Amor de Madre\, 2021)\, traducida a diecinueve idiomas\, adaptada al te
+ atro en cuatro países y en proceso de adaptación al cine. Carcoma ha rec
+ ibido el premio Ignotus a la mejor novela corta y el premio del Festival 4
+ 2 a la mejor novela revelación y fue nominada al National Book Award en E
+ stados Unidos. Layla ha impartido talleres sobre literatura fantástica\, 
+ sobre historia del terror y sobre arquetipos femeninos en el cine. Actualm
+ ente trabaja en su segundo ensayo y en su segunda novela. Noelia Cortés (
+ Almería\, 1996) es autora de los poemarios Del mar y la muerte y Rosal o 
+ reptil\, y del ensayo feminista La higuera de las gitanas. Desde sus inves
+ tigaciones literarias y sociales sobre el flamenco (cante gitano andaluz) 
+ ha hallado una mirada que conecta dicho universo con los imaginarios de ot
+ ros movimientos culturales\, como el Prerrafaelismo o el Romanticismo ingl
+ és. Pablo Zamorano Azocar (1987) es artista\, investigador y performer c
+ hileno residente en Madrid. Su práctica en artes vivas articula cuerpo\, 
+ espiritualidad y pensamiento\, explorando lo invisible y lo intangible a t
+ ravés de distintos soportes materiales. Es Licenciado en Artes mención D
+ anza por la U de Chile\, Máster en Práctica Escénica y Cultura Visual (
+ Museo Reina Sofía–UCLM–Artea) y Máster en Investigación en Arte y C
+ reación por la UCM\, cursa el Doctorado en Bellas Artes en la UCM. Es ac
+ tual comisario de NOVIENBRE Encuentro Transdisciplinario sobre la muerte. 
+ Ha desarrollado proyectos de creación en artes vivas en Europa\, México
+  y América Latina\, en espacios como C3A Córdoba\, TBA21–Museo Thyssen
+ -Bornemisza\, Museo de América de Madrid\, Teatro Pradillo\, Röda Sten K
+ onsthall y Museo de Bellas Artes de Chile\, entre otros. Samahang Kayumang
+ gi es una asociación y colectivo artístico cuyo propósito fundamental e
+ s fortalecer los lazos comunitarios entre los diversos agentes de la diás
+ pora filipina. Nacida como un espacio orgánico de encuentro y mediación
+ \, la agrupación se dedica a construir puentes interculturales y a reivin
+ dicar la pluralidad de las identidades pinoys. A través de su práctica c
+ olectiva\, Samahang Kayumanggi promueve un diálogo activo\, crítico y co
+ ntemporáneo\, situando la voz\, la cultura y la experiencia de la comunid
+ ad filipina en el centro del ecosistema social y cultural. Formada por Don
+  Jovan Urbiztondo\, Karessa Malaya Ramos\, Lourdes Veluz Bernardo y Sheryl
+  Sénica. Las Lindas Pobres es una editorial independiente creada por Magu
+ i Dávila que se dedica a producir ediciones lindas con pocos recursos\, o
+  con muchos\, pero con los que haya. Llp convertido en espacio de invest
+ igación que reflexiona a través de sus publicaciones sobre el campo de l
+ a música electrónica y la cultura popular\, dando visibilidad a aquellas
+  formas de conocimiento práctico que se da en la pista de baile\, en las 
+ salas de ensayo\, en las tapas de discos y en las comunidades de Internet 
+ como forma de acción y producción artística. Entre las publicaciones pa
+ sadas y las futuras va atendiendo a cuestiones sociopolíticas\, de géner
+ o\, de biopolítica y más. ( www.maguidavila.com ). Coco Guzmán (Coco Ri
+ ot) es artista visual\, investigadore y educadore trans y queer\, actualme
+ nte con base en Madrid. Su práctica artística\, centrada en el dibujo y 
+ las prácticas situadas en el espacio público\, explora las relaciones en
+ tre género\, identidad\, memoria\, territorio y resistencia\, con especia
+ l atención a las experiencias y formas de producción de conocimiento de 
+ las comunidades trans* y queer. Doctorade en Investigación y Producción 
+ Artística por la Universidad Politécnica de Valencia (2024)\, máster en
+  Interdisciplinary Art\, Media and Design por OCAD University\, Toronto\, 
+ y estudios en Literatura Comparada por la Université Paris 8 y en Bellas 
+ Artes por la École Supérieure des Beaux-Arts de Toulouse.  Su trayector
+ ia internacional incluye Onsite Gallery (Toronto)\, CHEAP (Bolonia)\, la B
+ ienal de La Habana\, Hemispheric Encounters (Ciudad de México)\, La Centr
+ ale (Montreal)\, CentroCentro (Madrid)\, Intermediae Matadero Madrid\, The
+  Bentway (Toronto) y The High Line (Nueva York). Desde 2025\, es docente e
+ n NYU Madrid\, donde imparte cursos que vinculan prácticas artísticas\, 
+ activismo\, investigación y cultura visual. Inés Plasencia Camps es inve
+ stigadora\, docente y escritora. Ahora mismo centrada en el duelo y en la 
+ investigación y escritura sobre el miedo y los límites de lo real y la f
+ icción para asimilar la muerte. Le interesan el comisariado de programas 
+ públicos por las posibilidades que ofrecen de crear espacios temporales d
+ e intimidad y escribir en busca de un lenguaje para comprender y recordar.
+  Participantes en el fanzine: Víctor Mora Gaspar\, Carmen Lozano Bright\,
+  Sandra Cendal\, Olga LLP\, Trixy\, Carmen Haro\, Inés Plasencia Camps\, 
+ Ana Castro Valero\, Berna Wang\, Jessica Janeiro Obernyer\, Magui Dávila
+ \, Flor M. Yustas y Rosa Casado. Proyecto seleccionado dentro de la convoc
+ atoria “Intermediae Distribuido 2025-2026" \, destinada a propuestas com
+ unitarias y participativas en torno a los distritos de Arganzuela y Usera.
+ \n\nhttps://www.mataderomadrid.org/programacion/de-lo-que-no-se-puede-habl
+ ar-mejor-preguntale-un-fantasma
+LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NAZA
@@ -7008,6 +5727,29 @@ DESCRIPTION:Fecha y Hora: Sábado 31 de octubre a las 17:30h (Sala 1. HALL
  descripcion/la-novia-cadaver-4
 LOCATION:Filmoteca Espanola - Cine Dore - Calle de Santa Isabel\, 3\, Madr
  id
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fiesta de Halloween
+DTSTART;TZID=Europe/Madrid:20261031T173000
+UID:4e570b4d21b5dc52385a928271fe14493d6ce11cf572aca01b9d6440b28dd721
+CATEGORIES:family
+DESCRIPTION:El sábado 31 de octubre a las 17.30 h \, atrévete a cruzar s
+ us puertas y participar en una tarde de talleres y juegos inspirados en al
+ gunos de nuestros personajes favoritos. Podrás crear a tu propia familia 
+ al estilo de Julia y los Mortimort\, inventar criaturas y poderes mágicos
+  con Iris y Luna\, superar pruebas dignas de Amanda Black\, seguir pistas 
+ con Mortadelo y Filemón\, descubrir tu lado más mágico y vampírico jun
+ to a Isadora Moon y enfrentarte a un nuevo reto inspirado en Tessa Soul. T
+ ambién\, conocer a la adivina de Misterio S.A. y que lea tu futuro. Pero 
+ cuidado: para completar la misión tendrás que demostrar imaginación\, i
+ ngenio y una buena dosis de valentía. ¿Serás capaz de superar todas las
+  pruebas de La Nube? Ven con ganas de jugar\, crear\, investigar… y pasa
+ r un poquito de miedo con… Julia y los Mortimort. Veravamp Iris y Luna T
+ essa Soul Mortadelo y Filemón Isadora Moon Los monstruos ya han confirmad
+ o asistencia. Solo faltas tú. No olvides venir disfrazado. Organiza: Peng
+ uin Random House Grupo Editorial\n\nhttps://www.mataderomadrid.org/program
+ acion/fiesta-de-halloween
+LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gustavo Díaz Quartet
@@ -7145,19 +5887,6 @@ DESCRIPTION:En los sótanos de la Ópera de París vive oculto el misterio
 LOCATION:Artistic Metropol - Cigarreras\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wisecräcker (Alemania) + Oferta Especial En Skalloween Mad Fest.
-DTSTART;TZID=Europe/Madrid:20261031T203000
-UID:0d2494c961829cdc26fd8b3336c13a4e9f503cba13cca02f8d379e7a85c8f9da
-CATEGORIES:music
-DESCRIPTION:Precio de las entradas: 10€: las primeras 50 entradas. 15€
- /20€ (+ g.g.) . Entradas a la venta en movingtickets Bio/enlaces bandas:
-  Wisecräcker_facebook +Wisecräcker_intagram Oferta Especial_facebook + O
- ferta Especial_twitter + Oferta Especial_instagram Más\n\nhttps://gruta77
- .com/events/wisecracker-oferta-especial-en-skalloween-mad-fest/var/ri-0.l-
- L2
-LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:DEPEDRO presentando su nuevo disco Furia y Calma
 DTSTART;TZID=Europe/Madrid:20261031T210000
 UID:8ffd95eac62e920480b7a6107b8af810caef64b391cccf52c2de5de2f19f8ca2
@@ -7174,6 +5903,18 @@ DESCRIPTION:Concierto / Pop / Rock / Latin. DEPEDRO presenta con toda su b
  Latinoamérica\, África\, el Mediterráneo y Estados Unidos.\n\nhttps://s
  alavillanos.es/evento/depedro-presentando-su-nuevo-disco-furia-y-calma-5/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wisecräcker (Alemania) + Oferta Especial En Skalloween Mad Fest.
+DTSTART;TZID=Europe/Madrid:20261031T213000
+UID:7942c2ad6f914dbb90649741871c56d1d9158210be50dc5c1dde55ae4c03ba0f
+CATEGORIES:music
+DESCRIPTION:Precio de las entradas: 10€: las primeras 50 entradas. 15€
+ /20€ (+ g.g.) . Entradas a la venta en movingtickets Bio/enlaces bandas:
+  Wisecräcker_facebook +Wisecräcker_intagram Oferta Especial_facebook + O
+ ferta Especial_X + Oferta Especial_instagram Más\n\nhttps://gruta77.com/e
+ vents/wisecracker-oferta-especial-en-skalloween-mad-fest/var/ri-0.l-L2
+LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chicho o mientras el cuerpo aguante (una comedia didáctica)
@@ -7219,6 +5960,59 @@ DESCRIPTION:Club. VAMPIROS EN LA HABANA Este Halloween\, Azuca presenta un
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Mercado Productores Planetario
+DTSTART;TZID=Europe/Madrid:20261101T100000
+DTEND;TZID=Europe/Madrid:20261101T160000
+UID:1cdd8bb83cf922a507b7f976a57a1795e45365d6689f242e22d6b04b7f493cbe
+CATEGORIES:market
+DESCRIPTION:Mercado de productores locales y artesanos en Planetario con a
+ limentacion sostenible\, productos de cercania y actividades al aire libre
+ .\n\nhttps://mercadoproductores.es/mp-planetario/
+LOCATION:Mercado Productores Planetario - Avenida del Planetario esquina C
+ alle Meneses\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aprende a crear monstruos
+DTSTART;TZID=Europe/Madrid:20261101T113000
+UID:7b09822fd8e8267f3ad49441855ab7257e2b9fb6f37f64cd90bbc841184134bc
+CATEGORIES:family
+DESCRIPTION:¡La noche más terrorífica del año merece sus propios perso
+ najes! En este taller monográfico especial de Halloween\, los alumnos apr
+ enderán los secretos del diseño de personajes de terror y fantasía. Dej
+ aremos volar la imaginación para diseñar desde monstruos clásicos (como
+  hombres lobo\, vampiros o criaturas estilo Frankenstein) hasta monstruos 
+ completamente inventados y mutantes\, adaptando el nivel de "miedo" al est
+ ilo personal de cada dibujante. ¿Qué se aprende y se trabaja en la clase
+ ? Anatomía monstruosa y texturas: Aprenderán a romper las reglas del dib
+ ujo humano para añadir elementos animales y fantásticos. Practicaremos c
+ ómo dibujar garras afiladas\, alas de murciélago\, colmillos\, tentácul
+ os y múltiples ojos. Además\, veremos técnicas sencillas a tinta para s
+ imular texturas de pelaje espeso\, escamas de reptil o piel babosa. Jugand
+ o con las expresiones de terror: Descubriremos cómo cambia una cara cuand
+ o se asusta o intenta asustar. Trabajaremos con cejas anguladas\, bocas gi
+ gantescas llenas de dientes colosales\, pupilas diminutas para dar sensaci
+ ón de locura y venas marcadas para añadir expresividad. Imparte: Oscar G
+ ordon.\n\nhttps://www.mataderomadrid.org/programacion/aprende-crear-monstr
+ uos
+LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sombras tenebrosas
+DTSTART;TZID=Europe/Madrid:20261101T120000
+UID:38b40ce9eb9c2d2b40b352407b6a1885afb989c668a085ad2f743ed8389f4834
+CATEGORIES:family
+DESCRIPTION:Muchas veces las historias más emocionantes no se ven\, ¡se 
+ intuyen entre las sombras! A través del juego con la luz\, las siluetas y
+  el movimiento\, descubriremos cómo contar historias sorprendentes utiliz
+ ando únicamente sombras\, música e imaginación. Una experiencia creativ
+ a que combina arte\, teatro y trabajo en familia\, invitando a pequeños y
+  mayores a inventar relatos misteriosos y divertidos propios de Halloween.
+  Porque\, a veces\, las historias más emocionantes no se ven… ¡se intu
+ yen entre las sombras! Imparte: Creativiteka.\n\nhttps://www.mataderomadri
+ d.org/programacion/sombras-tenebrosas
+LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Gena
 DTSTART;TZID=Europe/Madrid:20261101T130000
 UID:63ef170ed8a28f3d44e6a4d8c11a36107f9e75102ebe0118e04d5a41ce26dcb5
@@ -7260,15 +6054,6 @@ DESCRIPTION:Rodada por la noche en las azoteas de Tel Aviv\, la película
  \n\nhttps://www.circulobellasartes.com/ciclos-cine/peliculas/naza/
 LOCATION:Cine Estudio Circulo de Bellas Artes - Marques de Casa Riera\, 4
  \, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Imbermind
-DTSTART;TZID=Europe/Madrid:20261101T183000
-UID:97851936fa934ffa8567780c1e7c9572fd3aa2a21da13eb360be270f62a96303
-CATEGORIES:music
-DESCRIPTION:Concierto / Pop / Rock / Electronic\n\nhttps://salavillanos.es
- /evento/imbermind/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Queercinemad Especial Halloween: Adolescencia\, sexo y muerte en C
@@ -7318,10 +6103,19 @@ DESCRIPTION:DONDE CRECEN LOS TARAYS\n\nUna pieza de teatro urgente.\n\nNaj
 LOCATION:Sala Mirador - Calle Doctor Fourquet\, 31\, 28012 Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Imbermind
+DTSTART;TZID=Europe/Madrid:20261101T203000
+UID:1c80c5b2d31fc536cbcee43f168aee498caf296135eb150a1a720b1521d1a540
+CATEGORIES:music
+DESCRIPTION:Concierto / Pop / Rock / Electronic\n\nhttps://salavillanos.es
+ /evento/imbermind/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pim Pam Punk XV Edición\, Benéfico Para Palestina: The Birra'S T
  error + Strawberry Hardcore + Bladders
-DTSTART;TZID=Europe/Madrid:20261101T200000
-UID:328e89a9d88d44bb498375eff288601a8b4e5660867d94194a0d3a828bebf7a0
+DTSTART;TZID=Europe/Madrid:20261101T210000
+UID:f0f38e5c73d8bf189ff5020b85041f374c25a8f2e4ddd95e640e646d5de5a9ca
 CATEGORIES:music
 DESCRIPTION:Precio de las entradas: 10€/15€ solidaria. En taquilla: 15
  € (+ g.g.) . Entradas a la venta en movingtickets Bio/enlaces bandas: Th
@@ -7465,6 +6259,64 @@ DESCRIPTION:Muestra que rinde homenaje a uno de los mayores escritores de
 LOCATION:Biblioteca Nacional - de Recoletos\, 20 - 22\, Madrid\, 28071
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Manifiesto ferviente. Charla pública con Mercedes Villalba
+DTSTART;TZID=Europe/Madrid:20261103T190000
+DTEND;TZID=Europe/Madrid:20261103T203000
+UID:e49eb90a2452f907c6170a6abac04a143b7e9cfccdf7d6f20653fbdf8dbe94bb
+CATEGORIES:talk
+DESCRIPTION:Espacio: Sala Marina\n\nEsta actividad forma parte de Todo com
+ ienzo es un ensayo\, el programa público vinculado a las residencias de A
+ rte por venir\, un programa de la Fundación Daniel y Nina Carasso que aco
+ mpaña procesos de creación e investigación artística y que\, en Madrid
+ \, se desarrolla en Infinito Delicias. A través de un grupo de estudio y 
+ distintas actividades públicas\, el programa pone en común las preguntas
+ \, metodologías y prácticas que atraviesan las residencias y las conecta
+  con otros saberes\, experiencias y contextos.\n\nEn 2019\, la antropólog
+ a y escritora argentina Mercedes Villalba publicó\n\nManifiesto ferviente
+ \n\n\, un texto que toma la fermentación como punto de partida para pensa
+ r la transformación\, la temporalidad y las formas de vida colectiva. Sie
+ te años después\, esta charla propone volver sobre aquel manifiesto para
+  revisar algunas de sus intuiciones y preguntarnos qué nuevas lecturas pe
+ rmite hacer desde el presente.\n\n¿Qué puede enseñarnos la fermentació
+ n sobre la transformación? ¿Cómo pensar la resistencia atendiendo a pro
+ cesos que dependen del tiempo\, la descomposición y la aparición de nuev
+ as formas de vida? En un contexto atravesado por distintas formas de inest
+ abilidad\, Mercedes Villalba compartirá las sucesivas capas de reflexión
+  que ha desarrollado en torno a la fermentación como proceso material y p
+ olítico\, así como las metodologías que articulan su práctica de inves
+ tigación y escritura.\n\nLa charla permitirá acercarse a una investigaci
+ ón que pone en relación los ciclos de creación y descomposición de la 
+ materia con preguntas sobre la pérdida\, la regeneración y la vida colec
+ tiva. La actividad servirá también como antesala a la sesión del grupo 
+ de estudio de Todo comienzo es un ensayo del 4 de noviembre\, en la que al
+ gunas de estas cuestiones se trabajarán a través de lecturas y ejercicio
+ s compartidos.\n\nMercedes Villalba\n\n\, Ph.D\, es escritora e investigad
+ ora. Doctora en Antropología\, Historia de la Ciencia y Metodologías Fem
+ inistas por la Universidad de California\, Davis\, es autora de Manifiesto
+  ferviente (2019)\, A las Plantas (2022) y los libros de poesía Colores y
+  A los botánicos\, además de artículos\, poemas\, traducciones y ensayo
+ s en torno a la creación y descomposición del arte y la naturaleza. Mani
+ fiesto ferviente ha sido traducido al español\, portugués\, catalán y k
+ ichwa y forma parte de las colecciones de Printed Matter\, SAIC y MACBA. S
+ u próximo libro\, Triangulaciones\, será publicado por Cielo Santo a fin
+ ales de 2026. Actualmente trabaja en un libro sobre la leche y otro sobre 
+ la cerámica.\n\nArte por venir\n\nes un proyecto de la Fundación Daniel 
+ y Nina Carasso\, diseñado y desarrollado junto a Ane Rodríguez Armendár
+ iz\, Soledad Gutiérrez y Violeta Janeiro\, en el marco del eje de Arte ci
+ udadano de la Fundación. La Fundación Daniel y Nina Carasso trabaja para
+  contribuir a una sociedad más justa\, inclusiva y sostenible a través d
+ e dos grandes ámbitos de actuación: el Arte Ciudadano y la Alimentación
+  Sostenible. Dentro del ámbito artístico impulsa programas que favorecen
+  la conexión entre prácticas artísticas\, comunidades y contextos diver
+ sos. Arte por venir forma parte de esta línea de trabajo\, a través de u
+ n programa de residencias y un programa de ayudas dirigido a artistas y co
+ lectivos.\n\ncrédito de foto: Pintura del Manifiesto Ferviente\, Mollie D
+ outhit\n\nhttps://www.infinitodelicias.com/es/agenda/manifiesto-ferviente-
+ mercedes-villalba
+LOCATION:Infinito Delicias - C. de Juana Dona\, 5\, Arganzuela\, 28045 Mad
+ rid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Lido Pimienta
 DTSTART;TZID=Europe/Madrid:20261103T210000
 UID:1c4a881d50b453d6f0496734e566e0b6a859abff24cb0a573f9fabadeaef7cdf
@@ -7511,6 +6363,34 @@ DESCRIPTION:Exposición de arte contemporáneo que reúne a 26 artistas de
  spaña (Casa de América. 4 nov a 15 dic).\n\nhttps://www.casamerica.es/ex
  posiciones/amame-como-soy
 LOCATION:Casa de América - de Cibeles\, 2\, Madrid\, 28014
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Primero entiende\, luego convence. Taller con César Astudillo
+DTSTART;TZID=Europe/Madrid:20261104T170000
+DTEND;TZID=Europe/Madrid:20261104T190000
+UID:ad1644301464bf249e4f3da4de91b949b587e9c70c07f02e2dccf43e3c9dd8d5
+CATEGORIES:workshop
+DESCRIPTION:Espacio: Cocina Plató\n\nConseguir el compromiso de un mecena
+ s\, un puesto en la programación de un centro cultural\, o el permiso par
+ a usar un local de tu Ayuntamiento\, son ejemplos de situaciones donde nec
+ esitas comunicarte de forma persuasiva. Y en estas situaciones\, uno de lo
+ s errores más comunes es… partir de explicar lo que haces\, transmitir 
+ tu pasión por ello\, y argumentar por qué es tan importante. ¡En serio!
+  En este taller vamos a aprender a hacer lo contrario: ponernos en el luga
+ r de nuestro interlocutor\; averiguar cuáles son sus necesidades\, expect
+ ativas y preocupaciones\; y “colocarle” lo que hacemos con pasión com
+ o la solución a sus problemas. ¡Se siente raro\, pero funciona!\n\nCésa
+ r Astudillo\n\nes asesor independiente de estrategia e innovación. Con un
+ a trayectoria ecléctica que incluye composición musical\, desarrollo de 
+ software\, Experiencia de Usuario\, diseño de videojuegos\, prospectiva y
+  futuros\, humor gráfico y estrategia\, dice que su misión actual es “
+ ayudar a los líderes a tener éxito de forma responsable en un mundo en t
+ ransición”. Ha impartido conferencias y clases en más de treinta insti
+ tuciones y en 2019 fue nombrado Jurado de los Premios Nacionales de Diseñ
+ o.\n\nhttps://www.infinitodelicias.com/es/agenda/taller-inpulse-cesar-astu
+ dillo
+LOCATION:Infinito Delicias - C. de Juana Dona\, 5\, Arganzuela\, 28045 Mad
+ rid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mark Guiliana Beat Music
@@ -7609,8 +6489,8 @@ LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sugus + Ou!
-DTSTART;TZID=Europe/Madrid:20261105T200000
-UID:1ab85add82f5c9375b7f846e7ba7ec975b6b162e8fc48004eff1587019d4337f
+DTSTART;TZID=Europe/Madrid:20261105T210000
+UID:4721560374b9e820d2a4e1e0a83a3dcbe3eda4d11f42adf7986563242cf85f27
 CATEGORIES:music
 DESCRIPTION:Precio de las entradas: 12€/15€ (+ g.g.) . Entradas a la v
  enta en movingtickets Bio/enlaces bandas: Sugus_facebook + Sugus_instagram
@@ -7697,18 +6577,6 @@ DESCRIPTION:DONDE CRECEN LOS TARAYS\n\nUna pieza de teatro urgente.\n\nNaj
 LOCATION:Sala Mirador - Calle Doctor Fourquet\, 31\, 28012 Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Los Coronas + Varonas
-DTSTART;TZID=Europe/Madrid:20261106T203000
-UID:6b0c06ce528b5934211ac30ebf07789a55a03aee3cc59f4fc07904c66585973e
-CATEGORIES:music
-DESCRIPTION:Precio de las entradas: 20€/24€ (+ g.g.) . Entradas a la v
- enta en movingtickets Bio/enlaces bandas: Los Coronas_facebook + Los Coron
- as_X + Los Coronas_instagram VARONAS Varonas_facebook + Varonas_instagram 
- Más información: Los Coronas: Banda pionera\n\nhttps://gruta77.com/event
- s/los-coronas-varonas/var/ri-0.l-L2
-LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Vincen Garcia
 DTSTART;TZID=Europe/Madrid:20261106T210000
 UID:16508459d2bd9a6c5f71c4b684af8a9eb53606b83fe8af18c2c9dc45f0691e83
@@ -7729,6 +6597,18 @@ DESCRIPTION:Concierto / Villanos del Jazz. El artista español más intern
  lo un concierto. Es historia en directo.\n\nhttps://salavillanos.es/evento
  /vincen-garcia/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Coronas + Varonas
+DTSTART;TZID=Europe/Madrid:20261106T213000
+UID:b3b81c4c0bc07590dd8c0ab081012514b462240d0b5aaea1c090e20857f5ef31
+CATEGORIES:music
+DESCRIPTION:Precio de las entradas: 20€/24€ (+ g.g.) . Entradas a la v
+ enta en movingtickets Bio/enlaces bandas: Los Coronas_facebook + Los Coron
+ as_X + Los Coronas_instagram VARONAS Varonas_facebook + Varonas_instagram 
+ Más información: Los Coronas: Banda pionera\n\nhttps://gruta77.com/event
+ s/los-coronas-varonas/var/ri-0.l-L2
+LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dave Lee (FKA Joey Negro) + Javi Frias
@@ -7790,18 +6670,6 @@ DESCRIPTION:DONDE CRECEN LOS TARAYS\n\nUna pieza de teatro urgente.\n\nNaj
 LOCATION:Sala Mirador - Calle Doctor Fourquet\, 31\, 28012 Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Radar Joven Presenta: Análisis + Escarlata
-DTSTART;TZID=Europe/Madrid:20261107T203000
-UID:bf6695d5278a6650240ba617d8ee45240560a4fbcfac8734f6329d93809aa046
-CATEGORIES:music
-DESCRIPTION:Precio de las entradas: 7€. 2 entradas = 10€. 3.5€ con C
- arné Joven Entradas a la venta en eventim light Bio/enlaces bandas: Anál
- isis_instagram Los Escarlata_instagram Más información: Análisis es una
-  banda madrileña de\n\nhttps://gruta77.com/events/radar-joven-presenta-an
- alisis-escarlata/var/ri-0.l-L2
-LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Orb
 DTSTART;TZID=Europe/Madrid:20261107T210000
 UID:0ae75a0fe8e41eb708d3ee97a8fcb668db5bbdecbe4d9063bfbd83cbe483bdb0
@@ -7821,6 +6689,18 @@ DESCRIPTION:Concierto / Electronic. Treinta y cinco años después de que
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Radar Joven Presenta: Análisis + Escarlata
+DTSTART;TZID=Europe/Madrid:20261107T213000
+UID:21ce01bf5935153ba2b330ca21c06b11dc542d02120da322c915de3475516227
+CATEGORIES:music
+DESCRIPTION:Precio de las entradas: 7€. 2 entradas = 10€. 3.5€ con C
+ arné Joven Entradas a la venta en eventim light Bio/enlaces bandas: Anál
+ isis_instagram Los Escarlata_instagram Más información: Análisis es una
+  banda madrileña de\n\nhttps://gruta77.com/events/radar-joven-presenta-an
+ alisis-escarlata/var/ri-0.l-L2
+LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Axel Boman + Gary
 DTSTART;TZID=Europe/Madrid:20261107T235900
 UID:44f48b660f162ae7a485317d4c6d71f7dbbf96d5d629536f2ac58afae99ce143
@@ -7836,5 +6716,80 @@ DESCRIPTION:Club. Desde hace más de una década\, Axel Boman ocupa un lug
  ose como uno de los selectores más refinados de la electrónica contempor
  ánea.\n\nhttps://salavillanos.es/evento/axel-boman-acid-hero-gary/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spin Oz
+DTSTART;TZID=Europe/Madrid:20261108T123000
+DTEND;TZID=Europe/Madrid:20261213T123000
+UID:393160ba30dcf567d35d847710d382b3e902056d4608df2a4447d68466cf8495
+CATEGORIES:theater
+DESCRIPTION:Una secuela alternativa de El mago de Oz sobre la madurez y el
+  autoconocimiento (Teatro Infanta Isabel. Domingos. 8 nov a 13 dic). | Nov
+ iembre: Domingos: 12:30 h Diciembre: Sáb-dom 12:30 h\n\nhttps://www.teatr
+ oinfantaisabel.es/
+LOCATION:Teatro Infanta Isabel - Calle del Barquillo\, 24\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DONDE CRECEN LOS TARAYS
+DTSTART;TZID=Europe/Madrid:20261108T193000
+UID:6d804abb0ca0b29c6f5844e445f8c87b15a8f48106e0cbbf0e033c6acb4271e1
+CATEGORIES:theater
+DESCRIPTION:DONDE CRECEN LOS TARAYS\n\nUna pieza de teatro urgente.\n\nNaj
+ at\, Amal y Hayat llegan al mar por razones completamente distintas.\n\nNa
+ jat lleva meses preparándose para cruzar a Ceuta. Amal sale de casa para 
+ impedir que su hermano de catorce años\, lo haga. Hayat huye de Casablanc
+ a embarazada y sin que el hombre del que escapa\, sepa que espera una hija
+ .\n\nLas tres acaban entrando en el agua.\n\nPero Donde crecen los tarays 
+ no habla únicamente del cruce. Habla también de lo que sucede después: 
+ de quienes consiguen alcanzar la otra orilla y descubren que llegar no sig
+ nifica necesariamente poder continuar\; de las fronteras que permanecen de
+ spués de haberlas atravesado\; de quienes quedan varados entre el lugar d
+ el que tuvieron que salir y aquel en el que todavía no pueden quedarse.\n
+ \nEl taray es un arbusto que crece en terrenos salinos\, junto al agua y e
+ n zonas costeras. En la obra atraviesa la memoria de Hayat y acaba dando n
+ ombre a una historia sobre la dificultad de encontrar un lugar donde echar
+  raíces.\n\nDonde crecen los tarays es el primer texto original de Sergio
+  Peris-Mencheta\, una pieza de teatro urgente nacida del impulso de reacci
+ onar al presente mientras la realidad que la provoca todavía está ocurri
+ endo.\n\nEn escena\, tres urnas de metacrilato contienen el agua. Cuando u
+ na de las mujeres cuenta su historia\, las otras dos nadan. El braceo\, el
+  esfuerzo y sus respiraciones construyen la banda sonora de la función.\n
+ \nEl relato sucede delante.\n\nEl mar no se detiene.\n\nhttps://lamirador.
+ com/funcion?nombre=donde-crecen-los-tarays-2026
+LOCATION:Sala Mirador - Calle Doctor Fourquet\, 31\, 28012 Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Emma-Jean Thackray
+DTSTART;TZID=Europe/Madrid:20261108T203000
+UID:fde02e28873b750a6e27bc1b3ffe7e4ba899f5a02d7ceef85c8771819906f27e
+CATEGORIES:music
+DESCRIPTION:Concierto / Villanos del Jazz. Heredera de otras voces díscol
+ as surgidas del Reino Unido\, como Amy Winehouse\, Lilly Allen o Lola Youn
+ g\, esta native de Leeds propone un embriagador cóctel de jazz\, soul y p
+ op Emma – Jean Thackray\, nacida en Leeds en 1989\, es tan fan de Miles 
+ Davis como de Madlib\, y eso explica la personalidad que exuda una discogr
+ afía que\, pese a la dificultad para etiquetaría como jazz\, soul o pop
+ \, tiene muy claro hacia dónde se dirige. Ha dirigido la London Symphony 
+ Orchestra\, ha tocado en el festival de Glastonbury\, ha aparecido en el p
+ rograma de Jools Holland\, ha ganado el premio del público oyente de Jazz
+  FM en 2021 y\, sobre todo\, ha deslumbrado a todo el mundo con un segundo
+  álbum\, el fabuloso “Weirdo” (2025)\, diario íntimo (publicado en e
+ l sello de Gilles Peterson) que surge del intenso dolor por la pérdida de
+  su pareja en 2023\, que cuenta con colaboraciones de Reggie Watts y Kassa
+  Overall y en el que ella ha tocado todos y cada uno de los instrumentos. 
+ Sí\, un portento.\n\nhttps://salavillanos.es/evento/emma-jean-thackray-2/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sonotones + Luter
+DTSTART;TZID=Europe/Madrid:20261108T213000
+UID:a10a2d567d09b1b8c2e59857f0d4c3eac22d1c7a941b12a02411b8664f91f8d8
+CATEGORIES:music
+DESCRIPTION:Precio de las entradas: 12€/15€ (+ g.g.) . Entradas a la v
+ enta en movingtickets Bio/enlaces bandas: Sonotones_facebook + Sonotones_X
+  + Sonotones_youtube + Sonotones_instagram Luter_facebook + Luter_X + Lute
+ r_youtube + Luter_instagram Más información: Despedidda\n\nhttps://gruta
+ 77.com/events/sonotones-luter/var/ri-0.l-L2
+LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
 END:VEVENT
 END:VCALENDAR
