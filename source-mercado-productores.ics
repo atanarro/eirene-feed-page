@@ -2,18 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Delicias//ES
 BEGIN:VEVENT
-SUMMARY:Mercado Productores Valdebebas
-DTSTART;TZID=Europe/Madrid:20261025T100000
-DTEND;TZID=Europe/Madrid:20261025T160000
-UID:8a377e269e02d3741e0bcc3593eab821e7824d98a1662a87f8dda6faf12b742a
-CATEGORIES:market
-DESCRIPTION:Mercado de productores locales y artesanos en Valdebebas con p
- roductos frescos\, gourmet y actividades para todos los publicos.\n\nhttps
- ://mercadoproductores.es/mercado-valdebebas/
-LOCATION:Mercado Productores Valdebebas - Plaza Francisco de Asis Cabrero
- \, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Mercado Productores Planetario
 DTSTART;TZID=Europe/Madrid:20261101T100000
 DTEND;TZID=Europe/Madrid:20261101T160000
@@ -24,5 +12,17 @@ DESCRIPTION:Mercado de productores locales y artesanos en Planetario con a
  .\n\nhttps://mercadoproductores.es/mp-planetario/
 LOCATION:Mercado Productores Planetario - Avenida del Planetario esquina C
  alle Meneses\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mercado Productores Alcobendas
+DTSTART;TZID=Europe/Madrid:20261108T100000
+DTEND;TZID=Europe/Madrid:20261108T160000
+UID:cc792c29b878e4b531d5b44ff82747f34f37c7f51e96b0b3b9e1c6a83c2522b8
+CATEGORIES:market
+DESCRIPTION:Mercado de productores locales y artesanos en Alcobendas con a
+ limentos de proximidad y propuestas gastronomicas.\n\nhttps://mercadoprodu
+ ctores.es/mp-alcobendas/
+LOCATION:Mercado Productores Alcobendas - Paseo de Valdelasfuentes esquina
+  Calle Jose Hierro\, Alcobendas
 END:VEVENT
 END:VCALENDAR
