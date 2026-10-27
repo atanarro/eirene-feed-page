@@ -1298,6 +1298,19 @@ DESCRIPTION:Muestra que ofrece un recorrido visual por el arte español de
 LOCATION:Fundación Juan March - de Castelló\, 77\, Madrid\, 28006
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Altar Día de Muertos 2026
+DTSTART;TZID=Europe/Madrid:20261020T000000
+DTEND;TZID=Europe/Madrid:20261108T000000
+UID:31d1e4911103cc841127254d7a28413330d27680ff9a38fdc41fa168ec150c7a
+CATEGORIES:exhibition
+DESCRIPTION:Por séptimo año consecutivo\, el teatro se une a las celebra
+ ciones del Día de Muertos con la instalación de un altar (Fernán Gómez
+  Centro Cultural de la Villa. 20 oct a 8 nov).\n\nhttps://www.teatrofernan
+ gomez.es/actividades/altar-dia-de-muertos-2026
+LOCATION:Teatro Fernán Gómez. Centro Cultural de la Villa - de Colón \,
+  4\, Madrid\, 28001
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Borges: El otro\, el mismo
 DTSTART;TZID=Europe/Madrid:20261020T000000
 DTEND;TZID=Europe/Madrid:20261107T000000
@@ -1343,8 +1356,8 @@ UID:3e7a491f2a43370663923208ea84de99b10f90990fd9824ce4bdc009a3a4373d
 CATEGORIES:exhibition
 DESCRIPTION:Una exposición que pretende arrojar nueva luz a la heterogén
  ea y prolífica obra de Salvador Dalí (Museo Nacional Thyssen-Bornemisza.
-  20 oct a 24 ene).\n\nhttps://www.museothyssen.org/exposiciones/universo-f
- reudiano-dali
+  Hasta 24 ene).\n\nhttps://www.museothyssen.org/exposiciones/universo-freu
+ diano-dali
 LOCATION:Museo Nacional Thyssen-Bornemisza - del Prado\, 8\, Madrid\, 2801
  4
 END:VEVENT
@@ -1444,7 +1457,7 @@ UID:3ca183e3bb1f98ccae78164e044ba3f80fda8c628bb92790f7ad66f5210a30bc
 CATEGORIES:exhibition
 DESCRIPTION:Teresa Moro retrata en la ciudad la intimidad de los talleres 
  y estudios de artistas de la escena madrileña (CentroCentro. 28 oct a 18 
- abr 2027).\n\nhttps://www.centrocentro.org/exposicion/teresa-moro
+ abr).\n\nhttps://www.centrocentro.org/exposicion/teresa-moro
 LOCATION:CentroCentro - de Cibeles\, 1\, Madrid\, 28014
 END:VEVENT
 BEGIN:VEVENT
@@ -1501,8 +1514,8 @@ UID:6183a1d0b1d709e357c275c771dd28ae2bee092ecf892edc6b87330fdb030648
 CATEGORIES:exhibition
 DESCRIPTION:Una muestra que repasa tres décadas de trayectoria de una de 
  las diseñadoras de joyas más destacadas del panorama español (Museo de 
- Artes Decorativas. 29 oct a 31 ene 2027).\n\nhttps://www.cultura.gob.es/mn
- artesdecorativas/exposiciones/proximas-exposiciones.html
+ Artes Decorativas. 29 oct a 31 ene).\n\nhttps://www.cultura.gob.es/mnartes
+ decorativas/exposiciones/proximas-exposiciones.html
 LOCATION:Museo Nacional de Artes Decorativas - de Montalbán\, 12\, Madrid
  \, 28014
 END:VEVENT
@@ -1518,6 +1531,18 @@ DESCRIPTION:La dictadura y la memoria argentina se muestran en la ciudad d
  t a 21 mar).\n\nhttps://www.cultura.gob.es/museodeamerica/exposiciones/exp
  osiciones-temporales/2026-fotografia-argentina-longoni.html
 LOCATION:Museo de América - de los Reyes Católicos\, 6\, Madrid\, 28040
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La moda a tus pies
+DTSTART;TZID=Europe/Madrid:20261029T000000
+DTEND;TZID=Europe/Madrid:20270131T000000
+UID:2feaf5f345d852d29b02c12e09fa7df879dcc167715358981b7d6b90a2fe7c85
+CATEGORIES:exhibition
+DESCRIPTION:Exposición que reúne creaciones de calzado contemporáneo in
+ spiradas en la historia de la moda española (Museo del Traje. 29 oct a 31
+  ene).\n\nhttps://www.cultura.gob.es/mtraje/exposicion/permanente/la-moda-
+ a-tus-pies.html
+LOCATION:Museo del Traje - de Juan de Herrera\, 2\, Madrid\, 28040
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Samhain\, un portal entre dos mundos. Cruza al origen de Halloween
@@ -1537,9 +1562,9 @@ DTEND;TZID=Europe/Madrid:20270131T000000
 UID:7f9352f9e0384afa21ea11ec0d40925ef71d1e632a2f0cee4c34c9800641d397
 CATEGORIES:exhibition
 DESCRIPTION:Exposición retrospectiva sobre la obra gráfica\, poética y 
- vital de la creadora (Museo del Romanticismo. 30 oct a 31 ene 2027).\n\nht
- tps://www.cultura.gob.es/mromanticismo/programacion/exposiciones/actuales/
- roberta-marrero-navaja-herida.html
+ vital de la creadora (Museo del Romanticismo. 30 oct a 31 ene).\n\nhttps:/
+ /www.cultura.gob.es/mromanticismo/programacion/exposiciones/actuales/rober
+ ta-marrero-navaja-herida.html
 LOCATION:Museo del Romanticismo - de San Mateo\, 13\, Madrid\, 28004
 END:VEVENT
 BEGIN:VEVENT
@@ -1550,7 +1575,7 @@ UID:0cb1a2b26acc94f3d5b4dfb23b0315e9b53bb378426e15e88f4a7f52bddaea75
 CATEGORIES:exhibition
 DESCRIPTION:Décima edición de este encuentro que reúne las mejores expr
  esiones del diseño reciente de Latinoamérica\, España y Portugal (Centr
- al de diseño - Matadero. 2 a 7 noviembre).\n\nhttps://bid-dimad.com/
+ al de diseño - Matadero. 2 a 7 nov).\n\nhttps://bid-dimad.com/
 LOCATION:Central de diseño (Matadero) - de la Chopera\, 14\, Madrid\, 280
  45
 END:VEVENT
@@ -1576,5 +1601,29 @@ DESCRIPTION:Exposición de arte contemporáneo que reúne a 26 artistas de
  spaña (Casa de América. 4 nov a 15 dic).\n\nhttps://www.casamerica.es/ex
  posiciones/amame-como-soy
 LOCATION:Casa de América - de Cibeles\, 2\, Madrid\, 28014
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bendiciones desde abajo. Dima Srouji
+DTSTART;TZID=Europe/Madrid:20261105T000000
+DTEND;TZID=Europe/Madrid:20270110T000000
+UID:453eb7924dc93de37d183a291440ece6fa83949c14dd3baa7d7c2256f1d8883a
+CATEGORIES:exhibition
+DESCRIPTION:La artista palestina Dima Srouji presenta una exposición en v
+ idrio inspirada en la artesanía tradicional (La Casa Encendida. 5 nov a 1
+ 0 ene).\n\nhttps://www.lacasaencendida.es/exposiciones/bendiciones-desde-a
+ bajo-dima-srouji
+LOCATION:La Casa Encendida - de Valencia\, 2\, Madrid\, 28012
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Miguel Ángel Rojas. La noche
+DTSTART;TZID=Europe/Madrid:20261111T000000
+DTEND;TZID=Europe/Madrid:20270315T000000
+UID:1127b852ce467664b8ef5b88289fe0c6e0474a3dc21155ce0d1f6acc46d1d645
+CATEGORIES:exhibition
+DESCRIPTION:Una selección de las principales obras de la carrera del cons
+ iderado como uno de los artistas más importantes de la escena latinoameri
+ cana (Museo Reina Sofía. 11 nov a 15 mar).\n\nhttps://www.esmadrid.com/ag
+ enda/miguel-angel-rojas-noche-museo-reina-sofia
+LOCATION:Museo Reina Sofía - de Santa Isabel\, 52\, Madrid\, 28012
 END:VEVENT
 END:VCALENDAR
