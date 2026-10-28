@@ -2,6 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Delicias//ES
 BEGIN:VEVENT
+SUMMARY:Mercado Productores Planetario
+DTSTART;TZID=Europe/Madrid:20261101T100000
+DTEND;TZID=Europe/Madrid:20261101T160000
+UID:1cdd8bb83cf922a507b7f976a57a1795e45365d6689f242e22d6b04b7f493cbe
+CATEGORIES:market
+DESCRIPTION:Mercado de productores locales y artesanos en Planetario con a
+ limentacion sostenible\, productos de cercania y actividades al aire libre
+ .\n\nhttps://mercadoproductores.es/mp-planetario/
+LOCATION:Mercado Productores Planetario - Avenida del Planetario esquina C
+ alle Meneses\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Mercado Productores Alcobendas
 DTSTART;TZID=Europe/Madrid:20261108T100000
 DTEND;TZID=Europe/Madrid:20261108T160000

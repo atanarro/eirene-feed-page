@@ -2,34 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Delicias//ES
 BEGIN:VEVENT
-SUMMARY:Presentación Libro Sabores son saberes
-DTSTART;TZID=Europe/Madrid:20261027T190000
-DTEND;TZID=Europe/Madrid:20261027T203000
-UID:ad16dbee99eee86f2c32d90cd4ad49010a7503a1e450c76c3cef30fd55aeed10
-CATEGORIES:talk
-DESCRIPTION:Espacio: Cocina Plató\n\nEl\n\n27 de octubre\n\n\, de 19 a 20
- .30 h\, te esperamos en Infinito Delicias para presentar\n\nSabores son sa
- beres\n\n[Merendar]\n\n\, un libro hecho en la cocina\, a la hora de la me
- rienda.\n\nLlegamos hasta aquí después de ocho sesiones en las que nos r
- eunimos para cocinar\, comer\, leer y conversar. Este laboratorio de exper
- imentación colectiva pensado y desarrollado por Diana Delgado-Ureña y Ja
- ime Vallaure quiere explorar lo que sabemos con el cuerpo\, sin saber que 
- lo sabemos.\n\n¿Qué sabores te transportan a otros tiempos y lugares? ¿
- Qué gestos aprendiste que conectan comida y afectos? Entre poemas\, dibuj
- os\, recetas\, conversaciones y prácticas artísticas\, este libro recoge
-  lo que fue apareciendo gracias a la generosidad de un trabajo colectivo a
- lrededor de la mesa.\n\nLos plátanos de Canarias\, la pasta de guayaba de
-  Colombia o los paparajotes murcianos nos trajeron otras cocinas\, el recu
- erdo de las personas que nos enseñaron y la posibilidad de compartirlo co
- mo parte de quienes somos.\n\nAhora presentamos este libro y dejamos reson
- ar las preguntas que lo atraviesan. Te invitamos a conocer esta publicaci
- ón y a conversar sobre la cocina como espacio de creación\, escucha y en
- cuentro.\n\nhttps://www.infinitodelicias.com/es/agenda/presentacion-libro-
- sabores-son-saberes
-LOCATION:Infinito Delicias - C. de Juana Dona\, 5\, Arganzuela\, 28045 Mad
- rid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Vacunación y salud cardiovascular: la necesidad de la prevención
   a lo largo de la vida
 DTSTART;TZID=Europe/Madrid:20261028T140000
@@ -77,11 +49,12 @@ DTEND;TZID=Europe/Madrid:20261028T190000
 UID:605cfe9fca2170a67e78c4aad4d9dd6e47343f078440aad98485b53b6852e6c3
 CATEGORIES:talk
 DESCRIPTION:El aforo será limitado\, le rogamos que registre su participa
- ción en el enlace: Inscribirse. \n \nIntervienen: Joaquín Goyache Goñi
- \,  rector UCM y  Natalia Abuín Vences\, Vicerrectora de Comunicación 
- de la Universidad Complutense de Madrid y Directora de los Cursos de Veran
- o. Cátedra Mayor. 19:00.\n\nhttps://ateneodemadrid.com/evento/networking-
- day-clausura-de-la-universidad-complutense/
+ ción en el enlace: Inscribirse. \n \nIntervienen: Natalia Abuín Vences\,
+  Vicerrectora de Comunicación de la Universidad Complutense de Madrid y D
+ irectora de los Cursos de Verano Y María Concepción García Gómez\, Vic
+ errectora de Formación Permanente\, Empleabilidad y Emprendimiento. Cáte
+ dra Mayor. 19:00.\n\nhttps://ateneodemadrid.com/evento/networking-day-clau
+ sura-de-la-universidad-complutense/
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -568,6 +541,20 @@ DESCRIPTION:Presentación del libro.  \n \nSección de Ciencias Históric
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Territorio y prosperidad
+DTSTART;TZID=Europe/Madrid:20261103T183000
+DTEND;TZID=Europe/Madrid:20261103T183000
+UID:9f4e98cde61602c9b8e1f4ca16b9efc1249f92ffb553324d9da9f96deb96bc2e
+CATEGORIES:talk
+DESCRIPTION:Sección Medio Ambiente. Presentación: Alex Cortés\, Javier 
+ Dorado\, Santiago Calvo. Mesa: José María Castilla\, Carmen Quintanilla
+ \, Alberto Herrero\, Mercedes Burguillo. Modera: Hajar El Mansouri. Clausu
+ ra: Isabel García\, Ex-Ministra de Agricultura y Pesca\, Alimentación y 
+ Medio Ambiente. Sala Pérez Galdós. 19:00.\n\nhttps://ateneodemadrid.com/
+ evento/territorio-y-prosperidad/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Cajal y la anatomía patológica
 DTSTART;TZID=Europe/Madrid:20261103T190000
 DTEND;TZID=Europe/Madrid:20261103T190000
@@ -576,20 +563,6 @@ CATEGORIES:talk
 DESCRIPTION:El éxito y la vejez. \n \nSección de Ciencias de la Salud. I
  nterviene: Julio Rodríguez Costa. Salón Ciudad de Úbeda. 19:00.\n\nhttp
  s://ateneodemadrid.com/evento/cajal-y-la-anatomia-patologica/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Territorio y prosperidad
-DTSTART;TZID=Europe/Madrid:20261103T190000
-DTEND;TZID=Europe/Madrid:20261103T190000
-UID:6e00aadc2b9b541100cc44849f798be9f3089209c64863354bf63c006f76686e
-CATEGORIES:talk
-DESCRIPTION:Sección Medio Ambiente. Presentación tribuna y legados: Javi
- er Dorado\; Alex Cortés. Presentación paper y think tank: Santiago Calvo
- . Mesa: María Morales Medina\, Judith Arnal\, Cristina Monje\, José Áng
- el Alonso. Modera: Hajar El Mansouri. Cierre: Joan Groizard – Secretario
-  de Estado de Energía. Sala Sala Pérez Galdós. 19:00.\n\nhttps://ateneo
- demadrid.com/evento/territorio-y-prosperidad/
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
