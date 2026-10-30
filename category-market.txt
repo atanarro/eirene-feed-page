@@ -1,5 +1,5 @@
 Eirene feed debug
-Total events: 4
+Total events: 5
 
 [1] Feria de Artesanía de Recoletos
   id: 89aad1a09820c7cd94f2921665797f61430c60f4b1630f03bba3025dbb4de763
@@ -12,7 +12,18 @@ Total events: 4
   url: https://amoa.es/
   description: Feria de artesanía organizada por AMOA en el Paseo de Recoletos con puestos de oficios artesanos y diseño.
 
-[2] Mercadillo de Minerales de la Escuela de Minas
+[2] Mercado Productores Planetario
+  id: 1cdd8bb83cf922a507b7f976a57a1795e45365d6689f242e22d6b04b7f493cbe
+  start: 2026-11-01T10:00:00+01:00
+  end: 2026-11-01T16:00:00+01:00
+  category: market
+  source: mercado_productores
+  location: Mercado Productores Planetario - Avenida del Planetario esquina Calle Meneses, Madrid
+  coordinates: 40.392053, -3.679427
+  url: https://mercadoproductores.es/mp-planetario/
+  description: Mercado de productores locales y artesanos en Planetario con alimentacion sostenible, productos de cercania y actividades al aire libre.
+
+[3] Mercadillo de Minerales de la Escuela de Minas
   id: 5cdcf945a61ad0d5d2d0f8c934a01300fda53ed7923297424f32b415394bcc02
   start: 2026-11-01T10:00:00+01:00
   end: 2026-11-01T14:00:00+01:00
@@ -23,7 +34,7 @@ Total events: 4
   url: https://www.esmadrid.com/agenda/mercadillo-minerales-madrid-escuela-superior-ingenieros-minas
   description: Mercadillo de minerales, fosiles, gemas y conchas en la Escuela Superior de Ingenieros de Minas (primer domingo de cada mes, excepto agosto).
 
-[3] Mercado de las Ranas
+[4] Mercado de las Ranas
   id: 0460057d6fa83029e827a103cc63eeb81c306e8bb4881d0060a1c2d556c6275d
   start: 2026-11-07T12:00:00+01:00
   end: 2026-11-07T20:00:00+01:00
@@ -34,7 +45,7 @@ Total events: 4
   url: https://barrioletras.com/mercado-de-las-ranas/
   description: Mercado del Barrio de las Letras con puestos de artesanía, diseño, moda y gastronomía en la calle Huertas.
 
-[4] Mercado Productores Alcobendas
+[5] Mercado Productores Alcobendas
   id: cc792c29b878e4b531d5b44ff82747f34f37c7f51e96b0b3b9e1c6a83c2522b8
   start: 2026-11-08T10:00:00+01:00
   end: 2026-11-08T16:00:00+01:00

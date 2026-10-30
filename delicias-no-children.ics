@@ -972,10 +972,22 @@ DESCRIPTION:Una exposición que ofrece un viaje a la Irlanda ancestral de
 LOCATION:Nomad Museo Inmersivo - Gran Vía\, 78\, Madrid\, 28013
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Roberta Marrero. Yo soy la navaja y la herida
+DTSTART;TZID=Europe/Madrid:20261030T000000
+DTEND;TZID=Europe/Madrid:20270131T000000
+UID:7f9352f9e0384afa21ea11ec0d40925ef71d1e632a2f0cee4c34c9800641d397
+CATEGORIES:exhibition
+DESCRIPTION:Exposición retrospectiva sobre la obra gráfica\, poética y 
+ vital de la creadora (Museo del Romanticismo. 30 oct a 31 ene).\n\nhttps:/
+ /www.cultura.gob.es/mromanticismo/programacion/exposiciones/actuales/rober
+ ta-marrero-navaja-herida.html
+LOCATION:Museo del Romanticismo - de San Mateo\, 13\, Madrid\, 28004
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Verborrea
-DTSTART;TZID=Europe/Madrid:20261029T000000
+DTSTART;TZID=Europe/Madrid:20261030T000000
 DTEND;TZID=Europe/Madrid:20261101T235900
-UID:b5717bc4e155ab42efa309b5b0228b91bad4e81f14d2575b6747f82dac41f476
+UID:0d7d32c8ce85056b88e54d32f966960dcb9eb688d62f9387ba25333bcea4adbb
 CATEGORIES:theater
 DESCRIPTION:“QUIZÁ VAMOS A CANTAR COMO LAS RATAS” Hay acontecimientos
   cuya probabilidad es tan pequeña que parecen sacados de una película. A
@@ -998,785 +1010,6 @@ DESCRIPTION:“QUIZÁ VAMOS A CANTAR COMO LAS RATAS” Hay acontecimientos
  a que sí ha ocurrido. Pilar G. Almansa Dramaturgista de la temporada 26/2
  7 | Tags: JOBO\n\nhttps://tienda.madrid-destino.com/es/nave-10/verborrea/
 LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESTUDIOS DE CINE con Alejandro Mucientes
-DTSTART;TZID=Europe/Madrid:20261029T110000
-UID:d55a8e4ce28b88b50c48c7cd4894ea871da7d479e8fb57961beae70347d699d5
-CATEGORIES:workshop
-DESCRIPTION:Sala 2 | Entradas: https://www.giglon.com/todos?idEvent=estudi
- os-de-cine-con-alejandro-mucientes\n\nhttps://artisticmetropol.es/sesion/s
- ala-2-estudios-de-cine-con-alejandro-mucientes-15/
-LOCATION:Artistic Metropol - Cigarreras\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La invitación
-DTSTART;TZID=Europe/Madrid:20261029T120000
-DTEND;TZID=Europe/Madrid:20261029T134800
-UID:685e5f6b9bb0640be30ef1011dde8776a564c97a2605b34e20bc03feec04961b
-CATEGORIES:cinema
-DESCRIPTION:Una pareja invita a los vecinos a su casa\, lo que desencadena
-  una velada llena de giros inesperados\, revelando emociones profundamente
-  reprimidas y una sexualidad inexplorada en esta historia que explora las 
- complejidades de las relaciones de hoy en día. Basada en la obra de teatr
- o Cesc Gay 'Los vecinos de arriba'\, que dio origen a su película 'Sentim
- ental'\n\nOriginal title: The Invite\n\nRelease year: 2026\n\nOriginal lan
- guage: EN\n\nAudio: VOSE\n\nhttps://cinesembajadores.es/pelicula/sesion-te
- ta-la-invitacion-vose/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Arriba Tutto
-DTSTART;TZID=Europe/Madrid:20261029T155000
-UID:a9d76b3638198c58425331c721f6d4a746e08551b6210799090fb782ab4f06de
-CATEGORIES:cinema
-DESCRIPTION:Versión Original Castellano | Duración 102 minutos | No reco
- mendada para menores de 12 años\n\nRelease year: 2026\n\nOriginal languag
- e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1093253/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Arriba Tutto
-DTSTART;TZID=Europe/Madrid:20261029T160000
-DTEND;TZID=Europe/Madrid:20261029T173800
-UID:7bda2320db0af67757f7dace8cdfb5d776e7ad370d27152e094458625ad3ba47
-CATEGORIES:cinema
-DESCRIPTION:1905. La feliz infancia de Michi\, un niño de siete años fin
- aliza bruscamente con la violenta muerte de su padre\, un artista ambulant
- e que ha enseñado al pequeño a ver la magia y el humor en cada rincón d
- e la vida. Pasados los años\, Michi se ha convertido en un hombre amargad
- o\, violento y consumido por el rencor. Una asombrosa aparición y el reen
- cuentro con Conchita\, su amor de la niñez le ayudará a recuperar el par
- aíso perdido y la transgresora visión del mundo que le inculcó su padre
- . Convertido en un hombre nuevo\, el destino le llevará a vivir una avent
- ura en la que intentará cumplir la promesa de amor que una vez le hizo a 
- la niña.\n\nRelease year: 2026\n\nOriginal language: ES\n\nhttps://cinese
- mbajadores.es/pelicula/arriba-tutto/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La voz quebrada
-DTSTART;TZID=Europe/Madrid:20261029T160000
-DTEND;TZID=Europe/Madrid:20261029T172800
-UID:b322a16060a90c53eee20e9ba46a330c7fd3691463281fb1c035e83d389c64b6
-CATEGORIES:cinema
-DESCRIPTION:En el verano de 1936\, Federico García Lorca y el joven Juan 
- Ramírez de Lucas proyectaban abandonar España y empezar una nueva vida l
- ejos de una sociedad que les obligaba a vivir su relación en secreto. Aqu
- el viaje nunca llegó a producirse. Semanas después\, Lorca fue asesinado
-  en Granada\, al comienzo de la Guerra Civil. Noventa años más tarde\, "
- La voz quebrada" recupera aquella historia truncada y se adentra en una di
- mensión íntima y amorosa de Lorca vinculada a sus últimos meses de vida
- \, hasta ahora apenas accesible desde fuentes directas.\n\nRelease year: 2
- 026\n\nOriginal language: ES\n\nhttps://cinesembajadores.es/pelicula/la-vo
- z-quebrada/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blue Heron
-DTSTART;TZID=Europe/Madrid:20261029T160000
-UID:8d0be84eb59d62fe0b037cc6a77e41670cc87c506fd2a53d5e3479395d5ff612
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 91 minu
- tos | No recomendada para menores de 12 años\n\nRelease year: 2026\n\nOri
- ginal language: EN\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1093366
- /
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chopin
-DTSTART;TZID=Europe/Madrid:20261029T160000
-UID:300c0b5abc2dc6f4ff0788b5115072d8e821a2bee7f0e65365f72ff4657d8033
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 113 min
- utos | No recomendada para menores de 12 años\n\nOriginal title: Chopin\,
-  Chopin!\n\nRelease year: 2025\n\nOriginal language: PL\n\nAudio: VOSE\n\n
- https://www.pillalas.com/pase/1093365/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Vida De Una Mujer
-DTSTART;TZID=Europe/Madrid:20261029T160000
-UID:a8c70145a9ca8b90da94517c58bb2f2e233410ad859e8aeda05c9229f347f6bd
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 99 minu
- tos | No recomendada para menores de 12 años\n\nOriginal title: La vie d'
- une femme\n\nRelease year: 2026\n\nOriginal language: FR\n\nAudio: VOSE\n
- \nhttps://www.pillalas.com/pase/1093310/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Naza
-DTSTART;TZID=Europe/Madrid:20261029T160000
-UID:b0037753330c3de4ac0e12c1dab3ac81c69d341a005b12e2e44114b038a5bdb8
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 77 minu
- tos | No recomendada para menores de 16 años\n\nRelease year: 2026\n\nOri
- ginal language: EN\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1093309
- /
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sala 1: Xy9
-DTSTART;TZID=Europe/Madrid:20261029T160000
-UID:d0cd5fc30b82f72b282f44bb3fa684bcb228ac9d83d8a86c5605b6ebcfd730cd
-CATEGORIES:cinema
-DESCRIPTION:Año 2025 | Sala 1 | Entradas: https://www.giglon.com/todos?id
- Event=xy9-2025\n\nhttps://artisticmetropol.es/sesion/sala-1-sala-1-xy9-202
- 5-2/
-LOCATION:Artistic Metropol - Cigarreras\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ceniza En La Boca
-DTSTART;TZID=Europe/Madrid:20261029T160000
-DTEND;TZID=Europe/Madrid:20261029T173300
-UID:312e91cbb8d485103ea93eacca612b214429286da3daa3304a04c0c975905744
-CATEGORIES:cinema
-DESCRIPTION:En busca de una vida mejor\, Lucila viaja con su hermano Diego
-  desde México para encontrarse con su madre en Madrid\, quien lleva ahí 
- ocho años trabajando ilegalmente para mantenerlos. Al llegar\, la vida qu
- e los espera resulta más dura de lo que imaginaban. | Dirección: Diego L
- una | Duración 93 minutos | Drama | Año 2026 | Sala 2 | Entradas: https:
- //www.giglon.com/todos?idEvent=cenizaa-en-la-boca-2026\n\nRelease year: 20
- 26\n\nOriginal language: ES\n\nhttps://artisticmetropol.es/sesion/sala-2-c
- eniza-en-la-boca-2026-14/
-LOCATION:Artistic Metropol - Cigarreras\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La bola negra
-DTSTART;TZID=Europe/Madrid:20261029T163000
-DTEND;TZID=Europe/Madrid:20261029T190900
-UID:a36d326f17dd47b5a6bbe6156070a1b455f50d6ed73169e66ab6ab42826dfe9f
-CATEGORIES:cinema
-DESCRIPTION:Las vidas interconectadas de tres hombres en tres épocas dist
- intas. Tres existencias íntimamente ligadas por la sexualidad y el deseo
- \, el dolor y la herencia\; y una de las últimas obras\, inacabada\, de F
- ederico García Lorca.\n\nRelease year: 2026\n\nOriginal language: ES\n\nh
- ttps://cinesembajadores.es/pelicula/la-bola-negra/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:De la uva a la piel. Fuerza vegetal. Coherencia botánica aplicada
-DTSTART;TZID=Europe/Madrid:20261029T170000
-DTEND;TZID=Europe/Madrid:20261029T200000
-UID:e52d3706238ca3e07b96d0bd745f1c02a694dd01364a4bebe968a0343692a19a
-CATEGORIES:workshop
-DESCRIPTION:Espacio: Cocina Plató\n\nTaller de cosmética natural con Pip
- i\, del proyecto Fuerza Vegetal\, que combina conocimientos botánicos y s
- aberes tradicionales para explorar las posibilidades de las plantas en el 
- cuidado personal.\n\nEn este taller aprovecharemos los hollejos de la uva 
- utilizados para elaborar el vino de Mano Vuelta para preparar una crema fa
- cial. A partir de un aceite macerado durante 40 días con los restos de la
-  vendimia\, elaboraremos una crema incorporando ingredientes naturales.\n
- \nMano vuelta\n\nes un proyecto impulsado por Paisanaje dentro de Delicias
-  Arte y Alimentación\, un programa de la Fundación Daniel y Nina Carasso
-  para Infinito Delicias que refuerza su compromiso con la conexión entre 
- cultura\, ecología y alimentación para construir un futuro más justo y 
- sostenible.\n\nPaisanaje\n\nes un colectivo de exploración y acción que 
- investiga formas de imaginar futuros más esperanzadores a través de prá
- cticas vinculadas a la soberanía alimentaria\, las transiciones urbanas\,
-  la recuperación de saberes tradicionales y la celebración de lo común.
-  Su trabajo se materializa en acciones cotidianas como paseos colectivos\,
-  comidas compartidas\, talleres o publicaciones entre otros\, entendiendo 
- la cultura como una herramienta para transformar nuestra relación con el 
- territorio y la comunidad.\n\nhttps://www.infinitodelicias.com/es/agenda/d
- e-la-uva-a-la-piel-paisanaje
-LOCATION:Infinito Delicias - C. de Juana Dona\, 5\, Arganzuela\, 28045 Mad
- rid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blue Heron
-DTSTART;TZID=Europe/Madrid:20261029T170000
-DTEND;TZID=Europe/Madrid:20261029T183100
-UID:91ca5cc20095dbd68af9a681d0ba973023e5a273b0837a8d2dce5bfc9e9a5977
-CATEGORIES:cinema
-DESCRIPTION:A finales de los años 90\, Sasha\, una niña de ocho años\, 
- y su familia se mudan a una nueva casa en la isla de Vancouver. Esta nueva
-  vida se verá afectada por el comportamiento cada vez más impredecible d
- e Jeremy\, el hijo mayor. Desesperados\, sus padres se enfrentarán a una 
- decisión complicada. | Dirección: Sophy Romvari | Hungría / Canadá\, 2
- 026 | Duración 91 minutos | Versión VOSE | Estreno\n\nRelease year: 2026
- \n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://www.circulobellasartes
- .com/ciclos-cine/peliculas/blue-heron/
-LOCATION:Cine Estudio Circulo de Bellas Artes - Marques de Casa Riera\, 4
- \, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Renovación. Después Del Amor
-DTSTART;TZID=Europe/Madrid:20261029T171500
-DTEND;TZID=Europe/Madrid:20261029T183500
-UID:b0623dc007f92b2ea0f2b9dc092081b8a7c7490b8c39d6937be854b2ca1e02db
-CATEGORIES:cinema
-DESCRIPTION:Ilona\,periodista de 29 años\, decide dar un paso hacia la es
- tabilidad y empezar a vivir con su novio. Pero la aparición de Oleg\, un 
- obrero y artista ucraniano que trabaja en la reforma de su edificio\, desp
- ierta en ella sentimientos inesperados y hace tambalear los cimientos de s
- u relación. Tras decirle impulsivamente que es poeta\, Ilona comienza a e
- scribir poesía y descubre una nueva forma de expresar sus dudas\, deseos 
- y contradicciones. Dividida entre la seguridad de la vida que ha construid
- o y la necesidad de explorar lo que realmente siente\, deberá cuestionar 
- sus certezas sobre el amor y el futuro. Rodada en Super 16 mm\, Gabrielė 
- Urbonaitė retrata con sensibilidad e ironía la crisis sentimental y exis
- tencial de una generación en una Europa marcada por la incertidumbre y la
-  guerra de Ucrania. V.O.S.E. | Dirección: Gabrielė Urbonaitė . | Duraci
- ón 80 minutos | Drama | Año 2025 | V.O.S.E. | Sala 1 | Entradas: https:/
- /www.giglon.com/todos?idEvent=renovacion-despues-del-amor-2025-vose\n\nAud
- io: VOSE\n\nhttps://artisticmetropol.es/sesion/sala-1-renovacion-despues-d
- el-amor-2025-v-o-s-e-2/
-LOCATION:Artistic Metropol - Cigarreras\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La madrastra
-DTSTART;TZID=Europe/Madrid:20261029T173000
-UID:2f60bbbacdd546fd9b9b20a6d8e998d046d8e5f6652962eb411d661b5caeab8a
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Jueves 29 de octubre a las 17:30h (Sala 1. DIÁL
- OGOS INTERGENERACIONALES. ENVEJECER EN LA PANTALLA) *Aunque las entradas a
- parezcan como agotadas en web\, pueden adquirirse en taquilla entradas par
- a las sesiones del día (de 17h a 20h)\n\nRelease year: 1960\n\nOriginal l
- anguage: ES\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/productos/des
- cripcion/la-madrastra
-LOCATION:Filmoteca Espanola - Cine Dore - Calle de Santa Isabel\, 3\, Madr
- id
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Bola Negra
-DTSTART;TZID=Europe/Madrid:20261029T174000
-UID:f66b2722a286cb8225ae4bafe0bb1d141485ad6c67b430b3ebf58c50609fa890
-CATEGORIES:cinema
-DESCRIPTION:Versión Original Castellano | Duración 155 minutos | No reco
- mendada para menores de 16 años\n\nRelease year: 2026\n\nOriginal languag
- e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1093311/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La bola negra
-DTSTART;TZID=Europe/Madrid:20261029T174500
-DTEND;TZID=Europe/Madrid:20261029T202400
-UID:c824650294907264a28f90b3c8d6e2ac92b0f301bb79d578f0b807f24f435f8c
-CATEGORIES:cinema
-DESCRIPTION:Las vidas interconectadas de tres hombres en tres épocas dist
- intas. Tres existencias íntimamente ligadas por la sexualidad y el deseo
- \, el dolor y la herencia\; y una de las últimas obras\, inacabada\, de F
- ederico García Lorca.\n\nRelease year: 2026\n\nOriginal language: ES\n\nh
- ttps://cinesembajadores.es/pelicula/la-bola-negra/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Arriba Tutto
-DTSTART;TZID=Europe/Madrid:20261029T175000
-UID:d24d6e8d449d0a3dba48f1c57bbb12cfa738abd159b3f073e59504d1fb7fbeff
-CATEGORIES:cinema
-DESCRIPTION:Versión Original Castellano | Duración 102 minutos | No reco
- mendada para menores de 12 años\n\nRelease year: 2026\n\nOriginal languag
- e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1093254/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Terminal Young
-DTSTART;TZID=Europe/Madrid:20261029T180000
-UID:a3b1801c611159e0c98d63ac40c696b50e61012fd37550231b164a732c9f144a
-CATEGORIES:cinema
-DESCRIPTION:Una mujer que sufrió un incidente grave con una tenista viole
- nta comienza a salir con el músico de jazz Ramos Mejía\, retraído e ins
- eguro\, y ella comienza a sentirse más fuerte y contenta con todo.\n\nRel
- ease year: 2023\n\nOriginal language: ES\n\nhttps://www.cinetecamadrid.com
- /programacion/terminal-young
-LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Taller 'Hechos de otros cuerpos'
-DTSTART;TZID=Europe/Madrid:20261029T180000
-UID:b42fe4fb97eb36fa813217e35002425bc93e6c5766f6b67ded4da7ec21e06a96
-CATEGORIES:theater
-DESCRIPTION:Este taller\, impartido por Jon López\, codirector de Led Sil
- houette\, ofrecerá una introducción al trabajo físico de la compañía 
- y a las herramientas de movimiento específicas desarrolladas durante el p
- roceso creativo de la pieza ULTIMATUM \, así como a la idea y la dramatur
- gia que hay detrás de la obra. A través de pautas y ejercicios práctico
- s\, se trabajará en la creación de material coreográfico y en la constr
- ucción de escenas\, transmitiendo el estilo particular de Led Silhouette 
- y facilitando la comprensión y la práctica de la danza\, al tiempo que s
- e incentiva la creatividad de las personas participantes.\n\nhttps://www.m
- ataderomadrid.org/programacion/taller-hechos-de-otros-cuerpos
-LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chopin
-DTSTART;TZID=Europe/Madrid:20261029T180000
-UID:a8a88c0bd337a99975a009725cbb47a1206b0ce70f9d34e6d521fc88141288a1
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 113 min
- utos | No recomendada para menores de 12 años\n\nOriginal title: Chopin\,
-  Chopin!\n\nRelease year: 2025\n\nOriginal language: PL\n\nAudio: VOSE\n\n
- https://www.pillalas.com/pase/1093367/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Palestina 36
-DTSTART;TZID=Europe/Madrid:20261029T180000
-DTEND;TZID=Europe/Madrid:20261029T195900
-UID:53ebfb2e7299cfdcaeaea4d4a15cd3ce7dd86f9997ff375715fb914c471acbb3
-CATEGORIES:cinema
-DESCRIPTION:Dirección: Annemarie Jacir. | Duración 119 minutos | Drama |
-  Año 2025 | Doblada al español | Sala 2 | Entradas: https://www.giglon.c
- om/todos?idEvent=palestina-36-2025-dobladaa-al-espanol\n\nOriginal title: 
- Palestine 36\n\nRelease year: 2025\n\nOriginal language: EN\n\nAudio: Dobl
- ada ES\n\nhttps://artisticmetropol.es/sesion/sala-2-palestina-36-2025-dobl
- ada-al-espanol-19/
-LOCATION:Artistic Metropol - Cigarreras\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Invitación
-DTSTART;TZID=Europe/Madrid:20261029T181000
-UID:5365840fdd692c8955fabbe26e61727a575ac3c80d8e4c86f666f27c524e0219
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 106 min
- utos | No recomendada para menores de 16 años\n\nOriginal title: The Invi
- te\n\nRelease year: 2026\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps:
- //www.pillalas.com/pase/1093368/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Naza
-DTSTART;TZID=Europe/Madrid:20261029T181000
-UID:e5016c7744b6f0a1c1cfa3875cc8e9f28f8f0d251796abe947a43f2f9cd40a4c
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 77 minu
- tos | No recomendada para menores de 16 años\n\nRelease year: 2026\n\nOri
- ginal language: EN\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1093312
- /
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Se abre el telón: En boca de artista 3
-DTSTART;TZID=Europe/Madrid:20261029T183000
-UID:9546fb8a7350bcbc9618965713e5224cca3a278c27190d2e1b34aaabda433bbc
-CATEGORIES:exhibition
-DESCRIPTION:Regresa En boca de artista\, el ciclo que pone el foco en los 
- creadores y sus procesos de trabajo. En esta ocasión\, las conversaciones
-  girarán en torno a las investigaciones que los residentes de Arte y medi
- oambiente desarrollan actualmente en el CRA. Este primer encuentro explora
- rá la botánica\, el lenguaje con el que clasificamos las flores y la his
- toria natural\, cruzando estos conceptos con la ficción especulativa y la
- s arqueologías del futuro. La primera cita será el próximo 29 de octubr
- e\, en una sesión que se dividirá en dos momentos. Ignacio García Sánc
- hez y Ana Robles Pérez comenzarán la sesión con una conversación acomp
- añados por la artista\, docente e investigadora Bárbara Fluxá. Inmersos
-  en las narrativas especulativas contemporáneas\, Ignacio y Ana\, utiliza
- n la imaginación como una herramienta crítica que abre preguntas sobre l
- a crisis ecosistémica del presente para proponernos otros futuros alterna
- tivos\, tecnologías\, sociedades y escenarios políticos o ecológicos po
- sibles\, a aquellos catastróficos que se nos proponen como inevitables. A
- l imaginar esos otros mundos\, mediante una suerte de arqueología del fut
- uro\, sus obras permiten interrogar los límites materiales\, históricos 
- y políticos del nuestro. Continuarán\, Gelen Jeleton y Mauricio Freyre c
- onversarán junto a la comisaria y profesora Claudia Rodríguez Ponga . Ge
- len Jeleton y Mauricio Freyre tienen en común una reflexión que escala a
-  partir de una semilla\, una yerba\, un hábito o narrativa de consumo. En
-  el caso de Mauricio\, desde una semilla de cinchona a su uso como antimal
- árico en expediciones de expansión colonial\, pasando por un abanico de 
- leyendas y prácticas extractivas. O\, en el caso de Gelen\, desde remedio
- s botánicos naturales a su explotación farmacológica\, con toda su gama
-  de claroscuros. De lo micro a lo macro\, en la obra de ambos artistas se 
- explora la ambivalencia entre la cura y el abuso.\n\nhttps://www.mataderom
- adrid.org/programacion/se-abre-el-telon-en-boca-de-artista-3
-LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gatos encaramados
-DTSTART;TZID=Europe/Madrid:20261029T190000
-UID:5610d609ec180dae77380cb67da9dfc4653b2021954282f82a07ee24a353c703
-CATEGORIES:cinema
-DESCRIPTION:Tras el 11 de septiembre\, un gato amarillo dibujado comienza 
- a aparecer en los muros de París\, observando la ciudad con una enigmáti
- ca sonrisa. Intrigado por esta figura\, Chris Marker emprende un viaje vis
- ual y reflexivo a través de la capital francesa\, explorando el arte urba
- no\, las protestas sociales y el estado del mundo en un tiempo de incertid
- umbre. Chats perchés es una meditación poética sobre la memoria colecti
- va\, la resistencia y la belleza inesperada en medio del caos.\n\nOriginal
-  title: Chats perchés\n\nRelease year: 2006\n\nOriginal language: FR\n\nA
- udio: VOSE\n\nhttps://www.cinetecamadrid.com/programacion/gatos-encaramado
- s-0
-LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Torre Bela
-DTSTART;TZID=Europe/Madrid:20261029T190000
-UID:c025f142bcafd51681839e5319250a006896d14de26919115af4b02bd0a6dcac
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Jueves 29 de octubre a las 19:00h (Sala 2. FUERA
-  DEL RADAR. MES DEL ARCHIVO. CINEMATECA LISBOA) *Aunque las entradas apare
- zcan como agotadas en web\, pueden adquirirse en taquilla entradas para la
- s sesiones del día (de 17h a 20h)\n\nRelease year: 1977\n\nOriginal langu
- age: PT\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/productos/descrip
- cion/torre-bela-29-oct
-LOCATION:Filmoteca Espanola - Cine Dore - Calle de Santa Isabel\, 3\, Madr
- id
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NAZA
-DTSTART;TZID=Europe/Madrid:20261029T190000
-DTEND;TZID=Europe/Madrid:20261029T202000
-UID:6161111cf0b6bd61fadf647534705dfa077232c313a8485eee6c0807d3f239f6
-CATEGORIES:cinema
-DESCRIPTION:Rodada por la noche en las azoteas de Tel Aviv\, la película 
- revela con todo detalle los sistemas ocultos tras la matanza calculada y m
- asiva de civiles palestinos en Gaza por parte de Israel. Naza es la palabr
- a utilizada por el ejército israelí para denominar a las víctimas civil
- es como 'daños colaterales'. Documental de parte del equipo de 'No Man's 
- Land'\, producido por el cineasta Jonathan Glazer y su productor James Wil
- son\, ambos responsables de La zona de interés. | Dirección: Yuval Abrah
- am\, Rachel Szor | Reino Unido\, 2026 | Duración 80 minutos | Versión VO
- SE | Estreno\n\nRelease year: 2026\n\nOriginal language: EN\n\nAudio: VOSE
- \n\nhttps://www.circulobellasartes.com/ciclos-cine/peliculas/naza/
-LOCATION:Cine Estudio Circulo de Bellas Artes - Marques de Casa Riera\, 4
- \, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:It follows
-DTSTART;TZID=Europe/Madrid:20261029T193000
-DTEND;TZID=Europe/Madrid:20261029T211000
-UID:ab023c0565d253df29bfa7dcd1ac8ca66ae83dccc4429c6694ef563476aefc0d
-CATEGORIES:cinema
-DESCRIPTION:Jay\, de 18 años\, tiene su primer encuentro sexual con su no
- vio en la parte trasera de un coche. Tras el hecho\, aparentemente inocent
- e\, la situación se pone algo tensa cuando su novio hace que ella se desm
- aye. Al despertar\, el joven le explica que lo hizo para ahuyentar a una s
- erie de espíritus que lo acosan. A partir de ese momento\, es Jay quien s
- ufrirá las consecuencias de ese acoso\, encontrándose sumergida en visio
- nes y pesadillas\; teniendo la sensación de que alguien o algo la observa
- .\n\nRelease year: 2015\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps:/
- /cinesembajadores.es/pelicula/it-follows-vose/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Taxidermia de una alondra
-DTSTART;TZID=Europe/Madrid:20261029T193000
-UID:456e400d26ffd12b3b48da0f0f26698ebff0a152c78cf5df97ad8d2cf927da3b
-CATEGORIES:theater
-DESCRIPTION:Localidades agotadas\n\nhttps://teatrodelbarrio.com/taxidermia
- -de-una-alondra/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El irreal Valerio
-DTSTART;TZID=Europe/Madrid:20261029T200000
-UID:845dd0df014e6167aa3ecb504aef57637754e82af4d401d617ea121fdfb940be
-CATEGORIES:cinema
-DESCRIPTION:Delirio visual\, colores explosivos y montajes surrealistas\, 
- todos estos conceptos valen para definir la trayectoria del protagonista d
- e este documental\, el realizador de televisión Valerio Lazarov.\n\nOrigi
- nal language: ES\n\nhttps://www.cinetecamadrid.com/programacion/el-irreal-
- valerio
-LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Los brujos inocentes
-DTSTART;TZID=Europe/Madrid:20261029T200000
-UID:fe338cc5010ceb942eb5c2c5b7a66c180ac679de9d5e1fa8de154fd28efa208a
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Jueves 29 de octubre a las 20:00h (Sala 1. ANDRZ
- EJ WAJDA: ENTRE EL MITO Y LA HISTORIA) *Aunque las entradas aparezcan como
-  agotadas en web\, pueden adquirirse en taquilla entradas para las sesione
- s del día (de 17h a 20h)\n\nhttps://entradasfilmoteca.sacatuentrada.es/es
- /productos/descripcion/los-brujos-inocentes-1
-LOCATION:Filmoteca Espanola - Cine Dore - Calle de Santa Isabel\, 3\, Madr
- id
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:JIVE MOTHER MARY
-DTSTART;TZID=Europe/Madrid:20261029T200000
-DTEND;TZID=Europe/Madrid:20261029T200000
-UID:8922ca37c3051dfdf7f72f9ce523045d5c3e4505abdf8a979f81c718682dc860
-CATEGORIES:music
-DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
-  el Área del Socio. Calle Prado\, 21. Pases: 20:00h. y 22:00h. \n \nMason
-  Keck – guitarra\, voz\nSeth Aldridge – guitarra\, voz\nWill Lowe – 
- batería \nJive Mother Mary no es ajena al trabajo duro. Es el tipo de ban
- da que se forja a través de profundas amistades\, largas horas en carrete
- ra y un sinfín de horas perfeccionando su técnica en bares llenos de hum
- o. Inmersos en la tradición del rock ’n’ roll\, Jive Mother Mary ofre
- ce un sonido cargado de sangre\, sudor y alma\, de esos que se te quedan d
- entro como una buena comida de domingo. Procedentes de Burlington\, Caroli
- na del Norte\, la banda fue formada por Mason Keck y Seth Aldridge y\, des
- de entonces\, ha desarrollado un sonido propio\, auténtico y arraigado en
-  sus orígenes. \nJive Mother Mary ha compartido escenario con bandas y ar
- tistas legendarios como ZZ Top\, Lynyrd Skynyrd\, Leon Russell\, Foreigner
- \, .38 Special\, The Drive-By Truckers\, The Wailers\, Buddy Guy\, Black S
- tone Cherry\, Whiskey Myers y Blackberry Smoke\, actuando en 35 estados y 
- 9 países. Cada vez que cogen sus instrumentos\, Mason Keck\, Seth Aldridg
- e y Will Lowe se proponen mostrar exactamente lo que sienten\, dejándolo 
- todo sobre el escenario en sus conciertos de gran energía. Su particular 
- forma de entender el rock ’n’ roll suena fresca\, pero al mismo tiempo
-  encaja de manera natural junto a las bandas clásicas que todos conocemos
-  y apreciamos. \nEscucha a Jive Mother Mary en tu plataforma de streaming 
- favorita o acércate a uno de sus conciertos: quizá acabes de descubrir a
-  tu nueva banda favorita. ¡Nos vemos en la carretera!\n\nhttps://ateneode
- madrid.com/evento/jive-mother-mary/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Arriba Tutto
-DTSTART;TZID=Europe/Madrid:20261029T200000
-UID:bba0ec5e1056d804430569d2d0547f1d12d0e17194a708d2538b3f391941a3d4
-CATEGORIES:cinema
-DESCRIPTION:Versión Original Castellano | Duración 102 minutos | No reco
- mendada para menores de 12 años\n\nRelease year: 2026\n\nOriginal languag
- e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1093313/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blue Heron
-DTSTART;TZID=Europe/Madrid:20261029T201000
-UID:b8943f6d5694ac514b41630efa63f3676e44714691a40a961a6876a1acb8f8b4
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 91 minu
- tos | No recomendada para menores de 12 años\n\nRelease year: 2026\n\nOri
- ginal language: EN\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1093369
- /
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Arriba Tutto
-DTSTART;TZID=Europe/Madrid:20261029T201500
-DTEND;TZID=Europe/Madrid:20261029T215300
-UID:73363060978be7dd056446b9f87b97b2f2faadbcf24af5d05fb35e4b3abbe532
-CATEGORIES:cinema
-DESCRIPTION:1905. La feliz infancia de Michi\, un niño de siete años fin
- aliza bruscamente con la violenta muerte de su padre\, un artista ambulant
- e que ha enseñado al pequeño a ver la magia y el humor en cada rincón d
- e la vida. Pasados los años\, Michi se ha convertido en un hombre amargad
- o\, violento y consumido por el rencor. Una asombrosa aparición y el reen
- cuentro con Conchita\, su amor de la niñez le ayudará a recuperar el par
- aíso perdido y la transgresora visión del mundo que le inculcó su padre
- . Convertido en un hombre nuevo\, el destino le llevará a vivir una avent
- ura en la que intentará cumplir la promesa de amor que una vez le hizo a 
- la niña.\n\nRelease year: 2026\n\nOriginal language: ES\n\nhttps://cinese
- mbajadores.es/pelicula/arriba-tutto/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Invitación
-DTSTART;TZID=Europe/Madrid:20261029T201500
-UID:ab69f68c5fd4a06291e2cbdc46f2e99bbe006e2156fcc005721a1d3f81515c92
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 106 min
- utos | No recomendada para menores de 16 años\n\nOriginal title: The Invi
- te\n\nRelease year: 2026\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps:
- //www.pillalas.com/pase/1093370/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fire Supply
-DTSTART;TZID=Europe/Madrid:20261029T203000
-UID:851b89315096658f66924b48870aa17a29dce5ee68ed72a730fd58186b00c261
-CATEGORIES:cinema
-DESCRIPTION:La madre de un joven de la provincia de San Juan le confiesa a
-  su hijo su admiración por Daniel\, el dueño de un centro de patinaje so
- bre hielo. Iluminado\, su hijo la invita a quedarse en Buenos Aires para c
- onocer mejor al hombre.\n\nRelease year: 2024\n\nOriginal language: ES\n\n
- https://www.cinetecamadrid.com/programacion/fire-supply
-LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DEPEDRO presentando su nuevo disco Furia y Calma
-DTSTART;TZID=Europe/Madrid:20261029T203000
-UID:1dab65e0b593279d0e954c210978aeb734f843dec8993a7c8b92ca32acc21803
-CATEGORIES:music
-DESCRIPTION:Concierto / Pop / Rock / Latin. DEPEDRO presenta con toda su b
- anda el nuevo disco en Madrid en cinco fechas únicas\, donde presentará 
- las nuevas canciones y los grandes temas icónicos de todos sus discos. La
-  cercanía de la Sala Villanos será un ingrediente más que ayudará a ro
- mper la cuarta pared y ser uno con el público. DEPEDRO Depedro es el proy
- ecto musical del madrileño Jairo Zavala\, una de las voces más singulare
- s del panorama nacional. Iniciado en 2008 con el álbum Depedro\, grabado 
- junto a la banda estadounidense Calexico\, su trayectoria se ha construido
-  desde un espíritu abierto y transfronterizo\, integrando influencias de 
- Latinoamérica\, África\, el Mediterráneo y Estados Unidos. Con una carr
- era que suma varios discos de estudio\, EPs y trabajos en directo\, Depedr
- o ha llevado su música a los cinco continentes\, con giras por Europa\, A
- mérica\, Asia y Oceanía. Su obra se caracteriza por un estilo sonoro pro
- pio y reconocible\, fruto de la colaboración con músicos de distintas cu
- lturas e idiomas. Además\, su inquietud artística le ha llevado a explor
- ar otros formatos\, como el documental Casamance\, donde profundiza en sus
-  raíces musicales en Senegal \, y el documental Fanantenana donde colabor
- a con la ONG de Granada Agua de Coco en la construcción de escuelas de m
- úsica en Madagascar. Proyectos que entienden la música como lugar de enc
- uentro y lenguaje universal.\n\nhttps://salavillanos.es/evento/depedro-pre
- sentando-su-nuevo-disco-furia-y-calma-3/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Naza
-DTSTART;TZID=Europe/Madrid:20261029T204000
-UID:7bd7dda3f4fd58608d643caba2e450b0576edfccd806780372859b42d0e63de8
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 77 minu
- tos | No recomendada para menores de 16 años\n\nRelease year: 2026\n\nOri
- ginal language: EN\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1093314
- /
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La bola negra
-DTSTART;TZID=Europe/Madrid:20261029T204500
-DTEND;TZID=Europe/Madrid:20261029T232400
-UID:47f58aa4ce09325bac21701f4f3c6fd0dbb42e93542792465c442810f044718d
-CATEGORIES:cinema
-DESCRIPTION:Las vidas interconectadas de tres hombres en tres épocas dist
- intas. Tres existencias íntimamente ligadas por la sexualidad y el deseo
- \, el dolor y la herencia\; y una de las últimas obras\, inacabada\, de F
- ederico García Lorca.\n\nRelease year: 2026\n\nOriginal language: ES\n\nh
- ttps://cinesembajadores.es/pelicula/la-bola-negra/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ozzy & Black Sabbath: Back to the Beginning
-DTSTART;TZID=Europe/Madrid:20261029T210000
-DTEND;TZID=Europe/Madrid:20261029T232700
-UID:def0542b9fc6dd20388f08014c98fa784b9a8f1a4e779674458d9b77c89ca61f
-CATEGORIES:cinema
-DESCRIPTION:Para preparar Halloween y de la Noche de Muertos y Brujas que 
- celebraremos en el Círculo el 31 de octubre\, programamos dos pases únic
- os especiales de la película concierto que recoge la última actuación e
- n directo de Ozzy Osbourne\, celebrada tan solo 17 días antes de su falle
- cimiento\, el 5 de julio de 2025\, en Birmingham\, la ciudad donde empezó
-  todo. El concierto de Villa Park supuso la reunión de la formación orig
- inal de Black Sabbath —Ozzy Osbourne\, Tony Iommi\, Geezer Butler y Bill
-  Ward—\, que volvieron a tocar juntos por primera vez en más de 20 año
- s. Una celebración irrepetible del legado de Ozzy y Black Sabbath que reu
- nió a gene-raciones de fans y a algunas de las figuras más importantes d
- el rock y el metal\, con actuaciones de Metallica\, Guns N’ Roses\, Slay
- er\, Tool\, Pantera\, Anthrax\, Alice in Chains\, Gojira y muchos más. Co
- n imágenes del concierto\, momentos entre bastidores y testimonios person
- ales de los músicos a los que inspiraron\, la película captura tanto el 
- espectáculo de aquella noche como la emoción de una despedida que hizo h
- istoria. | Dirección: Ben Wainwright-Pearce | Reino Unido\, 2026 | Duraci
- ón 147 minutos | Versión VOSE | Estreno\n\nAudio: VOSE\n\nhttps://www.ci
- rculobellasartes.com/ciclos-cine/peliculas/ozzy-black-sabbath-back-to-the-
- beginning/
-LOCATION:Cine Estudio Circulo de Bellas Artes - Marques de Casa Riera\, 4
- \, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Feliz día - SUTOTTOS
-DTSTART;TZID=Europe/Madrid:20261029T213000
-UID:871f983e8374d6e15c11645a6a3f505fbd40db7d5bc1f3906c33a4126c8cee7d
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/feliz-dia/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ozzy & Black Sabbath: Back to the beginning
-DTSTART;TZID=Europe/Madrid:20261029T220000
-DTEND;TZID=Europe/Madrid:20261030T002700
-UID:42737134e5458df2289e28738ae42c0e824e87751b9104956a627da8af6dd5c7
-CATEGORIES:cinema
-DESCRIPTION:El 5 de julio de 2025\, Ozzy Osbourne y Black Sabbath regresar
- on a Birmingham\, la ciudad donde comenzó todo\, para despedirse de los e
- scenarios con un concierto histórico en un Villa Park con todas las entra
- das agotadas.\n\nOzzy & Black Sabbath: Back to the Beginning lleva a la gr
- an pantalla la última actuación en directo de Ozzy Osbourne\, celebrada 
- tan solo 17 días antes de su fallecimiento\, y la reunión de la formaci
- ón original de Black Sabbath (Ozzy Osbourne\, Tony Iommi\, Geezer Butler 
- y Bill Ward)\, que volvió a tocar junta por primera vez en más de 20 añ
- os.\n\nUna celebración irrepetible del legado de Ozzy y Black Sabbath que
-  reunió a generaciones de fans y a algunas de las figuras más importante
- s del rock y el metal\, con actuaciones de Metallica\, Guns N’ Roses\, S
- layer\, Tool\, Pantera\, Anthrax\, Alice in Chains\, Gojira y muchos más.
- \n\nCon imágenes del concierto\, momentos entre bastidores y testimonios 
- personales de los músicos a los que inspiraron\, la película captura tan
- to la espectacularidad de aquella noche como la emoción de una despedida 
- que hizo historia.\n\nhttps://cinesembajadores.es/pelicula/ozzy-black-sabb
- ath-back-to-the-beginning/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blue Heron
-DTSTART;TZID=Europe/Madrid:20261029T220000
-UID:b546067ddebc70b90be84f9fc94ecfc35f71a3f7309466fd996aec49b450c7c4
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 91 minu
- tos | No recomendada para menores de 12 años\n\nRelease year: 2026\n\nOri
- ginal language: EN\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1093371
- /
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Invitación
-DTSTART;TZID=Europe/Madrid:20261029T220000
-UID:ed8dabc7414a5b0db581d5474156ab59882cfc0dfa335fcecec34334172eee1f
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 106 min
- utos | No recomendada para menores de 16 años\n\nOriginal title: The Invi
- te\n\nRelease year: 2026\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps:
- //www.pillalas.com/pase/1093315/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nightborn
-DTSTART;TZID=Europe/Madrid:20261029T220000
-DTEND;TZID=Europe/Madrid:20261029T233300
-UID:3f47afb36327fa2001dba37f5beeee692c4670a048017776c4bee902a8396c36
-CATEGORIES:cinema
-DESCRIPTION:Ansiosos por formar una familia\, Saga y su marido británico
- \, Jon\, se mudan a la casa aislada en lo profundo del bosque finlandés d
- onde Saga pasó gran parte de su infancia. Pero en cuanto nace su bebé\, 
- a pesar de las palabras tranquilizadoras de todos a su alrededor\, Saga sa
- be que algo anda terriblemente mal. Mientras su matrimonio se resquebraja
- \, solo Saga sospecha la inquietante verdad sobre su hijo recién nacido. 
- V.O.S.E. | Dirección: Hanna Bergholm. | Duración 93 minutos | CINE DE TE
- RROR | Año 2026 | V.O.S.E. | Sala 1 | Entradas: https://www.giglon.com/to
- dos?idEvent=nightborn-2026-vose\n\nAudio: VOSE\n\nhttps://artisticmetropol
- .es/sesion/sala-1-nightborn-2026-v-o-s-e-4/
-LOCATION:Artistic Metropol - Cigarreras\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Florida Project
-DTSTART;TZID=Europe/Madrid:20261029T221500
-DTEND;TZID=Europe/Madrid:20261030T001000
-UID:343731629b7fc5bd5e7c88396bb46cf1b8e9d38fc2533e878d9dbaa4636164ae
-CATEGORIES:cinema
-DESCRIPTION:Una niña de 6 años y sus amigos pasan el verano en un peque
- ño motel muy próximo a Disneyworld\, mientras sus padres y el resto de a
- dultos que les rodean sufren aún los efectos de la crisis.\n\nRelease yea
- r: 2017\n\nOriginal language: EN\n\nAudio: VOSE\n\nhttps://cinesembajadore
- s.es/pelicula/the-florida-project-vose/?ciudad=madrid
-LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Arriba Tutto
-DTSTART;TZID=Europe/Madrid:20261029T221500
-UID:bea082bf4db9ea074e1888ea14734e46001b7c18dd82be7933a9dcfa1002d368
-CATEGORIES:cinema
-DESCRIPTION:Versión Original Castellano | Duración 102 minutos | No reco
- mendada para menores de 12 años\n\nRelease year: 2026\n\nOriginal languag
- e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1093316/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chopin
-DTSTART;TZID=Europe/Madrid:20261029T222000
-UID:8b4effe16798e8077c1041c6faf971f74c1f672694f7b5a691bc6f79896436e7
-CATEGORIES:cinema
-DESCRIPTION:Versión Original subtitulada a Castellano | Duración 113 min
- utos | No recomendada para menores de 12 años\n\nOriginal title: Chopin\,
-  Chopin!\n\nRelease year: 2025\n\nOriginal language: PL\n\nAudio: VOSE\n\n
- https://www.pillalas.com/pase/1093372/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Roberta Marrero. Yo soy la navaja y la herida
-DTSTART;TZID=Europe/Madrid:20261030T000000
-DTEND;TZID=Europe/Madrid:20270131T000000
-UID:7f9352f9e0384afa21ea11ec0d40925ef71d1e632a2f0cee4c34c9800641d397
-CATEGORIES:exhibition
-DESCRIPTION:Exposición retrospectiva sobre la obra gráfica\, poética y 
- vital de la creadora (Museo del Romanticismo. 30 oct a 31 ene).\n\nhttps:/
- /www.cultura.gob.es/mromanticismo/programacion/exposiciones/actuales/rober
- ta-marrero-navaja-herida.html
-LOCATION:Museo del Romanticismo - de San Mateo\, 13\, Madrid\, 28004
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Arriba Tutto
@@ -2105,8 +1338,8 @@ SUMMARY:Taxidermia de una alondra
 DTSTART;TZID=Europe/Madrid:20261030T193000
 UID:e33adf5274989d18e8bc00f4f2b50fb894291c53a666bbd57542a5ea89af1b69
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 10 plazas!\n\nhttps://teatrodelbarrio.com/tax
- idermia-de-una-alondra/
+DESCRIPTION:¡Ya solo quedan 5 plazas!\n\nhttps://teatrodelbarrio.com/taxi
+ dermia-de-una-alondra/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -2622,7 +1855,7 @@ SUMMARY:Colombia en escena.
 DTSTART;TZID=Europe/Madrid:20261031T130000
 UID:a6fe8917f47ef38b50aa8ef26b21c29ada1ae59fb7c8f7f614bb42f6241b4379
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 7 plazas!\n\nhttps://teatrodelbarrio.com/colo
+DESCRIPTION:¡Ya solo quedan 6 plazas!\n\nhttps://teatrodelbarrio.com/colo
  mbia-en-escena/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
@@ -3425,6 +2658,18 @@ DESCRIPTION:Club. VAMPIROS EN LA HABANA Este Halloween\, Azuca presenta un
  a noche especial para vivir Halloween al estilo Azuca. Dress Code : Disfra
  z\n\nhttps://salavillanos.es/evento/azuca-vampiros-en-las-habana/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mercado Productores Planetario
+DTSTART;TZID=Europe/Madrid:20261101T100000
+DTEND;TZID=Europe/Madrid:20261101T160000
+UID:1cdd8bb83cf922a507b7f976a57a1795e45365d6689f242e22d6b04b7f493cbe
+CATEGORIES:market
+DESCRIPTION:Mercado de productores locales y artesanos en Planetario con a
+ limentacion sostenible\, productos de cercania y actividades al aire libre
+ .\n\nhttps://mercadoproductores.es/mp-planetario/
+LOCATION:Mercado Productores Planetario - Avenida del Planetario esquina C
+ alle Meneses\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Esas imágenes en movimiento (II)
@@ -4953,7 +4198,7 @@ BEGIN:VEVENT
 SUMMARY:Tiempos de ilusión
 DTSTART;TZID=Europe/Madrid:20261103T181000
 DTEND;TZID=Europe/Madrid:20261103T200600
-UID:2ab7913e885f877ca2499c038d5707d8d4391091c4cbd139fa788242a24acaa3
+UID:fa9106e8a0da42c9f5a8dbcccea143c2c2e4ed674e4ae9ec87108772c022953b
 CATEGORIES:cinema
 DESCRIPTION:Es 1985\, Vincent\, a punto de cumplir trece años\, vive en u
  n suburbio parisino de clase media con un hermano mayor distante y unos pa
@@ -4962,8 +4207,8 @@ DESCRIPTION:Es 1985\, Vincent\, a punto de cumplir trece años\, vive en u
  endo sus pensamientos y dudas sobre la identidad\, la amistad\, la familia
  \, la religión\, el deseo y los primeros indicios del amor.\n\nOriginal t
  itle: Juste une illusion\n\nRelease year: 2026\n\nOriginal language: FR\n
- \nAudio: VOSE\n\nhttps://cinesembajadores.es/pelicula/tiempos-de-ilusion-v
- ose/?ciudad=madrid
+ \nAudio: Doblada ES\n\nhttps://cinesembajadores.es/pelicula/tiempos-de-ilu
+ sion-doblada-al-espanol/?ciudad=madrid
 LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
 END:VEVENT
 BEGIN:VEVENT
@@ -5578,6 +4823,37 @@ DESCRIPTION:Esta es la historia de Sandra Sánchez\, una mujer que nunca d
 LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:El deshielo
+DTSTART;TZID=Europe/Madrid:20261104T183000
+UID:11e5a32dbe639cce2e5b265f6428f727218e50cdc5087e201be52be937e45aed
+CATEGORIES:cinema
+DESCRIPTION:Chile\, 1992. Mientras se aloja en el remoto hotel de sus abue
+ los\, cerca de una estación de esquí de los Andes\, Inés (9) entabla am
+ istad con Hanna (15)\, una esquiadora alemana. Cuando Hanna desaparece sin
+  dejar rastro\, la búsqueda de la joven saca a la luz verdades ocultas.\n
+ \nRelease year: 2026\n\nOriginal language: ES\n\nhttps://www.cinetecamadri
+ d.com/programacion/el-deshielo
+LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deux femmes en or
+DTSTART;TZID=Europe/Madrid:20261104T190000
+UID:b7ea1d9ed0720671ca1e10863318f31018486c54e751dd431adcbf37718f9e96
+CATEGORIES:cinema
+DESCRIPTION:Violette y Florence ya no logran comprender lo que les está s
+ ucediendo. Ambas vecinas están atormentadas por una sensación de fracaso
+ : a pesar de tener carreras profesionales exitosas y familias consolidadas
+ \, no son felices. ¿Y si la felicidad consistiera en rebelarse contra una
+  sociedad rígida\, obsesionada con el rendimiento\, eligiendo a veces la 
+ satisfacción inmediata en lugar del éxito\, y la libertad en lugar de ha
+ cer siempre lo correcto? En un mundo donde divertirse está muy lejos de o
+ cupar los primeros puestos en la lista de prioridades\, vivir una aventura
+  con el repartidor puede convertirse en un acto revolucionario. Para Viole
+ tte y Florence\, es ese soplo de aire fresco que tanto tiempo llevaban esp
+ erando.\n\nhttps://www.cinetecamadrid.com/programacion/deux-femmes-en-or
+LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:La bola negra
 DTSTART;TZID=Europe/Madrid:20261104T190000
 DTEND;TZID=Europe/Madrid:20261104T213900
@@ -5624,6 +4900,21 @@ DESCRIPTION:Versión Original Castellano | Duración 155 minutos | No reco
  mendada para menores de 16 años\n\nRelease year: 2026\n\nOriginal languag
  e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1094682/
 LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mecenaten
+DTSTART;TZID=Europe/Madrid:20261104T200000
+UID:8f0bf77d4a4159870ab86ea4de84b89fc9eb347e445deb97e0451ed1c8254d9b
+CATEGORIES:cinema
+DESCRIPTION:La suplantación de identidad puede ser muy adictiva. Una limp
+ iadora sueña con una vida más emocionante. Una noche\, se hace pasar por
+  mecenas de arte y atrae a dos estudiantes de arte a la casa vacía de su 
+ empleadora. Embriagada por su posición de poder\, se deja arrastrar cada 
+ vez más por el engaño. Pero el juego\, aparentemente inocente\, pronto c
+ orre el riesgo de tener graves consecuencias.\n\nRelease year: 2026\n\nOri
+ ginal language: SV\n\nhttps://www.cinetecamadrid.com/programacion/mecenate
+ n
+LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:GLOBAL GUITAR DIALOGUES
@@ -5715,6 +5006,19 @@ DESCRIPTION:Una pareja invita a los vecinos a su casa\, lo que desencadena
  guage: EN\n\nAudio: VOSE\n\nhttps://cinesembajadores.es/pelicula/la-invita
  cion-vose/?ciudad=madrid
 LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Se busca
+DTSTART;TZID=Europe/Madrid:20261104T203000
+UID:b62d1f6ec2ca8738489647d91f6ab4408e1af921e33b675f14ae611e04d8ab4d
+CATEGORIES:cinema
+DESCRIPTION:René\, una adolescente solitaria\, insegura y rebelde\, huye
+  de sus sofocantes padres ante el mar de dudas en que se ahoga. Eso la lle
+ vará a recorrer un trayecto de dos mil kilómetros hacia Ciudad Juárez d
+ onde presiente que algo la llama y que supondrá también un revelador via
+ je interior.\n\nOriginal title: Most Wanted\n\nRelease year: 1997\n\nOrigi
+ nal language: EN\n\nhttps://www.cinetecamadrid.com/programacion/se-busca
+LOCATION:Cineteca Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mark Guiliana Beat Music
@@ -5956,6 +5260,54 @@ DESCRIPTION:La artista palestina Dima Srouji presenta una exposición en v
 LOCATION:La Casa Encendida - de Valencia\, 2\, Madrid\, 28012
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Inscripciones Confesionario InPulse
+DTSTART;TZID=Europe/Madrid:20261105T093000
+DTEND;TZID=Europe/Madrid:20261105T103000
+UID:dea6e7613f580917e9bd3300e46d03a8ae650f2b99e6c908d6a8874f3c49d4ae
+CATEGORIES:other
+DESCRIPTION:Espacio: Salas de reuniones de Infinito Delicias\n\nEl Confesi
+ onario es un ciclo de varias sesiones a lo largo de los próximos meses q
+ ue conforma un nuevo espacio para emprendedores del sector cultural y crea
+ tivo que desean compartir sus desafíos organizacionales con iguales. Con 
+ las personas inscritas se organizará la fecha de arranque y siguientes se
+ siones.\n\nSi eres Fundador/a o Director/a de un proyecto del sector\, te 
+ invitamos a formar parte de este "grupo de apoyo mutuo".\n\n¿Qué se trab
+ aja en la sesión?\n\nSe trata de una sesión de 1 hora facilitada por Mar
+ ía Suárez en la que una o dos personas presentan un desafío organizacio
+ nal (de equipo\, de gobernanza\, de conciliación\, financiero\, de cierre
+ \, de oportunidad\, etc) con el objetivo de ampliar mirada\, matizar el pe
+ nsamiento o explorar nuevas posibilidades en grupo.\n\nRequisitos importan
+ tes:\n\nSólo para 7 personas + facilitadora.\n\nPara fundador/a\, co-fund
+ ador/a o CEO. 1 miembro por proyecto.\n\nEs un espacio seguro y por tanto 
+ se exige máxima confidencialidad.\n\nNo es un grupo de terapia\, es un gr
+ upo al estilo "personal board" entre iguales para acelerar procesos de dec
+ isión.\n\nSe recomienda que sea un grupo estable en el tiempo y que consi
+ ga autogestionarse (sin facilitadora).\n\nSi estás enfrentando un “desa
+ fío organizacional”\, aquí podrás contarlo en confianza y recibir apo
+ yo de personas dispuestas a aportar mirada\, experiencia y acompañamiento
+ .\n\nUn formato honesto\, colaborativo y práctico para transformar proble
+ mas en oportunidades y sentirte parte de una red que te sostiene.\n\nInscr
+ íbete y trae tu caso: juntos encontraremos nuevas formas de avanzar.\n\nD
+ ado el cupo limitado de plazas\, la facilitadora previamente se pondrá en
+  contacto contigo para evaluar juntos/as tu caso.\n\nInPulse es el program
+ a de Infinito Delicias dirigida a emprendedores con impacto del Sector Cul
+ tural y Creativo (SCC).\n\nNace como una comunidad destinada a atraer tale
+ nto\, compartir herramientas\, abordar retos comunes y fomentar el emprend
+ imiento con impacto social y ambiental en el ámbito de la cultura\, a tra
+ vés de diversos formatos: talleres formativos\, sesiones con expertos en 
+ economía y legislación\, espacios de consulta\, diagnóstico y asesorami
+ ento a proyectos\, o ejercicios de visualización guiada\, entre otros.\n
+ \nInPulse celebra tres actividades al mes. Con ello\, busca establecerse c
+ omo una red capaz de brindar conocimiento\, acompañamiento e inspiración
+  a profesionales del SCC\, intraemprendedores del Tercer Sector\, emprende
+ dores de otros ámbitos\, escuelas y universidades de artes\, diseño\, IC
+ Cs y gestión cultural\, y habitantes (coworkers) de Infinito\, entre otra
+ s personas interesadas.\n\nhttps://www.infinitodelicias.com/es/agenda/conf
+ esionario-inpulse-2
+LOCATION:Infinito Delicias - C. de Juana Dona\, 5\, Arganzuela\, 28045 Mad
+ rid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ESTUDIOS DE CINE Noviembre 2026 con Alejandro Mucientes
 DTSTART;TZID=Europe/Madrid:20261105T110000
 UID:097de6bb36ea04ee231d83d0e782621209a3ad2d7ef3fc8f2e876b841f1b40e3
@@ -6120,16 +5472,6 @@ LOCATION:Cine Estudio Circulo de Bellas Artes - Marques de Casa Riera\, 4
  \, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:La Bola Negra
-DTSTART;TZID=Europe/Madrid:20261105T174000
-UID:2e12bc3eb2e3318a36b2e58c00fdc7eca375d601f72a2896f5fc871a45d2ad66
-CATEGORIES:cinema
-DESCRIPTION:Versión Original Castellano | Duración 155 minutos | No reco
- mendada para menores de 16 años\n\nRelease year: 2026\n\nOriginal languag
- e: ES\n\nAudio: VOSE\n\nhttps://www.pillalas.com/pase/1094691/
-LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Karateka
 DTSTART;TZID=Europe/Madrid:20261105T175000
 DTEND;TZID=Europe/Madrid:20261105T194000
@@ -6267,14 +5609,14 @@ DESCRIPTION:En el corazón de la Montaña Palentina\, nace Piedad Isla en
  do\, con tan solo una pequeña Kodak y una motocicleta comenzó a recorrer
   la comarca para retratar sus costumbres y modos de vida. Sin saberlo y si
  n referencia alguna\, Piedad se convirtió en una figura clave de la fotog
- rafía neorre-lista española. Esta es la historia de una mujer pionera y 
+ rafía neorrealista española. Esta es la historia de una mujer pionera y 
  todo un referente en el territorio que la vio crecer. Presentación y colo
  quio con Pablo García Sanz (director)\, Jose Maria Pérez González “Pe
  ridis” (arquitecto y dibujante)\, Esteban Sainz Vidal (Presidente de la 
- Fundación Piedad Isla & Juan Torres) | Dirección: Pablo García Sanz | E
- spaña\, 2026 | Duración 83 minutos | Versión VE | Estreno | Presentaci
- ón y coloquio\n\nhttps://www.circulobellasartes.com/ciclos-cine/peliculas
- /isla-indomita/
+ Fundación Piedad Isla & Juan Torres) y Sonia Frías (periodista). | Direc
+ ción: Pablo García Sanz | España\, 2026 | Duración 83 minutos | Versi
+ ón VE | Estreno | Presentación y coloquio\n\nhttps://www.circulobellasar
+ tes.com/ciclos-cine/peliculas/isla-indomita/
 LOCATION:Cine Estudio Circulo de Bellas Artes - Marques de Casa Riera\, 4
  \, Madrid
 END:VEVENT
@@ -6468,6 +5810,17 @@ DESCRIPTION:En busca de una vida mejor\, Lucila viaja con su hermano Diego
 LOCATION:Artistic Metropol - Cigarreras\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Tiempos De Ilusión
+DTSTART;TZID=Europe/Madrid:20261105T221500
+UID:504f52e55e6a730315f5e31770fe0551051b3ecb9257975441044822affbe755
+CATEGORIES:cinema
+DESCRIPTION:Versión Original subtitulada a Castellano | Duración 119 min
+ utos | No recomendada para menores de 7 años\n\nOriginal title: Juste une
+  illusion\n\nRelease year: 2026\n\nOriginal language: FR\n\nAudio: VOSE\n
+ \nhttps://www.pillalas.com/pase/1095042/
+LOCATION:Renoir Plaza de Espana - Martin de los Heros\, 12\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Esta soledad
 DTSTART;TZID=Europe/Madrid:20261105T222000
 DTEND;TZID=Europe/Madrid:20261106T001000
@@ -6537,6 +5890,18 @@ DESCRIPTION:Una obra que dialoga con los versos de Machado y las canciones
 LOCATION:Teatro Infanta Isabel - Calle del Barquillo\, 24\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Encuentros fotográficos de Gijón
+DTSTART;TZID=Europe/Madrid:20261106T130000
+DTEND;TZID=Europe/Madrid:20261106T130000
+UID:4199842e44126b0a6e9cfda7b76fd0fd31fabe43d1f2567bdaf9497f21a9397b
+CATEGORIES:exhibition
+DESCRIPTION:Presentación de la revista Gandaya. \n \nSección de Fotograf
+ ía. Presenta: M.ª AntoniaGarcía de la Vega López \nIntervienen\; Esthe
+ r Maestre\, Pedro Gutiérrez\, Iris G. Meras. \nSala Pérez Galdós. 13:00
+ .\n\nhttps://ateneodemadrid.com/evento/encuentros-fotograficos-de-gijon/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Blue Heron
 DTSTART;TZID=Europe/Madrid:20261106T170000
 DTEND;TZID=Europe/Madrid:20261106T183100
@@ -6579,6 +5944,46 @@ LOCATION:Cine Estudio Circulo de Bellas Artes - Marques de Casa Riera\, 4
  \, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Paula Comitre
+DTSTART;TZID=Europe/Madrid:20261106T200000
+UID:6b0683eee67df49749c1cf65f9c6d124c17c208b1ca71348a7b4a6e08b9d63a2
+CATEGORIES:theater
+DESCRIPTION:Centro Danza Matadero presenta el estreno absoluto de Bien val
+ e un imperio \, el nuevo espectáculo de Paula Comitre. Bien vale un imper
+ io es el segundo capítulo de la Trilogía de la Edad de Plata Femenina \,
+  un proyecto en el que Comitre construye\, a través de tres espectáculos
+ \, un tríptico escénico inspirado en el imaginario y legado de tres muje
+ res fundamentales para la consolidación del flamenco y la danza española
+  de comienzos del siglo XX. Tras Après vous\, Madame \, dedicado a Antoni
+ a Mercé "La Argentina"\, esta nueva creación se adentra en la figura de 
+ Pastora Imperio. La trilogía culminará con una tercera pieza inspirada e
+ n otra gran bailarina de la época. Comitre parte del imaginario y el lega
+ do de estas artistas para desarrollar una creación plenamente contemporá
+ nea que no busca reconstruir el pasado sino activarlo en el presente. La p
+ ieza rescata resonancias del flamenco de aquella época para trasladarlas 
+ a un lenguaje actual\, donde la tradición se entiende como un material vi
+ vo en constante transformación. A través del cuerpo\, el gesto y la esce
+ na\, se articula un diálogo entre memoria y presente. Su interés se sit
+ úa también en el cruce entre disciplinas artísticas\, tal y como hicier
+ on muchas creadoras de la Edad de Plata\, vinculadas a las vanguardias y l
+ as artes plásticas. Acompañada por tres guitarras de perfiles distintos:
+  clásica\, flamenca y experimental\, la pieza construye un espacio sonoro
+  contemporáneo desde el que dialogar con el imaginario de Pastora Imperio
+ . Estas tres voces expanden el flamenco hacia nuevas texturas\, atravesand
+ o lo popular\, lo íntimo y lo vanguardista\, sosteniendo una creación qu
+ e entiende el pasado como una materia activa para pensar el presente. En B
+ ien vale un imperio colaboran los artistas plásticos Fuentesal Arenillas
+ \, responsables de un vestuario-escena que define el universo visual de la
+  obra. Su práctica escultórica\, entendida como proceso en transformaci
+ ón\, se activa en relación con el cuerpo y la escena. Inspirados en la f
+ igura transgresora de Pastora Imperio\, reinventan elementos icónicos de 
+ la tradición flamenca como el sombrero\, la bata de cola o el mantón\, c
+ onstruyendo un espacio simbólico en diálogo con el movimiento. Paula Com
+ itre es artista residente en Centro Danza Matadero para la Temporada 2026.
+ \n\nhttps://www.mataderomadrid.org/programacion/paula-comitre
+LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Hijo mayor
 DTSTART;TZID=Europe/Madrid:20261106T200000
 DTEND;TZID=Europe/Madrid:20261106T215800
@@ -6614,6 +6019,37 @@ DESCRIPTION:Gorda y Divina muestra la realidad de las artistas drag más a
  ar espacios tradicionalmente reservados a cuerpos normativos.\n\nhttps://c
  inesembajadores.es/pelicula/laca-y-palomitas-gorda-y-divina/?ciudad=madrid
 LOCATION:Cine Embajadores Río - Calle Ercilla\, 53
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ARIEL BRÍNGUEZ QUINTET
+DTSTART;TZID=Europe/Madrid:20261106T200000
+DTEND;TZID=Europe/Madrid:20261107T200000
+UID:b7f41bad0b1eb065dcfb905a79d27979752529a41b5b6954a5dbd67e3efe1c52
+CATEGORIES:music
+DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
+  el Área del Socio. Calle Prado\, 21. Pases: 20:00h. y 22:00h. \n \nAriel
+  Bringuez – saxos\nJavier Sánchez – guitarra\nGastón Joya Contrabajo
+ \nMiguel “Wiwi” García – piano\nFrank Durand – batería \nAriel B
+ rínguez (Santa Clara\, Cuba\, 1982) es saxofonista\, compositor y arregli
+ sta cubano afincado en España. Su música conecta la tradición afrocuban
+ a con el jazz contemporáneo\, combinando una voz propia con una especial 
+ atención a la melodía y la improvisación. \nA lo largo de su trayectori
+ a ha colaborado con artistas como Chucho Valdés\, David Murray\, Omara Po
+ rtuondo\, Paquito D’Rivera\, Miguel Zenón y Marcus Miller. También ha 
+ participado en tres álbumes galardonados con un Grammy: Tributo a Irakere
+ \, de Chucho Valdés. El tren de los momentos\, de Alejandro Sanz\, y Voya
+ ger\, de Iván Melon Lewis. \nAl frente de su quinteto\, ha actuado en fes
+ tivales como Jazzaldia\, el Festival de Jazz de Vitoria-Gasteiz y Voll-Dam
+ m Barcelona\, además de presentar su música en escenarios internacionale
+ s de Alemania\, Austria\, Rumanía y Bulgaria. \nEntre sus proyectos desta
+ can Latidos\, Nostalgia Cubana y Alma en Cuba\, álbum realizado junto al 
+ pianista Iván Melon Lewis y nominado al Latin Grammy 2025 en la categorí
+ a de Mejor Álbum Instrumental. En Jazz About Bach\, Brínguez propone un 
+ diálogo entre la obra de Johann Sebastian Bach y el jazz contemporáneo\,
+  reinterpretando la música barroca desde la improvisación y una perspect
+ iva marcada por sus raíces cubanas.\n\nhttps://ateneodemadrid.com/evento/
+ ariel-bringuez-quintet/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DONDE CRECEN LOS TARAYS
@@ -6907,6 +6343,25 @@ DESCRIPTION:Club. Desde hace más de una década\, Axel Boman ocupa un lug
  ose como uno de los selectores más refinados de la electrónica contempor
  ánea.\n\nhttps://salavillanos.es/evento/axel-boman-acid-hero-gary/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El cuerpo del flamenco
+DTSTART;TZID=Europe/Madrid:20261108T120000
+UID:836873d5edac76be9757eb94cf11485a8bc0879db220d001fe69b7d9dc519571
+CATEGORIES:theater
+DESCRIPTION:En este taller para público familiar nos acercaremos a la dan
+ za\, concretamente al baile flamenco\, a través de la exploración del pr
+ opio cuerpo y sus posibilidades de movimiento\, expresión y sonido. Media
+ nte propuestas lúdicas y ejercicios prácticos\, trabajaremos la concienc
+ ia corporal\, el ritmo\, la coordinación y la relación entre el movimien
+ to y la música. Exploraremos las posibilidades sonoras del cuerpo a trav
+ és de las palmas\, los pies y otros recursos\, descubriendo cómo el ritm
+ o puede convertirse en una herramienta para bailar y comunicarnos. Todo el
+ lo desde una metodología participativa y adaptada a las edades de los par
+ ticipantes\, que invite a disfrutar de la danza como un espacio de descubr
+ imiento\, juego y creación.\n\nhttps://www.mataderomadrid.org/programacio
+ n/el-cuerpo-del-flamenco
+LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Spin Oz
@@ -7212,6 +6667,49 @@ DESCRIPTION:Raquel Lobo lleva a cabo una presentación de tapices de gran
 LOCATION:Casa del Lector (Matadero) - de la Chopera\, 14\, Madrid\, 28045
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Proyecto Paco Graco
+DTSTART;TZID=Europe/Madrid:20261112T100000
+DTEND;TZID=Europe/Madrid:20270110T000000
+UID:93fbbd93f8b5d48ad48b476491aced26b5e701c83779817acd12f2876b3227d2
+CATEGORIES:exhibition
+DESCRIPTION:Espacio: Espacio Gradas\n\nDel 12 de noviembre al 10 de enero
+ \n\nDesde que «Paco Graco» empezó a rescatar los rótulos de las tienda
+ s que cierran\, el cambio de piel de las tiendas de Madrid se ha acelerado
+ . En los últimos 10 años\, algunos barrios están viviendo transformacio
+ nes radicales\, entre ellos Arganzuela. Esas transformaciones urbanas\, co
+ mo todas las transformaciones urbanas\, tiene su cara y su cruz. Destruyen
+  algunas cosas\, imprescindibles\, para dejar paso a otras\, que con el ti
+ empo parecerán inamovibles. Madrid ha alcanzado en esta década\, por fin
+ \, la riqueza social y cultural que necesitaba. Esa diversidad\, ese cosmo
+ politanismo\, es precisamente la vacuna contra la gentrificación\, la hom
+ ogeneización y la turistificación de Madrid que parecen ser los verdugos
+  de “la esencia de nuestra querida ciudad”.\n\nLa capacidad de transfo
+ rmarse\, de mejorar y crecer\, son las esencias del futuro de las ciudades
+ : conservarlas inamovibles\, puras\, es sin duda la receta para su fracaso
+ \, como ciudades y como sociedades abiertas\, libres\, de intercambio con 
+ extraños. Paco Graco propone una instalación formada por algunos de los 
+ 300 rótulos de su colección\, diseñada específicamente para El Espacio
+  Gradas. Más que una colección de objetos\, propone reflexionar sobre la
+  identidad cambiante del barrio\, las transformaciones de su espacio públ
+ ico y su paisaje urbano\, y el papel que puede jugar en ellas el cuidado c
+ olectivo de un patrimonio cotidiano que habla de nuestra memoria colectiva
+ . El proyecto convoca\, por tanto\, a una red de artistas\, historiadores
+ \, diseñadores y vecinos que trabajan para visibilizar este legado y reiv
+ indicar su valor cultural para fomentar el diálogo\, la historia y el fut
+ uro de nuestras ciudades.\n\nPACO GRACO\n\n(Patrimonio Común de la Gráfi
+ ca Comercial) es un proyecto de defensa y protección del patrimonio gráf
+ ico comercial de la ciudad\, gravemente amenazado en los últimos tiempos
+ \, entendiendo los antiguos rótulos de los comercios como una parte impre
+ scindible de la memoria de la ciudad: rescatando rótulos\, guardan histor
+ ias de sus comercios\, y memoria colectiva de los barrios donde estuvieron
+ . Es un proyecto de Guillermo Borreguero\, Jacobo Cayetano\, Mercedes Mora
+ l\, Alberto Nanclares\, Basurama y Zuloark\n\nAbierta martes a sábado de 
+ 10 a 00h + Domingos y lunes de 10 a 16h\n\nhttps://www.infinitodelicias.co
+ m/es/agenda/proyecto-paco-graco
+LOCATION:Infinito Delicias - C. de Juana Dona\, 5\, Arganzuela\, 28045 Mad
+ rid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Isla del sur
 DTSTART;TZID=Europe/Madrid:20261112T175000
 DTEND;TZID=Europe/Madrid:20261112T191500
@@ -7316,5 +6814,118 @@ DESCRIPTION:La exposición reúne obras producidas desde 2010 junto a piez
  as creadas específicamente para este espacio (CentroCentro. 13 nov a 28 m
  ar).\n\nhttps://www.centrocentro.org/exposicion/laura-lio
 LOCATION:CentroCentro - de Cibeles\, 1\, Madrid\, 28014
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Marcos French – Delicioso
+DTSTART;TZID=Europe/Madrid:20261113T190000
+UID:f066975ea000a8b16e9047cfc342808efcb8b19f143636c713dd51eb7fdb1c76
+CATEGORIES:music
+DESCRIPTION:Concierto / Jazz / Latin / Pop. El próximo 13 de Noviembre a 
+ las 19 h\, el emblemático escenario de la Sala Galileo Galilei recibe a M
+ arcos French\, acompañado por su banda al completo. Con su personalísima
+  fusión de jazz\, soul y pop teatral\, el artista desplegará todo su mag
+ netismo escénico y su impronta de crooner contemporáneo en una noche tan
+  íntima como electrizante. Un concierto imprescindible donde French prese
+ ntará en exclusiva adelantos de su nuevo trabajo discográfico junto a la
+ s canciones más destacadas de su repertorio.\n\nhttps://salavillanos.es/e
+ vento/marcos-french-delicioso/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Magda
+DTSTART;TZID=Europe/Madrid:20261113T200000
+DTEND;TZID=Europe/Madrid:20261227T200000
+UID:3634119fa2951bb9c1485b9a6c57d5cbac1937561f65dcfdc847e3d3cd3aec63
+CATEGORIES:theater
+DESCRIPTION:Encuentro con el equipo artístico: 26 NOV 2026 Función matin
+ al: 1 DIC 2026 a las 12:00 Funciones accesibles: 17 y 18 DIC 2026\n\nhttps
+ ://dramatico.inaem.gob.es/evento/magda/
+LOCATION:Teatro Maria Guerrero - Calle de Tamayo y Baus\, 4\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DONDE CRECEN LOS TARAYS
+DTSTART;TZID=Europe/Madrid:20261113T200000
+UID:6e62b7c3bd6d03260da9b69dfb589863fbb3c01b2cec808fe4596dfe5aadf8a4
+CATEGORIES:theater
+DESCRIPTION:DONDE CRECEN LOS TARAYS\n\nUna pieza de teatro urgente.\n\nNaj
+ at\, Amal y Hayat llegan al mar por razones completamente distintas.\n\nNa
+ jat lleva meses preparándose para cruzar a Ceuta. Amal sale de casa para 
+ impedir que su hermano de catorce años\, lo haga. Hayat huye de Casablanc
+ a embarazada y sin que el hombre del que escapa\, sepa que espera una hija
+ .\n\nLas tres acaban entrando en el agua.\n\nPero Donde crecen los tarays 
+ no habla únicamente del cruce. Habla también de lo que sucede después: 
+ de quienes consiguen alcanzar la otra orilla y descubren que llegar no sig
+ nifica necesariamente poder continuar\; de las fronteras que permanecen de
+ spués de haberlas atravesado\; de quienes quedan varados entre el lugar d
+ el que tuvieron que salir y aquel en el que todavía no pueden quedarse.\n
+ \nEl taray es un arbusto que crece en terrenos salinos\, junto al agua y e
+ n zonas costeras. En la obra atraviesa la memoria de Hayat y acaba dando n
+ ombre a una historia sobre la dificultad de encontrar un lugar donde echar
+  raíces.\n\nDonde crecen los tarays es el primer texto original de Sergio
+  Peris-Mencheta\, una pieza de teatro urgente nacida del impulso de reacci
+ onar al presente mientras la realidad que la provoca todavía está ocurri
+ endo.\n\nEn escena\, tres urnas de metacrilato contienen el agua. Cuando u
+ na de las mujeres cuenta su historia\, las otras dos nadan. El braceo\, el
+  esfuerzo y sus respiraciones construyen la banda sonora de la función.\n
+ \nEl relato sucede delante.\n\nEl mar no se detiene.\n\nhttps://lamirador.
+ com/funcion?nombre=donde-crecen-los-tarays-2026
+LOCATION:Sala Mirador - Calle Doctor Fourquet\, 31\, 28012 Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frazey Ford
+DTSTART;TZID=Europe/Madrid:20261113T210000
+UID:9657136a6446e84fe96bf96c7a72941e4f0a75c52ef9bcf1145a5ba550b2f1d3
+CATEGORIES:music
+DESCRIPTION:Concierto / Pop / Soul & R&B / Rock. Inicialmente\, Frazey For
+ d fue conocida como un tercio del trío de folk alternativo de The Bee Goo
+ d Tanyas\, banda con base en la canadiense Vancouver que tocaba una mezcla
+  de folk\, country y blues con pátina old-timey\, al estilo de lo que tam
+ bién proponían en esa época nombres como Gillian Welch o Iris Dement. H
+ ablamos de finales del siglo XX y principios de este\, pues el primer conc
+ ierto de The Be Good Tanyas fue en 1999 y su primer disco salió en 2001. 
+ Se convirtieron en una banda de culto. Con Ford estuvieron también al pri
+ ncipio Samantha Parton\, Trish Klein y Jolie Holland\, luego Holland se fu
+ e. En paralelo a la trayectoria un tanto guadiana de la banda\, Frazey des
+ arrolló una carrera en solitario que en 2010 con el LP “Obadiah” dio 
+ su primer paso y que luego ha seguido con “Indian Ocean” (2014) y “U
+  Kin B The Sun” (2020)\, con su música adentrándose cada vez más\, pe
+ ro sutilmente\, en el territorio del soul y el rhytm’n’blues\, normalm
+ ente jugando con letras que no son fáciles de descifrar\, pero que unidas
+  a su dulce voz resultan cautivadoras. A esto sumémosle que se acompaña 
+ siempre de músicos virtuosos y que se encuentra en su mejor momento. “F
+ ord iba alternando entre la guitarra acústica\, el piano y el canto puro.
+  Su voz es una maravilla. Lo primero que todos notan es el vibrato natural
+ \, pero hay ahora una conmovedora esencia en el fraseo y la expresión que
+  nunca alcanzó su máximo alcance en las canciones folk de su primera ban
+ da\, The Be Good Tanyas\, por muy geniales que fueran” (Americana UK). U
+ n placer.\n\nhttps://salavillanos.es/evento/frazey-ford/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Nomads (Suecia) + Star Mafia Boy\; Escenarios Mahou
+DTSTART;TZID=Europe/Madrid:20261113T213000
+UID:036b41e7f3278200ab6266d11b89652e6eeb2c031f2eea5d5f84d996281b9a17
+CATEGORIES:music
+DESCRIPTION:Precio de las entradas: 17€/20€ (+ g.g.) . Entradas a la v
+ enta en movingtickets Bio/enlaces bandas: THE NOMADS (Suecia) The Nomads_f
+ acebook + The Nomads_instagram Star Mafia Boy_facebook + Star Mafia Boy_X 
+ +\n\nhttps://gruta77.com/events/the-nomads-suecia/var/ri-0.l-L2
+LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cinthie + Nacho Marco
+DTSTART;TZID=Europe/Madrid:20261113T235900
+UID:a2b7623be621ffeb84dca59cea3b018983b9f3d32b95651ce0cdb413bccb33d6
+CATEGORIES:music
+DESCRIPTION:Club / Villanos del Jazz. Cinthie articula una visión del hou
+ se contemporáneo basada en conocimiento\, precisión y cultura de pista\,
+  donde convergen las raíces de Nueva York y Chicago con la claridad funci
+ onal de Berlín. Sus sesiones destacan por una selección rigurosa y un en
+ foque directo al groove\, sin concesiones ni artificio. Su trabajo se exti
+ ende más allá del DJing a través de su sello 803 Crystal Grooves y su t
+ ienda Elevate.Berlin\, consolidando una posición que combina autoridad mu
+ sical\, criterio curatorial y una conexión sostenida con la esencia del h
+ ouse.\n\nhttps://salavillanos.es/evento/cinthie/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 END:VCALENDAR
