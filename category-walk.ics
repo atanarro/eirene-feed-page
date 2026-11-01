@@ -2,43 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Delicias//ES
 BEGIN:VEVENT
-SUMMARY:La arquitectura de Infinito Delicias: Visita técnica guiada
-DTSTART;TZID=Europe/Madrid:20261031T120000
-DTEND;TZID=Europe/Madrid:20261031T130000
-UID:06ca01f3140d4be1df4a48dc14c2f04de28033bd6a23be218048e7245e19ac1c
-CATEGORIES:walk
-DESCRIPTION:Espacio: Visita guiada\n\nEl edificio de Infinito y la vida qu
- e contiene son fruto de meses de investigación\, pruebas y trabajo colect
- ivo. Una suma de fuerzas\, voces y decisiones hacen de este proyecto un ej
- emplo particular en diferentes campos: arquitectura\, diseño sostenible\,
-  modelo funcional\, oferta cultural o propuesta gastronómica.\n\nRecorrid
- os de una hora\, guiados por Teresa Martínez Pagés\, arquitecta especial
- izada que formó parte tanto en la construcción del edificio como del des
- arrollo integral del proyecto\, aportando una mirada directa y experta des
- de dentro del proceso.\n\nEsta es una visita orientada a un público más 
- técnico\,\n\nrecomendada para personas con interés o formación en arqui
- tectura\, diseño\, interiorismo y disciplinas afines.\n\nEn Infinito\, ca
- da rincón tiene algo que contar\; desde la madera hasta los huertos\, pas
- ando por el mobiliario o la rampa\, todo forma parte de un proyecto único
-  que ha sido fruto de meses de investigación\, pruebas y trabajo colectiv
- o. Un espacio que\, además\, fue reconocido en 2023 con el\n\npremio HOLC
- IM como el proyecto más sostenible de Europa.\n\nPero lo más interesante
-  no es solo lo que se ve a primera vista\, sino cómo funciona. Desde un e
- nfoque técnico y estructural\, esta visita propone recorrer el proyecto d
- esde su concepción hasta la elección de cada material\, entendiendo cóm
- o el barrio\, la sostenibilidad y la cultura han influido en la creación 
- de Infinito.\n\nTe guiaremos paso a paso para entender cómo se ha constru
- ido el proyecto\, qué decisiones lo hacen posible y\, sobre todo\, cómo 
- el espacio y lo que ocurre en él se conectan. La arquitectura y la progra
- mación van de la mano:\n\ntodo cobra vida a través de un contenido que a
- ctiva el espacio y refuerza nuestro compromiso con la cultura.\n\nVen\, re
- corre\, pregunta y entiende por qué Infinito es mucho más que un lugar.
- \n\nhttps://www.infinitodelicias.com/es/agenda/la-arquitectura-de-infinito
- -delicias-visita-tecnica-guiada
-LOCATION:Infinito Delicias - C. de Juana Dona\, 5\, Arganzuela\, 28045 Mad
- rid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Visita a los huertos urbanos
 DTSTART;TZID=Europe/Madrid:20261104T173000
 DTEND;TZID=Europe/Madrid:20261104T181500
@@ -85,9 +48,8 @@ DESCRIPTION:Bajo el asfalto madrileño late la memoria de Fuencarral\, ant
  únkeres y fortines. Fuencarral cobró relevancia internacional con el aca
  ntonamiento de las Brigadas Internacionales y la creación del cementerio 
  de los brigadistas\, tributo a los voluntarios extranjeros que defendieron
-  la legalidad republicana.\n\nPrecio: 12 € (socios de GEFREMA: 6 €). R
- eservas a partir del 2 de noviembre.\n\nhttps://www.madridenguerra.es/ruta
- -fuencarral
+  la legalidad republicana.\n\nPrecio: 12 € (socios de GEFREMA: 6 €).\n
+ \nhttps://www.madridenguerra.es/ruta-fuencarral
 LOCATION:Madrid en Guerra (GEFREMA) - A LADO DEL PUNTO DE ENCUENTRO
 END:VEVENT
 BEGIN:VEVENT
@@ -121,5 +83,30 @@ DESCRIPTION:Una ruta por alguno de los escenarios más destacados de la Gu
  ción de Metro de El Lago atravesando el parque.\n\nReservas a partir del 
  9 de noviembre.\n\nhttps://www.madridenguerra.es/casa-de-campo-ii
 LOCATION:Madrid en Guerra (GEFREMA) - ESTACIÓN METRO DE LAGO (LÍNEA 10)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Las Invisibilizadas II: Las Matildas
+DTSTART;TZID=Europe/Madrid:20261115T100000
+DTEND;TZID=Europe/Madrid:20261115T133000
+UID:10e7f5965d40d2ca1e90414a199f67e5c4a91bed272750ff4b3fd503ff43d56e
+CATEGORIES:walk
+DESCRIPTION:Justa Freire\, maestra depurada y encarcelada\, fue añadido a
+ l de Fanjul para una estación Cercanías de Madrid\, pero permanece borra
+ do del callejero madrileño. En 2023 conmemoraremos el 92º aniversario de
+  la aprobación del voto femenino en España\, que fue defendido\, a capa 
+ y espada\, por otra mujer:\n\nClara Campoamor. Aunque\, en 2023\, las muje
+ res pueden ser noticia\, a lo largo de la historia la mayor parte han sido
+  invisibilizadas o al menos relegadas.\n\nGuerra Civil Española\, tuviero
+ n lugar en España enormes cambios sociales\, económicos y políticos que
+  propiciaron que la mujer saliera del mundo familiar y doméstico\, y que 
+ accediera a los distintos ámbitos públicos: educación\, ciencia\, traba
+ jo\, arte\, política… Se empezó a desmontar el modelo burgués de la m
+ ujer como «ángel del hogar»\, ese mismo que se impuso más tarde durant
+ e la posguerra\, desde púlpitos\, cátedras y medios de comunicación\, c
+ omo el famosísimo Consultorio sentimental de\n\nPrecio: 12 € (socios de
+  GEFREMA: 6 €). Reservas a partir del 9 de noviembre.\n\nhttps://www.mad
+ ridenguerra.es/invisibilizadas-ii
+LOCATION:Madrid en Guerra (GEFREMA) - GLORIETA DE BILBAO - PUERTA DEL CAF
+ É COMERCIAL
 END:VEVENT
 END:VCALENDAR
