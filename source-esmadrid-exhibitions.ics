@@ -211,19 +211,6 @@ DESCRIPTION:La artista presenta un proyecto insólito que busca reconstrui
 LOCATION:Museo Arqueológico Nacional - de Serrano\, 13\, Madrid\, 28001
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Robert Frank y Los Americanos (PHotoESPAÑA 2026)
-DTSTART;TZID=Europe/Madrid:20260529T000000
-DTEND;TZID=Europe/Madrid:20261101T000000
-UID:b3296fa28127ee986c2dee308ab39faf21427ff4934e31b9f8b2962ac014250e
-CATEGORIES:exhibition
-DESCRIPTION:Muestra que reúne la serie completa de Los Americanos realiza
- da durante el viaje que el fotógrafo emprendió por Estados Unidos (Espac
- io Fundación Telefónica. 29 may a 1 nov).\n\nhttps://phe.es/exposicion/l
- os-americanos/
-LOCATION:Espacio Fundación Telefónica - de Fuencarral\, 3\, Madrid\, 280
- 04
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Somos Naturaleza
 DTSTART;TZID=Europe/Madrid:20260603T000000
 DTEND;TZID=Europe/Madrid:20270307T000000
@@ -310,18 +297,6 @@ DESCRIPTION:Una selección de pinturas y dibujos de la artista granadina r
  ica (CentroCentro. 25 jun a 15 nov).\n\nhttps://www.centrocentro.org/expos
  icion/maria-lara
 LOCATION:CentroCentro - de Cibeles\, 1\, Madrid\, 28014
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Los reconocimientos
-DTSTART;TZID=Europe/Madrid:20260626T000000
-DTEND;TZID=Europe/Madrid:20261101T000000
-UID:e9c03d3ee6e63832c90e92d9e5d6a3d6a3ad7fa339e4509d932516f5c946e0c8
-CATEGORIES:exhibition
-DESCRIPTION:Una original mirada a las colecciones y al trabajo interno del
-  Museo del Traje a través de objetos cotidianos (Museo del Traje. 26 jun 
- a 1 nov).\n\nhttps://www.cultura.gob.es/mtraje/exposicion/temporales/2026/
- reconocimientos.html
-LOCATION:Museo del Traje - de Juan de Herrera\, 2\, Madrid\, 28040
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Arte y misericordia. El Barroco de la Santa Caridad de Sevilla en 
@@ -639,6 +614,19 @@ DESCRIPTION:Conmemora y reivindica el legado de cerca de 500 mujeres que\,
 LOCATION:Fundación Ortega - Marañón - de Fortuny\, 53\, Madrid\, 28010
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Circuitos 2026
+DTSTART;TZID=Europe/Madrid:20260916T000000
+DTEND;TZID=Europe/Madrid:20261108T000000
+UID:2fd00e12c39c46e2b4ba2a975ac5604f84af1202b43273787aa2f0d4ea8d604e
+CATEGORIES:exhibition
+DESCRIPTION:Exposición colectiva formada por los trabajos de los diez gan
+ adores de este certamen anual (Sala de Arte Joven de la Comunidad de Madri
+ d. 16 sept a 8 nov).\n\nhttps://www.comunidad.madrid/actividades/2026/expo
+ sicion-circuitos-2026
+LOCATION:Sala de Arte Joven de la Comunidad de Madrid - de América\, 13\,
+  Madrid\, 28002
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Juegos de jardín
 DTSTART;TZID=Europe/Madrid:20260916T000000
 DTEND;TZID=Europe/Madrid:20270110T000000
@@ -918,17 +906,6 @@ DESCRIPTION:Exposición sobre los hallazgos medievales del castillo de Mon
 LOCATION:Museo Arqueológico Nacional - de Serrano\, 13\, Madrid\, 28001
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Carteles sin palabras (Madrid Gráfica)
-DTSTART;TZID=Europe/Madrid:20261007T000000
-DTEND;TZID=Europe/Madrid:20261115T000000
-UID:f0c188517cc8001efbb95398a0cce9b1b5ebd868e3885488ef8bcc7f145df6ce
-CATEGORIES:exhibition
-DESCRIPTION:Diseñadores de toda Iberoamérica acuden a la capital para co
- municar con imágenes y sin tipografía (Casa del Lector. 7 oct a 15 nov).
- \n\nhttps://casalector.fundaciongsr.org/carteles-sin-palabras/
-LOCATION:Casa del Lector (Matadero) - de la Chopera\, 14\, Madrid\, 28045
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Colecciones Masaveu. Arte textil
 DTSTART;TZID=Europe/Madrid:20261007T000000
 DTEND;TZID=Europe/Madrid:20270718T000000
@@ -1105,6 +1082,20 @@ DESCRIPTION:Obras de Dalí y Miró se unen al origen de los empeños en la
   ciudad (La Casa Encendida. Hasta 7 marzo 2027).\n\nhttps://www.lacasaence
  ndida.es/exposiciones/piedra-de-toque-cristina-garrido
 LOCATION:La Casa Encendida - de Valencia\, 2\, Madrid\, 28012
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thyssen-Bornemisza & Mauritshuis: una historia de amor entre dos m
+ useos
+DTSTART;TZID=Europe/Madrid:20261009T000000
+DTEND;TZID=Europe/Madrid:20270110T000000
+UID:7a17edd15f7cdb595d3ca1382b5177b1dfdc33c123916fce8192d1884aff939e
+CATEGORIES:exhibition
+DESCRIPTION:Los dos museos intercambian de forma simultánea veinticinco o
+ bras destacadas de sus colecciones permanentes (Museo Nacional Thyssen-Bor
+ nemisza. Hasta 10 ene).\n\nhttps://www.museothyssen.org/exposiciones/thyss
+ en-bornemisza-mauritshuis
+LOCATION:Museo Nacional Thyssen-Bornemisza - del Prado\, 8\, Madrid\, 2801
+ 4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ricardo de Madrazo (1852-1917): dibujos y acuarelas
@@ -1523,5 +1514,18 @@ DESCRIPTION:Exposición que recorre los 500 años de historia del Consejo
  de Estado y su papel en la formación de España (Biblioteca Nacional. 16 
  nov a 14 feb).\n\nhttps://www.bne.es/es/agenda/cinco-siglos-consejo-estado
 LOCATION:Biblioteca Nacional - de Recoletos\, 20 - 22\, Madrid\, 28071
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rilke y el arte español
+DTSTART;TZID=Europe/Madrid:20261117T000000
+DTEND;TZID=Europe/Madrid:20270307T000000
+UID:aeae79a428ad6dab623dd3bd381fa44b0c04926c1f9e374048218ac50c9dc177
+CATEGORIES:exhibition
+DESCRIPTION:Exposición dedicada a la influencia de la pintura española e
+ n la obra del autor austríaco cuando se cumple el centenario de su fallec
+ imiento (Museo del Prado. 17 nov a 7 mar).\n\nhttps://www.museodelprado.es
+ /actualidad/exposicion/rilke-y-el-arte-espaol/b639276f-a9d7-7523-6880-b6d0
+ 49edf03e
+LOCATION:Museo del Prado - del Prado\, s/n\, Madrid\, 28014
 END:VEVENT
 END:VCALENDAR
