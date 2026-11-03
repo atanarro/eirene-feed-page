@@ -492,18 +492,6 @@ DESCRIPTION:Muestra del retrato de la destacada escritora gallega\, quien
 LOCATION:Museo Cerralbo - de Ventura Rodríguez\, 17\, Madrid\, 28008
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rumores infundados. Javier y Rafa Forteza
-DTSTART;TZID=Europe/Madrid:20260908T000000
-DTEND;TZID=Europe/Madrid:20261102T000000
-UID:ddf5b43d3caaa33f3766e9937c72f982ff5a7d5b154a10a1bd59db57a79d66fe
-CATEGORIES:exhibition
-DESCRIPTION:Pinturas y esculturas que sumergen en un universo visual en el
-  que lo reconocible se resiste y lo figurativo dialoga con la materia (Cai
- xaForum Madrid. Hasta 2 noviembre).\n\nhttps://caixaforum.org/es/madrid/p/
- rumores-infundados-madrid
-LOCATION:CaixaForum Madrid - del Prado\, 36\, Madrid\, 28014
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Manolo Millares. Personaje caído I
 DTSTART;TZID=Europe/Madrid:20260909T000000
 DTEND;TZID=Europe/Madrid:20270216T000000
@@ -904,6 +892,17 @@ DESCRIPTION:Exposición sobre los hallazgos medievales del castillo de Mon
  ógico Nacional. Hasta 28 febrero).\n\nhttps://www.man.es/man/exposiciones
  /novedades-arqueologicas/20261006-vida-frontera-monreal-ariza.html
 LOCATION:Museo Arqueológico Nacional - de Serrano\, 13\, Madrid\, 28001
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Carteles sin palabras (Madrid Gráfica)
+DTSTART;TZID=Europe/Madrid:20261007T000000
+DTEND;TZID=Europe/Madrid:20261115T000000
+UID:f0c188517cc8001efbb95398a0cce9b1b5ebd868e3885488ef8bcc7f145df6ce
+CATEGORIES:exhibition
+DESCRIPTION:Diseñadores de toda Iberoamérica acuden a la capital para co
+ municar con imágenes y sin tipografía (Casa del Lector. 7 oct a 15 nov).
+ \n\nhttps://casalector.fundaciongsr.org/carteles-sin-palabras/
+LOCATION:Casa del Lector (Matadero) - de la Chopera\, 14\, Madrid\, 28045
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Colecciones Masaveu. Arte textil
@@ -1447,48 +1446,6 @@ LOCATION:Central de diseño (Matadero) - de la Chopera\, 14\, Madrid\, 280
  45
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bene Bergado: Huevos de Basura IV
-DTSTART;TZID=Europe/Madrid:20261102T100000
-DTEND;TZID=Europe/Madrid:20261102T234500
-UID:cc20ad2feccc3f7fdc9041d010744e19f2fde7f85638625547dcb8bed4230af3
-CATEGORIES:exhibition
-DESCRIPTION:Espacio: El Patio\n\nBene Bergado propone una instalación con
- struida sobre el reaprovechamiento de residuos\, que apunta a cuestiones r
- elacionadas con el impacto ambiental de la vida cotidiana y la cultura del
-  “capitalismo sostenible”.\n\n“Cada huevo está construido de resina
-  acrílica y poliestireno\, con una cápsula en su interior rellena de pl
- ásticos de envoltorios de productos de consumo\, que he desechado en 3 me
- ses de mi vida. Cada uno de estos huevos de basura lleva inscrito un códi
- go conformado por un sistema de gestión ambiental\, la fórmula química 
- de un tipo de envase para alimentos\, además de las fórmulas genéricas 
- de los materiales con los que está construido el huevo mismo”.\n\nLa me
- dición de la civilización\, realizada en función de la cantidad de desp
- erdicios\, alude también a los peligros del fraude simbólico ligados a l
- a cultura de la sostenibilidad\, incluso a la legalización normalizada de
-  la destrucción mediante los sistemas de gestión ambiental (SGA: UNE\, I
- SO\, etc.) y las agencias de calificación.\n\nLos huevos de basura no son
-  sólo depósitos de materiales plásticos derivados del petróleo y de co
- stosa biodegradación\, sino también gérmenes viables de una nueva biore
- generación.\n\nBene Bergado se licencia en Bellas Artes por la Universida
- d del País Vasco en 1985. Tras terminar la carrera inicia su andadura com
- o artista con la Beca de la Diputación de Vizcaya en 1986. En 1987 entra 
- como profesora en la Facultad de BB. AA. de Bilbao. Participa en la Muestr
- a de Arte joven de 1992 y la muestra comisariada por José Luis Brea “DI
- STANCIA 0” en 1994. Tras 10 años como profesora en la Facultad de BB. A
- A.  de Bilbao se traslada a vivir y trabajar en Madrid en 1998.\n\nEntre 
- sus exposiciones individuales\, cabe destacar: «Decrecer» (Azkuna Zentro
- a\, Bilbao\, 2023)\, «Irreversible» (Alcalá 31\, Madrid\, 2020)\, «Per
- sona» (MUSAC\, León\, 2016 / Centro Párraga\, Murcia\, 2018)\, «Entié
- ndeme tú a mí» (Sala Carlos III\, Universidad Pública de Navarra\, 200
- 2)\, «Contactos en paraíso» (Galleria Le Bureau des Esprits\, Milán\, 
- Italia\, 2000)\, o «La zapatería de Alix» (Bilbao Arte\, Bilbao\, 2000)
- .\n\nSu obra forma parte de colecciones tanto públicas como privadas\, a 
- nivel nacional e internacional.\n\nhttps://www.infinitodelicias.com/es/age
- nda/bene-bergado-huevos-basura-iv
-LOCATION:Infinito Delicias - C. de Juana Dona\, 5\, Arganzuela\, 28045 Mad
- rid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Camões: vida\, obra y pervivencia en la cultura hispánica
 DTSTART;TZID=Europe/Madrid:20261103T000000
 DTEND;TZID=Europe/Madrid:20270214T000000
@@ -1498,17 +1455,6 @@ DESCRIPTION:Muestra que rinde homenaje a uno de los mayores escritores de
  la literatura universal (Biblioteca Nacional. 3 nov a 14 feb).\n\nhttps://
  www.bne.es/es/agenda/camoes-vida-obra-pervivencia-cultura-hispanica
 LOCATION:Biblioteca Nacional - de Recoletos\, 20 - 22\, Madrid\, 28071
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:"Pintura en tránsito"
-DTSTART;TZID=Europe/Madrid:20261103T100000
-DTEND;TZID=Europe/Madrid:20261103T100000
-UID:4d0da192682f9c3deec5bf9790c3168dc4512aef030ee1f0eee353700c614fbf
-CATEGORIES:exhibition
-DESCRIPTION:Exposición de Rikinosuke Kato. Sala Anselma. Del 03 al 11 de 
- noviembre\, inauguración 03 a las 19:00 h. Horario: lunes a domingo 10:0
- 0 a 21:00.\n\nhttps://ateneodemadrid.com/evento/pintura-en-transito/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:(in)Visibles. Retratos e historias del sinhogarismo
@@ -1557,6 +1503,18 @@ DESCRIPTION:Presentación de la revista Gandaya. \n \nSección de Fotograf
  ía. Presenta: M.ª AntoniaGarcía de la Vega López \nIntervienen\; Esthe
  r Maestre\, Pedro Gutiérrez\, Iris G. Meras. \nSala Pérez Galdós. 13:00
  .\n\nhttps://ateneodemadrid.com/evento/encuentros-fotograficos-de-gijon/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:"Mucho por ver"
+DTSTART;TZID=Europe/Madrid:20261110T193000
+DTEND;TZID=Europe/Madrid:20261110T193000
+UID:f7a923014f63d8ea0b9ee17b5f3e3361126d410a2cb4ab0f242bb4c60e736be4
+CATEGORIES:exhibition
+DESCRIPTION:Presentación del libro. \n \nSección de Fotografía. Intervi
+ enen: José Magano – autor\, Pablo Basagoiti\, Nicolás Cancio\, Oliver 
+ García. Presenta: María Antonia García de la Vega. Sala Ramon y Cajal. 
+ 19:30.\n\nhttps://ateneodemadrid.com/evento/mucho-por-ver/
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -1660,5 +1618,40 @@ DESCRIPTION:Exposición dedicada a la influencia de la pintura española e
  /actualidad/exposicion/rilke-y-el-arte-espaol/b639276f-a9d7-7523-6880-b6d0
  49edf03e
 LOCATION:Museo del Prado - del Prado\, s/n\, Madrid\, 28014
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El asalto de la ilusión
+DTSTART;TZID=Europe/Madrid:20261118T000000
+DTEND;TZID=Europe/Madrid:20270425T000000
+UID:176e8567275844503ee48fa5871fffbad5bd74a6632b3e36c83764e6192dbd91
+CATEGORIES:exhibition
+DESCRIPTION:Exposición que explora cómo el arte crea ilusiones y engaño
+ s que influyen en nuestra percepción de la realidad (Círculo de Bellas A
+ rtes. 18 nov a 25 abr).\n\nhttps://www.circulobellasartes.com/exposiciones
+ /el-asalto-de-la-ilusion/
+LOCATION:Círculo de Bellas Artes - de Alcalá\, 42\, Madrid\, 28014
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Juan López. Las frecuencias altas
+DTSTART;TZID=Europe/Madrid:20261118T000000
+DTEND;TZID=Europe/Madrid:20270131T000000
+UID:16701e8e272fa8fa0469cab0872253fc9cbb876583f42e495a78f82c2eceb242
+CATEGORIES:exhibition
+DESCRIPTION:Una instalación artística que dialoga con la arquitectura y 
+ la historia de Condeduque (Conde Duque - Sala de Bóvedas. 18 nov a 31 ene
+  2027).\n\nhttps://www.condeduquemadrid.es/actividades/juan-lopez
+LOCATION:Conde Duque - del Conde Duque\, 11\, Madrid\, 28015
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Menesunda según Marta Minujín
+DTSTART;TZID=Europe/Madrid:20261118T000000
+DTEND;TZID=Europe/Madrid:20270308T000000
+UID:3653d9d954e9f42215ece92a6d7782188553a4eb06cbdc7b0427bcd667a21c31
+CATEGORIES:exhibition
+DESCRIPTION:Por primera vez en España\, se expone la reconstrucción de e
+ sta instalación artística de la artista argentina que supuso un hito en 
+ la segunda mitad el siglo XX (Museo Reina Sofía.\n\nhttps://www.museorein
+ asofia.es/exposicion/la-menesunda-segun-marta-minujin
+LOCATION:Museo Reina Sofía - de Santa Isabel\, 52\, Madrid\, 28012
 END:VEVENT
 END:VCALENDAR

@@ -1,18 +1,7 @@
 Eirene feed debug
-Total events: 3
+Total events: 2
 
-[1] Feria de Artesanía de Recoletos
-  id: 89aad1a09820c7cd94f2921665797f61430c60f4b1630f03bba3025dbb4de763
-  start: 2026-10-19T11:00:00+02:00
-  end: 2026-11-02T21:00:00+01:00
-  category: market
-  source: feria_artesania_recoletos
-  location: Paseo de Recoletos - Paseo de Recoletos, Madrid
-  coordinates: 40.423809, -3.691525
-  url: https://amoa.es/
-  description: Feria de artesanía organizada por AMOA en el Paseo de Recoletos con puestos de oficios artesanos y diseño.
-
-[2] Mercado de las Ranas
+[1] Mercado de las Ranas
   id: 0460057d6fa83029e827a103cc63eeb81c306e8bb4881d0060a1c2d556c6275d
   start: 2026-11-07T12:00:00+01:00
   end: 2026-11-07T20:00:00+01:00
@@ -23,13 +12,13 @@ Total events: 3
   url: https://barrioletras.com/mercado-de-las-ranas/
   description: Mercado del Barrio de las Letras con puestos de artesanía, diseño, moda y gastronomía en la calle Huertas.
 
-[3] Mercado Productores Planetario
-  id: 99ac27eca4ca98feccf708fde121c53a2609ae914cc430c106f34dce6559e553
-  start: 2026-11-15T10:00:00+01:00
-  end: 2026-11-15T16:00:00+01:00
+[2] Mercado Productores Alcobendas
+  id: cc792c29b878e4b531d5b44ff82747f34f37c7f51e96b0b3b9e1c6a83c2522b8
+  start: 2026-11-08T10:00:00+01:00
+  end: 2026-11-08T16:00:00+01:00
   category: market
   source: mercado_productores
-  location: Mercado Productores Planetario - Avenida del Planetario esquina Calle Meneses, Madrid
-  coordinates: 40.392053, -3.679427
-  url: https://mercadoproductores.es/mp-planetario/
-  description: Mercado de productores locales y artesanos en Planetario con alimentacion sostenible, productos de cercania y actividades al aire libre.
+  location: Mercado Productores Alcobendas - Paseo de Valdelasfuentes esquina Calle Jose Hierro, Alcobendas
+  coordinates: 40.554188, -3.648976
+  url: https://mercadoproductores.es/mp-alcobendas/
+  description: Mercado de productores locales y artesanos en Alcobendas con alimentos de proximidad y propuestas gastronomicas.

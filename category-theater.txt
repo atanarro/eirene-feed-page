@@ -1,5 +1,5 @@
 Eirene feed debug
-Total events: 47
+Total events: 48
 
 [1] La ópera de los tres centavos con Coque Malla
   id: d83b0aeadd6bbbf29203317652b8044624c92e450eb082ace43493cb69f5248b
@@ -43,7 +43,7 @@ Total events: 47
   location: Teatro del Barrio - Calle de Zurita, 20, Madrid
   coordinates: 40.4096081, -3.699174
   url: https://teatrodelbarrio.com/presentacion-de-exilio-y-palabra-el-numero-11-de-la-coleccion-voces-5w/
-  description: ¡Ya solo quedan 13 plazas!
+  description: ¡Ya solo quedan 1 plazas!
 
 [5] Hacia la huelga general: vivienda, organización y lucha de clases
   id: c2931cb2d2ea637f4494452428fdae30c146d367f3184d13124fc2c29aeaa70a
@@ -135,7 +135,18 @@ Frente a ciertos sectores que pretenden convertir el 11N en una cuestión electo
   url: https://www.teatroinfantaisabel.es/obra/golpe-a-golpe-verso-a-verso/
   description: Una obra que dialoga con los versos de Machado y las canciones de Joan Manuel Serrat (Teatro Infanta Isabel. Miércoles a domingos. 6 a 29 noviembre).
 
-[13] Los gitanos de la esquina o la alegría del Pozo
+[13] Paula Comitre
+  id: 867cd3b29179bae44a684814d0431cd8faf741674dc3551bf8b6cda632a09a8b
+  start: 2026-11-06T12:00:00+01:00
+  end: N/A
+  category: theater
+  source: matadero
+  location: Matadero Madrid - Plaza de Legazpi, 8, Madrid
+  coordinates: 40.392398, -3.697762
+  url: https://www.mataderomadrid.org/programacion/paula-comitre-0
+  description: El próximo viernes, 6 de noviembre de 2026, tras la representación, tendrá lugar el encuentro del público con el equipo artístico de la compañía. Modera: Tomás Fernando Flores. Los encuentros con el público son una ocasión especial para que los espectadores puedan intercambiar impresiones sobre el espectáculo, en compañía del equipo artístico. Estos encuentros son de entrada libre hasta completar aforo.
+
+[14] Los gitanos de la esquina o la alegría del Pozo
   id: 6dd67d4c76022f3be87b53e79e38481b0179b76e8fea27a248cba20647c09534
   start: 2026-11-06T19:30:00+01:00
   end: N/A
@@ -146,7 +157,7 @@ Frente a ciertos sectores que pretenden convertir el 11N en una cuestión electo
   url: https://teatrodelbarrio.com/los-gitanos-de-la-esquina-o-la-alegria-del-pozo/
   description: Disponible
 
-[14] Paula Comitre
+[15] Paula Comitre
   id: 6b0683eee67df49749c1cf65f9c6d124c17c208b1ca71348a7b4a6e08b9d63a2
   start: 2026-11-06T20:00:00+01:00
   end: N/A
@@ -157,7 +168,7 @@ Frente a ciertos sectores que pretenden convertir el 11N en una cuestión electo
   url: https://www.mataderomadrid.org/programacion/paula-comitre
   description: Centro Danza Matadero presenta el estreno absoluto de Bien vale un imperio , el nuevo espectáculo de Paula Comitre. Bien vale un imperio es el segundo capítulo de la Trilogía de la Edad de Plata Femenina , un proyecto en el que Comitre construye, a través de tres espectáculos, un tríptico escénico inspirado en el imaginario y legado de tres mujeres fundamentales para la consolidación del flamenco y la danza española de comienzos del siglo XX. Tras Après vous, Madame , dedicado a Antonia Mercé "La Argentina", esta nueva creación se adentra en la figura de Pastora Imperio. La trilogía culminará con una tercera pieza inspirada en otra gran bailarina de la época. Comitre parte del imaginario y el legado de estas artistas para desarrollar una creación plenamente contemporánea que no busca reconstruir el pasado sino activarlo en el presente. La pieza rescata resonancias del flamenco de aquella época para trasladarlas a un lenguaje actual, donde la tradición se entiende como un material vivo en constante transformación. A través del cuerpo, el gesto y la escena, se articula un diálogo entre memoria y presente. Su interés se sitúa también en el cruce entre disciplinas artísticas, tal y como hicieron muchas creadoras de la Edad de Plata, vinculadas a las vanguardias y las artes plásticas. Acompañada por tres guitarras de perfiles distintos: clásica, flamenca y experimental, la pieza construye un espacio sonoro contemporáneo desde el que dialogar con el imaginario de Pastora Imperio. Estas tres voces expanden el flamenco hacia nuevas texturas, atravesando lo popular, lo íntimo y lo vanguardista, sosteniendo una creación que entiende el pasado como una materia activa para pensar el presente. En Bien vale un imperio colaboran los artistas plásticos Fuentesal Arenillas, responsables de un vestuario-escena que define el universo visual de la obra. Su práctica escultórica, entendida como proceso en transformación, se activa en relación con el cuerpo y la escena. Inspirados en la figura transgresora de Pastora Imperio, reinventan elementos icónicos de la tradición flamenca como el sombrero, la bata de cola o el mantón, construyendo un espacio simbólico en diálogo con el movimiento. Paula Comitre es artista residente en Centro Danza Matadero para la Temporada 2026.
 
-[15] DONDE CRECEN LOS TARAYS
+[16] DONDE CRECEN LOS TARAYS
   id: b21fd349f02afb0013f50ea10e1b63d67c11f77b12976fffa54654d224d7e532
   start: 2026-11-06T20:00:00+01:00
   end: N/A
@@ -188,7 +199,7 @@ El relato sucede delante.
 
 El mar no se detiene.
 
-[16] Mugarri
+[17] Mugarri
   id: 4fd74f29ea5e13817aebfabf8a40f58b2effb99c882cc0b0bc04f44401729543
   start: 2026-11-06T22:15:00+01:00
   end: N/A
@@ -199,7 +210,7 @@ El mar no se detiene.
   url: https://teatrodelbarrio.com/mugarri/
   description: Disponible
 
-[17] Mugarri
+[18] Mugarri
   id: fe309f33d71516429dc0e67e42c92c73c98f8432db8974c8fc979988fa38a016
   start: 2026-11-07T13:00:00+01:00
   end: N/A
@@ -210,7 +221,7 @@ El mar no se detiene.
   url: https://teatrodelbarrio.com/mugarri/
   description: Disponible
 
-[18] Los gitanos de la esquina o la alegría del Pozo
+[19] Los gitanos de la esquina o la alegría del Pozo
   id: 629195c464a1ba392fbf76619ea539b8c385ff891879f436384e9848c32ecd16
   start: 2026-11-07T19:30:00+01:00
   end: N/A
@@ -221,7 +232,7 @@ El mar no se detiene.
   url: https://teatrodelbarrio.com/los-gitanos-de-la-esquina-o-la-alegria-del-pozo/
   description: Disponible
 
-[19] DONDE CRECEN LOS TARAYS
+[20] DONDE CRECEN LOS TARAYS
   id: 8e7b55eac1ad52368437312f1191af3d962cd6586572e09f56d872f895719dd6
   start: 2026-11-07T20:00:00+01:00
   end: N/A
@@ -252,7 +263,7 @@ El relato sucede delante.
 
 El mar no se detiene.
 
-[20] La rabia es nuestra
+[21] La rabia es nuestra
   id: 97c20c142579a44ef183e7a2fa680bbf4eb9f8ebec5936dab163309d589453d5
   start: 2026-11-07T22:15:00+01:00
   end: N/A
@@ -263,7 +274,7 @@ El mar no se detiene.
   url: https://teatrodelbarrio.com/la-rabia-es-nuestra/
   description: Disponible
 
-[21] Piccolino. Un cine concierto
+[22] Piccolino. Un cine concierto
   id: c69b4c8239ac2ba4be8e645aeb4cc2b0db82d4f292c3f95262fcbca2ecc868b9
   start: 2026-11-08T11:00:00+01:00
   end: N/A
@@ -274,7 +285,7 @@ El mar no se detiene.
   url: https://teatrodelbarrio.com/infantil-piccolino/
   description: Disponible
 
-[22] El cuerpo del flamenco
+[23] El cuerpo del flamenco
   id: 836873d5edac76be9757eb94cf11485a8bc0879db220d001fe69b7d9dc519571
   start: 2026-11-08T12:00:00+01:00
   end: N/A
@@ -285,7 +296,7 @@ El mar no se detiene.
   url: https://www.mataderomadrid.org/programacion/el-cuerpo-del-flamenco
   description: En este taller para público familiar nos acercaremos a la danza, concretamente al baile flamenco, a través de la exploración del propio cuerpo y sus posibilidades de movimiento, expresión y sonido. Mediante propuestas lúdicas y ejercicios prácticos, trabajaremos la conciencia corporal, el ritmo, la coordinación y la relación entre el movimiento y la música. Exploraremos las posibilidades sonoras del cuerpo a través de las palmas, los pies y otros recursos, descubriendo cómo el ritmo puede convertirse en una herramienta para bailar y comunicarnos. Todo ello desde una metodología participativa y adaptada a las edades de los participantes, que invite a disfrutar de la danza como un espacio de descubrimiento, juego y creación.
 
-[23] Spin Oz
+[24] Spin Oz
   id: 393160ba30dcf567d35d847710d382b3e902056d4608df2a4447d68466cf8495
   start: 2026-11-08T12:30:00+01:00
   end: 2026-12-13T12:30:00+01:00
@@ -296,7 +307,7 @@ El mar no se detiene.
   url: https://www.teatroinfantaisabel.es/
   description: Una secuela alternativa de El mago de Oz sobre la madurez y el autoconocimiento (Teatro Infanta Isabel. Domingos. 8 nov a 13 dic). | Noviembre: Domingos: 12:30 h Diciembre: Sáb-dom 12:30 h
 
-[24] "Una habitación propia", de VIRGINIA WOOLF
+[25] "Una habitación propia", de VIRGINIA WOOLF
   id: 243031c0acbf48c1888f7a87812887e28da6e8810a267de98a1c53505db9ea27
   start: 2026-11-08T13:00:00+01:00
   end: N/A
@@ -307,7 +318,7 @@ El mar no se detiene.
   url: https://teatrodelbarrio.com/una-habitacion-propia-de-virginia-woolf/
   description: ¡Ya solo quedan 1 plazas!
 
-[25] El lazarillo y las cosas del comer
+[26] El lazarillo y las cosas del comer
   id: 9953d44fd96214647db0c702525e23e0d11238a70b2369f2057bcd7f80525ca5
   start: 2026-11-08T17:30:00+01:00
   end: N/A
@@ -318,7 +329,7 @@ El mar no se detiene.
   url: https://teatrodelbarrio.com/el-lazarillo-y-las-cosas-del-comer/
   description: Disponible
 
-[26] DONDE CRECEN LOS TARAYS
+[27] DONDE CRECEN LOS TARAYS
   id: 6d804abb0ca0b29c6f5844e445f8c87b15a8f48106e0cbbf0e033c6acb4271e1
   start: 2026-11-08T19:30:00+01:00
   end: N/A
@@ -349,7 +360,7 @@ El relato sucede delante.
 
 El mar no se detiene.
 
-[27] Un verano por metro cuadrado
+[28] Un verano por metro cuadrado
   id: 7ce9011c0005cc4208cbb06509b114e61caa46ee7f633153ee7912da33131b6a
   start: 2026-11-08T20:30:00+01:00
   end: N/A
@@ -360,7 +371,7 @@ El mar no se detiene.
   url: https://teatrodelbarrio.com/un-verano-por-metro-cuadrado/
   description: ¡Ya solo quedan 1 plazas!
 
-[28] Feliz día - SUTOTTOS
+[29] Feliz día - SUTOTTOS
   id: b67858c4b7f992430eb575b0b6641a8c665eabff8f36c23c2d8bbe198de134fb
   start: 2026-11-09T13:00:00+01:00
   end: N/A
@@ -371,7 +382,7 @@ El mar no se detiene.
   url: https://teatrodelbarrio.com/feliz-dia/
   description: Disponible
 
-[29] Encerrona de Pepe Viyuela
+[30] Encerrona de Pepe Viyuela
   id: fce3b1be0dc9cd11633f02aefe76bc9989f8d837fbdd98ecc03412e4f4799e87
   start: 2026-11-11T22:00:00+01:00
   end: N/A
@@ -382,7 +393,7 @@ El mar no se detiene.
   url: https://teatrodelbarrio.com/pepe-viyuela-encerrona/
   description: ¡Ya solo quedan 1 plazas!
 
-[30] El hambre imposible
+[31] El hambre imposible
   id: 10e872a5b23d823a639fd959c519ab810587f284c55b86ee9acbcc3387b4dabc
   start: 2026-11-12T19:30:00+01:00
   end: N/A
@@ -393,7 +404,7 @@ El mar no se detiene.
   url: https://teatrodelbarrio.com/el-hambre-imposible/
   description: Disponible
 
-[31] DONDE CRECEN LOS TARAYS
+[32] DONDE CRECEN LOS TARAYS
   id: ff338f039a02baf2d7f8bab593f7def190004dfb4c27ad19d51560398dd3b4f9
   start: 2026-11-12T20:00:00+01:00
   end: N/A
@@ -424,7 +435,7 @@ El relato sucede delante.
 
 El mar no se detiene.
 
-[32] Encerrona de Pepe Viyuela
+[33] Encerrona de Pepe Viyuela
   id: 911e94873aa8e98c5b6349ca9fe73cab12715a39856cce546517e01929f98159
   start: 2026-11-12T22:00:00+01:00
   end: N/A
@@ -435,7 +446,7 @@ El mar no se detiene.
   url: https://teatrodelbarrio.com/pepe-viyuela-encerrona/
   description: ¡Ya solo quedan 1 plazas!
 
-[33] Saúl y la noche
+[34] Saúl y la noche
   id: 0297501cfcbfbc3d835721cb0ef034e90c33dedb52700125b59575166407a324
   start: 2026-11-13T19:30:00+01:00
   end: N/A
@@ -446,7 +457,7 @@ El mar no se detiene.
   url: https://teatrodelbarrio.com/saul-y-la-noche/
   description: ¡Ya solo quedan 1 plazas!
 
-[34] Magda
+[35] Magda
   id: 3634119fa2951bb9c1485b9a6c57d5cbac1937561f65dcfdc847e3d3cd3aec63
   start: 2026-11-13T20:00:00+01:00
   end: 2026-12-27T20:00:00+01:00
@@ -457,7 +468,7 @@ El mar no se detiene.
   url: https://dramatico.inaem.gob.es/evento/magda/
   description: Encuentro con el equipo artístico: 26 NOV 2026 Función matinal: 1 DIC 2026 a las 12:00 Funciones accesibles: 17 y 18 DIC 2026
 
-[35] DONDE CRECEN LOS TARAYS
+[36] DONDE CRECEN LOS TARAYS
   id: 6e62b7c3bd6d03260da9b69dfb589863fbb3c01b2cec808fe4596dfe5aadf8a4
   start: 2026-11-13T20:00:00+01:00
   end: N/A
@@ -488,7 +499,7 @@ El relato sucede delante.
 
 El mar no se detiene.
 
-[36] Notas de campo (el folclore y lo queer)
+[37] Notas de campo (el folclore y lo queer)
   id: e3506bcf70ab8d2df70e03a85b8b05bdd77fc45c7ec140474cb3b265b8eb5e85
   start: 2026-11-13T22:15:00+01:00
   end: N/A
@@ -499,7 +510,7 @@ El mar no se detiene.
   url: https://teatrodelbarrio.com/notas-de-campo-el-folclore-y-lo-queer/
   description: Disponible
 
-[37] La diatriba del perro
+[38] La diatriba del perro
   id: 2d74a7ed4dc4f4524ed48ca5b197541014d4c0ba8b5700526206975de035fce3
   start: 2026-11-14T13:00:00+01:00
   end: N/A
@@ -510,7 +521,7 @@ El mar no se detiene.
   url: https://teatrodelbarrio.com/la-diatriba-del-perro/
   description: Disponible
 
-[38] Saúl y la noche
+[39] Saúl y la noche
   id: 2b8d2043b9cbd85482f888196dcb1e1f54b36ebdcb6214d8a3dfb0f8ac9b5663
   start: 2026-11-14T19:30:00+01:00
   end: N/A
@@ -521,7 +532,7 @@ El mar no se detiene.
   url: https://teatrodelbarrio.com/saul-y-la-noche/
   description: Disponible
 
-[39] DONDE CRECEN LOS TARAYS
+[40] DONDE CRECEN LOS TARAYS
   id: 7772b6409eb14e53851f949a1b6c90cd0dac3d5c0106de9e0aa6689dd045f90f
   start: 2026-11-14T20:00:00+01:00
   end: N/A
@@ -552,7 +563,7 @@ El relato sucede delante.
 
 El mar no se detiene.
 
-[40] Notas de campo (el folclore y lo queer)
+[41] Notas de campo (el folclore y lo queer)
   id: 24bba085491c41a85c3beb06766734dbed5686447cc70e68e82ad8e73afc0788
   start: 2026-11-14T22:15:00+01:00
   end: N/A
@@ -563,18 +574,18 @@ El mar no se detiene.
   url: https://teatrodelbarrio.com/notas-de-campo-el-folclore-y-lo-queer/
   description: Disponible
 
-[41] Take off (Nada de esto tuvo que haber ocurrido)
-  id: 07df141b0a2d0971b8678321015dda0797fe60269a8351a6462e2baf8ffea91d
+[42] Take off (Nada de esto tuvo que haber ocurrido)
+  id: 6a7eccea18478d961c36ddeee0bedcfd64c042655498994145d3b653a40b01b4
   start: 2026-11-15T00:00:00+01:00
   end: 2026-11-15T23:59:00+01:00
   category: theater
   source: nave_10
   location: Nave 10 - Paseo de la Chopera, 14, Madrid
   coordinates: 40.3920606, -3.6978319
-  url: https://tienda.madrid-destino.com/es/nave-10/take-off-nada-de-esto-tenia-que-haber-ocurrido/
-  description: “QUIZÁ SURJA ALGO NUEVO DEL DESASTRE” Hay acontecimientos cuya probabilidad es tan pequeña que se les llama accidentes. Los accidentes necesitan una explicación. Mirar atrás. Encontrar el despiste, el fallo lógico, el error. Entender. Y aprender. En Take Off , José Padilla reconstruye el mayor desastre de la historia de la aviación civil. Tuvo lugar el 27 de marzo de 1977, en la pista del aeropuerto de Los Rodeos (Tenerife). Dos Boeing 747 colisionaron en la pista antes de despegar. Murieron 583 personas. Hasta aquí, el accidente. Ahora, la explicación. La buscan sobre el escenario Carlota Gaviño, Almudena Puyo, Kevin de la Rosa y Lucía Trentini, que dan vida a pasajeros, pilotos, controladores, locutores y narradores para reconstruir la cadena de acontecimientos que desembocó en la tragedia. La conclusión se la adelanto: nada basta por sí solo; todo resulta decisivo. La escritura es de precisión vertiginosa, y combina teatro documental, poesía y suspense. El hecho histórico es una metonimia de nuestra época: la ilusión de control y la inquietante certeza de que la Historia cambia por la suma de detalles aparentemente insignificantes. Por último, el aprendizaje. Si usted se siente seguro en un avión, es gracias a este azar organizado de hace casi cincuenta años. Que algo así no vuelva a repetirse, ahí reside la esperanza. Pilar G. Almansa Dramaturgista de la temporada 26/27 | Desde 17,25 €
+  url: https://tienda.madrid-destino.com/es/nave-10/take-off-nada-de-esto-tuvo-que-haber-ocurrido/
+  description: “QUIZÁ SURJA ALGO NUEVO DEL DESASTRE” Hay acontecimientos cuya probabilidad es tan pequeña que se les llama accidentes. Los accidentes necesitan una explicación. Mirar atrás. Encontrar el despiste, el fallo lógico, el error. Entender. Y aprender. En Take Off , José Padilla reconstruye el mayor desastre de la historia de la aviación civil. Tuvo lugar el 27 de marzo de 1977, en la pista del aeropuerto de Los Rodeos (Tenerife). Dos Boeing 747 colisionaron en la pista antes de despegar. Murieron 583 personas. Hasta aquí, el accidente. Ahora, la explicación. La buscan sobre el escenario Carlota Gaviño, Almudena Puyo, Kevin de la Rosa y Lucía Trentini, que dan vida a pasajeros, pilotos, controladores, locutores y narradores para reconstruir la cadena de acontecimientos que desembocó en la tragedia. La conclusión se la adelanto: nada basta por sí solo; todo resulta decisivo. La escritura es de precisión vertiginosa, y combina teatro documental, poesía y suspense. El hecho histórico es una metonimia de nuestra época: la ilusión de control y la inquietante certeza de que la Historia cambia por la suma de detalles aparentemente insignificantes. Por último, el aprendizaje. Si usted se siente seguro en un avión, es gracias a este azar organizado de hace casi cincuenta años. Que algo así no vuelva a repetirse, ahí reside la esperanza. Pilar G. Almansa Dramaturgista de la temporada 26/27 | Desde 17,25 € | Tags: JOBO
 
-[42] HUÉRFANOS
+[43] HUÉRFANOS
   id: 5ee01821603ce95fe27bfe06e2d4aeccffea11c8be47f6faf6890def54673edf
   start: 2026-11-15T12:30:00+01:00
   end: N/A
@@ -585,7 +596,7 @@ El mar no se detiene.
   url: https://teatrodelbarrio.com/huerfanos/
   description: Localidades agotadas
 
-[43] Saúl y la noche
+[44] Saúl y la noche
   id: df2b5c773a07d92c946ca3fe84258ad04ed8310c7a55855fddd0ba945ab1c449
   start: 2026-11-15T18:00:00+01:00
   end: N/A
@@ -596,7 +607,7 @@ El mar no se detiene.
   url: https://teatrodelbarrio.com/saul-y-la-noche/
   description: Disponible
 
-[44] DONDE CRECEN LOS TARAYS
+[45] DONDE CRECEN LOS TARAYS
   id: 2268ea9fad851dd5abd903b2dd10302a6fc51f421b9d2dd4f08ee5f831075994
   start: 2026-11-15T19:30:00+01:00
   end: N/A
@@ -627,7 +638,7 @@ El relato sucede delante.
 
 El mar no se detiene.
 
-[45] Un verano por metro cuadrado
+[46] Un verano por metro cuadrado
   id: 440872d65dc6111f91ded89e9ae34624c630b8ef8abcf301b16d925ce16cff5b
   start: 2026-11-15T20:30:00+01:00
   end: N/A
@@ -638,7 +649,7 @@ El mar no se detiene.
   url: https://teatrodelbarrio.com/un-verano-por-metro-cuadrado/
   description: ¡Ya solo quedan 1 plazas!
 
-[46] ¡Ay, Carmela!
+[47] ¡Ay, Carmela!
   id: fee959f6f342e84646413913a85f90d86b76ca52ed230869e8beb1bdfaafd104
   start: 2026-11-16T19:30:00+01:00
   end: N/A
@@ -647,9 +658,9 @@ El mar no se detiene.
   location: Teatro del Barrio - Calle de Zurita, 20, Madrid
   coordinates: 40.4096081, -3.699174
   url: https://teatrodelbarrio.com/ay-carmela/
-  description: ¡Ya solo quedan 19 plazas!
+  description: ¡Ya solo quedan 16 plazas!
 
-[47] Pablo d'Ors: Biografía del silencio
+[48] Pablo d'Ors: Biografía del silencio
   id: 2db9e69225969fc9514691ea4d9ccb66ed1d69e5298454ae54311606b20f467f
   start: 2026-11-17T00:00:00+01:00
   end: 2026-11-17T23:59:00+01:00

@@ -492,18 +492,6 @@ DESCRIPTION:Muestra del retrato de la destacada escritora gallega\, quien
 LOCATION:Museo Cerralbo - de Ventura Rodríguez\, 17\, Madrid\, 28008
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rumores infundados. Javier y Rafa Forteza
-DTSTART;TZID=Europe/Madrid:20260908T000000
-DTEND;TZID=Europe/Madrid:20261102T000000
-UID:ddf5b43d3caaa33f3766e9937c72f982ff5a7d5b154a10a1bd59db57a79d66fe
-CATEGORIES:exhibition
-DESCRIPTION:Pinturas y esculturas que sumergen en un universo visual en el
-  que lo reconocible se resiste y lo figurativo dialoga con la materia (Cai
- xaForum Madrid. Hasta 2 noviembre).\n\nhttps://caixaforum.org/es/madrid/p/
- rumores-infundados-madrid
-LOCATION:CaixaForum Madrid - del Prado\, 36\, Madrid\, 28014
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Manolo Millares. Personaje caído I
 DTSTART;TZID=Europe/Madrid:20260909T000000
 DTEND;TZID=Europe/Madrid:20270216T000000
@@ -904,6 +892,17 @@ DESCRIPTION:Exposición sobre los hallazgos medievales del castillo de Mon
  ógico Nacional. Hasta 28 febrero).\n\nhttps://www.man.es/man/exposiciones
  /novedades-arqueologicas/20261006-vida-frontera-monreal-ariza.html
 LOCATION:Museo Arqueológico Nacional - de Serrano\, 13\, Madrid\, 28001
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Carteles sin palabras (Madrid Gráfica)
+DTSTART;TZID=Europe/Madrid:20261007T000000
+DTEND;TZID=Europe/Madrid:20261115T000000
+UID:f0c188517cc8001efbb95398a0cce9b1b5ebd868e3885488ef8bcc7f145df6ce
+CATEGORIES:exhibition
+DESCRIPTION:Diseñadores de toda Iberoamérica acuden a la capital para co
+ municar con imágenes y sin tipografía (Casa del Lector. 7 oct a 15 nov).
+ \n\nhttps://casalector.fundaciongsr.org/carteles-sin-palabras/
+LOCATION:Casa del Lector (Matadero) - de la Chopera\, 14\, Madrid\, 28045
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Colecciones Masaveu. Arte textil
@@ -1527,5 +1526,40 @@ DESCRIPTION:Exposición dedicada a la influencia de la pintura española e
  /actualidad/exposicion/rilke-y-el-arte-espaol/b639276f-a9d7-7523-6880-b6d0
  49edf03e
 LOCATION:Museo del Prado - del Prado\, s/n\, Madrid\, 28014
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El asalto de la ilusión
+DTSTART;TZID=Europe/Madrid:20261118T000000
+DTEND;TZID=Europe/Madrid:20270425T000000
+UID:176e8567275844503ee48fa5871fffbad5bd74a6632b3e36c83764e6192dbd91
+CATEGORIES:exhibition
+DESCRIPTION:Exposición que explora cómo el arte crea ilusiones y engaño
+ s que influyen en nuestra percepción de la realidad (Círculo de Bellas A
+ rtes. 18 nov a 25 abr).\n\nhttps://www.circulobellasartes.com/exposiciones
+ /el-asalto-de-la-ilusion/
+LOCATION:Círculo de Bellas Artes - de Alcalá\, 42\, Madrid\, 28014
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Juan López. Las frecuencias altas
+DTSTART;TZID=Europe/Madrid:20261118T000000
+DTEND;TZID=Europe/Madrid:20270131T000000
+UID:16701e8e272fa8fa0469cab0872253fc9cbb876583f42e495a78f82c2eceb242
+CATEGORIES:exhibition
+DESCRIPTION:Una instalación artística que dialoga con la arquitectura y 
+ la historia de Condeduque (Conde Duque - Sala de Bóvedas. 18 nov a 31 ene
+  2027).\n\nhttps://www.condeduquemadrid.es/actividades/juan-lopez
+LOCATION:Conde Duque - del Conde Duque\, 11\, Madrid\, 28015
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Menesunda según Marta Minujín
+DTSTART;TZID=Europe/Madrid:20261118T000000
+DTEND;TZID=Europe/Madrid:20270308T000000
+UID:3653d9d954e9f42215ece92a6d7782188553a4eb06cbdc7b0427bcd667a21c31
+CATEGORIES:exhibition
+DESCRIPTION:Por primera vez en España\, se expone la reconstrucción de e
+ sta instalación artística de la artista argentina que supuso un hito en 
+ la segunda mitad el siglo XX (Museo Reina Sofía.\n\nhttps://www.museorein
+ asofia.es/exposicion/la-menesunda-segun-marta-minujin
+LOCATION:Museo Reina Sofía - de Santa Isabel\, 52\, Madrid\, 28012
 END:VEVENT
 END:VCALENDAR
