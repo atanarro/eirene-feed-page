@@ -2,77 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Delicias//ES
 BEGIN:VEVENT
-SUMMARY:GLOBAL GUITAR DIALOGUES
-DTSTART;TZID=Europe/Madrid:20261104T200000
-DTEND;TZID=Europe/Madrid:20261105T200000
-UID:1fc3f6f1ba7ffcc8b44efce45447cd2a178a1ad15c004ba49ba7fc4ca2778110
-CATEGORIES:music
-DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
-  el Área del Socio. Calle Prado\, 21. Pases: 20:00h. y 22:00h. \n \nJohn 
- Stowell – guitarra\nTino Di Geraldo – percusión\nLuis Gallo – guita
- rra\nJosemi Garzón – contrabajo \nJohn Stowell\, guitarrista de jazz\, 
- Tino di Geraldo\, baterista\, percusionista y productor y Luis Gallo\, gui
- tarrista\, compositor y productor\, se reúnen en Global Guitar Dialogues
- \, un proyecto que pone en encuentro sus diferentes trayectorias musicales
- . \nJohn Stowell cuenta con una extensa carrera internacional y ha grabado
-  y actuado con músicos como Herb Ellis y Dave Liebman. Tino di Geraldo ha
-  desarrollado una trayectoria que abarca el flamenco\, el pop y el rock\, 
- y ha colaborado con artistas como Manolo Sanlúcar\, Paco de Lucía\, Cama
- rón y Enrique Morente. Luis Gallo\, afincado en Madrid\, trabaja en el á
- mbito del flamenco y el jazz\, y explora en sus proyectos\, composiciones 
- y colaboraciones la relación entre el flamenco y otros lenguajes musicale
- s. Se une al proyecto Josemi Garzón\, contrabajista muy respetado en el C
- entral.\n\nhttps://ateneodemadrid.com/evento/global-guitar-dialogues/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mark Guiliana Beat Music
-DTSTART;TZID=Europe/Madrid:20261104T203000
-UID:0184448732b25e4166c37e1595a82e974125f905f7fe4cea204170f09f1dde40
-CATEGORIES:music
-DESCRIPTION:Concierto / Villanos del Jazz. Alguien dijo de su música que 
- era como mezclar a Elvin Jones y Art Blakey con una caja de ritmos 808\, y
-  luego dividirlo por J Dilla y multiplicarlo por Squarepusher: no es mala 
- definición. David Bowie\, Brad Mehldau\, Avishai Cohen\, Sr. Vincent\, Pe
- al Jam o Matisyahu se cuentan entre los músicos con quienes ha trabajado 
- alguna vez el estadounidense Mark Guiliana\, prueba de que habita en la ar
- istocracia de esa esfera en la que el jazz\, la electrónica y los lenguaj
- es de vanguardia se dan cita. Es no solo uno de loa mejores bateristas del
-  jazz internacional\, sino también un diseñador de paisajes sonoros bajo
-  múltiples formatos. Este compositor\, educador\, productor y fundador de
- l sello discográfico independiente Beat Music Productions\, nacido en Nue
- va Jersey en 1980\, ha tocado prácticamente todos los palos del género d
- esde todos los roles imaginables\, a lo largo de una carrera con más de 1
- 5 álbumes principales como líder o colíder y otros 35 como colaborador.
-  Su directo es toda una experiencia\, en la que la precisión milimétrica
-  que se deriva de su maestría rítmica no entra en contradicción con el 
- derroche de emoción en estado puro.\n\nhttps://salavillanos.es/evento/mar
- k-guiliana-beat-music/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AfterJam Mark Guiliana con Jawhar
-DTSTART;TZID=Europe/Madrid:20261104T223000
-UID:646cb4515995e6e14058ae270726b78a6d5f20d414e73c783a288b75990608d7
-CATEGORIES:music
-DESCRIPTION:Concierto / Villanos del Jazz. Inmediatamente después del con
- cierto de Mark Guiliana\, Jawhar organiza una tocata en la que saltarán t
- odos los tornillos de la Villanos. Gratis para la gente que asiste al conc
- ierto de Marrk Guiliana y para músicos “Last call” by Jawhar llega a 
- la Sala Villanos para ofrecer una noche irrepetible donde la vanguardia y 
- la improvisación se encuentran en estado puro. Integrada por Javier Moren
- o (batería)\, Juanma Montoya (guitarra)\, Kevin Díaz (teclados) y Daniel
-  Levy (bajo) — músicos de sesión clave en las giras de Nathy Peluso\, 
- La Plazuela o Dellafuente—\, Jawhar rompe los moldes fusionando la sofis
- ticación del jazz moderno con la raíz orgánica del flamenco\, el funk y
-  el hip-hop. Tras desplegar su potente directo\, la banda abrirá paso a u
- na vibrante jam que contará con la colaboración especial de grandes figu
- ras del cante flamenco . Una cita imprescindible para vivir una experienci
- a sonora única. ¡No te quedes fuera!\n\nhttps://salavillanos.es/evento/a
- fterjam-mark-guiliana-con-jawhar/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Nate Smith
 DTSTART;TZID=Europe/Madrid:20261105T193000
 UID:12f0d70f1df16cc56f6a786201b21eaf9fc6be24cf24766fb028a5d8aa22d440
@@ -221,8 +150,19 @@ SUMMARY:Madrid Music Meeting
 DTSTART;TZID=Europe/Madrid:20261107T133000
 UID:0b5a94d9919397610e98c0838dd2efdda6b36f2fbd41729dcb29a0773094f398
 CATEGORIES:music
-DESCRIPTION:Concierto / Latin\n\nhttps://salavillanos.es/evento/madrid-mus
- ic-meeting/
+DESCRIPTION:Concierto / Latin. El sábado Madrid Music Meeting baja a Sala
+  Villanos a mediodía. Tres bandas de la ciudad\, 40 minutos cada una\, pa
+ ra bailar antes de comer. 13:30 · Caribe Café. Salsa brava y latin jazz 
+ dirigidos por el pianista italo-venezolano Silvano Pagliuca-Mena. Habitual
+ es de las noches salseras de Madrid\, de Babylon a Café Berlín. 14:10 ·
+  Los Impresentables. Diáspora colombiana en Madrid: rock sucio\, trópico
+ \, funk\, punk de garaje y electrónica sin pedirle permiso a ningún gén
+ ero. 14:50 · Los Justicieros. Nueva cumbia con rock\, reggae\, funk\, psi
+ codelia y ska. Empezaron como dúo en Salamanca y hoy son siete. Su primer
+  EP se llama «Cumbia psicodélica para toda la familia». Por la noche\, 
+ a las 20:00\, seguimos en CEDA La Parcería con Tambours du Ndiambour y DJ
+  set (entrada aparte). Programa completo en madridmusicmeeting.com .\n\nht
+ tps://salavillanos.es/evento/madrid-music-meeting/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -485,32 +425,60 @@ DTSTART;TZID=Europe/Madrid:20261110T100000
 DTEND;TZID=Europe/Madrid:20261110T100000
 UID:5a9aac0a01780ce8c9e64e49c1cf07aeae8131265fe3bfcaa13d589f22ce68f6
 CATEGORIES:music
-DESCRIPTION:Ciclo De Iberoamericana. \n \nSección Iberoamericana y Fundac
- ión Carolina. \n10:00-10:30. Inauguración  \n\nÉrika Rodriguez Pinzó
- n. Directora de la Fundación Carolina\nEva Granados. Secretaria de Estado
-  de Cooperación Internacional\nHugo Camacho. Sección Iberoamericana del 
- Ateneo\n\n10.30-12.00h. Democracias tensionadas: elecciones\, percepciones
-  y desafección \nPonentes: \n\nMarcela Ríos. Directora para América Lat
- ina y el Caribe\, IDEA Institute\nEsther del Campo. Catedrática de Cienci
- a Política\, UCM\nIrma Méndez de Hoyos. Profesora-investigadora\, FLACSO
-  México\n\nModera: \nPurificación Causapié. Secretaria general\, Fundac
- ión Carolina \n12.30-14.00h. El nuevo mapa del poder: ¿giro a la derecha
- ? \nPonentes: \n\nÉrika Rodríguez Pinzón. Directora de la Fundación Ca
- rolina\nMarisa Ramos. Profesora de Ciencia Política\, UCM\nThomas Kestler
- . Profesor de Política y Gobierno\, Universidad de Wurzburgo\n\nModera: 
- \nManuel Guedán. Sección Iberoamericana del Ateneo \n15.30-17.00h. El Es
- tado bajo asedio: lawfare\, oligarquías y captura de la democracia \nPone
- ntes: \n\nCarmen Rosa de León-Escribano. Directora del Instituto de Ense
- ñanza para el Desarrollo Sostenible\nJorge Resina. Profesor de Ciencia Po
- lítica\, UCM\nAlex Segovia. Coordinador de RED-ICA e investigador\, Unive
- rsidad Loyola\n\nModera: \nJosé Andrés Fernández Leost\, Jefe del Área
-  de Estudios y Análisis de la Fundación Carolina \n17.00h. Clausura. La 
- palabra y la política: por una Iberoamérica democrática \n\nMario Pezzi
- ni. Consejo científico de la Fundación Avanza.\nÉrika Rodríguez Pinzó
- n. Directora de la Fundación Carolina.\n\nSala Pérez Galdós. 10:00.\n\n
- https://ateneodemadrid.com/evento/la-democracia-latinoamericana-en-tiempos
- -de-disputa/
+DESCRIPTION:Sección Iberoamericana y Fundación Carolina. \n10:00-10:30.
+  Inauguración  \n\nÉrika Rodríguez Pinzón. Directora de la Fundació
+ n Carolina\nEva Granados. Secretaria de Estado de Cooperación Internacion
+ al\nHugo Camacho. Sección Iberoamericana del Ateneo\n\n10.30-12.00h. Demo
+ cracias tensionadas: elecciones\, percepciones y desafección \nPonentes: 
+ \n\nMarcela Ríos. Directora para América Latina y el Caribe\, IDEA Insti
+ tute\nEsther del Campo. Catedrática de Ciencia Política\, UCM\nIrma Mén
+ dez de Hoyos. Profesora-investigadora\, FLACSO México\n\nModera: \nPurifi
+ cación Causapié. Secretaria general\, Fundación Carolina \n12.30-14.00h
+ . El nuevo mapa del poder: ¿giro a la derecha? \nPonentes: \n\nÉrika Rod
+ ríguez Pinzón. Directora de la Fundación Carolina\nMarisa Ramos. Profes
+ ora de Ciencia Política\, UCM\nThomas Kestler. Profesor de Política y Go
+ bierno\, Universidad de Wurzburgo\n\nModera: \nManuel Guedán. Sección Ib
+ eroamericana del Ateneo \n15.30-17.00h. El Estado bajo asedio: lawfare\, o
+ ligarquías y captura de la democracia \nPonentes: \n\nCarmen Rosa de Leó
+ n-Escribano. Directora del Instituto de Enseñanza para el Desarrollo Sost
+ enible\nJorge Resina. Profesor de Ciencia Política\, UCM\nAlex Segovia. C
+ oordinador de RED-ICA e investigador\, Universidad Loyola\n\nModera: \nJos
+ é Andrés Fernández Leost\, Jefe del Área de Estudios y Análisis de la
+  Fundación Carolina \n17.00h. Clausura. La palabra y la política: por un
+ a Iberoamérica democrática \n\nMario Pezzini. Consejo científico de la 
+ Fundación Avanza.\nÉrika Rodríguez Pinzón. Directora de la Fundación 
+ Carolina.\n\nSala Pérez Galdós. 10:00.\n\nhttps://ateneodemadrid.com/eve
+ nto/la-democracia-latinoamericana-en-tiempos-de-disputa/
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coro Paisanaje
+DTSTART;TZID=Europe/Madrid:20261110T100000
+DTEND;TZID=Europe/Madrid:20261110T120000
+UID:ed21e0aa103370806afb45cd41000268cf34ce7282853b05f2d8c8bfd218ab07
+CATEGORIES:music
+DESCRIPTION:Espacio: El Estudio\n\nPara la nueva temporada de\n\nMano Vuel
+ ta en Infinito Delicias\n\n\, queremos incorporar uno de los procesos que 
+ surgieron de manera tan inesperada durante el curso pasado:\n\nel coro\n\n
+ .\n\nA partir de las canciones de labor compuestas por Leo Can para acompa
+ ñar las distintas faenas agrícolas de las salidas\, el canto se ha conve
+ rtido en una forma de encuentro y unión entre quienes han ido formando pa
+ rte de Mano Vuelta.\n\nEsta nueva temporada abrimos\n\nsesiones de coro qu
+ incenales\n\n\, un espacio para seguir aprendiendo y cantando juntxs\, rec
+ uperar la dimensión colectiva de las canciones de trabajo y explorar nuev
+ as composiciones vinculadas al campo.\n\nEste es un coro amateur\, no hace
+  falta saber cantar ni cantar bien\; solo ganas de juntarse y dejarse llev
+ ar.\n\nPaisanaje\n\nes un colectivo de exploración y acción que investig
+ a formas de imaginar futuros más esperanzadores a través de prácticas v
+ inculadas a la soberanía alimentaria\, las transiciones urbanas\, la recu
+ peración de saberes tradicionales y la celebración de lo común. Su trab
+ ajo se materializa en acciones cotidianas como paseos colectivos\, comidas
+  compartidas\, talleres o publicaciones entre otros\, entendiendo la cultu
+ ra como una herramienta para transformar nuestra relación con el territor
+ io y la comunidad.\n\nhttps://www.infinitodelicias.com/es/agenda/coro-pais
+ anaje-diez-noviembre
+LOCATION:Infinito Delicias - C. de Juana Dona\, 5\, Arganzuela\, 28045 Mad
+ rid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Camilla George
@@ -633,6 +601,36 @@ DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
  disfrutar de la tradición musical cubana desde el diálogo entre sus ritm
  os más característicos y el lenguaje del jazz.\n\nhttps://ateneodemadrid
  .com/evento/three-cuban-jazz-con-roque-martinez/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JAZZMADRID 2026 - JAZZ CON SABOR A CLUB: JOSHUA EDELMAN TRIO REMEM
+ BERING BARRY HARRIS
+DTSTART;TZID=Europe/Madrid:20261113T200000
+DTEND;TZID=Europe/Madrid:20261114T200000
+UID:8c0cf71970aae6684f2d97e3a182704a987c215844f4479275536e55a7b89493
+CATEGORIES:music
+DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
+  el Área del Socio. Santa Catalina\, 10. Pases: 20:00h. y 22:00h. \n \nJo
+ shua Edelman – piano\nHans Mantel – contrabajo\nJimmy Castro – bater
+ ía \nFESTIVAL INTERNACIONAL JAZZ MADRID – JAZZ CON SABOR A CLUB \n“Es
+  difícil describir en pocas palabras lo que ha significado Barry Harris p
+ ara la historia del jazz y para mí a nivel personal. Queridísimo amigo y
+  maestro\, fue uno de los pianistas más grandes del siglo veinte y el pri
+ mer pedagogo que desarrolló una sabia metodología para desvelar los secr
+ etos del lenguaje del jazz y enseñar a tocarlo. Barry era un ejemplo vivo
+  de maestría y generosidad que nos enseñó muchísimo del jazz y de la v
+ ida más allá de la música. Tuve la suerte de conocer a Barry en los añ
+ os setenta en Nueva york y de asistir asiduamente a sus clases. En 1986 co
+ nseguí que viniera a España y a partir de ese momento el Café Central f
+ ue durante décadas el cuartel general de las alegres y apasionantes actua
+ ciones de Barry Harris en Madrid. \nHans Mantel y Jimmy Castro fueron sus 
+ fieles acompañantes en cientos de conciertos desde los años ochenta. Com
+ o homenaje queremos recordar y recrear la alegría\, la emoción y el swin
+ g de esas noches que compartimos y agradecerle a Barry todo lo que nos bri
+ ndó durante su vida a tantos amantes del jazz.” (Joshua Edelman)\n\nhtt
+ ps://ateneodemadrid.com/evento/jazzmadrid-2026-jazz-con-sabor-a-club-joshu
+ a-edelman-trio-remembering-barry-harris/
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -855,5 +853,33 @@ DESCRIPTION:Concierto / Villanos del Jazz. La cadencia contagiosamente cá
  rry y Pink Floyd comparten espacio en su santoral particular.\n\nhttps://s
  alavillanos.es/evento/skinshape/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Por El Aire
+DTSTART;TZID=Europe/Madrid:20261119T210000
+UID:191f68688d20e366f3e4542b3a6dfc657ecb9bf7bfe82284a452be7a1b1fd54b
+CATEGORIES:music
+DESCRIPTION:Concierto / Villanos del Jazz. POR EL AIRE Lin Cortés\, Josem
+ i Carmona\, Alana Sinkëy y Miryam Latrece se reúnen para ofrecernos un e
+ ncuentro musical único\, donde la personalidad y el talento de los cuatro
+  artistas se funden en un mismo universo sonoro. A través de composicione
+ s originales y algunos clásicos del flamenco\, nos invitan a viajar por s
+ u mundo de libertad\, improvisación y emoción\, donde la música fluye s
+ in etiquetas ni fronteras. Una experiencia llena de complicidad y magia\, 
+ para dejarse llevar y disfrutar de lo inesperado.\n\nhttps://salavillanos.
+ es/evento/por-el-aire/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hijos De King Kong + Los Desafinaós + Vortex 8
+DTSTART;TZID=Europe/Madrid:20261119T210000
+UID:260605a17bf38daaa31d1928f476f093fdbcf27471060c8016ab083ddd3975dd
+CATEGORIES:music
+DESCRIPTION:Precio de las entradas: 8€/10€ (+ g.g.) . Entradas a la ve
+ nta en movingtickets Bio/enlaces bandas: Hijos de King Kong_facebook + Hij
+ os de King Kong_instagram Vortex8_instagram Más información: Hijos de Ki
+ ng Kong\, Desafinaós y\n\nhttps://gruta77.com/events/hijos-de-king-kong-l
+ os-desafinaos-vortex-8/var/ri-0.l-L2
+LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
 END:VEVENT
 END:VCALENDAR

@@ -420,6 +420,17 @@ LOCATION:Museo Nacional de Antropología - de Alfonso XII\, 68\, Madrid\,
  28014
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:El mundo de Van Gogh
+DTSTART;TZID=Europe/Madrid:20260729T000000
+DTEND;TZID=Europe/Madrid:20261230T000000
+UID:7138d28c99ddaabf235c72a80537a112e7e69471320bce4151cfe7aacab0f3aa
+CATEGORIES:exhibition
+DESCRIPTION:Una experiencia sensorial única en la que disfrutar de las ob
+ ras del pintor a gran escala y en movimiento (Nomad Museo Inmersivo. Miér
+ coles\, viernes y domingos).\n\nhttps://www.nomadmuseo.es/van-gogh/
+LOCATION:Nomad Museo Inmersivo - Gran Vía\, 78\, Madrid\, 28013
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Biblioteca Habsbúrgica. Semblanzas impresas de una dinastía
 DTSTART;TZID=Europe/Madrid:20260901T000000
 DTEND;TZID=Europe/Madrid:20261130T000000
@@ -1537,5 +1548,29 @@ DESCRIPTION:Por primera vez en España\, se expone la reconstrucción de e
  la segunda mitad el siglo XX (Museo Reina Sofía.\n\nhttps://www.museorein
  asofia.es/exposicion/la-menesunda-segun-marta-minujin
 LOCATION:Museo Reina Sofía - de Santa Isabel\, 52\, Madrid\, 28012
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hans Baldung Grien
+DTSTART;TZID=Europe/Madrid:20261120T000000
+DTEND;TZID=Europe/Madrid:20270307T000000
+UID:d94ea318a346db38ae7ffc1c60d44f7235ac30948b7d43a0e7f59c3215f4e19b
+CATEGORIES:exhibition
+DESCRIPTION:Breve muestra compuesta por dos obras del destacado pintor ren
+ acentista alemán (Museo del Prado. 20 nov a 7 mar).\n\nhttps://www.museod
+ elprado.es/actualidad/exposicion/hans-baldung-grien/018c21be-a8af-b025-814
+ 5-bee1b7a4799c
+LOCATION:Museo del Prado - del Prado\, s/n\, Madrid\, 28014
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Miki Leal. La corriente del confort. De lo cotidiano a lo heroico
+DTSTART;TZID=Europe/Madrid:20261120T000000
+DTEND;TZID=Europe/Madrid:20270110T000000
+UID:07ce80e2f83fbda06a84136413c45ff170abfd123413159e847c3f0e56c13c82
+CATEGORIES:exhibition
+DESCRIPTION:Una amplia exposición dedicada al trabajo del artista sevilla
+ no que reúne más de 120 piezas (Sala Alcalá 31. 20 nov a 10 ene 2027).
+ \n\nhttps://www.comunidad.madrid/actividades/2026/exposicion-miki-leal
+LOCATION:Sala Alcalá 31 de la Comunidad de Madrid - de Alcalá\, 31\, Mad
+ rid\, 28014
 END:VEVENT
 END:VCALENDAR
