@@ -1,5 +1,5 @@
 Eirene feed debug
-Total events: 3
+Total events: 4
 
 [1] Mercado de las Ranas
   id: 0460057d6fa83029e827a103cc63eeb81c306e8bb4881d0060a1c2d556c6275d
@@ -33,3 +33,14 @@ Total events: 3
   coordinates: 40.392053, -3.679427
   url: https://mercadoproductores.es/mp-planetario/
   description: Mercado de productores locales y artesanos en Planetario con alimentacion sostenible, productos de cercania y actividades al aire libre.
+
+[4] Mercado de las Ranas
+  id: 82ea4684c05e1dea1324a0818fc9b73b450a79f66893339bdadcbc1589a13fc1
+  start: 2026-11-21T12:00:00+01:00
+  end: 2026-11-21T20:00:00+01:00
+  category: market
+  source: mercado_de_las_ranas
+  location: Barrio de las Letras - Calle de las Huertas, 2-47, Madrid
+  coordinates: 40.414413, -3.698524
+  url: https://barrioletras.com/mercado-de-las-ranas/
+  description: Mercado del Barrio de las Letras con puestos de artesanía, diseño, moda y gastronomía en la calle Huertas.
