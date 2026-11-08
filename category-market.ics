@@ -2,17 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Delicias//ES
 BEGIN:VEVENT
-SUMMARY:Mercado de las Ranas
-DTSTART;TZID=Europe/Madrid:20261107T120000
-DTEND;TZID=Europe/Madrid:20261107T200000
-UID:0460057d6fa83029e827a103cc63eeb81c306e8bb4881d0060a1c2d556c6275d
-CATEGORIES:market
-DESCRIPTION:Mercado del Barrio de las Letras con puestos de artesanía\, d
- iseño\, moda y gastronomía en la calle Huertas.\n\nhttps://barrioletras.
- com/mercado-de-las-ranas/
-LOCATION:Barrio de las Letras - Calle de las Huertas\, 2-47\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Mercado Productores Alcobendas
 DTSTART;TZID=Europe/Madrid:20261108T100000
 DTEND;TZID=Europe/Madrid:20261108T160000
@@ -25,18 +14,6 @@ LOCATION:Mercado Productores Alcobendas - Paseo de Valdelasfuentes esquina
   Calle Jose Hierro\, Alcobendas
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mercado Productores Planetario
-DTSTART;TZID=Europe/Madrid:20261115T100000
-DTEND;TZID=Europe/Madrid:20261115T160000
-UID:99ac27eca4ca98feccf708fde121c53a2609ae914cc430c106f34dce6559e553
-CATEGORIES:market
-DESCRIPTION:Mercado de productores locales y artesanos en Planetario con a
- limentacion sostenible\, productos de cercania y actividades al aire libre
- .\n\nhttps://mercadoproductores.es/mp-planetario/
-LOCATION:Mercado Productores Planetario - Avenida del Planetario esquina C
- alle Meneses\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Mercado de las Ranas
 DTSTART;TZID=Europe/Madrid:20261121T120000
 DTEND;TZID=Europe/Madrid:20261121T200000
@@ -46,5 +23,17 @@ DESCRIPTION:Mercado del Barrio de las Letras con puestos de artesanía\, d
  iseño\, moda y gastronomía en la calle Huertas.\n\nhttps://barrioletras.
  com/mercado-de-las-ranas/
 LOCATION:Barrio de las Letras - Calle de las Huertas\, 2-47\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mercado Productores Valdebebas
+DTSTART;TZID=Europe/Madrid:20261122T100000
+DTEND;TZID=Europe/Madrid:20261122T160000
+UID:4a8a5bd866ccbb3e819f903c1fd4e59df1b0a87f2de0e7b6191059e8c779049f
+CATEGORIES:market
+DESCRIPTION:Mercado de productores locales y artesanos en Valdebebas con p
+ roductos frescos\, gourmet y actividades para todos los publicos.\n\nhttps
+ ://mercadoproductores.es/mercado-valdebebas/
+LOCATION:Mercado Productores Valdebebas - Plaza Francisco de Asis Cabrero
+ \, Madrid
 END:VEVENT
 END:VCALENDAR
