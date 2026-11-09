@@ -2,6 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Delicias//ES
 BEGIN:VEVENT
+SUMMARY:Al final de las cosas
+DTSTART;TZID=Europe/Madrid:20261009T180000
+DTEND;TZID=Europe/Madrid:20261115T180000
+UID:8a0f8899fd2e38d0b5e0de238d494be0bf9a07146167796e1d816985b063ac0a
+CATEGORIES:theater
+DESCRIPTION:Encuentro con el equipo artístico: 22 OCT 2026 Los cigarrillo
+ s que se fuman en escena no contienen tabaco\n\nhttps://dramatico.inaem.go
+ b.es/evento/al-final-de-las-cosas/
+LOCATION:Teatro Maria Guerrero - Calle de Tamayo y Baus\, 4\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Menú cerrado
 DTSTART;TZID=Europe/Madrid:20261105T190000
 DTEND;TZID=Europe/Madrid:20270103T190000
@@ -26,34 +37,6 @@ DESCRIPTION:Una obra que dialoga con los versos de Machado y las canciones
 LOCATION:Teatro Infanta Isabel - Calle del Barquillo\, 24\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Piccolino. Un cine concierto
-DTSTART;TZID=Europe/Madrid:20261108T110000
-UID:c69b4c8239ac2ba4be8e645aeb4cc2b0db82d4f292c3f95262fcbca2ecc868b9
-CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 3 plazas!\n\nhttps://teatrodelbarrio.com/infa
- ntil-piccolino/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El cuerpo del flamenco
-DTSTART;TZID=Europe/Madrid:20261108T120000
-UID:836873d5edac76be9757eb94cf11485a8bc0879db220d001fe69b7d9dc519571
-CATEGORIES:theater
-DESCRIPTION:En este taller para público familiar nos acercaremos a la dan
- za\, concretamente al baile flamenco\, a través de la exploración del pr
- opio cuerpo y sus posibilidades de movimiento\, expresión y sonido. Media
- nte propuestas lúdicas y ejercicios prácticos\, trabajaremos la concienc
- ia corporal\, el ritmo\, la coordinación y la relación entre el movimien
- to y la música. Exploraremos las posibilidades sonoras del cuerpo a trav
- és de las palmas\, los pies y otros recursos\, descubriendo cómo el ritm
- o puede convertirse en una herramienta para bailar y comunicarnos. Todo el
- lo desde una metodología participativa y adaptada a las edades de los par
- ticipantes\, que invite a disfrutar de la danza como un espacio de descubr
- imiento\, juego y creación.\n\nhttps://www.mataderomadrid.org/programacio
- n/el-cuerpo-del-flamenco
-LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Spin Oz
 DTSTART;TZID=Europe/Madrid:20261108T123000
 DTEND;TZID=Europe/Madrid:20261213T123000
@@ -64,62 +47,6 @@ DESCRIPTION:Una secuela alternativa de El mago de Oz sobre la madurez y el
  iembre: Domingos: 12:30 h Diciembre: Sáb-dom 12:30 h\n\nhttps://www.teatr
  oinfantaisabel.es/
 LOCATION:Teatro Infanta Isabel - Calle del Barquillo\, 24\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:"Una habitación propia"\, de VIRGINIA WOOLF
-DTSTART;TZID=Europe/Madrid:20261108T130000
-UID:243031c0acbf48c1888f7a87812887e28da6e8810a267de98a1c53505db9ea27
-CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 1 plazas!\n\nhttps://teatrodelbarrio.com/una-
- habitacion-propia-de-virginia-woolf/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El lazarillo y las cosas del comer
-DTSTART;TZID=Europe/Madrid:20261108T173000
-UID:9953d44fd96214647db0c702525e23e0d11238a70b2369f2057bcd7f80525ca5
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/el-lazarillo-y-las-c
- osas-del-comer/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DONDE CRECEN LOS TARAYS
-DTSTART;TZID=Europe/Madrid:20261108T193000
-UID:6d804abb0ca0b29c6f5844e445f8c87b15a8f48106e0cbbf0e033c6acb4271e1
-CATEGORIES:theater
-DESCRIPTION:DONDE CRECEN LOS TARAYS\n\nUna pieza de teatro urgente.\n\nNaj
- at\, Amal y Hayat llegan al mar por razones completamente distintas.\n\nNa
- jat lleva meses preparándose para cruzar a Ceuta. Amal sale de casa para 
- impedir que su hermano de catorce años\, lo haga. Hayat huye de Casablanc
- a embarazada y sin que el hombre del que escapa\, sepa que espera una hija
- .\n\nLas tres acaban entrando en el agua.\n\nPero Donde crecen los tarays 
- no habla únicamente del cruce. Habla también de lo que sucede después: 
- de quienes consiguen alcanzar la otra orilla y descubren que llegar no sig
- nifica necesariamente poder continuar\; de las fronteras que permanecen de
- spués de haberlas atravesado\; de quienes quedan varados entre el lugar d
- el que tuvieron que salir y aquel en el que todavía no pueden quedarse.\n
- \nEl taray es un arbusto que crece en terrenos salinos\, junto al agua y e
- n zonas costeras. En la obra atraviesa la memoria de Hayat y acaba dando n
- ombre a una historia sobre la dificultad de encontrar un lugar donde echar
-  raíces.\n\nDonde crecen los tarays es el primer texto original de Sergio
-  Peris-Mencheta\, una pieza de teatro urgente nacida del impulso de reacci
- onar al presente mientras la realidad que la provoca todavía está ocurri
- endo.\n\nEn escena\, tres urnas de metacrilato contienen el agua. Cuando u
- na de las mujeres cuenta su historia\, las otras dos nadan. El braceo\, el
-  esfuerzo y sus respiraciones construyen la banda sonora de la función.\n
- \nEl relato sucede delante.\n\nEl mar no se detiene.\n\nhttps://lamirador.
- com/funcion?nombre=donde-crecen-los-tarays-2026
-LOCATION:Sala Mirador - Calle Doctor Fourquet\, 31\, 28012 Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Un verano por metro cuadrado
-DTSTART;TZID=Europe/Madrid:20261108T203000
-UID:7ce9011c0005cc4208cbb06509b114e61caa46ee7f633153ee7912da33131b6a
-CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 1 plazas!\n\nhttps://teatrodelbarrio.com/un-v
- erano-por-metro-cuadrado/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Feliz día - SUTOTTOS
@@ -195,6 +122,18 @@ DESCRIPTION:¡Ya solo quedan 1 plazas!\n\nhttps://teatrodelbarrio.com/saul
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Magda
+DTSTART;TZID=Europe/Madrid:20261113T200000
+DTEND;TZID=Europe/Madrid:20261227T200000
+UID:3634119fa2951bb9c1485b9a6c57d5cbac1937561f65dcfdc847e3d3cd3aec63
+CATEGORIES:theater
+DESCRIPTION:Encuentro con el equipo artístico: 26 NOV 2026 Función matin
+ al: 1 DIC 2026 a las 12:00 Funciones accesibles: 17 y 18 DIC 2026 Los ciga
+ rrillos que se fuman en escena no contienen tabaco.\n\nhttps://dramatico.i
+ naem.gob.es/evento/magda/
+LOCATION:Teatro Maria Guerrero - Calle de Tamayo y Baus\, 4\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:DONDE CRECEN LOS TARAYS
 DTSTART;TZID=Europe/Madrid:20261113T200000
 UID:6e62b7c3bd6d03260da9b69dfb589863fbb3c01b2cec808fe4596dfe5aadf8a4
@@ -246,7 +185,8 @@ SUMMARY:Saúl y la noche
 DTSTART;TZID=Europe/Madrid:20261114T193000
 UID:2b8d2043b9cbd85482f888196dcb1e1f54b36ebdcb6214d8a3dfb0f8ac9b5663
 CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/saul-y-la-noche/
+DESCRIPTION:¡Ya solo quedan 29 plazas!\n\nhttps://teatrodelbarrio.com/sau
+ l-y-la-noche/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -570,7 +510,7 @@ SUMMARY:Nosotros\, los sin nombre
 DTSTART;TZID=Europe/Madrid:20261120T193000
 UID:de35729611b9fcf1526b2d6a046ba3f07a53115cb777781dae5132fe16313783
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 29 plazas!\n\nhttps://teatrodelbarrio.com/nos
+DESCRIPTION:¡Ya solo quedan 27 plazas!\n\nhttps://teatrodelbarrio.com/nos
  otros-los-sin-nombre/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
@@ -727,8 +667,16 @@ SUMMARY:Un verano por metro cuadrado
 DTSTART;TZID=Europe/Madrid:20261122T203000
 UID:5ea7bbfb3e6308b7a09f5186fcbf15dd8c3f2a228afe72b44ea6af6dc504a8dd
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 1 plazas!\n\nhttps://teatrodelbarrio.com/un-v
- erano-por-metro-cuadrado/
+DESCRIPTION:Localidades agotadas\n\nhttps://teatrodelbarrio.com/un-verano-
+ por-metro-cuadrado/
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La gran cacería
+DTSTART;TZID=Europe/Madrid:20261123T193000
+UID:656d5b7acc184acca2a21e86fe3501ce66bf15f2f167e1bbe835ab96c0101226
+CATEGORIES:theater
+DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/la-gran-caceria/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 END:VCALENDAR
