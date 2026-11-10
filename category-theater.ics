@@ -2,29 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Delicias//ES
 BEGIN:VEVENT
-SUMMARY:Al final de las cosas
-DTSTART;TZID=Europe/Madrid:20261009T180000
-DTEND;TZID=Europe/Madrid:20261115T180000
-UID:8a0f8899fd2e38d0b5e0de238d494be0bf9a07146167796e1d816985b063ac0a
-CATEGORIES:theater
-DESCRIPTION:Encuentro con el equipo artístico: 22 OCT 2026 Los cigarrillo
- s que se fuman en escena no contienen tabaco\n\nhttps://dramatico.inaem.go
- b.es/evento/al-final-de-las-cosas/
-LOCATION:Teatro Maria Guerrero - Calle de Tamayo y Baus\, 4\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Menú cerrado
-DTSTART;TZID=Europe/Madrid:20261105T190000
-DTEND;TZID=Europe/Madrid:20270103T190000
-UID:c04ffdfa2569e0b272eb7ea6ee0b0cbdce4b2ba2a1340620c0c861df59513838
-CATEGORIES:theater
-DESCRIPTION:Carlos Santos dirige una comedia acerca de la amistad\, los se
- cretos y la crisis de la mediana edad (Teatro Infanta Isabel. Martes a dom
- ingos. 5 nov a 3 ene). | Mar-vier: 19:00 h Sáb-dom: 18:00 h\n\nhttps://ti
- ckets.oneboxtds.com/teatroinfantaisabel/events/57673
-LOCATION:Teatro Infanta Isabel - Calle del Barquillo\, 24\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Golpe a golpe\, verso a verso
 DTSTART;TZID=Europe/Madrid:20261106T000000
 DTEND;TZID=Europe/Madrid:20261129T000000
@@ -47,14 +24,6 @@ DESCRIPTION:Una secuela alternativa de El mago de Oz sobre la madurez y el
  iembre: Domingos: 12:30 h Diciembre: Sáb-dom 12:30 h\n\nhttps://www.teatr
  oinfantaisabel.es/
 LOCATION:Teatro Infanta Isabel - Calle del Barquillo\, 24\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Feliz día - SUTOTTOS
-DTSTART;TZID=Europe/Madrid:20261109T130000
-UID:b67858c4b7f992430eb575b0b6641a8c665eabff8f36c23c2d8bbe198de134fb
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/feliz-dia/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:No te olvides de la Ley Mordaza. Presentación del número 113 de 
@@ -122,18 +91,6 @@ DESCRIPTION:¡Ya solo quedan 1 plazas!\n\nhttps://teatrodelbarrio.com/saul
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Magda
-DTSTART;TZID=Europe/Madrid:20261113T200000
-DTEND;TZID=Europe/Madrid:20261227T200000
-UID:3634119fa2951bb9c1485b9a6c57d5cbac1937561f65dcfdc847e3d3cd3aec63
-CATEGORIES:theater
-DESCRIPTION:Encuentro con el equipo artístico: 26 NOV 2026 Función matin
- al: 1 DIC 2026 a las 12:00 Funciones accesibles: 17 y 18 DIC 2026 Los ciga
- rrillos que se fuman en escena no contienen tabaco.\n\nhttps://dramatico.i
- naem.gob.es/evento/magda/
-LOCATION:Teatro Maria Guerrero - Calle de Tamayo y Baus\, 4\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:DONDE CRECEN LOS TARAYS
 DTSTART;TZID=Europe/Madrid:20261113T200000
 UID:6e62b7c3bd6d03260da9b69dfb589863fbb3c01b2cec808fe4596dfe5aadf8a4
@@ -185,7 +142,7 @@ SUMMARY:Saúl y la noche
 DTSTART;TZID=Europe/Madrid:20261114T193000
 UID:2b8d2043b9cbd85482f888196dcb1e1f54b36ebdcb6214d8a3dfb0f8ac9b5663
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 29 plazas!\n\nhttps://teatrodelbarrio.com/sau
+DESCRIPTION:¡Ya solo quedan 25 plazas!\n\nhttps://teatrodelbarrio.com/sau
  l-y-la-noche/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
@@ -418,9 +375,9 @@ DESCRIPTION:La danza atraviesa un momento de luces y sombras. Por una part
 LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pablo d'Ors: Biografía del silencio
+SUMMARY:'Pablo d'Ors: Biografía del silencio'\, con Lluís Homar
 DTSTART;TZID=Europe/Madrid:20261117T193000
-UID:a04ca08aedc17ab93d03c341536b3b483ada1114d156d9cf1a04051e11fb897b
+UID:179b7a90a99427c2887797ee8b2205fa28611147f195dc4be4468a948cf48c98
 CATEGORIES:theater
 DESCRIPTION:“QUIZÁ PARES CON DESEO DE CONTEMPLAR” Hay acontecimientos
   que solo ocurren cuando no ocurre nada. Cuando contemplamos\, militamos e
@@ -441,7 +398,8 @@ DESCRIPTION:“QUIZÁ PARES CON DESEO DE CONTEMPLAR” Hay acontecimientos
   minutos enlentecidos y radicales. Frenando juntos derraparemos acompañad
  os. Y vuelta a empezar. Quietos. La esperanza arranca cuando todo lo demá
  s se detiene. Pilar G. Almansa Dramaturgista de la temporada 26/27\n\nhttp
- s://www.mataderomadrid.org/programacion/pablo-dors-biografia-del-silencio
+ s://www.mataderomadrid.org/programacion/pablo-dors-biografia-del-silencio-
+ con-lluis-homar
 LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -667,8 +625,8 @@ SUMMARY:Un verano por metro cuadrado
 DTSTART;TZID=Europe/Madrid:20261122T203000
 UID:5ea7bbfb3e6308b7a09f5186fcbf15dd8c3f2a228afe72b44ea6af6dc504a8dd
 CATEGORIES:theater
-DESCRIPTION:Localidades agotadas\n\nhttps://teatrodelbarrio.com/un-verano-
- por-metro-cuadrado/
+DESCRIPTION:¡Ya solo quedan 1 plazas!\n\nhttps://teatrodelbarrio.com/un-v
+ erano-por-metro-cuadrado/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -677,6 +635,15 @@ DTSTART;TZID=Europe/Madrid:20261123T193000
 UID:656d5b7acc184acca2a21e86fe3501ce66bf15f2f167e1bbe835ab96c0101226
 CATEGORIES:theater
 DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/la-gran-caceria/
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Proyección del documental "TORTURA BLANCA" de Narges Mohammadi
+DTSTART;TZID=Europe/Madrid:20261124T190000
+UID:a04359e48d7cd1c945cc8e7ec836e0c13aae668392c600e9a956034822b375d0
+CATEGORIES:theater
+DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/proyeccion-del-docum
+ ental-tortura-blanca-de-narges-mohammadi/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 END:VCALENDAR
