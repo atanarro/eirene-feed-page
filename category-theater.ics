@@ -2,17 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Delicias//ES
 BEGIN:VEVENT
-SUMMARY:Al final de las cosas
-DTSTART;TZID=Europe/Madrid:20261009T180000
-DTEND;TZID=Europe/Madrid:20261115T180000
-UID:8a0f8899fd2e38d0b5e0de238d494be0bf9a07146167796e1d816985b063ac0a
-CATEGORIES:theater
-DESCRIPTION:Encuentro con el equipo artístico: 22 OCT 2026 Los cigarrillo
- s que se fuman en escena no contienen tabaco\n\nhttps://dramatico.inaem.go
- b.es/evento/al-final-de-las-cosas/
-LOCATION:Teatro Maria Guerrero - Calle de Tamayo y Baus\, 4\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Menú cerrado
 DTSTART;TZID=Europe/Madrid:20261105T190000
 DTEND;TZID=Europe/Madrid:20270103T190000
@@ -102,18 +91,6 @@ CATEGORIES:theater
 DESCRIPTION:¡Ya solo quedan 1 plazas!\n\nhttps://teatrodelbarrio.com/saul
  -y-la-noche/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Magda
-DTSTART;TZID=Europe/Madrid:20261113T200000
-DTEND;TZID=Europe/Madrid:20261227T200000
-UID:3634119fa2951bb9c1485b9a6c57d5cbac1937561f65dcfdc847e3d3cd3aec63
-CATEGORIES:theater
-DESCRIPTION:Encuentro con el equipo artístico: 26 NOV 2026 Función matin
- al: 1 DIC 2026 a las 12:00 Funciones accesibles: 17 y 18 DIC 2026 Los ciga
- rrillos que se fuman en escena no contienen tabaco.\n\nhttps://dramatico.i
- naem.gob.es/evento/magda/
-LOCATION:Teatro Maria Guerrero - Calle de Tamayo y Baus\, 4\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DONDE CRECEN LOS TARAYS
@@ -498,6 +475,20 @@ DESCRIPTION:“QUIZÁ QUIERAS ACERCARTE DE VERDAD” Hay acontecimientos q
 LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Jesús Benzal
+DTSTART;TZID=Europe/Madrid:20261120T120000
+UID:fab2b0defc6e4e20287bb96dc34c8d3972156b59ac3fc9ff33bd36969f709c3e
+CATEGORIES:theater
+DESCRIPTION:El próximo viernes\, 20 de noviembre de 2026\, tras la repres
+ entación\, tendrá lugar el encuentro del público con el equipo artísti
+ co de la compañía. Modera: Daniel Galindo Los encuentros con el público
+  son una ocasión especial para que los espectadores puedan intercambiar i
+ mpresiones sobre el espectáculo\, en compañía del equipo artístico. Es
+ tos encuentros son de entrada libre hasta completar aforo.\n\nhttps://www.
+ mataderomadrid.org/programacion/jesus-benzal-0
+LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Nosotros\, los sin nombre
 DTSTART;TZID=Europe/Madrid:20261120T193000
 UID:de35729611b9fcf1526b2d6a046ba3f07a53115cb777781dae5132fe16313783
@@ -679,16 +670,6 @@ CATEGORIES:theater
 DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/proyeccion-del-docum
  ental-tortura-blanca-de-narges-mohammadi/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Museo de los relámpagos
-DTSTART;TZID=Europe/Madrid:20261125T180000
-DTEND;TZID=Europe/Madrid:20261227T180000
-UID:e61b6d32bc5548f1ae789467f585eb3dd240286ca29693c6bb23c311817d646f
-CATEGORIES:theater
-DESCRIPTION:Encuentro con el equipo artístico: 3 DIC 2026\n\nhttps://dram
- atico.inaem.gob.es/evento/museo-de-los-relampagos/
-LOCATION:Teatro Maria Guerrero - Calle de Tamayo y Baus\, 4\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Castroponce. Teoría y praxis para una vanguardia del siglo XXI
