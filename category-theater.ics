@@ -2,6 +2,29 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Delicias//ES
 BEGIN:VEVENT
+SUMMARY:Al final de las cosas
+DTSTART;TZID=Europe/Madrid:20261009T180000
+DTEND;TZID=Europe/Madrid:20261115T180000
+UID:8a0f8899fd2e38d0b5e0de238d494be0bf9a07146167796e1d816985b063ac0a
+CATEGORIES:theater
+DESCRIPTION:Encuentro con el equipo artístico: 22 OCT 2026 Los cigarrillo
+ s que se fuman en escena no contienen tabaco\n\nhttps://dramatico.inaem.go
+ b.es/evento/al-final-de-las-cosas/
+LOCATION:Teatro Maria Guerrero - Calle de Tamayo y Baus\, 4\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Menú cerrado
+DTSTART;TZID=Europe/Madrid:20261105T190000
+DTEND;TZID=Europe/Madrid:20270103T190000
+UID:c04ffdfa2569e0b272eb7ea6ee0b0cbdce4b2ba2a1340620c0c861df59513838
+CATEGORIES:theater
+DESCRIPTION:Carlos Santos dirige una comedia acerca de la amistad\, los se
+ cretos y la crisis de la mediana edad (Teatro Infanta Isabel. Martes a dom
+ ingos. 5 nov a 3 ene). | Mar-vier: 19:00 h Sáb-dom: 18:00 h\n\nhttps://ti
+ ckets.oneboxtds.com/teatroinfantaisabel/events/57673
+LOCATION:Teatro Infanta Isabel - Calle del Barquillo\, 24\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Golpe a golpe\, verso a verso
 DTSTART;TZID=Europe/Madrid:20261106T000000
 DTEND;TZID=Europe/Madrid:20261129T000000
@@ -24,16 +47,6 @@ DESCRIPTION:Una secuela alternativa de El mago de Oz sobre la madurez y el
  iembre: Domingos: 12:30 h Diciembre: Sáb-dom 12:30 h\n\nhttps://www.teatr
  oinfantaisabel.es/
 LOCATION:Teatro Infanta Isabel - Calle del Barquillo\, 24\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:No te olvides de la Ley Mordaza. Presentación del número 113 de 
- LA MAREA
-DTSTART;TZID=Europe/Madrid:20261110T190000
-UID:bd3c4fadbd0913cdf7f0d28b03eed567fafca5c3031918bfc849d2e13cd8d313
-CATEGORIES:theater
-DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/no-te-olvides-de-la-
- ley-mordaza-presentacion-del-numero-113-de-la-marea/
-LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:El hambre imposible
@@ -91,6 +104,18 @@ DESCRIPTION:¡Ya solo quedan 1 plazas!\n\nhttps://teatrodelbarrio.com/saul
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Magda
+DTSTART;TZID=Europe/Madrid:20261113T200000
+DTEND;TZID=Europe/Madrid:20261227T200000
+UID:3634119fa2951bb9c1485b9a6c57d5cbac1937561f65dcfdc847e3d3cd3aec63
+CATEGORIES:theater
+DESCRIPTION:Encuentro con el equipo artístico: 26 NOV 2026 Función matin
+ al: 1 DIC 2026 a las 12:00 Funciones accesibles: 17 y 18 DIC 2026 Los ciga
+ rrillos que se fuman en escena no contienen tabaco.\n\nhttps://dramatico.i
+ naem.gob.es/evento/magda/
+LOCATION:Teatro Maria Guerrero - Calle de Tamayo y Baus\, 4\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:DONDE CRECEN LOS TARAYS
 DTSTART;TZID=Europe/Madrid:20261113T200000
 UID:6e62b7c3bd6d03260da9b69dfb589863fbb3c01b2cec808fe4596dfe5aadf8a4
@@ -142,7 +167,7 @@ SUMMARY:Saúl y la noche
 DTSTART;TZID=Europe/Madrid:20261114T193000
 UID:2b8d2043b9cbd85482f888196dcb1e1f54b36ebdcb6214d8a3dfb0f8ac9b5663
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 25 plazas!\n\nhttps://teatrodelbarrio.com/sau
+DESCRIPTION:¡Ya solo quedan 18 plazas!\n\nhttps://teatrodelbarrio.com/sau
  l-y-la-noche/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
@@ -288,7 +313,7 @@ SUMMARY:¡Ay\, Carmela!
 DTSTART;TZID=Europe/Madrid:20261116T193000
 UID:fee959f6f342e84646413913a85f90d86b76ca52ed230869e8beb1bdfaafd104
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 5 plazas!\n\nhttps://teatrodelbarrio.com/ay-c
+DESCRIPTION:¡Ya solo quedan 3 plazas!\n\nhttps://teatrodelbarrio.com/ay-c
  armela/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
@@ -412,6 +437,15 @@ DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/nosotros-los-sin-nom
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:DRAG CINE MAD VOL. IV
+DTSTART;TZID=Europe/Madrid:20261118T221500
+UID:8eb7c41b4f5e13572c883e9dc701fffb20830831cea75a356ca163dcddf25c1a
+CATEGORIES:theater
+DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/drag-cine-mad-vol-iv
+ /
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:MATAR AL MENSAJERO: EL DERECHO A INFORMAR SOBRE LAS INFILTRACIONES
   POLICIALES
 DTSTART;TZID=Europe/Madrid:20261119T190000
@@ -459,8 +493,8 @@ DESCRIPTION:“QUIZÁ QUIERAS ACERCARTE DE VERDAD” Hay acontecimientos q
  erá posible. Vamos a estar bien\, siempre que nuestro cuerpo toque otro c
  uerpo en algún lugar\, llenos ambos de esperanza: de eso va esta obra. De
   eso va el teatro. De recordarnos tozudamente que la vida es. Pilar G. Alm
- ansa Dramaturgista de la temporada 26/27 | Desde 17\,25 €\n\nhttps://tie
- nda.madrid-destino.com/es/nave-10/la-forma-humana/
+ ansa Dramaturgista de la temporada 26/27 | Desde 17\,25 € | Tags: JOBO\n
+ \nhttps://tienda.madrid-destino.com/es/nave-10/la-forma-humana/
 LOCATION:Nave 10 - Paseo de la Chopera\, 14\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -468,7 +502,7 @@ SUMMARY:Nosotros\, los sin nombre
 DTSTART;TZID=Europe/Madrid:20261120T193000
 UID:de35729611b9fcf1526b2d6a046ba3f07a53115cb777781dae5132fe16313783
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 27 plazas!\n\nhttps://teatrodelbarrio.com/nos
+DESCRIPTION:¡Ya solo quedan 25 plazas!\n\nhttps://teatrodelbarrio.com/nos
  otros-los-sin-nombre/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
@@ -645,5 +679,50 @@ CATEGORIES:theater
 DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/proyeccion-del-docum
  ental-tortura-blanca-de-narges-mohammadi/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Museo de los relámpagos
+DTSTART;TZID=Europe/Madrid:20261125T180000
+DTEND;TZID=Europe/Madrid:20261227T180000
+UID:e61b6d32bc5548f1ae789467f585eb3dd240286ca29693c6bb23c311817d646f
+CATEGORIES:theater
+DESCRIPTION:Encuentro con el equipo artístico: 3 DIC 2026\n\nhttps://dram
+ atico.inaem.gob.es/evento/museo-de-los-relampagos/
+LOCATION:Teatro Maria Guerrero - Calle de Tamayo y Baus\, 4\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Castroponce. Teoría y praxis para una vanguardia del siglo XXI
+DTSTART;TZID=Europe/Madrid:20261125T193000
+UID:8cc131b8b331cb968e220aaf431e83370b2a66dfd1cbce81e7c5c3dce3b6db8c
+CATEGORIES:theater
+DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/castroponce/
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colaboración Surge Madrid - Festival de Otoño: Coreografías vir
+ tuales: movimiento(s) futuro(s)
+DTSTART;TZID=Europe/Madrid:20261125T200000
+UID:ca429315ab22c9addb493902b6a06de891874cddc86fe6502a0cc73101e76545
+CATEGORIES:theater
+DESCRIPTION:Colaboración Surge Madrid - Festival de Otoño: Coreografías
+  virtuales: movimiento(s) futuro(s)\n\nCoreografías virtuales: movimiento
+ (s) futuro(s)\n\nexplora cómo el lenguaje del movimiento puede dialogar\,
+  o dialoga\, con los modos de percepción y producción de las plataformas
+  digitales.\n\nLa pieza\, inspirada en el libro La danza del futuro de Jai
+ me Conde-Salazar\, propone una danza atravesada por la herencia física y 
+ emocional de la Generación Z\, moldeada por pantallas\, plataformas y for
+ mas de comunicación inmediatas.\n\nLejos de una nostalgia del cuerpo perd
+ ido o de una celebración de la tecnología\, Coreografías virtuales prop
+ one un movimiento que se sitúe en el presente tecnológico.\n\nEl coreóg
+ rafo valenciano Mauricio Pérez Fayos explora una mirada generacional sobr
+ e la incertidumbre y el futuro.\n\nEn su anterior obra\, Esto iba a ser La
+  Oportunidad y ha terminado siendo mi primera despedida\, abordó el aband
+ ono de las aspiraciones juveniles y la imposibilidad de imaginar un futuro
+ .\n\nEl propio proceso creativo como contenido y el interés por lo multid
+ isciplinar son señas de identidad de sus creaciones\, donde el cuerpo es 
+ termómetro de la actualidad.\n\nhttps://lamirador.com/funcion?nombre=cola
+ boracion-surge-madrid-festival-de-otono-coreografias-virtuales-movimiento-
+ s-futuro-s--2026
+LOCATION:Sala Mirador - Calle Doctor Fourquet\, 31\, 28012 Madrid
 END:VEVENT
 END:VCALENDAR
