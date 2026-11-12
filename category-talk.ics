@@ -234,8 +234,8 @@ CATEGORIES:talk
 DESCRIPTION:Presentación del libro.  \n \nSección de Literatura. Interv
  ienen: María Suárez Puebla (autora)\, Francisco Najarro\, Rosa María Ma
  teo\, Fernando Soto\, Andrés Balbuena Doncel\, Kevin Siles Ramos\, Miguel
-  Rellán. Presenta: Fernando Candela.. Cátedra Mayor. 13:00.\n\nhttps://a
- teneodemadrid.com/evento/la-pajareria/
+  Rellán. Presenta: Fernando Candela. Cátedra Mayor. 13:00.\n\nhttps://at
+ eneodemadrid.com/evento/la-pajareria/
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -337,6 +337,18 @@ DESCRIPTION:José Lorenzo visita la librería Desnivel para presentarnos s
 LOCATION:Libreria Desnivel - Plaza de Matute\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Vivienda inaccesible y urbanismo en crisis ¿Tienen solución?
+DTSTART;TZID=Europe/Madrid:20261119T190000
+DTEND;TZID=Europe/Madrid:20261119T190000
+UID:53d46d6fc9a359adc777911c69a51f90bd46220f11bb944d4ab5a63fc6c9472f
+CATEGORIES:talk
+DESCRIPTION:Sección de Arquitectura. Intervienen: Gerardo Roger Fernánde
+ z Fernández  – autor\,  Cristina Narbona Ruíz. Presenta: Agapito Pag
+ eo Ruzafa. Sala Biblioteca. 19:00.\n\nhttps://ateneodemadrid.com/evento/vi
+ vienda-inaccesible-y-urbanismo-en-crisis-tienen-solucion-2/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Presentación: «África madre. La manada»\, de Laura Lazzarino
 DTSTART;TZID=Europe/Madrid:20261120T190000
 UID:c98f548936e396d843ff7e0a6477ba63e39c9ecd40a2a8385a03e6b2b21254eb
@@ -414,5 +426,14 @@ DESCRIPTION:David Santos vuelve a la librería Desnivel para presentarnos
  de la tarde . ¡No puedes perdértelo!\n\nhttps://www.libreriadesnivel.com
  /agenda/preparacion-para-la-supervivencia-de-david-santos-taller/451/
 LOCATION:Libreria Desnivel - Plaza de Matute\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Club de lectura "Kokoro" de Natsume Sōseki
+DTSTART;TZID=Europe/Madrid:20261126T190000
+UID:6a28c7ac843ae350065a4699520d2d4981322a86e386b159d830724c69b3ab27
+CATEGORIES:talk
+DESCRIPTION:https://laanonimalibreria.com/evento/212/club-de-lectura-kokor
+ o-de-natsume-s-333-seki/
+LOCATION:La Anonima Libreria - C/ Embajadores\, 166 - Madrid
 END:VEVENT
 END:VCALENDAR

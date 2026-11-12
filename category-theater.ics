@@ -2,6 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Delicias//ES
 BEGIN:VEVENT
+SUMMARY:Al final de las cosas
+DTSTART;TZID=Europe/Madrid:20261009T180000
+DTEND;TZID=Europe/Madrid:20261115T180000
+UID:8a0f8899fd2e38d0b5e0de238d494be0bf9a07146167796e1d816985b063ac0a
+CATEGORIES:theater
+DESCRIPTION:Encuentro con el equipo artístico: 22 OCT 2026 Los cigarrillo
+ s que se fuman en escena no contienen tabaco\n\nhttps://dramatico.inaem.go
+ b.es/evento/al-final-de-las-cosas/
+LOCATION:Teatro Maria Guerrero - Calle de Tamayo y Baus\, 4\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Menú cerrado
 DTSTART;TZID=Europe/Madrid:20261105T190000
 DTEND;TZID=Europe/Madrid:20270103T190000
@@ -93,6 +104,18 @@ DESCRIPTION:¡Ya solo quedan 1 plazas!\n\nhttps://teatrodelbarrio.com/saul
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Magda
+DTSTART;TZID=Europe/Madrid:20261113T200000
+DTEND;TZID=Europe/Madrid:20261227T200000
+UID:3634119fa2951bb9c1485b9a6c57d5cbac1937561f65dcfdc847e3d3cd3aec63
+CATEGORIES:theater
+DESCRIPTION:Encuentro con el equipo artístico: 26 NOV 2026 Función matin
+ al: 1 DIC 2026 a las 12:00 Funciones accesibles: 17 y 18 DIC 2026 Los ciga
+ rrillos que se fuman en escena no contienen tabaco.\n\nhttps://dramatico.i
+ naem.gob.es/evento/magda/
+LOCATION:Teatro Maria Guerrero - Calle de Tamayo y Baus\, 4\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:DONDE CRECEN LOS TARAYS
 DTSTART;TZID=Europe/Madrid:20261113T200000
 UID:6e62b7c3bd6d03260da9b69dfb589863fbb3c01b2cec808fe4596dfe5aadf8a4
@@ -144,7 +167,7 @@ SUMMARY:Saúl y la noche
 DTSTART;TZID=Europe/Madrid:20261114T193000
 UID:2b8d2043b9cbd85482f888196dcb1e1f54b36ebdcb6214d8a3dfb0f8ac9b5663
 CATEGORIES:theater
-DESCRIPTION:¡Ya solo quedan 18 plazas!\n\nhttps://teatrodelbarrio.com/sau
+DESCRIPTION:¡Ya solo quedan 14 plazas!\n\nhttps://teatrodelbarrio.com/sau
  l-y-la-noche/
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
@@ -672,6 +695,16 @@ DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/proyeccion-del-docum
 LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Museo de los relámpagos
+DTSTART;TZID=Europe/Madrid:20261125T180000
+DTEND;TZID=Europe/Madrid:20261227T180000
+UID:e61b6d32bc5548f1ae789467f585eb3dd240286ca29693c6bb23c311817d646f
+CATEGORIES:theater
+DESCRIPTION:Encuentro con el equipo artístico: 3 DIC 2026\n\nhttps://dram
+ atico.inaem.gob.es/evento/museo-de-los-relampagos/
+LOCATION:Teatro Maria Guerrero - Calle de Tamayo y Baus\, 4\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Castroponce. Teoría y praxis para una vanguardia del siglo XXI
 DTSTART;TZID=Europe/Madrid:20261125T193000
 UID:8cc131b8b331cb968e220aaf431e83370b2a66dfd1cbce81e7c5c3dce3b6db8c
@@ -705,5 +738,59 @@ DESCRIPTION:Colaboración Surge Madrid - Festival de Otoño: Coreografías
  boracion-surge-madrid-festival-de-otono-coreografias-virtuales-movimiento-
  s-futuro-s--2026
 LOCATION:Sala Mirador - Calle Doctor Fourquet\, 31\, 28012 Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quiero imaginar un mundo (Nuevos Dramáticos)
+DTSTART;TZID=Europe/Madrid:20261126T180000
+DTEND;TZID=Europe/Madrid:20261220T180000
+UID:e38e1142508a3c35d3b82d1f59e205e80e4d4be7e53cbbc102938a57b14d89e4
+CATEGORIES:theater
+DESCRIPTION:Encuentro con el equipo artístico: 8 y 10 DIC 2026\n\nhttps:/
+ /dramatico.inaem.gob.es/evento/quiero-imaginar-un-mundo-nuevos-dramaticos/
+LOCATION:Teatro Valle-Inclán - Plaza de Lavapies\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deja el amor de lado
+DTSTART;TZID=Europe/Madrid:20261126T193000
+UID:58b19ca69c5bf7618ededf2b565600edf768da505d3f1daa38f8cd3850ef2c3c
+CATEGORIES:theater
+DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/deja-el-amor-de-lado
+ /
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colaboración Surge Madrid - Festival de Otoño: Coreografías vir
+ tuales: movimiento(s) futuro(s)
+DTSTART;TZID=Europe/Madrid:20261126T200000
+UID:a352b01e657559dd846bb0b8365cb515aa891d4706db6ed712c6c245c4b475fe
+CATEGORIES:theater
+DESCRIPTION:Colaboración Surge Madrid - Festival de Otoño: Coreografías
+  virtuales: movimiento(s) futuro(s)\n\nCoreografías virtuales: movimiento
+ (s) futuro(s)\n\nexplora cómo el lenguaje del movimiento puede dialogar\,
+  o dialoga\, con los modos de percepción y producción de las plataformas
+  digitales.\n\nLa pieza\, inspirada en el libro La danza del futuro de Jai
+ me Conde-Salazar\, propone una danza atravesada por la herencia física y 
+ emocional de la Generación Z\, moldeada por pantallas\, plataformas y for
+ mas de comunicación inmediatas.\n\nLejos de una nostalgia del cuerpo perd
+ ido o de una celebración de la tecnología\, Coreografías virtuales prop
+ one un movimiento que se sitúe en el presente tecnológico.\n\nEl coreóg
+ rafo valenciano Mauricio Pérez Fayos explora una mirada generacional sobr
+ e la incertidumbre y el futuro.\n\nEn su anterior obra\, Esto iba a ser La
+  Oportunidad y ha terminado siendo mi primera despedida\, abordó el aband
+ ono de las aspiraciones juveniles y la imposibilidad de imaginar un futuro
+ .\n\nEl propio proceso creativo como contenido y el interés por lo multid
+ isciplinar son señas de identidad de sus creaciones\, donde el cuerpo es 
+ termómetro de la actualidad.\n\nhttps://lamirador.com/funcion?nombre=cola
+ boracion-surge-madrid-festival-de-otono-coreografias-virtuales-movimiento-
+ s-futuro-s--2026
+LOCATION:Sala Mirador - Calle Doctor Fourquet\, 31\, 28012 Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jajás en el Barrio
+DTSTART;TZID=Europe/Madrid:20261126T213000
+UID:e7bd438dd4ef0ebb73ada1a7c1c30974eaf7febcbff369f387737fa8a4a38ab5
+CATEGORIES:theater
+DESCRIPTION:Disponible\n\nhttps://teatrodelbarrio.com/jajas-en-el-barrio/
+LOCATION:Teatro del Barrio - Calle de Zurita\, 20\, Madrid
 END:VEVENT
 END:VCALENDAR

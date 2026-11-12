@@ -2,23 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Delicias//ES
 BEGIN:VEVENT
-SUMMARY:LEO SIDRAN - A 50 VELAS
-DTSTART;TZID=Europe/Madrid:20261111T200000
-DTEND;TZID=Europe/Madrid:20261111T200000
-UID:47231b18739dd4d5282e41d06df92f9743068972e5f12331e109d85568e68cd9
-CATEGORIES:music
-DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
-  el Área del Socio. Calle Prado\, 21. Pases: 20:00h. y 22:00h. \n \nLeo S
- idran – guitarra\, voz\nMax Darmon: bajo\nRomain Bouiges – batería\nP
- aul Sany – piano\nLas Panteras:\nLuisa Corral – voces\nLauri Revuelta 
- – voces \nLeo Sidran está a punto de cumplir 50 años y ha decidido cel
- ebrarlo como mejor sabe: haciendo música con amigos. Una noche especial e
- n el Café Central Ateneo\, entre canciones propias\, historias\, invitado
- s y alguna que otra vela por soplar.\n\nhttps://ateneodemadrid.com/evento/
- leo-sidran-a-50-velas/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:JORGE VISTEL - CUBAN SONGBOOK
 DTSTART;TZID=Europe/Madrid:20261112T200000
 DTEND;TZID=Europe/Madrid:20261112T200000
@@ -462,19 +445,6 @@ DESCRIPTION:Presentación del Glosario De cantes flamencos y homenaje a Ma
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Beth Orton
-DTSTART;TZID=Europe/Madrid:20261116T203000
-UID:9f8c3cc4bec8eb3a46d6089a4f51dcbbdc93df7f2bcab5492d8261897053f265
-CATEGORIES:music
-DESCRIPTION:Concierto / Pop. La británica Beth Orton presenta su último 
- disco\, «The Ground Above»\, que desde que salió en junio se ha convert
- ido en uno de los más valorados del año. Con este trabajo Orton ha refre
- ndado todos los halagos que recibió su antecesor\, «Weather Alive» (202
- 2)\, consolidándose así como una de las mejores cantautoras contemporán
- eas.\n\nhttps://salavillanos.es/evento/beth-orton/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Triada
 DTSTART;TZID=Europe/Madrid:20261117T203000
 UID:ea425b1f035662cc74939717a9bc24b79062ccd508969747c904a5237aec6e41
@@ -671,9 +641,9 @@ DESCRIPTION:Club / Villanos del Jazz. Matthew Herbert ocupa una posición
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:MUNDO CHILLÓN en Madrid ¡con banda completa!\, SESIÓN VERMÚ.
+SUMMARY:Mundo Chillón
 DTSTART;TZID=Europe/Madrid:20261121T130000
-UID:f01b7879b519b28e616547ca1a985dc12958c61f8529bac92b40b288ff1e262e
+UID:cc0157a0b84b37b79c3525b94248b237c87d30973b951312fe4dd4d05bf53f69
 CATEGORIES:music
 DESCRIPTION:Concierto / World Music & Folk. Canciones ultraprocesadas de d
  igestión pesada hechas en serie para autómatas programados por una mente
@@ -845,5 +815,39 @@ DESCRIPTION:Concierto / Villanos del Jazz. La clase no se negocia en el im
   su disco “1987” (2025) es el testimonio más concluyente.\n\nhttps://
  salavillanos.es/evento/hossswet-1987/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chico Chico
+DTSTART;TZID=Europe/Madrid:20261126T203000
+UID:8e862003fb254df67c1259ec1b6aea3667ba425d3b908feae1cbe8fa9e654de8
+CATEGORIES:music
+DESCRIPTION:Concierto / Villanos del Jazz. La energía de la juventud y el
+  pedigrí de un legado familiar ilustre se dan la mano en la propuesta de 
+ este músico\, hijo de Cássia Eller y uno de los mayores talentos de la a
+ ctual música popular brasileña El cantautor\, compositor y multiinstrume
+ ntista Francisco Ribeiro Eller\, nacido en Río de Janeiro en 1993\, es un
+ o de los valores en alza de la actual Música Popular Brasileña (MPB). Su
+  presencia escénica y su timbre vocal son inequívocos herederos de su ma
+ dre\, la legendaria e icónica cantante Cássia Eller\, y su fórmula se d
+ ebate con plena fluidez entre el rock\, el folk\, el blues y el pop de rai
+ gambre independiente. Precisamente la auténtica independencia\, la creati
+ va\, es la que marca una carrera que plasma con fidelidad temáticas ínti
+ mas e introspectivas pero también urbanas y de la naturaleza\, a lo largo
+  de una discografía que brinda seis álbumes\, dos nominaciones a los Gra
+ mmy Latinos y colaboraciones con pesos pesados como Maria Bethânia\, Milt
+ on Nascimento o Nando Reis.\n\nhttps://salavillanos.es/evento/chico-chico/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Upsessions (Países Bajos) + The Crepitans
+DTSTART;TZID=Europe/Madrid:20261126T210000
+UID:c8ee44105de8c5519230e18722edd82e63ed08af5fe76356b1262f5da170088c
+CATEGORIES:music
+DESCRIPTION:Precio de las entradas: 12€/15€ (+ g.g.) . Entradas a la v
+ enta en movingtickets Bio/enlaces bandas: The Upsessions_facebook +The Ups
+ essions_instagram The Crepitans_facebook + The Crepitans_instagram Más in
+ formación: The Upsessions\, formados en Paises\n\nhttps://gruta77.com/eve
+ nts/the-upsessions-paises-bajos-the-crepitans/var/ri-0.l-L2
+LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
 END:VEVENT
 END:VCALENDAR

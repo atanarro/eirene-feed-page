@@ -804,19 +804,6 @@ DESCRIPTION:Exposición dedicada a la XVIII duquesa de Alba destacando su
 LOCATION:Palacio de Liria - de la Princesa\, 20\, Madrid\, 28008
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Arquitectura suiza contemporánea / SAY26 anuario suizo de arquite
- ctura
-DTSTART;TZID=Europe/Madrid:20261002T000000
-DTEND;TZID=Europe/Madrid:20261111T000000
-UID:e6d473e6147658570a665bf1535f26a84d434ba10107e1b9098d213881b5110d
-CATEGORIES:exhibition
-DESCRIPTION:Exposición con 54 obras recientes que muestran nuevas formas 
- de hacer arquitectura en las distintas regiones de Suiza (COAM. 2 oct a 11
-  nov).\n\nhttps://www.coam.org/actualidad-agenda-coam-arquitectura-suiza-c
- ontemporanea-say26-anuario-suizo-de-arquitectura/
-LOCATION:COAM - de Hortaleza\, 63\, Madrid\, 28004
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Exposición conmemorativa: Antonio Lamela\, arquitecto 1926-2017
 DTSTART;TZID=Europe/Madrid:20261002T000000
 DTEND;TZID=Europe/Madrid:20261210T000000
@@ -1557,5 +1544,18 @@ DESCRIPTION:La reina española de la dinastía Habsburgo es la protagonist
  seo del Prado. 26 nov a 28 mar).\n\nhttps://www.museodelprado.es/actualida
  d/exposicion/mariana-de-austria/038ae4ff-a564-6649-63e8-f6dc61740228
 LOCATION:Museo del Prado - del Prado\, s/n\, Madrid\, 28014
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Carne y arena. Alejandro G. Iñárritu
+DTSTART;TZID=Europe/Madrid:20261127T000000
+DTEND;TZID=Europe/Madrid:20270224T000000
+UID:c80802cc3b94745cb707e4a00873d817a55c7572a516f0d1cb2bef8aa73ae7bb
+CATEGORIES:exhibition
+DESCRIPTION:Experiencia inmersiva creada por el director mexicano en la se
+  difuminan los límites entre espectador y protagonista (Espacio Fundació
+ n Telefónica. 27 nov a 24 feb).\n\nhttps://espacio.fundaciontelefonica.co
+ m/evento/carne-y-arena-alejandro-g-inarritu/
+LOCATION:Espacio Fundación Telefónica - de Fuencarral\, 3\, Madrid\, 280
+ 04
 END:VEVENT
 END:VCALENDAR
