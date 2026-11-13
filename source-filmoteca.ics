@@ -2,34 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Delicias//ES
 BEGIN:VEVENT
-SUMMARY:La balada de Narayama
-DTSTART;TZID=Europe/Madrid:20261112T190000
-UID:f7b581de04a02ca8f418218d180f207ccaee9a09647d5c7922f95f60d29233f0
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Jueves 12 de noviembre a las 19:00h (Sala 2. KEI
- SUKE KINOSHITA. LA EMOCIÓN DE LO COTIDIANO) *Aunque las entradas aparezca
- n como agotadas en web\, pueden adquirirse en taquilla entradas para las s
- esiones del día (de 17h a 20h)\n\nOriginal title: 楢山節考\n\nRelease
-  year: 1983\n\nOriginal language: JA\n\nhttps://entradasfilmoteca.sacatuen
- trada.es/es/productos/descripcion/la-balada-de-narayama-12-nov
-LOCATION:Filmoteca Espanola - Cine Dore - Calle de Santa Isabel\, 3\, Madr
- id
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Polvo serán
-DTSTART;TZID=Europe/Madrid:20261112T203000
-UID:21bff22e72d5744c7fa01718de44c3938efa6d696a732cbc9cf4ea28b3907d5d
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Jueves 12 de noviembre a las 20:30h (Sala 1. DI
- ÁLOGOS INTERGENERACIONALES. ENVEJECER EN LA PANTALLA) *Aunque las entrada
- s aparezcan como agotadas en web\, pueden adquirirse en taquilla entradas 
- para las sesiones del día (de 17h a 20h)\n\nRelease year: 2024\n\nOrigina
- l language: ES\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/productos/
- descripcion/polvo-seran-12-nov
-LOCATION:Filmoteca Espanola - Cine Dore - Calle de Santa Isabel\, 3\, Madr
- id
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Fin de jornada
 DTSTART;TZID=Europe/Madrid:20261113T173000
 UID:cec34233dbc151a6db47d3ba337fafd05c70f0f594cf5a4b75e8fcf48de1fa8a
@@ -340,7 +312,7 @@ CATEGORIES:cinema
 DESCRIPTION:Fecha y Hora: Domingo 22 de noviembre a las 17:30h (Sala 1. TR
  ILOGÍA MARSELLESA) *Aunque las entradas aparezcan como agotadas en web\, 
  pueden adquirirse en taquilla entradas para las sesiones del día (de 17h 
- a 20h)\n\nRelease year: 2026\n\nOriginal language: DE\n\nhttps://entradasf
+ a 20h)\n\nRelease year: 1961\n\nOriginal language: EN\n\nhttps://entradasf
  ilmoteca.sacatuentrada.es/es/productos/descripcion/fanny-22-nov
 LOCATION:Filmoteca Espanola - Cine Dore - Calle de Santa Isabel\, 3\, Madr
  id
@@ -435,7 +407,7 @@ CATEGORIES:cinema
 DESCRIPTION:Fecha y Hora: Jueves 26 de noviembre a las 17:30h (Sala 1. TRI
  LOGÍA MARSELLESA) *Aunque las entradas aparezcan como agotadas en web\, p
  ueden adquirirse en taquilla entradas para las sesiones del día (de 17h a
-  20h)\n\nRelease year: 2026\n\nOriginal language: DE\n\nhttps://entradasfi
+  20h)\n\nRelease year: 1961\n\nOriginal language: EN\n\nhttps://entradasfi
  lmoteca.sacatuentrada.es/es/productos/descripcion/fanny-26-nov
 LOCATION:Filmoteca Espanola - Cine Dore - Calle de Santa Isabel\, 3\, Madr
  id
@@ -464,6 +436,47 @@ DESCRIPTION:Fecha y Hora: Jueves 26 de noviembre a las 20:30h (Sala 1. LYC
  siones del día (de 17h a 20h)\n\nRelease year: 1936\n\nOriginal language:
   ES\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/productos/descripcion
  /carne-de-fieras-26-nov
+LOCATION:Filmoteca Espanola - Cine Dore - Calle de Santa Isabel\, 3\, Madr
+ id
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:No soy yo
+DTSTART;TZID=Europe/Madrid:20261127T173000
+UID:05ee6c285160b0aa67298349dd634e292910778db8468a0281ccde138dab1692
+CATEGORIES:cinema
+DESCRIPTION:Fecha y Hora: Viernes 27 de noviembre a las 17:30h (Sala 1. FE
+ STIVAL MÁRGENES) *Aunque las entradas aparezcan como agotadas en web\, pu
+ eden adquirirse en taquilla entradas para las sesiones del día (de 17h a 
+ 20h)\n\nOriginal language: ES\n\nhttps://entradasfilmoteca.sacatuentrada.e
+ s/es/productos/descripcion/no-soy-yo-27-nov
+LOCATION:Filmoteca Espanola - Cine Dore - Calle de Santa Isabel\, 3\, Madr
+ id
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:César
+DTSTART;TZID=Europe/Madrid:20261127T190000
+UID:e364510804b8284119b01089827bc8f0a361b4cf51dc49cb819b16c92ee1ec4b
+CATEGORIES:cinema
+DESCRIPTION:Fecha y Hora: Viernes 27 de noviembre a las 19:00h (Sala 2. FU
+ ERA DEL RADAR / TRILOGÍA MARSELLESA) *Aunque las entradas aparezcan como 
+ agotadas en web\, pueden adquirirse en taquilla entradas para las sesiones
+  del día (de 17h a 20h)\n\nRelease year: 1936\n\nOriginal language: FR\n
+ \nhttps://entradasfilmoteca.sacatuentrada.es/es/productos/descripcion/cesa
+ r-27-nov
+LOCATION:Filmoteca Espanola - Cine Dore - Calle de Santa Isabel\, 3\, Madr
+ id
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pusher: Un paseo por el abismo
+DTSTART;TZID=Europe/Madrid:20261127T203000
+UID:b67057571e04811d5ae54028da727649e8d676e611294a9d286505809c0455b0
+CATEGORIES:cinema
+DESCRIPTION:Fecha y Hora: Viernes 27 de noviembre a las 20:30h (Sala 1. TR
+ ILOGÍA PUSHER) *Aunque las entradas aparezcan como agotadas en web\, pued
+ en adquirirse en taquilla entradas para las sesiones del día (de 17h a 20
+ h)\n\nOriginal title: Pusher\n\nRelease year: 1996\n\nOriginal language: D
+ A\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/productos/descripcion/p
+ usher-un-paseo-por-el-abismo-27-nov
 LOCATION:Filmoteca Espanola - Cine Dore - Calle de Santa Isabel\, 3\, Madr
  id
 END:VEVENT
