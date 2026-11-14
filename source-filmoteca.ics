@@ -2,47 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Delicias//ES
 BEGIN:VEVENT
-SUMMARY:Fin de jornada
-DTSTART;TZID=Europe/Madrid:20261113T173000
-UID:cec34233dbc151a6db47d3ba337fafd05c70f0f594cf5a4b75e8fcf48de1fa8a
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Viernes 13 de noviembre a las 17:30h (Sala 1. DI
- ÁLOGOS INTERGENERACIONALES. ENVEJECER EN LA PANTALLA) *Aunque las entrada
- s aparezcan como agotadas en web\, pueden adquirirse en taquilla entradas 
- para las sesiones del día (de 17h a 20h)\n\nhttps://entradasfilmoteca.sac
- atuentrada.es/es/productos/descripcion/fin-de-jornada-13-nov
-LOCATION:Filmoteca Espanola - Cine Dore - Calle de Santa Isabel\, 3\, Madr
- id
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El amor solfeando
-DTSTART;TZID=Europe/Madrid:20261113T190000
-UID:edec3e21827438708f110238a67b640d1015686ea66cc9cce542d3e19477f526
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Viernes 13 de noviembre a las 19:00h (Sala 2. ¡
- AL HOLLYWOOD PARISINO! MULTIVERSIONES EN LA II REPÚBLICA) *Aunque las ent
- radas aparezcan como agotadas en web\, pueden adquirirse en taquilla entra
- das para las sesiones del día (de 17h a 20h)\n\nRelease year: 1930\n\nOri
- ginal language: ES\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/produc
- tos/descripcion/el-amor-solfeando-13-nov
-LOCATION:Filmoteca Espanola - Cine Dore - Calle de Santa Isabel\, 3\, Madr
- id
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La mujer y el pelele
-DTSTART;TZID=Europe/Madrid:20261113T203000
-UID:391773aa52cd9136269dd4378e9ab453e04c3057a1f155f3c60a506faad89846
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Viernes 13 de noviembre a las 20:30h (Sala 1. LY
- CEUM CLUB FEMENINO. CENTENARIO) *Aunque las entradas aparezcan como agotad
- as en web\, pueden adquirirse en taquilla entradas para las sesiones del d
- ía (de 17h a 20h)\n\nOriginal title: La Femme et le Pantin\n\nRelease yea
- r: 1990\n\nOriginal language: FR\n\nhttps://entradasfilmoteca.sacatuentrad
- a.es/es/productos/descripcion/la-mujer-y-el-pelele-13-nov
-LOCATION:Filmoteca Espanola - Cine Dore - Calle de Santa Isabel\, 3\, Madr
- id
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Crazy Stop Motion
 DTSTART;TZID=Europe/Madrid:20261114T173000
 UID:d08cea9f62f85fd467396b9680f2701027a1a4450bc03733a4df2a686992973a
@@ -189,8 +148,8 @@ CATEGORIES:cinema
 DESCRIPTION:Fecha y Hora: Jueves 19 de noviembre a las 17:30h (Sala 1. ¡A
  L HOLLYWOOD PARISINO! MULTIVERSIONES EN LA II REPÚBLICA) *Aunque las entr
  adas aparezcan como agotadas en web\, pueden adquirirse en taquilla entrad
- as para las sesiones del día (de 17h a 20h)\n\nRelease year: 1934\n\nOrig
- inal language: ES\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/product
+ as para las sesiones del día (de 17h a 20h)\n\nRelease year: 2008\n\nOrig
+ inal language: PT\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/product
  os/descripcion/la-dolorosa-19-nov
 LOCATION:Filmoteca Espanola - Cine Dore - Calle de Santa Isabel\, 3\, Madr
  id
@@ -312,7 +271,7 @@ CATEGORIES:cinema
 DESCRIPTION:Fecha y Hora: Domingo 22 de noviembre a las 17:30h (Sala 1. TR
  ILOGÍA MARSELLESA) *Aunque las entradas aparezcan como agotadas en web\, 
  pueden adquirirse en taquilla entradas para las sesiones del día (de 17h 
- a 20h)\n\nRelease year: 1961\n\nOriginal language: EN\n\nhttps://entradasf
+ a 20h)\n\nRelease year: 2026\n\nOriginal language: DE\n\nhttps://entradasf
  ilmoteca.sacatuentrada.es/es/productos/descripcion/fanny-22-nov
 LOCATION:Filmoteca Espanola - Cine Dore - Calle de Santa Isabel\, 3\, Madr
  id
@@ -407,7 +366,7 @@ CATEGORIES:cinema
 DESCRIPTION:Fecha y Hora: Jueves 26 de noviembre a las 17:30h (Sala 1. TRI
  LOGÍA MARSELLESA) *Aunque las entradas aparezcan como agotadas en web\, p
  ueden adquirirse en taquilla entradas para las sesiones del día (de 17h a
-  20h)\n\nRelease year: 1961\n\nOriginal language: EN\n\nhttps://entradasfi
+  20h)\n\nRelease year: 2026\n\nOriginal language: DE\n\nhttps://entradasfi
  lmoteca.sacatuentrada.es/es/productos/descripcion/fanny-26-nov
 LOCATION:Filmoteca Espanola - Cine Dore - Calle de Santa Isabel\, 3\, Madr
  id
@@ -477,6 +436,48 @@ DESCRIPTION:Fecha y Hora: Viernes 27 de noviembre a las 20:30h (Sala 1. TR
  h)\n\nOriginal title: Pusher\n\nRelease year: 1996\n\nOriginal language: D
  A\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/productos/descripcion/p
  usher-un-paseo-por-el-abismo-27-nov
+LOCATION:Filmoteca Espanola - Cine Dore - Calle de Santa Isabel\, 3\, Madr
+ id
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mientras dure la guerra
+DTSTART;TZID=Europe/Madrid:20261128T173000
+UID:1d204343a821fac662b6dbe40fe42232d4f925aedfb3798b80330fe720a60c20
+CATEGORIES:cinema
+DESCRIPTION:Fecha y Hora: Sábado 28 de noviembre a las 17:30h (Sala 1. GU
+ ERRA CIVIL. 90 AÑOS) *Aunque las entradas aparezcan como agotadas en web
+ \, pueden adquirirse en taquilla entradas para las sesiones del día (de 1
+ 7h a 20h)\n\nRelease year: 2019\n\nOriginal language: ES\n\nhttps://entrad
+ asfilmoteca.sacatuentrada.es/es/productos/descripcion/mientras-dure-la-gue
+ rra-28-nov
+LOCATION:Filmoteca Espanola - Cine Dore - Calle de Santa Isabel\, 3\, Madr
+ id
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Melodía de arrabal
+DTSTART;TZID=Europe/Madrid:20261128T190000
+UID:334d4c69dd334a8bc08376366ffce6cf1ecac9f9a173554fcc91e6b898339453
+CATEGORIES:cinema
+DESCRIPTION:Fecha y Hora: Sábado 28 de noviembre a las 19:00h (Sala 2. ¡
+ AL HOLLYWOOD PARISINO! MULTIVERSIONES EN LA II REPÚBLICA) *Aunque las ent
+ radas aparezcan como agotadas en web\, pueden adquirirse en taquilla entra
+ das para las sesiones del día (de 17h a 20h)\n\nRelease year: 1933\n\nOri
+ ginal language: ES\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/produc
+ tos/descripcion/melodia-de-arrabal-28-nov
+LOCATION:Filmoteca Espanola - Cine Dore - Calle de Santa Isabel\, 3\, Madr
+ id
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pusher II: Con las manos ensangrentadas
+DTSTART;TZID=Europe/Madrid:20261128T203000
+UID:a7dea71ce79717b17ec4c2e7ea406960e72cf9a6234d5372d6eefa420f3d9ad7
+CATEGORIES:cinema
+DESCRIPTION:Fecha y Hora: Sábado 28 de noviembre a las 20:30h (Sala 1. TR
+ ILOGÍA PUSHER) *Aunque las entradas aparezcan como agotadas en web\, pued
+ en adquirirse en taquilla entradas para las sesiones del día (de 17h a 20
+ h)\n\nOriginal title: Pusher II\n\nRelease year: 2004\n\nOriginal language
+ : DA\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/productos/descripcio
+ n/pusher-ii-con-las-manos-ensangrentadas-28-nov
 LOCATION:Filmoteca Espanola - Cine Dore - Calle de Santa Isabel\, 3\, Madr
  id
 END:VEVENT
