@@ -2,15 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Delicias//ES
 BEGIN:VEVENT
-SUMMARY:Vermú y encuentro con la editorial Automática
-DTSTART;TZID=Europe/Madrid:20261114T123000
-UID:f1da08ee45cad2fc16cafe0768c1de9a9713d58283187ef0f75ad069090df0d7
-CATEGORIES:talk
-DESCRIPTION:https://laanonimalibreria.com/evento/217/vermu-y-encuentro-con
- -la-editorial-impedimenta-2/
-LOCATION:La Anonima Libreria - C/ Embajadores\, 166 - Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:"La Pajarería"
 DTSTART;TZID=Europe/Madrid:20261115T130000
 DTEND;TZID=Europe/Madrid:20261115T130000
@@ -313,6 +304,55 @@ LOCATION:Infinito Delicias - C. de Juana Dona\, 5\, Arganzuela\, 28045 Mad
  rid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:POLÍGLOTÍAS. El lenguaje como recurso de mediación y enseñanza
+ -aprendizaje en contextos plurilingües
+DTSTART;TZID=Europe/Madrid:20261119T183000
+DTEND;TZID=Europe/Madrid:20261119T203000
+UID:a97407d6a3fc4a226b5cc8ea69f4fe9e02f2eea58953b4117ffcc9826b310b74
+CATEGORIES:talk
+DESCRIPTION:Espacio: Cocina Plató\n\nCon Paco Inclán\n\nJueves 12\, 19\,
+  26 de noviembre y 3 de diciembre. De 18.30 a 20.30 h. en Infinito Delicia
+ s.\n\nPOLIGLOTÍAS\n\nes un laboratorio de 4 sesiones procesuales y conect
+ adas en las que exploraremos las posibilidades del lenguaje como herramien
+ ta creativa\, lúdica y pedagógica para nuestras prácticas con grupos co
+ nformados por hablantes y colectivos de diferentes lenguas/culturas matern
+ as. Compartiremos (y pondremos en práctica) recursos para el intercambio 
+ transversal de lenguas\, saberes\, experiencias y afectos. La mediación l
+ ingüística como forma de activar dinámicas que enriquezcan el encuentro
+  entre las personas participantes.\n\nDirigido a organizaciones y personas
+  interesadas en mediación cultural\, enseñanza-aprendizaje de idiomas u 
+ otras materias relacionadas\, activismo lingüístico\, el lenguaje como h
+ erramienta creativa\, pedagogías críticas y a estudiantes de español (a
+  partir de niveles B\, intermedios) que quieran practicarlo en este contex
+ to.\n\nPaco Inclán\n\n. En los últimos años ha desarrollado varios proy
+ ectos que ponen el foco en el lenguaje como herramienta de creatividad y m
+ ediación: el programa POLIGLOTÍA sobre diversidad cultural y lingüísti
+ ca (IVAM)\; clases de conversación en español con personas migrantes (Bi
+ blioteca Pública de Valencia)\; SÓLO (conferencia escénica sobre chasca
+ rrillos lingüísticos)\; talleres de escritura\, y el álbum ilustrado LE
+ NGUAS DEL MUNDO publicado por Litera Libros.\n\nActualmente participa con 
+ el proyecto POLIGLOTÍAS en el programa de residencias de investigación s
+ obre mediación cultural NOTAR de la asociación hablarenarte y la Fundaci
+ ón Carasso. Desde 2024 es profesor del módulo de No-ficción creativa de
+ l Máster de Escritura Creativa de la Universidad de Valencia. Autor de lo
+ s libros de crónicas-ficción El español extraviado (SOPHOS) y Dadas las
+  circunstancias\, Incertidumbre y Tantas mentiras (Jekyll&amp\;Jill).\n\nE
+ -mail:\n\n[email protected]\n\nWeb:\n\npacoinclan.com\n\nhablarenarte\n\n
+ es una organización sin ánimo de lucro con sede en Madrid que trabaja de
+ sde el año 2002 en el ámbito de la mediación cultural\, el comisariado 
+ expandido\, la creación contemporánea y la educación. A través de prog
+ ramas propios y concebidos junto a distintas organizaciones y agentes loca
+ les e internacionales\, hablarenarte contribuye a la cultura contemporáne
+ a aportando en la construcción de nuevos imaginarios y defendiendo formas
+  feministas\, inclusivas y participativas de hacer. Desde hace más de una
+  década\, impulsa residencias de investigación a través de diferentes p
+ rogramas como Encura (Hangar\, CA2M\, Casa Velázquez)\, CAPP network o el
+  espacio Planta Alta.\n\nhttps://www.infinitodelicias.com/es/agenda/poligl
+ otias-19-noviembre
+LOCATION:Infinito Delicias - C. de Juana Dona\, 5\, Arganzuela\, 28045 Mad
+ rid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Presentación: «El sastre del Manaslu»\, de José Lorenzo
 DTSTART;TZID=Europe/Madrid:20261119T190000
 UID:e4a603a8f76f6eaf20aa729acc4e6f196e32c1b6d49d819a873834f8b7b23112
@@ -464,6 +504,19 @@ DESCRIPTION:Venta de entradas (aquí). Más información.\n\nhttps://atene
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Pacientes y médicos\, ¿comunicando?
+DTSTART;TZID=Europe/Madrid:20261124T183000
+DTEND;TZID=Europe/Madrid:20261124T183000
+UID:5a5be68ed2f08f8d511474b31d7a9ef97de84e26df7cd866e6c5573ebde328ef
+CATEGORIES:talk
+DESCRIPTION:Ciclo Atención Primaria. \n \nSección de Ciencias de la Salu
+ d. Intervienen: Alba Pozo Prados\, Natalia Ñiguez Baños\, José Ignacio 
+ Torres Jiménez. Modera: Emilio de Benito Cañizares. Coordina: Cristina d
+ e la Cámara. Salón Ciudad de Úbeda. 18:30.\n\nhttps://ateneodemadrid.co
+ m/evento/pacientes-y-medicos-comunicando/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Presentación: «Preparación para la supervivencia»\, de David S
  antos + Taller
 DTSTART;TZID=Europe/Madrid:20261125T190000
@@ -484,5 +537,82 @@ CATEGORIES:talk
 DESCRIPTION:https://laanonimalibreria.com/evento/212/club-de-lectura-kokor
  o-de-natsume-s-333-seki/
 LOCATION:La Anonima Libreria - C/ Embajadores\, 166 - Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OpenLAB 2026 | Excavando las redes: en busca de verdades entre rui
+ nas digitales - Conferencia de Sophie Publig
+DTSTART;TZID=Europe/Madrid:20261128T190000
+UID:8a14a0b60f0cf987170888431e22e01d58738eef52be75d2422688736b0c9f5c
+CATEGORIES:talk
+DESCRIPTION:¿Cuántas cosas se han perdido en el instante en que nos lleg
+ a esa captura de pantalla\, ese meme sin historia? A nuestro alrededor las
+  plataformas desaparecen\, los enlaces se pudren\, los contextos colapsan.
+  Aun así\, los fragmentos meméticos siguen circulando\, acumulándose y 
+ activando nuevos significados allí donde resurgen. La arqueología de int
+ ernet parte de estas ruinas digitales y tira del hilo rojo hacia atrás: r
+ astrea artefactos a través de plataformas\, archivos\, rabbit holes y rin
+ cones cada vez más recónditos de la red para desenterrar sus contextos y
+  sus significados sedimentados. En su investigación sobre memes\, semiót
+ ica y “ocultismo digital” (con Mikkel Rørbo) Sophie Publig lee mutaci
+ ones y repeticiones como pistas\, sin perder nunca de vista que hay una de
+ lgada línea entre analizar críticamente ciertos patrones y caer en la so
+ breconexión y la conspiración. Abriéndonos en vivo su historial de nave
+ gación –entre slop y slopaganda\, estéticas políticas y mitologías e
+ n línea– Sophie muestra que la arqueología de internet puede ser méto
+ do de investigación y\, a la vez\, una forma práctica de alfabetización
+  mediática digital. Seguir un artefacto lo bastante lejos permite recuper
+ ar contextos perdidos\, sacar a la luz genealogías ideológicas y complic
+ ar relatos que a primera vista parecen evidentes. Ahora que las narrativas
+  políticas compiten a base de fragmentos descontextualizados y estéticas
+  virales\, averiguar de dónde viene algo es una manera de resistirse a la
+  polarización fácil y de tomarse en serio las historias enmarañadas con
+  las que se construye el sentido. ¿Qué verdades se vuelven visibles cuan
+ do aprendemos a excavar? Esta actividad forma parte del festival OpenLAB L
+ a mecánica de la verdad . Detalles Fecha: Sábado 28 de noviembre\, 19:00
+ h Lugar: Nave Una Idioma principal: Inglés con traducción simultánea a 
+ español Precio: Gratuito\, sin inscripción previa. Sobre Sophie Publig S
+ ophie Publig es científica sénior\, docente y exploradora de ecosistemas
+  digitales en el Weibel Institute for Digital Cultures de la Universidad d
+ e Artes Aplicadas de Viena. Su investigación transita entre la teoría de
+  los medios\, el posthumanismo crítico\, la estética y las culturas digi
+ tales\, atenta a cómo las plataformas producen creencia\, subjetividades 
+ en red e imaginarios políticos. Sus proyectos actuales abordan el ocultis
+ mo digital\, la posidentidad de la Girl Online y el inconsciente digital. 
+ Con Mikkel Rørbo ha coeditado Digital Occultism (Aksioma\, 2026). Sophie 
+ también es mentora del LAB 5 y\, junto a Mikkel Rørbo\, ha dirigido el 
+ taller Ocultismo Digital dentro del programa Estudio de Sistemas.\n\nhttps
+ ://www.mataderomadrid.org/programacion/openlab-2026-excavando-las-redes-en
+ -busca-de-verdades-entre-ruinas-digitales
+LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OpenLAB 2026 | El golf(o) que nos separa – Conferencia de Wassim
+  Alsindi
+DTSTART;TZID=Europe/Madrid:20261128T193000
+UID:9d9690151be4a6ddf4ec32705128d367c6312e16b8ceac4d015b348b3fb5f651
+CATEGORIES:talk
+DESCRIPTION:Desde que el software pasó de ser una infraestructura anodina
+  a convertirse en un régimen omnipresente\, la computación ha dejado muy
+  atrás la fase de modelar la realidad: ahora rediseña activamente el esp
+ acio físico para que responda a sus designios. Alsindi llama Golf Futuris
+ m a esta externalización espacial y material de la lógica computacional 
+ sobre nuestros entornos construidos. De las megaciudades en el desierto a 
+ los proyectos de regeneración urbana postindustrial\, ecosistemas complej
+ os y espacios cívicos se ven despojados de su interioridad y su heterogen
+ eidad\, y reducidos a enclaves privatizados y recortados al milímetro. El
+  motor de renderizado se convierte en la herramienta definitiva de control
+  espacial e impone una suavidad sintética que trata la riqueza ecológica
+  y social como un inconveniente subóptimo. Al cortocircuitar el control d
+ emocrático\, el Golf Futurism convierte el territorio en un lienzo para u
+ na nueva forma de autoritarismo y ensancha el abismo entre el deseo humano
+  y la realidad tecnocrática. Detalles Fecha: Sábado 28 de noviembre\, 19
+ :30h. Lugar: Nave Una. Idioma principal: Inglés con traducción simultán
+ ea en español. Precio: Gratuito\, sin inscripción previa. Sobre Wassim A
+ lsindi Wassim Alsindi es físico\, ensayista y performer. Opera en la inte
+ rsección de las intersecciones documentando las visiones\, los diseños y
+  las externalidades de las tecnologías contemporáneas. wassim.xyz\n\nhtt
+ ps://www.mataderomadrid.org/programacion/openlab-2026-el-golfo-que-nos-sep
+ ara-conferencia-de-wassim-alsindi
+LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 END:VCALENDAR

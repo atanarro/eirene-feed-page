@@ -2,46 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Delicias//ES
 BEGIN:VEVENT
-SUMMARY:Crazy Stop Motion
-DTSTART;TZID=Europe/Madrid:20261114T173000
-UID:d08cea9f62f85fd467396b9680f2701027a1a4450bc03733a4df2a686992973a
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Sábado 14 de noviembre a las 17:30h (Sala 1. MI
-  PRIMER FESTIVAL / FILMOTECA JR.) *Aunque las entradas aparezcan como agot
- adas en web\, pueden adquirirse en taquilla entradas para las sesiones del
-  día (de 17h a 20h)\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/prod
- uctos/descripcion/crazy-stop-motion-14-nov
-LOCATION:Filmoteca Espanola - Cine Dore - Calle de Santa Isabel\, 3\, Madr
- id
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nouvelle vague
-DTSTART;TZID=Europe/Madrid:20261114T190000
-UID:deb2db4475d5cd64180144f627552767cb30d8489c23a953139e0b19d10da484
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Sábado 14 de noviembre a las 19:00h (Sala 2. UN
- IVERSO GODARD) *Aunque las entradas aparezcan como agotadas en web\, puede
- n adquirirse en taquilla entradas para las sesiones del día (de 17h a 20h
- )\n\nRelease year: 2025\n\nOriginal language: FR\n\nhttps://entradasfilmot
- eca.sacatuentrada.es/es/productos/descripcion/nouvelle-vague-14-nov
-LOCATION:Filmoteca Espanola - Cine Dore - Calle de Santa Isabel\, 3\, Madr
- id
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dialogando con la vida
-DTSTART;TZID=Europe/Madrid:20261114T200000
-UID:2a437a6c849274f7981a1e1ea060153c05935f1aadd5b8d1ab87d4f86006b319
-CATEGORIES:cinema
-DESCRIPTION:Fecha y Hora: Sábado 14 de noviembre a las 20:00h (Sala 1. QU
- EERCINEMAD. CHRISTOPHE HONORÉ) *Aunque las entradas aparezcan como agotad
- as en web\, pueden adquirirse en taquilla entradas para las sesiones del d
- ía (de 17h a 20h)\n\nOriginal title: Le Lycéen\n\nRelease year: 2022\n\n
- Original language: FR\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/pro
- ductos/descripcion/dialogando-con-la-vida-14-nov
-LOCATION:Filmoteca Espanola - Cine Dore - Calle de Santa Isabel\, 3\, Madr
- id
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Los Goonies
 DTSTART;TZID=Europe/Madrid:20261115T173000
 UID:902efd1fa714843d5a619a20014cdf1e5c780cb283d63b044ec5ce83554b7b14
@@ -148,8 +108,8 @@ CATEGORIES:cinema
 DESCRIPTION:Fecha y Hora: Jueves 19 de noviembre a las 17:30h (Sala 1. ¡A
  L HOLLYWOOD PARISINO! MULTIVERSIONES EN LA II REPÚBLICA) *Aunque las entr
  adas aparezcan como agotadas en web\, pueden adquirirse en taquilla entrad
- as para las sesiones del día (de 17h a 20h)\n\nRelease year: 2008\n\nOrig
- inal language: PT\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/product
+ as para las sesiones del día (de 17h a 20h)\n\nRelease year: 1934\n\nOrig
+ inal language: ES\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/product
  os/descripcion/la-dolorosa-19-nov
 LOCATION:Filmoteca Espanola - Cine Dore - Calle de Santa Isabel\, 3\, Madr
  id
@@ -271,7 +231,7 @@ CATEGORIES:cinema
 DESCRIPTION:Fecha y Hora: Domingo 22 de noviembre a las 17:30h (Sala 1. TR
  ILOGÍA MARSELLESA) *Aunque las entradas aparezcan como agotadas en web\, 
  pueden adquirirse en taquilla entradas para las sesiones del día (de 17h 
- a 20h)\n\nRelease year: 2026\n\nOriginal language: DE\n\nhttps://entradasf
+ a 20h)\n\nRelease year: 1961\n\nOriginal language: EN\n\nhttps://entradasf
  ilmoteca.sacatuentrada.es/es/productos/descripcion/fanny-22-nov
 LOCATION:Filmoteca Espanola - Cine Dore - Calle de Santa Isabel\, 3\, Madr
  id
@@ -366,7 +326,7 @@ CATEGORIES:cinema
 DESCRIPTION:Fecha y Hora: Jueves 26 de noviembre a las 17:30h (Sala 1. TRI
  LOGÍA MARSELLESA) *Aunque las entradas aparezcan como agotadas en web\, p
  ueden adquirirse en taquilla entradas para las sesiones del día (de 17h a
-  20h)\n\nRelease year: 2026\n\nOriginal language: DE\n\nhttps://entradasfi
+  20h)\n\nRelease year: 1961\n\nOriginal language: EN\n\nhttps://entradasfi
  lmoteca.sacatuentrada.es/es/productos/descripcion/fanny-26-nov
 LOCATION:Filmoteca Espanola - Cine Dore - Calle de Santa Isabel\, 3\, Madr
  id
@@ -478,6 +438,32 @@ DESCRIPTION:Fecha y Hora: Sábado 28 de noviembre a las 20:30h (Sala 1. TR
  h)\n\nOriginal title: Pusher II\n\nRelease year: 2004\n\nOriginal language
  : DA\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/productos/descripcio
  n/pusher-ii-con-las-manos-ensangrentadas-28-nov
+LOCATION:Filmoteca Espanola - Cine Dore - Calle de Santa Isabel\, 3\, Madr
+ id
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Libertarias
+DTSTART;TZID=Europe/Madrid:20261129T173000
+UID:a9e6f7627435d1ea9c7133b8f0a0440a901d980495ae30483801bdc4d0dbbde9
+CATEGORIES:cinema
+DESCRIPTION:Fecha y Hora: Domingo 29 de noviembre a las 17:30h (Sala 1. GU
+ ERRA CIVIL. 90 AÑOS) *Aunque las entradas aparezcan como agotadas en web
+ \, pueden adquirirse en taquilla entradas para las sesiones del día (de 1
+ 7h a 20h)\n\nRelease year: 1996\n\nOriginal language: ES\n\nhttps://entrad
+ asfilmoteca.sacatuentrada.es/es/productos/descripcion/libertarias-29-nov
+LOCATION:Filmoteca Espanola - Cine Dore - Calle de Santa Isabel\, 3\, Madr
+ id
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pusher III: Soy el ángel de la muerte
+DTSTART;TZID=Europe/Madrid:20261129T203000
+UID:6d6770ae464237663d627b5230cd9c125b0d2eae8af559cd9281f78ba79eeae4
+CATEGORIES:cinema
+DESCRIPTION:Fecha y Hora: Domingo 29 de noviembre a las 20:30h (Sala 1. TR
+ ILOGÍA PUSHER) *Aunque las entradas aparezcan como agotadas en web\, pued
+ en adquirirse en taquilla entradas para las sesiones del día (de 17h a 20
+ h)\n\nhttps://entradasfilmoteca.sacatuentrada.es/es/productos/descripcion/
+ pusher-iii-soy-el-angel-de-la-muerte-29-nov
 LOCATION:Filmoteca Espanola - Cine Dore - Calle de Santa Isabel\, 3\, Madr
  id
 END:VEVENT
