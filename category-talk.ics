@@ -2,30 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Delicias//ES
 BEGIN:VEVENT
-SUMMARY:40 años de la agrupación del Aire Libre
-DTSTART;TZID=Europe/Madrid:20261116T190000
-DTEND;TZID=Europe/Madrid:20261116T190000
-UID:adc4f59aa7ffc3624549e8148fca947c8e758ce27ef968a85f53183ac6406565
-CATEGORIES:talk
-DESCRIPTION:Agrupación del Aire Libre. Presenta: Cristóbal Figueras. Int
- ervienen: María Velázquez\, Felicidad Patier. Salón Ciudad de Úbeda. 1
- 9:00.\n\nhttps://ateneodemadrid.com/evento/40-anos-de-la-agrupacion-aire-l
- ibre/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Estado de golpe. Una historia de guerra sucia
-DTSTART;TZID=Europe/Madrid:20261116T193000
-DTEND;TZID=Europe/Madrid:20261116T193000
-UID:30c73198bcc538121c63bddda91e73e1d6091d44aed98f83a2df19f85dd34324
-CATEGORIES:talk
-DESCRIPTION:Sección de Ciencias Sociales. Bienvenida: Ariadna Akal. Inter
- vienen: Ernesto Ekaizer – autor\, José Antonio Martín Pallín\, Jesús
-  Cintora\, Biblioteca. 19:30.\n\nhttps://ateneodemadrid.com/evento/estado
- -de-golpe-una-historia-de-guerra-sucia/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:De la revolución a la monarquía constitucional
 DTSTART;TZID=Europe/Madrid:20261117T190000
 DTEND;TZID=Europe/Madrid:20261117T190000
@@ -400,6 +376,18 @@ DESCRIPTION:Sección de Arquitectura. Intervienen: Gerardo Roger Fernánde
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ceuta: presente y futuro
+DTSTART;TZID=Europe/Madrid:20261119T193000
+DTEND;TZID=Europe/Madrid:20261119T193000
+UID:c1c381230f59b75f3c740698b4d5f73cb2ed5b447fb93e3fb0a126387dc49f49
+CATEGORIES:talk
+DESCRIPTION:Agrupación Justicia y Cultura\, Casa de Úbeda y Asociación
+  Justicia y Opinión. Presenta: Pilar Alhambra Pér.ez Intervienen Arantxa
+  Campos Gorriño\, Susana Burgos. Salón Ciudad de Úbeda. 19:30.\n\nhttps
+ ://ateneodemadrid.com/evento/ceuta-presente-y-futuro/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Presentación de «Cosamala» con Alana S.Portero
 DTSTART;TZID=Europe/Madrid:20261119T193000
 DTEND;TZID=Europe/Madrid:20261119T210000
@@ -580,6 +568,18 @@ DESCRIPTION:Ciclo Atención Primaria. \n \nSección de Ciencias de la Salu
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Suburbano. Maquis. La piedra blanca de la memoria
+DTSTART;TZID=Europe/Madrid:20261124T190000
+DTEND;TZID=Europe/Madrid:20261124T190000
+UID:09c9d09d88b692249b7bd04e2f11671ed05c8d52f037fefe66522294d1ebb27c
+CATEGORIES:talk
+DESCRIPTION:Presentación del disco libro. \n \nAgrupación Memoria y Dere
+ chos Humanos. Presenta: Rosa García Alcón. Interviene: Luis Mendo\, Juan
+  Miguel Nogués García. Sala Ramón y Cajal. 19:00.\n\nhttps://ateneodema
+ drid.com/evento/suburbano-maquis-la-piedra-blanca-de-la-memoria/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Presentación de «La constelación reaccionaria»
 DTSTART;TZID=Europe/Madrid:20261124T190000
 DTEND;TZID=Europe/Madrid:20261124T210000
@@ -628,18 +628,6 @@ DESCRIPTION:David Santos vuelve a la librería Desnivel para presentarnos
  de la tarde . ¡No puedes perdértelo!\n\nhttps://www.libreriadesnivel.com
  /agenda/preparacion-para-la-supervivencia-de-david-santos-taller/451/
 LOCATION:Libreria Desnivel - Plaza de Matute\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:"Una noche de 1947"
-DTSTART;TZID=Europe/Madrid:20261125T190000
-DTEND;TZID=Europe/Madrid:20261125T190000
-UID:643e93090e9fd98270038025ac560f26f547e825f647fb2982f0bbb299ba1629
-CATEGORIES:talk
-DESCRIPTION:Presentación del libro. \n \nSección de derechos civiles. Pr
- esenta: Paquita Sauquillo. Intervienen: Ángeles González Sinde -autor\, 
- Benjamín G. Rosado. Biblioteca. 19:00.\n\nhttps://ateneodemadrid.com/even
- to/una-noche-de-1947/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lectura "Kokoro" de Natsume Sōseki
@@ -702,82 +690,5 @@ DESCRIPTION:El libro «Safura. Cruzar fronteras\, romper silencios» recog
  y del encuentro entre dos mujeres de distintos orígenes.\n\nhttps://atene
  omaliciosa.net/event/presentacion-libro-safura/
 LOCATION:Ateneo La Maliciosa - Calle de las Peñuelas\, 12\, 28005 Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:OpenLAB 2026 | Excavando las redes: en busca de verdades entre rui
- nas digitales - Conferencia de Sophie Publig
-DTSTART;TZID=Europe/Madrid:20261128T190000
-UID:8a14a0b60f0cf987170888431e22e01d58738eef52be75d2422688736b0c9f5c
-CATEGORIES:talk
-DESCRIPTION:¿Cuántas cosas se han perdido en el instante en que nos lleg
- a esa captura de pantalla\, ese meme sin historia? A nuestro alrededor las
-  plataformas desaparecen\, los enlaces se pudren\, los contextos colapsan.
-  Aun así\, los fragmentos meméticos siguen circulando\, acumulándose y 
- activando nuevos significados allí donde resurgen. La arqueología de int
- ernet parte de estas ruinas digitales y tira del hilo rojo hacia atrás: r
- astrea artefactos a través de plataformas\, archivos\, rabbit holes y rin
- cones cada vez más recónditos de la red para desenterrar sus contextos y
-  sus significados sedimentados. En su investigación sobre memes\, semiót
- ica y “ocultismo digital” (con Mikkel Rørbo) Sophie Publig lee mutaci
- ones y repeticiones como pistas\, sin perder nunca de vista que hay una de
- lgada línea entre analizar críticamente ciertos patrones y caer en la so
- breconexión y la conspiración. Abriéndonos en vivo su historial de nave
- gación –entre slop y slopaganda\, estéticas políticas y mitologías e
- n línea– Sophie muestra que la arqueología de internet puede ser méto
- do de investigación y\, a la vez\, una forma práctica de alfabetización
-  mediática digital. Seguir un artefacto lo bastante lejos permite recuper
- ar contextos perdidos\, sacar a la luz genealogías ideológicas y complic
- ar relatos que a primera vista parecen evidentes. Ahora que las narrativas
-  políticas compiten a base de fragmentos descontextualizados y estéticas
-  virales\, averiguar de dónde viene algo es una manera de resistirse a la
-  polarización fácil y de tomarse en serio las historias enmarañadas con
-  las que se construye el sentido. ¿Qué verdades se vuelven visibles cuan
- do aprendemos a excavar? Esta actividad forma parte del festival OpenLAB L
- a mecánica de la verdad . Detalles Fecha: Sábado 28 de noviembre\, 19:00
- h Lugar: Nave Una Idioma principal: Inglés con traducción simultánea a 
- español Precio: Gratuito\, sin inscripción previa. Sobre Sophie Publig S
- ophie Publig es científica sénior\, docente y exploradora de ecosistemas
-  digitales en el Weibel Institute for Digital Cultures de la Universidad d
- e Artes Aplicadas de Viena. Su investigación transita entre la teoría de
-  los medios\, el posthumanismo crítico\, la estética y las culturas digi
- tales\, atenta a cómo las plataformas producen creencia\, subjetividades 
- en red e imaginarios políticos. Sus proyectos actuales abordan el ocultis
- mo digital\, la posidentidad de la Girl Online y el inconsciente digital. 
- Con Mikkel Rørbo ha coeditado Digital Occultism (Aksioma\, 2026). Sophie 
- también es mentora del LAB 5 y\, junto a Mikkel Rørbo\, ha dirigido el 
- taller Ocultismo Digital dentro del programa Estudio de Sistemas.\n\nhttps
- ://www.mataderomadrid.org/programacion/openlab-2026-excavando-las-redes-en
- -busca-de-verdades-entre-ruinas-digitales
-LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:OpenLAB 2026 | El golf(o) que nos separa – Conferencia de Wassim
-  Alsindi
-DTSTART;TZID=Europe/Madrid:20261128T193000
-UID:9d9690151be4a6ddf4ec32705128d367c6312e16b8ceac4d015b348b3fb5f651
-CATEGORIES:talk
-DESCRIPTION:Desde que el software pasó de ser una infraestructura anodina
-  a convertirse en un régimen omnipresente\, la computación ha dejado muy
-  atrás la fase de modelar la realidad: ahora rediseña activamente el esp
- acio físico para que responda a sus designios. Alsindi llama Golf Futuris
- m a esta externalización espacial y material de la lógica computacional 
- sobre nuestros entornos construidos. De las megaciudades en el desierto a 
- los proyectos de regeneración urbana postindustrial\, ecosistemas complej
- os y espacios cívicos se ven despojados de su interioridad y su heterogen
- eidad\, y reducidos a enclaves privatizados y recortados al milímetro. El
-  motor de renderizado se convierte en la herramienta definitiva de control
-  espacial e impone una suavidad sintética que trata la riqueza ecológica
-  y social como un inconveniente subóptimo. Al cortocircuitar el control d
- emocrático\, el Golf Futurism convierte el territorio en un lienzo para u
- na nueva forma de autoritarismo y ensancha el abismo entre el deseo humano
-  y la realidad tecnocrática. Detalles Fecha: Sábado 28 de noviembre\, 19
- :30h. Lugar: Nave Una. Idioma principal: Inglés con traducción simultán
- ea en español. Precio: Gratuito\, sin inscripción previa. Sobre Wassim A
- lsindi Wassim Alsindi es físico\, ensayista y performer. Opera en la inte
- rsección de las intersecciones documentando las visiones\, los diseños y
-  las externalidades de las tecnologías contemporáneas. wassim.xyz\n\nhtt
- ps://www.mataderomadrid.org/programacion/openlab-2026-el-golfo-que-nos-sep
- ara-conferencia-de-wassim-alsindi
-LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 END:VCALENDAR
