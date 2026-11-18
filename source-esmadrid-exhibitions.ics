@@ -330,19 +330,6 @@ LOCATION:Centro de Arte Dos de Mayo (CA2M) / Móstoles - de la Constituci
  ón \, 23\, (Móstoles)\, Móstoles\, 28931
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Arte plumario: naturaleza\, identidad y poder
-DTSTART;TZID=Europe/Madrid:20260716T000000
-DTEND;TZID=Europe/Madrid:20270117T000000
-UID:5aa0e5c6bf5416a6ac534ba5ba701f6d1786a202cd267a6233189af86254aee0
-CATEGORIES:exhibition
-DESCRIPTION:Exposición sobre la evolución del uso de las plumas en diver
- sas culturas (Museo Nacional de Ciencias Naturales. Hasta 17 ene).\n\nhttp
- s://www.mncn.csic.es/es/visita-el-mncn/exposiciones/arte-plumario-naturale
- za-identidad-y-poder
-LOCATION:Museo Nacional de Ciencias Naturales - de José Gutierrez Abascal
- \, 2\, Madrid\, 28006
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:25 años del Museo de San Isidro. Los Orígenes de Madrid
 DTSTART;TZID=Europe/Madrid:20260721T000000
 DTEND;TZID=Europe/Madrid:20270131T000000
@@ -392,6 +379,17 @@ CATEGORIES:exhibition
 DESCRIPTION:Una experiencia sensorial única en la que disfrutar de las ob
  ras del pintor a gran escala y en movimiento (Nomad Museo Inmersivo. Miér
  coles\, viernes y domingos).\n\nhttps://www.nomadmuseo.es/van-gogh/
+LOCATION:Nomad Museo Inmersivo - Gran Vía\, 78\, Madrid\, 28013
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El Greco\, Velázquez\, Goya: La Triada Inmortal
+DTSTART;TZID=Europe/Madrid:20260730T000000
+DTEND;TZID=Europe/Madrid:20261128T000000
+UID:a415492c16f59890bf3f5800936e51e3d395b9bea401a2884e0192bbfebf0b9c
+CATEGORIES:exhibition
+DESCRIPTION:Inmersión profunda en el alma de España a través de sus tre
+ s pintores más icónicos que redefinieron la trayectoria de la pintura o
+ ccidental (Nomad Museo Inmersivo.\n\nhttps://www.nomadmuseo.es/
 LOCATION:Nomad Museo Inmersivo - Gran Vía\, 78\, Madrid\, 28013
 END:VEVENT
 BEGIN:VEVENT
@@ -776,6 +774,20 @@ DESCRIPTION:Exposición sobre los hallazgos medievales del castillo de Mon
  ógico Nacional. Hasta 28 febrero).\n\nhttps://www.man.es/man/exposiciones
  /novedades-arqueologicas/20261006-vida-frontera-monreal-ariza.html
 LOCATION:Museo Arqueológico Nacional - de Serrano\, 13\, Madrid\, 28001
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colecciones Masaveu. Arte textil
+DTSTART;TZID=Europe/Madrid:20261007T000000
+DTEND;TZID=Europe/Madrid:20270718T000000
+UID:1cbb5853e174c4216457042e069ae65bf8fcbef125c391b350b251202092ac18
+CATEGORIES:exhibition
+DESCRIPTION:Selección de más de ochenta piezas textiles datadas entre el
+  siglo XV y la actualidad pertenecientes a las colecciones Masaveu (Fundac
+ ión María Cristina Masaveu Peterson. Hasta 18 jul).\n\nhttps://www.esmad
+ rid.com/agenda/colecciones-masaveu-arte-textil-fundacion-maria-cristina-ma
+ saveu-peterson
+LOCATION:Fundación María Cristina Masaveu Peterson - de Alcalá Galiano
+ \, 6\, Madrid\, 28071
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:En el corazón del 7 de octubre
@@ -1457,5 +1469,19 @@ DESCRIPTION:Experiencia inmersiva creada por el director mexicano en la se
  m/evento/carne-y-arena-alejandro-g-inarritu/
 LOCATION:Espacio Fundación Telefónica - de Fuencarral\, 3\, Madrid\, 280
  04
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:De duque a rey. El primer viaje de Carlos
+DTSTART;TZID=Europe/Madrid:20261203T000000
+DTEND;TZID=Europe/Madrid:20270328T000000
+UID:179e9e7808bdc841be782b396fa6d6aabc1664dfa9ab3ec9b37e836a04fa02fc
+CATEGORIES:exhibition
+DESCRIPTION:Exposición centrada en la llegada del príncipe a España en 
+ 1517 y su ascenso al trono\, con el buque Engelen que le transportó como 
+ uno de sus hilos conductores (Museo Naval. 3 dic - 28 mar).\n\nhttps://arm
+ ada.defensa.gob.es/ArmadaPortal/page/Portal/ArmadaEspannola/cienciaorgano/
+ prefLang-es/01cienciamuseo--02museo--06prensa-museo-naval--01noticias--202
+ 6--octubre--DeDuqueaRey-es?_selectedNodeID=6113087&_pageAction=selectItem
+LOCATION:Museo Naval - del Prado\, 3\, Madrid\, 28014
 END:VEVENT
 END:VCALENDAR
