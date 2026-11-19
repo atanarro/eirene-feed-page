@@ -147,19 +147,6 @@ DESCRIPTION:Exposición fotográfica que denuncia la discriminación de la
 LOCATION:Museo de América - de los Reyes Católicos\, 6\, Madrid\, 28040
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Antonio Ballester Moreno. El cielo y la tierra
-DTSTART;TZID=Europe/Madrid:20260411T000000
-DTEND;TZID=Europe/Madrid:20270110T000000
-UID:02353b370ee6faf489e09ac73e408b1bc03d53334600f35c8f59305ab290b902
-CATEGORIES:exhibition
-DESCRIPTION:La obra del artista madrileño dialoga con las colecciones del
-  centro de arte mostoleño\, invitando a pensar en la capacidad creativa q
- ue todos tenemos (Centro de Arte Dos de Mayo CA2M.\n\nhttps://ca2m.org/exp
- osiciones/antonio-ballester-moreno-el-cielo-y-la-tierra
-LOCATION:Centro de Arte Dos de Mayo (CA2M) / Móstoles - de la Constituci
- ón \, 23\, (Móstoles)\, Móstoles\, 28931
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Radical Rehab. Arquitectura y Patrimonio en España (1975–2025)
 DTSTART;TZID=Europe/Madrid:20260423T000000
 DTEND;TZID=Europe/Madrid:20270328T000000
@@ -328,6 +315,19 @@ DESCRIPTION:Ciclo expositivo que invita a reflexionar sobre el potencial d
  ecciones-del-museo-ca2m
 LOCATION:Centro de Arte Dos de Mayo (CA2M) / Móstoles - de la Constituci
  ón \, 23\, (Móstoles)\, Móstoles\, 28931
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arte plumario: naturaleza\, identidad y poder
+DTSTART;TZID=Europe/Madrid:20260716T000000
+DTEND;TZID=Europe/Madrid:20270117T000000
+UID:5aa0e5c6bf5416a6ac534ba5ba701f6d1786a202cd267a6233189af86254aee0
+CATEGORIES:exhibition
+DESCRIPTION:Exposición sobre la evolución del uso de las plumas en diver
+ sas culturas (Museo Nacional de Ciencias Naturales. Hasta 17 ene).\n\nhttp
+ s://www.mncn.csic.es/es/visita-el-mncn/exposiciones/arte-plumario-naturale
+ za-identidad-y-poder
+LOCATION:Museo Nacional de Ciencias Naturales - de José Gutierrez Abascal
+ \, 2\, Madrid\, 28006
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:25 años del Museo de San Isidro. Los Orígenes de Madrid
@@ -1385,46 +1385,6 @@ DESCRIPTION:Por primera vez en España\, se expone la reconstrucción de e
 LOCATION:Museo Reina Sofía - de Santa Isabel\, 52\, Madrid\, 28012
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:expo fotos «Desde el verano antártico»
-DTSTART;TZID=Europe/Madrid:20261118T183000
-DTEND;TZID=Europe/Madrid:20261118T203000
-UID:010b5dcdb3c397aa19697660b35961e0880f81e043740903df2bd7760abaa181
-CATEGORIES:exhibition
-DESCRIPTION:Durante el verano austral\, las islas de la Península Antárt
- ica comienzan a cambiar de color… A finales de octubre\, el hielo de las
-  zonas costeras empieza a retirarse y los paisajes\, hasta entonces domina
- dos por una inmensa escala de blancos y grises\, dejan espacio a nuevos ma
- tices. Aparecen los verdes de una vegetación que despierta\, los marrones
-  dela tierra que vuelve a quedar al descubierto y\, en algunas islas de or
- igen volcánico\, los negros y rojizos que irrumpen creando contrastes ine
- sperados. Es una transformación lenta y sutil. El frío seco del invierno
-  polar da paso al frío húmedo de un verano breve y peculiar. Cada año\,
-  el paisaje vuelve a recorrer este ciclo de transformación\, revelando du
- rante unos meses una Antártida diferente: más colorida\, más viva y\, a
- l mismo tiempo\, extraordinariamente vulnerable. Esta exposición reúne u
- na parte de lo que pude observar y fotografiar durante tres viajes a la An
- tártida\, realizados en el marco de expediciones científicas. No pretend
- e mostrar una Antártida extraordinaria o inaccesible\, sino acercarse a l
- o cotidiano: a los paisajes\, los detalles y las escenas que forman parte 
- del día a día cuando se tiene la oportunidad de trabajar allí. Son foto
- grafías tomadas a lo largo de tres meses de vivencias a más de 13.000 ki
- lómetros de distancia\, posibles gracias ala investigación científica y
-  a su financiación pública. Hoy\, aquellas imágenes regresan de algún 
- modo a ese mismo lugar de origen: a lo público. Se convierten en una expo
- sición con la intención de compartir una experiencia y acercar al espect
- ador\, aunque sea por unos instantes\, a uno de los lugares más remotos\,
-  fascinantes y frágiles de la Tierra. El autor\, Pablo Escribano\, es bi
- ólogo\, tiene un Máster en Biodiversidad y Biología de la Conservación
-  y es Doctor en Conservación de Recursos Naturales. Ha participado como i
- nvestigador en tres campañas antárticas y realizado dos estancias de inv
- estigación en Australia y Sudáfrica. Sus estudios se han enfocado en los
-  efectos del cambio climático sobre la biodiversidad nativa de zonas pola
- res\, lo que le ha permitido visitar lugares increíbles que ha podido fot
- ografiar.\n\nhttps://ateneomaliciosa.net/event/expo-fotos-desde-el-verano-
- antartico/
-LOCATION:Ateneo La Maliciosa - Calle de las Peñuelas\, 12\, 28005 Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PACO GRACO: No lo vas a ver
 DTSTART;TZID=Europe/Madrid:20261119T100000
 DTEND;TZID=Europe/Madrid:20270110T000000
@@ -1668,19 +1628,20 @@ DESCRIPTION:Venta de entradas (aquí). Socios\, código descuento en el Á
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Exposición de Manolo Garvayo. Gráfica del dolor y la resistencia
-  (1911-1983)
+SUMMARY:Manolo Garvayo. Crónica gráfica del dolor y la resistencia (1911
+ -1983)
 DTSTART;TZID=Europe/Madrid:20261124T110000
 DTEND;TZID=Europe/Madrid:20261124T110000
-UID:d79ed2d1f035ffd325e62a3ba6a2e0b70d46b5fff95e8e4d7e5509bcdbd7b6b3
+UID:7b78c6ed8149e6f5608171e1b787ef8de3effffe2421a691fb2c8dac201f65dd
 CATEGORIES:exhibition
-DESCRIPTION:Fechas por sala: Sala Laffon: Del 24 de noviembre al 6 de dici
- embre de 2026 Sala Anselma: Del 30 de noviembre al 6 de diciembre de 2026 
- Horario: De 11:00 a 14:00 h y de 17:00 a 21:00 h Organizan y colaboran: Fu
- ndación Pablo Iglesias\, Ateneo de Madrid\, Gobierno de España (Minister
- io de Política Territorial y Memoria Democrática) y el programa España 
- en Libertad (50 años).\n\nhttps://ateneodemadrid.com/evento/exposicion-de
- -manuel-garvayo-grafica-del-dolor-y-la-resistencia-1911-1983/
+DESCRIPTION:Exposición.  \n\n\n\n\n\n\n\n\n\nFechas por sala: Sala Laffo
+ n: Del 24 de noviembre al 6 de diciembre de 2026 Sala Anselma: Del 30 de n
+ oviembre al 6 de diciembre de 2026 Horario: De 11:00 a 14:00 h y de 17:00 
+ a 21:00 h Organizan y colaboran: Fundación Pablo Iglesias\, Ateneo de Mad
+ rid\, Gobierno de España (Ministerio de Política Territorial y Memoria D
+ emocrática) y el programa España en Libertad (50 años).\n\nhttps://aten
+ eodemadrid.com/evento/exposicion-de-manuel-garvayo-grafica-del-dolor-y-la-
+ resistencia-1911-1983/
 LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
