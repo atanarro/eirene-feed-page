@@ -1,5 +1,5 @@
 Eirene feed debug
-Total events: 2
+Total events: 3
 
 [1] Mercado de las Ranas
   id: 82ea4684c05e1dea1324a0818fc9b73b450a79f66893339bdadcbc1589a13fc1
@@ -22,3 +22,14 @@ Total events: 2
   coordinates: 40.48455, -3.609865
   url: https://mercadoproductores.es/mercado-valdebebas/
   description: Mercado de productores locales y artesanos en Valdebebas con productos frescos, gourmet y actividades para todos los publicos.
+
+[3] Mercado de las Ranas
+  id: 9dd82ad70655c263e596f93c1f2e3dd79b8d6554a9e3be1720b5b02214725fba
+  start: 2026-12-05T12:00:00+01:00
+  end: 2026-12-05T20:00:00+01:00
+  category: market
+  source: mercado_de_las_ranas
+  location: Barrio de las Letras - Calle de las Huertas, 2-47, Madrid
+  coordinates: 40.414413, -3.698524
+  url: https://barrioletras.com/mercado-de-las-ranas/
+  description: Mercado del Barrio de las Letras con puestos de artesanía, diseño, moda y gastronomía en la calle Huertas.
