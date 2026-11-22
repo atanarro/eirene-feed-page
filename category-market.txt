@@ -1,18 +1,7 @@
 Eirene feed debug
-Total events: 3
+Total events: 4
 
-[1] Mercado de las Ranas
-  id: 82ea4684c05e1dea1324a0818fc9b73b450a79f66893339bdadcbc1589a13fc1
-  start: 2026-11-21T12:00:00+01:00
-  end: 2026-11-21T20:00:00+01:00
-  category: market
-  source: mercado_de_las_ranas
-  location: Barrio de las Letras - Calle de las Huertas, 2-47, Madrid
-  coordinates: 40.414413, -3.698524
-  url: https://barrioletras.com/mercado-de-las-ranas/
-  description: Mercado del Barrio de las Letras con puestos de artesanía, diseño, moda y gastronomía en la calle Huertas.
-
-[2] Mercado Productores Valdebebas
+[1] Mercado Productores Valdebebas
   id: 4a8a5bd866ccbb3e819f903c1fd4e59df1b0a87f2de0e7b6191059e8c779049f
   start: 2026-11-22T10:00:00+01:00
   end: 2026-11-22T16:00:00+01:00
@@ -23,7 +12,7 @@ Total events: 3
   url: https://mercadoproductores.es/mercado-valdebebas/
   description: Mercado de productores locales y artesanos en Valdebebas con productos frescos, gourmet y actividades para todos los publicos.
 
-[3] Mercado de las Ranas
+[2] Mercado de las Ranas
   id: 9dd82ad70655c263e596f93c1f2e3dd79b8d6554a9e3be1720b5b02214725fba
   start: 2026-12-05T12:00:00+01:00
   end: 2026-12-05T20:00:00+01:00
@@ -33,3 +22,25 @@ Total events: 3
   coordinates: 40.414413, -3.698524
   url: https://barrioletras.com/mercado-de-las-ranas/
   description: Mercado del Barrio de las Letras con puestos de artesanía, diseño, moda y gastronomía en la calle Huertas.
+
+[3] Mercado Productores Planetario
+  id: f4042036db3dbe1d5c18d3e01fa657152dddda3a5781e43ae40ce6ce09b33494
+  start: 2026-12-06T10:00:00+01:00
+  end: 2026-12-06T16:00:00+01:00
+  category: market
+  source: mercado_productores
+  location: Mercado Productores Planetario - Avenida del Planetario esquina Calle Meneses, Madrid
+  coordinates: 40.392053, -3.679427
+  url: https://mercadoproductores.es/mp-planetario/
+  description: Mercado de productores locales y artesanos en Planetario con alimentacion sostenible, productos de cercania y actividades al aire libre.
+
+[4] Mercadillo de Minerales de la Escuela de Minas
+  id: f315b7426f59fa2fe2130f9134c018dd8adcdd5abfa6aeca3d6eda97ac054f7d
+  start: 2026-12-06T10:00:00+01:00
+  end: 2026-12-06T14:00:00+01:00
+  category: market
+  source: mercadillo_minerales
+  location: Escuela Superior de Ingenieros de Minas - Calle Rios Rosas, 21, Madrid
+  coordinates: 40.442576, -3.700177
+  url: https://www.esmadrid.com/agenda/mercadillo-minerales-madrid-escuela-superior-ingenieros-minas
+  description: Mercadillo de minerales, fosiles, gemas y conchas en la Escuela Superior de Ingenieros de Minas (primer domingo de cada mes, excepto agosto).

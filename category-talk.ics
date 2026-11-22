@@ -2,34 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Delicias//ES
 BEGIN:VEVENT
-SUMMARY:Death Café Madrid
-DTSTART;TZID=Europe/Madrid:20261121T110000
-DTEND;TZID=Europe/Madrid:20261121T140000
-UID:4dbd5bd82966e0ec492d1fa7b1203bc8fa3284ad48ad906c907a83a1f0b21a1b
-CATEGORIES:talk
-DESCRIPTION:«El death café es una reunión donde se puede hablar libreme
- nte desde un ángulo normalizador sobre la muerte y el morir. El objetivo 
- principal es romper el tabú que rodea a este tema y fomentar la concienci
- a sobre la finitud de la vida para vivir de manera más plena». Si estas 
- interesada en acudir ponte en contacto con nosotras para confirmar asisten
- cia 645103183\n\nhttps://ateneomaliciosa.net/event/death-cafe-madrid-nov26
- /
-LOCATION:Ateneo La Maliciosa - Calle de las Peñuelas\, 12\, 28005 Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clausura. Ciclo "Edificios emblemáticos en el Camino de Santiago"
-DTSTART;TZID=Europe/Madrid:20261121T173000
-DTEND;TZID=Europe/Madrid:20261121T173000
-UID:730e40128ef1e85059cb17e3ecafbf953024b56b8fa247cd7746ee556af6a437
-CATEGORIES:talk
-DESCRIPTION:Secciones de Farmacia\, Ciencias Históricas y Ciencias de la 
- Salud. Intervienen: Daniel Pacheco Fernández\, María Ángeles Calvo\, En
- rique Lillo\, Cecilio Venegas Fito. Presenta: Fina Alonso. Salón Ciudad d
- e Úbeda. 17:30.\n\nhttps://ateneodemadrid.com/evento/clausura-ciclo-edifi
- cios-emblematicos-en-el-camino-de-santiago/
-LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Fiesta de la lectura. Homenaje Almudena Grandes
 DTSTART;TZID=Europe/Madrid:20261122T120000
 DTEND;TZID=Europe/Madrid:20261122T120000
@@ -550,6 +522,19 @@ DESCRIPTION:https://laanonimalibreria.com/evento/212/club-de-lectura-kokor
 LOCATION:La Anonima Libreria - C/ Embajadores\, 166 - Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:"El corazón en llamas"
+DTSTART;TZID=Europe/Madrid:20261126T190000
+DTEND;TZID=Europe/Madrid:20261126T190000
+UID:79f92c7f3a1b154fa2453620119dcc5a6a3a63a8b6796226f4372d122e5cc4d8
+CATEGORIES:talk
+DESCRIPTION:Presentación del libro. \n \nSección de Literatura. Intervie
+ nen: Luis Ortega – Director-gerente de la Fundación María Zambrano\, L
+ eticia Ruifernández – ilustradora\, Mercedes Gómez Blesa – escritora
+ \, Diego Moreno – editor\, Coni Lechner – pianista. Sala Pérez Galdó
+ s. 19:00.\n\nhttps://ateneodemadrid.com/evento/el-corazon-en-llamas/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Mecenazgo cultural. (Im-)Posibles Posibles: Alternativas para la e
  conomía de la cultura
 DTSTART;TZID=Europe/Madrid:20261126T190000
@@ -796,6 +781,37 @@ DESCRIPTION:Desde que el software pasó de ser una infraestructura anodina
   las externalidades de las tecnologías contemporáneas. wassim.xyz\n\nhtt
  ps://www.mataderomadrid.org/programacion/openlab-2026-el-golfo-que-nos-sep
  ara-conferencia-de-wassim-alsindi
+LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Presentación de la publicación 'Los nombres del miedo. Miedo\, a
+ mor y revolución'
+DTSTART;TZID=Europe/Madrid:20261202T190000
+UID:39e46e01d219c30efeaa556cc8fe571bbdfe4a84842829c566f452930fe6c15f
+CATEGORIES:talk
+DESCRIPTION:En la introducción del libro -en formato digital- que present
+ amos\, escrita por Inés Plasencia Camps\, leemos: “Los cuerpos “sient
+ en” miedo\, pero no el mismo\, cuando se cruzan. No pueden deshacerse de
+  su historia\; desde ella es\, irremediablemente\, desde donde temen.” C
+ uatro años después de nuestros programas en torno al miedo y las prácti
+ cas artísticas\, Los nombres del miedo (2021) y Miedo\, amor y revolució
+ n (2022)\, que abordaban esta emoción como eje articulador de las relacio
+ nes sociales contemporáneas\, presentamos la publicación que recoge part
+ e de lo que sucedió entonces\, así como textos escritos especialmente pa
+ ra este libro\, que nace del afán de continuar la conversación. Guiados 
+ por la pertinencia de seguir hablando del miedo\, este se aborda aquí com
+ o algo que nos distingue pero que es capaz de generar una empatía revoluc
+ ionaria\, alejándose del aparente odio al que nos arrastran tantos discur
+ sos que lo instrumentalizan en la actualidad. En la presentación particip
+ arán algunas de las personas implicadas en la escritura y edición del li
+ bro. Inés Plasencia Camps es investigadora\, docente y escritora. Ahora m
+ ismo centrada en el duelo y en la investigación y escritura sobre el mied
+ o y los límites de lo real y la ficción para asimilar la muerte. Le inte
+ resan el comisariado de programas públicos por las posibilidades que ofre
+ cen de crear espacios temporales de intimidad y escribir en busca de un le
+ nguaje para comprender y recordar.\n\nhttps://www.mataderomadrid.org/progr
+ amacion/presentacion-de-la-publicacion-los-nombres-del-miedo-miedo-amor-y-
+ revolucion
 LOCATION:Matadero Madrid - Plaza de Legazpi\, 8\, Madrid
 END:VEVENT
 BEGIN:VEVENT
