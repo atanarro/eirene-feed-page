@@ -3,17 +3,6 @@ VERSION:2.0
 PRODID:-//Eirene Feed//Delicias//ES
 BEGIN:VEVENT
 SUMMARY:ESTUDIOS DE CINE Noviembre 2026 con Alejandro Mucientes
-DTSTART;TZID=Europe/Madrid:20261124T200000
-UID:1069383801d9980328a37f47efa5f498bebf753ffcb4b60ddefd494baa913cea
-CATEGORIES:workshop
-DESCRIPTION:Sala 2 | Entradas: https://www.giglon.com/todos?idEvent=estudi
- os-de-cine-noviembre-2026-con-alejandro-mucientes20261124\n\nhttps://artis
- ticmetropol.es/sesion/sala-2-estudios-de-cine-noviembre-2026-con-alejandro
- -mucientes-8/
-LOCATION:Artistic Metropol - Cigarreras\, 6\, Madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESTUDIOS DE CINE Noviembre 2026 con Alejandro Mucientes
 DTSTART;TZID=Europe/Madrid:20261126T110000
 UID:46c65f4dba5a976fd2bc3a429463d89dd0d0c8667310f59438b1e77380664b68
 CATEGORIES:workshop
@@ -82,5 +71,27 @@ DESCRIPTION:Espacio: El Estudio\n\nMEMORIA GRÁFICA: Taller de rotulación
  poránea.\n\nhttps://www.infinitodelicias.com/es/agenda/tlrn-ira-senatos
 LOCATION:Infinito Delicias - C. de Juana Dona\, 5\, Arganzuela\, 28045 Mad
  rid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESTUDIOS DE CINE Diciembre 2026 con Alejandro Mucientes
+DTSTART;TZID=Europe/Madrid:20261201T200000
+UID:f2db517a8fc2171f3cd858350724901140362df1b8bd4bf3b2d771e5b025adbb
+CATEGORIES:workshop
+DESCRIPTION:Sala 2 | Entradas: https://www.giglon.com/todos?idEvent=estudi
+ os-de-cine-diciembre-2026-con-alejandro-mucientes20261222\n\nhttps://artis
+ ticmetropol.es/sesion/sala-2-estudios-de-cine-diciembre-2026-con-alejandro
+ -mucientes/
+LOCATION:Artistic Metropol - Cigarreras\, 6\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESTUDIOS DE CINE Diciembre 2026 con Alejandro Mucientes
+DTSTART;TZID=Europe/Madrid:20261203T110000
+UID:5ef2c55a995f2272decee25eb3b468f3e6d7a1048c60c516729055611a58624e
+CATEGORIES:workshop
+DESCRIPTION:Sala 2 | Entradas: https://www.giglon.com/todos?idEvent=estudi
+ os-de-cine-diciembre-2026-con-alejandro-mucientes\n\nhttps://artisticmetro
+ pol.es/sesion/sala-2-estudios-de-cine-diciembre-2026-con-alejandro-mucient
+ es-2/
+LOCATION:Artistic Metropol - Cigarreras\, 6\, Madrid
 END:VEVENT
 END:VCALENDAR

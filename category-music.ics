@@ -2,54 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eirene Feed//Delicias//ES
 BEGIN:VEVENT
-SUMMARY:Coro Paisanaje
-DTSTART;TZID=Europe/Madrid:20261124T100000
-DTEND;TZID=Europe/Madrid:20261124T120000
-UID:d6eb34d50c4c3a65460b0f0fa4a04312e3fc34b6aaa8a646124a68b007238d37
-CATEGORIES:music
-DESCRIPTION:Espacio: El Estudio\n\nPara la nueva temporada de\n\nMano Vuel
- ta en Infinito Delicias\n\n\, queremos incorporar uno de los procesos que 
- surgieron de manera tan inesperada durante el curso pasado:\n\nel coro\n\n
- .\n\nA partir de las canciones de labor compuestas por Leo Can para acompa
- ñar las distintas faenas agrícolas de las salidas\, el canto se ha conve
- rtido en una forma de encuentro y unión entre quienes han ido formando pa
- rte de Mano Vuelta.\n\nEsta nueva temporada abrimos\n\nsesiones de coro qu
- incenales\n\n\, un espacio para seguir aprendiendo y cantando juntxs\, rec
- uperar la dimensión colectiva de las canciones de trabajo y explorar nuev
- as composiciones vinculadas al campo.\n\nEste es un coro amateur\, no hace
-  falta saber cantar ni cantar bien\; solo ganas de juntarse y dejarse llev
- ar.\n\nPaisanaje\n\nes un colectivo de exploración y acción que investig
- a formas de imaginar futuros más esperanzadores a través de prácticas v
- inculadas a la soberanía alimentaria\, las transiciones urbanas\, la recu
- peración de saberes tradicionales y la celebración de lo común. Su trab
- ajo se materializa en acciones cotidianas como paseos colectivos\, comidas
-  compartidas\, talleres o publicaciones entre otros\, entendiendo la cultu
- ra como una herramienta para transformar nuestra relación con el territor
- io y la comunidad.\n\nhttps://www.infinitodelicias.com/es/agenda/coro-pais
- anaje-veinticuatro-noviembre
-LOCATION:Infinito Delicias - C. de Juana Dona\, 5\, Arganzuela\, 28045 Mad
- rid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ernan Lopez-Nussa
-DTSTART;TZID=Europe/Madrid:20261124T203000
-UID:27576d07ab428ee9fe6053c287ef37c1a8de874979f037afca36235ac1869389
-CATEGORIES:music
-DESCRIPTION:Concierto / Villanos del Jazz. Asientos por Orden de Llegada E
- rnán López-Nussa es uno de los grandes pianistas y compositores del jazz
-  cubano contemporáneo. Su música une la riqueza rítmica de Cuba con el 
- jazz\, la improvisación y una extraordinaria libertad creativa. Fundador 
- de Afrocuba\, Cuarto Espacio y Cuban Quartet\, ha compuesto más de veinte
-  álbumes y colaborado con artistas como Arturo Sandoval\, Omara Portuondo
- \, Tata Güines\, Jon Cleary o Pablo Milanés. También ha compuesto para 
- ballet y cine y es editor del libro 20 Pianos. Tras recorrer los escenario
- s y festivales más relevantes\, llega a Villanos en formato trío\, acomp
- añado por Yelsy Heredia al contrabajo y Michael Olivera a la batería. Tr
- es músicos excepcionales y toda la energía del directo.\n\nhttps://salav
- illanos.es/evento/ernan-lopez-nussa/
-LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:JAZZMADRID 2026 - JAZZ CON SABOR A CLUB: DUANE EUBANKS QUARTET
 DTSTART;TZID=Europe/Madrid:20261125T200000
 DTEND;TZID=Europe/Madrid:20261126T200000
@@ -109,22 +61,16 @@ SUMMARY:Afterparty Hoss&Swet
 DTSTART;TZID=Europe/Madrid:20261125T234500
 UID:2808f848f3a3095cdbca1dfbe1a7e61e8e577666d3e2ff9c54ae846152ca6c65
 CATEGORIES:music
-DESCRIPTION:Club / Villanos del Jazz. La clase no se negocia en el imagina
- rio sonoro del tándem que forman el percusionista Hoss Benítez y DJ Swet
- \, auténticos maestros de la ciencia del hip hop instrumental y el jazz a
- bstracto al frente de su proyecto Hoss &amp\; Swet 1987. Ritmos mutantes\,
-  samples espectrales\, scratches adictivos… los ingredientes que manejan
-  el percusionista Hoss Benítez y DJ Swet desde Barcelona no son precisame
- nte nuevos\, pero sí resulta muy singular la forma en la que los optimiza
- n dentro de una escena como la estatal\, a la que habitualmente consideram
- os lejos de maestros foráneos indiscutibles como J Dilla\, Madlib o Chris
-  Dave. Otra de las particulares de esta alianza es el cariz orgánico de s
- u propuesta\, que redunda en una vivacidad poco común para proyectos a lo
- s que se supone de laboratorio. Ellos son como un fascinante work in progr
- ess de talante hip hop instrumental y jazz abstracto\, si es que ambas eti
- quetas les hacen justicia. Un ente en permanente evolución\, del que su d
- isco “1987” (2025) es el testimonio más concluyente.\n\nhttps://salav
- illanos.es/evento/afterparty-hossswet/
+DESCRIPTION:Club / Villanos del Jazz. Vanessa C es una DJ cuyo sonido fluy
+ e con naturalidad entre épocas y emociones\, mezclando Soul\, Funk\, Hip 
+ Hop\, R&B\, House y Neo Soul con un toque refinado y atemporal. Formada en
+  teoría musical y piano\, construye sus sets desde la musicalidad y el in
+ stinto\, marcados por una vida entre las pasarelas de moda y las cajas de 
+ vinilos. Productor gaditano afincado en Madrid\, Gese da O comenzó su tra
+ yectoria en 2013 explorando sonidos que van desde el boombap más clásico
+  hasta el future bass. La experimentación con diferentes géneros e influ
+ encias ha dado forma a una identidad sonora propia y difícil de encasilla
+ r.\n\nhttps://salavillanos.es/evento/afterparty-hossswet/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 BEGIN:VEVENT
@@ -267,6 +213,63 @@ DESCRIPTION:Precio de las entradas: 12€/15€ (+ g.g.) . Entradas a la v
 LOCATION:Gruta 77 - Calle del Cuclillo\, 6\, Madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:GASTÓN JOYA & DANCE PROJECT
+DTSTART;TZID=Europe/Madrid:20261127T220000
+DTEND;TZID=Europe/Madrid:20261127T220000
+UID:5ae526d5aca357cacdb73f76b71984401ca0756837c6c17115cdf6212f327f16
+CATEGORIES:music
+DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
+  el Área del Socio. Cátedra Mayor. Pase: 22:00h. \n \nArianna Cana – f
+ lauta\nRodrigo Ballesteros – batería\nMiguel “Wiwi” García – pia
+ no\nGastón Joya – contrabajo \nArtistas Invitados:\nGretel Cazón – v
+ oz\nAlexis Díaz Pimienta – poesía \nUn viaje musical entre la raíz cu
+ bana\, el jazz y la poesía. \nEl contrabajista\, compositor y productor c
+ ubano Gastón Joya presenta en directo la música de su próximo álbum\, 
+ DANCE\, un proyecto que celebra la riqueza de la herencia musical cubana d
+ esde una mirada contemporánea\, abierta al jazz y a la experimentación. 
+ \nConcebido como una gran suite musical\, DANCE enlaza ritmos\, melodías 
+ e influencias para explorar la relación entre tradición y creación\, co
+ nvirtiendo el baile en una expresión del espíritu y en un elogio a la al
+ egría de vivir. \nEn este concierto especial en el Ateneo de Madrid\, Gas
+ tón Joya compartirá esta nueva música junto a la flautista Arianna Mack
+  y los músicos Rodrigo Ballesteros (batería) y Miguel Wiwi García (pian
+ o)\, en una formación que abre espacio al diálogo\, la improvisación y 
+ la búsqueda sonora. \nLa propuesta contará además con la participación
+  de dos invitados especiales: el poeta e intelectual cubano Alexis Díaz-P
+ imienta y la actriz y cantante cubana Gretel Cazón\, cuyas intervenciones
+  ampliarán el universo expresivo del concierto\, tendiendo puentes entre 
+ música\, palabra y voz. \nUna oportunidad para descubrir en vivo el unive
+ rso creativo de Gastón Joya y acercarse a una obra en construcción\, don
+ de la tradición cubana se transforma en un lenguaje personal\, contempor
+ áneo y lleno de vida. El concierto será también registrado en vídeo co
+ mo parte del proceso creativo de este nuevo trabajo discográfico.\n\nhttp
+ s://ateneodemadrid.com/evento/gaston-joya-dance-project/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:"La Sombra de Medea"
+DTSTART;TZID=Europe/Madrid:20261128T120000
+DTEND;TZID=Europe/Madrid:20261128T120000
+UID:1a6e61518c3c391b67cec25435aa54ee3c08b1199ed8501529d393318eb88ace
+CATEGORIES:music
+DESCRIPTION:Venta de entradas (aquí). Socios\, código de descuento en el
+  Área del Socio. \n \n  \n«La sombra de Medea» ¿Qué es «La sombra d
+ e Medea»? \nLa respuesta no es fácil… Y no lo es porque será una cosa
+  u otra dependiendo desde el punto de vista desde el que yo mismo lo trate
+  de explicar… \nComo compositor este trabajo tiene una doble vertiente\,
+  por un lado pretende contar la historia de Medea\, de la Medea de Eurípi
+ des trasladando está historia a mí forma de entender el flamenco y a lo 
+ que yo mismo sentí al leer cada uno de los pasajes de la obra. \nPor otro
+  lado y desde un punto de vista más personal e íntimo este trabajo es en
+  parte una historia de recuerdos y momentos importantes de mi vida… \nGu
+ itarra y composición: Andrés Sánchez. \nVoz: Mamen Rincón\, Diego Mej
+ ías\, Casi Vioque\, Jeromo Segura. \nChelo y arreglos: Yonan Daniel \nVio
+ la: Patricia Medina de las Heras \nOboe: Itziar Garbiñe Azkona Mendive 
+ \nCajón: Paco Pons \nPalmas y baile: Iván Gallego \nCátedra Mayor. 12
+ :00.\n\nhttps://ateneodemadrid.com/evento/la-sombra-de-medea/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Concierto para niños y niñas a los que les gusta pintar y bailar
 DTSTART;TZID=Europe/Madrid:20261128T120000
 UID:88482d52a9025a41fd2d772d0fac8f2f2fcd0d8d98b3ca24a400aae6f9ef276b
@@ -302,6 +305,35 @@ DESCRIPTION:Concierto / Jazz / Latin / Pop. Tras presentar el proyecto en
  formación al servicio del baile y la diversión.\n\nhttps://salavillanos.
  es/evento/la-jorni/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:"Ciclo El Salón del Ateneo". Kebyart - ‘Punto di Fuga’
+DTSTART;TZID=Europe/Madrid:20261128T193000
+DTEND;TZID=Europe/Madrid:20261128T193000
+UID:2c87d92fd6bff757ee78eb9395a5f6da55834f87b2c0adb36186f37cc3f94109
+CATEGORIES:music
+DESCRIPTION:Venta de entradas: (aquí) | Socios: código en el Área de So
+ cios. \n\n\n\n\n\n\n\n\n\nNacido en Barcelona en 2014\, Kebyart es una de 
+ las agrupaciones más prometedoras de la escena musical actual. Estos cuat
+ ro talentosos músicos comparten una pasión infinita por la música de c
+ ámara y el deseo de llevar aire fresco a la forma de transmitir la músic
+ a clásica. Su empe​ño por transformar sus actuaciones en una experienc
+ ia singular resulta en una puesta en escena enérgica y dinámica\, elogia
+ da por el público y la crítica especializada. La firma inconfundible de 
+ Kebyart se refleja en una visión creativa sobre el repertorio construida 
+ a partir de tres ejes: la literatura original\, el compromiso con la nueva
+  creación y los arreglos propios sobre un amplio abanico de estilos. \nPR
+ OGRAMA\nJean-Philippe Rameau (1683-1764) Arr. Kebyart Suite en mi menor RC
+ T 2 de Pièces de clavecin avec une méthode I. Allemande II. Courante III
+ . Gigue en rondeau I-Gigue en rondeau II IV. Le Rappel des Oiseaux V. La V
+ illageoise. Rondeau VI. Rigaudon I – Rigaudon II et Double VII. Musette 
+ en rondeau. Tendrement VIII. Tambourin César Franck (1822-1890)\, Arr. Ke
+ byart Prélude\, Fugue et Variation\, Op. 18 *** Johann Sebastian Bach (16
+ 85-1750)\, Arr. Kebyart Preludio y fuga en do sostenido menor\, BWV 849 Fr
+ anz Schubert (1797-1828)\, Arr. Kebyart Fantasía en fa menor D. 940 Györ
+ gy Ligeti (1923-2006)\, Arr. Kebyart Seis Bagatelas\n\nhttps://ateneodemad
+ rid.com/evento/ciclo-el-salon-del-ateneo-kebyart-quartet-punto-di-fuga/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Paloma Morphy
@@ -347,6 +379,63 @@ DESCRIPTION:Club. Adéntrate en la madriguera\, en la mesa de mezclas te e
   importa es lo que pasa en la pista. Dresscode: come as you are.\n\nhttps:
  //salavillanos.es/evento/caspe-5/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BUBA
+DTSTART;TZID=Europe/Madrid:20261129T080000
+DTEND;TZID=Europe/Madrid:20261129T200000
+UID:1a6edfbd7a6cc3bb9ac6df2dfdb812064b4de26e07110b9b717a225a97aeaac6
+CATEGORIES:music
+DESCRIPTION:Información y entradas (aquí). Socios\, código descuento en
+  el Área del Socio. Calle Prado\, 21. Pases: 20:00h. y 22:00h. \n \nMigue
+ l Malla – saxo\nAndrés Chapapote – piano\nPablo Navarro – contrabaj
+ o\nGabriel Marijuan – batería \nBuba es una banda de Funk-Jazz formada 
+ por cuatro músicos de Madrid con amplia experiencia en ese campo. Pablo N
+ avarro: bajo (Mastretta\, Racalmuto\, Josele Santiago…)\, Miguel Malla: 
+ saxo alto (Los Ronaldos\, Mastretta\, Racalmuto…)\, Andrés Chapapote: 
+ órgano y piano (Mighty Vamp\, Watch Out \, Mr. Kilombo…) y Gabriel Mari
+ juan: batería (Coque Malla\, Racalmuto\, Josele Santiago…) se juntaron 
+ hace dos años para tocar en la sesión de baile del Teatro del Barrio de 
+ Madrid y surgió la chispa. Desde entonces han realizado numerosas actuaci
+ ones en las que el público siempre goza. En su repertorio confluyen clás
+ icos del Jazz con groove como The Sidewinder (Lee Morgan) o The Chicken (J
+ aco Pastorius)\, piezas de boogaloo como Play it back o No way\, temas cie
+ n por cien funk como Shake everything you got de Maceo Parker y temas de b
+ andas nuevas como Outro de Vulfpe.\n\nhttps://ateneodemadrid.com/evento/bu
+ ba/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heures exquises  - Correspondencias. Amor\, canto y simbolismo en 
+ los tiempos de Marcel Proust
+DTSTART;TZID=Europe/Madrid:20261129T120000
+DTEND;TZID=Europe/Madrid:20261129T120000
+UID:4c2cc156e95ae14064f787ac8b8aa3ad55bcd83aefeffedec9ffc3781e52f0e4
+CATEGORIES:music
+DESCRIPTION:Venta de entradas (aquí). Socios\, código descuento en el Á
+ rea del Socio. Ciclo «Matinales de Amalgama». Amor\, canto y simbolismo 
+ en los tiempos de Marcel Proust. Interpretes: Mattea Musso (mezzosoprano) 
+ y Karina Azizova (piano). La Caharería 12:00. \nEl año 2025 arrancó Mat
+ inales de Amalgama\, un nuevo ciclo de conciertos mensuales a mediodía\, 
+ en uno de los espacios más singulares del Ateneo de Madrid: La Cacharrer
+ ía. Pensada para todos los públicos\, esta propuesta ofrece una programa
+ ción cuidada\, accesible y atractiva\, ideal para disfrutar de la música
+  en un ambiente cercano e inspirador. \nEl próximo 29 de noviembre a las 
+ 12:00h tendrá lugar el concierto ‘Heures esquises – Correspondencias:
+  Amor\, canto y simbolismo en los tiempos de Marcel Proust’. Mattea Muss
+ o (mezzosoprano) y Karina Azizova (piano) presentan un programa de música
+  vocal de cámara dedicado a la mélodie francesa y su entorno artístico-
+ literario. \nLas artistas proponen un recorrido sincrético musical y lite
+ rario que nos sumerge tanto en la cotidianidad de los salones de la París
+  de la Belle Époque como en la ruptura conceptual y simbólica de los tex
+ tos líricos más representativos de la poesía órfica y simbolista de la
+  época. La música se alternará con lecturas de poemas simbolistas y de 
+ parte de la célebre correspondencia entre el escritor Marcel Proust y el 
+ compositor y cantante Reynaldo Hahn. \nLa entrada incluye una copa de vino
+  español. Asientos no numerados.\n\nhttps://ateneodemadrid.com/evento/heu
+ res-exquises-correspondencias-amor-canto-y-simbolismo-en-los-tiempos-de-ma
+ rcel-proust/
+LOCATION:Ateneo de Madrid - C. del Prado\, 21\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Concierto para niños y niñas a los que les gusta pintar y bailar
@@ -636,6 +725,30 @@ UID:6d404cd970727885a41c7c9c1af7982528425eda9be83de453e8eed7e074bbaf
 CATEGORIES:music
 DESCRIPTION:Concierto / Afro / World Music & Folk\n\nhttps://salavillanos.
  es/evento/festival-sonido-del-origen/
+LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Homenaje A Miguel Morales
+DTSTART;TZID=Europe/Madrid:20261209T203000
+UID:3f3fb7785b37ebfb4bacb8afc6ce2268fbbf6aa9557a7b2975cdf7d2bfa00428
+CATEGORIES:music
+DESCRIPTION:Concierto / Pop / Rock. «HOMENAJE A MIGUEL MORALES» COLABORA
+ DORES : FUNDACION SGAE En este homenaje y agradecimiento nos reunirá la m
+ úsica si\, pero también el recuerdo\, la emoción y el cariño hacia un 
+ amigo y hacia un artista que forma parte de la historia de nuestra música
+ : Miguel Morales. Su nombre está ligado a una época irrepetible\, a grup
+ os que marcaron a varias generaciones y a canciones que\, con el paso del 
+ tiempo\, siguen ocupando un lugar muy especial en cada uno de nosotros. Lo
+ s Brincos\, Juan y Junior\, Barrabás… nombres que evocan una época dor
+ ada\, una manera de entender la música y una historia llena de talento\, 
+ creatividad y pasión. Cada nota que suene será una forma de acercarnos a
+  él. Cada canción será un recuerdo compartido. Y cada aplauso\, nuestro
+  agradecimiento por tantos buenos momentos de música que nos ha regalado.
+  Miguel\, esta noche el escenario vuelve a ser tuyo. Miguel Morales estar
+ á “acompañado” por: Homenaje a Brincos (la banda que le ha acompaña
+ do en los últimos años) Lys Pardo Fernando Calderon Jeff Espinoza Ramon 
+ Arroyo Pau Alvarez Irene Miller Ezequiel Navas Metropop Ecléctica Juan Ze
+ lada\n\nhttps://salavillanos.es/evento/homenaje-a-miguel-morales/
 LOCATION:Sala Villanos - Calle de Bernardino Obregon\, 18\, Madrid
 END:VEVENT
 END:VCALENDAR
